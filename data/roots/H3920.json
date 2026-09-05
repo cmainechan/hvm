@@ -20,7 +20,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "לָכַדְתִּי",
+      "heb": "לָכַדְתִּי",
       "translit": "lakhadti",
       "ref": "2Sam.12.27",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּלְכֹּד",
+      "heb": "וַיִּלְכֹּד",
       "translit": "vayyilkod",
       "ref": "1Chr.11.5",
       "has_suffix": false,
@@ -49,16 +49,16 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיִּלְכְּדוּ",
+      "heb": "וַֽיִּלְכְּדֻהוּ",
       "translit": "vayyilkdu",
       "ref": "2Chr.22.9",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וַנִּלְכֹּד",
+      "heb": "וַנִּלְכֹּד",
       "translit": "vannilkod",
       "ref": "Deut.2.34",
       "has_suffix": false,
@@ -80,7 +80,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִלְכְּדוּ",
+      "heb": "יִלְכְּדוּ",
       "translit": "yilkdu",
       "ref": "2Chr.32.18",
       "has_suffix": false,
@@ -89,7 +89,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶלְכֹּד",
+      "heb": "אֶלְכֹּד",
       "translit": "elkod",
       "ref": "2Sam.12.28",
       "has_suffix": false,
@@ -107,7 +107,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּלְכְּדוֹ",
+      "heb": "תִּלְכְּדוֹ",
       "translit": "tilkdo",
       "ref": "Ps.35.8",
       "has_suffix": true,
@@ -185,7 +185,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "נִלְכְּדָה",
+      "heb": "נִלְכְּדָה",
       "translit": "nilkdah",
       "ref": "1Kgs.16.18",
       "has_suffix": false,
@@ -194,7 +194,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "נִלְכַּדְתְּ",
+      "heb": "נִלְכַּדְתְּ",
       "translit": "nilkadt",
       "ref": "Jer.50.24",
       "has_suffix": false,
@@ -203,7 +203,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "נִלְכַּד",
+      "heb": "נִלְכַּד",
       "translit": "nilkad",
       "ref": "Lam.4.20",
       "has_suffix": false,
@@ -212,7 +212,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "נִלְכַּדְתָּ",
+      "heb": "נִלְכַּדְתָּ",
       "translit": "nilkadta",
       "ref": "Prov.6.2",
       "has_suffix": false,
@@ -223,7 +223,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּלָּכֵד",
+      "heb": "וַיִּלָּכֵד",
       "translit": "vayyillakhed",
       "ref": "1Sam.10.20",
       "has_suffix": false,
@@ -232,7 +232,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּלָּכֵד",
+      "heb": "וַתִּלָּכֵד",
       "translit": "vattillakhed",
       "ref": "1Sam.10.21",
       "has_suffix": false,
@@ -241,7 +241,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּלָּכֵדוּ",
+      "heb": "וַיִּלָּכֵדוּ",
       "translit": "vayyillakhedu",
       "ref": "Jer.8.9",
       "has_suffix": false,
@@ -252,7 +252,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "הַנִּלְכָּד",
+      "heb": "הַנִּלְכָּד",
       "translit": "hannilkad",
       "ref": "Josh.7.15",
       "has_suffix": false,
@@ -263,7 +263,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִלָּכֵד",
+      "heb": "יִלָּכֶד",
       "translit": "yillakhed",
       "ref": "Eccl.7.26",
       "has_suffix": false,
@@ -272,7 +272,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִלָּכֵדוּ",
+      "heb": "יִלָּכֵדוּ",
       "translit": "yillakhedu",
       "ref": "Jer.6.11",
       "has_suffix": false,
@@ -281,7 +281,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תִּלָּכֵדִי",
+      "heb": "תִּלָּכֵדִי",
       "translit": "tillakhedi",
       "ref": "Jer.48.7",
       "has_suffix": false,
@@ -290,7 +290,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּלָּכֵד",
+      "heb": "תִּלָּכֵד",
       "translit": "tillakhed",
       "ref": "Jer.50.9",
       "has_suffix": false,
@@ -301,7 +301,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְנִלְכָּֽדוּ",
+      "heb": "וְנִלְכָּֽדוּ",
       "translit": "vnilkadu",
       "ref": "Isa.8.15",
       "has_suffix": false,
@@ -310,7 +310,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וְנִלְכְּדָה",
+      "heb": "וְנִלְכְּדָה",
       "translit": "vnilkdah",
       "ref": "Zech.14.2",
       "has_suffix": false,
@@ -326,7 +326,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִתְלַכָּֽדוּ",
+      "heb": "יִתְלַכָּֽדוּ",
       "translit": "yitlakkadu",
       "ref": "Job.38.30",
       "has_suffix": false,

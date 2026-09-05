@@ -20,10 +20,10 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "אָחֲזוּ",
+      "heb": "אֲחָזוּנִי",
       "translit": "achazu",
       "ref": "Isa.21.3",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -38,7 +38,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "אָחַזְתָּ",
+      "heb": "אָחַזְתָּ",
       "translit": "achazta",
       "ref": "Ps.73.23",
       "has_suffix": false,
@@ -47,7 +47,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֲחַזְתִּיו",
+      "heb": "אֲחַזְתִּיו",
       "translit": "achaztiv",
       "ref": "Song.3.4",
       "has_suffix": true,
@@ -58,7 +58,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיֶּאֱחֹז",
+      "heb": "וַיֶּאֱחֹז",
       "translit": "vayye'echoz",
       "ref": "1Kgs.6.10",
       "has_suffix": false,
@@ -67,7 +67,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָֽאֹחֵז",
+      "heb": "וָאֹחֲזָה",
       "translit": "va'ochez",
       "ref": "2Sam.4.10",
       "has_suffix": false,
@@ -76,7 +76,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתֹּחֶז",
+      "heb": "וַתֹּחֶז",
       "translit": "vattochez",
       "ref": "2Sam.20.9",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיֹּאחֲזוּ",
+      "heb": "וַיֹּאחֲזוּ",
       "translit": "vayyo'chazu",
       "ref": "Judg.1.6",
       "has_suffix": false,
@@ -154,7 +154,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תֶּאֱחֹז",
+      "heb": "תֶּאֱחֹז",
       "translit": "te'echoz",
       "ref": "Eccl.7.18",
       "has_suffix": false,
@@ -163,10 +163,10 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יֹאחֵז",
+      "heb": "יֹֽאחֲזֵמוֹ",
       "translit": "yo'chez",
       "ref": "Exod.15.15",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -175,7 +175,7 @@
       "heb": "יֹֽאחֵזוּן",
       "translit": "yo'chezun",
       "ref": "Isa.13.8",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      }
     ],
@@ -203,11 +203,11 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "אֶֽחֱזוּ",
+      "heb": "וֶאֱחֹזוּ",
       "translit": "echezu",
       "ref": "Neh.7.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2fs",
@@ -223,11 +223,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "אֲחֹז",
+      "heb": "לֶאֱחֹז",
       "translit": "achoz",
       "ref": "1Chr.13.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "cohortative": [
@@ -270,7 +270,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיֵּאָחֲזוּ",
+      "heb": "וַיֵּאָחֲזוּ",
       "translit": "vayye'achazu",
       "ref": "Gen.47.27",
       "has_suffix": false,
@@ -281,7 +281,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "שֶׁנֶּֽאֱחָזִים",
+      "heb": "שֶׁנֶּֽאֱחָזִים",
       "translit": "shenne'echazim",
       "ref": "Eccl.9.12",
       "has_suffix": false,

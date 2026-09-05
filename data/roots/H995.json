@@ -11,7 +11,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "בִּינֹתִי",
+      "heb": "בִּינֹתִי",
       "translit": "binoti",
       "ref": "Dan.9.2",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "בַּנְתָּה",
+      "heb": "בַּנְתָּה",
       "translit": "bantah",
       "ref": "Ps.139.2",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיָּבֶן",
+      "heb": "וַיָּבֶן",
       "translit": "vayyaven",
       "ref": "1Sam.3.8",
       "has_suffix": false,
@@ -52,13 +52,13 @@
       "heb": "וָאָבִינָה",
       "translit": "va'avinah",
       "ref": "Ezra.8.15",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתָּבֶן",
+      "heb": "וַתָּבֶן",
       "translit": "vattaven",
       "ref": "Job.13.1",
       "has_suffix": false,
@@ -67,7 +67,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיָּבִינוּ",
+      "heb": "וַיָּבִינוּ",
       "translit": "vayyavinu",
       "ref": "Neh.8.8",
       "has_suffix": false,
@@ -78,7 +78,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מִבָּנִים",
+      "heb": "מִבָּנִים",
       "translit": "mibbanim",
       "ref": "Jer.49.7",
       "has_suffix": false,
@@ -116,16 +116,16 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תָּבִינוּ",
+      "heb": "וְתָבִינוּ",
       "translit": "tavinu",
       "ref": "Isa.43.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תָּבִין",
+      "heb": "תָּבִין",
       "translit": "tavin",
       "ref": "Job.15.9",
       "has_suffix": false,
@@ -145,7 +145,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "בִּינוּ",
+      "heb": "בִּינוּ",
       "translit": "binu",
       "ref": "Deut.32.7",
       "has_suffix": false,
@@ -156,7 +156,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בִּין",
+      "heb": "בִּין",
       "translit": "bin",
       "ref": "Prov.23.1",
       "has_suffix": false,
@@ -167,11 +167,11 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אָבִינָה",
+      "heb": "וְאָבִינָה",
       "translit": "avinah",
       "ref": "Job.23.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "jussive": [
@@ -187,7 +187,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תָּבִינוּ",
+      "heb": "תָּבִינוּ",
       "translit": "tavinu",
       "ref": "Isa.6.9",
       "has_suffix": false,
@@ -196,7 +196,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תָּבִין",
+      "heb": "תָּבִין",
       "translit": "tavin",
       "ref": "Prov.23.1",
       "has_suffix": false,
@@ -223,20 +223,20 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "נָבוֹן",
+      "heb": "וְנָבוֹן",
       "translit": "navon",
       "ref": "1Kgs.3.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "נְבֹנִֽים",
+      "heb": "וּנְבֹנִים",
       "translit": "nvonim",
       "ref": "Deut.1.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "participle_passive": [
@@ -288,7 +288,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיָּבֶן",
+      "heb": "וַיָּבֶן",
       "translit": "vayyaven",
       "ref": "Dan.9.22",
       "has_suffix": false,
@@ -308,11 +308,11 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מְבִינִֽים",
+      "heb": "הַמְּבִינִים",
       "translit": "mvinim",
       "ref": "2Chr.35.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "yiqtol": [
@@ -337,7 +337,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְּבִינֵֽם",
+      "heb": "תְּבִינֵֽם",
       "translit": "tvinem",
       "ref": "Job.32.8",
       "has_suffix": true,
@@ -368,11 +368,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הָבִין",
+      "heb": "לְהָבִין",
       "translit": "havin",
       "ref": "1Kgs.3.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ]
    }

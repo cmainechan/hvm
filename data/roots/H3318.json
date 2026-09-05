@@ -76,7 +76,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיֵּצֵא",
+      "heb": "וַיֵּצֵא",
       "translit": "vayyetze",
       "ref": "1Chr.12.18",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיֵּצְאוּ",
+      "heb": "וַיֵּצְאוּ",
       "translit": "vayyetz'u",
       "ref": "1Chr.19.9",
       "has_suffix": false,
@@ -94,7 +94,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתֵּצֵא",
+      "heb": "וַתֵּצֵא",
       "translit": "vattetze",
       "ref": "1Kgs.10.29",
       "has_suffix": false,
@@ -103,7 +103,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "וַתֵּצֶאנָה",
+      "heb": "וַתֵּצֶאנָה",
       "translit": "vattetze'nah",
       "ref": "1Sam.18.6",
       "has_suffix": false,
@@ -123,11 +123,11 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "יֹצֵאת",
+      "heb": "וְהַיֹּצֵאת",
       "translit": "yotze't",
       "ref": "1Chr.27.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "ms",
@@ -150,7 +150,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "יֹצְאִים",
+      "heb": "יֹֽצְאִים",
       "translit": "yotz'im",
       "ref": "1Sam.14.11",
       "has_suffix": false,
@@ -161,7 +161,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תֵצֵא",
+      "heb": "תֵּצֵא",
       "translit": "tetze",
       "ref": "1Chr.14.15",
       "has_suffix": false,
@@ -215,7 +215,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תֵּצֵא",
+      "heb": "תֵּצֵא",
       "translit": "tetze",
       "ref": "2Kgs.19.31",
       "has_suffix": false,
@@ -224,7 +224,7 @@
      {
       "code": "2fp",
       "label": "2nd fem. pl.",
-      "heb": "תֵּצֶאנָה",
+      "heb": "תֵּצֶאנָה",
       "translit": "tetze'nah",
       "ref": "Amos.4.3",
       "has_suffix": false,
@@ -233,7 +233,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תֵּֽצְאִי",
+      "heb": "תֵּֽצְאִי",
       "translit": "tetz'i",
       "ref": "Jer.2.37",
       "has_suffix": false,
@@ -367,7 +367,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "יָצֹא",
+      "heb": "יָצוֹא",
       "translit": "yatzo",
       "ref": "2Kgs.5.11",
       "has_suffix": false,
@@ -378,11 +378,11 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נֵצֵא",
+      "heb": "וְנֵצֵא",
       "translit": "netze",
       "ref": "1Kgs.20.31",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "1cs",
@@ -398,7 +398,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יֵצֵא",
+      "heb": "יֵֽצֵא",
       "translit": "yetze",
       "ref": "1Sam.22.3",
       "has_suffix": false,
@@ -407,7 +407,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תֵּֽצְאוּ",
+      "heb": "תֵּֽצְאוּ",
       "translit": "tetz'u",
       "ref": "Jer.6.25",
       "has_suffix": false,
@@ -416,7 +416,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תֵּצֵא",
+      "heb": "תֵּצֵא",
       "translit": "tetze",
       "ref": "Prov.25.8",
       "has_suffix": false,
@@ -497,7 +497,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיֹּצֵא",
+      "heb": "וַיֹּצֵא",
       "translit": "vayyotze",
       "ref": "2Chr.16.2",
       "has_suffix": false,
@@ -506,10 +506,10 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָֽאוֹצִא",
+      "heb": "וָאֽוֹצִיאֵם",
       "translit": "va'otzi",
       "ref": "Ezek.20.10",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -524,7 +524,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתֹּצֵא",
+      "heb": "וַתֹּצֵא",
       "translit": "vattotze",
       "ref": "Jer.32.21",
       "has_suffix": false,
@@ -535,30 +535,30 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מוֹצִיא",
+      "heb": "הַמּוֹצִיא",
       "translit": "motzi",
       "ref": "1Chr.11.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מֽוֹצִאִים",
+      "heb": "וּמוֹצִיאִים",
       "translit": "motzi'im",
       "ref": "2Chr.9.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "yiqtol": [
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יֹצִֽאוּ",
+      "heb": "יוֹצִיאֽוּם",
       "translit": "yotzi'u",
       "ref": "1Chr.9.28",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -620,10 +620,10 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְהוֹצֵאתָ",
+      "heb": "וְהוֹצֵאתַנִי",
       "translit": "vhotze'ta",
       "ref": "2Chr.18.33",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -667,20 +667,20 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "הוֹצִיאוּ",
+      "heb": "וְהוֹצִיאֻהוּ",
       "translit": "hotzi'u",
       "ref": "1Kgs.21.10",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הוֹצֵא",
+      "heb": "וְהוֹצִיאֵנִי",
       "translit": "hotze",
       "ref": "1Kgs.22.34",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      },
      {
       "code": "2fs",
@@ -696,11 +696,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הוֹצִיא",
+      "heb": "בְּהוֹצִיאוֹ",
       "translit": "hotzi",
       "ref": "1Kgs.8.21",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      }
     ],
     "cohortative": [

@@ -31,11 +31,11 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "יָצַרְתִּי",
+      "heb": "וִֽיצַרְתִּיהָ",
       "translit": "yatzarti",
       "ref": "2Kgs.19.25",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      },
      {
       "code": "3ms",
@@ -49,10 +49,10 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "יָצַרְתָּ",
+      "heb": "יְצַרְתָּם",
       "translit": "yatzarta",
       "ref": "Ps.74.17",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -69,29 +69,29 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיָּצַר",
+      "heb": "וַיָּצַר",
       "translit": "vayyatzar",
       "ref": "Exod.32.4",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "veqatal": [
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וִיצַרְתִּיהָ",
+      "heb": "וִיצַרְתִּיהָ",
       "translit": "vitzartiha",
       "ref": "Isa.37.26",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "yiqtol": [
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִצְּרֵהוּ",
+      "heb": "יִצְּרֵהוּ",
       "translit": "yitztzrehu",
       "ref": "Isa.44.12",
       "has_suffix": true,
@@ -100,7 +100,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶצָּרְךָ",
+      "heb": "אֶצָּרְךָ",
       "translit": "etztzarkha",
       "ref": "Jer.1.5",
       "has_suffix": true,
@@ -148,7 +148,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "יֻצָּרוּ",
+      "heb": "יֻצָּרוּ",
       "translit": "yutztzaru",
       "ref": "Ps.139.16",
       "has_suffix": false,

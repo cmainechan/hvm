@@ -11,7 +11,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "נִחַמְתִּי",
+      "heb": "נִחַמְתִּי",
       "translit": "nichamti",
       "ref": "1Sam.15.11",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "נִחַם",
+      "heb": "נִחָם",
       "translit": "nicham",
       "ref": "1Sam.15.35",
       "has_suffix": false,
@@ -31,7 +31,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּנָּחֶם",
+      "heb": "וַיִּנָּחֶם",
       "translit": "vayyinnachem",
       "ref": "1Chr.21.15",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּנָּחֲמוּ",
+      "heb": "וַיִּנָּחֲמוּ",
       "translit": "vayyinnachamu",
       "ref": "Ezek.31.16",
       "has_suffix": false,
@@ -51,11 +51,11 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "נִחָם",
+      "heb": "וְנִחָם",
       "translit": "nicham",
       "ref": "Joel.2.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "participle_passive": [
@@ -73,7 +73,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִנָּחֵם",
+      "heb": "יִנָּחֵם",
       "translit": "yinnachem",
       "ref": "1Sam.15.29",
       "has_suffix": false,
@@ -82,7 +82,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶנָּחֵם",
+      "heb": "אֶנָּחֵם",
       "translit": "ennachem",
       "ref": "Ezek.24.14",
       "has_suffix": false,
@@ -93,7 +93,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְנִחַמְתֶּם",
+      "heb": "וְנִחַמְתֶּם",
       "translit": "vnichamtem",
       "ref": "Ezek.14.22",
       "has_suffix": false,
@@ -111,7 +111,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְנִֽחַמְתִּי",
+      "heb": "וְנִֽחַמְתִּי",
       "translit": "vnichamti",
       "ref": "Jer.18.8",
       "has_suffix": false,
@@ -122,7 +122,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְהִנָּחֵם",
+      "heb": "וְהִנָּחֵם",
       "translit": "vhinnachem",
       "ref": "Exod.32.12",
       "has_suffix": false,
@@ -133,11 +133,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הִנָּחֵֽם",
+      "heb": "לְהִנָּחֵֽם",
       "translit": "hinnachem",
       "ref": "1Sam.15.29",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ]
    }
@@ -158,11 +158,11 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "נִֽחַמְתָּנִי",
+      "heb": "וְנִחַמְתָּֽנִי",
       "translit": "nichamtani",
       "ref": "Ps.86.17",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "wayyiqtol": [
@@ -209,20 +209,20 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְנַחֵֽם",
+      "heb": "יְנַחֲמֵנוּ",
       "translit": "ynachem",
       "ref": "Gen.5.29",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְּֽנַחֲמֵֽנִי",
+      "heb": "וּֽתְנַחֲמֵֽנִי",
       "translit": "tnachameni",
       "ref": "Isa.12.1",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "1cs",
@@ -236,7 +236,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְּנַחֲמֶנּוּ",
+      "heb": "תְּנַחֲמֶנּוּ",
       "translit": "tnachamennu",
       "ref": "Isa.66.13",
       "has_suffix": true,
@@ -245,7 +245,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תְּנַחֲמוּנִי",
+      "heb": "תְּנַחֲמוּנִי",
       "translit": "tnachamuni",
       "ref": "Job.21.34",
       "has_suffix": true,
@@ -274,7 +274,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְנִחַמְתִּים",
+      "heb": "וְנִחַמְתִּים",
       "translit": "vnichamtim",
       "ref": "Jer.31.13",
       "has_suffix": true,
@@ -305,10 +305,10 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְנַחֵם",
+      "heb": "לְנַחֲמֽוֹ",
       "translit": "lnachem",
       "ref": "1Chr.7.22",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": true
      }
     ]
@@ -332,7 +332,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תְּנֻחָֽמוּ",
+      "heb": "תְּנֻחָֽמוּ",
       "translit": "tnuchamu",
       "ref": "Isa.66.13",
       "has_suffix": false,
@@ -381,7 +381,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהִנֶּחָמְתִּי",
+      "heb": "וְהִנֶּחָמְתִּי",
       "translit": "vhinnechamti",
       "ref": "Ezek.5.13",
       "has_suffix": false,

@@ -11,16 +11,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "אָבַד",
+      "heb": "וְאָבַד",
       "translit": "avad",
       "ref": "Eccl.5.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "אָבְדָה",
+      "heb": "אָבָדָה",
       "translit": "avdah",
       "ref": "Eccl.9.6",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אָבַדְתִּי",
+      "heb": "אָבַדְתִּי",
       "translit": "avadti",
       "ref": "Esth.4.16",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "אָבַדְתְּ",
+      "heb": "אָבַדְתְּ",
       "translit": "avadt",
       "ref": "Ezek.26.17",
       "has_suffix": false,
@@ -47,7 +47,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "אָבְדוּ",
+      "heb": "אָבָֽדוּ",
       "translit": "avdu",
       "ref": "Jer.48.36",
       "has_suffix": false,
@@ -65,7 +65,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "אָבַדְתָּ",
+      "heb": "אָבַדְתָּ",
       "translit": "avadta",
       "ref": "Num.21.29",
       "has_suffix": false,
@@ -76,7 +76,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "וַתֹּאבַדְנָה",
+      "heb": "וַתֹּאבַדְנָה",
       "translit": "vatto'vadnah",
       "ref": "1Sam.9.3",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיֹּאבְדוּ",
+      "heb": "וַיֹּאבְדוּ",
       "translit": "vayyo'vdu",
       "ref": "2Sam.1.27",
       "has_suffix": false,
@@ -96,11 +96,11 @@
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "אֹֽבְדוֹת",
+      "heb": "הָאֹבְדוֹת",
       "translit": "ovdot",
       "ref": "1Sam.9.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "ms",
@@ -134,7 +134,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תֹּאבֵדוּ",
+      "heb": "תֹּאבֵדוּן",
       "translit": "to'vedu",
       "ref": "Deut.4.26",
       "has_suffix": false,
@@ -143,7 +143,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תֹּאבַד",
+      "heb": "תֹּאבַד",
       "translit": "to'vad",
       "ref": "Deut.22.3",
       "has_suffix": false,
@@ -152,11 +152,11 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יֹאבֵדוּ",
+      "heb": "וְיֹאבְדוּ",
       "translit": "yo'vedu",
       "ref": "Isa.41.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3ms",
@@ -199,7 +199,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַאֲבַדְתֶּם",
+      "heb": "וַאֲבַדְתֶּם",
       "translit": "va'avadtem",
       "ref": "Deut.11.17",
       "has_suffix": false,
@@ -257,16 +257,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "אִבַּד",
+      "heb": "אִבְּדָם",
       "translit": "ibbad",
       "ref": "2Kgs.13.7",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אִבַּדְתִּי",
+      "heb": "אִבַּדְתִּי",
       "translit": "ibbadti",
       "ref": "Jer.15.7",
       "has_suffix": false,
@@ -275,7 +275,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "אִבַּדְתָּ",
+      "heb": "אִבַּדְתָּ",
       "translit": "ibbadta",
       "ref": "Ps.9.6",
       "has_suffix": false,
@@ -286,7 +286,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתְּאַבֵּד",
+      "heb": "וַתְּאַבֵּד",
       "translit": "vatt'abbed",
       "ref": "2Kgs.11.1",
       "has_suffix": false,
@@ -295,7 +295,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיְאַבְּדֽוּם",
+      "heb": "וַֽיְאַבְּדֽוּם",
       "translit": "vay'abbdum",
       "ref": "2Kgs.19.18",
       "has_suffix": true,
@@ -304,7 +304,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיְאַבְּדֵם",
+      "heb": "וַיְאַבְּדֵם",
       "translit": "vay'abbdem",
       "ref": "Deut.11.4",
       "has_suffix": true,
@@ -313,7 +313,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָֽאַבֶּדְךָ",
+      "heb": "וָֽאַבֶּדְךָ",
       "translit": "va'abbedkha",
       "ref": "Ezek.28.16",
       "has_suffix": true,
@@ -322,7 +322,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתְּאַבֵּד",
+      "heb": "וַתְּאַבֵּד",
       "translit": "vatt'abbed",
       "ref": "Isa.26.14",
       "has_suffix": false,
@@ -333,7 +333,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מְאַבְּדִים",
+      "heb": "מְאַבְּדִים",
       "translit": "m'abbdim",
       "ref": "Jer.23.1",
       "has_suffix": false,
@@ -344,7 +344,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תְּאַבֵּדוּ",
+      "heb": "תְּאַבְּדוּן",
       "translit": "t'abbedu",
       "ref": "Deut.12.2",
       "has_suffix": false,
@@ -353,16 +353,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְאַבֵּד",
+      "heb": "וִֽיאַבֵּד",
       "translit": "y'abbed",
       "ref": "Eccl.7.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְּאַבְּדֵֽם",
+      "heb": "תְּאַבְּדֵֽם",
       "translit": "t'abbdem",
       "ref": "Prov.1.32",
       "has_suffix": true,
@@ -371,7 +371,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְּאַבֵּד",
+      "heb": "תְּאַבֵּד",
       "translit": "t'abbed",
       "ref": "Ps.5.7",
       "has_suffix": false,
@@ -382,7 +382,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְאִבַּדְתֶּם",
+      "heb": "וְאִבַּדְתֶּם",
       "translit": "v'ibbadtem",
       "ref": "Deut.12.3",
       "has_suffix": false,
@@ -391,7 +391,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְאִבַּדְתִּי",
+      "heb": "וְאִבַּדְתִּי",
       "translit": "v'ibbadti",
       "ref": "Ezek.6.3",
       "has_suffix": false,
@@ -400,7 +400,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְאִבַּד",
+      "heb": "וְאִבַּד",
       "translit": "v'ibbad",
       "ref": "Jer.51.55",
       "has_suffix": false,
@@ -411,7 +411,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְאַבֵּד",
+      "heb": "לְאַבֵּד",
       "translit": "l'abbed",
       "ref": "Eccl.3.6",
       "has_suffix": false,
@@ -422,7 +422,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "אַבֵּד",
+      "heb": "אַבֵּד",
       "translit": "abbed",
       "ref": "Deut.12.2",
       "has_suffix": false,
@@ -438,7 +438,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הֶאֱבַֽדְתָּ",
+      "heb": "הֶאֱבַֽדְתָּ",
       "translit": "he'evadta",
       "ref": "Job.14.19",
       "has_suffix": false,
@@ -460,7 +460,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְהַאֲבַדְתָּ",
+      "heb": "וְהַאֲבַדְתָּ",
       "translit": "vha'avadta",
       "ref": "Deut.7.24",
       "has_suffix": false,
@@ -469,16 +469,16 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהַאֲבַדְתִּי",
+      "heb": "וְהַאֲבַדְתִּיךָ",
       "translit": "vha'avadti",
       "ref": "Ezek.25.7",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְהֶֽאֱבִיד",
+      "heb": "וְהֶֽאֱבִיד",
       "translit": "vhe'evid",
       "ref": "Num.24.19",
       "has_suffix": false,

@@ -20,7 +20,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "נָסְעוּ",
+      "heb": "נָֽסְעוּ",
       "translit": "nas'u",
       "ref": "Deut.10.6",
       "has_suffix": false,
@@ -31,7 +31,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּסְעוּ",
+      "heb": "וַיִּסְעוּ",
       "translit": "vayyis'u",
       "ref": "2Kgs.3.27",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּסַּע",
+      "heb": "וַיִּסַּע",
       "translit": "vayyissa",
       "ref": "2Kgs.19.36",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וַנִּסַּע",
+      "heb": "וַנִּסַּע",
       "translit": "vannissa",
       "ref": "Deut.1.19",
       "has_suffix": false,
@@ -80,7 +80,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִסָּֽעוּ",
+      "heb": "יִסְעוּ",
       "translit": "yissa'u",
       "ref": "Exod.40.36",
       "has_suffix": false,
@@ -89,7 +89,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִסַּע",
+      "heb": "יִסַּע",
       "translit": "yissa",
       "ref": "Isa.33.20",
       "has_suffix": false,
@@ -98,7 +98,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּסְעוּ",
+      "heb": "תִּסְעוּ",
       "translit": "tis'u",
       "ref": "Josh.3.3",
       "has_suffix": false,
@@ -129,21 +129,21 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "סְּעוּ",
+      "heb": "וּסְעוּ",
       "translit": "s'u",
       "ref": "Deut.1.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_construct": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בִּנְסֹעַ",
+      "heb": "בְּנָסְעָם",
       "translit": "binso'a",
       "ref": "Gen.11.2",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": true
      }
     ],
@@ -173,7 +173,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וְיִסָּֽעוּ",
+      "heb": "וְיִסָּֽעוּ",
       "translit": "vyissa'u",
       "ref": "Exod.14.15",
       "has_suffix": false,
@@ -189,7 +189,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "נִסַּע",
+      "heb": "נִסַּע",
       "translit": "nissa",
       "ref": "Isa.38.12",
       "has_suffix": false,
@@ -205,7 +205,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּסִּעוּ",
+      "heb": "וַיַּסִּעוּ",
       "translit": "vayyassi'u",
       "ref": "1Kgs.5.31",
       "has_suffix": false,
@@ -214,7 +214,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּסַּע",
+      "heb": "וַיַּסַּע",
       "translit": "vayyassa",
       "ref": "Exod.15.22",
       "has_suffix": false,
@@ -225,7 +225,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מַסִּיעַ",
+      "heb": "מַסִּיעַ",
       "translit": "massi'a",
       "ref": "Eccl.10.9",
       "has_suffix": false,
@@ -236,7 +236,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תַּסִּֽיעִי",
+      "heb": "תַּסִּֽיעִי",
       "translit": "tassi'i",
       "ref": "2Kgs.4.4",
       "has_suffix": false,
@@ -245,7 +245,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַסַּע",
+      "heb": "יַסַּע",
       "translit": "yassa",
       "ref": "Ps.78.26",
       "has_suffix": false,
@@ -254,7 +254,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּסִּיעַ",
+      "heb": "תַּסִּיעַ",
       "translit": "tassi'a",
       "ref": "Ps.80.9",
       "has_suffix": false,

@@ -11,27 +11,27 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְשָׁלְלוּ",
+      "heb": "וְשָׁלְלוּ",
       "translit": "vshallu",
       "ref": "Ezek.26.12",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְשָׁלַל",
+      "heb": "וְשָׁלַל",
       "translit": "vshalal",
       "ref": "Ezek.29.19",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "infinitive_construct": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לִשְׁלֹל",
+      "heb": "לִשְׁלֹל",
       "translit": "lishlol",
       "ref": "Ezek.38.12",
       "has_suffix": false,
@@ -42,7 +42,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "שַׁלּוֹתָ",
+      "heb": "שַׁלּוֹתָ",
       "translit": "shallota",
       "ref": "Hab.2.8",
       "has_suffix": false,
@@ -53,7 +53,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יְשָׁלּוּךָ",
+      "heb": "יְשָׁלּוּךָ",
       "translit": "yshallukha",
       "ref": "Hab.2.8",
       "has_suffix": true,
@@ -62,7 +62,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תָּשֹׁלּוּ",
+      "heb": "תָּשֹׁלּוּ",
       "translit": "tashollu",
       "ref": "Ruth.2.16",
       "has_suffix": false,
@@ -73,7 +73,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "שֹׁל",
+      "heb": "שֹׁל",
       "translit": "shol",
       "ref": "Ruth.2.16",
       "has_suffix": false,
@@ -84,7 +84,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הַשֹּׁלְלִים",
+      "heb": "הַשֹּׁלְלִים",
       "translit": "hashshollim",
       "ref": "Zech.2.12",
       "has_suffix": false,

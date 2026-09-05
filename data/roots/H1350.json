@@ -11,7 +11,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "גָּאַלְתָּ",
+      "heb": "גָּאָלְתָּ",
       "translit": "ga'alta",
       "ref": "Exod.15.13",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "גְאַלְתִּיךָ",
+      "heb": "גְאַלְתִּיךָ",
       "translit": "g'altikha",
       "ref": "Isa.43.1",
       "has_suffix": true,
@@ -29,7 +29,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "גָּאַל",
+      "heb": "גָאַל",
       "translit": "ga'al",
       "ref": "Isa.44.23",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּגְאָלֵם",
+      "heb": "וַיִּגְאָלֵם",
       "translit": "vayyig'alem",
       "ref": "Ps.106.10",
       "has_suffix": true,
@@ -51,18 +51,18 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "גֹּאֵל",
+      "heb": "הַגֹּאֵל",
       "translit": "go'el",
       "ref": "Gen.48.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "participle_passive": [
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "גְּאוּלִֽים",
+      "heb": "גְּאוּלִֽים",
       "translit": "g'ulim",
       "ref": "Isa.35.9",
       "has_suffix": false,
@@ -73,10 +73,10 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶגְאָֽל",
+      "heb": "אֶגְאָלֵם",
       "translit": "eg'al",
       "ref": "Hos.13.14",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -100,7 +100,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּגְאַל",
+      "heb": "תִּגְאַל",
       "translit": "tig'al",
       "ref": "Ruth.4.4",
       "has_suffix": false,
@@ -111,7 +111,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְגָאַלְתִּי",
+      "heb": "וְגָאַלְתִּי",
       "translit": "vga'alti",
       "ref": "Exod.6.6",
       "has_suffix": false,
@@ -131,10 +131,10 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "גְּאָל",
+      "heb": "גְאָלָהּ",
       "translit": "g'al",
       "ref": "Ps.69.19",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -142,10 +142,10 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לִגְאוֹל",
+      "heb": "לְגָֽאֳלֵךְ",
       "translit": "lig'ol",
       "ref": "Ruth.3.13",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": true
      }
     ],
@@ -153,7 +153,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "גָּאֹל",
+      "heb": "גָּאֹל",
       "translit": "ga'ol",
       "ref": "Lev.27.13",
       "has_suffix": false,
@@ -169,7 +169,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּגָּאֵֽלוּ",
+      "heb": "תִּגָּאֵֽלוּ",
       "translit": "tigga'elu",
       "ref": "Isa.52.3",
       "has_suffix": false,
@@ -178,7 +178,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִגָּאֵל",
+      "heb": "יִגָּאֵל",
       "translit": "yigga'el",
       "ref": "Lev.25.30",
       "has_suffix": false,

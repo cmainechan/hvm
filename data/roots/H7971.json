@@ -11,7 +11,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "שָׁלַח",
+      "heb": "שָׁלַח",
       "translit": "shalach",
       "ref": "1Chr.13.10",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "שָׁלַחְתָּ",
+      "heb": "שָׁלַחְתָּ",
       "translit": "shalachta",
       "ref": "1Kgs.5.22",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "שָׁלַחְתִּי",
+      "heb": "שָׁלַחְתִּֽי",
       "translit": "shalachti",
       "ref": "1Kgs.15.19",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "שָׁלְחָה",
+      "heb": "שָׁלְחָה",
       "translit": "shalchah",
       "ref": "1Kgs.21.11",
       "has_suffix": false,
@@ -47,16 +47,16 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "שְׁלַחְתֶּם",
+      "heb": "וּשְׁלַחְתֶּם",
       "translit": "shlachtem",
       "ref": "2Sam.15.36",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "שָׁלְחוּ",
+      "heb": "שָׁלְחוּ",
       "translit": "shalchu",
       "ref": "Esth.9.10",
       "has_suffix": false,
@@ -65,7 +65,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "שָׁלָֽחְנוּ",
+      "heb": "שָׁלָֽחְנוּ",
       "translit": "shalachnu",
       "ref": "Josh.6.17",
       "has_suffix": false,
@@ -76,7 +76,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּשְׁלַח",
+      "heb": "וַיִּשְׁלַח",
       "translit": "vayyishlach",
       "ref": "1Chr.13.9",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּשְׁלְחוּ",
+      "heb": "וַֽיִּשְׁלְחוּ",
       "translit": "vayyishlchu",
       "ref": "1Chr.19.16",
       "has_suffix": false,
@@ -94,7 +94,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּשְׁלַח",
+      "heb": "וַתִּשְׁלַח",
       "translit": "vattishlach",
       "ref": "1Kgs.19.2",
       "has_suffix": false,
@@ -103,7 +103,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתִּֽשְׁלַֽח",
+      "heb": "וַתִּֽשְׁלַֽח",
       "translit": "vattishlach",
       "ref": "2Chr.2.2",
       "has_suffix": false,
@@ -112,7 +112,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֶשְׁלַח",
+      "heb": "וָאֶשְׁלַח",
       "translit": "va'eshlach",
       "ref": "Deut.2.26",
       "has_suffix": false,
@@ -123,16 +123,16 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "שֹׁלֵחַ",
+      "heb": "הַשֹּׁלֵחַ",
       "translit": "sholecha",
       "ref": "2Chr.34.26",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "שֹׁלְחִים",
+      "heb": "שֹׁלְחִים",
       "translit": "sholchim",
       "ref": "Ezek.8.17",
       "has_suffix": false,
@@ -143,7 +143,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "שָׁלוּחַ",
+      "heb": "שָׁלוּחַ",
       "translit": "shalucha",
       "ref": "1Kgs.14.6",
       "has_suffix": false,
@@ -152,7 +152,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "שְׁלוּחָה",
+      "heb": "שְׁלוּחָה",
       "translit": "shluchah",
       "ref": "Ezek.2.9",
       "has_suffix": false,
@@ -163,7 +163,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּשְׁלַח",
+      "heb": "תִּשְׁלַח",
       "translit": "tishlach",
       "ref": "1Kgs.5.23",
       "has_suffix": false,
@@ -172,7 +172,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶשְׁלַח",
+      "heb": "אֶשְׁלַח",
       "translit": "eshlach",
       "ref": "1Kgs.20.6",
       "has_suffix": false,
@@ -181,16 +181,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִשְׁלַח",
+      "heb": "יִשְׁלָחֶנּוּ",
       "translit": "yishlach",
       "ref": "1Sam.18.5",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִשְׁלָֽחוּ",
+      "heb": "תִשְׁלָֽחוּ",
       "translit": "tishlachu",
       "ref": "2Kgs.2.16",
       "has_suffix": false,
@@ -199,7 +199,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תִשְׁלַחְנָה",
+      "heb": "תִשְׁלַחְנָה",
       "translit": "tishlachnah",
       "ref": "Ezek.23.40",
       "has_suffix": false,
@@ -208,7 +208,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִשְׁלְחוּ",
+      "heb": "יִשְׁלְחוּ",
       "translit": "yishlchu",
       "ref": "Ps.125.3",
       "has_suffix": false,
@@ -219,7 +219,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְשָׁלַח",
+      "heb": "וְשָׁלַח",
       "translit": "vshalach",
       "ref": "2Sam.15.5",
       "has_suffix": false,
@@ -228,7 +228,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְשָֽׁלְחוּ",
+      "heb": "וְשָֽׁלְחוּ",
       "translit": "vshalchu",
       "ref": "Deut.19.12",
       "has_suffix": false,
@@ -237,7 +237,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וְשָׁלְחָה",
+      "heb": "וְשָׁלְחָה",
       "translit": "vshalchah",
       "ref": "Deut.25.11",
       "has_suffix": false,
@@ -246,7 +246,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְשָׁלַחְתִּי",
+      "heb": "וְשָׁלַחְתִּי",
       "translit": "vshalachti",
       "ref": "Exod.3.20",
       "has_suffix": false,
@@ -257,7 +257,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "שְׁלַח",
+      "heb": "שְׁלַח",
       "translit": "shlach",
       "ref": "1Kgs.18.19",
       "has_suffix": false,
@@ -266,7 +266,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "שִׁלְחוּ",
+      "heb": "שְׁלָחוּ",
       "translit": "shilchu",
       "ref": "2Kgs.2.17",
       "has_suffix": false,
@@ -277,29 +277,29 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "שְׁלֹחַ",
+      "heb": "לִשְׁלֹחַ",
       "translit": "shlocha",
       "ref": "1Sam.22.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "שָׁלֹחַ",
+      "heb": "וְשָׁלוֹחַ",
       "translit": "shalocha",
       "ref": "2Chr.36.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "cohortative": [
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נִשְׁלְחָה",
+      "heb": "נִשְׁלְחָה",
       "translit": "nishlchah",
       "ref": "1Chr.13.2",
       "has_suffix": false,
@@ -308,7 +308,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְאֶשְׁלְחָה",
+      "heb": "וְאֶשְׁלְחָה",
       "translit": "v'eshlchah",
       "ref": "2Kgs.5.5",
       "has_suffix": false,
@@ -319,7 +319,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִשְׁלַח",
+      "heb": "יִשְׁלַח",
       "translit": "yishlach",
       "ref": "2Chr.2.14",
       "has_suffix": false,
@@ -328,7 +328,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּשְׁלַח",
+      "heb": "תִּשְׁלַח",
       "translit": "tishlach",
       "ref": "Gen.22.12",
       "has_suffix": false,
@@ -337,7 +337,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּשְׁלְחוּ",
+      "heb": "תִּשְׁלְחוּ",
       "translit": "tishlchu",
       "ref": "Gen.37.22",
       "has_suffix": false,
@@ -346,7 +346,7 @@
      {
       "code": "2fp",
       "label": "2nd fem. pl.",
-      "heb": "תִּשְׁלַחְנָה",
+      "heb": "תִּשְׁלַחְנָה",
       "translit": "tishlachnah",
       "ref": "Obad.1.13",
       "has_suffix": false,
@@ -362,7 +362,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "וְנִשְׁלוֹחַ",
+      "heb": "וְנִשְׁלוֹחַ",
       "translit": "vnishlocha",
       "ref": "Esth.3.13",
       "has_suffix": false,
@@ -378,16 +378,16 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "שִׁלְּחוּ",
+      "heb": "שִׁלְּחֻהוּ",
       "translit": "shillchu",
       "ref": "1Chr.12.20",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "שִׁלַּח",
+      "heb": "שִׁלַּח",
       "translit": "shillach",
       "ref": "1Kgs.8.66",
       "has_suffix": false,
@@ -396,7 +396,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "שִׁלַּחְתָּ",
+      "heb": "שִׁלַּחְתָּ",
       "translit": "shillachta",
       "ref": "1Kgs.20.42",
       "has_suffix": false,
@@ -405,7 +405,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "שִׁלַּחְתִּי",
+      "heb": "שִׁלַּחְתִּי",
       "translit": "shillachti",
       "ref": "Amos.4.10",
       "has_suffix": false,
@@ -414,7 +414,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "שִׁלַּחְנוּ",
+      "heb": "שִׁלַּחְנוּ",
       "translit": "shillachnu",
       "ref": "Exod.14.5",
       "has_suffix": false,
@@ -423,7 +423,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "שִׁלְחָה",
+      "heb": "שִׁלְחָה",
       "translit": "shilchah",
       "ref": "Ezek.17.7",
       "has_suffix": false,
@@ -432,7 +432,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "שִׁלַּחְתֶּם",
+      "heb": "שִׁלַּחְתֶּם",
       "translit": "shillachtem",
       "ref": "Jer.34.16",
       "has_suffix": false,
@@ -443,7 +443,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיְשַׁלְּחוּ",
+      "heb": "וַיְשַׁלְּחוּ",
       "translit": "vayshallchu",
       "ref": "1Chr.10.9",
       "has_suffix": false,
@@ -452,16 +452,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיְשַׁלַּח",
+      "heb": "וַֽיְשַׁלְּחֵֽם",
       "translit": "vayshallach",
       "ref": "1Chr.19.4",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וַתְּשַׁלְּחִי",
+      "heb": "וַתְּשַׁלְּחִי",
       "translit": "vattshallchi",
       "ref": "1Sam.19.17",
       "has_suffix": false,
@@ -470,7 +470,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתְּשַׁלַּח",
+      "heb": "וַתְּשַׁלַּח",
       "translit": "vattshallach",
       "ref": "Ezek.17.6",
       "has_suffix": false,
@@ -479,7 +479,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַתְּשַׁלְּחוּנִי",
+      "heb": "וַתְּשַׁלְּחוּנִי",
       "translit": "vattshallchuni",
       "ref": "Gen.26.27",
       "has_suffix": true,
@@ -488,7 +488,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וַנְּשַׁלֵּֽחֲךָ",
+      "heb": "וַנְּשַׁלֵּֽחֲךָ",
       "translit": "vannshallechakha",
       "ref": "Gen.26.29",
       "has_suffix": true,
@@ -497,7 +497,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַֽתְּשַׁלְּחֵֽהוּ",
+      "heb": "וַֽתְּשַׁלְּחֵֽהוּ",
       "translit": "vattshallchehu",
       "ref": "Job.14.20",
       "has_suffix": true,
@@ -506,7 +506,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָֽאֲשַׁלְּחֶהָ",
+      "heb": "וָֽאֲשַׁלְּחֶהָ",
       "translit": "va'ashallcheha",
       "ref": "Judg.20.6",
       "has_suffix": true,
@@ -517,7 +517,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מְשַׁלְּחִים",
+      "heb": "מְשַׁלְּחִים",
       "translit": "mshallchim",
       "ref": "1Sam.6.3",
       "has_suffix": false,
@@ -526,7 +526,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מְשַׁלֵּחַ",
+      "heb": "מְשַׁלֵּחַ",
       "translit": "mshallecha",
       "ref": "Exod.8.17",
       "has_suffix": false,
@@ -537,7 +537,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֲשַׁלַּח",
+      "heb": "אֲשַׁלַּח",
       "translit": "ashallach",
       "ref": "1Kgs.9.7",
       "has_suffix": false,
@@ -546,16 +546,16 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְּשַׁלַּח",
+      "heb": "תְּשַׁלְּחֵֽנִי",
       "translit": "tshallach",
       "ref": "1Kgs.11.22",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נְשַׁלְּחֶנּוּ",
+      "heb": "נְשַׁלְּחֶנּוּ",
       "translit": "nshallchennu",
       "ref": "1Sam.6.2",
       "has_suffix": true,
@@ -564,7 +564,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְשַׁלַּח",
+      "heb": "יְשַׁלַּח",
       "translit": "yshallach",
       "ref": "Deut.7.20",
       "has_suffix": false,
@@ -573,7 +573,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יְשַׁלֵּחוּ",
+      "heb": "יְשַׁלֵּחוּ",
       "translit": "yshallechu",
       "ref": "Ezek.44.20",
       "has_suffix": false,
@@ -582,7 +582,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תְּֽשַׁלְּחוּ",
+      "heb": "תְּֽשַׁלְּחוּ",
       "translit": "tshallchu",
       "ref": "Jer.34.14",
       "has_suffix": false,
@@ -591,7 +591,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תְּשַׁלַּֽחְנָה",
+      "heb": "תְּשַׁלַּֽחְנָה",
       "translit": "tshallachnah",
       "ref": "Job.39.3",
       "has_suffix": false,
@@ -600,7 +600,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְּשַׁלַּח",
+      "heb": "תְּשַׁלַּח",
       "translit": "tshallach",
       "ref": "Ps.80.12",
       "has_suffix": false,
@@ -611,7 +611,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְשִׁלַּחְתֶּם",
+      "heb": "וְשִׁלַּחְתֶּם",
       "translit": "vshillachtem",
       "ref": "1Sam.6.8",
       "has_suffix": false,
@@ -620,16 +620,16 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְשִׁלַּחְתִּי",
+      "heb": "וְשִׁלַּחְתִּיךָ",
       "translit": "vshillachti",
       "ref": "1Sam.9.19",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְשִׁלַּחְתַּנִי",
+      "heb": "וְשִׁלַּחְתַּנִי",
       "translit": "vshillachtani",
       "ref": "1Sam.20.5",
       "has_suffix": true,
@@ -638,10 +638,10 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְשִׁלַּח",
+      "heb": "וְשִׁלְּחוֹ",
       "translit": "vshillach",
       "ref": "1Sam.24.20",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -649,16 +649,16 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "שַׁלַּח",
+      "heb": "שַׁלְּחֵנִי",
       "translit": "shallach",
       "ref": "1Kgs.11.21",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "שַׁלְּחוּ",
+      "heb": "שַׁלְּחוּ",
       "translit": "shallchu",
       "ref": "1Sam.5.11",
       "has_suffix": false,
@@ -667,7 +667,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "שַׁלְּחִנִי",
+      "heb": "שַׁלְּחִנִי",
       "translit": "shallchini",
       "ref": "1Sam.19.17",
       "has_suffix": true,
@@ -678,10 +678,10 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "שַׁלַּח",
+      "heb": "שִׁלְחוֹ",
       "translit": "shallach",
       "ref": "1Chr.8.8",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -689,7 +689,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "שַׁלֵּחַ",
+      "heb": "שַׁלֵּחַ",
       "translit": "shallecha",
       "ref": "1Kgs.11.22",
       "has_suffix": false,
@@ -700,7 +700,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וַאֲשַׁלְּחָה",
+      "heb": "וַאֲשַׁלְּחָה",
       "translit": "va'ashallchah",
       "ref": "Exod.8.4",
       "has_suffix": false,
@@ -711,7 +711,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תְּשַׁלְּחוּ",
+      "heb": "תְּשַׁלְּחוּ",
       "translit": "tshallchu",
       "ref": "1Sam.6.3",
       "has_suffix": false,
@@ -727,7 +727,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "שֻׁלַּחְתִּי",
+      "heb": "שֻׁלַּחְתִּי",
       "translit": "shullachti",
       "ref": "Dan.10.11",
       "has_suffix": false,
@@ -736,7 +736,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "שֻׁלְּחוּ",
+      "heb": "שֻׁלְּחוּ",
       "translit": "shullchu",
       "ref": "Gen.44.3",
       "has_suffix": false,
@@ -745,7 +745,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "שֻׁלְּחָה",
+      "heb": "שֻׁלְּחָה",
       "translit": "shullchah",
       "ref": "Isa.50.1",
       "has_suffix": false,
@@ -754,7 +754,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "שֻׁלַּח",
+      "heb": "שֻׁלַּח",
       "translit": "shullach",
       "ref": "Job.18.8",
       "has_suffix": false,
@@ -765,7 +765,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מְשֻׁלָּח",
+      "heb": "מְשֻׁלָּח",
       "translit": "mshullach",
       "ref": "Isa.16.2",
       "has_suffix": false,
@@ -776,7 +776,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְשֻׁלַּח",
+      "heb": "יְשֻׁלַּח",
       "translit": "yshullach",
       "ref": "Prov.17.11",
       "has_suffix": false,
@@ -792,7 +792,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מַשְׁלִיחַ",
+      "heb": "מַשְׁלִיחַ",
       "translit": "mashlicha",
       "ref": "Exod.8.17",
       "has_suffix": false,
@@ -803,7 +803,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהִשְׁלַחְתִּי",
+      "heb": "וְהִשְׁלַחְתִּי",
       "translit": "vhishlachti",
       "ref": "Amos.8.11",
       "has_suffix": false,
@@ -814,7 +814,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְהַשְׁלִיחַ",
+      "heb": "לְהַשְׁלִיחַ",
       "translit": "lhashlicha",
       "ref": "2Kgs.15.37",
       "has_suffix": false,

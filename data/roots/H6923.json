@@ -11,7 +11,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְקַדְּמֶנָּה",
+      "heb": "יְקַדְּמֶנָּה",
       "translit": "yeqaddemennah",
       "ref": "2Kgs.19.32",
       "has_suffix": true,
@@ -20,7 +20,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יְֽקַדְּמוּ",
+      "heb": "יְֽקַדְּמוּ",
       "translit": "yeqaddemu",
       "ref": "Ps.89.15",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֲקַדֵּם",
+      "heb": "אֲקַדֵּם",
       "translit": "aqaddem",
       "ref": "Mic.6.6",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְקַדְּמֶנּוּ",
+      "heb": "תְקַדְּמֶנּוּ",
       "translit": "teqaddemennu",
       "ref": "Ps.21.4",
       "has_suffix": true,
@@ -47,7 +47,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְקַדְּמֶֽךָּ",
+      "heb": "תְקַדְּמֶֽךָּ",
       "translit": "teqaddemekha",
       "ref": "Ps.88.14",
       "has_suffix": true,
@@ -58,7 +58,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "קִדְּמוּ",
+      "heb": "קִדְּמוּ",
       "translit": "qiddemu",
       "ref": "Deut.23.5",
       "has_suffix": false,
@@ -67,7 +67,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "קִדַּמְתִּי",
+      "heb": "קִדַּמְתִּי",
       "translit": "qiddamti",
       "ref": "Jonah.4.2",
       "has_suffix": false,
@@ -78,10 +78,10 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "קַדְּמָה",
+      "heb": "קַדְּמָה",
       "translit": "qaddemah",
       "ref": "Ps.17.13",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      }
     ],
@@ -89,7 +89,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נְקַדְּמָה",
+      "heb": "נְקַדְּמָה",
       "translit": "neqaddemah",
       "ref": "Ps.95.2",
       "has_suffix": false,
@@ -105,7 +105,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וְתַקְדִּים",
+      "heb": "וְתַקְדִּים",
       "translit": "vetaqdim",
       "ref": "Amos.9.10",
       "has_suffix": false,
@@ -116,7 +116,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הִקְדִּימַנִי",
+      "heb": "הִקְדִּימַנִי",
       "translit": "hiqdimani",
       "ref": "Job.41.3",
       "has_suffix": true,

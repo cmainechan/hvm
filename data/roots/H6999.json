@@ -11,7 +11,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "קִטְּרוּ",
+      "heb": "קִטְּרוּ",
       "translit": "qittru",
       "ref": "2Kgs.23.8",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "קִטַּרְתֶּם",
+      "heb": "קִטַּרְתֶּם",
       "translit": "qittartem",
       "ref": "Jer.44.21",
       "has_suffix": false,
@@ -31,7 +31,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיְקַטֵּר",
+      "heb": "וַיְקַטֵּר",
       "translit": "vayqatter",
       "ref": "2Chr.28.4",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיְקַטְּרוּ",
+      "heb": "וַֽיְקַטְּרוּ",
       "translit": "vayqattru",
       "ref": "2Chr.34.25",
       "has_suffix": false,
@@ -51,16 +51,16 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מְקַטְּרִים",
+      "heb": "וּֽמְקַטְּרִים",
       "translit": "mqattrim",
       "ref": "1Kgs.22.44",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "מְקַטְּרוֹת",
+      "heb": "מְקַטְּרוֹת",
       "translit": "mqattrot",
       "ref": "Jer.44.15",
       "has_suffix": false,
@@ -71,7 +71,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְקַטֵּֽר",
+      "heb": "יְקַטֵּֽר",
       "translit": "yqatter",
       "ref": "2Chr.25.14",
       "has_suffix": false,
@@ -80,7 +80,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יְקַטֵּרוּ",
+      "heb": "יְקַטֵּרוּ",
       "translit": "yqatteru",
       "ref": "Hos.4.13",
       "has_suffix": false,
@@ -91,18 +91,18 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "קַטֵּר",
+      "heb": "לְקַטֵּר",
       "translit": "qatter",
       "ref": "2Chr.28.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "קַטֵּר",
+      "heb": "קַטֵּר",
       "translit": "qatter",
       "ref": "1Sam.2.16",
       "has_suffix": false,
@@ -138,7 +138,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּקְטֵר",
+      "heb": "וַיַּקְטֵר",
       "translit": "vayyaqter",
       "ref": "2Kgs.16.13",
       "has_suffix": false,
@@ -158,7 +158,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "וּמַקְטִיר",
+      "heb": "וּמַקְטִֽיר",
       "translit": "umaqtir",
       "ref": "1Kgs.3.3",
       "has_suffix": false,
@@ -181,13 +181,13 @@
       "heb": "יַקְטִרוּן",
       "translit": "yaqtirun",
       "ref": "1Sam.2.15",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַּקְטִֽירוּ",
+      "heb": "תַּקְטִֽירוּ",
       "translit": "taqtiru",
       "ref": "2Chr.32.12",
       "has_suffix": false,
@@ -196,16 +196,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַקְטִיר",
+      "heb": "יַקְטִירֶֽנָּה",
       "translit": "yaqtir",
       "ref": "Exod.30.7",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תַּקְטִיר",
+      "heb": "תַּקְטִיר",
       "translit": "taqtir",
       "ref": "Hos.2.15",
       "has_suffix": false,
@@ -214,7 +214,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּקְטִיר",
+      "heb": "תַּקְטִיר",
       "translit": "taqtir",
       "ref": "Num.18.17",
       "has_suffix": false,
@@ -225,7 +225,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְהִקְטַרְתָּ",
+      "heb": "וְהִקְטַרְתָּ",
       "translit": "vhiqtarta",
       "ref": "Exod.29.13",
       "has_suffix": false,
@@ -290,7 +290,7 @@
       "heb": "יַקְטִירוּן",
       "translit": "yaqtirun",
       "ref": "1Sam.2.16",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      }
     ]
@@ -314,7 +314,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תָּקְטָֽר",
+      "heb": "תָּקְטָֽר",
       "translit": "taqtar",
       "ref": "Lev.6.15",
       "has_suffix": false,

@@ -20,7 +20,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "רַצְתִּי",
+      "heb": "רַצְתִּי",
       "translit": "ratzti",
       "ref": "2Kgs.5.20",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "רַצְתָּה",
+      "heb": "רַצְתָּה",
       "translit": "ratztah",
       "ref": "Jer.12.5",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיָּרָץ",
+      "heb": "וַיָּרָץ",
       "translit": "vayyaratz",
       "ref": "1Kgs.18.46",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיָּרֻצוּ",
+      "heb": "וַיָּרֻצוּ",
       "translit": "vayyarutzu",
       "ref": "1Sam.10.23",
       "has_suffix": false,
@@ -67,7 +67,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתָּרָץ",
+      "heb": "וַתָּרָץ",
       "translit": "vattaratz",
       "ref": "Gen.24.20",
       "has_suffix": false,
@@ -98,20 +98,20 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אָרוּץ",
+      "heb": "וְאָרוּצָה",
       "translit": "arutz",
       "ref": "2Kgs.4.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יָרוּצוּ",
+      "heb": "הַיְרֻצוּן",
       "translit": "yarutzu",
       "ref": "Amos.6.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3ms",
@@ -125,7 +125,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תָּרוּץ",
+      "heb": "תָּרוּץ",
       "translit": "tarutz",
       "ref": "Prov.4.12",
       "has_suffix": false,
@@ -178,7 +178,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נָּרוּצָה",
+      "heb": "נָּרוּצָה",
       "translit": "narutzah",
       "ref": "Song.1.4",
       "has_suffix": false,
@@ -194,7 +194,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיָּרִיצוּ",
+      "heb": "וַיָּרִיצוּ",
       "translit": "vayyaritzu",
       "ref": "2Chr.35.13",
       "has_suffix": false,
@@ -214,7 +214,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תָּרִיץ",
+      "heb": "תָּרִיץ",
       "translit": "taritz",
       "ref": "Ps.68.32",
       "has_suffix": false,

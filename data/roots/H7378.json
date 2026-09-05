@@ -40,7 +40,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיָּרֶב",
+      "heb": "וַיָּרֶב",
       "translit": "vayyarev",
       "ref": "Exod.17.2",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיָּרִיבוּ",
+      "heb": "וַיָּרִיבוּ",
       "translit": "vayyarivu",
       "ref": "Gen.26.20",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאָרִיב",
+      "heb": "וָאָרִיבָה",
       "translit": "va'ariv",
       "ref": "Neh.5.7",
       "has_suffix": false,
@@ -80,7 +80,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְּרִיבֵהוּ",
+      "heb": "תְּרִיבֵהוּ",
       "translit": "trivehu",
       "ref": "Deut.33.8",
       "has_suffix": true,
@@ -89,7 +89,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תָרִיבוּ",
+      "heb": "תְּרִיבוּן",
       "translit": "tarivu",
       "ref": "Exod.17.2",
       "has_suffix": false,
@@ -101,7 +101,7 @@
       "heb": "יְרִיבֻן",
       "translit": "yrivun",
       "ref": "Exod.21.18",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      },
      {
@@ -147,7 +147,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לָרִיב",
+      "heb": "לָרִב",
       "translit": "lariv",
       "ref": "Amos.7.4",
       "has_suffix": false,
@@ -169,16 +169,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יָרֶב",
+      "heb": "וְיָרֵב",
       "translit": "yarev",
       "ref": "1Sam.24.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תָּרִיב",
+      "heb": "תָּרִיב",
       "translit": "tariv",
       "ref": "Prov.3.30",
       "has_suffix": false,
@@ -194,7 +194,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בְּרִבָם",
+      "heb": "בְּרִבָם",
       "translit": "brivam",
       "ref": "Job.31.13",
       "has_suffix": true,
@@ -210,7 +210,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיָּרֶב",
+      "heb": "וַיָּרֶב",
       "translit": "vayyarev",
       "ref": "1Sam.15.5",
       "has_suffix": false,

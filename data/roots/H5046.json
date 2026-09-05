@@ -11,7 +11,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הִגִּיד",
+      "heb": "הִגִּיד",
       "translit": "higgid",
       "ref": "1Kgs.10.3",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הִגַּדְתָּ",
+      "heb": "הִגַּדְתָּ",
       "translit": "higgadta",
       "ref": "1Sam.24.19",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "הִגִּידָה",
+      "heb": "הִגִּֽידָה",
       "translit": "higgidah",
       "ref": "1Sam.25.19",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "הִגִּידוּ",
+      "heb": "הִגִּידוּ",
       "translit": "higgidu",
       "ref": "2Sam.19.9",
       "has_suffix": false,
@@ -47,7 +47,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הִגַּדְתִּי",
+      "heb": "הִגַּדְתִּי",
       "translit": "higgadti",
       "ref": "Deut.26.3",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאַגִּד",
+      "heb": "וָאַגִּד",
       "translit": "va'aggid",
       "ref": "1Chr.17.10",
       "has_suffix": false,
@@ -67,7 +67,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּגִּדוּ",
+      "heb": "וַיַּגִּידוּ",
       "translit": "vayyaggidu",
       "ref": "1Chr.19.5",
       "has_suffix": false,
@@ -76,7 +76,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּגֵּד",
+      "heb": "וַיַּגֶּד",
       "translit": "vayyagged",
       "ref": "1Kgs.10.3",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתַּגֵּד",
+      "heb": "וַתַּגֵּד",
       "translit": "vattagged",
       "ref": "1Sam.19.11",
       "has_suffix": false,
@@ -94,7 +94,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וַנַגֶּד",
+      "heb": "וַנַגֶּד",
       "translit": "vanagged",
       "ref": "Gen.43.7",
       "has_suffix": false,
@@ -105,16 +105,16 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מַגִּיד",
+      "heb": "הַמַּגִּיד",
       "translit": "maggid",
       "ref": "2Sam.1.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "מַגֶּדֶת",
+      "heb": "מַגֶּדֶת",
       "translit": "maggedet",
       "ref": "Esth.2.20",
       "has_suffix": false,
@@ -125,7 +125,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַגִּיד",
+      "heb": "יַגִּיד",
       "translit": "yaggid",
       "ref": "1Kgs.14.3",
       "has_suffix": false,
@@ -134,7 +134,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אַגִּיד",
+      "heb": "אַגִּיד",
       "translit": "aggid",
       "ref": "1Sam.9.19",
       "has_suffix": false,
@@ -143,16 +143,16 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יַגִּידֽוּ",
+      "heb": "וְיַגִּידוּ",
       "translit": "yaggidu",
       "ref": "1Sam.25.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַּגִּידוּ",
+      "heb": "תַּגִּידוּ",
       "translit": "taggidu",
       "ref": "2Kgs.6.11",
       "has_suffix": false,
@@ -161,7 +161,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַגִּיד",
+      "heb": "תַּגִּיד",
       "translit": "taggid",
       "ref": "2Sam.13.4",
       "has_suffix": false,
@@ -170,7 +170,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תַגִּֽיד",
+      "heb": "תַגִּֽיד",
       "translit": "taggid",
       "ref": "Esth.2.10",
       "has_suffix": false,
@@ -179,16 +179,16 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נַגִּיד",
+      "heb": "וְנַגִּידֶנּוּ",
       "translit": "naggid",
       "ref": "Jer.20.10",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      },
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תַּגִּידִי",
+      "heb": "תַּגִּידִי",
       "translit": "taggidi",
       "ref": "Josh.2.20",
       "has_suffix": false,
@@ -199,7 +199,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהִגַּדְתִּי",
+      "heb": "וְהִגַּדְתִּי",
       "translit": "vhiggadti",
       "ref": "1Sam.3.13",
       "has_suffix": false,
@@ -208,7 +208,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְהִגַּדְתָּ",
+      "heb": "וְהִגַּדְתָּ",
       "translit": "vhiggadta",
       "ref": "1Sam.8.9",
       "has_suffix": false,
@@ -217,7 +217,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְהִגִּיד",
+      "heb": "וְהִגִּיד",
       "translit": "vhiggid",
       "ref": "1Sam.9.8",
       "has_suffix": false,
@@ -226,7 +226,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וְהִגִּידָה",
+      "heb": "וְהִגִּידָה",
       "translit": "vhiggidah",
       "ref": "2Sam.17.17",
       "has_suffix": false,
@@ -235,7 +235,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְהִגִּידוּ",
+      "heb": "וְהִגִּידוּ",
       "translit": "vhiggidu",
       "ref": "2Sam.17.17",
       "has_suffix": false,
@@ -244,7 +244,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְהִגַּדְתֶּם",
+      "heb": "וְהִגַּדְתֶּם",
       "translit": "vhiggadtem",
       "ref": "Gen.45.13",
       "has_suffix": false,
@@ -255,7 +255,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הַגֶּד",
+      "heb": "הַגִּֽידָה",
       "translit": "hagged",
       "ref": "1Sam.9.18",
       "has_suffix": false,
@@ -264,7 +264,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "הַגִּידִי",
+      "heb": "הַגִּידִי",
       "translit": "haggidi",
       "ref": "2Kgs.4.2",
       "has_suffix": false,
@@ -273,18 +273,18 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "הַגִּידוּ",
+      "heb": "וְהַגִּידוּ",
       "translit": "haggidu",
       "ref": "2Sam.17.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_construct": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְהַגִּיד",
+      "heb": "לְהַגִּיד",
       "translit": "lhaggid",
       "ref": "1Kgs.1.20",
       "has_suffix": false,
@@ -295,7 +295,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הַגֵּד",
+      "heb": "הַגֵּד",
       "translit": "hagged",
       "ref": "1Sam.10.16",
       "has_suffix": false,
@@ -306,7 +306,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וְנַגִּידָה",
+      "heb": "וְנַגִּידָה",
       "translit": "vnaggidah",
       "ref": "2Kgs.7.9",
       "has_suffix": false,
@@ -315,7 +315,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אַגִּֽידָה",
+      "heb": "אַגִּֽידָה",
       "translit": "aggidah",
       "ref": "2Kgs.7.12",
       "has_suffix": false,
@@ -326,7 +326,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַּגִּידוּ",
+      "heb": "תַּגִּידוּ",
       "translit": "taggidu",
       "ref": "2Sam.1.20",
       "has_suffix": false,
@@ -335,7 +335,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וְיַגִּידוּ",
+      "heb": "וְיַגִּידוּ",
       "translit": "vyaggidu",
       "ref": "Isa.19.12",
       "has_suffix": false,
@@ -344,7 +344,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְיַגֶּד",
+      "heb": "וְיַגֶּד",
       "translit": "vyagged",
       "ref": "Jer.42.3",
       "has_suffix": false,
@@ -360,7 +360,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הֻגַּד",
+      "heb": "הֻגַּד",
       "translit": "huggad",
       "ref": "1Kgs.10.7",
       "has_suffix": false,
@@ -371,7 +371,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיֻּגַּד",
+      "heb": "וַיֻּגַּד",
       "translit": "vayyuggad",
       "ref": "1Chr.19.17",
       "has_suffix": false,
@@ -382,7 +382,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְהֻֽגַּד",
+      "heb": "וְהֻֽגַּד",
       "translit": "vhuggad",
       "ref": "Deut.17.4",
       "has_suffix": false,
@@ -393,7 +393,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הֻגֵּד",
+      "heb": "הֻגֵּד",
       "translit": "hugged",
       "ref": "Josh.9.24",
       "has_suffix": false,

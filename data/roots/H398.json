@@ -20,11 +20,11 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "אָכַלְנוּ",
+      "heb": "וַאֲכַלְנֻהוּ",
       "translit": "akhalnu",
       "ref": "1Kgs.17.12",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      },
      {
       "code": "3cp",
@@ -47,7 +47,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אָכַלְתִּי",
+      "heb": "אָכַלְתִּי",
       "translit": "akhalti",
       "ref": "Dan.10.3",
       "has_suffix": false,
@@ -56,7 +56,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "אֲכַלְתֶּם",
+      "heb": "אֲכַלְתֶּם",
       "translit": "akhaltem",
       "ref": "Deut.29.5",
       "has_suffix": false,
@@ -65,16 +65,16 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "אָכָֽלְתָּ",
+      "heb": "וְאָכַלְתָּ",
       "translit": "akhalta",
       "ref": "Exod.34.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "אָכָלְתְּ",
+      "heb": "אָכָלְתְּ",
       "translit": "akhalt",
       "ref": "Ezek.16.13",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיֹּאכְלוּ",
+      "heb": "וַיֹּאכְלוּ",
       "translit": "vayyo'khlu",
       "ref": "1Chr.29.22",
       "has_suffix": false,
@@ -94,7 +94,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיֹּאכַל",
+      "heb": "וַיֹּאכַל",
       "translit": "vayyo'khal",
       "ref": "1Kgs.13.19",
       "has_suffix": false,
@@ -103,7 +103,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתֹּאכַל",
+      "heb": "וַתֹּאכַל",
       "translit": "vatto'khal",
       "ref": "1Kgs.13.22",
       "has_suffix": false,
@@ -112,7 +112,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתֹּאכַל",
+      "heb": "וַתֹּאכַל",
       "translit": "vatto'khal",
       "ref": "1Kgs.17.15",
       "has_suffix": false,
@@ -121,7 +121,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וַנֹּֽאכְלֵהוּ",
+      "heb": "וַנֹּֽאכְלֵהוּ",
       "translit": "vanno'khlehu",
       "ref": "2Kgs.6.29",
       "has_suffix": true,
@@ -130,7 +130,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֹכֵֽל",
+      "heb": "וָאֹכְלָה",
       "translit": "va'okhel",
       "ref": "Ezek.3.3",
       "has_suffix": false,
@@ -139,7 +139,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "וַתֹּאכַלְנָה",
+      "heb": "וַתֹּאכַלְנָה",
       "translit": "vatto'khalnah",
       "ref": "Gen.41.4",
       "has_suffix": false,
@@ -197,11 +197,11 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יֹאכַל",
+      "heb": "וְיֹאכַל",
       "translit": "yo'khal",
       "ref": "1Kgs.13.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3mp",
@@ -215,7 +215,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תֹּאכַל",
+      "heb": "תֹאכַֽל",
       "translit": "to'khal",
       "ref": "1Sam.1.7",
       "has_suffix": false,
@@ -233,16 +233,16 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נֹאכַל",
+      "heb": "וְנֹאכְלֶנּוּ",
       "translit": "no'khal",
       "ref": "2Kgs.6.28",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תֹּאכֵֽלוּ",
+      "heb": "תֹאכֵלוּ",
       "translit": "to'khelu",
       "ref": "Deut.12.16",
       "has_suffix": false,
@@ -251,7 +251,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תֹּאכַלְנָה",
+      "heb": "תֹּאכַלְנָה",
       "translit": "to'khalnah",
       "ref": "Lam.2.20",
       "has_suffix": false,
@@ -262,7 +262,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַאֲכַלְתֶּם",
+      "heb": "וַאֲכַלְתֶּם",
       "translit": "va'akhaltem",
       "ref": "1Sam.9.19",
       "has_suffix": false,
@@ -280,7 +280,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְאָכַלְתִּי",
+      "heb": "וְאָכַלְתִּי",
       "translit": "v'akhalti",
       "ref": "2Sam.13.5",
       "has_suffix": false,
@@ -307,7 +307,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְאָכַלְתָּ",
+      "heb": "וְאָכַלְתָּ",
       "translit": "v'akhalta",
       "ref": "Deut.6.11",
       "has_suffix": false,
@@ -325,7 +325,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וְאָכַלְתְּ",
+      "heb": "וְאָכַלְתְּ",
       "translit": "v'akhalt",
       "ref": "Ruth.2.14",
       "has_suffix": false,
@@ -336,38 +336,38 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "אֱכֹל",
+      "heb": "וֶאֱכֹל",
       "translit": "ekhol",
       "ref": "1Kgs.13.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "אִכְלוּ",
+      "heb": "וְאִכְלוּ",
       "translit": "ikhlu",
       "ref": "2Kgs.18.31",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_construct": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "אָכְלָה",
+      "heb": "לֶאֱכֹל",
       "translit": "akhlah",
       "ref": "1Kgs.1.41",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "אָכוֹל",
+      "heb": "אָכֹל",
       "translit": "akhol",
       "ref": "1Sam.14.30",
       "has_suffix": false,
@@ -398,7 +398,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תֹּאכַל",
+      "heb": "תֹּאכַל",
       "translit": "to'khal",
       "ref": "1Kgs.13.22",
       "has_suffix": false,
@@ -416,7 +416,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תֹּאכְלוּ",
+      "heb": "תֹּאכְלוּ",
       "translit": "to'khlu",
       "ref": "Esth.4.16",
       "has_suffix": false,
@@ -434,7 +434,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תֹּאכְלִי",
+      "heb": "תֹּאכְלִי",
       "translit": "to'khli",
       "ref": "Judg.13.4",
       "has_suffix": false,
@@ -443,7 +443,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תֹּאכַל",
+      "heb": "תֹּאכַל",
       "translit": "to'khal",
       "ref": "Judg.13.14",
       "has_suffix": false,
@@ -470,7 +470,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיֵּאָכֵל",
+      "heb": "וַיֵּאָכֵל",
       "translit": "vayye'akhel",
       "ref": "Num.12.12",
       "has_suffix": false,
@@ -481,7 +481,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "הַֽנֶּאֱכֶלֶת",
+      "heb": "הַֽנֶּאֱכֶלֶת",
       "translit": "hanne'ekhelet",
       "ref": "Lev.11.47",
       "has_suffix": false,
@@ -510,7 +510,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תֵּאָכֵל",
+      "heb": "תֵּאָכֵל",
       "translit": "te'akhel",
       "ref": "Ezek.23.25",
       "has_suffix": false,
@@ -519,7 +519,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תֵאָכַלְנָה",
+      "heb": "תֵֽאָכַלְנָה",
       "translit": "te'akhalnah",
       "ref": "Jer.24.2",
       "has_suffix": false,
@@ -546,10 +546,10 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֲכַל",
+      "heb": "וָאֲכַלֵּם",
       "translit": "va'akhal",
       "ref": "2Sam.22.39",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ]
@@ -562,7 +562,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הֶאֱכַלְתִּי",
+      "heb": "הֶאֱכַלְתִּי",
       "translit": "he'ekhalti",
       "ref": "Exod.16.32",
       "has_suffix": false,
@@ -571,7 +571,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הֶאֱכַלְתָּם",
+      "heb": "הֶאֱכַלְתָּם",
       "translit": "he'ekhaltam",
       "ref": "Ps.80.6",
       "has_suffix": true,
@@ -582,7 +582,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּאֲכִלוּם",
+      "heb": "וַיַּאֲכִלוּם",
       "translit": "vayya'akhilum",
       "ref": "2Chr.28.15",
       "has_suffix": true,
@@ -591,7 +591,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּֽאֲכִֽלְךָ",
+      "heb": "וַיַּֽאֲכִֽלְךָ",
       "translit": "vayya'akhilkha",
       "ref": "Deut.8.3",
       "has_suffix": true,
@@ -642,7 +642,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהַאֲכַלְתִּי",
+      "heb": "וְהַאֲכַלְתִּי",
       "translit": "vha'akhalti",
       "ref": "Isa.49.26",
       "has_suffix": false,

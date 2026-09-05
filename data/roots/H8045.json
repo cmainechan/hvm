@@ -11,7 +11,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נִשְׁמַדְנוּ",
+      "heb": "נִשְׁמַדְנוּ",
       "translit": "nishmadnu",
       "ref": "2Sam.21.5",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְנִשְׁמַדְתִּי",
+      "heb": "וְנִשְׁמַדְתִּי",
       "translit": "vnishmadti",
       "ref": "Gen.34.30",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "נִשְׁמְדָה",
+      "heb": "נִשְׁמְדָה",
       "translit": "nishmdah",
       "ref": "Judg.21.16",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "נִשְׁמְדוּ",
+      "heb": "נִשְׁמְדוּ",
       "translit": "nishmdu",
       "ref": "Ps.37.38",
       "has_suffix": false,
@@ -49,16 +49,16 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּשָּׁמֵדֽוּן",
+      "heb": "תִּשָּׁמֵדֽוּן",
       "translit": "tishshamedun",
       "ref": "Deut.4.26",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִשָּׁמֵד",
+      "heb": "יִשָּׁמֵד",
       "translit": "yishshamed",
       "ref": "Isa.48.19",
       "has_suffix": false,
@@ -69,7 +69,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְנִשְׁמַד",
+      "heb": "וְנִשְׁמַד",
       "translit": "vnishmad",
       "ref": "Ezek.32.12",
       "has_suffix": false,
@@ -78,7 +78,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְנִשְׁמְדוּ",
+      "heb": "וְנִשְׁמְדוּ",
       "translit": "vnishmdu",
       "ref": "Hos.10.8",
       "has_suffix": false,
@@ -89,7 +89,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הִשָּׁמְדָֽךְ",
+      "heb": "הִשָּׁמְדָֽם",
       "translit": "hishshamdakh",
       "ref": "Deut.7.23",
       "has_suffix": true,
@@ -100,7 +100,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הִשָּׁמֵד",
+      "heb": "הִשָּׁמֵד",
       "translit": "hishshamed",
       "ref": "Deut.4.26",
       "has_suffix": false,
@@ -116,7 +116,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הִשְׁמִיד",
+      "heb": "הִשְׁמִיד",
       "translit": "hishmid",
       "ref": "1Chr.5.25",
       "has_suffix": false,
@@ -125,16 +125,16 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "הִשְׁמִידוּ",
+      "heb": "הִשְׁמִידֽוּם",
       "translit": "hishmidu",
       "ref": "2Chr.20.10",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הִשְׁמַדְתִּי",
+      "heb": "הִשְׁמַדְתִּי",
       "translit": "hishmadti",
       "ref": "Amos.2.9",
       "has_suffix": false,
@@ -145,7 +145,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּשְׁמֵד",
+      "heb": "וַיַּשְׁמֵד",
       "translit": "vayyashmed",
       "ref": "1Kgs.16.12",
       "has_suffix": false,
@@ -154,16 +154,16 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאַשְׁמִיד",
+      "heb": "וָאַשְׁמִידֵם",
       "translit": "va'ashmid",
       "ref": "2Sam.22.38",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּשְׁמִידוּם",
+      "heb": "וַיַּשְׁמִידוּם",
       "translit": "vayyashmidum",
       "ref": "Deut.2.12",
       "has_suffix": true,
@@ -172,7 +172,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתַּשְׁמִידֵם",
+      "heb": "וַתַּשְׁמִידֵם",
       "translit": "vattashmidem",
       "ref": "Isa.26.14",
       "has_suffix": true,
@@ -183,7 +183,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּשְׁמִיד",
+      "heb": "תַּשְׁמִיד",
       "translit": "tashmid",
       "ref": "1Sam.24.22",
       "has_suffix": false,
@@ -192,7 +192,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יַשְׁמִידוּ",
+      "heb": "יַשְׁמִידוּ",
       "translit": "yashmidu",
       "ref": "2Sam.14.11",
       "has_suffix": false,
@@ -201,7 +201,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אַשְׁמִיד",
+      "heb": "אַשְׁמִיד",
       "translit": "ashmid",
       "ref": "Amos.9.8",
       "has_suffix": false,
@@ -210,16 +210,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַשְׁמִיד",
+      "heb": "יַשְׁמִידֵם",
       "translit": "yashmid",
       "ref": "Deut.9.3",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַשְׁמִידוּ",
+      "heb": "תַשְׁמִידוּ",
       "translit": "tashmidu",
       "ref": "Josh.7.12",
       "has_suffix": false,
@@ -230,7 +230,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהִשְׁמַדְתִּי",
+      "heb": "וְהִשְׁמַדְתִּי",
       "translit": "vhishmadti",
       "ref": "Amos.9.8",
       "has_suffix": false,
@@ -239,7 +239,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְהִשְׁמִידְךָ",
+      "heb": "וְהִשְׁמִידְךָ",
       "translit": "vhishmidkha",
       "ref": "Deut.6.15",
       "has_suffix": true,
@@ -250,7 +250,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הַשְׁמֵֽד",
+      "heb": "הַשְׁמֵֽד",
       "translit": "hashmed",
       "ref": "Deut.33.27",
       "has_suffix": false,
@@ -261,7 +261,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְהַשְׁמִיד",
+      "heb": "וּלְהַשְׁמִיד",
       "translit": "lhashmid",
       "ref": "1Kgs.13.34",
       "has_suffix": false,
@@ -272,7 +272,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הַשְׁמֵיד",
+      "heb": "הַשְׁמֵיד",
       "translit": "hashmed",
       "ref": "Amos.9.8",
       "has_suffix": false,
@@ -283,7 +283,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וְנַשְׁמִידָה",
+      "heb": "וְנַשְׁמִידָה",
       "translit": "vnashmidah",
       "ref": "2Sam.14.7",
       "has_suffix": false,
@@ -292,7 +292,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְאַשְׁמִידֵם",
+      "heb": "וְאַשְׁמִידֵם",
       "translit": "v'ashmidem",
       "ref": "Deut.9.14",
       "has_suffix": true,

@@ -29,7 +29,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "יָרַדְתָּ",
+      "heb": "יָרַדְתָּ",
       "translit": "yaradta",
       "ref": "1Sam.17.28",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "יָרְדָה",
+      "heb": "יָֽרְדָה",
       "translit": "yardah",
       "ref": "2Chr.7.1",
       "has_suffix": false,
@@ -56,7 +56,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "יָרַדְתִּי",
+      "heb": "יָרַדְתִּי",
       "translit": "yaradti",
       "ref": "Jonah.2.7",
       "has_suffix": false,
@@ -67,7 +67,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיֵּרְדוּ",
+      "heb": "וַיֵּרְדוּ",
       "translit": "vayyerdu",
       "ref": "1Chr.11.15",
       "has_suffix": false,
@@ -76,7 +76,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיֵּרֶד",
+      "heb": "וַיֵּרֶד",
       "translit": "vayyered",
       "ref": "1Chr.11.23",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתֵּרֶד",
+      "heb": "וַתֵּרֶד",
       "translit": "vattered",
       "ref": "1Sam.25.23",
       "has_suffix": false,
@@ -94,7 +94,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וַנֵּרֶד",
+      "heb": "וַנֵּרֶד",
       "translit": "vannered",
       "ref": "2Kgs.10.13",
       "has_suffix": false,
@@ -114,7 +114,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "יֹרְדִים",
+      "heb": "יֽוֹרְדִים",
       "translit": "yordim",
       "ref": "1Sam.9.27",
       "has_suffix": false,
@@ -132,20 +132,20 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "יֹרְדָה",
+      "heb": "וְיֹרֶדֶת",
       "translit": "yordah",
       "ref": "1Sam.25.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "יֹרְדוֹת",
+      "heb": "הַיּוֹרְדוֹת",
       "translit": "yordot",
       "ref": "Neh.3.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "yiqtol": [
@@ -161,20 +161,20 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֵרֵד",
+      "heb": "הַֽאֵרֵד",
       "translit": "ered",
       "ref": "1Sam.14.37",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יֵרֵד",
+      "heb": "הֲיֵרֵד",
       "translit": "yered",
       "ref": "1Sam.23.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2ms",
@@ -188,7 +188,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תֵּרֵֽד",
+      "heb": "תֵּרֵֽד",
       "translit": "tered",
       "ref": "Ezek.26.11",
       "has_suffix": false,
@@ -206,18 +206,18 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תֵּרַדְנָה",
+      "heb": "וְתֵרַדְנָה",
       "translit": "teradnah",
       "ref": "Jer.9.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "veqatal": [
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְיָרַדְתָּ",
+      "heb": "וְיָרַדְתָּ",
       "translit": "vyaradta",
       "ref": "1Sam.10.8",
       "has_suffix": false,
@@ -253,7 +253,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְיָרַדְתִּי",
+      "heb": "וְיָרַדְתִּי",
       "translit": "vyaradti",
       "ref": "Judg.11.37",
       "has_suffix": false,
@@ -262,7 +262,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וְיָרַדְתְּ",
+      "heb": "וְיָרַדְתְּ",
       "translit": "vyaradt",
       "ref": "Ruth.3.3",
       "has_suffix": false,
@@ -273,11 +273,11 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "רֵד",
+      "heb": "וָרֵד",
       "translit": "red",
       "ref": "1Kgs.18.44",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2mp",
@@ -302,11 +302,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "רֶדֶת",
+      "heb": "לָרֶדֶת",
       "translit": "redet",
       "ref": "1Kgs.21.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
@@ -353,7 +353,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תֵּרֵד",
+      "heb": "תֵּרֵד",
       "translit": "tered",
       "ref": "1Sam.20.19",
       "has_suffix": false,
@@ -362,7 +362,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תֵּרֶד",
+      "heb": "תֵּרֶד",
       "translit": "tered",
       "ref": "2Kgs.1.10",
       "has_suffix": false,
@@ -405,7 +405,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהוֹרַדְתִּים",
+      "heb": "וְהוֹרַדְתִּים",
       "translit": "vhoradtim",
       "ref": "Joel.4.2",
       "has_suffix": true,
@@ -414,7 +414,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "הוֹרַדְתֵּנוּ",
+      "heb": "הוֹרַדְתֵּנוּ",
       "translit": "horadtenu",
       "ref": "Josh.2.18",
       "has_suffix": true,
@@ -425,25 +425,25 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיֹּרִידוּ",
+      "heb": "וַיֹּרִדֻהוּ",
       "translit": "vayyoridu",
       "ref": "1Kgs.1.53",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיּוֹרֶד",
+      "heb": "וַיֹּרִדֵהוּ",
       "translit": "vayyored",
       "ref": "1Kgs.17.23",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתֹּרֶד",
+      "heb": "וַתֹּרֶד",
       "translit": "vattored",
       "ref": "1Sam.19.12",
       "has_suffix": false,
@@ -483,10 +483,10 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְאוֹרִיד",
+      "heb": "וְאוֹרִֽדְךָ",
       "translit": "v'orid",
       "ref": "1Sam.30.15",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": true
      },
      {
@@ -503,7 +503,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְהוֹרַדְתֶּם",
+      "heb": "וְהוֹרַדְתֶּם",
       "translit": "vhoradtem",
       "ref": "1Kgs.1.33",
       "has_suffix": false,
@@ -512,7 +512,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְהוֹרַדְתָּ",
+      "heb": "וְהוֹרַדְתָּ",
       "translit": "vhoradta",
       "ref": "1Kgs.2.9",
       "has_suffix": false,
@@ -539,10 +539,10 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהוֹרַדְתִּי",
+      "heb": "וְהוֹרַדְתִּיךְ",
       "translit": "vhoradti",
       "ref": "Ezek.26.20",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -579,10 +579,10 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְהוֹרִיד",
+      "heb": "בְּהוֹרִדִי",
       "translit": "lhorid",
       "ref": "Ezek.31.16",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": true
      }
     ]
@@ -617,7 +617,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְהוּרַדְתָּ",
+      "heb": "וְהוּרַדְתָּ",
       "translit": "vhuradta",
       "ref": "Ezek.31.18",
       "has_suffix": false,

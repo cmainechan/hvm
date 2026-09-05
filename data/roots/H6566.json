@@ -11,7 +11,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "פָּרְשׂוּ",
+      "heb": "פָּרְשׂוּ",
       "translit": "parsu",
       "ref": "Isa.33.23",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "פָּרַשׂ",
+      "heb": "פָּרַשׂ",
       "translit": "paras",
       "ref": "Job.36.30",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "פָּרְשָׂה",
+      "heb": "פָּרְשָׂה",
       "translit": "parsah",
       "ref": "Prov.31.20",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיִּפְרְשׂוּ",
+      "heb": "וַֽיִּפְרְשׂוּ",
       "translit": "vayyifrsu",
       "ref": "1Kgs.6.27",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּפְרֹשׂ",
+      "heb": "וַיִּפְרֹשׂ",
       "translit": "vayyifros",
       "ref": "1Kgs.8.22",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּפְרֹשׂ",
+      "heb": "וַתִּפְרֹשׂ",
       "translit": "vattifros",
       "ref": "2Sam.17.19",
       "has_suffix": false,
@@ -76,7 +76,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וַנִּפְרֹשׂ",
+      "heb": "וַנִּפְרֹשׂ",
       "translit": "vannifros",
       "ref": "Ps.44.21",
       "has_suffix": false,
@@ -87,16 +87,16 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "פֹּרְשִׂים",
+      "heb": "לְפֹרְשִׂים",
       "translit": "porsim",
       "ref": "1Chr.28.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "פֹּרֵשׂ",
+      "heb": "פֹּרֵשׂ",
       "translit": "pores",
       "ref": "Lam.4.4",
       "has_suffix": false,
@@ -107,7 +107,7 @@
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "פְּרֻשׂוֹת",
+      "heb": "פְּרֻשׂוֹת",
       "translit": "prusot",
       "ref": "1Kgs.8.54",
       "has_suffix": false,
@@ -116,7 +116,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "פְּרוּשָׂה",
+      "heb": "פְּרוּשָׂה",
       "translit": "prusah",
       "ref": "Hos.5.1",
       "has_suffix": false,
@@ -125,7 +125,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "פָּרֻשׂ",
+      "heb": "פָּרֻשׂ",
       "translit": "parus",
       "ref": "Joel.2.2",
       "has_suffix": false,
@@ -174,7 +174,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וּפָרְשׂוּ",
+      "heb": "וּפָֽרְשׂוּ",
       "translit": "ufarsu",
       "ref": "Deut.22.17",
       "has_suffix": false,
@@ -183,7 +183,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וּפָרַשְׂתִּי",
+      "heb": "וּפָרַשְׂתִּי",
       "translit": "ufarasti",
       "ref": "Ezek.12.13",
       "has_suffix": false,
@@ -192,7 +192,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וּפָרַשְׂתָּ",
+      "heb": "וּפָרַשְׂתָּ",
       "translit": "ufarasta",
       "ref": "Job.11.13",
       "has_suffix": false,
@@ -208,7 +208,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִפָּרֵשׂוּ",
+      "heb": "יִפָּרֵשׂוּ",
       "translit": "yipparesu",
       "ref": "Ezek.17.21",
       "has_suffix": false,
@@ -224,7 +224,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "פֵּרַשְׂתִּי",
+      "heb": "פֵּרַשְׂתִּי",
       "translit": "perasti",
       "ref": "Isa.65.2",
       "has_suffix": false,
@@ -233,7 +233,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "פֵּֽרְשָׂה",
+      "heb": "פֵּֽרְשָׂה",
       "translit": "persah",
       "ref": "Lam.1.17",
       "has_suffix": false,
@@ -253,7 +253,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְּפָרֵשׂ",
+      "heb": "תְּפָרֵשׂ",
       "translit": "tfares",
       "ref": "Jer.4.31",
       "has_suffix": false,
@@ -275,10 +275,10 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בְּפָרֵשׂ",
+      "heb": "וּבְפָרִשְׂכֶם",
       "translit": "bfares",
       "ref": "Isa.1.15",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": true
      }
     ]

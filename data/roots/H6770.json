@@ -11,20 +11,20 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּצְמָא",
+      "heb": "וַיִּצְמָא",
       "translit": "vayyitzma",
       "ref": "Exod.17.3",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      },
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּצְמָֽאוּ",
+      "heb": "וַיִּצְמָֽאוּ",
       "translit": "vayyitzma'u",
       "ref": "Job.24.11",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "perfect": [
@@ -69,7 +69,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּצְמָאוּ",
+      "heb": "תִּצְמָאוּ",
       "translit": "titzma'u",
       "ref": "Isa.65.13",
       "has_suffix": false,
@@ -84,7 +84,7 @@
       "translit": "vtzamit",
       "ref": "Ruth.2.9",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ]
    }

@@ -22,7 +22,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִקָּווּ",
+      "heb": "יִקָּווּ",
       "translit": "yiqqavu",
       "ref": "Gen.1.9",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "קִוִּיתִי",
+      "heb": "קִוִּיתִי",
       "translit": "qivviti",
       "ref": "Gen.49.18",
       "has_suffix": false,
@@ -47,7 +47,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "קִוִּינוּ",
+      "heb": "קִוִּינוּ",
       "translit": "qivvinu",
       "ref": "Isa.25.9",
       "has_suffix": false,
@@ -65,7 +65,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "קִוְּתָה",
+      "heb": "קִוְּתָה",
       "translit": "qivvtah",
       "ref": "Ps.130.5",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וַאֲקַוֶּה",
+      "heb": "וַאֲקַוֶּה",
       "translit": "va'aqavveh",
       "ref": "Ps.52.11",
       "has_suffix": false,
@@ -105,7 +105,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נְקַוֶּה",
+      "heb": "נְקַוֶּה",
       "translit": "nqavveh",
       "ref": "Isa.59.9",
       "has_suffix": false,
@@ -114,7 +114,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְקַוֶּה",
+      "heb": "יְקַו",
       "translit": "yqavveh",
       "ref": "Job.3.9",
       "has_suffix": false,
@@ -123,7 +123,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֲקַוֶּה",
+      "heb": "אֲקַוֶּה",
       "translit": "aqavveh",
       "ref": "Job.17.13",
       "has_suffix": false,
@@ -134,7 +134,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וְקִוֵּיתִֽי",
+      "heb": "וְקִוֵּיתִֽי",
       "translit": "vqivveti",
       "ref": "Isa.8.17",
       "has_suffix": false,
@@ -143,7 +143,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְקִוִּיתֶם",
+      "heb": "וְקִוִּיתֶם",
       "translit": "vqivvitem",
       "ref": "Jer.13.16",
       "has_suffix": false,
@@ -154,18 +154,18 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "קַוֵּה",
+      "heb": "וְקַוֵּה",
       "translit": "qavveh",
       "ref": "Hos.12.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "קַוֵּה",
+      "heb": "קַוֵּה",
       "translit": "qavveh",
       "ref": "Jer.14.19",
       "has_suffix": false,

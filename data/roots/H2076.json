@@ -20,7 +20,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "זָבַחְתִּי",
+      "heb": "זָבַחְתִּי",
       "translit": "zavachti",
       "ref": "Ezek.39.19",
       "has_suffix": false,
@@ -31,7 +31,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּזְבְּחוּ",
+      "heb": "וַיִּזְבְּחוּ",
       "translit": "vayyizbchu",
       "ref": "1Chr.15.26",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּזְבַּח",
+      "heb": "וַיִּזְבַּח",
       "translit": "vayyizbach",
       "ref": "1Chr.21.28",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּזְבָּחֵהוּ",
+      "heb": "וַתִּזְבָּחֵהוּ",
       "translit": "vattizbachehu",
       "ref": "1Sam.28.24",
       "has_suffix": true,
@@ -58,7 +58,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וַתִּזְבָּחִים",
+      "heb": "וַתִּזְבָּחִים",
       "translit": "vattizbachim",
       "ref": "Ezek.16.20",
       "has_suffix": true,
@@ -89,7 +89,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִזְבְּחוּ",
+      "heb": "תִזְבְּחוּ",
       "translit": "tizbchu",
       "ref": "2Kgs.17.35",
       "has_suffix": false,
@@ -98,7 +98,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּזְבַּח",
+      "heb": "תִּזְבַּח",
       "translit": "tizbach",
       "ref": "Deut.12.15",
       "has_suffix": false,
@@ -107,7 +107,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִזְבְּחוּ",
+      "heb": "יִזְבְּחוּ",
       "translit": "yizbchu",
       "ref": "Deut.32.17",
       "has_suffix": false,
@@ -116,7 +116,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נִזְבַּח",
+      "heb": "נִזְבַּח",
       "translit": "nizbach",
       "ref": "Exod.8.22",
       "has_suffix": false,
@@ -125,7 +125,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶזְבַּח",
+      "heb": "אֶזְבַּח",
       "translit": "ezbach",
       "ref": "Ps.116.17",
       "has_suffix": false,
@@ -136,7 +136,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְזָבַחְתָּ",
+      "heb": "וְזָבַחְתָּ",
       "translit": "vzavachta",
       "ref": "Deut.12.21",
       "has_suffix": false,
@@ -154,7 +154,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וּזְבַחְתֶּם",
+      "heb": "וּזְבַחְתֶּם",
       "translit": "uzvachtem",
       "ref": "Exod.8.24",
       "has_suffix": false,
@@ -194,27 +194,27 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "זְבֹחַ",
+      "heb": "לִזְבֹּחַ",
       "translit": "zvocha",
       "ref": "1Kgs.3.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "cohortative": [
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נִזְבְּחָה",
+      "heb": "וְנִזְבְּחָה",
       "translit": "nizbchah",
       "ref": "Exod.3.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶזְבְּחָה",
+      "heb": "אֶזְבְּחָה",
       "translit": "ezbchah",
       "ref": "Jonah.2.10",
       "has_suffix": false,
@@ -225,7 +225,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וְיִזְבְּחוּ",
+      "heb": "וְיִזְבְּחוּ",
       "translit": "vyizbchu",
       "ref": "Exod.8.4",
       "has_suffix": false,
@@ -241,7 +241,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "זִבַּח",
+      "heb": "זִבַּח",
       "translit": "zibbach",
       "ref": "2Chr.33.22",
       "has_suffix": false,
@@ -250,7 +250,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "זִבֵּחוּ",
+      "heb": "זִבֵּחוּ",
       "translit": "zibbechu",
       "ref": "Hos.12.12",
       "has_suffix": false,
@@ -261,7 +261,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיְזַבֵּחַ",
+      "heb": "וַיְזַבֵּחַ",
       "translit": "vayzabbecha",
       "ref": "2Chr.28.4",
       "has_suffix": false,
@@ -272,7 +272,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מְזַבְּחִים",
+      "heb": "מְזַבְּחִים",
       "translit": "mzabbchim",
       "ref": "1Kgs.3.2",
       "has_suffix": false,
@@ -281,7 +281,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מְזַבֵּחַ",
+      "heb": "מְזַבֵּחַ",
       "translit": "mzabbecha",
       "ref": "1Kgs.3.3",
       "has_suffix": false,
@@ -290,7 +290,7 @@
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "וּֽמְזַבְּחוֹת",
+      "heb": "וּֽמְזַבְּחוֹת",
       "translit": "vmzabbchot",
       "ref": "1Kgs.11.8",
       "has_suffix": false,
@@ -301,7 +301,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֲזַבֵּחַ",
+      "heb": "אֲזַבֵּחַ",
       "translit": "azabbecha",
       "ref": "2Chr.28.23",
       "has_suffix": false,
@@ -310,7 +310,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְזַבֵּחַ",
+      "heb": "יְזַבֵּחַ",
       "translit": "yzabbecha",
       "ref": "Hab.1.16",
       "has_suffix": false,
@@ -319,7 +319,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יְזַבֵּחוּ",
+      "heb": "יְזַבֵּחוּ",
       "translit": "yzabbechu",
       "ref": "Hos.4.13",
       "has_suffix": false,
@@ -330,7 +330,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְזַבֵּחַ",
+      "heb": "לְזַבֵּחַ",
       "translit": "lzabbecha",
       "ref": "1Kgs.12.32",
       "has_suffix": false,

@@ -38,7 +38,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "עָבַרְתִּי",
+      "heb": "עָבַרְתִּי",
       "translit": "avarti",
       "ref": "1Sam.15.24",
       "has_suffix": false,
@@ -47,7 +47,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "עָבַרְתָּ",
+      "heb": "עָבַרְתָּ",
       "translit": "avarta",
       "ref": "2Sam.15.33",
       "has_suffix": false,
@@ -65,7 +65,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "עֲבַרְתֶּם",
+      "heb": "עֲבַרְתֶּֽם",
       "translit": "avartem",
       "ref": "Deut.29.15",
       "has_suffix": false,
@@ -76,7 +76,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּעֲבֹר",
+      "heb": "וַיַּעֲבֹר",
       "translit": "vayya'avor",
       "ref": "1Chr.19.17",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּעַבְרוּ",
+      "heb": "וַיַּעַבְרוּ",
       "translit": "vayya'avru",
       "ref": "1Sam.9.4",
       "has_suffix": false,
@@ -94,7 +94,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַֽתַּעֲבֹר",
+      "heb": "וַֽתַּעֲבֹר",
       "translit": "vatta'avor",
       "ref": "2Chr.25.18",
       "has_suffix": false,
@@ -103,7 +103,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וַֽנַּעֲבֹר",
+      "heb": "וַֽנַּעֲבֹר",
       "translit": "vanna'avor",
       "ref": "Deut.2.8",
       "has_suffix": false,
@@ -121,7 +121,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַתַּעַבְרוּ",
+      "heb": "וַתַּעַבְרוּ",
       "translit": "vatta'avru",
       "ref": "Josh.24.11",
       "has_suffix": false,
@@ -152,16 +152,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַעֲבֹר",
+      "heb": "וְיַעֲבֹר",
       "translit": "ya'avor",
       "ref": "1Sam.9.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַעֲבֹר",
+      "heb": "תַּעֲבוֹר",
       "translit": "ta'avor",
       "ref": "2Sam.17.16",
       "has_suffix": false,
@@ -170,7 +170,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַּעַבְרוּ",
+      "heb": "תַעֲבֹרוּ",
       "translit": "ta'avru",
       "ref": "Amos.5.5",
       "has_suffix": false,
@@ -179,7 +179,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶֽעֱבֹר",
+      "heb": "אֶעֱבֹר",
       "translit": "e'evor",
       "ref": "Amos.5.17",
       "has_suffix": false,
@@ -197,7 +197,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תַּעֲבֹר",
+      "heb": "תַּעֲבֹר",
       "translit": "ta'avor",
       "ref": "Ezek.14.17",
       "has_suffix": false,
@@ -206,7 +206,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תַּעֲבֹרְנָה",
+      "heb": "תַּעֲבֹרְנָה",
       "translit": "ta'avornah",
       "ref": "Jer.33.13",
       "has_suffix": false,
@@ -235,7 +235,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְעָֽבַרְתָּ",
+      "heb": "וְעָֽבַרְתָּ",
       "translit": "v'avarta",
       "ref": "1Kgs.2.37",
       "has_suffix": false,
@@ -244,7 +244,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְעָבַר",
+      "heb": "וְעָבָֽר",
       "translit": "v'avar",
       "ref": "Dan.11.40",
       "has_suffix": false,
@@ -253,7 +253,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַעֲבַרְתֶּם",
+      "heb": "וַעֲבַרְתֶּם",
       "translit": "va'avartem",
       "ref": "Deut.12.10",
       "has_suffix": false,
@@ -262,7 +262,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְעָבַרְתִּי",
+      "heb": "וְעָבַרְתִּי",
       "translit": "v'avarti",
       "ref": "Exod.12.12",
       "has_suffix": false,
@@ -300,11 +300,11 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "עֲבֹר",
+      "heb": "וַעֲבֹר",
       "translit": "avor",
       "ref": "2Sam.15.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2fs",
@@ -320,11 +320,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "עֲבֹר",
+      "heb": "לַֽעֲבָר",
       "translit": "avor",
       "ref": "1Kgs.18.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
@@ -342,16 +342,16 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נַעְבְּרָה",
+      "heb": "וְנַעְבְּרָה",
       "translit": "na'brah",
       "ref": "1Sam.14.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶעְבְּרָה",
+      "heb": "אֶעְבְּרָה",
       "translit": "e'brah",
       "ref": "2Sam.16.9",
       "has_suffix": false,
@@ -403,7 +403,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "עִבַּר",
+      "heb": "עִבַּר",
       "translit": "ibbar",
       "ref": "Job.21.10",
       "has_suffix": false,
@@ -414,7 +414,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיְעַבֵּר",
+      "heb": "וַיְעַבֵּר",
       "translit": "vay'abber",
       "ref": "1Kgs.6.21",
       "has_suffix": false,
@@ -448,7 +448,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הֵעֲבַרְתָּ",
+      "heb": "הֵעֲבַרְתָּ",
       "translit": "he'avarta",
       "ref": "Josh.7.7",
       "has_suffix": false,
@@ -457,7 +457,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הֶעֱבַרְתִּי",
+      "heb": "הֶעֱבַרְתִּי",
       "translit": "he'evarti",
       "ref": "Zech.3.4",
       "has_suffix": false,
@@ -468,7 +468,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּעֲבֵר",
+      "heb": "וַיַּעֲבֵר",
       "translit": "vayya'aver",
       "ref": "1Kgs.15.12",
       "has_suffix": false,
@@ -477,10 +477,10 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּעֲבִירוּ",
+      "heb": "וַיַּֽעֲבִירֻהוּ",
       "translit": "vayya'aviru",
       "ref": "2Chr.35.24",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -535,7 +535,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַּעֲבִירוּ",
+      "heb": "תַּעֲבִירוּ",
       "translit": "ta'aviru",
       "ref": "Lev.25.9",
       "has_suffix": false,
@@ -544,11 +544,11 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וְיַעֲבִירוּ",
+      "heb": "יַעֲבִירוּנִי",
       "translit": "vya'aviru",
       "ref": "Neh.2.7",
-      "has_suffix": false,
-      "has_prefix": true
+      "has_suffix": true,
+      "has_prefix": false
      }
     ],
     "veqatal": [
@@ -564,7 +564,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְהַעֲבַרְתָּ",
+      "heb": "וְהַעֲבַרְתָּ",
       "translit": "vha'avarta",
       "ref": "Exod.13.12",
       "has_suffix": false,
@@ -573,7 +573,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהַעֲבַרְתִּי",
+      "heb": "וְהַעֲבַרְתִּי",
       "translit": "vha'avarti",
       "ref": "Ezek.20.37",
       "has_suffix": false,
@@ -582,7 +582,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְהַעֲבַרְתֶּם",
+      "heb": "וְהַעֲבַרְתֶּם",
       "translit": "vha'avartem",
       "ref": "Josh.4.3",
       "has_suffix": false,
@@ -622,10 +622,10 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְהַעֲבִיר",
+      "heb": "לְהַעֲבִרֽוֹ",
       "translit": "lha'avir",
       "ref": "1Sam.20.36",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": true
      }
     ],
@@ -644,7 +644,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּעֲבִרֵנוּ",
+      "heb": "תַּעֲבִרֵנוּ",
       "translit": "ta'avirenu",
       "ref": "Num.32.5",
       "has_suffix": true,
@@ -660,7 +660,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הִתְעַבָּֽר",
+      "heb": "הִתְעַבָּֽר",
       "translit": "hit'abbar",
       "ref": "Ps.78.62",
       "has_suffix": false,
@@ -669,7 +669,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הִתְעַבַּרְתָּ",
+      "heb": "הִתְעַבַּרְתָּ",
       "translit": "hit'abbarta",
       "ref": "Ps.89.39",
       "has_suffix": false,
@@ -680,7 +680,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַֽיִּתְעַבָּר",
+      "heb": "וַיִּתְעַבֵּר",
       "translit": "vayyit'abbar",
       "ref": "Deut.3.26",
       "has_suffix": false,
@@ -691,7 +691,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מִתְעַבֵּר",
+      "heb": "מִתְעַבֵּר",
       "translit": "mit'abber",
       "ref": "Prov.14.16",
       "has_suffix": false,

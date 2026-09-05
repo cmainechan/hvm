@@ -11,7 +11,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "יָדַעְתָּ",
+      "heb": "יָדָֽעְתָּ",
       "translit": "yada'ta",
       "ref": "1Chr.17.18",
       "has_suffix": false,
@@ -20,16 +20,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יָדַע",
+      "heb": "יְדָעָֽהּ",
       "translit": "yada",
       "ref": "1Kgs.1.4",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "יָדַעַתְּ",
+      "heb": "יָדַעַתְּ",
       "translit": "yada'att",
       "ref": "1Kgs.2.15",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "יָדַעְתִּי",
+      "heb": "יָדַעְתִּי",
       "translit": "yada'ti",
       "ref": "1Kgs.17.24",
       "has_suffix": false,
@@ -47,11 +47,11 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "יְדַעְתֶּם",
+      "heb": "וִֽידַעְתֶּם",
       "translit": "yda'tem",
       "ref": "1Kgs.20.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3cp",
@@ -74,7 +74,7 @@
      {
       "code": "2fp",
       "label": "2nd fem. pl.",
-      "heb": "יְדַעְתֶּן",
+      "heb": "יְדַעְתֶּן",
       "translit": "yda'ten",
       "ref": "Gen.31.6",
       "has_suffix": false,
@@ -83,7 +83,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "יָדְעָה",
+      "heb": "יָֽדְעָה",
       "translit": "yad'ah",
       "ref": "Hos.2.10",
       "has_suffix": false,
@@ -94,7 +94,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיֵּדַע",
+      "heb": "וַיֵּדַע",
       "translit": "vayyeda",
       "ref": "1Chr.14.2",
       "has_suffix": false,
@@ -103,7 +103,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיֵּדְעוּ",
+      "heb": "וַיֵּדְעוּ",
       "translit": "vayyed'u",
       "ref": "1Sam.4.6",
       "has_suffix": false,
@@ -112,16 +112,16 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֵדַע",
+      "heb": "וָאֵדָעֲךָ",
       "translit": "va'eda",
       "ref": "Exod.33.17",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וַנֵּדָעֵם",
+      "heb": "וַנֵּדָעֵם",
       "translit": "vanneda'em",
       "ref": "Ps.78.3",
       "has_suffix": true,
@@ -130,7 +130,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתֵּדָֽע",
+      "heb": "וַתֵּדָֽע",
       "translit": "vatteda",
       "ref": "Ps.139.1",
       "has_suffix": false,
@@ -141,7 +141,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "יוֹדֵעַ",
+      "heb": "יֹדֵעַ",
       "translit": "yode'a",
       "ref": "1Kgs.5.20",
       "has_suffix": false,
@@ -150,7 +150,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "יוֹדְעִים",
+      "heb": "יֽוֹדְעִים",
       "translit": "yod'im",
       "ref": "2Chr.2.7",
       "has_suffix": false,
@@ -181,7 +181,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תֵּדַע",
+      "heb": "תֵּדַע",
       "translit": "teda",
       "ref": "1Kgs.2.37",
       "has_suffix": false,
@@ -199,7 +199,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יֵדְעוּ",
+      "heb": "יֵדְעוּן",
       "translit": "yed'u",
       "ref": "1Kgs.8.38",
       "has_suffix": false,
@@ -217,7 +217,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תֵּֽדְעוּ",
+      "heb": "תֵדְעוּ",
       "translit": "ted'u",
       "ref": "2Chr.32.13",
       "has_suffix": false,
@@ -246,7 +246,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְיָדַעְתִּי",
+      "heb": "וְיָדַעְתִּי",
       "translit": "vyada'ti",
       "ref": "1Chr.29.17",
       "has_suffix": false,
@@ -255,7 +255,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְיָדַעְתָּ",
+      "heb": "וְיָֽדַעְתָּ",
       "translit": "vyada'ta",
       "ref": "1Kgs.2.9",
       "has_suffix": false,
@@ -273,7 +273,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וִֽידַעְתֶּם",
+      "heb": "וִֽידַעְתֶּם",
       "translit": "vida'tem",
       "ref": "Deut.11.2",
       "has_suffix": false,
@@ -291,7 +291,7 @@
      {
       "code": "2fp",
       "label": "2nd fem. pl.",
-      "heb": "וִֽידַעְתֶּן",
+      "heb": "וִֽידַעְתֶּן",
       "translit": "vida'ten",
       "ref": "Ezek.13.21",
       "has_suffix": false,
@@ -300,7 +300,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וְיָדַעַתְּ",
+      "heb": "וְיָדַעַתְּ",
       "translit": "vyada'att",
       "ref": "Ezek.16.62",
       "has_suffix": false,
@@ -311,7 +311,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "דַּע",
+      "heb": "דַּע",
       "translit": "da",
       "ref": "1Chr.28.9",
       "has_suffix": false,
@@ -320,7 +320,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "דְּעוּ",
+      "heb": "דְּעֽוּ",
       "translit": "d'u",
       "ref": "1Kgs.20.7",
       "has_suffix": false,
@@ -329,7 +329,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "דְּעִי",
+      "heb": "דְּעִי",
       "translit": "d'i",
       "ref": "1Sam.25.17",
       "has_suffix": false,
@@ -340,11 +340,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "דַּעַת",
+      "heb": "לָדַעַת",
       "translit": "da'at",
       "ref": "1Chr.12.33",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
@@ -362,11 +362,11 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֵדְעָה",
+      "heb": "וְאֵדְעָה",
       "translit": "ed'ah",
       "ref": "1Chr.21.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "1cp",
@@ -382,7 +382,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יֵדַע",
+      "heb": "יֵֽדַע",
       "translit": "yeda",
       "ref": "1Sam.20.3",
       "has_suffix": false,
@@ -391,7 +391,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תֵּדָֽעוּ",
+      "heb": "תֵּדָֽעוּ",
       "translit": "teda'u",
       "ref": "Isa.6.9",
       "has_suffix": false,
@@ -400,7 +400,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תֵּדַע",
+      "heb": "תֵּדַע",
       "translit": "teda",
       "ref": "Prov.27.23",
       "has_suffix": false,
@@ -425,7 +425,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "נוֹדַעְתִּי",
+      "heb": "נוֹדַעְתִּי",
       "translit": "noda'ti",
       "ref": "Exod.6.3",
       "has_suffix": false,
@@ -445,7 +445,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּוָּדַע",
+      "heb": "וַיִּוָּדַע",
       "translit": "vayyivvada",
       "ref": "Esth.2.22",
       "has_suffix": false,
@@ -454,7 +454,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאִוָּדַע",
+      "heb": "וָאִוָּדַע",
       "translit": "va'ivvada",
       "ref": "Ezek.20.5",
       "has_suffix": false,
@@ -465,18 +465,18 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "נוֹדָע",
+      "heb": "וְנוֹדָע",
       "translit": "noda",
       "ref": "Eccl.6.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "yiqtol": [
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִוָּדַע",
+      "heb": "יִוָּדַע",
       "translit": "yivvada",
       "ref": "Exod.33.16",
       "has_suffix": false,
@@ -485,7 +485,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּוָּדֵֽעַ",
+      "heb": "תִּוָּדֵֽעַ",
       "translit": "tivvade'a",
       "ref": "Prov.14.33",
       "has_suffix": false,
@@ -505,7 +505,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְנוֹדַעְתִּי",
+      "heb": "וְנוֹדַעְתִּי",
       "translit": "vnoda'ti",
       "ref": "Ezek.35.11",
       "has_suffix": false,
@@ -525,7 +525,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הִוָּדְעִי",
+      "heb": "הִוָּדְעִי",
       "translit": "hivvad'i",
       "ref": "Jer.31.19",
       "has_suffix": true,
@@ -536,7 +536,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִוָּדַע",
+      "heb": "יִוָּדַע",
       "translit": "yivvada",
       "ref": "1Kgs.18.36",
       "has_suffix": false,
@@ -545,7 +545,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תִּוָּדְעִי",
+      "heb": "תִּוָּדְעִי",
       "translit": "tivvad'i",
       "ref": "Ruth.3.3",
       "has_suffix": false,
@@ -561,7 +561,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "יִדַּעְתָּה",
+      "heb": "יִדַּעְתָּה",
       "translit": "yidda'tah",
       "ref": "Job.38.12",
       "has_suffix": false,
@@ -577,7 +577,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הוֹדַעְתָּ",
+      "heb": "הוֹדַעְתָּ",
       "translit": "hoda'ta",
       "ref": "1Kgs.1.27",
       "has_suffix": false,
@@ -586,7 +586,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הוֹדַעְתִּי",
+      "heb": "הוֹדַעְתִּי",
       "translit": "hoda'ti",
       "ref": "Ezek.20.11",
       "has_suffix": false,
@@ -604,10 +604,10 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הוֹדִיעַ",
+      "heb": "הֽוֹדִיעַנִי",
       "translit": "hodi'a",
       "ref": "Jer.11.18",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -615,7 +615,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיֹּדַע",
+      "heb": "וַיֹּדַע",
       "translit": "vayyoda",
       "ref": "Judg.8.16",
       "has_suffix": false,
@@ -626,30 +626,30 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מֽוֹדִיעִם",
+      "heb": "וּמוֹדִיעִים",
       "translit": "modi'im",
       "ref": "2Chr.23.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "yiqtol": [
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אוֹדִיעַ",
+      "heb": "אוֹדִֽיעֲךָ",
       "translit": "odi'a",
       "ref": "1Sam.16.3",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יֹדִיעוּ",
+      "heb": "יוֹדִעֻֽם",
       "translit": "yodi'u",
       "ref": "Ezek.44.23",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -675,7 +675,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהוֹדַעְתִּי",
+      "heb": "וְהוֹדַעְתִּי",
       "translit": "vhoda'ti",
       "ref": "1Sam.10.8",
       "has_suffix": false,
@@ -684,16 +684,16 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְהוֹדַעְתָּ",
+      "heb": "וְהוֹדַעְתָּם",
       "translit": "vhoda'ta",
       "ref": "Deut.4.9",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְהוֹדַעְתֶּם",
+      "heb": "וְהוֹדַעְתֶּם",
       "translit": "vhoda'tem",
       "ref": "Josh.4.22",
       "has_suffix": false,
@@ -713,10 +713,10 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הוֹדַע",
+      "heb": "הוֹדִעֵנִי",
       "translit": "hoda",
       "ref": "Exod.33.13",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -724,11 +724,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הוֹדִיעַ",
+      "heb": "לְהֹדִיעַ",
       "translit": "hodi'a",
       "ref": "1Chr.17.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "cohortative": [
@@ -807,7 +807,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶתְוַדָּע",
+      "heb": "אֶתְוַדָּע",
       "translit": "etvadda",
       "ref": "Num.12.6",
       "has_suffix": false,
@@ -818,7 +818,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בְּהִתְוַדַּע",
+      "heb": "בְּהִתְוַדַּע",
       "translit": "bhitvadda",
       "ref": "Gen.45.1",
       "has_suffix": false,

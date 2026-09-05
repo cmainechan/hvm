@@ -40,7 +40,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּטְמָא",
+      "heb": "וַתִּטְמָא",
       "translit": "vattitma",
       "ref": "Ezek.23.17",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּטְמְאוּ",
+      "heb": "וַיִּטְמְאוּ",
       "translit": "vayyitm'u",
       "ref": "Ps.106.39",
       "has_suffix": false,
@@ -60,16 +60,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִטְמָא",
+      "heb": "הֲיִטְמָא",
       "translit": "yitma",
       "ref": "Hag.2.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּטְמָֽא",
+      "heb": "תִּטְמָֽא",
       "translit": "titma",
       "ref": "Lev.12.2",
       "has_suffix": false,
@@ -89,7 +89,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וְטָמְאָה",
+      "heb": "וְטָֽמְאָה",
       "translit": "vtam'ah",
       "ref": "Lev.12.2",
       "has_suffix": false,
@@ -109,7 +109,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְטָמְאָה",
+      "heb": "לְטָמְאָֽה",
       "translit": "ltam'ah",
       "ref": "Ezek.22.3",
       "has_suffix": false,
@@ -134,7 +134,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "נִטְמָאָה",
+      "heb": "נִטְמָֽאָה",
       "translit": "nitma'ah",
       "ref": "Ezek.23.7",
       "has_suffix": false,
@@ -217,16 +217,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "טִמֵּא",
+      "heb": "וְטִמֵּא",
       "translit": "timme",
       "ref": "2Kgs.23.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "טִמֵּאת",
+      "heb": "טִמֵּאת",
       "translit": "timme't",
       "ref": "Ezek.5.11",
       "has_suffix": false,
@@ -235,7 +235,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "טִמְּאוּ",
+      "heb": "טִמְּאוּ",
       "translit": "timm'u",
       "ref": "Ezek.23.38",
       "has_suffix": false,
@@ -244,7 +244,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "טִמֵּאתֶם",
+      "heb": "טִמֵּאתֶם",
       "translit": "timme'tem",
       "ref": "Ezek.33.26",
       "has_suffix": false,
@@ -255,7 +255,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיְטַמְּאוּ",
+      "heb": "וַֽיְטַמְּאוּ",
       "translit": "vaytamm'u",
       "ref": "2Chr.36.14",
       "has_suffix": false,
@@ -264,7 +264,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיְטַמֵּא",
+      "heb": "וַיְטַמֵּא",
       "translit": "vaytamme",
       "ref": "2Kgs.23.8",
       "has_suffix": false,
@@ -273,7 +273,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֲטַמֵּא",
+      "heb": "וָאֲטַמֵּא",
       "translit": "va'atamme",
       "ref": "Ezek.20.26",
       "has_suffix": false,
@@ -282,7 +282,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַתְּטַמְּאוּ",
+      "heb": "וַתְּטַמְּאוּ",
       "translit": "vatttamm'u",
       "ref": "Jer.2.7",
       "has_suffix": false,
@@ -293,7 +293,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְטַמֵּא",
+      "heb": "תְטַמֵּא",
       "translit": "ttamme",
       "ref": "Deut.21.23",
       "has_suffix": false,
@@ -302,7 +302,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יְטַמְּאוּ",
+      "heb": "יְטַמְּאוּ",
       "translit": "ytamm'u",
       "ref": "Ezek.43.7",
       "has_suffix": false,
@@ -311,7 +311,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְטַמְּאֶנּוּ",
+      "heb": "יְטַמְּאֶנּוּ",
       "translit": "ytamm'ennu",
       "ref": "Lev.13.44",
       "has_suffix": true,
@@ -322,7 +322,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְטִמֵּאתֶם",
+      "heb": "וְטִמֵּאתֶם",
       "translit": "vtimme'tem",
       "ref": "Isa.30.22",
       "has_suffix": false,
@@ -331,7 +331,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְטִמֵּא",
+      "heb": "וְטִמֵּא",
       "translit": "vtimme",
       "ref": "Lev.13.3",
       "has_suffix": false,
@@ -342,7 +342,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "טַמְּאוּ",
+      "heb": "טַמְּאוּ",
       "translit": "tamm'u",
       "ref": "Ezek.9.7",
       "has_suffix": false,
@@ -353,18 +353,18 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "טַמֵּא",
+      "heb": "לְטַמְּאֽוֹ",
       "translit": "tamme",
       "ref": "Jer.7.30",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "טַמֵּא",
+      "heb": "טַמֵּא",
       "translit": "tamme",
       "ref": "Lev.13.44",
       "has_suffix": false,
@@ -375,7 +375,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תְטַמְּאוּ",
+      "heb": "תְטַמְּאוּ",
       "translit": "ttamm'u",
       "ref": "Lev.11.44",
       "has_suffix": false,
@@ -391,7 +391,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "מְטֻמָּאָה",
+      "heb": "מְטֻמָּאָה",
       "translit": "mtumma'ah",
       "ref": "Ezek.4.14",
       "has_suffix": false,
@@ -407,7 +407,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִטַּמְּאוּ",
+      "heb": "יִטַּמְּאוּ",
       "translit": "yittamm'u",
       "ref": "Ezek.14.11",
       "has_suffix": false,
@@ -416,7 +416,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִֽטַּמְּאוּ",
+      "heb": "תִּטַּמָּאוּ",
       "translit": "tittamm'u",
       "ref": "Lev.11.24",
       "has_suffix": false,
@@ -425,7 +425,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִטַּמָּא",
+      "heb": "יִטַּמָּא",
       "translit": "yittamma",
       "ref": "Lev.21.1",
       "has_suffix": false,
@@ -436,7 +436,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּטַּמָּאוּ",
+      "heb": "תִּטַּמָּאוּ",
       "translit": "tittamma'u",
       "ref": "Ezek.20.7",
       "has_suffix": false,

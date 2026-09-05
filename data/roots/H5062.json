@@ -11,10 +11,10 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "נָגַף",
+      "heb": "נְגָפָנוּ",
       "translit": "nagaf",
       "ref": "1Sam.4.3",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -22,7 +22,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּגֹּף",
+      "heb": "וַיִּגֹּף",
       "translit": "vayyiggof",
       "ref": "1Sam.25.38",
       "has_suffix": false,
@@ -31,7 +31,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֶגֹּף",
+      "heb": "וָאֶגֹּף",
       "translit": "va'eggof",
       "ref": "Josh.24.5",
       "has_suffix": false,
@@ -53,10 +53,10 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִגֹּף",
+      "heb": "יִגָּפֶנּוּ",
       "translit": "yiggof",
       "ref": "1Sam.26.10",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -80,7 +80,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּגֹּף",
+      "heb": "תִּגֹּף",
       "translit": "tiggof",
       "ref": "Ps.91.12",
       "has_suffix": false,
@@ -111,7 +111,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לִנְגֹּף",
+      "heb": "לִנְגֹּף",
       "translit": "lingof",
       "ref": "Exod.12.23",
       "has_suffix": false,
@@ -138,7 +138,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "נִגְּפוּ",
+      "heb": "נִגְּפוּ",
       "translit": "niggfu",
       "ref": "1Chr.19.16",
       "has_suffix": false,
@@ -147,7 +147,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "נִגַּף",
+      "heb": "נִגַּף",
       "translit": "niggaf",
       "ref": "2Sam.10.15",
       "has_suffix": false,
@@ -158,7 +158,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּנָּגֶף",
+      "heb": "וַיִּנָּגֶף",
       "translit": "vayyinnagef",
       "ref": "1Sam.4.2",
       "has_suffix": false,
@@ -167,7 +167,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּנָּגְפוּ",
+      "heb": "וַיִּנָּגְפוּ",
       "translit": "vayyinnagfu",
       "ref": "1Sam.7.10",
       "has_suffix": false,
@@ -178,7 +178,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "נִגָּפִים",
+      "heb": "נִגָּפִים",
       "translit": "niggafim",
       "ref": "Deut.28.7",
       "has_suffix": false,
@@ -187,7 +187,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "נִגָּף",
+      "heb": "נִגָּף",
       "translit": "niggaf",
       "ref": "Deut.28.25",
       "has_suffix": false,
@@ -198,7 +198,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִנָּגֵף",
+      "heb": "יִנָּגֵף",
       "translit": "yinnagef",
       "ref": "2Chr.6.24",
       "has_suffix": false,
@@ -207,7 +207,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּנָּֽגְפוּ",
+      "heb": "תִּנָּֽגְפוּ",
       "translit": "tinnagfu",
       "ref": "Deut.1.42",
       "has_suffix": false,
@@ -218,7 +218,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְנִגַּפְתֶּם",
+      "heb": "וְנִגַּפְתֶּם",
       "translit": "vniggaftem",
       "ref": "Lev.26.17",
       "has_suffix": false,
@@ -229,7 +229,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בְּֽהִנָּגֵף",
+      "heb": "בְּֽהִנָּגֵף",
       "translit": "bhinnagef",
       "ref": "1Kgs.8.33",
       "has_suffix": false,
@@ -256,7 +256,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִֽתְנַגְּפוּ",
+      "heb": "יִֽתְנַגְּפוּ",
       "translit": "yitnaggfu",
       "ref": "Jer.13.16",
       "has_suffix": false,

@@ -11,16 +11,16 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "נִסְתַּרְתָּ",
+      "heb": "וְנִסְתַּרְתָּ",
       "translit": "nistarta",
       "ref": "1Kgs.17.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נִסְתָּֽרְנוּ",
+      "heb": "נִסְתָּֽרְנוּ",
       "translit": "nistarnu",
       "ref": "Isa.28.15",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "נִסְתָּֽרָה",
+      "heb": "נִסְתְּרָה",
       "translit": "nistarah",
       "ref": "Isa.40.27",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "נִסְתְּרוּ",
+      "heb": "נִסְתְּרוּ",
       "translit": "nistru",
       "ref": "Isa.65.16",
       "has_suffix": false,
@@ -47,18 +47,18 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "נִסְתָּר",
+      "heb": "וְנִסְתָּר",
       "translit": "nistar",
       "ref": "Prov.22.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "wayyiqtol": [
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּסָּתֵר",
+      "heb": "וַיִּסָּתֵר",
       "translit": "vayyissater",
       "ref": "1Sam.20.24",
       "has_suffix": false,
@@ -69,7 +69,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "וְהַנִּסְתָּרִים",
+      "heb": "וְהַנִּסְתָּרִים",
       "translit": "vhannistarim",
       "ref": "Deut.7.20",
       "has_suffix": false,
@@ -78,7 +78,7 @@
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "הַנִּסְתָּרֹת",
+      "heb": "הַנִּסְתָּרֹת",
       "translit": "hannistarot",
       "ref": "Deut.29.28",
       "has_suffix": false,
@@ -89,7 +89,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "נִסְתָּר",
+      "heb": "נִסְתָּר",
       "translit": "nistar",
       "ref": "Ps.19.7",
       "has_suffix": false,
@@ -100,7 +100,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִסָּתְרוּ",
+      "heb": "יִסָּתְרוּ",
       "translit": "yissatru",
       "ref": "Amos.9.3",
       "has_suffix": false,
@@ -109,7 +109,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶסָּתֵר",
+      "heb": "אֶסָּתֵר",
       "translit": "essater",
       "ref": "Gen.4.14",
       "has_suffix": false,
@@ -118,7 +118,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נִסָּתֵר",
+      "heb": "נִסָּתֵר",
       "translit": "nissater",
       "ref": "Gen.31.49",
       "has_suffix": false,
@@ -127,7 +127,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִסָּתֵר",
+      "heb": "יִסָּתֵר",
       "translit": "yissater",
       "ref": "Hos.13.14",
       "has_suffix": false,
@@ -136,7 +136,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּסָּתֵר",
+      "heb": "תִּסָּתֵר",
       "translit": "tissater",
       "ref": "Ps.89.47",
       "has_suffix": false,
@@ -145,7 +145,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּסָּתְרוּ",
+      "heb": "תִּסָּתְרוּ",
       "translit": "tissatru",
       "ref": "Zeph.2.3",
       "has_suffix": false,
@@ -156,7 +156,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְנִסְתַּרְתִּי",
+      "heb": "וְנִסְתַּרְתִּי",
       "translit": "vnistarti",
       "ref": "1Sam.20.5",
       "has_suffix": false,
@@ -165,7 +165,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וְנִסְתְּרָה",
+      "heb": "וְנִסְתְּרָה",
       "translit": "vnistrah",
       "ref": "Num.5.13",
       "has_suffix": false,
@@ -176,7 +176,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הִסָּתֵר",
+      "heb": "הִסָּתֵר",
       "translit": "hissater",
       "ref": "Jer.36.19",
       "has_suffix": false,
@@ -187,7 +187,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְהִסָּתֶר",
+      "heb": "לְהִסָּתֶר",
       "translit": "lhissater",
       "ref": "Job.34.22",
       "has_suffix": false,
@@ -203,7 +203,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "סַתְּרִי",
+      "heb": "סַתְּרִי",
       "translit": "sattri",
       "ref": "Isa.16.3",
       "has_suffix": false,
@@ -219,7 +219,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "מְסֻתָּֽרֶת",
+      "heb": "מְסֻתָּֽרֶת",
       "translit": "msuttaret",
       "ref": "Prov.27.5",
       "has_suffix": false,
@@ -235,16 +235,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הִסְתִּיר",
+      "heb": "הִסְתִּירָֽנִי",
       "translit": "histir",
       "ref": "Isa.49.2",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הִסְתַּרְתִּי",
+      "heb": "הִסְתַּרְתִּי",
       "translit": "histarti",
       "ref": "Isa.50.6",
       "has_suffix": false,
@@ -253,7 +253,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "הִסְתִּירוּ",
+      "heb": "הִסְתִּירוּ",
       "translit": "histiru",
       "ref": "Isa.59.2",
       "has_suffix": false,
@@ -262,7 +262,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הִסְתַּרְתָּ",
+      "heb": "הִסְתַּרְתָּ",
       "translit": "histarta",
       "ref": "Isa.64.6",
       "has_suffix": false,
@@ -273,7 +273,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתַּסְתִּירֵהוּ",
+      "heb": "וַתַּסְתִּירֵהוּ",
       "translit": "vattastirehu",
       "ref": "2Chr.22.11",
       "has_suffix": true,
@@ -282,7 +282,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּסְתִּרוּ",
+      "heb": "וַיַּסְתִּרוּ",
       "translit": "vayyastiru",
       "ref": "2Kgs.11.2",
       "has_suffix": false,
@@ -291,7 +291,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּסְתֵּר",
+      "heb": "וַיַּסְתֵּר",
       "translit": "vayyaster",
       "ref": "Exod.3.6",
       "has_suffix": false,
@@ -300,7 +300,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאַסְתִּר",
+      "heb": "וָאַסְתִּר",
       "translit": "va'astir",
       "ref": "Ezek.39.23",
       "has_suffix": false,
@@ -311,7 +311,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "הַמַּסְתִּיר",
+      "heb": "הַמַּסְתִּיר",
       "translit": "hammastir",
       "ref": "Isa.8.17",
       "has_suffix": false,
@@ -322,7 +322,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַסְתִּיר",
+      "heb": "יַסְתִּיר",
       "translit": "yastir",
       "ref": "1Sam.20.2",
       "has_suffix": false,
@@ -331,7 +331,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אַסְתִּיר",
+      "heb": "אַסְתִּיר",
       "translit": "astir",
       "ref": "Deut.31.18",
       "has_suffix": false,
@@ -340,7 +340,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּסְתִּיר",
+      "heb": "תַסְתִּיר",
       "translit": "tastir",
       "ref": "Job.13.24",
       "has_suffix": false,
@@ -351,7 +351,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהִסְתַּרְתִּי",
+      "heb": "וְהִסְתַּרְתִּי",
       "translit": "vhistarti",
       "ref": "Deut.31.17",
       "has_suffix": false,
@@ -362,7 +362,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הַסְתֵּר",
+      "heb": "הַסְתֵּר",
       "translit": "haster",
       "ref": "Prov.25.2",
       "has_suffix": false,
@@ -373,7 +373,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לַסְתִּר",
+      "heb": "לַסְתִּר",
       "translit": "lastir",
       "ref": "Isa.29.15",
       "has_suffix": false,
@@ -384,7 +384,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הַסְתֵּר",
+      "heb": "הַסְתֵּר",
       "translit": "haster",
       "ref": "Deut.31.18",
       "has_suffix": false,
@@ -395,7 +395,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אַסְתִּירָה",
+      "heb": "אַסְתִּירָה",
       "translit": "astirah",
       "ref": "Deut.32.20",
       "has_suffix": false,
@@ -406,7 +406,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּסְתֵּר",
+      "heb": "תַּסְתֵּר",
       "translit": "taster",
       "ref": "Ps.27.9",
       "has_suffix": false,
@@ -422,7 +422,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מִסְתַּתֵּר",
+      "heb": "מִסְתַּתֵּר",
       "translit": "mistatter",
       "ref": "1Sam.23.19",
       "has_suffix": false,
@@ -433,7 +433,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּסְתַּתָּֽר",
+      "heb": "תִּסְתַּתָּֽר",
       "translit": "tistattar",
       "ref": "Isa.29.14",
       "has_suffix": false,

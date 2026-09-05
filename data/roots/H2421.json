@@ -11,7 +11,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "חַי",
+      "heb": "חָיָה",
       "translit": "chay",
       "ref": "Eccl.6.6",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַֽיְחִי",
+      "heb": "וַיֶּֽחִי",
       "translit": "vaychi",
       "ref": "1Kgs.17.22",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּֽחְיוּ",
+      "heb": "וַיִּֽחְיוּ",
       "translit": "vayyichyu",
       "ref": "Ezek.37.10",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתְּחִי",
+      "heb": "וַתְּחִי",
       "translit": "vattchi",
       "ref": "Gen.45.27",
       "has_suffix": false,
@@ -69,7 +69,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶֽחְיֶה",
+      "heb": "אֶחְיֶה",
       "translit": "echyeh",
       "ref": "2Kgs.1.2",
       "has_suffix": false,
@@ -96,7 +96,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִֽחְיֶֽה",
+      "heb": "תִחְיֶה",
       "translit": "tichyeh",
       "ref": "2Kgs.8.10",
       "has_suffix": false,
@@ -114,7 +114,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּֽחְיוּ",
+      "heb": "תִּֽחְיוּ",
       "translit": "tichyu",
       "ref": "Amos.5.14",
       "has_suffix": false,
@@ -141,11 +141,11 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּֽחְיֶה",
+      "heb": "וּתְחִי",
       "translit": "tichyeh",
       "ref": "Gen.19.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "veqatal": [
@@ -170,7 +170,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וִחְיִיתֶם",
+      "heb": "וִחְיִיתֶֽם",
       "translit": "vichyitem",
       "ref": "Ezek.37.5",
       "has_suffix": false,
@@ -270,7 +270,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְּחִֽי",
+      "heb": "תְּחִֽי",
       "translit": "tchi",
       "ref": "1Kgs.20.32",
       "has_suffix": false,
@@ -295,7 +295,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "הַֽחִיִּיתֶם",
+      "heb": "הַֽחִיִּיתֶם",
       "translit": "hachiyyitem",
       "ref": "Num.31.15",
       "has_suffix": false,
@@ -304,7 +304,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "חִיָּֽה",
+      "heb": "חִיָּֽה",
       "translit": "chiyyah",
       "ref": "Ps.22.30",
       "has_suffix": false,
@@ -313,7 +313,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "חִיִּיתַנִי",
+      "heb": "חִיִּיתַנִי",
       "translit": "chiyyitani",
       "ref": "Ps.30.4",
       "has_suffix": true,
@@ -322,7 +322,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "חִיָּֽתְנִי",
+      "heb": "חִיָּֽתְנִי",
       "translit": "chiyyatni",
       "ref": "Ps.119.50",
       "has_suffix": true,
@@ -333,7 +333,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיְחַיֶּהָ",
+      "heb": "וַיְחַיֶּהָ",
       "translit": "vaychayyeha",
       "ref": "2Sam.12.3",
       "has_suffix": true,
@@ -342,7 +342,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "וַתְּחַיֶּיןָ",
+      "heb": "וַתְּחַיֶּיןָ",
       "translit": "vattchayyena",
       "ref": "Exod.1.17",
       "has_suffix": false,
@@ -351,7 +351,7 @@
      {
       "code": "2fp",
       "label": "2nd fem. pl.",
-      "heb": "וַתְּחַיֶּיןָ",
+      "heb": "וַתְּחַיֶּיןָ",
       "translit": "vattchayyena",
       "ref": "Exod.1.18",
       "has_suffix": false,
@@ -362,18 +362,18 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מְחַיֶּה",
+      "heb": "וּמְחַיֶּה",
       "translit": "mchayyeh",
       "ref": "1Sam.2.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "yiqtol": [
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְחַיֶּה",
+      "heb": "יְחַיֶּה",
       "translit": "ychayyeh",
       "ref": "1Chr.11.8",
       "has_suffix": false,
@@ -382,7 +382,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וּנְחַיֶּה",
+      "heb": "וּנְחַיֶּה",
       "translit": "unchayyeh",
       "ref": "1Kgs.18.5",
       "has_suffix": false,
@@ -391,16 +391,16 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יְחַיּֽוּ",
+      "heb": "יְחַיֻּנוּ",
       "translit": "ychayyu",
       "ref": "2Kgs.7.4",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְחַיֶּה",
+      "heb": "תְחַיֶּה",
       "translit": "tchayyeh",
       "ref": "Deut.20.16",
       "has_suffix": false,
@@ -409,16 +409,16 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֲחַיֶּה",
+      "heb": "וַאֲחַיֶּה",
       "translit": "achayyeh",
       "ref": "Deut.32.39",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְּחַיֶּה",
+      "heb": "תְּחַיֶּה",
       "translit": "tchayyeh",
       "ref": "Eccl.7.12",
       "has_suffix": false,
@@ -427,16 +427,16 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תְּחַיּֽוּן",
+      "heb": "תְּחַיּֽוּן",
       "translit": "tchayyun",
       "ref": "Exod.1.22",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      },
      {
       "code": "2fp",
       "label": "2nd fem. pl.",
-      "heb": "תְחַיֶּֽינָה",
+      "heb": "תְחַיֶּֽינָה",
       "translit": "tchayyenah",
       "ref": "Ezek.13.18",
       "has_suffix": false,
@@ -447,7 +447,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "חַיֵּֽנִי",
+      "heb": "חַיֵּיהוּ",
       "translit": "chayyeni",
       "ref": "Hab.3.2",
       "has_suffix": true,
@@ -458,10 +458,10 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "וּלְחַיּוֹת",
+      "heb": "לְחַיֹּתֵנוּ",
       "translit": "ulchayyot",
       "ref": "Deut.6.24",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": true
      }
     ]
@@ -543,7 +543,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְהַחֲיוֹת",
+      "heb": "וּֽלְהַחֲיוֹת",
       "translit": "lhachayot",
       "ref": "2Kgs.5.7",
       "has_suffix": false,

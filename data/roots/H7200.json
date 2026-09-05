@@ -11,11 +11,11 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "רָאִיתָ",
+      "heb": "וּרְאִיתַנִי",
       "translit": "ra'ita",
       "ref": "1Chr.17.17",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      },
      {
       "code": "3cp",
@@ -47,11 +47,11 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "רְאִיתֶם",
+      "heb": "הַרְּאִיתֶם",
       "translit": "r'item",
       "ref": "1Sam.10.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2fs",
@@ -85,7 +85,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּרְא",
+      "heb": "וַיַּרְא",
       "translit": "vayyar",
       "ref": "1Chr.10.5",
       "has_suffix": false,
@@ -94,7 +94,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּרְאוּ",
+      "heb": "וַיִּרְאוּ",
       "translit": "vayyir'u",
       "ref": "1Chr.10.7",
       "has_suffix": false,
@@ -103,7 +103,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתֵּרֶא",
+      "heb": "וַתֵּרֶא",
       "translit": "vattere",
       "ref": "1Chr.15.29",
       "has_suffix": false,
@@ -112,7 +112,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "וַתִּרְאֶינָה",
+      "heb": "וַתִּרְאֶינָה",
       "translit": "vattir'enah",
       "ref": "1Kgs.10.7",
       "has_suffix": false,
@@ -121,7 +121,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וַנִּרְאֶה",
+      "heb": "וַנִּרְאֶה",
       "translit": "vannir'eh",
       "ref": "1Sam.10.14",
       "has_suffix": false,
@@ -130,7 +130,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַתִּרְאוּ",
+      "heb": "וַתִּרְאוּ",
       "translit": "vattir'u",
       "ref": "1Sam.12.12",
       "has_suffix": false,
@@ -139,7 +139,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֵרֶא",
+      "heb": "וָֽאֶרְאֶה",
       "translit": "va'ere",
       "ref": "Dan.8.2",
       "has_suffix": false,
@@ -148,7 +148,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתֵּרֶא",
+      "heb": "וַתֵּרֶא",
       "translit": "vattere",
       "ref": "Neh.9.9",
       "has_suffix": false,
@@ -159,7 +159,7 @@
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "רֹאוֹת",
+      "heb": "רֹאֽוֹת",
       "translit": "ro'ot",
       "ref": "1Kgs.1.48",
       "has_suffix": false,
@@ -208,7 +208,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִרְאֶה",
+      "heb": "יֵרֶא",
       "translit": "yir'eh",
       "ref": "1Chr.12.18",
       "has_suffix": false,
@@ -244,16 +244,16 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶרְאֶה",
+      "heb": "אֶרְאֶֽךָּ",
       "translit": "er'eh",
       "ref": "2Kgs.3.14",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִרְאוּ",
+      "heb": "יִרְאוּן",
       "translit": "yir'u",
       "ref": "Deut.4.28",
       "has_suffix": false,
@@ -262,16 +262,16 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נִרְאֶה",
+      "heb": "וְנִרְאֶה",
       "translit": "nir'eh",
       "ref": "Gen.37.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תִּרְאִי",
+      "heb": "תִּרְאִי",
       "translit": "tir'i",
       "ref": "Isa.60.5",
       "has_suffix": false,
@@ -280,10 +280,10 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּרְאֶֽה",
+      "heb": "תִרְאֵֽנִי",
       "translit": "tir'eh",
       "ref": "Job.10.18",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -365,11 +365,11 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "רְאוּ",
+      "heb": "וּרְאוּ",
       "translit": "r'u",
       "ref": "1Kgs.20.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2fp",
@@ -385,11 +385,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "רְאוֹת",
+      "heb": "בִּרְאוֹת",
       "translit": "r'ot",
       "ref": "1Chr.21.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
@@ -407,31 +407,31 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶרְאֶה",
+      "heb": "וְאֶרְאֶה",
       "translit": "er'eh",
       "ref": "1Sam.20.29",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נִרְאֶה",
+      "heb": "וְנִרְאֶֽה",
       "translit": "nir'eh",
       "ref": "2Kgs.7.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "jussive": [
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יֵרֶא",
+      "heb": "וְיֵרֶא",
       "translit": "yere",
       "ref": "1Sam.24.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3mp",
@@ -445,7 +445,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תֵּרֶא",
+      "heb": "תֵּרֶא",
       "translit": "tere",
       "ref": "Obad.1.12",
       "has_suffix": false,
@@ -454,7 +454,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּרְאוּנִי",
+      "heb": "תִּרְאוּנִי",
       "translit": "tir'uni",
       "ref": "Song.1.6",
       "has_suffix": true,
@@ -499,7 +499,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיֵּרָאוּ",
+      "heb": "וַיֵּרָאוּ",
       "translit": "vayyera'u",
       "ref": "1Kgs.8.8",
       "has_suffix": false,
@@ -508,7 +508,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיֵּרָא",
+      "heb": "וַיֵּרָא",
       "translit": "vayyera",
       "ref": "1Kgs.9.2",
       "has_suffix": false,
@@ -528,7 +528,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "הַנִּרְאֶה",
+      "heb": "הַנִּרְאֶה",
       "translit": "hannir'eh",
       "ref": "Gen.12.7",
       "has_suffix": false,
@@ -577,11 +577,11 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תֵּרָאֶה",
+      "heb": "וְתֵרָאֶה",
       "translit": "tera'eh",
       "ref": "Gen.1.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "veqatal": [
@@ -619,11 +619,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הֵרָאוֹת",
+      "heb": "לְהֵרָאוֹת",
       "translit": "hera'ot",
       "ref": "1Kgs.18.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "jussive": [
@@ -655,28 +655,28 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הֶרְאָה",
+      "heb": "וְהִרְאַנִי",
       "translit": "her'ah",
       "ref": "2Kgs.8.10",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      },
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהַרְאֵיתִי",
+      "heb": "הִרְאִיתִם",
       "translit": "vhar'eti",
       "ref": "2Kgs.20.15",
-      "has_suffix": false,
-      "has_prefix": true
+      "has_suffix": true,
+      "has_prefix": false
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הִרְאִיתָה",
+      "heb": "הִרְאִיתַנִי",
       "translit": "hir'itah",
       "ref": "Jer.11.18",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -684,16 +684,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּרְא",
+      "heb": "וַיַּרְאֵהוּ",
       "translit": "vayyar",
       "ref": "2Kgs.6.6",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּרְאוּם",
+      "heb": "וַיַּרְאוּם",
       "translit": "vayyar'um",
       "ref": "Num.13.26",
       "has_suffix": true,
@@ -715,7 +715,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אַרְאֶנּוּ",
+      "heb": "אַרְאֶֽךָּ",
       "translit": "ar'ennu",
       "ref": "Gen.12.1",
       "has_suffix": true,
@@ -755,7 +755,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הַרְאֵנוּ",
+      "heb": "הַרְאֵנִי",
       "translit": "har'enu",
       "ref": "Exod.33.18",
       "has_suffix": true,
@@ -775,10 +775,10 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְהַרְאוֹת",
+      "heb": "לַרְאֹֽתְכֶם",
       "translit": "lhar'ot",
       "ref": "Deut.1.33",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": true
      }
     ],
@@ -786,7 +786,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְאַרְאֶךָּ",
+      "heb": "וְאַרְאֶךָּ",
       "translit": "v'ar'ekka",
       "ref": "Judg.4.22",
       "has_suffix": true,
@@ -840,7 +840,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּתְרָאוּ",
+      "heb": "וַיִּתְרָאוּ",
       "translit": "vayyitra'u",
       "ref": "2Chr.25.21",
       "has_suffix": false,
@@ -860,7 +860,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּתְרָאֽוּ",
+      "heb": "תִּתְרָאֽוּ",
       "translit": "titra'u",
       "ref": "Gen.42.1",
       "has_suffix": false,

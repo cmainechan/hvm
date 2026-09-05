@@ -11,7 +11,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "נָשַׁק",
+      "heb": "נָשַׁק",
       "translit": "nashaq",
       "ref": "1Kgs.19.18",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "נָשָֽׁקוּ",
+      "heb": "נָשָֽׁקוּ",
       "translit": "nashaqu",
       "ref": "Ps.85.11",
       "has_suffix": false,
@@ -31,16 +31,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּשַּׁק",
+      "heb": "וַיִּשָּׁקֵהוּ",
       "translit": "vayyishshaq",
       "ref": "1Sam.10.1",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיִּשְּׁקוּ",
+      "heb": "וַֽיִּשְּׁקוּ",
       "translit": "vayyishshqu",
       "ref": "1Sam.20.41",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּשַּׁק",
+      "heb": "וַתִּשַּׁק",
       "translit": "vattishshaq",
       "ref": "Job.31.27",
       "has_suffix": false,
@@ -60,7 +60,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִשַּׁק",
+      "heb": "יִשַּׁק",
       "translit": "yishshaq",
       "ref": "Gen.41.40",
       "has_suffix": false,
@@ -69,16 +69,16 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִשָּׁקֽוּן",
+      "heb": "יִשָּׁקֽוּן",
       "translit": "yishshaqun",
       "ref": "Hos.13.2",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      },
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶשָׁקְךָ",
+      "heb": "אֶשָׁקְךָ",
       "translit": "eshaqkha",
       "ref": "Song.8.1",
       "has_suffix": true,
@@ -89,7 +89,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וְנָשְׁקָה",
+      "heb": "וְנָשְׁקָה",
       "translit": "vnashqah",
       "ref": "Prov.7.13",
       "has_suffix": false,
@@ -100,10 +100,10 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וּשְׁקָה",
+      "heb": "וּשְׁקָה",
       "translit": "ushqah",
       "ref": "Gen.27.26",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": true
      }
     ],
@@ -111,7 +111,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לִנְשָׁק",
+      "heb": "לִנְשָׁק",
       "translit": "linshaq",
       "ref": "2Sam.20.9",
       "has_suffix": false,
@@ -122,7 +122,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶשְּׁקָה",
+      "heb": "אֶשְּׁקָה",
       "translit": "eshshqah",
       "ref": "1Kgs.19.20",
       "has_suffix": false,
@@ -138,7 +138,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיְנַשֵּׁק",
+      "heb": "וַיְנַשֶּׁק",
       "translit": "vaynashsheq",
       "ref": "Gen.29.13",
       "has_suffix": false,
@@ -149,7 +149,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "נַשְּׁקוּ",
+      "heb": "נַשְּׁקוּ",
       "translit": "nashshqu",
       "ref": "Ps.2.12",
       "has_suffix": false,
@@ -160,7 +160,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְנַשֵּׁק",
+      "heb": "לְנַשֵּׁק",
       "translit": "lnashsheq",
       "ref": "Gen.31.28",
       "has_suffix": false,
@@ -176,7 +176,7 @@
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "מַשִּׁיקוֹת",
+      "heb": "מַשִּׁיקוֹת",
       "translit": "mashshiqot",
       "ref": "Ezek.3.13",
       "has_suffix": false,

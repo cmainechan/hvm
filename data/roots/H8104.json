@@ -11,7 +11,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "שָׁמַר",
+      "heb": "שָׁמָר",
       "translit": "shamar",
       "ref": "1Chr.10.13",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "שָׁמַרְתָּ",
+      "heb": "שָׁמַרְתָּ",
       "translit": "shamarta",
       "ref": "1Kgs.2.43",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "שָׁמַרְתִּי",
+      "heb": "שָׁמַרְתִּי",
       "translit": "shamarti",
       "ref": "1Sam.25.21",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "שְׁמַרְתֶּם",
+      "heb": "שְׁמַרְתֶּם",
       "translit": "shmartem",
       "ref": "1Sam.26.16",
       "has_suffix": false,
@@ -47,7 +47,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "שָׁמְרוּ",
+      "heb": "שָׁמְרוּ",
       "translit": "shamru",
       "ref": "2Chr.34.21",
       "has_suffix": false,
@@ -56,7 +56,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "שָֽׁמְרָה",
+      "heb": "שָֽׁמְרָה",
       "translit": "shamrah",
       "ref": "Job.10.12",
       "has_suffix": false,
@@ -65,7 +65,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "שָׁמַרְנוּ",
+      "heb": "שָׁמַרְנוּ",
       "translit": "shamarnu",
       "ref": "Mal.3.14",
       "has_suffix": false,
@@ -76,7 +76,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתִּשְׁמָר",
+      "heb": "וַתִּשְׁמָר",
       "translit": "vattishmar",
       "ref": "1Kgs.3.6",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּשְׁמֹר",
+      "heb": "וַיִּשְׁמֹר",
       "translit": "vayyishmor",
       "ref": "1Sam.30.23",
       "has_suffix": false,
@@ -94,7 +94,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַֽתִּשְׁמְרוּ",
+      "heb": "וַֽתִּשְׁמְרוּ",
       "translit": "vattishmru",
       "ref": "Jer.35.18",
       "has_suffix": false,
@@ -103,7 +103,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיִּשְׁמְרוּ",
+      "heb": "וַֽיִּשְׁמְרוּ",
       "translit": "vayyishmru",
       "ref": "Neh.12.45",
       "has_suffix": false,
@@ -112,10 +112,10 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָֽאֶשְׁמְרָה",
+      "heb": "וָֽאֶשְׁמְרָה",
       "translit": "va'eshmrah",
       "ref": "Ps.119.55",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      }
     ],
@@ -123,7 +123,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "שֹׁמְרִים",
+      "heb": "שֹׁמְרִים",
       "translit": "shomrim",
       "ref": "1Chr.12.30",
       "has_suffix": false,
@@ -132,7 +132,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "שֹׁמֵר",
+      "heb": "שֹׁמֵר",
       "translit": "shomer",
       "ref": "1Kgs.8.23",
       "has_suffix": false,
@@ -143,7 +143,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "שָֽׁמוּר",
+      "heb": "שָֽׁמוּר",
       "translit": "shamur",
       "ref": "1Sam.9.24",
       "has_suffix": false,
@@ -152,7 +152,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "וּשְׁמֻרָה",
+      "heb": "וּשְׁמֻרָה",
       "translit": "ushmurah",
       "ref": "2Sam.23.5",
       "has_suffix": false,
@@ -163,7 +163,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִשְׁמֹר",
+      "heb": "תִּשְׁמוֹר",
       "translit": "tishmor",
       "ref": "1Chr.22.13",
       "has_suffix": false,
@@ -172,7 +172,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִשְׁמְרוּ",
+      "heb": "יִשְׁמְרוּ",
       "translit": "yishmru",
       "ref": "1Kgs.2.4",
       "has_suffix": false,
@@ -181,7 +181,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּשְׁמְרוּ",
+      "heb": "תִשְׁמְרוּ",
       "translit": "tishmru",
       "ref": "1Kgs.9.6",
       "has_suffix": false,
@@ -190,7 +190,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִשְׁמֹר",
+      "heb": "יִשְׁמֹר",
       "translit": "yishmor",
       "ref": "1Sam.2.9",
       "has_suffix": false,
@@ -199,7 +199,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נִשְׁמֹר",
+      "heb": "נִשְׁמֹר",
       "translit": "nishmor",
       "ref": "Deut.6.25",
       "has_suffix": false,
@@ -208,7 +208,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶשְׁמֹר",
+      "heb": "אֶשְׁמֹֽר",
       "translit": "eshmor",
       "ref": "Gen.30.31",
       "has_suffix": false,
@@ -217,7 +217,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּשְׁמֹר",
+      "heb": "תִּשְׁמֹֽר",
       "translit": "tishmor",
       "ref": "Judg.13.14",
       "has_suffix": false,
@@ -228,7 +228,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְשָׁמְרוּ",
+      "heb": "וְשָׁמְרוּ",
       "translit": "vshamru",
       "ref": "1Chr.23.32",
       "has_suffix": false,
@@ -237,7 +237,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְשָׁמַרְתָּ",
+      "heb": "וְשָׁמַרְתָּ",
       "translit": "vshamarta",
       "ref": "1Kgs.2.3",
       "has_suffix": false,
@@ -246,7 +246,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וּשְׁמַרְתֶּם",
+      "heb": "וּשְׁמַרְתֶּם",
       "translit": "ushmartem",
       "ref": "2Kgs.11.6",
       "has_suffix": false,
@@ -255,7 +255,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְשָׁמַר",
+      "heb": "וְשָׁמַר",
       "translit": "vshamar",
       "ref": "Deut.7.12",
       "has_suffix": false,
@@ -264,7 +264,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וּשְׁמַרְתִּיךָ",
+      "heb": "וּשְׁמַרְתִּיךָ",
       "translit": "ushmartikha",
       "ref": "Gen.28.15",
       "has_suffix": true,
@@ -275,7 +275,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "שִׁמְרוּ",
+      "heb": "שִׁמְרוּ",
       "translit": "shimru",
       "ref": "1Chr.28.8",
       "has_suffix": false,
@@ -284,9 +284,9 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "שְׁמֹר",
+      "heb": "שְׁמֹר",
       "translit": "shmor",
-      "ref": "1Chr.29.18",
+      "ref": "1Kgs.20.39",
       "has_suffix": false,
       "has_prefix": false
      }
@@ -295,9 +295,9 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "שְׁמֹר",
+      "heb": "שְׁמֹר",
       "translit": "shmor",
-      "ref": "1Chr.22.12",
+      "ref": "Deut.8.11",
       "has_suffix": false,
       "has_prefix": false
      }
@@ -306,7 +306,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "שָׁמוֹר",
+      "heb": "שָׁמוֹר",
       "translit": "shamor",
       "ref": "Deut.5.12",
       "has_suffix": false,
@@ -317,7 +317,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶֽשְׁמְרָה",
+      "heb": "אֶֽשְׁמְרָה",
       "translit": "eshmrah",
       "ref": "Ps.39.2",
       "has_suffix": false,
@@ -328,7 +328,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּשְׁמֹרוּ",
+      "heb": "תִּשְׁמֹרוּ",
       "translit": "tishmoru",
       "ref": "Ezek.20.18",
       "has_suffix": false,
@@ -337,7 +337,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וְיִשְׁמְרוּ",
+      "heb": "וְיִשְׁמְרוּ",
       "translit": "vyishmru",
       "ref": "Ezek.43.11",
       "has_suffix": false,
@@ -346,7 +346,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְיִשְׁמְרֶֽךָ",
+      "heb": "וְיִשְׁמְרֶֽךָ",
       "translit": "vyishmrekha",
       "ref": "Num.6.24",
       "has_suffix": true,
@@ -362,7 +362,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "נִשְׁמְרוּ",
+      "heb": "נִשְׁמְרוּ",
       "translit": "nishmru",
       "ref": "1Sam.21.5",
       "has_suffix": false,
@@ -371,7 +371,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "נִשְׁמַר",
+      "heb": "נִשְׁמַר",
       "translit": "nishmar",
       "ref": "2Sam.20.10",
       "has_suffix": false,
@@ -382,7 +382,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּשָּׁמֵרוּ",
+      "heb": "תִּשָּׁמֵרוּ",
       "translit": "tishshameru",
       "ref": "Exod.23.13",
       "has_suffix": false,
@@ -391,7 +391,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּשָּׁמֵֽר",
+      "heb": "תִּשָּׁמֵֽר",
       "translit": "tishshamer",
       "ref": "Judg.13.13",
       "has_suffix": false,
@@ -402,7 +402,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְנִשְׁמַר",
+      "heb": "וְנִשְׁמַר",
       "translit": "vnishmar",
       "ref": "2Kgs.6.10",
       "has_suffix": false,
@@ -411,7 +411,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְנִשְׁמַרְתֶּם",
+      "heb": "וְנִשְׁמַרְתֶּם",
       "translit": "vnishmartem",
       "ref": "Deut.2.4",
       "has_suffix": false,
@@ -420,7 +420,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְנִשְׁמַרְתָּ",
+      "heb": "וְנִשְׁמַרְתָּ",
       "translit": "vnishmarta",
       "ref": "Deut.23.10",
       "has_suffix": false,
@@ -431,7 +431,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הִשָּׁמֶר",
+      "heb": "הִשָּֽׁמֶר",
       "translit": "hishshamer",
       "ref": "1Sam.19.2",
       "has_suffix": false,
@@ -440,7 +440,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "הִשָּׁמְרוּ",
+      "heb": "הִשָּׁמְרוּ",
       "translit": "hishshamru",
       "ref": "Deut.4.23",
       "has_suffix": false,
@@ -449,7 +449,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "הִשָּׁמְרִי",
+      "heb": "הִשָּׁמְרִי",
       "translit": "hishshamri",
       "ref": "Judg.13.4",
       "has_suffix": false,
@@ -465,7 +465,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מְשַׁמְּרִים",
+      "heb": "מְשַׁמְּרִים",
       "translit": "mshammrim",
       "ref": "Jonah.2.9",
       "has_suffix": false,
@@ -481,9 +481,9 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֶשְׁתַּמֵּר",
+      "heb": "וָאֶשְׁתַּמֵּר",
       "translit": "va'eshtammer",
-      "ref": "2Sam.22.24",
+      "ref": "Ps.18.24",
       "has_suffix": false,
       "has_prefix": false
      }
@@ -492,7 +492,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְיִשְׁתַּמֵּר",
+      "heb": "וְיִשְׁתַּמֵּר",
       "translit": "vyishtammer",
       "ref": "Mic.6.16",
       "has_suffix": false,

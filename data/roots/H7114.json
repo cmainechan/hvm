@@ -11,7 +11,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "קְצַרְתֶּם",
+      "heb": "קְצַרְתֶּם",
       "translit": "qtzartem",
       "ref": "Hos.10.13",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּקְצַר",
+      "heb": "וַתִּקְצַר",
       "translit": "vattiqtzar",
       "ref": "Judg.10.16",
       "has_suffix": false,
@@ -69,11 +69,11 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "קוֹצֵר",
+      "heb": "בַּקֹּצֵר",
       "translit": "qotzer",
       "ref": "Amos.9.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "participle_passive": [
@@ -91,7 +91,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִקְצוֹר",
+      "heb": "תִקְצֹר",
       "translit": "tiqtzor",
       "ref": "Deut.24.19",
       "has_suffix": false,
@@ -136,7 +136,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תִּקְצֹֽרְנָה",
+      "heb": "תִּקְצֹֽרְנָה",
       "translit": "tiqtzornah",
       "ref": "Prov.10.27",
       "has_suffix": false,
@@ -147,7 +147,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וּקְצַרְתֶּם",
+      "heb": "וּקְצַרְתֶּם",
       "translit": "uqtzartem",
       "ref": "Lev.23.10",
       "has_suffix": false,
@@ -158,11 +158,11 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "קִצְרוּ",
+      "heb": "וְקִצְרוּ",
       "translit": "qitzru",
       "ref": "2Kgs.19.29",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_construct": [
@@ -196,7 +196,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "קִצַּר",
+      "heb": "קִצַּר",
       "translit": "qitztzar",
       "ref": "Ps.102.24",
       "has_suffix": false,
@@ -212,7 +212,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הִקְצַרְתָּ",
+      "heb": "הִקְצַרְתָּ",
       "translit": "hiqtzarta",
       "ref": "Ps.89.46",
       "has_suffix": false,

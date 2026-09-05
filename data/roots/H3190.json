@@ -11,7 +11,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּיטַב",
+      "heb": "וַיִּיטַב",
       "translit": "vayyitav",
       "ref": "1Kgs.3.10",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּיטַב",
+      "heb": "וַתִּיטַב",
       "translit": "vattitav",
       "ref": "Esth.2.9",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּֽיטְבוּ",
+      "heb": "וַיִּֽיטְבוּ",
       "translit": "vayyitvu",
       "ref": "Gen.34.18",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִיטַב",
+      "heb": "יִטַב",
       "translit": "yitav",
       "ref": "1Sam.24.5",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּיטַב",
+      "heb": "תִּיטַב",
       "translit": "titav",
       "ref": "Esth.2.4",
       "has_suffix": false,
@@ -94,7 +94,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הֵיטַבְתָּ",
+      "heb": "הֵיטַבְתָּ",
       "translit": "hetavta",
       "ref": "Jer.1.12",
       "has_suffix": false,
@@ -103,7 +103,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "הֵיטַבְתְּ",
+      "heb": "הֵיטַבְתְּ",
       "translit": "hetavt",
       "ref": "Ruth.3.10",
       "has_suffix": false,
@@ -114,7 +114,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתֵּיטֶב",
+      "heb": "וַתֵּיטֶב",
       "translit": "vattetev",
       "ref": "2Kgs.9.30",
       "has_suffix": false,
@@ -123,7 +123,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיֵּיטֶב",
+      "heb": "וַיֵּיטֶב",
       "translit": "vayyetev",
       "ref": "Exod.1.20",
       "has_suffix": false,
@@ -163,7 +163,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תֵיטִיב",
+      "heb": "תֵּיטִיב",
       "translit": "tetiv",
       "ref": "Gen.4.7",
       "has_suffix": false,
@@ -181,7 +181,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תֵּיטִיבוּ",
+      "heb": "תֵּיטִיבוּ",
       "translit": "tetivu",
       "ref": "Isa.41.23",
       "has_suffix": false,
@@ -190,7 +190,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תֵּיטִבִי",
+      "heb": "תֵּיטִבִי",
       "translit": "tetivi",
       "ref": "Jer.2.33",
       "has_suffix": false,
@@ -208,7 +208,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תֵּיטִיב",
+      "heb": "תֵּיטִיב",
       "translit": "tetiv",
       "ref": "Prov.15.2",
       "has_suffix": false,
@@ -260,7 +260,7 @@
       "heb": "הֵיטִיבָה",
       "translit": "hetivah",
       "ref": "Ps.51.20",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      }
     ],
@@ -268,10 +268,10 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְהֵיטִיב",
+      "heb": "לְהֵיטִֽבְךָ",
       "translit": "lhetiv",
       "ref": "Deut.8.16",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": true
      }
     ],

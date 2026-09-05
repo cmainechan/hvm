@@ -1,0 +1,104 @@
+{
+ "glosses": [
+  "overlay"
+ ],
+ "strong": "H6823",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "צִפָּה",
+      "translit": "tzippah",
+      "ref": "1Kgs.6.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְצַף",
+      "translit": "vaytzaf",
+      "ref": "1Kgs.6.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיְצַפּוּ",
+      "translit": "vaytzappu",
+      "ref": "2Chr.3.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְצִפִּיתָ",
+      "translit": "vetzippita",
+      "ref": "Exod.25.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּצַפֶּה",
+      "translit": "tetzappeh",
+      "ref": "Exod.26.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְצֻפִּים",
+      "translit": "metzuppim",
+      "ref": "Exod.26.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְצֻפֶּה",
+      "translit": "metzuppeh",
+      "ref": "Prov.26.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be overlaid"
+ },
+ "root": "צפה²",
+ "citation_translit": "tzippah",
+ "search_match": [
+  "6823",
+  "be overlaid",
+  "h6823",
+  "overlay",
+  "tzippah",
+  "צפה²"
+ ]
+}

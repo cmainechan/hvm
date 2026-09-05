@@ -11,7 +11,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּֽשְׁאֲבוּ",
+      "heb": "וַיִּֽשְׁאֲבוּ",
       "translit": "vayyish'avu",
       "ref": "1Chr.11.18",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּשְׁאַב",
+      "heb": "וַתִּשְׁאַב",
       "translit": "vattish'av",
       "ref": "Gen.24.20",
       "has_suffix": false,
@@ -31,7 +31,7 @@
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "הַשֹּׁאֲבֹֽת",
+      "heb": "הַשֹּׁאֲבֹֽת",
       "translit": "hashsho'avot",
       "ref": "Gen.24.11",
       "has_suffix": false,
@@ -42,7 +42,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶשְׁאָב",
+      "heb": "אֶשְׁאָב",
       "translit": "esh'av",
       "ref": "Gen.24.19",
       "has_suffix": false,
@@ -51,10 +51,10 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִשְׁאֲבוּן",
+      "heb": "יִשְׁאֲבוּן",
       "translit": "yish'avun",
       "ref": "Ruth.2.9",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      }
     ],
@@ -62,7 +62,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וּשְׁאַבְתֶּם",
+      "heb": "וּשְׁאַבְתֶּם",
       "translit": "ush'avtem",
       "ref": "Isa.12.3",
       "has_suffix": false,
@@ -73,7 +73,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "שַֽׁאֲבִי",
+      "heb": "שַֽׁאֲבִי",
       "translit": "sha'avi",
       "ref": "Nah.3.14",
       "has_suffix": false,
@@ -84,7 +84,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לִשְׁאֹב",
+      "heb": "לִשְׁאֹב",
       "translit": "lish'ov",
       "ref": "1Sam.9.11",
       "has_suffix": false,

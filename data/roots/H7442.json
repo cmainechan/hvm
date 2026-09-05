@@ -11,7 +11,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיָּרֹנּוּ",
+      "heb": "וַיָּרֹנּוּ",
       "translit": "vayyaronnu",
       "ref": "Lev.9.24",
       "has_suffix": false,
@@ -31,11 +31,11 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תָּרֹנָּה",
+      "heb": "וְתָרֹן",
       "translit": "taronnah",
       "ref": "Isa.35.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3ms",
@@ -51,11 +51,11 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "רָנִּי",
+      "heb": "וָרֹנִּי",
       "translit": "ranni",
       "ref": "Isa.12.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2mp",
@@ -71,7 +71,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בְּרָן",
+      "heb": "בְּרָן",
       "translit": "bran",
       "ref": "Job.38.7",
       "has_suffix": false,
@@ -87,7 +87,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יְרַנֵּֽנוּ",
+      "heb": "יְרַנְּנוּ",
       "translit": "yrannenu",
       "ref": "1Chr.16.33",
       "has_suffix": false,
@@ -96,7 +96,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְּרַנֵּן",
+      "heb": "תְּרַנֵּן",
       "translit": "trannen",
       "ref": "Ps.51.16",
       "has_suffix": false,
@@ -105,16 +105,16 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֲרַנֵּֽן",
+      "heb": "וַאֲרַנֵּן",
       "translit": "arannen",
       "ref": "Ps.59.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תְּרַנֵּנָּה",
+      "heb": "תְּרַנֵּנָּה",
       "translit": "trannennah",
       "ref": "Ps.71.23",
       "has_suffix": false,
@@ -125,7 +125,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְרִנְּנוּ",
+      "heb": "וְרִנְּנוּ",
       "translit": "vrinnnu",
       "ref": "Jer.31.12",
       "has_suffix": false,
@@ -136,18 +136,18 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "רַנְּנוּ",
+      "heb": "וְרַנְּנוּ",
       "translit": "rannnu",
       "ref": "Isa.26.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_construct": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "וְרַנֵּן",
+      "heb": "וְרַנֵּן",
       "translit": "vrannen",
       "ref": "Isa.35.2",
       "has_suffix": false,
@@ -158,7 +158,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נְרַנְּנָה",
+      "heb": "נְרַנְּנָה",
       "translit": "nrannnah",
       "ref": "Ps.20.6",
       "has_suffix": false,
@@ -174,7 +174,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְרֻנָּן",
+      "heb": "יְרֻנָּן",
       "translit": "yrunnan",
       "ref": "Isa.16.10",
       "has_suffix": false,
@@ -199,7 +199,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּרְנִֽין",
+      "heb": "תַּרְנִֽין",
       "translit": "tarnin",
       "ref": "Ps.65.9",
       "has_suffix": false,

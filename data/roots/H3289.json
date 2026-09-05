@@ -11,10 +11,10 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "יָעֲצוּ",
+      "heb": "יְעָצֻהוּ",
       "translit": "ya'atzu",
       "ref": "1Kgs.12.8",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -29,7 +29,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "יָעַצְתִּי",
+      "heb": "יָעַצְתִּי",
       "translit": "ya'atzti",
       "ref": "2Sam.17.11",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "יָעַצְתָּ",
+      "heb": "יָעַצְתָּ",
       "translit": "ya'atzta",
       "ref": "Hab.2.10",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "יוֹעֲצִים",
+      "heb": "יֽוֹעֲצִים",
       "translit": "yo'atzim",
       "ref": "2Chr.22.4",
       "has_suffix": false,
@@ -69,7 +69,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "הַיְּעוּצָה",
+      "heb": "הַיְּעוּצָה",
       "translit": "hayy'utzah",
       "ref": "Isa.14.26",
       "has_suffix": false,
@@ -91,10 +91,10 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אִֽיעֲצָה",
+      "heb": "אִיעָצֵךְ",
       "translit": "i'atzah",
       "ref": "1Kgs.1.12",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ]
@@ -127,7 +127,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּוָּעַץ",
+      "heb": "וַיִּוָּעַץ",
       "translit": "vayyivva'atz",
       "ref": "1Chr.13.1",
       "has_suffix": false,
@@ -136,7 +136,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּוָּֽעֲצוּ",
+      "heb": "וַיִּוָּֽעֲצוּ",
       "translit": "vayyivva'atzu",
       "ref": "2Chr.30.23",
       "has_suffix": false,
@@ -158,7 +158,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִֽוָּעֲצוּ",
+      "heb": "יִֽוָּעֲצוּ",
       "translit": "yivva'atzu",
       "ref": "Isa.45.21",
       "has_suffix": false,
@@ -169,7 +169,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וְנִֽוָּעֲצָה",
+      "heb": "וְנִֽוָּעֲצָה",
       "translit": "vnivva'atzah",
       "ref": "Neh.6.7",
       "has_suffix": false,

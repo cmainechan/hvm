@@ -11,27 +11,27 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיְלַקֵּט",
+      "heb": "וַיְלַקֵּט",
       "translit": "vaylaqqet",
       "ref": "1Sam.20.38",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתְּלַקֵּט",
+      "heb": "וַתְּלַקֵּט",
       "translit": "vattlaqqet",
       "ref": "Ruth.2.3",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "infinitive_construct": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְלַקֵּט",
+      "heb": "לְלַקֵּט",
       "translit": "llaqqet",
       "ref": "2Kgs.4.39",
       "has_suffix": false,
@@ -42,7 +42,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "כִּמְלַקֵּט",
+      "heb": "כִּמְלַקֵּט",
       "translit": "kimlaqqet",
       "ref": "Isa.17.5",
       "has_suffix": false,
@@ -51,7 +51,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מְלַקְּטִים",
+      "heb": "מְלַקְּטִים",
       "translit": "mlaqqtim",
       "ref": "Jer.7.18",
       "has_suffix": false,
@@ -62,7 +62,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְלַקֵּט",
+      "heb": "תְלַקֵּֽט",
       "translit": "tlaqqet",
       "ref": "Lev.19.9",
       "has_suffix": false,
@@ -71,7 +71,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְּלַקֵּט",
+      "heb": "תְּלַקֵּט",
       "translit": "tlaqqet",
       "ref": "Ruth.2.15",
       "has_suffix": false,
@@ -82,29 +82,29 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֲלַקֳטָה",
+      "heb": "וַאֲלַקֳטָּה",
       "translit": "alaqotah",
       "ref": "Ruth.2.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "veqatal": [
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וְלִקְּטָה",
+      "heb": "וְלִקְּטָה",
       "translit": "vliqqtah",
       "ref": "Ruth.2.16",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "perfect": [
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "לִקֵּטָה",
+      "heb": "לִקֵּטָה",
       "translit": "liqqetah",
       "ref": "Ruth.2.17",
       "has_suffix": false,
@@ -113,7 +113,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "לִקַּטְתְּ",
+      "heb": "לִקַּטְתְּ",
       "translit": "liqqatt",
       "ref": "Ruth.2.19",
       "has_suffix": false,
@@ -133,7 +133,7 @@
       "translit": "vlaqtu",
       "ref": "Exod.16.4",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "yiqtol": [
@@ -149,7 +149,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּלְקְטֻהוּ",
+      "heb": "תִּלְקְטֻהוּ",
       "translit": "tilqtuhu",
       "ref": "Exod.16.26",
       "has_suffix": true,
@@ -171,11 +171,11 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיִּלְקְטוּ",
+      "heb": "וַֽיִּלְקְטוּ",
       "translit": "vayyilqtu",
       "ref": "Exod.16.17",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "perfect": [
@@ -209,7 +209,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תְּלֻקְּטוּ",
+      "heb": "תְּלֻקְּטוּ",
       "translit": "tluqqtu",
       "ref": "Isa.27.12",
       "has_suffix": false,
@@ -225,11 +225,11 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּֽתְלַקְּטוּ",
+      "heb": "וַיִּֽתְלַקְּטוּ",
       "translit": "vayyitlaqqtu",
       "ref": "Judg.11.3",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ]
    }

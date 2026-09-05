@@ -31,7 +31,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּפָּלֵא",
+      "heb": "וַיִּפָּלֵא",
       "translit": "vayyippale",
       "ref": "2Sam.13.2",
       "has_suffix": false,
@@ -42,11 +42,11 @@
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "נִפְלָאוֹת",
+      "heb": "וְנִפְלָאוֹת",
       "translit": "nifla'ot",
       "ref": "Dan.8.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "fs",
@@ -71,7 +71,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִפָּלֵא",
+      "heb": "יִפָּלֵא",
       "translit": "yippale",
       "ref": "Deut.17.8",
       "has_suffix": false,
@@ -87,7 +87,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְפַלֵּא",
+      "heb": "לְפַלֵּא",
       "translit": "lfalle",
       "ref": "Lev.22.21",
       "has_suffix": false,
@@ -158,11 +158,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הַפְלֵא",
+      "heb": "וְהַפְלֵֽא",
       "translit": "hafle",
       "ref": "2Chr.2.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ]
    }
@@ -174,7 +174,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּתְפַּלָּא",
+      "heb": "תִּתְפַּלָּא",
       "translit": "titpalla",
       "ref": "Job.10.16",
       "has_suffix": false,

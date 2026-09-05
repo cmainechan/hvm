@@ -11,7 +11,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "שָׁבַר",
+      "heb": "שָׁבַר",
       "translit": "shavar",
       "ref": "1Kgs.13.28",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "שָׁבַרְתִּי",
+      "heb": "שָׁבָרְתִּי",
       "translit": "shavarti",
       "ref": "Ezek.30.21",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "שָׁבְרוּ",
+      "heb": "שָׁבְרוּ",
       "translit": "shavru",
       "ref": "Jer.5.5",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "שָׁבָרְתָּ",
+      "heb": "שָׁבָרְתָּ",
       "translit": "shavarta",
       "ref": "Jer.28.13",
       "has_suffix": false,
@@ -47,7 +47,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "שָֽׁבְרָה",
+      "heb": "שָֽׁבְרָה",
       "translit": "shavrah",
       "ref": "Ps.69.21",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַֽיִּשְׁבְּרֵהוּ",
+      "heb": "וַֽיִּשְׁבְּרֵהוּ",
       "translit": "vayyishbrehu",
       "ref": "1Kgs.13.26",
       "has_suffix": true,
@@ -67,7 +67,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֶשְׁבֹּר",
+      "heb": "וָאֶשְׁבֹּר",
       "translit": "va'eshbor",
       "ref": "Job.38.10",
       "has_suffix": false,
@@ -76,7 +76,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּשְׁבְּרוּ",
+      "heb": "וַיִּשְׁבְּרוּ",
       "translit": "vayyishbru",
       "ref": "Judg.7.20",
       "has_suffix": false,
@@ -87,7 +87,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "שֹׁבֵר",
+      "heb": "שֹׁבֵר",
       "translit": "shover",
       "ref": "Ezek.4.16",
       "has_suffix": false,
@@ -98,16 +98,16 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִשְׁבְּרוּ",
+      "heb": "יִשְׁבְּרוּהוּ",
       "translit": "yishbru",
       "ref": "Dan.11.26",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִשְׁבְּרוּ",
+      "heb": "תִשְׁבְּרוּ",
       "translit": "tishbru",
       "ref": "Exod.12.46",
       "has_suffix": false,
@@ -116,7 +116,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶשְׁבֹּר",
+      "heb": "אֶשְׁבּוֹר",
       "translit": "eshbor",
       "ref": "Hos.2.20",
       "has_suffix": false,
@@ -125,7 +125,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִשְׁבּוֹר",
+      "heb": "יִשְׁבּוֹר",
       "translit": "yishbor",
       "ref": "Isa.42.3",
       "has_suffix": false,
@@ -134,7 +134,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּשְׁבָּר",
+      "heb": "תִּשְׁבָּר",
       "translit": "tishbar",
       "ref": "Prov.25.15",
       "has_suffix": false,
@@ -145,7 +145,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְשָׁבַרְתִּי",
+      "heb": "וְשָֽׁבַרְתִּי",
       "translit": "vshavarti",
       "ref": "Amos.1.5",
       "has_suffix": false,
@@ -154,7 +154,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וּשְׁבָרָהּ",
+      "heb": "וּשְׁבָרָהּ",
       "translit": "ushvarahh",
       "ref": "Isa.30.14",
       "has_suffix": true,
@@ -163,7 +163,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְשָׁבַרְתָּ",
+      "heb": "וְשָׁבַרְתָּ",
       "translit": "vshavarta",
       "ref": "Jer.19.10",
       "has_suffix": false,
@@ -174,10 +174,10 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "שְׁבֹר",
+      "heb": "שָׁבְרֵֽם",
       "translit": "shvor",
       "ref": "Jer.17.18",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -185,11 +185,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "שְׁבוֹר",
+      "heb": "בְּשִׁבְרִי",
       "translit": "shvor",
       "ref": "Ezek.30.18",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      }
     ]
    }
@@ -201,7 +201,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "נִשְׁבְּרוּ",
+      "heb": "נִשְׁבְּרוּ",
       "translit": "nishbru",
       "ref": "1Kgs.22.49",
       "has_suffix": false,
@@ -210,7 +210,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "נִשְׁבְּרָה",
+      "heb": "נִשְׁבְּרָה",
       "translit": "nishbrah",
       "ref": "Dan.8.8",
       "has_suffix": false,
@@ -219,7 +219,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "נִשְׁבַּר",
+      "heb": "נִשְׁבַּר",
       "translit": "nishbar",
       "ref": "Exod.22.9",
       "has_suffix": false,
@@ -228,7 +228,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "נִשְׁבַּרְתִּי",
+      "heb": "נִשְׁבַּרְתִּי",
       "translit": "nishbarti",
       "ref": "Ezek.6.9",
       "has_suffix": false,
@@ -239,7 +239,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּשָּׁבֵר",
+      "heb": "וַתִּשָּׁבֵר",
       "translit": "vattishshaver",
       "ref": "1Sam.4.18",
       "has_suffix": false,
@@ -248,7 +248,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּשָּׁבְרוּ",
+      "heb": "וַיִּשָּׁבְרוּ",
       "translit": "vayyishshavru",
       "ref": "2Chr.20.37",
       "has_suffix": false,
@@ -257,7 +257,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "וַתִּשָּׁבַרְנָה",
+      "heb": "וַתִּשָּׁבַרְנָה",
       "translit": "vattishshavarnah",
       "ref": "Ezek.31.12",
       "has_suffix": false,
@@ -266,7 +266,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּשָּׁבֵר",
+      "heb": "וַיִּשָּׁבֵר",
       "translit": "vayyishshaver",
       "ref": "Jer.50.23",
       "has_suffix": false,
@@ -277,7 +277,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "נִשְׁבָּרָה",
+      "heb": "נִשְׁבָּרָה",
       "translit": "nishbarah",
       "ref": "Ps.51.19",
       "has_suffix": false,
@@ -286,7 +286,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "נִשְׁבָּר",
+      "heb": "נִשְׁבָּר",
       "translit": "nishbar",
       "ref": "Ps.51.19",
       "has_suffix": false,
@@ -297,16 +297,16 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "נִשְׁבֶּרֶת",
+      "heb": "וְהַנִּשְׁבֶּרֶת",
       "translit": "nishberet",
       "ref": "Dan.8.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "נִשְׁבָּרִים",
+      "heb": "נִשְׁבָּרִים",
       "translit": "nishbarim",
       "ref": "Jer.2.13",
       "has_suffix": false,
@@ -317,7 +317,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִשָּׁבֵר",
+      "heb": "יִשָּׁבֵֽר",
       "translit": "yishshaver",
       "ref": "Dan.8.25",
       "has_suffix": false,
@@ -326,7 +326,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּשָּׁבֵר",
+      "heb": "תִּשָּׁבֵר",
       "translit": "tishshaver",
       "ref": "Dan.11.4",
       "has_suffix": false,
@@ -335,7 +335,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וְיִשָּׁבֵרוּ",
+      "heb": "וְיִשָּׁבֵרוּ",
       "translit": "vyishshaveru",
       "ref": "Dan.11.22",
       "has_suffix": false,
@@ -344,7 +344,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּשָּׁבֵר",
+      "heb": "תִּשָּׁבֵר",
       "translit": "tishshaver",
       "ref": "Ezek.29.7",
       "has_suffix": false,
@@ -353,7 +353,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תִּשָּׁבַרְנָה",
+      "heb": "תִּשָּׁבַרְנָה",
       "translit": "tishshavarnah",
       "ref": "Isa.27.11",
       "has_suffix": false,
@@ -364,7 +364,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְנִשְׁבְּרוּ",
+      "heb": "וְנִשְׁבְּרוּ",
       "translit": "vnishbru",
       "ref": "Ezek.6.4",
       "has_suffix": false,
@@ -375,7 +375,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְהִשָּׁבֵֽר",
+      "heb": "לְהִשָּׁבֵֽר",
       "translit": "lhishshaver",
       "ref": "Jonah.1.4",
       "has_suffix": false,
@@ -391,7 +391,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "שִׁבְּרוּ",
+      "heb": "שִׁבֵּרוּ",
       "translit": "shibbru",
       "ref": "2Chr.23.17",
       "has_suffix": false,
@@ -400,7 +400,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "שִׁבַּר",
+      "heb": "שִׁבַּר",
       "translit": "shibbar",
       "ref": "2Chr.34.4",
       "has_suffix": false,
@@ -409,7 +409,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "שִׁבַּרְתָּ",
+      "heb": "שִׁבַּרְתָּ",
       "translit": "shibbarta",
       "ref": "Deut.10.2",
       "has_suffix": false,
@@ -420,7 +420,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיְשַׁבֵּר",
+      "heb": "וַיְשַׁבֵּר",
       "translit": "vayshabber",
       "ref": "2Chr.14.2",
       "has_suffix": false,
@@ -429,7 +429,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיְשַׁבְּרוּ",
+      "heb": "וַיְשַׁבְּרוּ",
       "translit": "vayshabbru",
       "ref": "2Chr.31.1",
       "has_suffix": false,
@@ -438,7 +438,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֲשַׁבְּרֵם",
+      "heb": "וָאֲשַׁבְּרֵם",
       "translit": "va'ashabbrem",
       "ref": "Deut.9.17",
       "has_suffix": true,
@@ -449,7 +449,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "וּמְשַׁבֵּר",
+      "heb": "וּמְשַׁבֵּר",
       "translit": "umshabber",
       "ref": "1Kgs.19.11",
       "has_suffix": false,
@@ -460,7 +460,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תְּשַׁבֵּרוּ",
+      "heb": "תְּשַׁבֵּרוּ",
       "translit": "tshabberu",
       "ref": "Deut.7.5",
       "has_suffix": false,
@@ -469,7 +469,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְּשַׁבֵּר",
+      "heb": "תְּשַׁבֵּר",
       "translit": "tshabber",
       "ref": "Exod.23.24",
       "has_suffix": false,
@@ -478,7 +478,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְשַׁבֵּר",
+      "heb": "יְשַׁבֵּר",
       "translit": "yshabber",
       "ref": "Isa.38.13",
       "has_suffix": false,
@@ -487,7 +487,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֲשַׁבֵּר",
+      "heb": "אֲשַׁבֵּר",
       "translit": "ashabber",
       "ref": "Isa.45.2",
       "has_suffix": false,
@@ -498,7 +498,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְשִׁבַּרְתֶּם",
+      "heb": "וְשִׁבַּרְתֶּם",
       "translit": "vshibbartem",
       "ref": "Deut.12.3",
       "has_suffix": false,
@@ -507,7 +507,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְשִׁבַּר",
+      "heb": "וְשִׁבַּר",
       "translit": "vshibbar",
       "ref": "Jer.43.13",
       "has_suffix": false,
@@ -518,7 +518,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "וְשַׁבֵּר",
+      "heb": "וְשַׁבֵּר",
       "translit": "vshabber",
       "ref": "Exod.23.24",
       "has_suffix": false,
@@ -534,7 +534,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אַשְׁבִּיר",
+      "heb": "אַשְׁבִּיר",
       "translit": "ashbir",
       "ref": "Isa.66.9",
       "has_suffix": false,
@@ -550,7 +550,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הָשְׁבָּרְתִּי",
+      "heb": "הָשְׁבָּרְתִּי",
       "translit": "hashbarti",
       "ref": "Jer.8.21",
       "has_suffix": false,

@@ -11,10 +11,10 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "עָנָה",
+      "heb": "עָנָהוּ",
       "translit": "anah",
       "ref": "1Chr.21.28",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -67,7 +67,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּעַן",
+      "heb": "וַיַּעַן",
       "translit": "vayya'an",
       "ref": "1Chr.12.18",
       "has_suffix": false,
@@ -76,7 +76,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתַּעַן",
+      "heb": "וַתַּעַן",
       "translit": "vatta'an",
       "ref": "1Sam.1.15",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "וַתַּעֲנֶינָה",
+      "heb": "וַתַּעֲנֶינָה",
       "translit": "vatta'anenah",
       "ref": "1Sam.9.12",
       "has_suffix": false,
@@ -94,7 +94,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּעֲנוּ",
+      "heb": "וַיַּעֲנוּ",
       "translit": "vayya'anu",
       "ref": "1Sam.14.12",
       "has_suffix": false,
@@ -103,7 +103,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַֽתַּעֲנוּ",
+      "heb": "וַֽתַּעֲנוּ",
       "translit": "vatta'anu",
       "ref": "Deut.1.14",
       "has_suffix": false,
@@ -121,7 +121,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַֽתַּעֲנֵנִי",
+      "heb": "וַֽתַּעֲנֵנִי",
       "translit": "vatta'aneni",
       "ref": "Ps.119.26",
       "has_suffix": true,
@@ -188,10 +188,10 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תַּעֲנֶה",
+      "heb": "תַּֽעַנְךָ",
       "translit": "ta'aneh",
       "ref": "Deut.20.11",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -206,7 +206,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תַּעֲנֶינָּה",
+      "heb": "תַּעֲנֶינָּה",
       "translit": "ta'anennah",
       "ref": "Judg.5.29",
       "has_suffix": false,
@@ -217,10 +217,10 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְעָנִיתָ",
+      "heb": "וַעֲנִיתָם",
       "translit": "v'anita",
       "ref": "1Kgs.12.7",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -255,16 +255,16 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "עֲנֵה",
+      "heb": "עֲנֵנוּ",
       "translit": "aneh",
       "ref": "1Kgs.18.26",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "עֱנוּ",
+      "heb": "עֲנוּ",
       "translit": "enu",
       "ref": "1Sam.12.3",
       "has_suffix": false,
@@ -275,18 +275,18 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "עֲנוֹת",
+      "heb": "לַעֲנוֹת",
       "translit": "anot",
       "ref": "1Sam.9.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "cohortative": [
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְאֶעֱנֶךָּ",
+      "heb": "וְאֶעֱנֶךָּ",
       "translit": "v'e'enekka",
       "ref": "Jer.33.3",
       "has_suffix": true,
@@ -297,7 +297,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַעֲנֶֽנָּה",
+      "heb": "יַעֲנֶֽנָּה",
       "translit": "ya'anennah",
       "ref": "Job.40.2",
       "has_suffix": true,
@@ -306,7 +306,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּעַן",
+      "heb": "תַּעַן",
       "translit": "ta'an",
       "ref": "Prov.26.4",
       "has_suffix": false,

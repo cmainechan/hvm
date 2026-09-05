@@ -11,43 +11,43 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "לָקַח",
+      "heb": "לְקָחָהּ",
       "translit": "laqach",
       "ref": "1Chr.2.21",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "לָקַחְתִּי",
+      "heb": "לְקַחְתִּיךָ",
       "translit": "laqachti",
       "ref": "1Chr.17.7",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "לָקַחַתְּ",
+      "heb": "וְלָקַחַתְּ",
       "translit": "laqachatt",
       "ref": "1Kgs.14.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "לָקְחוּ",
+      "heb": "וְלָקָֽחוּ",
       "translit": "laqchu",
       "ref": "1Kgs.20.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "לָקַחְתָּ",
+      "heb": "לָקַחְתָּ",
       "translit": "laqachta",
       "ref": "1Sam.12.4",
       "has_suffix": false,
@@ -74,7 +74,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "לְקַחְתֶּם",
+      "heb": "לְקַחְתֶּם",
       "translit": "lqachtem",
       "ref": "Joel.4.5",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּקַּח",
+      "heb": "וַיִּֽקַּֽח",
       "translit": "vayyiqqach",
       "ref": "1Chr.2.19",
       "has_suffix": false,
@@ -94,7 +94,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּקַּח",
+      "heb": "וַתִּקַּח",
       "translit": "vattiqqach",
       "ref": "1Kgs.3.20",
       "has_suffix": false,
@@ -103,7 +103,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּקְחוּ",
+      "heb": "וַיִּקְחוּ",
       "translit": "vayyiqchu",
       "ref": "1Kgs.9.28",
       "has_suffix": false,
@@ -112,7 +112,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֶקַּח",
+      "heb": "וָאֶקַּח",
       "translit": "va'eqqach",
       "ref": "2Sam.1.10",
       "has_suffix": false,
@@ -121,7 +121,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתִּקַּח",
+      "heb": "וַתִּקַּח",
       "translit": "vattiqqach",
       "ref": "2Sam.12.10",
       "has_suffix": false,
@@ -130,7 +130,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וַנִּקַּח",
+      "heb": "וַנִּקַּח",
       "translit": "vanniqqach",
       "ref": "Deut.3.8",
       "has_suffix": false,
@@ -139,7 +139,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וַתִּקְחִי",
+      "heb": "וַתִּקְחִי",
       "translit": "vattiqchi",
       "ref": "Ezek.16.16",
       "has_suffix": false,
@@ -159,7 +159,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הַלֹּקְחִים",
+      "heb": "הַלֹּקְחִים",
       "translit": "halloqchim",
       "ref": "Jer.23.31",
       "has_suffix": false,
@@ -181,7 +181,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִקָּחוּ",
+      "heb": "יִקְחוּ",
       "translit": "yiqqachu",
       "ref": "1Kgs.10.28",
       "has_suffix": false,
@@ -190,7 +190,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶקַּח",
+      "heb": "אֶקַּח",
       "translit": "eqqach",
       "ref": "1Kgs.11.34",
       "has_suffix": false,
@@ -199,7 +199,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִקַּח",
+      "heb": "יִקַּח",
       "translit": "yiqqach",
       "ref": "1Sam.2.14",
       "has_suffix": false,
@@ -208,7 +208,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּקַּח",
+      "heb": "תִּקַּח",
       "translit": "tiqqach",
       "ref": "1Sam.16.2",
       "has_suffix": false,
@@ -217,7 +217,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּקְחוּ",
+      "heb": "תִּקְחוּ",
       "translit": "tiqchu",
       "ref": "Amos.5.11",
       "has_suffix": false,
@@ -226,16 +226,16 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּֽקַּֽח",
+      "heb": "תִקָּחֵם",
       "translit": "tiqqach",
       "ref": "Amos.9.2",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נִקַּח",
+      "heb": "נִקַּח",
       "translit": "niqqach",
       "ref": "Exod.10.26",
       "has_suffix": false,
@@ -244,7 +244,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תִּקְחִי",
+      "heb": "תִּקְחִי",
       "translit": "tiqchi",
       "ref": "Zeph.3.7",
       "has_suffix": false,
@@ -255,7 +255,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְלָקַחְתִּי",
+      "heb": "וְלָקַחְתִּי",
       "translit": "vlaqachti",
       "ref": "1Kgs.11.35",
       "has_suffix": false,
@@ -264,7 +264,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וּלְקַחְתֶּם",
+      "heb": "וּלְקַחְתֶּם",
       "translit": "ulqachtem",
       "ref": "1Sam.6.8",
       "has_suffix": false,
@@ -273,7 +273,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְלָקַחְתָּ",
+      "heb": "וְלָקַחְתָּ",
       "translit": "vlaqachta",
       "ref": "1Sam.10.4",
       "has_suffix": false,
@@ -320,7 +320,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "קַח",
+      "heb": "קַֽח",
       "translit": "qach",
       "ref": "1Chr.21.23",
       "has_suffix": false,
@@ -349,18 +349,18 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "קַחַת",
+      "heb": "לָקַחַת",
       "translit": "qachat",
       "ref": "1Chr.7.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לָקוֹחַ",
+      "heb": "לָקֹחַ",
       "translit": "laqocha",
       "ref": "Deut.31.26",
       "has_suffix": false,
@@ -380,27 +380,27 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶקְחָה",
+      "heb": "וְאֶקְחָה",
       "translit": "eqchah",
       "ref": "Gen.18.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "jussive": [
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִקְחוּ",
+      "heb": "וְיִקְחוּ",
       "translit": "yiqchu",
       "ref": "2Kgs.7.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּקְחוּ",
+      "heb": "תִּקְחוּ",
       "translit": "tiqchu",
       "ref": "2Kgs.12.8",
       "has_suffix": false,
@@ -409,7 +409,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִקָּח",
+      "heb": "יִקָּח",
       "translit": "yiqqach",
       "ref": "2Sam.19.31",
       "has_suffix": false,
@@ -418,7 +418,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּקַּח",
+      "heb": "תִּקַּח",
       "translit": "tiqqach",
       "ref": "Lev.25.36",
       "has_suffix": false,
@@ -454,7 +454,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּלָּקַח",
+      "heb": "וַתִּלָּקַח",
       "translit": "vattillaqach",
       "ref": "Esth.2.8",
       "has_suffix": false,
@@ -465,7 +465,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶלָּקַח",
+      "heb": "אֶלָּקַח",
       "translit": "ellaqach",
       "ref": "2Kgs.2.9",
       "has_suffix": false,
@@ -474,7 +474,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִקָּֽחוּ",
+      "heb": "יִקָּֽחוּ",
       "translit": "yiqqachu",
       "ref": "2Sam.23.6",
       "has_suffix": false,
@@ -485,7 +485,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הִלָּקַח",
+      "heb": "הִלָּקַח",
       "translit": "hillaqach",
       "ref": "1Sam.4.19",
       "has_suffix": false,
@@ -510,7 +510,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "לֻקָּחְתָּ",
+      "heb": "לֻקָּחְתָּ",
       "translit": "luqqachta",
       "ref": "Gen.3.19",
       "has_suffix": false,
@@ -519,7 +519,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "לֻקַּח",
+      "heb": "לֻקַּח",
       "translit": "luqqach",
       "ref": "Gen.3.23",
       "has_suffix": false,
@@ -528,7 +528,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "לֻקְּחוּ",
+      "heb": "לֻקְּחוּ",
       "translit": "luqqchu",
       "ref": "Jer.48.46",
       "has_suffix": false,
@@ -539,18 +539,18 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יֻקָּח",
+      "heb": "הֲיֻקַּח",
       "translit": "yuqqach",
       "ref": "Isa.49.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "veqatal": [
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְלֻקַּח",
+      "heb": "וְלֻקַּח",
       "translit": "vluqqach",
       "ref": "Jer.29.22",
       "has_suffix": false,
@@ -566,7 +566,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "מִתְלַקַּחַת",
+      "heb": "מִתְלַקַּחַת",
       "translit": "mitlaqqachat",
       "ref": "Exod.9.24",
       "has_suffix": false,

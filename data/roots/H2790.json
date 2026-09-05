@@ -11,7 +11,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "חֲרַשְׁתֶּם",
+      "heb": "חֲרַשְׁתֶּם",
       "translit": "charashtem",
       "ref": "Hos.10.13",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "חֹרְשִׁים",
+      "heb": "חֹרְשִׁים",
       "translit": "chorshim",
       "ref": "Ps.129.3",
       "has_suffix": false,
@@ -60,7 +60,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "חֲרוּשָׁה",
+      "heb": "חֲרוּשָׁה",
       "translit": "charushah",
       "ref": "Jer.17.1",
       "has_suffix": false,
@@ -89,7 +89,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תֶּחֱרַֽשְׁנָה",
+      "heb": "תֶּחֱרַֽשְׁנָה",
       "translit": "techerashnah",
       "ref": "Mic.7.16",
       "has_suffix": false,
@@ -111,7 +111,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תֶּחֱרַשׁ",
+      "heb": "תַּחֲרֹשׁ",
       "translit": "techerash",
       "ref": "Prov.3.29",
       "has_suffix": false,
@@ -161,7 +161,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הֶחֱרַשְׁתִּי",
+      "heb": "הֶחֱרַשְׁתִּי",
       "translit": "hecherashti",
       "ref": "Esth.7.4",
       "has_suffix": false,
@@ -170,18 +170,18 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הֶחֱרִשׁ",
+      "heb": "וְהֶחֱרִשׁ",
       "translit": "hecherish",
       "ref": "Gen.34.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "wayyiqtol": [
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיַּחֲרִישׁוּ",
+      "heb": "וַֽיַּחֲרִישׁוּ",
       "translit": "vayyacharishu",
       "ref": "Isa.36.21",
       "has_suffix": false,
@@ -192,16 +192,16 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מַחֲרִישׁ",
+      "heb": "כְּמַחֲרִֽישׁ",
       "translit": "macharish",
       "ref": "1Sam.10.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מַחֲרִשִׁים",
+      "heb": "מַחֲרִשִׁים",
       "translit": "macharishim",
       "ref": "2Sam.19.11",
       "has_suffix": false,
@@ -212,7 +212,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תַּחֲרִישִׁי",
+      "heb": "תַּחֲרִישִׁי",
       "translit": "tacharishi",
       "ref": "Esth.4.14",
       "has_suffix": false,
@@ -221,16 +221,16 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַּחֲרִישֽׁוּן",
+      "heb": "תַּחֲרִישֽׁוּן",
       "translit": "tacharishun",
       "ref": "Exod.14.14",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּחֲרִישׁ",
+      "heb": "תַּחֲרִישׁ",
       "translit": "tacharish",
       "ref": "Hab.1.13",
       "has_suffix": false,
@@ -277,7 +277,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְֽהֶחֱרַשְׁתִּי",
+      "heb": "וְֽהֶחֱרַשְׁתִּי",
       "translit": "vhecherashti",
       "ref": "Ps.50.21",
       "has_suffix": false,
@@ -288,7 +288,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "הַחֲרִישִׁי",
+      "heb": "הַחֲרִישִׁי",
       "translit": "hacharishi",
       "ref": "2Sam.13.20",
       "has_suffix": false,
@@ -328,7 +328,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּחֲרֵשׁ",
+      "heb": "תַּחֲרֵשׁ",
       "translit": "tacharesh",
       "ref": "1Sam.7.8",
       "has_suffix": false,
@@ -344,7 +344,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּתְחָרְשׁוּ",
+      "heb": "וַיִּתְחָרְשׁוּ",
       "translit": "vayyitcharshu",
       "ref": "Judg.16.2",
       "has_suffix": false,

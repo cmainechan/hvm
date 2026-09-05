@@ -11,7 +11,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "בֹּשְׁתִּי",
+      "heb": "בֹשְׁתִּי",
       "translit": "boshti",
       "ref": "Ezra.8.22",
       "has_suffix": false,
@@ -20,16 +20,16 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "בֹּשׁוּ",
+      "heb": "וָבֹשׁוּ",
       "translit": "boshu",
       "ref": "Isa.37.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "בֹּשְׁתְּ",
+      "heb": "בֹּשְׁתְּ",
       "translit": "bosht",
       "ref": "Jer.2.36",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "בֹּשְׁנֽוּ",
+      "heb": "בֹּשְׁנֽוּ",
       "translit": "boshnu",
       "ref": "Jer.9.18",
       "has_suffix": false,
@@ -47,7 +47,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "בּוֹשָׁה",
+      "heb": "בּוֹשָׁה",
       "translit": "boshah",
       "ref": "Jer.15.9",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיֵּבֹשׁוּ",
+      "heb": "וַיֵּבֹשׁוּ",
       "translit": "vayyevoshu",
       "ref": "2Kgs.19.26",
       "has_suffix": false,
@@ -69,7 +69,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "בּוֹשִׁים",
+      "heb": "בּוֹשִׁים",
       "translit": "boshim",
       "ref": "Ezek.32.30",
       "has_suffix": false,
@@ -80,20 +80,20 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יֵבֹשׁוּ",
+      "heb": "וְיֵבֹשׁוּ",
       "translit": "yevoshu",
       "ref": "Hos.4.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יֵבוֹשׁ",
+      "heb": "וְיֵבוֹשׁ",
       "translit": "yevosh",
       "ref": "Hos.10.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2mp",
@@ -116,7 +116,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תֵבוֹשִׁי",
+      "heb": "תֵבוֹשִׁי",
       "translit": "tevoshi",
       "ref": "Isa.54.4",
       "has_suffix": false,
@@ -125,7 +125,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תֵּבוֹשׁ",
+      "heb": "תֵּבוֹשׁ",
       "translit": "tevosh",
       "ref": "Jer.51.47",
       "has_suffix": false,
@@ -136,7 +136,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וָבֹשְׁתְּ",
+      "heb": "וָבֹשְׁתְּ",
       "translit": "vavosht",
       "ref": "Ezek.16.63",
       "has_suffix": false,
@@ -154,7 +154,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וּבוֹשָׁה",
+      "heb": "וּבוֹשָׁה",
       "translit": "uvoshah",
       "ref": "Isa.24.23",
       "has_suffix": false,
@@ -174,7 +174,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "בּוֹשִׁי",
+      "heb": "בּוֹשִׁי",
       "translit": "boshi",
       "ref": "Ezek.16.52",
       "has_suffix": false,
@@ -194,7 +194,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בֹּשׁ",
+      "heb": "בֹּשׁ",
       "translit": "bosh",
       "ref": "2Kgs.2.17",
       "has_suffix": false,
@@ -216,7 +216,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֵבוֹשָׁה",
+      "heb": "אֵבֹשָׁה",
       "translit": "evoshah",
       "ref": "Jer.17.18",
       "has_suffix": false,
@@ -261,7 +261,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הֱבִישֽׁוֹתָ",
+      "heb": "הֱבִישֽׁוֹתָ",
       "translit": "hevishota",
       "ref": "Ps.44.8",
       "has_suffix": false,
@@ -272,7 +272,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מֵבִישׁ",
+      "heb": "מֵבִֽישׁ",
       "translit": "mevish",
       "ref": "Prov.10.5",
       "has_suffix": false,
@@ -281,7 +281,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "מְבִישָֽׁה",
+      "heb": "מְבִישָֽׁה",
       "translit": "mvishah",
       "ref": "Prov.12.4",
       "has_suffix": false,
@@ -314,7 +314,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְּבִישֵֽׁנִי",
+      "heb": "תְּבִישֵֽׁנִי",
       "translit": "tvisheni",
       "ref": "Ps.119.31",
       "has_suffix": true,

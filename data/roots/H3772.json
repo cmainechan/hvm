@@ -11,7 +11,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "כָּרַת",
+      "heb": "כָּרַת",
       "translit": "karat",
       "ref": "1Chr.16.16",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "כָּרַתִּי",
+      "heb": "כָּרַתִּי",
       "translit": "karatti",
       "ref": "2Chr.7.18",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "כָּרַתְנֽוּ",
+      "heb": "כָּרַתְנֽוּ",
       "translit": "karatnu",
       "ref": "Isa.28.15",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "כָּרְתוּ",
+      "heb": "כָּרְתוּ",
       "translit": "kartu",
       "ref": "Jer.34.18",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּכְרֹת",
+      "heb": "וַיִּכְרֹת",
       "translit": "vayyikhrot",
       "ref": "1Chr.11.3",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּכְרְתוּ",
+      "heb": "וַיִּכְרְתוּ",
       "translit": "vayyikhrtu",
       "ref": "1Kgs.5.26",
       "has_suffix": false,
@@ -67,7 +67,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּכְרֹת",
+      "heb": "וַתִּכְרֹת",
       "translit": "vattikhrot",
       "ref": "Exod.4.25",
       "has_suffix": false,
@@ -76,7 +76,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וַתִּכְרָת",
+      "heb": "וַתִּכְרָת",
       "translit": "vattikhrat",
       "ref": "Isa.57.8",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַתִּכְרְתוּ",
+      "heb": "וַתִּכְרְתוּ",
       "translit": "vattikhrtu",
       "ref": "Jer.34.15",
       "has_suffix": false,
@@ -96,7 +96,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "כֹּרֵת",
+      "heb": "כֹּרֵת",
       "translit": "koret",
       "ref": "Deut.29.11",
       "has_suffix": false,
@@ -105,7 +105,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "כֹּרְתִים",
+      "heb": "כֹּרְתִים",
       "translit": "kortim",
       "ref": "Neh.10.1",
       "has_suffix": false,
@@ -116,7 +116,7 @@
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "כְּרֻתוֹת",
+      "heb": "כְּרֻתוֹת",
       "translit": "krutot",
       "ref": "1Sam.5.4",
       "has_suffix": false,
@@ -154,11 +154,11 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִכְרֹתוּ",
+      "heb": "וְיִכְרְתוּ",
       "translit": "yikhrotu",
       "ref": "2Sam.3.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2ms",
@@ -172,7 +172,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִכְרְתוּ",
+      "heb": "תִּכְרֹתֽוּן",
       "translit": "tikhrtu",
       "ref": "Exod.34.13",
       "has_suffix": false,
@@ -192,7 +192,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְכָרָתָּ",
+      "heb": "וְכָרָתָּ",
       "translit": "vkharatta",
       "ref": "Deut.20.20",
       "has_suffix": false,
@@ -201,7 +201,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְכָרַתִּי",
+      "heb": "וְכָרַתִּי",
       "translit": "vkharatti",
       "ref": "Ezek.34.25",
       "has_suffix": false,
@@ -221,7 +221,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "כְּרָת",
+      "heb": "כְּרָת",
       "translit": "krat",
       "ref": "1Sam.11.1",
       "has_suffix": false,
@@ -230,7 +230,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "כִּרְתוּ",
+      "heb": "כִּרְתוּ",
       "translit": "kirtu",
       "ref": "Jer.6.6",
       "has_suffix": false,
@@ -241,18 +241,18 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "כְּרֹת",
+      "heb": "לִכְרָת",
       "translit": "krot",
       "ref": "1Kgs.5.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "כָּרֹת",
+      "heb": "כָּרֹת",
       "translit": "karot",
       "ref": "Hos.10.4",
       "has_suffix": false,
@@ -292,7 +292,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּכְרֹֽת",
+      "heb": "תִּכְרֹֽת",
       "translit": "tikhrot",
       "ref": "Judg.6.25",
       "has_suffix": false,
@@ -308,16 +308,16 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "נִכְרָֽתָה",
+      "heb": "וְנִכְרְתָה",
       "translit": "nikhratah",
       "ref": "Jer.7.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "נִכְרָֽת",
+      "heb": "נִכְרַת",
       "translit": "nikhrat",
       "ref": "Joel.1.5",
       "has_suffix": false,
@@ -326,7 +326,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "נִכְרְתוּ",
+      "heb": "נִכְרָתוּ",
       "translit": "nikhrtu",
       "ref": "Josh.3.16",
       "has_suffix": false,
@@ -337,7 +337,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִכָּרֵת",
+      "heb": "יִכָּרֵת",
       "translit": "yikkaret",
       "ref": "1Kgs.2.4",
       "has_suffix": false,
@@ -346,7 +346,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִכָּרֵֽת",
+      "heb": "תִכָּרֵת",
       "translit": "tikkaret",
       "ref": "Gen.41.36",
       "has_suffix": false,
@@ -355,7 +355,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִכָּרֵתוּ",
+      "heb": "יִכָּרֵתוּ",
       "translit": "yikkaretu",
       "ref": "Isa.11.13",
       "has_suffix": false,
@@ -393,7 +393,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְנִכְרַתָּ",
+      "heb": "וְנִכְרַתָּ",
       "translit": "vnikhratta",
       "ref": "Obad.1.10",
       "has_suffix": false,
@@ -404,7 +404,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בְּהִכָּרֵת",
+      "heb": "בְּהִכָּרֵת",
       "translit": "bhikkaret",
       "ref": "Ps.37.34",
       "has_suffix": false,
@@ -415,7 +415,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הִכָּרֵת",
+      "heb": "הִכָּרֵת",
       "translit": "hikkaret",
       "ref": "Num.15.31",
       "has_suffix": false,
@@ -426,7 +426,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִכָּרֵת",
+      "heb": "יִכָּרֵת",
       "translit": "yikkaret",
       "ref": "2Sam.3.29",
       "has_suffix": false,
@@ -442,7 +442,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "כָרַּת",
+      "heb": "כָרַּת",
       "translit": "kharrat",
       "ref": "Ezek.16.4",
       "has_suffix": false,
@@ -451,7 +451,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "כֹּרָתָה",
+      "heb": "כֹּרָתָה",
       "translit": "koratah",
       "ref": "Judg.6.28",
       "has_suffix": false,
@@ -476,11 +476,11 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הִכְרַתִּי",
+      "heb": "וְהִכְרַתִּי",
       "translit": "hikhratti",
       "ref": "2Kgs.9.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3cp",
@@ -505,7 +505,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּכְרֵת",
+      "heb": "וַיַּכְרֵת",
       "translit": "vayyakhret",
       "ref": "Isa.9.13",
       "has_suffix": false,
@@ -552,7 +552,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תַּכְרִיתֵךְ",
+      "heb": "תַּכְרִיתֵךְ",
       "translit": "takhritekh",
       "ref": "Nah.3.15",
       "has_suffix": true,
@@ -563,7 +563,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהִכְרַתִּי",
+      "heb": "וְהִכְרַתִּי",
       "translit": "vhikhratti",
       "ref": "1Kgs.9.7",
       "has_suffix": false,
@@ -592,18 +592,18 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הַכְרִית",
+      "heb": "בְּהַכְרִית",
       "translit": "hakhrit",
       "ref": "1Kgs.18.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "cohortative": [
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וְנַכְרִיתֶנָּה",
+      "heb": "וְנַכְרִיתֶנָּה",
       "translit": "vnakhritennah",
       "ref": "Jer.48.2",
       "has_suffix": true,
@@ -623,7 +623,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַּכְרִיתוּ",
+      "heb": "תַּכְרִיתוּ",
       "translit": "takhritu",
       "ref": "Num.4.18",
       "has_suffix": false,

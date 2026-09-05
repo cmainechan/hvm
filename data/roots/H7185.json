@@ -11,7 +11,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "קָשְׁתָה",
+      "heb": "קָשְׁתָה",
       "translit": "qashtah",
       "ref": "1Sam.5.7",
       "has_suffix": false,
@@ -22,7 +22,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּקֶשׁ",
+      "heb": "וַיִּקֶשׁ",
       "translit": "vayyiqesh",
       "ref": "2Sam.19.44",
       "has_suffix": false,
@@ -33,7 +33,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִקְשֶׁה",
+      "heb": "יִקְשֶׁה",
       "translit": "yiqsheh",
       "ref": "Deut.1.17",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "נִקְשֶׁה",
+      "heb": "נִקְשֶׁה",
       "translit": "niqsheh",
       "ref": "Isa.8.21",
       "has_suffix": false,
@@ -65,7 +65,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתְּקַשׁ",
+      "heb": "וַתְּקַשׁ",
       "translit": "vattqash",
       "ref": "Gen.35.16",
       "has_suffix": false,
@@ -81,7 +81,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הִקְשָׁה",
+      "heb": "הִקְשָׁה",
       "translit": "hiqshah",
       "ref": "1Kgs.12.4",
       "has_suffix": false,
@@ -90,7 +90,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הִקְשִׁיתָ",
+      "heb": "הִקְשִׁיתָ",
       "translit": "hiqshita",
       "ref": "2Kgs.2.10",
       "has_suffix": false,
@@ -110,7 +110,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיֶּקֶשׁ",
+      "heb": "וַיֶּקֶשׁ",
       "translit": "vayyeqesh",
       "ref": "2Chr.36.13",
       "has_suffix": false,
@@ -119,7 +119,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּקְשׁוּ",
+      "heb": "וַיַּקְשׁוּ",
       "translit": "vayyaqshu",
       "ref": "2Kgs.17.14",
       "has_suffix": false,
@@ -130,11 +130,11 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מַקְשֶׁה",
+      "heb": "וּמַקְשֶׁה",
       "translit": "maqsheh",
       "ref": "Prov.28.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "yiqtol": [
@@ -150,7 +150,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אַקְשֶׁה",
+      "heb": "אַקְשֶׁה",
       "translit": "aqsheh",
       "ref": "Exod.7.3",
       "has_suffix": false,
@@ -161,7 +161,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בְהַקְשֹׁתָהּ",
+      "heb": "בְהַקְשֹׁתָהּ",
       "translit": "vhaqshotahh",
       "ref": "Gen.35.17",
       "has_suffix": true,
@@ -172,7 +172,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַּקְשׁוּ",
+      "heb": "תַּקְשׁוּ",
       "translit": "taqshu",
       "ref": "2Chr.30.8",
       "has_suffix": false,

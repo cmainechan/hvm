@@ -7,96 +7,73 @@
   "qal": {
    "sense_hint": "simple",
    "forms": {
-    "infinitive_absolute": [
-     {
-      "code": "inf",
-      "label": "infinitive",
-      "heb": "צָפֹה",
-      "translit": "tzafoh",
-      "ref": "Isa.21.5",
-      "has_suffix": false,
-      "has_prefix": false
-     }
-    ]
-   }
-  },
-  "piel": {
-   "sense_hint": "intensive",
-   "forms": {
-    "perfect": [
-     {
-      "code": "3ms",
-      "label": "3rd masc. sg.",
-      "heb": "צִפָּה",
-      "translit": "tzippah",
-      "ref": "1Kgs.6.15",
-      "has_suffix": false,
-      "has_prefix": false
-     }
-    ],
-    "wayyiqtol": [
-     {
-      "code": "3ms",
-      "label": "3rd masc. sg.",
-      "heb": "וַיְצַף",
-      "translit": "vaytzaf",
-      "ref": "1Kgs.6.15",
-      "has_suffix": false,
-      "has_prefix": false
-     },
-     {
-      "code": "3mp",
-      "label": "3rd masc. pl.",
-      "heb": "וַיְצַפּוּ",
-      "translit": "vaytzappu",
-      "ref": "2Chr.3.10",
-      "has_suffix": false,
-      "has_prefix": false
-     }
-    ],
-    "yiqtol": [
-     {
-      "code": "2ms",
-      "label": "2nd masc. sg.",
-      "heb": "תְּצַפֶּה",
-      "translit": "ttzappeh",
-      "ref": "Exod.25.11",
-      "has_suffix": false,
-      "has_prefix": false
-     }
-    ],
-    "veqatal": [
-     {
-      "code": "2ms",
-      "label": "2nd masc. sg.",
-      "heb": "וְצִפִּיתָ",
-      "translit": "vtzippita",
-      "ref": "Exod.25.11",
-      "has_suffix": false,
-      "has_prefix": false
-     }
-    ]
-   }
-  },
-  "pual": {
-   "sense_hint": "passive-intensive",
-   "forms": {
-    "participle_passive": [
+    "participle_active": [
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מְצֻפִּים",
-      "translit": "mtzuppim",
-      "ref": "Exod.26.32",
+      "heb": "צֹפִים",
+      "translit": "tzofim",
+      "ref": "Jer.6.17",
       "has_suffix": false,
       "has_prefix": false
      },
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מְצֻפֶּה",
-      "translit": "mtzuppeh",
-      "ref": "Prov.26.23",
+      "heb": "צֹפֶה",
+      "translit": "tzofeh",
+      "ref": "Ezek.3.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "צֹפוֹת",
+      "translit": "tzofot",
+      "ref": "Prov.15.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "צוֹפִיָּה",
+      "translit": "tzofiyah",
+      "ref": "Prov.31.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִצֶף",
+      "translit": "yitzef",
+      "ref": "Gen.31.49",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְצָפוּי",
+      "translit": "vetzafuy",
+      "ref": "Job.15.22",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תִּצְפֶּינָה",
+      "translit": "titzpeynah",
+      "ref": "Ps.66.7",
       "has_suffix": false,
       "has_prefix": false
      }
@@ -104,17 +81,13 @@
    }
   }
  },
- "stem_glosses": {
-  "piel": "overlay",
-  "pual": "be overlaid"
- },
- "root": "צפה",
+ "root": "צפה¹",
+ "citation_translit": "tzafah",
  "search_match": [
   "6822",
   "h6822",
-  "overlay",
+  "keep watch",
   "tzafah",
-  "צפה"
- ],
- "citation_translit": "tzafah"
+  "צפה¹"
+ ]
 }

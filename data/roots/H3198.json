@@ -31,7 +31,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וְנִוָּֽכְחָה",
+      "heb": "וְנִוָּֽכְחָה",
       "translit": "vnivvakhchah",
       "ref": "Isa.1.18",
       "has_suffix": false,
@@ -47,16 +47,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הֹכִיחַ",
+      "heb": "וְהוֹכִחַ",
       "translit": "hokhicha",
       "ref": "Gen.21.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הֹכַחְתָּ",
+      "heb": "הֹכַחְתָּ",
       "translit": "hokhachta",
       "ref": "Gen.24.14",
       "has_suffix": false,
@@ -98,11 +98,11 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יוֹכִיחַ",
+      "heb": "וְיוֹכַֽח",
       "translit": "yokhicha",
       "ref": "1Chr.12.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3fp",
@@ -154,7 +154,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהֹֽכַחְתִּיו",
+      "heb": "וְהֹֽכַחְתִּיו",
       "translit": "vhokhachtiv",
       "ref": "2Sam.7.14",
       "has_suffix": true,
@@ -248,7 +248,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִתְוַכָּֽח",
+      "heb": "יִתְוַכָּֽח",
       "translit": "yitvakkach",
       "ref": "Mic.6.2",
       "has_suffix": false,

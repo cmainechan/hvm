@@ -38,7 +38,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "עֲזַבְתֶּם",
+      "heb": "עֲזַבְתֶּם",
       "translit": "azavtem",
       "ref": "2Chr.12.5",
       "has_suffix": false,
@@ -47,7 +47,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "עָזַבְתִּי",
+      "heb": "עָזַבְתִּי",
       "translit": "azavti",
       "ref": "2Chr.12.5",
       "has_suffix": false,
@@ -65,16 +65,16 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "עָזַבְתָּ",
+      "heb": "עֲזַבְתָּֽנִי",
       "translit": "azavta",
       "ref": "Deut.28.20",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2fp",
       "label": "2nd fem. pl.",
-      "heb": "עֲזַבְתֶּן",
+      "heb": "עֲזַבְתֶּן",
       "translit": "azavten",
       "ref": "Exod.2.20",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּעַזְבוּ",
+      "heb": "וַיַּעַזְבוּ",
       "translit": "vayya'azvu",
       "ref": "1Chr.10.7",
       "has_suffix": false,
@@ -94,7 +94,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּעֲזֹב",
+      "heb": "וַיַּֽעֲזָב",
       "translit": "vayya'azov",
       "ref": "1Chr.16.37",
       "has_suffix": false,
@@ -103,7 +103,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתַּֽעַזְבֵם",
+      "heb": "וַתַּֽעַזְבֵם",
       "translit": "vatta'azvem",
       "ref": "Neh.9.28",
       "has_suffix": true,
@@ -112,7 +112,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וַתַּֽעַזְבִי",
+      "heb": "וַתַּֽעַזְבִי",
       "translit": "vatta'azvi",
       "ref": "Ruth.2.11",
       "has_suffix": false,
@@ -152,11 +152,11 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "עָזוּב",
+      "heb": "וְעָזוּב",
       "translit": "azuv",
       "ref": "1Kgs.14.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "fp",
@@ -181,19 +181,19 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּעֲזֹב",
+      "heb": "תַּֽעַזְבֶנּוּ",
       "translit": "ta'azov",
       "ref": "1Chr.28.9",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַעֲזֹב",
+      "heb": "יַֽעַזְבֶךָּ",
       "translit": "ya'azov",
       "ref": "1Chr.28.20",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -208,10 +208,10 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַעַזְבוּ",
+      "heb": "תַּעַזְבֻהוּ",
       "translit": "ta'azvu",
       "ref": "2Chr.15.2",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -246,7 +246,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַעֲזַבְתֶּם",
+      "heb": "וַעֲזַבְתֶּם",
       "translit": "va'azavtem",
       "ref": "2Chr.7.19",
       "has_suffix": false,
@@ -255,16 +255,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְעָזַב",
+      "heb": "וַעֲזָבַנִי",
       "translit": "v'azav",
       "ref": "Deut.31.16",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וַעֲזַבְתִּים",
+      "heb": "וַעֲזַבְתִּים",
       "translit": "va'azavtim",
       "ref": "Deut.31.17",
       "has_suffix": true,
@@ -273,10 +273,10 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְעָזְבוּ",
+      "heb": "וַעֲזָבוּךְ",
       "translit": "v'azvu",
       "ref": "Ezek.23.29",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -293,21 +293,21 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַעֲזֹב",
+      "heb": "עָזְבָה",
       "translit": "va'azov",
       "ref": "Jer.49.11",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "infinitive_construct": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "מֵעֲזֹב",
+      "heb": "בַּֽעֲזָבְכֶם",
       "translit": "me'azov",
       "ref": "1Kgs.18.18",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": true
      }
     ],
@@ -326,11 +326,11 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶעֶזְבָה",
+      "heb": "וְאֶֽעֶזְבָה",
       "translit": "e'ezvah",
       "ref": "Jer.9.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "1cp",
@@ -355,7 +355,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּעֲזֹב",
+      "heb": "תַּעֲזֹב",
       "translit": "ta'azov",
       "ref": "Num.10.31",
       "has_suffix": false,
@@ -373,7 +373,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַּעֲזֹֽבוּ",
+      "heb": "תַּעֲזֹֽבוּ",
       "translit": "ta'azovu",
       "ref": "Prov.4.2",
       "has_suffix": false,
@@ -409,18 +409,18 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "נֶעֱזָב",
+      "heb": "וְנֶעֱזָב",
       "translit": "ne'ezav",
       "ref": "Isa.27.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "participle_passive": [
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "הַנֶּעֱזָבוֹת",
+      "heb": "הַנֶּעֱזָבוֹת",
       "translit": "hanne'ezavot",
       "ref": "Ezek.36.4",
       "has_suffix": false,
@@ -431,7 +431,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תֵּעָזֵב",
+      "heb": "תֵּעָזֵב",
       "translit": "te'azev",
       "ref": "Isa.7.16",
       "has_suffix": false,
@@ -456,7 +456,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "עֻזָּב",
+      "heb": "עֻזָּב",
       "translit": "uzzav",
       "ref": "Isa.32.14",
       "has_suffix": false,

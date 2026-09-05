@@ -31,7 +31,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיֶּֽחָלְקֵם",
+      "heb": "וַיֶּֽחָלְקֵם",
       "translit": "vayyechalqem",
       "ref": "1Chr.23.6",
       "has_suffix": true,
@@ -40,16 +40,16 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיַּחְלְקוּ",
+      "heb": "וַֽיַּחְלְקוּם",
       "translit": "vayyachlqu",
       "ref": "1Chr.24.4",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַֽתַּחְלְקֵם",
+      "heb": "וַֽתַּחְלְקֵם",
       "translit": "vattachlqem",
       "ref": "Neh.9.22",
       "has_suffix": true,
@@ -80,7 +80,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַּחְלְקוּ",
+      "heb": "תַּחְלְקוּ",
       "translit": "tachlqu",
       "ref": "2Sam.19.30",
       "has_suffix": false,
@@ -127,7 +127,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיֵּחָלֵק",
+      "heb": "וַיֵּחָלֵק",
       "translit": "vayyechaleq",
       "ref": "Gen.14.15",
       "has_suffix": false,
@@ -147,7 +147,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תֵּחָלֵק",
+      "heb": "תֵּחָלֵק",
       "translit": "techaleq",
       "ref": "Num.26.53",
       "has_suffix": false,
@@ -163,7 +163,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "חִלְּקַתָּה",
+      "heb": "חִלְּקַתָּה",
       "translit": "chillqattah",
       "ref": "Isa.34.17",
       "has_suffix": true,
@@ -172,7 +172,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "חִלֵּֽקוּ",
+      "heb": "חִלֵּֽקוּ",
       "translit": "chillequ",
       "ref": "Joel.4.2",
       "has_suffix": false,
@@ -181,7 +181,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "חִלְּקָם",
+      "heb": "חִלְּקָם",
       "translit": "chillqam",
       "ref": "Lam.4.16",
       "has_suffix": true,
@@ -192,7 +192,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיְחַלֵּק",
+      "heb": "וַיְחַלֵּק",
       "translit": "vaychalleq",
       "ref": "1Chr.16.3",
       "has_suffix": false,
@@ -201,7 +201,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיְחַלְּקוּ",
+      "heb": "וַֽיְחַלְּקוּ",
       "translit": "vaychallqu",
       "ref": "1Kgs.18.6",
       "has_suffix": false,
@@ -212,7 +212,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְחַלֵּק",
+      "heb": "יְחַלֵּק",
       "translit": "ychalleq",
       "ref": "Dan.11.39",
       "has_suffix": false,
@@ -221,7 +221,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֲחַלֵּק",
+      "heb": "אֲחַלֵּק",
       "translit": "achalleq",
       "ref": "Exod.15.9",
       "has_suffix": false,
@@ -230,7 +230,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יְחַלְּקוּ",
+      "heb": "יְחַלְּקוּ",
       "translit": "ychallqu",
       "ref": "Judg.5.30",
       "has_suffix": false,
@@ -239,7 +239,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְּחַלֵּק",
+      "heb": "תְּחַלֵּק",
       "translit": "tchalleq",
       "ref": "Ps.68.13",
       "has_suffix": false,
@@ -250,7 +250,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְחִלַּקְתָּֽם",
+      "heb": "וְחִלַּקְתָּֽם",
       "translit": "vchillaqtam",
       "ref": "Ezek.5.1",
       "has_suffix": true,
@@ -259,7 +259,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְחִלַּקְתֶּם",
+      "heb": "וְחִלַּקְתֶּם",
       "translit": "vchillaqtem",
       "ref": "Ezek.47.21",
       "has_suffix": false,
@@ -270,7 +270,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "חַלֵּק",
+      "heb": "חַלֵּק",
       "translit": "challeq",
       "ref": "Josh.13.7",
       "has_suffix": false,
@@ -281,10 +281,10 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "מֵֽחַלֵּק",
+      "heb": "בְּחַלְּקָם",
       "translit": "mechalleq",
       "ref": "Isa.9.2",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": true
      }
     ],
@@ -292,7 +292,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֲחַלְּקָה",
+      "heb": "אֲחַלְּקָה",
       "translit": "achallqah",
       "ref": "Ps.60.8",
       "has_suffix": false,
@@ -308,7 +308,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "חֻלַּק",
+      "heb": "חֻלַּק",
       "translit": "chullaq",
       "ref": "Isa.33.23",
       "has_suffix": false,
@@ -319,7 +319,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְּחֻלָּק",
+      "heb": "תְּחֻלָּק",
       "translit": "tchullaq",
       "ref": "Amos.7.17",
       "has_suffix": false,
@@ -330,7 +330,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְחֻלַּק",
+      "heb": "וְחֻלַּק",
       "translit": "vchullaq",
       "ref": "Zech.14.1",
       "has_suffix": false,
@@ -366,11 +366,11 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מַחֲלִיק",
+      "heb": "מִֽמַּחֲלִיק",
       "translit": "machaliq",
       "ref": "Prov.28.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "yiqtol": [
@@ -380,7 +380,7 @@
       "heb": "יַחֲלִֽיקוּן",
       "translit": "yachaliqun",
       "ref": "Ps.5.10",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      }
     ],
@@ -404,7 +404,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְהִֽתְחַלְּקוּ",
+      "heb": "וְהִֽתְחַלְּקוּ",
       "translit": "vhitchallqu",
       "ref": "Josh.18.5",
       "has_suffix": false,

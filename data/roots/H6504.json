@@ -11,18 +11,18 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּפְרִדוּ",
+      "heb": "וַיַּפְרִדוּ",
       "translit": "vayyafridu",
       "ref": "2Kgs.2.11",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "infinitive_construct": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בְּהַפְרִידוֹ",
+      "heb": "בְּהַפְרִידוֹ",
       "translit": "bhafrido",
       "ref": "Deut.32.8",
       "has_suffix": true,
@@ -71,7 +71,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "נִפְרְדוּ",
+      "heb": "נִפְרָדוּ",
       "translit": "nifrdu",
       "ref": "2Sam.1.23",
       "has_suffix": false,
@@ -82,7 +82,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִפָּרֵד",
+      "heb": "יִפָּרֵד",
       "translit": "yippared",
       "ref": "Gen.2.10",
       "has_suffix": false,
@@ -91,7 +91,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִפָּרֵדוּ",
+      "heb": "יִפָּרֵדוּ",
       "translit": "yipparedu",
       "ref": "Gen.25.23",
       "has_suffix": false,
@@ -102,7 +102,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הִפָּרֶד",
+      "heb": "הִפָּרֶד",
       "translit": "hippared",
       "ref": "Gen.13.9",
       "has_suffix": false,
@@ -113,18 +113,18 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּפָּרְדוּ",
+      "heb": "וַיִּפָּרְדוּ",
       "translit": "vayyippardu",
       "ref": "Gen.13.11",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "infinitive_construct": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הִפָּֽרֶד",
+      "heb": "הִפָּֽרֶד",
       "translit": "hippared",
       "ref": "Gen.13.14",
       "has_suffix": false,
@@ -176,7 +176,7 @@
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "פְּרֻדוֹת",
+      "heb": "פְּרֻדוֹת",
       "translit": "prudot",
       "ref": "Ezek.1.11",
       "has_suffix": false,
@@ -208,7 +208,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִתְפָּרָֽדוּ",
+      "heb": "יִתְפָּרָֽדוּ",
       "translit": "yitparadu",
       "ref": "Job.4.11",
       "has_suffix": false,
@@ -219,7 +219,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְהִתְפָּֽרְדוּ",
+      "heb": "וְהִתְפָּֽרְדוּ",
       "translit": "vhitpardu",
       "ref": "Ps.22.15",
       "has_suffix": false,

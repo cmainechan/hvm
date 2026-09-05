@@ -11,7 +11,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "נִשְּׁאוּ",
+      "heb": "נִשְּׁאוּ",
       "translit": "nishsh'u",
       "ref": "Isa.19.13",
       "has_suffix": false,
@@ -27,16 +27,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הִשִּׁיא",
+      "heb": "הִשִּׁיאַנִי",
       "translit": "hishshi",
       "ref": "Gen.3.13",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הִשֵּׁאתָ",
+      "heb": "הִשֵּׁאתָ",
       "translit": "hishshe'ta",
       "ref": "Jer.4.10",
       "has_suffix": false,
@@ -45,7 +45,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "הִשִּׁיאוּךָ",
+      "heb": "הִשִּׁיאוּךָ",
       "translit": "hishshi'ukha",
       "ref": "Obad.1.7",
       "has_suffix": true,
@@ -56,7 +56,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הַשֵּׁא",
+      "heb": "הַשֵּׁא",
       "translit": "hashshe",
       "ref": "Jer.4.10",
       "has_suffix": false,
@@ -67,7 +67,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַשִּׁיא",
+      "heb": "יַשִּׁיא",
       "translit": "yashshi",
       "ref": "2Chr.32.15",
       "has_suffix": false,
@@ -76,7 +76,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יַשִּׁיאוּ",
+      "heb": "יַשִּׁיאוּ",
       "translit": "yashshi'u",
       "ref": "Jer.29.8",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַּשִּׁאוּ",
+      "heb": "תַּשִּׁאוּ",
       "translit": "tashshi'u",
       "ref": "Jer.37.9",
       "has_suffix": false,

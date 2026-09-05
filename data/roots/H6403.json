@@ -27,7 +27,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַֽתְּפַלְּטֵנִי",
+      "heb": "וַֽתְּפַלְּטֵנִי",
       "translit": "vattfallteni",
       "ref": "2Sam.22.44",
       "has_suffix": true,
@@ -36,7 +36,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַֽיְפַלְּטֵם",
+      "heb": "וַֽיְפַלְּטֵם",
       "translit": "vayfalltem",
       "ref": "Ps.37.40",
       "has_suffix": true,
@@ -47,7 +47,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְּפַלֵּט",
+      "heb": "תְּפַלֵּט",
       "translit": "tfallet",
       "ref": "Job.21.10",
       "has_suffix": false,
@@ -56,7 +56,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְּפַלֵּט",
+      "heb": "תְּפַלֵּט",
       "translit": "tfallet",
       "ref": "Mic.6.14",
       "has_suffix": false,
@@ -65,7 +65,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְפַלְּטֵהוּ",
+      "heb": "יְפַלְּטֵהוּ",
       "translit": "yfalltehu",
       "ref": "Ps.22.9",
       "has_suffix": true,
@@ -74,7 +74,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וַאֲפַלְּטֵהוּ",
+      "heb": "וַאֲפַלְּטֵהוּ",
       "translit": "va'afalltehu",
       "ref": "Ps.91.14",
       "has_suffix": true,
@@ -85,16 +85,16 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "פַּלְּטָה",
+      "heb": "פַּלְּטָה",
       "translit": "palltah",
       "ref": "Ps.17.13",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "פַּלְּטוּ",
+      "heb": "פַּלְּטוּ",
       "translit": "palltu",
       "ref": "Ps.82.4",
       "has_suffix": false,
@@ -105,7 +105,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וַאֲפַלְּטָה",
+      "heb": "וַאֲפַלְּטָה",
       "translit": "va'afalltah",
       "ref": "Job.23.7",
       "has_suffix": false,

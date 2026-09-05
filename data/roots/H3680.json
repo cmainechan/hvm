@@ -11,11 +11,11 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "כֹּסֶה",
+      "heb": "וְכֹסֶה",
       "translit": "koseh",
       "ref": "Prov.12.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ]
    }
@@ -38,7 +38,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּכַּסֶּה",
+      "heb": "תִּכַּסֶּה",
       "translit": "tikkasseh",
       "ref": "Prov.26.26",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הִכָּסֽוֹת",
+      "heb": "הִכָּסֽוֹת",
       "translit": "hikkasot",
       "ref": "Ezek.24.8",
       "has_suffix": false,
@@ -65,25 +65,25 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "כִּסָּה",
+      "heb": "כִּסָּמוֹ",
       "translit": "kissah",
       "ref": "Exod.15.10",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "כִסְּתָה",
+      "heb": "וְכִסְּתָה",
       "translit": "khisstah",
       "ref": "Ezek.7.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "כִסִּיתִי",
+      "heb": "כִּסֵּתִי",
       "translit": "khissiti",
       "ref": "Ezek.31.15",
       "has_suffix": false,
@@ -92,7 +92,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "כִּסִּיתָ",
+      "heb": "כִּסִּיתָ",
       "translit": "kissita",
       "ref": "Ps.85.3",
       "has_suffix": false,
@@ -103,16 +103,16 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיְכַסּוּ",
+      "heb": "וַיְכַסֻּהוּ",
       "translit": "vaykhassu",
       "ref": "1Kgs.1.1",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתְּכַס",
+      "heb": "וַתְּכַס",
       "translit": "vattkhas",
       "ref": "1Sam.19.13",
       "has_suffix": false,
@@ -130,7 +130,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֲכַסֶּה",
+      "heb": "וָאֲכַסֶּה",
       "translit": "va'akhasseh",
       "ref": "Ezek.16.8",
       "has_suffix": false,
@@ -139,7 +139,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וַתְּכַסִּים",
+      "heb": "וַתְּכַסִּים",
       "translit": "vattkhassim",
       "ref": "Ezek.16.18",
       "has_suffix": true,
@@ -148,7 +148,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתְּכַס",
+      "heb": "וַתְּכַס",
       "translit": "vattkhas",
       "ref": "Ps.44.20",
       "has_suffix": false,
@@ -159,11 +159,11 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מְכַסֶּה",
+      "heb": "הַֽמְכַסֶּה",
       "translit": "mkhasseh",
       "ref": "Exod.29.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "fp",
@@ -177,7 +177,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מְכַסִּֽים",
+      "heb": "מְכַסִּֽים",
       "translit": "mkhassim",
       "ref": "Isa.11.9",
       "has_suffix": false,
@@ -188,7 +188,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְכַסֶּה",
+      "heb": "תְכַסֶּה",
       "translit": "tkhasseh",
       "ref": "Deut.13.9",
       "has_suffix": false,
@@ -197,34 +197,34 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יְכַסּוּ",
+      "heb": "יְכַסְיֻמוּ",
       "translit": "ykhassu",
       "ref": "Exod.15.5",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְכַסֶּה",
+      "heb": "יְכַסֶּנּוּ",
       "translit": "ykhasseh",
       "ref": "Exod.21.33",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֲכַסֶּה",
+      "heb": "אֲכַסֶּנּוּ",
       "translit": "akhasseh",
       "ref": "Ezek.32.7",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְּכַסֶּה",
+      "heb": "תְכַסֶּה",
       "translit": "tkhasseh",
       "ref": "Isa.26.21",
       "has_suffix": false,
@@ -235,7 +235,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְכִסִּיתָ",
+      "heb": "וְכִסִּיתָ",
       "translit": "vkhissita",
       "ref": "Deut.23.14",
       "has_suffix": false,
@@ -244,7 +244,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְכִסָּה",
+      "heb": "וְכִסָּה",
       "translit": "vkhissah",
       "ref": "Exod.10.5",
       "has_suffix": false,
@@ -253,16 +253,16 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְכִסּוּ",
+      "heb": "וְכִסּוּךְ",
       "translit": "vkhissu",
       "ref": "Ezek.26.19",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְכִסֵּיתִי",
+      "heb": "וְכִסֵּיתִי",
       "translit": "vkhisseti",
       "ref": "Ezek.32.7",
       "has_suffix": false,
@@ -271,7 +271,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וְכִסִּינוּ",
+      "heb": "וְכִסִּינוּ",
       "translit": "vkhissinu",
       "ref": "Gen.37.26",
       "has_suffix": false,
@@ -282,7 +282,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "כַּסּוּנוּ",
+      "heb": "כַּסּוּנוּ",
       "translit": "kassunu",
       "ref": "Hos.10.8",
       "has_suffix": true,
@@ -293,18 +293,18 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "כַּסּוֹת",
+      "heb": "לְכַסּוֹת",
       "translit": "kassot",
       "ref": "1Kgs.7.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "jussive": [
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תְּכַסִּי",
+      "heb": "תְּכַסִּי",
       "translit": "tkhassi",
       "ref": "Job.16.18",
       "has_suffix": false,
@@ -313,7 +313,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְּכַס",
+      "heb": "תְּכַס",
       "translit": "tkhas",
       "ref": "Neh.3.37",
       "has_suffix": false,
@@ -322,7 +322,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְכַסֵּֽמוֹ",
+      "heb": "יְכַסֵּֽמוֹ",
       "translit": "ykhassemo",
       "ref": "Ps.140.10",
       "has_suffix": true,
@@ -338,7 +338,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "כָּסּוּ",
+      "heb": "כָּסּוּ",
       "translit": "kassu",
       "ref": "Prov.24.31",
       "has_suffix": false,
@@ -360,7 +360,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מְכֻסִּים",
+      "heb": "מְכֻסִּים",
       "translit": "mkhussim",
       "ref": "1Chr.21.16",
       "has_suffix": false,
@@ -380,7 +380,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְכֻסֶּֽה",
+      "heb": "יְכֻסֶּֽה",
       "translit": "ykhusseh",
       "ref": "Eccl.6.4",
       "has_suffix": false,
@@ -396,7 +396,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּתְכַּס",
+      "heb": "וַיִּתְכַּס",
       "translit": "vayyitkas",
       "ref": "2Kgs.19.1",
       "has_suffix": false,
@@ -405,7 +405,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּתְכָּֽס",
+      "heb": "וַתִּתְכָּֽס",
       "translit": "vattitkas",
       "ref": "Gen.24.65",
       "has_suffix": false,
@@ -416,7 +416,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מִתְכַּסֶּה",
+      "heb": "מִתְכַּסֶּה",
       "translit": "mitkasseh",
       "ref": "1Kgs.11.29",
       "has_suffix": false,
@@ -425,7 +425,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מִתְכַּסִּים",
+      "heb": "מִתְכַּסִּים",
       "translit": "mitkassim",
       "ref": "2Kgs.19.2",
       "has_suffix": false,
@@ -436,7 +436,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִתְכַּסּוּ",
+      "heb": "יִתְכַּסּוּ",
       "translit": "yitkassu",
       "ref": "Isa.59.6",
       "has_suffix": false,

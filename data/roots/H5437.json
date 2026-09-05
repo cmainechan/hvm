@@ -11,25 +11,25 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "סָבְבוּ",
+      "heb": "סְבָבֻהוּ",
       "translit": "savvu",
       "ref": "1Kgs.5.17",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "סָבַב",
+      "heb": "וְסָבַב",
       "translit": "savav",
       "ref": "1Sam.7.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "סַבֹּתִי",
+      "heb": "סַבֹּתִי",
       "translit": "sabboti",
       "ref": "1Sam.22.22",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּסֹּב",
+      "heb": "וַיִּסֹּב",
       "translit": "vayyissov",
       "ref": "1Chr.16.43",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּסֹּב",
+      "heb": "וַתִּסֹּב",
       "translit": "vattissov",
       "ref": "1Kgs.2.15",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיָּסֹבּוּ",
+      "heb": "וַיָּסֹבּוּ",
       "translit": "vayyasobbu",
       "ref": "2Chr.17.9",
       "has_suffix": false,
@@ -67,7 +67,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וַנָּסָב",
+      "heb": "וַנָּסָב",
       "translit": "vannasav",
       "ref": "Deut.2.1",
       "has_suffix": false,
@@ -87,11 +87,11 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "סוֹבֵב",
+      "heb": "הַסּוֹבֵב",
       "translit": "sovev",
       "ref": "2Chr.21.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "yiqtol": [
@@ -116,7 +116,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תְסֻבֶּינָה",
+      "heb": "תְסֻבֶּינָה",
       "translit": "tsubbenah",
       "ref": "Gen.37.7",
       "has_suffix": false,
@@ -125,7 +125,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּסּוֹב",
+      "heb": "תִּסּוֹב",
       "translit": "tissov",
       "ref": "Hab.2.16",
       "has_suffix": false,
@@ -143,7 +143,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תָּסֹבּוּ",
+      "heb": "תָּסֹבּוּ",
       "translit": "tasobbu",
       "ref": "Josh.6.4",
       "has_suffix": false,
@@ -152,11 +152,11 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּסֹּב",
+      "heb": "וְתִסֹּב",
       "translit": "tissov",
       "ref": "Ps.71.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "veqatal": [
@@ -172,7 +172,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְסַבֹּתֶם",
+      "heb": "וְסַבֹּתֶם",
       "translit": "vsabbotem",
       "ref": "Josh.6.3",
       "has_suffix": false,
@@ -201,7 +201,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "סֹבִּי",
+      "heb": "סֹבִּי",
       "translit": "sobbi",
       "ref": "Isa.23.16",
       "has_suffix": false,
@@ -228,7 +228,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "נָסֵבָּה",
+      "heb": "נָסֵבָּה",
       "translit": "nasebbah",
       "ref": "Ezek.26.2",
       "has_suffix": false,
@@ -257,7 +257,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִסַּבּוּ",
+      "heb": "יִסַּבּוּ",
       "translit": "yissabbu",
       "ref": "Ezek.1.9",
       "has_suffix": false,
@@ -293,7 +293,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "סַבֵּב",
+      "heb": "סַבֵּב",
       "translit": "sabbev",
       "ref": "2Sam.14.20",
       "has_suffix": false,
@@ -309,7 +309,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הֲסִבֹּתָ",
+      "heb": "הֲסִבֹּתָ",
       "translit": "hasibbota",
       "ref": "1Kgs.18.37",
       "has_suffix": false,
@@ -338,7 +338,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּסֵּב",
+      "heb": "וַיַּסֵּב",
       "translit": "vayyassev",
       "ref": "1Chr.10.14",
       "has_suffix": false,
@@ -347,7 +347,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּסֵּבּוּ",
+      "heb": "וַיַּסֵּבּוּ",
       "translit": "vayyassebbu",
       "ref": "1Sam.5.8",
       "has_suffix": false,
@@ -400,7 +400,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "הָסֵבִּי",
+      "heb": "הָסֵבִּי",
       "translit": "hasebbi",
       "ref": "Song.6.5",
       "has_suffix": false,
@@ -422,7 +422,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וְנָסֵבָּה",
+      "heb": "וְנָסֵבָּה",
       "translit": "vnasebbah",
       "ref": "1Chr.13.3",
       "has_suffix": false,
@@ -438,7 +438,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יוּסָּב",
+      "heb": "יוּסָּב",
       "translit": "yussav",
       "ref": "Isa.28.27",
       "has_suffix": false,

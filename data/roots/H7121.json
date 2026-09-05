@@ -29,7 +29,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "קָרָא",
+      "heb": "קָרָֽא",
       "translit": "qara",
       "ref": "1Kgs.1.10",
       "has_suffix": false,
@@ -76,7 +76,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּקְרָא",
+      "heb": "וַיִּקְרָא",
       "translit": "vayyiqra",
       "ref": "1Chr.4.10",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּקְרָא",
+      "heb": "וַתִּקְרָא",
       "translit": "vattiqra",
       "ref": "1Chr.7.16",
       "has_suffix": false,
@@ -94,7 +94,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּקְרְאוּ",
+      "heb": "וַיִּקְרְאוּ",
       "translit": "vayyiqr'u",
       "ref": "1Kgs.12.3",
       "has_suffix": false,
@@ -103,7 +103,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֶקְרָא",
+      "heb": "וָאֶקְרָאֶה",
       "translit": "va'eqra",
       "ref": "1Sam.28.15",
       "has_suffix": false,
@@ -112,7 +112,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "וַתִּקְרֶאןָ",
+      "heb": "וַתִּקְרֶאןָ",
       "translit": "vattiqre'na",
       "ref": "Num.25.2",
       "has_suffix": false,
@@ -143,11 +143,11 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "קְרֻאִים",
+      "heb": "הַקְּרֻאִים",
       "translit": "qru'im",
       "ref": "1Kgs.1.41",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "ms",
@@ -190,7 +190,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּקְרָא",
+      "heb": "תִּקְרָא",
       "translit": "tiqra",
       "ref": "Deut.31.11",
       "has_suffix": false,
@@ -208,7 +208,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תִּקְרְאִי",
+      "heb": "תִּקְרְאִי",
       "translit": "tiqr'i",
       "ref": "Hos.2.18",
       "has_suffix": false,
@@ -217,7 +217,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּקְרְאוּ",
+      "heb": "תִּקְרְאוּ",
       "translit": "tiqr'u",
       "ref": "Lev.23.2",
       "has_suffix": false,
@@ -226,7 +226,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִקְרָא",
+      "heb": "תִּקְרָא",
       "translit": "tiqra",
       "ref": "Prov.1.21",
       "has_suffix": false,
@@ -340,10 +340,10 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "קְרֹא",
+      "heb": "קָרְאָם",
       "translit": "qro",
       "ref": "1Kgs.8.52",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -351,7 +351,7 @@
      {
       "code": "2fp",
       "label": "2nd fem. pl.",
-      "heb": "תִּקְרֶאנָה",
+      "heb": "תִּקְרֶאנָה",
       "translit": "tiqre'nah",
       "ref": "Ruth.1.20",
       "has_suffix": false,
@@ -405,7 +405,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּקָּרֵא",
+      "heb": "וַיִּקָּרֵא",
       "translit": "vayyiqqare",
       "ref": "2Sam.18.18",
       "has_suffix": false,
@@ -414,7 +414,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּקָּרְאוּ",
+      "heb": "וַיִּקָּרְאוּ",
       "translit": "vayyiqqar'u",
       "ref": "Esth.3.12",
       "has_suffix": false,
@@ -434,7 +434,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הַנִּקְרָאִים",
+      "heb": "הַנִּקְרָאִים",
       "translit": "hanniqra'im",
       "ref": "Isa.48.1",
       "has_suffix": false,
@@ -465,7 +465,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִקָּרְאוּ",
+      "heb": "יִקָּרְאוּ",
       "translit": "yiqqar'u",
       "ref": "1Chr.23.14",
       "has_suffix": false,
@@ -474,7 +474,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִקָּרֵא",
+      "heb": "יִקָּרֵא",
       "translit": "yiqqare",
       "ref": "1Sam.9.9",
       "has_suffix": false,
@@ -483,7 +483,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּקָּרֵאוּ",
+      "heb": "תִּקָּרֵאוּ",
       "translit": "tiqqare'u",
       "ref": "Isa.61.6",
       "has_suffix": false,
@@ -510,7 +510,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "קֹרָא",
+      "heb": "קוֹרָא",
       "translit": "qora",
       "ref": "Ezek.10.13",
       "has_suffix": false,

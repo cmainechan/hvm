@@ -29,7 +29,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "זָכַרְתְּ",
+      "heb": "זָכַרְתְּ",
       "translit": "zakhart",
       "ref": "Ezek.16.22",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "זְכַרְתַּנִי",
+      "heb": "זְכַרְתַּנִי",
       "translit": "zkhartani",
       "ref": "Gen.40.14",
       "has_suffix": true,
@@ -47,7 +47,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "זָכַרְתִּי",
+      "heb": "זָכָרְתִּי",
       "translit": "zakharti",
       "ref": "Hos.7.2",
       "has_suffix": false,
@@ -56,7 +56,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וּזְכַרְתֶּם",
+      "heb": "וּזְכַרְתֶּם",
       "translit": "uzkhartem",
       "ref": "Judg.9.2",
       "has_suffix": false,
@@ -85,16 +85,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּזְכֹּר",
+      "heb": "וַיִּֽזְכְּרֶהָ",
       "translit": "vayyizkor",
       "ref": "1Sam.1.19",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֶזְכֹּר",
+      "heb": "וָאֶזְכֹּר",
       "translit": "va'ezkor",
       "ref": "Exod.6.5",
       "has_suffix": false,
@@ -103,7 +103,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיִּזְכְּרוּ",
+      "heb": "וַֽיִּזְכְּרוּ",
       "translit": "vayyizkru",
       "ref": "Ps.78.35",
       "has_suffix": false,
@@ -125,7 +125,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּזְכֹּר",
+      "heb": "תִּזְכֹּר",
       "translit": "tizkor",
       "ref": "Deut.7.18",
       "has_suffix": false,
@@ -134,7 +134,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִזְכֹּר",
+      "heb": "יִזְכֹּר",
       "translit": "yizkor",
       "ref": "Eccl.5.19",
       "has_suffix": false,
@@ -143,7 +143,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תִזְכְּרִי",
+      "heb": "תִּזְכְּרִי",
       "translit": "tizkri",
       "ref": "Ezek.16.63",
       "has_suffix": false,
@@ -152,7 +152,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶזְכֹּֽר",
+      "heb": "אֶזְכֹּֽר",
       "translit": "ezkor",
       "ref": "Isa.43.25",
       "has_suffix": false,
@@ -161,16 +161,16 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִזְכְּרוּ",
+      "heb": "יִזְכְּרוּךָ",
       "translit": "yizkru",
       "ref": "Isa.64.4",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּזְכּוֹר",
+      "heb": "תִּזְכּוֹר",
       "translit": "tizkor",
       "ref": "Lam.3.20",
       "has_suffix": false,
@@ -179,7 +179,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּזְכְּרוּ",
+      "heb": "תִּזְכְּרוּ",
       "translit": "tizkru",
       "ref": "Num.15.40",
       "has_suffix": false,
@@ -190,10 +190,10 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְזָכַרְתָּ",
+      "heb": "וּזְכַרְתַּנִי",
       "translit": "vzakharta",
       "ref": "1Sam.1.11",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -208,7 +208,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְזָכַרְתִּי",
+      "heb": "וְזָכַרְתִּי",
       "translit": "vzakharti",
       "ref": "Ezek.16.60",
       "has_suffix": false,
@@ -217,7 +217,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וְזָכַרְתְּ",
+      "heb": "וְזָכַרְתְּ",
       "translit": "vzakhart",
       "ref": "Ezek.16.61",
       "has_suffix": false,
@@ -226,7 +226,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וּזְכַרְתֶּם",
+      "heb": "וּזְכַרְתֶּם",
       "translit": "uzkhartem",
       "ref": "Ezek.20.43",
       "has_suffix": false,
@@ -246,7 +246,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "זְכֹר",
+      "heb": "זָכְרָה",
       "translit": "zkhor",
       "ref": "2Chr.6.42",
       "has_suffix": false,
@@ -257,7 +257,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לִזְכֹּר",
+      "heb": "לִזְכֹּר",
       "translit": "lizkor",
       "ref": "Ezek.23.19",
       "has_suffix": false,
@@ -268,7 +268,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "זָכוֹר",
+      "heb": "זָכֹר",
       "translit": "zakhor",
       "ref": "Deut.7.18",
       "has_suffix": false,
@@ -279,7 +279,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶזְכְּרָה",
+      "heb": "אֶזְכְּרָה",
       "translit": "ezkrah",
       "ref": "Ps.42.5",
       "has_suffix": false,
@@ -290,7 +290,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִזְכָּר",
+      "heb": "יִזְכָּר",
       "translit": "yizkar",
       "ref": "2Sam.14.11",
       "has_suffix": false,
@@ -299,7 +299,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּזְכֹּר",
+      "heb": "תִּזְכֹּר",
       "translit": "tizkor",
       "ref": "2Sam.19.20",
       "has_suffix": false,
@@ -308,7 +308,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּזְכְּרוּ",
+      "heb": "תִּזְכְּרוּ",
       "translit": "tizkru",
       "ref": "Isa.43.18",
       "has_suffix": false,
@@ -324,7 +324,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "נִזְכָּרִים",
+      "heb": "נִזְכָּרִים",
       "translit": "nizkarim",
       "ref": "Esth.9.28",
       "has_suffix": false,
@@ -335,7 +335,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּזָּכָר",
+      "heb": "תִּזָּכָר",
       "translit": "tizzakhar",
       "ref": "Exod.34.19",
       "has_suffix": false,
@@ -344,7 +344,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תִזָּכַרְנָה",
+      "heb": "תִזָּכַרְןָ",
       "translit": "tizzakharnah",
       "ref": "Ezek.3.20",
       "has_suffix": false,
@@ -353,7 +353,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִזָּכְרוּ",
+      "heb": "יִזָּכְרוּ",
       "translit": "yizzakhru",
       "ref": "Ezek.18.22",
       "has_suffix": false,
@@ -362,7 +362,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תִזָּכֵרִי",
+      "heb": "תִזָּכֵרִי",
       "translit": "tizzakheri",
       "ref": "Ezek.21.37",
       "has_suffix": false,
@@ -371,7 +371,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִזָּכֵר",
+      "heb": "יִזָּכֵר",
       "translit": "yizzakher",
       "ref": "Jer.11.19",
       "has_suffix": false,
@@ -382,7 +382,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וֲנִזְכַּרְתֶּם",
+      "heb": "וֲנִזְכַּרְתֶּם",
       "translit": "vanizkartem",
       "ref": "Num.10.9",
       "has_suffix": false,
@@ -393,7 +393,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הִזָּכֶרְכֶם",
+      "heb": "הִזָּכֶרְכֶם",
       "translit": "hizzakherkhem",
       "ref": "Ezek.21.29",
       "has_suffix": true,
@@ -409,7 +409,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הִזְכִּיר",
+      "heb": "הִזְכִּיר",
       "translit": "hizkir",
       "ref": "Isa.49.1",
       "has_suffix": false,
@@ -420,7 +420,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מַזְכִּיר",
+      "heb": "מַזְכִּֽיר",
       "translit": "mazkir",
       "ref": "1Chr.18.15",
       "has_suffix": false,
@@ -429,7 +429,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הַמַּזְכִּרִים",
+      "heb": "הַמַּזְכִּרִים",
       "translit": "hammazkirim",
       "ref": "Isa.62.6",
       "has_suffix": false,
@@ -438,7 +438,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "מַזְכֶּרֶת",
+      "heb": "מַזְכֶּרֶת",
       "translit": "mazkeret",
       "ref": "Num.5.15",
       "has_suffix": false,
@@ -449,7 +449,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אַזְכִּיר",
+      "heb": "אַזְכִּיר",
       "translit": "azkir",
       "ref": "Exod.20.24",
       "has_suffix": false,
@@ -458,7 +458,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַזְכִּירוּ",
+      "heb": "תַזְכִּירוּ",
       "translit": "tazkiru",
       "ref": "Exod.23.13",
       "has_suffix": false,
@@ -467,7 +467,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַזְכִּיר",
+      "heb": "יַזְכִּיר",
       "translit": "yazkir",
       "ref": "Isa.19.17",
       "has_suffix": false,
@@ -476,7 +476,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נַזְכִּיר",
+      "heb": "נַזְכִּיר",
       "translit": "nazkir",
       "ref": "Isa.26.13",
       "has_suffix": false,
@@ -485,7 +485,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יַזְכִּירוּ",
+      "heb": "יַזְכִּירוּ",
       "translit": "yazkiru",
       "ref": "Isa.48.1",
       "has_suffix": false,
@@ -496,7 +496,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְהִזְכַּרְתַּנִי",
+      "heb": "וְהִזְכַּרְתַּנִי",
       "translit": "vhizkartani",
       "ref": "Gen.40.14",
       "has_suffix": true,
@@ -507,7 +507,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "הַזְכִּירוּ",
+      "heb": "הַזְכִּירוּ",
       "translit": "hazkiru",
       "ref": "Isa.12.4",
       "has_suffix": false,
@@ -516,7 +516,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הַזְכִּירֵנִי",
+      "heb": "הַזְכִּירֵנִי",
       "translit": "hazkireni",
       "ref": "Isa.43.26",
       "has_suffix": true,
@@ -527,18 +527,18 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הַזְכִּיר",
+      "heb": "וּלְהַזְכִּיר",
       "translit": "hazkir",
       "ref": "1Chr.16.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "cohortative": [
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אַזְכִּירָה",
+      "heb": "אַזְכִּירָה",
       "translit": "azkirah",
       "ref": "Ps.45.18",
       "has_suffix": false,
@@ -547,7 +547,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נַזְכִּירָה",
+      "heb": "נַזְכִּירָה",
       "translit": "nazkirah",
       "ref": "Song.1.4",
       "has_suffix": false,

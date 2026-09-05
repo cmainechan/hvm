@@ -54,7 +54,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הֶחֱרַֽמְתִּי",
+      "heb": "הֶחֱרַֽמְתִּי",
       "translit": "hecheramti",
       "ref": "1Sam.15.20",
       "has_suffix": false,
@@ -63,7 +63,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "הֶחֱרַמְתֶּם",
+      "heb": "הֶחֱרַמְתֶּם",
       "translit": "hecheramtem",
       "ref": "Josh.2.10",
       "has_suffix": false,
@@ -74,16 +74,16 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיַּחֲרִימוּ",
+      "heb": "וַיַּחֲרִימֻם",
       "translit": "vayyacharimu",
       "ref": "1Chr.4.41",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וַֽנַּחֲרֵם",
+      "heb": "וַֽנַּחֲרֵם",
       "translit": "vannacharem",
       "ref": "Deut.2.34",
       "has_suffix": false,
@@ -92,10 +92,10 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּחֲרֵם",
+      "heb": "וַיַּחֲרִימָהּ",
       "translit": "vayyacharem",
       "ref": "Josh.10.1",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -103,7 +103,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּחֲרִים",
+      "heb": "תַּחֲרִים",
       "translit": "tacharim",
       "ref": "Deut.7.2",
       "has_suffix": false,
@@ -112,7 +112,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַּחֲרִימוּ",
+      "heb": "תַּחֲרִימוּ",
       "translit": "tacharimu",
       "ref": "Josh.6.18",
       "has_suffix": false,
@@ -132,7 +132,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְהַֽחֲרַמְתֶּם",
+      "heb": "וְהַֽחֲרַמְתֶּם",
       "translit": "vhacharamtem",
       "ref": "1Sam.15.3",
       "has_suffix": false,
@@ -141,7 +141,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְהַחֲרַמְתָּה",
+      "heb": "וְהַחֲרַמְתָּה",
       "translit": "vhacharamtah",
       "ref": "1Sam.15.18",
       "has_suffix": false,
@@ -159,10 +159,10 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהַחֲרַמְתִּי",
+      "heb": "וְהַחֲרַמְתִּים",
       "translit": "vhacharamti",
       "ref": "Jer.25.9",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -179,21 +179,21 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "הַחֲרִימוּ",
+      "heb": "וְהַחֲרִימוּהָ",
       "translit": "hacharimu",
       "ref": "Jer.50.26",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      }
     ],
     "infinitive_construct": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְהַחֲרִים",
+      "heb": "לְהַֽחֲרִימָם",
       "translit": "lhacharim",
       "ref": "1Kgs.9.21",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": true
      }
     ],
@@ -217,7 +217,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יָחֳרַם",
+      "heb": "יָֽחֳרָם",
       "translit": "yachoram",
       "ref": "Exod.22.19",
       "has_suffix": false,

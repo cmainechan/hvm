@@ -40,11 +40,11 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "אֲרוּרָה",
+      "heb": "הָאֲרוּרָה",
       "translit": "arurah",
       "ref": "2Kgs.9.34",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "yiqtol": [
@@ -94,7 +94,7 @@
       "heb": "אָֽרָה",
       "translit": "arah",
       "ref": "Num.22.6",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      }
     ],
@@ -134,7 +134,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "אֵֽרְרָהּ",
+      "heb": "אֵֽרְרָהּ",
       "translit": "errahh",
       "ref": "Gen.5.29",
       "has_suffix": true,
@@ -145,7 +145,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הַֽמְאָרֲרִים",
+      "heb": "הַמְאָֽרֲרִֽים",
       "translit": "ham'ararim",
       "ref": "Num.5.18",
       "has_suffix": false,

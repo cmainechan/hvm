@@ -31,7 +31,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּכּוֹן",
+      "heb": "וַתִּכֹּן",
       "translit": "vattikkon",
       "ref": "1Kgs.2.12",
       "has_suffix": false,
@@ -71,7 +71,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּכּוֹן",
+      "heb": "תִּכּוֹן",
       "translit": "tikkon",
       "ref": "1Chr.16.30",
       "has_suffix": false,
@@ -89,7 +89,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִכֹּנוּ",
+      "heb": "יִכֹּֽנוּ",
       "translit": "yikkonu",
       "ref": "Prov.4.26",
       "has_suffix": false,
@@ -120,7 +120,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וְיִכֹּנוּ",
+      "heb": "וְיִכֹּנוּ",
       "translit": "vyikkonu",
       "ref": "Prov.16.3",
       "has_suffix": false,
@@ -145,10 +145,10 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הֵכִין",
+      "heb": "הֱכִינוֹ",
       "translit": "hekhin",
       "ref": "1Chr.14.2",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -172,18 +172,18 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הֲכִינוֹתָ",
+      "heb": "וַהֲכִינוֹתָ",
       "translit": "hakhinota",
       "ref": "2Chr.19.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "wayyiqtol": [
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיָּכֶן",
+      "heb": "וַיָּכֶן",
       "translit": "vayyakhen",
       "ref": "1Chr.15.1",
       "has_suffix": false,
@@ -192,7 +192,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיָּכִינוּ",
+      "heb": "וַיָּכִינוּ",
       "translit": "vayyakhinu",
       "ref": "1Kgs.5.32",
       "has_suffix": false,
@@ -214,7 +214,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תָּכִין",
+      "heb": "תָּכִין",
       "translit": "takhin",
       "ref": "Deut.19.3",
       "has_suffix": false,
@@ -223,7 +223,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תָּכִין",
+      "heb": "תָּכִין",
       "translit": "takhin",
       "ref": "Job.15.35",
       "has_suffix": false,
@@ -272,31 +272,31 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הָכֵן",
+      "heb": "וְהָכֵן",
       "translit": "hakhen",
       "ref": "1Chr.29.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "הָכִינוּ",
+      "heb": "וְהָכִינוּ",
       "translit": "hakhinu",
       "ref": "1Sam.7.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_construct": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הָכִין",
+      "heb": "לְהָכִין",
       "translit": "hakhin",
       "ref": "1Chr.9.32",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [

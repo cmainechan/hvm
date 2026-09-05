@@ -11,7 +11,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "זְרַעְתֶּם",
+      "heb": "זְרַעְתֶּם",
       "translit": "zra'tem",
       "ref": "Hag.1.6",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּזְרַע",
+      "heb": "וַיִּזְרַע",
       "translit": "vayyizra",
       "ref": "Gen.26.12",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּזְרְעוּ",
+      "heb": "וַיִּזְרְעוּ",
       "translit": "vayyizr'u",
       "ref": "Ps.107.37",
       "has_suffix": false,
@@ -69,7 +69,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הַזֹּרְעִים",
+      "heb": "הַזֹּרְעִים",
       "translit": "hazzor'im",
       "ref": "Ps.126.5",
       "has_suffix": false,
@@ -100,7 +100,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּזְרַע",
+      "heb": "תִּזְרַע",
       "translit": "tizra",
       "ref": "Deut.11.10",
       "has_suffix": false,
@@ -156,7 +156,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וּזְרַעְתֶּם",
+      "heb": "וּזְרַעְתֶּם",
       "translit": "uzra'tem",
       "ref": "Gen.47.23",
       "has_suffix": false,
@@ -165,10 +165,10 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְזָרַעְתִּי",
+      "heb": "וּזְרַעְתִּיהָ",
       "translit": "vzara'ti",
       "ref": "Hos.2.25",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -218,7 +218,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּזְרְעוּ",
+      "heb": "תִּזְרְעוּ",
       "translit": "tizr'u",
       "ref": "Jer.4.3",
       "has_suffix": false,
@@ -234,7 +234,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִזָּרֵעַ",
+      "heb": "יִזָּרֵעַ",
       "translit": "yizzare'a",
       "ref": "Deut.21.4",
       "has_suffix": false,
@@ -243,7 +243,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִזָּרַע",
+      "heb": "תִזָּרַע",
       "translit": "tizzara",
       "ref": "Deut.29.22",
       "has_suffix": false,
@@ -254,7 +254,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְנִזְרַעְתֶּֽם",
+      "heb": "וְנִזְרַעְתֶּֽם",
       "translit": "vnizra'tem",
       "ref": "Ezek.36.9",
       "has_suffix": false,

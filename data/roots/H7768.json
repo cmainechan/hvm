@@ -11,7 +11,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "שִׁוַּעְתִּי",
+      "heb": "שִׁוַּעְתִּי",
       "translit": "shivvati",
       "ref": "Hab.1.2",
       "has_suffix": false,
@@ -22,7 +22,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְּשַׁוַּע",
+      "heb": "תְּשַׁוַּע",
       "translit": "teshavva",
       "ref": "Isa.58.9",
       "has_suffix": false,
@@ -31,7 +31,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֲשַׁוַּע",
+      "heb": "אֲשַׁוַּע",
       "translit": "ashavva",
       "ref": "Job.19.7",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְּשַׁוֵּעַ",
+      "heb": "תְּשַׁוֵּעַ",
       "translit": "teshavea",
       "ref": "Job.24.12",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יְשַׁוְּעוּ",
+      "heb": "יְשַׁוְּעוּ",
       "translit": "yeshavveu",
       "ref": "Job.35.9",
       "has_suffix": false,
@@ -60,7 +60,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מְשַׁוֵּעַ",
+      "heb": "מְשַׁוֵּעַ",
       "translit": "meshavea",
       "ref": "Job.29.12",
       "has_suffix": false,
@@ -71,7 +71,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "וּֽבְשַׁוְּעוֹ",
+      "heb": "וּֽבְשַׁוְּעוֹ",
       "translit": "uvshavv'o",
       "ref": "Ps.22.25",
       "has_suffix": true,
@@ -82,10 +82,10 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֲשַׁוֵּעָה",
+      "heb": "וָאֲשַׁוֵּעָה",
       "translit": "va'ashavve'ah",
       "ref": "Ps.119.147",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      }
     ]

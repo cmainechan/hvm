@@ -11,7 +11,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "בָּקַעְתָּ",
+      "heb": "בָּקַעְתָּ",
       "translit": "baqa'ta",
       "ref": "Neh.9.11",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "בָּקַע",
+      "heb": "בָּקַע",
       "translit": "baqa",
       "ref": "Ps.78.13",
       "has_suffix": false,
@@ -31,7 +31,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּבְקְעוּ",
+      "heb": "וַיִּבְקְעוּ",
       "translit": "vayyivq'u",
       "ref": "1Chr.11.18",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּבְקַע",
+      "heb": "וַיִּבְקַע",
       "translit": "vayyivqa",
       "ref": "Isa.48.21",
       "has_suffix": false,
@@ -62,7 +62,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּבָּקַע",
+      "heb": "תִּבָּקַע",
       "translit": "tibbaqa",
       "ref": "Isa.59.5",
       "has_suffix": false,
@@ -73,7 +73,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וּבָקַעְתָּ",
+      "heb": "וּבָקַעְתָּ",
       "translit": "uvaqa'ta",
       "ref": "Ezek.29.7",
       "has_suffix": false,
@@ -104,11 +104,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בִּקְעָם",
+      "heb": "לְבִקְעָם",
       "translit": "biq'am",
       "ref": "2Chr.32.1",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": true
      }
     ]
    }
@@ -120,7 +120,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "נִבְקְעוּ",
+      "heb": "נִבְקָֽעוּ",
       "translit": "nivq'u",
       "ref": "2Chr.25.12",
       "has_suffix": false,
@@ -140,7 +140,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּבָּקַע",
+      "heb": "וַתִּבָּקַע",
       "translit": "vattibbaqa",
       "ref": "1Kgs.1.40",
       "has_suffix": false,
@@ -149,7 +149,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּבָּקְעוּ",
+      "heb": "וַיִּבָּקְעוּ",
       "translit": "vayyibbaq'u",
       "ref": "Exod.14.21",
       "has_suffix": false,
@@ -160,7 +160,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִבָּקַע",
+      "heb": "יִבָּקַע",
       "translit": "yibbaqa",
       "ref": "Isa.58.8",
       "has_suffix": false,
@@ -182,7 +182,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְהִבָּקֵעַ",
+      "heb": "לְהִבָּקֵעַ",
       "translit": "lhibbaqe'a",
       "ref": "Ezek.30.16",
       "has_suffix": false,
@@ -198,7 +198,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "בִּקֵּֽעַ",
+      "heb": "בִּקֵּֽעַ",
       "translit": "biqqe'a",
       "ref": "2Kgs.15.16",
       "has_suffix": false,
@@ -207,7 +207,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "בִּקֵּעוּ",
+      "heb": "בִּקֵּעוּ",
       "translit": "biqqe'u",
       "ref": "Isa.59.5",
       "has_suffix": false,
@@ -218,7 +218,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיְבַקְּעוּ",
+      "heb": "וַֽיְבַקְּעוּ",
       "translit": "vayvaqq'u",
       "ref": "1Sam.6.14",
       "has_suffix": false,
@@ -227,7 +227,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "וַתְּבַקַּעְנָה",
+      "heb": "וַתְּבַקַּעְנָה",
       "translit": "vattvaqqa'nah",
       "ref": "2Kgs.2.24",
       "has_suffix": false,
@@ -236,7 +236,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיְבַקַּע",
+      "heb": "וַיְבַקַּע",
       "translit": "vayvaqqa",
       "ref": "Gen.22.3",
       "has_suffix": false,
@@ -247,7 +247,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְּבַקֵּֽעַ",
+      "heb": "תְּבַקֵּֽעַ",
       "translit": "tvaqqe'a",
       "ref": "2Kgs.8.12",
       "has_suffix": false,
@@ -256,7 +256,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְּבַקֵּֽעַ",
+      "heb": "תְּבַקֵּֽעַ",
       "translit": "tvaqqe'a",
       "ref": "Ezek.13.11",
       "has_suffix": false,
@@ -265,7 +265,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְבַקַּע",
+      "heb": "יְבַקַּע",
       "translit": "yvaqqa",
       "ref": "Ps.78.15",
       "has_suffix": false,
@@ -276,7 +276,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וּבִקַּעְתִּי",
+      "heb": "וּבִקַּעְתִּי",
       "translit": "uviqqa'ti",
       "ref": "Ezek.13.13",
       "has_suffix": false,
@@ -292,7 +292,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "מְבֻקָּעָֽה",
+      "heb": "מְבֻקָּעָֽה",
       "translit": "mvuqqa'ah",
       "ref": "Ezek.26.10",
       "has_suffix": false,
@@ -301,7 +301,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "וּמְבֻקָּעִים",
+      "heb": "וּמְבֻקָּעִים",
       "translit": "umvuqqa'im",
       "ref": "Josh.9.4",
       "has_suffix": false,
@@ -312,7 +312,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יְבֻקָּֽעוּ",
+      "heb": "יְבֻקָּֽעוּ",
       "translit": "yvuqqa'u",
       "ref": "Hos.14.1",
       "has_suffix": false,
@@ -328,7 +328,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וְנַבְקִעֶנָּה",
+      "heb": "וְנַבְקִעֶנָּה",
       "translit": "vnavqi'ennah",
       "ref": "Isa.7.6",
       "has_suffix": true,
@@ -371,7 +371,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "הִתְבַּקָּעוּ",
+      "heb": "הִתְבַּקָּעוּ",
       "translit": "hitbaqqa'u",
       "ref": "Josh.9.13",
       "has_suffix": false,
@@ -382,7 +382,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִתְבַּקָּעוּ",
+      "heb": "יִתְבַּקָּעוּ",
       "translit": "yitbaqqa'u",
       "ref": "Mic.1.4",
       "has_suffix": false,

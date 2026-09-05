@@ -29,7 +29,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וְסָגַרְתְּ",
+      "heb": "וְסָגַרְתְּ",
       "translit": "vsagart",
       "ref": "2Kgs.4.4",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּסְגֹּר",
+      "heb": "וַיִּסְגֹּר",
       "translit": "vayyisgor",
       "ref": "2Chr.28.24",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּסְגֹּר",
+      "heb": "וַתִּסְגֹּר",
       "translit": "vattisgor",
       "ref": "2Kgs.4.5",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיִּסְגְּרוּ",
+      "heb": "וַֽיִּסְגְּרוּ",
       "translit": "vayyisgru",
       "ref": "Judg.9.51",
       "has_suffix": false,
@@ -89,7 +89,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "סָגוּר",
+      "heb": "סָגֽוּר",
       "translit": "sagur",
       "ref": "Ezek.44.1",
       "has_suffix": false,
@@ -100,7 +100,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִסְגֹּר",
+      "heb": "יִסְגֹּר",
       "translit": "yisgor",
       "ref": "Job.12.14",
       "has_suffix": false,
@@ -153,7 +153,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וְנִסְגְּרָה",
+      "heb": "וְנִסְגְּרָה",
       "translit": "vnisgrah",
       "ref": "Neh.6.10",
       "has_suffix": false,
@@ -164,7 +164,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְיִסְגֹּר",
+      "heb": "וְיִסְגֹּר",
       "translit": "vyisgor",
       "ref": "Mal.1.10",
       "has_suffix": false,
@@ -180,7 +180,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "נִסְגַּר",
+      "heb": "נִסְגַּר",
       "translit": "nisgar",
       "ref": "1Sam.23.7",
       "has_suffix": false,
@@ -191,7 +191,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּסָּגְרוּ",
+      "heb": "וַיִּסָּגְרוּ",
       "translit": "vayyissagru",
       "ref": "Neh.13.19",
       "has_suffix": false,
@@ -200,7 +200,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּסָּגֵר",
+      "heb": "וַתִּסָּגֵר",
       "translit": "vattissager",
       "ref": "Num.12.15",
       "has_suffix": false,
@@ -211,7 +211,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִסָּגֵר",
+      "heb": "יִסָּגֵר",
       "translit": "yissager",
       "ref": "Ezek.46.2",
       "has_suffix": false,
@@ -220,7 +220,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִסָּגֵֽרוּ",
+      "heb": "יִסָּגֵֽרוּ",
       "translit": "yissageru",
       "ref": "Isa.45.1",
       "has_suffix": false,
@@ -229,7 +229,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּסָּגֵר",
+      "heb": "תִּסָּגֵר",
       "translit": "tissager",
       "ref": "Num.12.14",
       "has_suffix": false,
@@ -240,7 +240,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הִסָּגֵר",
+      "heb": "הִסָּגֵר",
       "translit": "hissager",
       "ref": "Ezek.3.24",
       "has_suffix": false,
@@ -256,10 +256,10 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "סִגַּר",
+      "heb": "סִגְּרַנִי",
       "translit": "siggar",
       "ref": "1Sam.24.19",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -267,7 +267,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְסַגֶּרְךָ",
+      "heb": "יְסַגֶּרְךָ",
       "translit": "ysaggerkha",
       "ref": "1Sam.17.46",
       "has_suffix": true,
@@ -283,7 +283,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "סֻגַּר",
+      "heb": "סֻגַּר",
       "translit": "suggar",
       "ref": "Isa.24.10",
       "has_suffix": false,
@@ -292,7 +292,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "סֻגְּרוּ",
+      "heb": "סֻגְּרוּ",
       "translit": "suggru",
       "ref": "Jer.13.19",
       "has_suffix": false,
@@ -303,7 +303,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "וּמְסֻגֶּרֶת",
+      "heb": "וּמְסֻגֶּרֶת",
       "translit": "umsuggeret",
       "ref": "Josh.6.1",
       "has_suffix": false,
@@ -314,7 +314,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְסֻגְּרוּ",
+      "heb": "וְסֻגְּרוּ",
       "translit": "vsuggru",
       "ref": "Eccl.12.4",
       "has_suffix": false,
@@ -330,16 +330,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הִסְגִּיר",
+      "heb": "הִסְגִּירָֽם",
       "translit": "hisgir",
       "ref": "Deut.32.30",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הִסְגַּרְתַּנִי",
+      "heb": "הִסְגַּרְתַּנִי",
       "translit": "hisgartani",
       "ref": "Ps.31.9",
       "has_suffix": true,
@@ -350,7 +350,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּסְגֵּר",
+      "heb": "וַיַּסְגֵּר",
       "translit": "vayyasger",
       "ref": "Ps.78.48",
       "has_suffix": false,
@@ -361,25 +361,25 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יַסְגִּֽירוּ",
+      "heb": "הֲיַסְגִּרֻנִי",
       "translit": "yasgiru",
       "ref": "1Sam.23.11",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַסְגִּיר",
+      "heb": "תַּסְגִּרֵנִי",
       "translit": "tasgir",
       "ref": "1Sam.30.15",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְיַסְגִּיר",
+      "heb": "וְיַסְגִּיר",
       "translit": "vyasgir",
       "ref": "Job.11.10",
       "has_suffix": false,
@@ -390,7 +390,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהִסְגַּרְתִּי",
+      "heb": "וְהִסְגַּרְתִּי",
       "translit": "vhisgarti",
       "ref": "Amos.6.8",
       "has_suffix": false,
@@ -399,7 +399,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְהִסְגִּיר",
+      "heb": "וְהִסְגִּיר",
       "translit": "vhisgir",
       "ref": "Lev.13.4",
       "has_suffix": false,
@@ -410,18 +410,18 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְהַסְגִּיר",
+      "heb": "הַסְגִּירוֹ",
       "translit": "lhasgir",
       "ref": "1Sam.23.20",
-      "has_suffix": false,
-      "has_prefix": true
+      "has_suffix": true,
+      "has_prefix": false
      }
     ],
     "jussive": [
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּסְגֵּר",
+      "heb": "תַּסְגֵּר",
       "translit": "tasger",
       "ref": "Obad.1.14",
       "has_suffix": false,

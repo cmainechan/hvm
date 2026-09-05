@@ -20,7 +20,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "בָטַח",
+      "heb": "בָּטָח",
       "translit": "vatach",
       "ref": "2Kgs.18.5",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "בָטַחְתָּ",
+      "heb": "בָּטָֽחְתָּ",
       "translit": "vatachta",
       "ref": "2Kgs.18.19",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "בָּטָחְנוּ",
+      "heb": "בָּטָחְנוּ",
       "translit": "batachnu",
       "ref": "2Kgs.18.22",
       "has_suffix": false,
@@ -47,7 +47,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "בָּטַחְתִּי",
+      "heb": "בָטַחְתִּי",
       "translit": "batachti",
       "ref": "Ps.13.6",
       "has_suffix": false,
@@ -67,7 +67,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתִּבְטַח",
+      "heb": "וַתִּבְטַח",
       "translit": "vattivtach",
       "ref": "2Kgs.18.24",
       "has_suffix": false,
@@ -76,7 +76,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וַתִּבְטְחִי",
+      "heb": "וַתִּבְטְחִי",
       "translit": "vattivtchi",
       "ref": "Ezek.16.15",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַֽתִּבְטְחוּ",
+      "heb": "וַֽתִּבְטְחוּ",
       "translit": "vattivtchu",
       "ref": "Isa.30.12",
       "has_suffix": false,
@@ -94,7 +94,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּבְטְחוּ",
+      "heb": "וַיִּבְטְחוּ",
       "translit": "vayyivtchu",
       "ref": "Isa.31.1",
       "has_suffix": false,
@@ -103,7 +103,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּבְטַח",
+      "heb": "וַיִּבְטַח",
       "translit": "vayyivtach",
       "ref": "Ps.52.9",
       "has_suffix": false,
@@ -114,7 +114,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "בֹּטְחִים",
+      "heb": "בֹּטְחִים",
       "translit": "botchim",
       "ref": "2Chr.32.10",
       "has_suffix": false,
@@ -123,7 +123,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "בֹּטֵחַ",
+      "heb": "בֹּטֵחַ",
       "translit": "botecha",
       "ref": "2Kgs.19.10",
       "has_suffix": false,
@@ -132,7 +132,7 @@
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "בֹּֽטְחוֹת",
+      "heb": "בֹּֽטחוֹת",
       "translit": "botchot",
       "ref": "Isa.32.9",
       "has_suffix": false,
@@ -141,7 +141,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "הַבֹּֽטְחָה",
+      "heb": "הַבֹּֽטְחָה",
       "translit": "habbotchah",
       "ref": "Jer.49.4",
       "has_suffix": false,
@@ -152,7 +152,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "בָּטֽוּחַ",
+      "heb": "בָּטֽוּחַ",
       "translit": "batucha",
       "ref": "Isa.26.3",
       "has_suffix": false,
@@ -201,7 +201,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וּֽבָטַחְתָּ",
+      "heb": "וּֽבָטַחְתָּ",
       "translit": "vvatachta",
       "ref": "Job.11.18",
       "has_suffix": false,
@@ -212,7 +212,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "בִּטְחוּ",
+      "heb": "בִּטְחוּ",
       "translit": "bitchu",
       "ref": "Isa.26.4",
       "has_suffix": false,
@@ -221,7 +221,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "בְּטַח",
+      "heb": "בְּטַח",
       "translit": "btach",
       "ref": "Prov.3.5",
       "has_suffix": false,
@@ -232,18 +232,18 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "מִבְּטֹחַ",
+      "heb": "בִּטְחֵךְ",
       "translit": "mibbtocha",
       "ref": "Jer.48.7",
-      "has_suffix": false,
-      "has_prefix": true
+      "has_suffix": true,
+      "has_prefix": false
      }
     ],
     "infinitive_absolute": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בָּטוֹחַ",
+      "heb": "בָּטוֹחַ",
       "translit": "batocha",
       "ref": "Isa.59.4",
       "has_suffix": false,
@@ -254,7 +254,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּבְטְחוּ",
+      "heb": "תִּבְטְחוּ",
       "translit": "tivtchu",
       "ref": "Jer.7.4",
       "has_suffix": false,
@@ -263,7 +263,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תִּבְטָֽחוּ",
+      "heb": "תִּבְטָֽחוּ",
       "translit": "tivtachu",
       "ref": "Jer.49.11",
       "has_suffix": false,
@@ -279,7 +279,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הִבְטַחְתָּ",
+      "heb": "הִבְטַחְתָּ",
       "translit": "hivtachta",
       "ref": "Jer.28.15",
       "has_suffix": false,
@@ -290,7 +290,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּבְטַח",
+      "heb": "וַיַּבְטַח",
       "translit": "vayyavtach",
       "ref": "Jer.29.31",
       "has_suffix": false,

@@ -22,7 +22,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּרְפָּא",
+      "heb": "וַיִּרְפָּא",
       "translit": "vayyirpa",
       "ref": "2Chr.30.20",
       "has_suffix": false,
@@ -31,7 +31,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתִּרְפָּאֵֽנִי",
+      "heb": "וַתִּרְפָּאֵֽנִי",
       "translit": "vattirpa'eni",
       "ref": "Ps.30.3",
       "has_suffix": true,
@@ -42,7 +42,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הָרֹפְאִים",
+      "heb": "בָּרֹפְאִֽים",
       "translit": "harof'im",
       "ref": "2Chr.16.12",
       "has_suffix": false,
@@ -62,16 +62,16 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶרְפָּא",
+      "heb": "וְאֶרְפָּא",
       "translit": "erpa",
       "ref": "2Chr.7.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִרְפָּא",
+      "heb": "יִרְפָּא",
       "translit": "yirpa",
       "ref": "2Kgs.20.8",
       "has_suffix": false,
@@ -80,7 +80,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תִּרְפֶּֽינָה",
+      "heb": "תִּרְפֶּֽינָה",
       "translit": "tirpenah",
       "ref": "Job.5.18",
       "has_suffix": false,
@@ -111,10 +111,10 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "רְפָא",
+      "heb": "רְפָאֵנִי",
       "translit": "rfa",
       "ref": "Jer.17.14",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -149,7 +149,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "נִרְפָּא",
+      "heb": "נִרְפָּא",
       "translit": "nirpa",
       "ref": "Isa.53.5",
       "has_suffix": false,
@@ -158,7 +158,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "נִרְפָּתָה",
+      "heb": "נִרְפָּתָה",
       "translit": "nirpatah",
       "ref": "Jer.51.9",
       "has_suffix": false,
@@ -169,7 +169,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיֵּרָפוּ",
+      "heb": "וַיֵּרָפוּ",
       "translit": "vayyerafu",
       "ref": "2Kgs.2.22",
       "has_suffix": false,
@@ -180,7 +180,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תֵּרָֽפְאוּ",
+      "heb": "תֵּרָֽפְאוּ",
       "translit": "teraf'u",
       "ref": "1Sam.6.3",
       "has_suffix": false,
@@ -189,16 +189,16 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יֵרָפְאוּ",
+      "heb": "וְיֵרָֽפְאוּ",
       "translit": "yeraf'u",
       "ref": "Ezek.47.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תֵּרָפֵֽא",
+      "heb": "תֵּרָפֵֽא",
       "translit": "terafe",
       "ref": "Jer.51.8",
       "has_suffix": false,
@@ -218,7 +218,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְנִרְפָּֽא",
+      "heb": "וְנִרְפָּֽא",
       "translit": "vnirpa",
       "ref": "Lev.13.18",
       "has_suffix": false,
@@ -229,11 +229,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הֵֽרָפֵא",
+      "heb": "לְהֵרָפֵֽא",
       "translit": "herafe",
       "ref": "Deut.28.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "cohortative": [
@@ -256,7 +256,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "רִפִּאתִי",
+      "heb": "רִפִּאתִי",
       "translit": "rippi'ti",
       "ref": "2Kgs.2.21",
       "has_suffix": false,
@@ -265,7 +265,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "רִפֵּאתֶם",
+      "heb": "רִפֵּאתֶם",
       "translit": "rippe'tem",
       "ref": "Ezek.34.4",
       "has_suffix": false,
@@ -274,7 +274,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "רִפִּינוּ",
+      "heb": "רִפִּינוּ",
       "translit": "rippinu",
       "ref": "Jer.51.9",
       "has_suffix": false,
@@ -285,7 +285,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיְרַפֵּא",
+      "heb": "וַיְרַפֵּא",
       "translit": "vayrappe",
       "ref": "1Kgs.18.30",
       "has_suffix": false,
@@ -294,7 +294,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיְרַפְּאוּ",
+      "heb": "וַֽיְרַפְּאוּ",
       "translit": "vayrapp'u",
       "ref": "Jer.6.14",
       "has_suffix": false,
@@ -305,7 +305,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְרַפֵּֽא",
+      "heb": "יְרַפֵּֽא",
       "translit": "yrappe",
       "ref": "Exod.21.19",
       "has_suffix": false,
@@ -316,7 +316,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "וְרַפֹּא",
+      "heb": "וְרַפֹּא",
       "translit": "vrappo",
       "ref": "Exod.21.19",
       "has_suffix": false,
@@ -332,7 +332,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְהִתְרַפֵּא",
+      "heb": "לְהִתְרַפֵּא",
       "translit": "lhitrappe",
       "ref": "2Chr.22.6",
       "has_suffix": false,

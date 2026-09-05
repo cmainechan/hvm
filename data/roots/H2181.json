@@ -11,16 +11,16 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "זָנוּ",
+      "heb": "וְזָנוּ",
       "translit": "zanu",
       "ref": "Exod.34.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "זָֽנְתָה",
+      "heb": "זָנְתָה",
       "translit": "zantah",
       "ref": "Ezek.23.19",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּזְנוּ",
+      "heb": "וַיִּזְנוּ",
       "translit": "vayyiznu",
       "ref": "1Chr.5.25",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וַתִּזְנִי",
+      "heb": "וַתִּזְנִי",
       "translit": "vattizni",
       "ref": "Ezek.16.15",
       "has_suffix": false,
@@ -67,7 +67,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "וַתִּזְנֶינָה",
+      "heb": "וַתִּזְנֶינָה",
       "translit": "vattiznenah",
       "ref": "Ezek.23.3",
       "has_suffix": false,
@@ -76,7 +76,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּזֶן",
+      "heb": "וַתִּזֶן",
       "translit": "vattizen",
       "ref": "Ezek.23.5",
       "has_suffix": false,
@@ -96,25 +96,25 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "זֹנֶה",
+      "heb": "הַזּוֹנֶה",
       "translit": "zoneh",
       "ref": "Ezek.6.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "זֹנוֹת",
+      "heb": "הַזֹּנוֹת",
       "translit": "zonot",
       "ref": "Ezek.6.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "זֹנִים",
+      "heb": "זֹנִֽים",
       "translit": "zonim",
       "ref": "Ezek.20.30",
       "has_suffix": false,
@@ -125,7 +125,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִזְנֶה",
+      "heb": "תִּזְנֶה",
       "translit": "tizneh",
       "ref": "Amos.7.17",
       "has_suffix": false,
@@ -152,7 +152,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תִּזְנֶינָה",
+      "heb": "תִּזְנֶינָה",
       "translit": "tiznenah",
       "ref": "Hos.4.13",
       "has_suffix": false,
@@ -210,7 +210,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "זוּנָּה",
+      "heb": "זוּנָּה",
       "translit": "zunnah",
       "ref": "Ezek.16.34",
       "has_suffix": false,
@@ -226,11 +226,11 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "הִזְנוּ",
+      "heb": "וְהִזְנוּ",
       "translit": "hiznu",
       "ref": "Exod.34.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2ms",
@@ -246,7 +246,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיֶּזֶן",
+      "heb": "וַיֶּזֶן",
       "translit": "vayyezen",
       "ref": "2Chr.21.11",
       "has_suffix": false,
@@ -255,7 +255,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתַּזְנֶה",
+      "heb": "וַתַּזְנֶה",
       "translit": "vattazneh",
       "ref": "2Chr.21.13",
       "has_suffix": false,
@@ -266,7 +266,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "כְּהַזְנוֹת",
+      "heb": "כְּהַזְנוֹת",
       "translit": "khaznot",
       "ref": "2Chr.21.13",
       "has_suffix": false,

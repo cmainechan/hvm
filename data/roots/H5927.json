@@ -20,7 +20,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "עָלְתָה",
+      "heb": "עָֽלְתָה",
       "translit": "altah",
       "ref": "1Kgs.9.24",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּעַל",
+      "heb": "וַיַּעַל",
       "translit": "vayya'al",
       "ref": "1Chr.11.6",
       "has_suffix": false,
@@ -94,7 +94,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּעֲלוּ",
+      "heb": "וַיַּעֲלוּ",
       "translit": "vayya'alu",
       "ref": "1Chr.14.8",
       "has_suffix": false,
@@ -103,7 +103,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתַּעַל",
+      "heb": "וַֽתַּעֲלֶה",
       "translit": "vatta'al",
       "ref": "1Kgs.10.29",
       "has_suffix": false,
@@ -112,7 +112,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "וַֽתַּעֲלֶנָה",
+      "heb": "וַֽתַּעֲלֶנָה",
       "translit": "vatta'alenah",
       "ref": "Dan.8.8",
       "has_suffix": false,
@@ -121,7 +121,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַתַּעֲלוּ",
+      "heb": "וַתַּעֲלוּ",
       "translit": "vatta'alu",
       "ref": "Deut.1.43",
       "has_suffix": false,
@@ -130,7 +130,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וַנַּעַל",
+      "heb": "וַנַּעַל",
       "translit": "vanna'al",
       "ref": "Deut.3.1",
       "has_suffix": false,
@@ -148,7 +148,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וַֽתַּעֲלִי",
+      "heb": "וַֽתַּעֲלִי",
       "translit": "vatta'ali",
       "ref": "Isa.57.8",
       "has_suffix": false,
@@ -159,11 +159,11 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "עֹלָה",
+      "heb": "הָעוֹלָה",
       "translit": "olah",
       "ref": "1Chr.26.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "ms",
@@ -197,16 +197,16 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶעֱלֶה",
+      "heb": "הַאֶֽעֱלֶה",
       "translit": "e'eleh",
       "ref": "1Chr.14.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַעֲלֶה",
+      "heb": "תַֽעֲלֶה",
       "translit": "ta'aleh",
       "ref": "1Chr.14.14",
       "has_suffix": false,
@@ -224,7 +224,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יַעֲלוּ",
+      "heb": "יַֽעֲלוּ",
       "translit": "ya'alu",
       "ref": "1Kgs.6.8",
       "has_suffix": false,
@@ -251,7 +251,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תַּעֲלֶה",
+      "heb": "תַּעֲלֶה",
       "translit": "ta'aleh",
       "ref": "2Sam.11.20",
       "has_suffix": false,
@@ -365,11 +365,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "עֲלוֹת",
+      "heb": "בַּעֲלוֹת",
       "translit": "alot",
       "ref": "1Kgs.11.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
@@ -407,16 +407,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַעַל",
+      "heb": "וְיַעַל",
       "translit": "ya'al",
       "ref": "1Kgs.22.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַּעֲלוּ",
+      "heb": "תַּעֲלוּ",
       "translit": "ta'alu",
       "ref": "Hos.4.15",
       "has_suffix": false,
@@ -461,7 +461,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַתֵּֽעֲלוּ",
+      "heb": "וַתֵּֽעֲלוּ",
       "translit": "vatte'alu",
       "ref": "Ezek.36.3",
       "has_suffix": false,
@@ -470,7 +470,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיֵּעָלוּ",
+      "heb": "וַיֵּעָלוּ",
       "translit": "vayye'alu",
       "ref": "Jer.37.5",
       "has_suffix": false,
@@ -514,11 +514,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הֵעָלוֹת",
+      "heb": "וּבְהֵעָלוֹת",
       "translit": "he'alot",
       "ref": "Exod.40.36",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ]
    }
@@ -548,19 +548,19 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "הֶעֱלוּ",
+      "heb": "הֶעֱלוּךָ",
       "translit": "he'elu",
       "ref": "1Kgs.12.28",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הֶעֱלֵיתָ",
+      "heb": "הֶעֱלִיתָנוּ",
       "translit": "he'eleta",
       "ref": "Exod.17.3",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -595,7 +595,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּעַל",
+      "heb": "וַיַּעַל",
       "translit": "vayya'al",
       "ref": "1Chr.21.26",
       "has_suffix": false,
@@ -604,7 +604,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּעֲלוּ",
+      "heb": "וַיַּעֲלוּ",
       "translit": "vayya'alu",
       "ref": "1Chr.29.21",
       "has_suffix": false,
@@ -613,10 +613,10 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתַּעַל",
+      "heb": "וַתַּעֲלֵהוּ",
       "translit": "vatta'al",
       "ref": "1Sam.1.24",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -631,7 +631,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתַּעַל",
+      "heb": "וַתַּעַל",
       "translit": "vatta'al",
       "ref": "Jonah.2.7",
       "has_suffix": false,
@@ -680,7 +680,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אַעֲלֶה",
+      "heb": "אַֽעֲלֶה",
       "translit": "a'aleh",
       "ref": "1Sam.28.11",
       "has_suffix": false,
@@ -689,7 +689,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּעֲלֶה",
+      "heb": "תַּעֲלֶה",
       "translit": "ta'aleh",
       "ref": "2Chr.2.15",
       "has_suffix": false,
@@ -698,7 +698,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַּעֲלוּ",
+      "heb": "תַּעֲלוּ",
       "translit": "ta'alu",
       "ref": "Amos.5.22",
       "has_suffix": false,
@@ -707,18 +707,18 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יַעֲלוּ",
+      "heb": "וְיַעֲלוּ",
       "translit": "ya'alu",
       "ref": "Ezek.27.30",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "veqatal": [
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְהַעֲלִיתֶם",
+      "heb": "וְהַֽעֲלִיתֶם",
       "translit": "vha'alitem",
       "ref": "1Chr.15.12",
       "has_suffix": false,
@@ -754,7 +754,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְהֶעֱלָה",
+      "heb": "וְהֶֽעֱלָה",
       "translit": "vhe'elah",
       "ref": "Exod.25.37",
       "has_suffix": false,
@@ -783,31 +783,31 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "הַֽעֲלִי",
+      "heb": "וְהַעֲלִי",
       "translit": "ha'ali",
       "ref": "1Sam.28.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הַעַל",
+      "heb": "וְהַעַל",
       "translit": "ha'al",
       "ref": "Exod.8.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_construct": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הַעֲלוֹת",
+      "heb": "לְהַעֲלוֹת",
       "translit": "ha'alot",
       "ref": "1Chr.13.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
@@ -834,7 +834,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּעֲלֵנוּ",
+      "heb": "תַּעֲלֵנוּ",
       "translit": "ta'alenu",
       "ref": "Exod.33.15",
       "has_suffix": true,

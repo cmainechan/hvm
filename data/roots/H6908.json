@@ -22,7 +22,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּקְבֹּץ",
+      "heb": "וַיִּקְבֹּץ",
       "translit": "vayyiqbotz",
       "ref": "1Kgs.11.24",
       "has_suffix": false,
@@ -31,7 +31,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּקְבְּצוּ",
+      "heb": "וַיִּקְבְּצוּ",
       "translit": "vayyiqbtzu",
       "ref": "1Sam.28.1",
       "has_suffix": false,
@@ -40,10 +40,10 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֶקְבְּצָה",
+      "heb": "וָאֶקְבְּצָה",
       "translit": "va'eqbtzah",
       "ref": "Ezra.7.28",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      }
     ],
@@ -73,7 +73,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּקְבֹּץ",
+      "heb": "תִּקְבֹּץ",
       "translit": "tiqbotz",
       "ref": "Deut.13.17",
       "has_suffix": false,
@@ -82,7 +82,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶקְבֹּץ",
+      "heb": "אֶקְבֹּץ",
       "translit": "eqbotz",
       "ref": "Ezek.22.20",
       "has_suffix": false,
@@ -91,7 +91,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וְיִקְבְּצוּ",
+      "heb": "וְיִקְבְּצוּ",
       "translit": "vyiqbtzu",
       "ref": "Gen.41.35",
       "has_suffix": false,
@@ -100,10 +100,10 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִקְבָּץ",
+      "heb": "יִקְבְּצֶֽנּוּ",
       "translit": "yiqbatz",
       "ref": "Prov.28.8",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -142,7 +142,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְאֶקְבְּצָה",
+      "heb": "וְאֶקְבְּצָה",
       "translit": "v'eqbtzah",
       "ref": "2Sam.3.21",
       "has_suffix": false,
@@ -153,7 +153,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וְיִקְבְּצוּ",
+      "heb": "וְיִקְבְּצוּ",
       "translit": "vyiqbtzu",
       "ref": "Esth.2.3",
       "has_suffix": false,
@@ -169,7 +169,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "נִקְבְּצוּ",
+      "heb": "נִקְבְּצוּ",
       "translit": "niqbtzu",
       "ref": "Ezra.10.1",
       "has_suffix": false,
@@ -180,7 +180,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּקָּבְצוּ",
+      "heb": "וַיִּקָּבְצוּ",
       "translit": "vayyiqqavtzu",
       "ref": "1Chr.11.1",
       "has_suffix": false,
@@ -191,7 +191,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הַנִּקְבָּצִים",
+      "heb": "הַנִּקְבָּצִים",
       "translit": "hanniqbatzim",
       "ref": "Jer.40.15",
       "has_suffix": false,
@@ -202,16 +202,16 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִקָּבְצוּ",
+      "heb": "וְיִקָּבְצוּ",
       "translit": "yiqqavtzu",
       "ref": "1Chr.13.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִקָּבֵץ",
+      "heb": "תִקָּבֵץ",
       "translit": "tiqqavetz",
       "ref": "Ezek.29.5",
       "has_suffix": false,
@@ -220,7 +220,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּקָּבְצוּ",
+      "heb": "תִּקָּבְצוּ",
       "translit": "tiqqavtzu",
       "ref": "Neh.4.14",
       "has_suffix": false,
@@ -231,7 +231,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְנִקְבְּצוּ",
+      "heb": "וְנִקְבְּצוּ",
       "translit": "vniqbtzu",
       "ref": "Hos.2.2",
       "has_suffix": false,
@@ -242,7 +242,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "הִקָּבְצוּ",
+      "heb": "הִקָּבְצוּ",
       "translit": "hiqqavtzu",
       "ref": "Ezek.39.17",
       "has_suffix": false,
@@ -253,7 +253,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "וּֽבְהִקָּבֵץ",
+      "heb": "וּֽבְהִקָּבֵץ",
       "translit": "vvhiqqavetz",
       "ref": "Esth.2.8",
       "has_suffix": false,
@@ -269,16 +269,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "קִבְּצָם",
+      "heb": "קִבְּצָֽן",
       "translit": "qibbtzam",
       "ref": "Isa.34.16",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      },
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "קִבְּצוּ",
+      "heb": "קִבְּצוּ",
       "translit": "qibbtzu",
       "ref": "Joel.2.6",
       "has_suffix": false,
@@ -287,7 +287,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "קִבָּצָה",
+      "heb": "קִבָּצָה",
       "translit": "qibbatzah",
       "ref": "Mic.1.7",
       "has_suffix": false,
@@ -298,7 +298,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַֽתְּקַבְּצוּ",
+      "heb": "וַֽתְּקַבְּצוּ",
       "translit": "vattqabbtzu",
       "ref": "Isa.22.9",
       "has_suffix": false,
@@ -309,7 +309,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מְקַבֵּץ",
+      "heb": "מְקַבֵּץ",
       "translit": "mqabbetz",
       "ref": "Ezek.16.37",
       "has_suffix": false,
@@ -320,16 +320,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְקַבֵּץ",
+      "heb": "יְקַבֶּצְךָ",
       "translit": "yqabbetz",
       "ref": "Deut.30.4",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֲקַבֵּץ",
+      "heb": "אֲקַבֵּץ",
       "translit": "aqabbetz",
       "ref": "Ezek.29.13",
       "has_suffix": false,
@@ -338,7 +338,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְּקַבְּצֵם",
+      "heb": "תְּקַבְּצֵם",
       "translit": "tqabbtzem",
       "ref": "Hos.9.6",
       "has_suffix": true,
@@ -349,7 +349,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְקִבֶּצְךָ",
+      "heb": "וְקִבֶּצְךָ",
       "translit": "vqibbetzkha",
       "ref": "Deut.30.3",
       "has_suffix": true,
@@ -358,7 +358,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְקִבַּצְתִּי",
+      "heb": "וְקִבַּצְתִּי",
       "translit": "vqibbatzti",
       "ref": "Ezek.11.17",
       "has_suffix": false,
@@ -369,7 +369,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְקַבְּצֵנוּ",
+      "heb": "וְקַבְּצֵנוּ",
       "translit": "vqabbtzenu",
       "ref": "1Chr.16.35",
       "has_suffix": true,
@@ -380,10 +380,10 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְקַבֵּץ",
+      "heb": "בְּקַבְּצִי",
       "translit": "lqabbetz",
       "ref": "Ezek.28.25",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": true
      }
     ],
@@ -391,7 +391,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "קַבֵּץ",
+      "heb": "קַבֵּץ",
       "translit": "qabbetz",
       "ref": "Mic.2.12",
       "has_suffix": false,
@@ -402,7 +402,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֲקַבֵּצָה",
+      "heb": "אֲקַבֵּצָה",
       "translit": "aqabbetzah",
       "ref": "Mic.4.6",
       "has_suffix": false,
@@ -418,7 +418,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "מְקֻבֶּצֶת",
+      "heb": "מְקֻבֶּצֶת",
       "translit": "mqubbetzet",
       "ref": "Ezek.38.8",
       "has_suffix": false,
@@ -434,7 +434,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "הִֽתְקַבְּצוּ",
+      "heb": "הִתְקַבְּצוּ",
       "translit": "hitqabbtzu",
       "ref": "1Sam.7.7",
       "has_suffix": false,
@@ -445,7 +445,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּֽתְקַבְּצוּ",
+      "heb": "וַיִּֽתְקַבְּצוּ",
       "translit": "vayyitqabbtzu",
       "ref": "1Sam.8.4",
       "has_suffix": false,
@@ -456,7 +456,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִֽתְקַבְּצוּ",
+      "heb": "יִֽתְקַבְּצוּ",
       "translit": "yitqabbtzu",
       "ref": "Isa.44.11",
       "has_suffix": false,

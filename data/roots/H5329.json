@@ -11,7 +11,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "נִצַּחַת",
+      "heb": "נִצַּחַת",
       "translit": "nitztzachat",
       "ref": "Jer.8.5",
       "has_suffix": false,
@@ -27,16 +27,16 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מְנַצְּחִים",
+      "heb": "וּמְנַצְּחִים",
       "translit": "mnatztzchim",
       "ref": "2Chr.2.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "לַמְנַצֵּחַ",
+      "heb": "לַמְנַצֵּחַ",
       "translit": "lamnatztzecha",
       "ref": "Hab.3.19",
       "has_suffix": false,
@@ -47,7 +47,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְנַצֵּחַ",
+      "heb": "לְנַצֵּֽחַ",
       "translit": "lnatztzecha",
       "ref": "1Chr.15.21",
       "has_suffix": false,

@@ -31,11 +31,11 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיֶּֽאֶמְצוּ",
+      "heb": "וַיֶּֽאֶמְצוּ",
       "translit": "vayye'emtzu",
       "ref": "2Chr.13.18",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "perfect": [
@@ -69,7 +69,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הִתְאַמֵּץ",
+      "heb": "הִתְאַמֵּץ",
       "translit": "hit'ammetz",
       "ref": "1Kgs.12.18",
       "has_suffix": false,
@@ -80,18 +80,18 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּֽתְאַמְּצוּ",
+      "heb": "וַיִּֽתְאַמְּצוּ",
       "translit": "vayyit'ammtzu",
       "ref": "2Chr.13.7",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "participle_active": [
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "מִתְאַמֶּצֶת",
+      "heb": "מִתְאַמֶּצֶת",
       "translit": "mit'ammetzet",
       "ref": "Ruth.1.18",
       "has_suffix": false,
@@ -107,36 +107,36 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיְאַמְּצוּ",
+      "heb": "וַֽיְאַמְּצוּ",
       "translit": "vay'ammtzu",
       "ref": "2Chr.11.17",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיְאַמֵּץ",
+      "heb": "וַיְאַמֵּץ",
       "translit": "vay'ammetz",
       "ref": "2Chr.36.13",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתְּאַמֵּץ",
+      "heb": "וַתְּאַמֵּץ",
       "translit": "vatt'ammetz",
       "ref": "Prov.31.17",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "yiqtol": [
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְאַמֵּץ",
+      "heb": "יְאַמֵּץ",
       "translit": "y'ammetz",
       "ref": "Amos.2.14",
       "has_suffix": false,
@@ -145,7 +145,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְאַמֵּץ",
+      "heb": "תְאַמֵּץ",
       "translit": "t'ammetz",
       "ref": "Deut.15.7",
       "has_suffix": false,
@@ -154,7 +154,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֲאַמִּצְכֶם",
+      "heb": "אֲאַמִּצְכֶם",
       "translit": "a'ammitzkhem",
       "ref": "Job.16.5",
       "has_suffix": true,
@@ -163,7 +163,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְאַמְּצֶֽנּוּ",
+      "heb": "תְאַמְּצֶֽנּוּ",
       "translit": "t'ammtzennu",
       "ref": "Ps.89.22",
       "has_suffix": true,
@@ -174,7 +174,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְאִמֵּץ",
+      "heb": "וְאִמֵּץ",
       "translit": "v'immetz",
       "ref": "Deut.2.30",
       "has_suffix": false,
@@ -183,7 +183,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אִמַּצְתִּיךָ",
+      "heb": "אִמַּצְתִּיךָ",
       "translit": "immatztikha",
       "ref": "Isa.41.10",
       "has_suffix": true,
@@ -192,7 +192,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "אִמַּצְתָּה",
+      "heb": "אִמַּצְתָּה",
       "translit": "immatztah",
       "ref": "Ps.80.16",
       "has_suffix": false,
@@ -203,16 +203,16 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "אַמֵּץ",
+      "heb": "וְאַמְּצֵהוּ",
       "translit": "ammetz",
       "ref": "Deut.3.28",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "אַמֵּֽצוּ",
+      "heb": "אַמֵּֽצוּ",
       "translit": "ammetzu",
       "ref": "Isa.35.3",
       "has_suffix": false,
@@ -223,7 +223,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בְּאַמְּצוֹ",
+      "heb": "בְּאַמְּצוֹ",
       "translit": "b'ammtzo",
       "ref": "Prov.8.28",
       "has_suffix": true,
@@ -234,7 +234,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מְאַמֶּץ",
+      "heb": "מְאַמֶּץ",
       "translit": "m'ammetz",
       "ref": "Prov.24.5",
       "has_suffix": false,

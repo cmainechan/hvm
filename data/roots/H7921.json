@@ -11,7 +11,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "שָׁכֹלְתִּי",
+      "heb": "שָׁכֹלְתִּי",
       "translit": "shakholti",
       "ref": "Gen.43.14",
       "has_suffix": false,
@@ -22,7 +22,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּשְׁכַּל",
+      "heb": "תִּשְׁכַּל",
       "translit": "tishkal",
       "ref": "1Sam.15.33",
       "has_suffix": false,
@@ -31,7 +31,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶשְׁכַּל",
+      "heb": "אֶשְׁכַּל",
       "translit": "eshkal",
       "ref": "Gen.27.45",
       "has_suffix": false,
@@ -47,7 +47,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "שִׁכְּלָה",
+      "heb": "שִׁכְּלָה",
       "translit": "shikklah",
       "ref": "1Sam.15.33",
       "has_suffix": false,
@@ -56,7 +56,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "שִׁכֵּלוּ",
+      "heb": "שִׁכֵּלוּ",
       "translit": "shikkelu",
       "ref": "Gen.31.38",
       "has_suffix": false,
@@ -65,7 +65,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "שִׁכַּלְתֶּם",
+      "heb": "שִׁכַּלְתֶּם",
       "translit": "shikkaltem",
       "ref": "Gen.42.36",
       "has_suffix": false,
@@ -74,7 +74,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "שִׁכַּלְתִּי",
+      "heb": "שִׁכַּלְתִּי",
       "translit": "shikkalti",
       "ref": "Jer.15.7",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "מְשַׁכָּֽלֶת",
+      "heb": "מְשַׁכָּֽלֶת",
       "translit": "mshakkalet",
       "ref": "2Kgs.2.19",
       "has_suffix": false,
@@ -96,7 +96,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְּשַׁכֶּל",
+      "heb": "תְּשַׁכֶּל",
       "translit": "tshakkel",
       "ref": "Deut.32.25",
       "has_suffix": false,
@@ -105,7 +105,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תְשַׁכְּלִי",
+      "heb": "תְשַׁכְּלִי",
       "translit": "tshakkli",
       "ref": "Ezek.36.14",
       "has_suffix": false,
@@ -116,7 +116,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְשִׁכְּלֻךְ",
+      "heb": "וְשִׁכְּלֻךְ",
       "translit": "vshikklukh",
       "ref": "Ezek.5.17",
       "has_suffix": true,
@@ -125,16 +125,16 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וְשִׁכְּלָה",
+      "heb": "וְשִׁכְּלָתָּה",
       "translit": "vshikklah",
       "ref": "Ezek.14.15",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְשִׁכַּלְתִּים",
+      "heb": "וְשִׁכַּלְתִּים",
       "translit": "vshikkaltim",
       "ref": "Hos.9.12",
       "has_suffix": true,
@@ -145,7 +145,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְשַׁכְּלָֽם",
+      "heb": "לְשַׁכְּלָֽם",
       "translit": "lshakklam",
       "ref": "Ezek.36.12",
       "has_suffix": true,
@@ -161,7 +161,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מַשְׁכִּיל",
+      "heb": "מַשְׁכִּיל",
       "translit": "mashkil",
       "ref": "Hos.9.14",
       "has_suffix": false,

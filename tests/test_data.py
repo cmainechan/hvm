@@ -25,6 +25,7 @@ sys.path.insert(0, str(ROOT / "pipeline"))
 sys.path.insert(0, str(ROOT / "scripts"))
 
 REQUIRED_ROOT_FIELDS = {"glosses", "strong", "stems", "root", "search_match", "citation_translit"}
+OPTIONAL_ROOT_FIELDS = {"stem_glosses", "strong_alt", "notes"}
 REQUIRED_FORM_ROW_FIELDS = {"code", "label", "heb", "translit", "ref", "has_suffix", "has_prefix"}
 VALID_CATEGORIES = {
     "perfect", "wayyiqtol", "veqatal", "yiqtol", "imperative",
@@ -59,6 +60,22 @@ def test_required_fields_present(strong, data):
     # stem_glosses is optional (only present when a stem's sense differs
     # from the root-level primary gloss)
     assert not missing, f"{strong} ({data.get('root')}) missing fields: {missing}"
+
+
+@pytest.mark.parametrize("strong,data", ALL_ROOTS.items())
+def test_no_unknown_fields(strong, data):
+    unknown = set(data.keys()) - REQUIRED_ROOT_FIELDS - OPTIONAL_ROOT_FIELDS
+    assert not unknown, f"{strong} has unrecognized top-level fields: {unknown}"
+
+
+@pytest.mark.parametrize("strong,data", ALL_ROOTS.items())
+def test_strong_alt_is_well_formed(strong, data):
+    if "strong_alt" not in data:
+        return
+    alts = data["strong_alt"]
+    assert isinstance(alts, list) and alts, f"{strong} strong_alt must be a non-empty list"
+    for a in alts:
+        assert re.match(r"^H\d+$", a), f"{strong} strong_alt entry {a!r} isn't a valid Strong's number"
 
 
 @pytest.mark.parametrize("strong,data", ALL_ROOTS.items())
@@ -155,36 +172,43 @@ def _corpus_available():
 
 @pytest.mark.skipif(not _corpus_available(), reason="corpus not fetched -- run pipeline/fetch_corpus.sh")
 class TestAgainstCorpus:
-    """Cross-verify every stored form against a fresh extraction from the
-    pinned source texts. This is the expensive tier -- it re-parses the
-    whole WLC for every root under test, so it's opt-in locally and
-    conditionally run in CI (see .github/workflows/validate.yml)."""
+    """Cross-verify every stored form, in every root, against a fresh
+    extraction from the pinned source texts. This is the expensive tier --
+    it re-parses the whole WLC once (not once per root, via scan_all) --
+    but it's what actually keeps the dataset honest, and it's how the
+    dataset-wide cleanup was found and verified in the first place."""
+
+    @classmethod
+    def setup_class(cls):
+        sys.path.insert(0, str(ROOT / "pipeline"))
+        import pipeline
+        cls.pipeline = pipeline
+        target_numbers = set()
+        for strong, data in ALL_ROOTS.items():
+            target_numbers.add(strong[1:])
+            for alt in data.get("strong_alt", []):
+                target_numbers.add(alt[1:])
+        cls.records_by_number, cls.unmapped = pipeline.scan_all(target_numbers, verbose=False)
+
+    def test_no_unmapped_stem_letters(self):
+        assert not self.unmapped, f"unmapped stem letters found: {self.unmapped}"
+
+    @pytest.mark.parametrize("strong,data", ALL_ROOTS.items())
+    def test_root_matches_fresh_extraction(self, strong, data):
+        discs = self.pipeline.verify_root(strong, data, self.records_by_number)
+        assert not discs, (
+            f"{strong} ({data.get('root')}) has {len(discs)} discrepancies "
+            f"vs a fresh corpus extraction: {discs[:3]}"
+            + (" ..." if len(discs) > 3 else "")
+        )
 
     def test_sanity_roots_match_pipeline(self):
-        """The two roots used as the original hand-verification anchors --
-        confirms pipeline.py hasn't regressed."""
-        import pipeline
+        """Kept as an explicit, named regression check on the two original
+        hand-verification anchors, on top of the full sweep above."""
         for strong, expect_root in [("H935", "בוא"), ("H8104", "שמר")]:
             data = ALL_ROOTS.get(strong)
             if data is None:
                 pytest.skip(f"{strong} not in dataset")
             assert data["root"] == expect_root
-            records, unmapped = pipeline.scan_root({strong[1:]}, verbose=False)
-            assert not unmapped, f"{strong}: unmapped stem letters {unmapped}"
-            groups = defaultdict(list)
-            for r in records:
-                groups[(r["stem"], r["category"], r["code"])].append(r)
-            for stem, stem_obj in data["stems"].items():
-                for category, rows in stem_obj["forms"].items():
-                    for row in rows:
-                        key = (stem, category, row["code"])
-                        candidates = [c for c in groups.get(key, []) if c["ref"] == row["ref"]]
-                        assert candidates, (
-                            f"{strong} {stem}/{category}/{row['code']} ref "
-                            f"{row['ref']} not found in a fresh extraction"
-                        )
-                        c = candidates[0]
-                        assert c["heb"] == row["heb"], (
-                            f"{strong} {stem}/{category}/{row['code']}: "
-                            f"stored {row['heb']!r} vs freshly extracted {c['heb']!r}"
-                        )
+            discs = self.pipeline.verify_root(strong, data, self.records_by_number)
+            assert not discs, f"{strong} sanity check failed: {discs}"

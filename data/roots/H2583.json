@@ -40,7 +40,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיַּחֲנוּ",
+      "heb": "וַֽיַּחֲנוּ",
       "translit": "vayyachanu",
       "ref": "1Chr.19.7",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּחַן",
+      "heb": "וַיִּחַן",
       "translit": "vayyichan",
       "ref": "1Sam.11.1",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וַנַּחֲנֶה",
+      "heb": "וַנַּחֲנֶה",
       "translit": "vannachaneh",
       "ref": "Ezra.8.15",
       "has_suffix": false,
@@ -107,7 +107,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יַחֲנוּ",
+      "heb": "יַחֲנֽוּ",
       "translit": "yachanu",
       "ref": "Num.1.50",
       "has_suffix": false,
@@ -116,7 +116,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תַּחֲנֶה",
+      "heb": "תַּחֲנֶה",
       "translit": "tachaneh",
       "ref": "Ps.27.3",
       "has_suffix": false,
@@ -167,11 +167,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "חֲנוֹת",
+      "heb": "לַֽחֲנֹֽתְכֶם",
       "translit": "chanot",
       "ref": "Deut.1.33",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      }
     ],
     "jussive": [

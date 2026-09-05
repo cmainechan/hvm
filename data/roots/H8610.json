@@ -11,7 +11,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "תָּפַשׂ",
+      "heb": "תָּפַשׂ",
       "translit": "tafas",
       "ref": "2Chr.25.23",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תְּפַשְׂתֶּֽם",
+      "heb": "תְּפַשְׂתֶּֽם",
       "translit": "tfastem",
       "ref": "Jer.40.10",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "תָּפְשׂוּ",
+      "heb": "תָּפְשׂוּ",
       "translit": "tafsu",
       "ref": "Josh.8.23",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּתְפֹּשׂ",
+      "heb": "וַיִּתְפֹּשׂ",
       "translit": "vayyitpos",
       "ref": "1Kgs.11.30",
       "has_suffix": false,
@@ -49,16 +49,16 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיִּתְפְּשׂוּ",
+      "heb": "וַֽיִּתְפְּשׂוּם",
       "translit": "vayyitpsu",
       "ref": "1Kgs.18.40",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֶתְפֹּשׂ",
+      "heb": "וָאֶתְפֹּשׂ",
       "translit": "va'etpos",
       "ref": "Deut.9.17",
       "has_suffix": false,
@@ -67,7 +67,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּתְפְּשֵׂהוּ",
+      "heb": "וַתִּתְפְּשֵׂהוּ",
       "translit": "vattitpsehu",
       "ref": "Gen.39.12",
       "has_suffix": true,
@@ -78,7 +78,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "תָּפוּשׂ",
+      "heb": "תָּפוּשׂ",
       "translit": "tafus",
       "ref": "Hab.2.19",
       "has_suffix": false,
@@ -89,7 +89,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וְנִתְפְּשֵׂם",
+      "heb": "וְנִתְפְּשֵׂם",
       "translit": "vnitpsem",
       "ref": "2Kgs.7.12",
       "has_suffix": true,
@@ -98,7 +98,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִתְפֹּשׂ",
+      "heb": "יִתְפֹּשׂ",
       "translit": "yitpos",
       "ref": "Isa.3.6",
       "has_suffix": false,
@@ -118,7 +118,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וּתְפָשָׂהּ",
+      "heb": "וּתְפָשָׂהּ",
       "translit": "utfasahh",
       "ref": "Deut.22.28",
       "has_suffix": true,
@@ -127,7 +127,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְתָפַשְׂתִּי",
+      "heb": "וְתָפַשְׂתִּי",
       "translit": "vtafasti",
       "ref": "Prov.30.9",
       "has_suffix": false,
@@ -138,10 +138,10 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּפְשׂוּ",
+      "heb": "תִּפְשֻׂהוּ",
       "translit": "tifsu",
       "ref": "1Kgs.13.4",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -149,18 +149,18 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "תְּפֹשׂ",
+      "heb": "לְתָפְשָֽׂם",
       "translit": "tfos",
       "ref": "1Sam.23.26",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "תָּפֹשׂ",
+      "heb": "תָּפֹשׂ",
       "translit": "tafos",
       "ref": "Jer.34.3",
       "has_suffix": false,
@@ -176,7 +176,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "נִתְפָּשׂ",
+      "heb": "נִתְפָּשׂ",
       "translit": "nitpas",
       "ref": "Ezek.19.4",
       "has_suffix": false,
@@ -185,7 +185,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "נִתְפָּשָׂה",
+      "heb": "נִתְפָּשָׂה",
       "translit": "nitpasah",
       "ref": "Jer.48.41",
       "has_suffix": false,
@@ -194,7 +194,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "נִתְפַּשְׂתְּ",
+      "heb": "נִתְפַּשְׂתְּ",
       "translit": "nitpast",
       "ref": "Jer.50.24",
       "has_suffix": false,
@@ -203,7 +203,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "נִתְפָּשׂוּ",
+      "heb": "נִתְפָּשׂוּ",
       "translit": "nitpasu",
       "ref": "Jer.51.32",
       "has_suffix": false,
@@ -214,7 +214,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּתָּפֵשׂ",
+      "heb": "וַתִּתָּפֵשׂ",
       "translit": "vattittafes",
       "ref": "Jer.51.41",
       "has_suffix": false,
@@ -225,7 +225,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּתָּפֵֽשׂוּ",
+      "heb": "תִּתָּפֵֽשׂוּ",
       "translit": "tittafesu",
       "ref": "Ezek.21.29",
       "has_suffix": false,
@@ -234,7 +234,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּתָּפֵשׂ",
+      "heb": "תִּתָּפֵשׂ",
       "translit": "tittafes",
       "ref": "Jer.34.3",
       "has_suffix": false,
@@ -243,7 +243,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִתָּפְשׂוּ",
+      "heb": "יִתָּפְשׂוּ",
       "translit": "yittafsu",
       "ref": "Ps.10.2",
       "has_suffix": false,
@@ -254,7 +254,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְנִתְפַּשׂ",
+      "heb": "וְנִתְפַּשׂ",
       "translit": "vnitpas",
       "ref": "Ezek.12.13",
       "has_suffix": false,
@@ -265,7 +265,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְהִתָּפֵֽשׂ",
+      "heb": "לְהִתָּפֵֽשׂ",
       "translit": "lhittafes",
       "ref": "Ezek.21.28",
       "has_suffix": false,
@@ -281,7 +281,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְּתַפֵּשׂ",
+      "heb": "תְּתַפֵּשׂ",
       "translit": "ttappes",
       "ref": "Prov.30.28",
       "has_suffix": false,

@@ -29,7 +29,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "אָסְרָה",
+      "heb": "אָֽסְרָה",
       "translit": "asrah",
       "ref": "Num.30.5",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּאַסְרוּם",
+      "heb": "וַיַּאַסְרוּם",
       "translit": "vayya'asrum",
       "ref": "1Sam.6.10",
       "has_suffix": true,
@@ -49,7 +49,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיֶּאְסֹר",
+      "heb": "וַיֶּאְסֹר",
       "translit": "vayye'sor",
       "ref": "2Chr.13.3",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתַּאַסְרֵהוּ",
+      "heb": "וַתַּאַסְרֵהוּ",
       "translit": "vatta'asrehu",
       "ref": "Judg.16.8",
       "has_suffix": true,
@@ -87,11 +87,11 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "אֲסוּרִים",
+      "heb": "הָסוּרִים",
       "translit": "asurim",
       "ref": "Eccl.4.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "yiqtol": [
@@ -127,7 +127,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַאֲסַרְתֶּם",
+      "heb": "וַאֲסַרְתֶּם",
       "translit": "va'asartem",
       "ref": "1Sam.6.7",
       "has_suffix": false,
@@ -176,10 +176,10 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לֶאְסֹר",
+      "heb": "בְּאָסְרָם",
       "translit": "le'sor",
       "ref": "Hos.10.10",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": true
      }
     ],
@@ -239,7 +239,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "אֻסָּרוּ",
+      "heb": "אֻסָּרוּ",
       "translit": "ussaru",
       "ref": "Isa.22.3",
       "has_suffix": false,

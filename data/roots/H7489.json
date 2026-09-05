@@ -31,7 +31,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיֵּרַע",
+      "heb": "וַיֵּרַע",
       "translit": "vayyera",
       "ref": "1Chr.21.7",
       "has_suffix": false,
@@ -51,7 +51,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תֵּרַע",
+      "heb": "תֵּרַע",
       "translit": "tera",
       "ref": "Deut.28.54",
       "has_suffix": false,
@@ -69,7 +69,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְּרֹעֵם",
+      "heb": "תְּרֹעֵם",
       "translit": "tro'em",
       "ref": "Ps.2.9",
       "has_suffix": true,
@@ -201,7 +201,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתָּרַע",
+      "heb": "וַתָּרַע",
       "translit": "vattara",
       "ref": "1Kgs.14.9",
       "has_suffix": false,
@@ -210,7 +210,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיָּרַע",
+      "heb": "וַיָּרַע",
       "translit": "vayyara",
       "ref": "1Kgs.16.25",
       "has_suffix": false,
@@ -219,7 +219,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיָּרֵעוּ",
+      "heb": "וַיָּרֵעוּ",
       "translit": "vayyare'u",
       "ref": "Deut.26.6",
       "has_suffix": false,
@@ -239,18 +239,18 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מֵרַע",
+      "heb": "וּמֵרַע",
       "translit": "mera",
       "ref": "Isa.9.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "yiqtol": [
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תָּרֵעוּ",
+      "heb": "תָּרֵעוּ",
       "translit": "tare'u",
       "ref": "1Sam.12.25",
       "has_suffix": false,
@@ -286,7 +286,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תָּרַע",
+      "heb": "תָּרַע",
       "translit": "tara",
       "ref": "Ps.44.3",
       "has_suffix": false,
@@ -317,29 +317,29 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הָרֵֽעַ",
+      "heb": "מֵהָרַע",
       "translit": "hare'a",
       "ref": "1Sam.25.34",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הָרֵעַ",
+      "heb": "וְהָרֵעַ",
       "translit": "hare'a",
       "ref": "1Chr.21.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "jussive": [
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תָּרֵֽעוּ",
+      "heb": "תָּרֵֽעוּ",
       "translit": "tare'u",
       "ref": "1Chr.16.22",
       "has_suffix": false,

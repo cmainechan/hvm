@@ -40,18 +40,18 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "נִכְלָמְתִּי",
+      "heb": "וְנִכְלַמְתִּי",
       "translit": "nikhlamti",
       "ref": "Ezra.9.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "participle_passive": [
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הַנִּכְלָמִים",
+      "heb": "הַנִּכְלָמִים",
       "translit": "hannikhlamim",
       "ref": "2Sam.19.4",
       "has_suffix": false,
@@ -60,7 +60,7 @@
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "הַנִּכְלָמוֹת",
+      "heb": "הַנִּכְלָמוֹת",
       "translit": "hannikhlamot",
       "ref": "Ezek.16.27",
       "has_suffix": false,
@@ -71,18 +71,18 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וְנִכְלַמְתְּ",
+      "heb": "וְנִכְלַמְתְּ",
       "translit": "vnikhlamt",
       "ref": "Ezek.16.54",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "imperative": [
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְהִכָּלְמוּ",
+      "heb": "וְהִכָּלְמוּ",
       "translit": "vhikkalmu",
       "ref": "Ezek.36.32",
       "has_suffix": false,
@@ -93,16 +93,16 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִכָּלְמוּ",
+      "heb": "וְיִכָּלְמוּ",
       "translit": "yikkalmu",
       "ref": "Ezek.43.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תִּכָּלְמִי",
+      "heb": "תִּכָּלְמִי",
       "translit": "tikkalmi",
       "ref": "Isa.54.4",
       "has_suffix": false,
@@ -113,7 +113,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וְיִכָּלְמוּ",
+      "heb": "וְיִכָּלְמוּ",
       "translit": "vyikkalmu",
       "ref": "Isa.41.11",
       "has_suffix": false,
@@ -122,7 +122,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִכָּלְמוּ",
+      "heb": "תִכָּלְמוּ",
       "translit": "tikkalmu",
       "ref": "Isa.45.17",
       "has_suffix": false,
@@ -131,7 +131,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִכָּלֵם",
+      "heb": "תִכָּלֵם",
       "translit": "tikkalem",
       "ref": "Num.12.14",
       "has_suffix": false,
@@ -142,7 +142,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הִכָּלֵֽם",
+      "heb": "הִכָּלֵֽם",
       "translit": "hikkalem",
       "ref": "Jer.3.3",
       "has_suffix": false,
@@ -200,7 +200,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַּכְלִימוּנִי",
+      "heb": "תַּכְלִימוּנִי",
       "translit": "takhlimuni",
       "ref": "Job.19.3",
       "has_suffix": true,
@@ -220,11 +220,11 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתַּכְלִימֵנוּ",
+      "heb": "וַתַּכְלִימֵנוּ",
       "translit": "vattakhlimenu",
       "ref": "Ps.44.10",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": false
      }
     ]
    }

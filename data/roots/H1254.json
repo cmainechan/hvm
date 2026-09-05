@@ -11,7 +11,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "בָּרָא",
+      "heb": "בָּרָא",
       "translit": "bara",
       "ref": "Deut.4.32",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "בָּרָאתִי",
+      "heb": "בָּרָאתִי",
       "translit": "bara'ti",
       "ref": "Gen.6.7",
       "has_suffix": false,
@@ -29,10 +29,10 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "בָּרָאתָ",
+      "heb": "בְרָאתָם",
       "translit": "bara'ta",
       "ref": "Ps.89.13",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -40,7 +40,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּבְרָא",
+      "heb": "וַיִּבְרָא",
       "translit": "vayyivra",
       "ref": "Gen.1.21",
       "has_suffix": false,
@@ -51,11 +51,11 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "בּוֹרֵא",
+      "heb": "וּבֹרֵא",
       "translit": "bore",
       "ref": "Amos.4.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "yiqtol": [
@@ -84,7 +84,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "בְּרָא",
+      "heb": "בְּרָא",
       "translit": "bra",
       "ref": "Ps.51.12",
       "has_suffix": false,
@@ -95,7 +95,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בְּרֹא",
+      "heb": "בְּרֹא",
       "translit": "bro",
       "ref": "Gen.5.1",
       "has_suffix": false,
@@ -142,10 +142,10 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִבָּרֵאוּן",
+      "heb": "יִבָּרֵאוּן",
       "translit": "yibbare'un",
       "ref": "Ps.104.30",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      }
     ],
@@ -153,7 +153,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הִבָּרַאֲךָ",
+      "heb": "הִבָּרַאֲךָ",
       "translit": "hibbara'akha",
       "ref": "Ezek.28.13",
       "has_suffix": true,
@@ -180,7 +180,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בָּרֵא",
+      "heb": "בָּרֵא",
       "translit": "bare",
       "ref": "Ezek.21.24",
       "has_suffix": false,

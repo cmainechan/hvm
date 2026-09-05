@@ -11,7 +11,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "כָּבְדָה",
+      "heb": "כָּבְדָה",
       "translit": "kavdah",
       "ref": "1Sam.5.11",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "כָּבְדוּ",
+      "heb": "כָּבְדוּ",
       "translit": "kavdu",
       "ref": "Gen.48.10",
       "has_suffix": false,
@@ -31,7 +31,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּכְבַּד",
+      "heb": "וַתִּכְבַּד",
       "translit": "vattikhbad",
       "ref": "1Chr.10.3",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּכְבַּד",
+      "heb": "וַיִּכְבַּד",
       "translit": "vayyikhbad",
       "ref": "Exod.9.7",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וַֽתִּכְבְּדִי",
+      "heb": "וַֽתִּכְבְּדִי",
       "translit": "vattikhbdi",
       "ref": "Ezek.27.25",
       "has_suffix": false,
@@ -60,7 +60,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נִכְבַּד",
+      "heb": "נִכְבַּד",
       "translit": "nikhbad",
       "ref": "2Sam.13.25",
       "has_suffix": false,
@@ -69,7 +69,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּכְבַּד",
+      "heb": "תִּכְבַּד",
       "translit": "tikhbad",
       "ref": "Exod.5.9",
       "has_suffix": false,
@@ -78,7 +78,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִכְבַּד",
+      "heb": "יִכְבַּד",
       "translit": "yikhbad",
       "ref": "Isa.66.5",
       "has_suffix": false,
@@ -87,7 +87,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִכְבְּדוּ",
+      "heb": "יִכְבְּדוּ",
       "translit": "yikhbdu",
       "ref": "Job.14.21",
       "has_suffix": false,
@@ -114,7 +114,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "נִּכְבַּד",
+      "heb": "נִּכְבַּד",
       "translit": "nikhbad",
       "ref": "2Sam.6.20",
       "has_suffix": false,
@@ -123,7 +123,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "נִכְבָּדְתָּ",
+      "heb": "נִכְבָּדְתָּ",
       "translit": "nikhbadta",
       "ref": "Isa.26.15",
       "has_suffix": false,
@@ -134,7 +134,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "נִכְבָּד",
+      "heb": "נִכְבָּד",
       "translit": "nikhbad",
       "ref": "1Chr.4.9",
       "has_suffix": false,
@@ -143,7 +143,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "וְנִכְבָּדִים",
+      "heb": "וְנִכְבָּדִים",
       "translit": "vnikhbadim",
       "ref": "Num.22.15",
       "has_suffix": false,
@@ -152,7 +152,7 @@
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "נִכְבָּדוֹת",
+      "heb": "נִכְבָּדוֹת",
       "translit": "nikhbadot",
       "ref": "Ps.87.3",
       "has_suffix": false,
@@ -163,7 +163,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "בַּנִּכְבָּֽד",
+      "heb": "בַּנִּכְבָּֽד",
       "translit": "bannikhbad",
       "ref": "Isa.3.5",
       "has_suffix": false,
@@ -174,18 +174,18 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶכָּבֵד",
+      "heb": "וְאֶכָּבֵד",
       "translit": "ekkaved",
       "ref": "Isa.49.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "veqatal": [
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְנִכְבַּדְתִּי",
+      "heb": "וְנִכְבַּדְתִּי",
       "translit": "vnikhbadti",
       "ref": "Ezek.28.22",
       "has_suffix": false,
@@ -196,7 +196,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הִכָּבֵד",
+      "heb": "הִכָּבֵד",
       "translit": "hikkaved",
       "ref": "2Kgs.14.10",
       "has_suffix": false,
@@ -207,18 +207,18 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הִכָּבְדִי",
+      "heb": "בְּהִכָּבְדִי",
       "translit": "hikkavdi",
       "ref": "Exod.14.18",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "cohortative": [
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אִכָּבֵֽדָה",
+      "heb": "אִכָּבֵֽדָה",
       "translit": "ikkavedah",
       "ref": "2Sam.6.22",
       "has_suffix": false,
@@ -234,7 +234,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "כִּבְּדוּ",
+      "heb": "כִּבְּדוּ",
       "translit": "kibbdu",
       "ref": "1Sam.6.6",
       "has_suffix": false,
@@ -243,7 +243,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "כִבַּדְתָּנִי",
+      "heb": "כִבַּדְתָּנִי",
       "translit": "khibbadtani",
       "ref": "Isa.43.23",
       "has_suffix": true,
@@ -252,7 +252,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וְכִבַּדְנֽוּךָ",
+      "heb": "וְכִבַּדְנֽוּךָ",
       "translit": "vkhibbadnukha",
       "ref": "Judg.13.17",
       "has_suffix": true,
@@ -263,7 +263,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתְּכַבֵּד",
+      "heb": "וַתְּכַבֵּד",
       "translit": "vattkhabbed",
       "ref": "1Sam.2.29",
       "has_suffix": false,
@@ -274,7 +274,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "הַֽמְכַבֵּד",
+      "heb": "הַֽמְכַבֵּד",
       "translit": "hamkhabbed",
       "ref": "1Chr.19.3",
       "has_suffix": false,
@@ -285,7 +285,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֲכַבֵּד",
+      "heb": "אֲכַבֵּד",
       "translit": "akhabbed",
       "ref": "1Sam.2.30",
       "has_suffix": false,
@@ -294,7 +294,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תְכַבְּדוּ",
+      "heb": "תְכַבְּדוּ",
       "translit": "tkhabbdu",
       "ref": "1Sam.6.6",
       "has_suffix": false,
@@ -303,7 +303,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְכַבֵּד",
+      "heb": "יְכַבֵּד",
       "translit": "ykhabbed",
       "ref": "Dan.11.38",
       "has_suffix": false,
@@ -312,16 +312,16 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יְכַבְּדוּ",
+      "heb": "יְכַבְּדוּךָ",
       "translit": "ykhabbdu",
       "ref": "Isa.25.3",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְּכַבְּדֵנִי",
+      "heb": "תְּכַבְּדֵנִי",
       "translit": "tkhabbdeni",
       "ref": "Isa.43.20",
       "has_suffix": true,
@@ -330,7 +330,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וּֽתְכַבְּדֵֽנִי",
+      "heb": "וּֽתְכַבְּדֵֽנִי",
       "translit": "vtkhabbdeni",
       "ref": "Ps.50.15",
       "has_suffix": true,
@@ -341,7 +341,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְכִבַּדְתּוֹ",
+      "heb": "וְכִבַּדְתּוֹ",
       "translit": "vkhibbadto",
       "ref": "Isa.58.13",
       "has_suffix": true,
@@ -352,16 +352,16 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "כַּבֵּד",
+      "heb": "כַּבְּדֵנִי",
       "translit": "kabbed",
       "ref": "1Sam.15.30",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "כַּבְּדוּ",
+      "heb": "כַּבְּדוּ",
       "translit": "kabbdu",
       "ref": "Isa.24.15",
       "has_suffix": false,
@@ -372,7 +372,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "כַּבְּדֶֽךָ",
+      "heb": "כַּבְּדֶֽךָ",
       "translit": "kabbdekha",
       "ref": "Num.22.37",
       "has_suffix": true,
@@ -383,7 +383,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "כַּבֵּד",
+      "heb": "כַּבֵּד",
       "translit": "kabbed",
       "ref": "Deut.5.16",
       "has_suffix": false,
@@ -399,7 +399,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מְכֻבָּד",
+      "heb": "מְכֻבָּד",
       "translit": "mkhubbad",
       "ref": "Isa.58.13",
       "has_suffix": false,
@@ -410,7 +410,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְכֻבָּֽד",
+      "heb": "יְכֻבָּֽד",
       "translit": "ykhubbad",
       "ref": "Prov.13.18",
       "has_suffix": false,
@@ -426,7 +426,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הִכְבִּיד",
+      "heb": "הִכְבִּיד",
       "translit": "hikhbid",
       "ref": "1Kgs.12.10",
       "has_suffix": false,
@@ -435,7 +435,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הִכְבַּדְתִּי",
+      "heb": "הִכְבַּדְתִּי",
       "translit": "hikhbadti",
       "ref": "Exod.10.1",
       "has_suffix": false,
@@ -444,7 +444,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "הִכְבַּדְתְּ",
+      "heb": "הִכְבַּדְתְּ",
       "translit": "hikhbadt",
       "ref": "Isa.47.6",
       "has_suffix": false,
@@ -453,7 +453,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "הִכְבִּידוּ",
+      "heb": "הִכְבִּידוּ",
       "translit": "hikhbidu",
       "ref": "Neh.5.15",
       "has_suffix": false,
@@ -464,7 +464,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּכְבֵּד",
+      "heb": "וַיַּכְבֵּד",
       "translit": "vayyakhbed",
       "ref": "Exod.8.28",
       "has_suffix": false,
@@ -475,7 +475,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "וּמַכְבִּיד",
+      "heb": "וּמַכְבִּיד",
       "translit": "umakhbid",
       "ref": "Hab.2.6",
       "has_suffix": false,
@@ -486,7 +486,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אַכְבִּיד",
+      "heb": "אַכְבִּיד",
       "translit": "akhbid",
       "ref": "2Chr.10.14",
       "has_suffix": false,
@@ -497,7 +497,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהִכְבַּדְתִּים",
+      "heb": "וְהִכְבַּדְתִּים",
       "translit": "vhikhbadtim",
       "ref": "Jer.30.19",
       "has_suffix": true,
@@ -508,7 +508,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הַכְבֵּד",
+      "heb": "הַכְבֵּד",
       "translit": "hakhbed",
       "ref": "Isa.6.10",
       "has_suffix": false,
@@ -519,7 +519,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְהַכְבִּיד",
+      "heb": "לְהַכְבִּיד",
       "translit": "lhakhbid",
       "ref": "2Chr.25.19",
       "has_suffix": false,
@@ -530,7 +530,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "וְהַכְבֵּד",
+      "heb": "וְהַכְבֵּד",
       "translit": "vhakhbed",
       "ref": "Exod.8.11",
       "has_suffix": false,
@@ -546,7 +546,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מִמְּתַכַּבֵּד",
+      "heb": "מִמְּתַכַּבֵּד",
       "translit": "mimmtakkabbed",
       "ref": "Prov.12.9",
       "has_suffix": false,
@@ -557,7 +557,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הִתְכַּבֵּד",
+      "heb": "הִתְכַּבֵּד",
       "translit": "hitkabbed",
       "ref": "Nah.3.15",
       "has_suffix": false,
@@ -566,7 +566,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "הִֽתְכַּבְּדִי",
+      "heb": "הִֽתְכַּבְּדִי",
       "translit": "hitkabbdi",
       "ref": "Nah.3.15",
       "has_suffix": false,

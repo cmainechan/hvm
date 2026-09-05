@@ -11,7 +11,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "בְּגַדְתֶּם",
+      "heb": "בְּגַדְתֶּם",
       "translit": "bgadtem",
       "ref": "1Sam.14.33",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "בָּגְדוּ",
+      "heb": "בָּגָדוּ",
       "translit": "bagdu",
       "ref": "Hos.5.7",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "בָּגְדָה",
+      "heb": "בָּגְדָה",
       "translit": "bagdah",
       "ref": "Jer.3.20",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "בָּגַדְתָּה",
+      "heb": "בָּגַדְתָּה",
       "translit": "bagadtah",
       "ref": "Mal.2.14",
       "has_suffix": false,
@@ -47,7 +47,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "בָגָֽדְתִּי",
+      "heb": "בָגָֽדְתִּי",
       "translit": "vagadti",
       "ref": "Ps.73.15",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּבְגְּדוּ",
+      "heb": "וַיִּבְגְּדוּ",
       "translit": "vayyivgdu",
       "ref": "Judg.9.23",
       "has_suffix": false,
@@ -69,7 +69,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "בֹּגְדִים",
+      "heb": "בּֽוֹגְדִים",
       "translit": "bogdim",
       "ref": "Hab.1.13",
       "has_suffix": false,
@@ -87,7 +87,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "בֹּֽגֵדָה",
+      "heb": "בֹּֽגֵדָה",
       "translit": "bogedah",
       "ref": "Jer.3.8",
       "has_suffix": false,
@@ -98,7 +98,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִבְגְּדוּ",
+      "heb": "יִבְגְּדוּ",
       "translit": "yivgdu",
       "ref": "Isa.33.1",
       "has_suffix": false,
@@ -107,7 +107,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּבְגּוֹד",
+      "heb": "תִּבְגּוֹד",
       "translit": "tivgod",
       "ref": "Isa.48.8",
       "has_suffix": false,
@@ -116,7 +116,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נִבְגַּד",
+      "heb": "נִבְגַּד",
       "translit": "nivgad",
       "ref": "Mal.2.10",
       "has_suffix": false,
@@ -125,7 +125,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִבְגֹּֽדוּ",
+      "heb": "תִבְגֹּֽדוּ",
       "translit": "tivgodu",
       "ref": "Mal.2.16",
       "has_suffix": false,
@@ -136,10 +136,10 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לִבְגֹּד",
+      "heb": "בְּבִגְדוֹ",
       "translit": "livgod",
       "ref": "Exod.21.8",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": true
      }
     ],
@@ -147,7 +147,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בָּגוֹד",
+      "heb": "בָּגוֹד",
       "translit": "bagod",
       "ref": "Isa.48.8",
       "has_suffix": false,
@@ -158,7 +158,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִבְגֹּֽד",
+      "heb": "יִבְגֹּֽד",
       "translit": "yivgod",
       "ref": "Mal.2.15",
       "has_suffix": false,

@@ -20,16 +20,16 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "דָרַשְׁנוּ",
+      "heb": "דְרַשְׁנֻהוּ",
       "translit": "darashnu",
       "ref": "1Chr.13.3",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "דָרַשְׁתָּ",
+      "heb": "דָרַשְׁתָּ",
       "translit": "darashta",
       "ref": "2Chr.24.6",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "דָרָֽשׁוּ",
+      "heb": "דָֽרְשׁוּ",
       "translit": "darashu",
       "ref": "2Chr.25.20",
       "has_suffix": false,
@@ -47,7 +47,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "דָּרְשָׁה",
+      "heb": "דָּרְשָׁה",
       "translit": "darshah",
       "ref": "Prov.31.13",
       "has_suffix": false,
@@ -56,7 +56,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "דָרָֽשְׁתִּי",
+      "heb": "דָּרַשְׁתִּי",
       "translit": "darashti",
       "ref": "Ps.34.5",
       "has_suffix": false,
@@ -67,16 +67,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּדְרֹשׁ",
+      "heb": "וַיִּדְרְשֵׁהוּ",
       "translit": "vayyidrosh",
       "ref": "2Chr.1.5",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיִּדְרְשׁוּ",
+      "heb": "וַֽיִּדְרְשׁוּ",
       "translit": "vayyidrshu",
       "ref": "Judg.6.29",
       "has_suffix": false,
@@ -87,7 +87,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "דֹּרֵשׁ",
+      "heb": "דּוֹרֵשׁ",
       "translit": "doresh",
       "ref": "1Chr.28.9",
       "has_suffix": false,
@@ -98,7 +98,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "דְרוּשָׁה",
+      "heb": "דְרוּשָׁה",
       "translit": "drushah",
       "ref": "Isa.62.12",
       "has_suffix": false,
@@ -107,7 +107,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "דְּרוּשִׁים",
+      "heb": "דְּרוּשִׁים",
       "translit": "drushim",
       "ref": "Ps.111.2",
       "has_suffix": false,
@@ -118,37 +118,37 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּדְרֹשׁ",
+      "heb": "תִּדְרְשֶׁנּוּ",
       "translit": "tidrosh",
       "ref": "1Chr.28.9",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נִדְרוֹשׁ",
+      "heb": "וְנִדְרְשָׁה",
       "translit": "nidrosh",
       "ref": "1Kgs.22.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶדְרֹשׁ",
+      "heb": "וְאֶדְרְשָׁה",
       "translit": "edrosh",
       "ref": "1Sam.28.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִדְרְשׁוּ",
+      "heb": "תִּדְרְשֻׁהוּ",
       "translit": "tidrshu",
       "ref": "2Chr.15.2",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -172,7 +172,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּדְרְשֶֽׁנּוּ",
+      "heb": "תִּדְרְשֶֽׁנּוּ",
       "translit": "tidrshennu",
       "ref": "Lam.3.25",
       "has_suffix": true,
@@ -183,7 +183,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְדָרַשְׁתָּ",
+      "heb": "וְדָרַשְׁתָּ",
       "translit": "vdarashta",
       "ref": "2Kgs.8.8",
       "has_suffix": false,
@@ -201,7 +201,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְֽדָרַשְׁתִּי",
+      "heb": "וְֽדָרַשְׁתִּי",
       "translit": "vdarashti",
       "ref": "Ezek.34.10",
       "has_suffix": false,
@@ -212,7 +212,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "דִּרְשׁוּ",
+      "heb": "דִּרְשׁוּ",
       "translit": "dirshu",
       "ref": "1Chr.16.11",
       "has_suffix": false,
@@ -221,7 +221,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "דְּרָשׁ",
+      "heb": "דְּרָשׁ",
       "translit": "drash",
       "ref": "1Kgs.22.5",
       "has_suffix": false,
@@ -232,18 +232,18 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "דְּרֹשׁ",
+      "heb": "לִדְרֽוֹשׁ",
       "translit": "drosh",
       "ref": "1Chr.10.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "דָּרֹשׁ",
+      "heb": "דָּרֹשׁ",
       "translit": "darosh",
       "ref": "Deut.23.22",
       "has_suffix": false,
@@ -254,7 +254,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וְנִדְרְשָׁה",
+      "heb": "וְנִדְרְשָׁה",
       "translit": "vnidrshah",
       "ref": "2Chr.18.6",
       "has_suffix": false,
@@ -265,7 +265,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּדְרְשׁוּ",
+      "heb": "תִּדְרְשׁוּ",
       "translit": "tidrshu",
       "ref": "Amos.5.5",
       "has_suffix": false,
@@ -274,7 +274,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִדְרְשֵׁהוּ",
+      "heb": "יִדְרְשֵׁהוּ",
       "translit": "yidrshehu",
       "ref": "Job.3.4",
       "has_suffix": true,
@@ -299,7 +299,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "נִדְרַשְׁתִּי",
+      "heb": "נִדְרַשְׁתִּי",
       "translit": "nidrashti",
       "ref": "Isa.65.1",
       "has_suffix": false,
@@ -321,7 +321,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אִדָּרֵשׁ",
+      "heb": "אִדָּרֵשׁ",
       "translit": "iddaresh",
       "ref": "Ezek.14.3",
       "has_suffix": false,
@@ -332,7 +332,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הַאִדָּרֹשׁ",
+      "heb": "הַאִדָּרֹשׁ",
       "translit": "ha'iddarosh",
       "ref": "Ezek.14.3",
       "has_suffix": false,

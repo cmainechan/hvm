@@ -11,7 +11,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "נִצְּבוּ",
+      "heb": "נִצְּבוּ",
       "translit": "nitztzvu",
       "ref": "Exod.15.8",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְנִצַּבְתָּ",
+      "heb": "וְנִצַּבְתָּ",
       "translit": "vnitztzavta",
       "ref": "Exod.34.2",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "נִצָּבָה",
+      "heb": "נִצָּבָה",
       "translit": "nitztzavah",
       "ref": "Gen.37.7",
       "has_suffix": false,
@@ -40,16 +40,16 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "נִצָּבִים",
+      "heb": "הַנִּצָּבִים",
       "translit": "nitztzavim",
       "ref": "1Kgs.4.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "נִצָּב",
+      "heb": "נִצָּב",
       "translit": "nitztzav",
       "ref": "1Kgs.22.48",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "הַנִּצֶּבֶת",
+      "heb": "הַנִּצֶּבֶת",
       "translit": "hannitztzevet",
       "ref": "1Sam.1.26",
       "has_suffix": false,
@@ -67,7 +67,7 @@
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "הַנִּצָּבוֹת",
+      "heb": "הַנִּצָּבוֹת",
       "translit": "hannitztzavot",
       "ref": "1Sam.4.20",
       "has_suffix": false,
@@ -78,7 +78,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְנִצַּבְתָּ",
+      "heb": "וְנִצַּבְתָּ",
       "translit": "vnitztzavta",
       "ref": "Exod.7.15",
       "has_suffix": false,
@@ -87,7 +87,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְנִצְּבוּ",
+      "heb": "וְנִצְּבוּ",
       "translit": "vnitztzvu",
       "ref": "Exod.33.8",
       "has_suffix": false,
@@ -103,7 +103,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הִצִּיב",
+      "heb": "הִצִּיב",
       "translit": "hitztziv",
       "ref": "1Kgs.16.34",
       "has_suffix": false,
@@ -112,7 +112,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הִצַּבְתָּ",
+      "heb": "הִצַּבְתָּ",
       "translit": "hitztzavta",
       "ref": "Gen.21.29",
       "has_suffix": false,
@@ -121,7 +121,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "הִצִּיבוּ",
+      "heb": "הִצִּיבוּ",
       "translit": "hitztzivu",
       "ref": "Jer.5.26",
       "has_suffix": false,
@@ -132,7 +132,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּצִּבוּ",
+      "heb": "וַיַּצִּבוּ",
       "translit": "vayyatztzivu",
       "ref": "2Kgs.17.10",
       "has_suffix": false,
@@ -141,7 +141,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּצֵּב",
+      "heb": "וַיַּצֶּב",
       "translit": "vayyatztzev",
       "ref": "2Sam.18.18",
       "has_suffix": false,
@@ -150,7 +150,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתַּצִּיבֵנִי",
+      "heb": "וַתַּצִּיבֵנִי",
       "translit": "vattatztziveni",
       "ref": "Ps.41.13",
       "has_suffix": true,
@@ -161,7 +161,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מַצִּיב",
+      "heb": "מַצִּיב",
       "translit": "matztziv",
       "ref": "1Sam.15.12",
       "has_suffix": false,
@@ -172,7 +172,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַצֵּב",
+      "heb": "יַצֵּב",
       "translit": "yatztzev",
       "ref": "Deut.32.8",
       "has_suffix": false,
@@ -183,7 +183,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "הַצִּיבִי",
+      "heb": "הַצִּיבִי",
       "translit": "hatztzivi",
       "ref": "Jer.31.21",
       "has_suffix": false,
@@ -194,7 +194,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְהַצִּיב",
+      "heb": "לְהַצִּיב",
       "translit": "lhatztziv",
       "ref": "1Chr.18.3",
       "has_suffix": false,
@@ -210,7 +210,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְהֻצַּב",
+      "heb": "וְהֻצַּב",
       "translit": "vhutztzav",
       "ref": "Nah.2.8",
       "has_suffix": false,
@@ -221,7 +221,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מֻצָּב",
+      "heb": "מֻצָּב",
       "translit": "mutztzav",
       "ref": "Gen.28.12",
       "has_suffix": false,

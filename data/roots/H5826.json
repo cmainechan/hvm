@@ -20,16 +20,16 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "עָזְרוּ",
+      "heb": "עֲזָרֻם",
       "translit": "azru",
       "ref": "1Chr.12.20",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "עֲזַרְתִּיךָ",
+      "heb": "עֲזַרְתִּיךָ",
       "translit": "azartikha",
       "ref": "Isa.41.10",
       "has_suffix": true,
@@ -38,7 +38,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "עָזַרְתָּ",
+      "heb": "עָזַרְתָּ",
       "translit": "azarta",
       "ref": "Job.26.2",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיַּעְזְרוּ",
+      "heb": "וַֽיַּעְזְרוּ",
       "translit": "vayya'zru",
       "ref": "1Kgs.1.7",
       "has_suffix": false,
@@ -58,10 +58,10 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּֽעֲזָר",
+      "heb": "וַיַּעְזְרֵהוּ",
       "translit": "vayya'azar",
       "ref": "2Chr.26.7",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -91,27 +91,27 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יַעְזֹרוּ",
+      "heb": "וְיַעְזְרֻכֶם",
       "translit": "ya'zoru",
       "ref": "Deut.32.38",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַֽעֲזָר",
+      "heb": "וְיַעְזְרֶךָּ",
       "translit": "ya'azar",
       "ref": "Gen.49.25",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      }
     ],
     "veqatal": [
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַעֲזַרְתֶּם",
+      "heb": "וַעֲזַרְתֶּם",
       "translit": "va'azartem",
       "ref": "Josh.1.14",
       "has_suffix": false,
@@ -142,10 +142,10 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לַעְזֹר",
+      "heb": "לְעָזְרֵנִי",
       "translit": "la'zor",
       "ref": "1Chr.12.18",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": true
      }
     ]
@@ -158,7 +158,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְֽנֶעֱזָרְתִּי",
+      "heb": "וְֽנֶעֱזָרְתִּי",
       "translit": "vne'ezarti",
       "ref": "Ps.28.7",
       "has_suffix": false,
@@ -169,7 +169,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיֵּעָזְרוּ",
+      "heb": "וַיֵּעָזְרוּ",
       "translit": "vayye'azru",
       "ref": "1Chr.5.20",
       "has_suffix": false,

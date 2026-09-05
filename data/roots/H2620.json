@@ -11,7 +11,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶֽחֱסֶה",
+      "heb": "אֶחֱסֶה",
       "translit": "echeseh",
       "ref": "2Sam.22.3",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תֶּחְסֶה",
+      "heb": "תֶּחְסֶה",
       "translit": "techseh",
       "ref": "Ps.91.4",
       "has_suffix": false,
@@ -49,11 +49,11 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "חוֹסִים",
+      "heb": "הַחֹסִים",
       "translit": "chosim",
       "ref": "2Sam.22.31",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "ms",
@@ -107,7 +107,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לַחֲסוֹת",
+      "heb": "וְלַחְסוֹת",
       "translit": "lachasot",
       "ref": "Isa.30.2",
       "has_suffix": false,
@@ -133,7 +133,7 @@
       "translit": "vchasu",
       "ref": "Zeph.3.12",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ]
    }

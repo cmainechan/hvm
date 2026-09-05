@@ -11,7 +11,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "שָׁאַר",
+      "heb": "שָׁאַר",
       "translit": "sha'ar",
       "ref": "1Sam.16.11",
       "has_suffix": false,
@@ -27,7 +27,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "נִשְׁאַר",
+      "heb": "נִשְׁאַר",
       "translit": "nish'ar",
       "ref": "1Kgs.22.47",
       "has_suffix": false,
@@ -36,7 +36,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "נִשְׁאֲרוּ",
+      "heb": "נִשְׁאֲרוּ",
       "translit": "nish'aru",
       "ref": "1Sam.11.11",
       "has_suffix": false,
@@ -45,7 +45,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "נִשְׁאֲרָה",
+      "heb": "נִשְׁאָרָה",
       "translit": "nish'arah",
       "ref": "2Sam.14.7",
       "has_suffix": false,
@@ -54,7 +54,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "נִשְׁאַרְתִּי",
+      "heb": "נִשְׁאַרְתִּי",
       "translit": "nish'arti",
       "ref": "Dan.10.8",
       "has_suffix": false,
@@ -63,7 +63,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נִשְׁאַרְנוּ",
+      "heb": "נִשְׁאַרְנוּ",
       "translit": "nish'arnu",
       "ref": "Ezra.9.15",
       "has_suffix": false,
@@ -74,7 +74,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִשָּׁאֶר",
+      "heb": "וַיִשָּׁאֶר",
       "translit": "vayishsha'er",
       "ref": "Gen.7.23",
       "has_suffix": false,
@@ -83,7 +83,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּשָּׁאֲרוּ",
+      "heb": "וַיִּשָּׁאֲרוּ",
       "translit": "vayyishsha'aru",
       "ref": "Num.11.26",
       "has_suffix": false,
@@ -92,7 +92,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּשָּׁאֵר",
+      "heb": "וַתִּשָּׁאֵר",
       "translit": "vattishsha'er",
       "ref": "Ruth.1.3",
       "has_suffix": false,
@@ -103,7 +103,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הַנִּשְׁאָרִים",
+      "heb": "הַנִּשְׁאָרִים",
       "translit": "hannish'arim",
       "ref": "1Chr.13.2",
       "has_suffix": false,
@@ -112,16 +112,16 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "נִשְׁאָר",
+      "heb": "הַנִּשְׁאָר",
       "translit": "nish'ar",
       "ref": "1Sam.9.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "הַנִּשְׁאֶרֶת",
+      "heb": "הַנִּשְׁאֶרֶת",
       "translit": "hannish'eret",
       "ref": "2Chr.30.6",
       "has_suffix": false,
@@ -132,7 +132,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "וְנֵֽאשֲׁאַר",
+      "heb": "וְנֵֽאשֲׁאַר",
       "translit": "vne'sha'ar",
       "ref": "Ezek.9.8",
       "has_suffix": false,
@@ -141,7 +141,7 @@
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "וְהַנִּשְׁאָרוֹת",
+      "heb": "וְהַנִּשְׁאָרוֹת",
       "translit": "vhannish'arot",
       "ref": "Zech.11.9",
       "has_suffix": false,
@@ -152,7 +152,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תִּשָּׁאַֽרְנָה",
+      "heb": "תִּשָּׁאַֽרְנָה",
       "translit": "tishsha'arnah",
       "ref": "Exod.8.5",
       "has_suffix": false,
@@ -161,7 +161,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִשָּׁאֵר",
+      "heb": "תִשָּׁאֵר",
       "translit": "tishsha'er",
       "ref": "Exod.10.26",
       "has_suffix": false,
@@ -170,7 +170,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִֽשָּׁאֲרוּ",
+      "heb": "יִֽשָּׁאֲרוּ",
       "translit": "yishsha'aru",
       "ref": "Ezek.36.36",
       "has_suffix": false,
@@ -179,7 +179,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִשָּׁאֵר",
+      "heb": "יִשָּׁאֵר",
       "translit": "yishsha'er",
       "ref": "Isa.11.11",
       "has_suffix": false,
@@ -190,7 +190,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְנִשְׁאַרְתֶּם",
+      "heb": "וְנִשְׁאַרְתֶּם",
       "translit": "vnish'artem",
       "ref": "Deut.4.27",
       "has_suffix": false,
@@ -199,7 +199,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְנִשְׁאַר",
+      "heb": "וְנִשְׁאַר",
       "translit": "vnish'ar",
       "ref": "Isa.17.6",
       "has_suffix": false,
@@ -215,7 +215,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הִשְׁאִיר",
+      "heb": "הִשְׁאִיר",
       "translit": "hish'ir",
       "ref": "1Kgs.15.29",
       "has_suffix": false,
@@ -224,7 +224,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהִשְׁאַרְתִּי",
+      "heb": "וְהִשְׁאַרְתִּי",
       "translit": "vhish'arti",
       "ref": "1Kgs.19.18",
       "has_suffix": false,
@@ -233,7 +233,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "הִשְׁאַרְנוּ",
+      "heb": "הִשְׁאַרְנוּ",
       "translit": "hish'arnu",
       "ref": "Deut.2.34",
       "has_suffix": false,
@@ -242,7 +242,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "הִשְׁאִירוּ",
+      "heb": "הִשְׁאִירוּ",
       "translit": "hish'iru",
       "ref": "Josh.11.14",
       "has_suffix": false,
@@ -253,7 +253,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אַשְׁאִיר",
+      "heb": "אַשְׁאִיר",
       "translit": "ash'ir",
       "ref": "1Sam.25.22",
       "has_suffix": false,
@@ -262,7 +262,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תַּשְׁאִיר",
+      "heb": "תַּשְׁאִיר",
       "translit": "tash'ir",
       "ref": "Amos.5.3",
       "has_suffix": false,
@@ -271,7 +271,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַשְׁאִיר",
+      "heb": "יַשְׁאִיר",
       "translit": "yash'ir",
       "ref": "Deut.28.51",
       "has_suffix": false,
@@ -280,7 +280,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יַשְׁאִירוּ",
+      "heb": "יַשְׁאִרוּ",
       "translit": "yash'iru",
       "ref": "Jer.49.9",
       "has_suffix": false,
@@ -291,7 +291,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְהִשְׁאִיר",
+      "heb": "וְהִשְׁאִיר",
       "translit": "vhish'ir",
       "ref": "Joel.2.14",
       "has_suffix": false,
@@ -300,7 +300,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהִשְׁאַרְתִּי",
+      "heb": "וְהִשְׁאַרְתִּי",
       "translit": "vhish'arti",
       "ref": "Zeph.3.12",
       "has_suffix": false,
@@ -311,7 +311,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְהַשְׁאִיר",
+      "heb": "לְהַשְׁאִיר",
       "translit": "lhash'ir",
       "ref": "Ezra.9.8",
       "has_suffix": false,
@@ -322,7 +322,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נַשְׁאֵר",
+      "heb": "נַשְׁאֵר",
       "translit": "nash'er",
       "ref": "1Sam.14.36",
       "has_suffix": false,

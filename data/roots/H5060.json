@@ -38,7 +38,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "נָגָעוּ",
+      "heb": "נָגָֽעוּ",
       "translit": "naga'u",
       "ref": "Hos.4.2",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּגַּע",
+      "heb": "וַתִּגַּע",
       "translit": "vattigga",
       "ref": "1Kgs.6.27",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּגַּע",
+      "heb": "וַיִּגַּע",
       "translit": "vayyigga",
       "ref": "1Kgs.19.7",
       "has_suffix": false,
@@ -96,7 +96,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הַנֹּֽגְעִים",
+      "heb": "הַנֹּֽגְעִים",
       "translit": "hannog'im",
       "ref": "Jer.12.14",
       "has_suffix": false,
@@ -118,16 +118,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִגַּע",
+      "heb": "וְיִגַּע",
       "translit": "yigga",
       "ref": "2Sam.5.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִגָּֽעוּ",
+      "heb": "תִגָּֽעוּ",
       "translit": "tigga'u",
       "ref": "Deut.14.8",
       "has_suffix": false,
@@ -136,7 +136,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּגַּע",
+      "heb": "תִגַּע",
       "translit": "tigga",
       "ref": "Exod.19.13",
       "has_suffix": false,
@@ -145,7 +145,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִגְּעוּ",
+      "heb": "יִגְּעוּ",
       "translit": "yigg'u",
       "ref": "Lam.4.14",
       "has_suffix": false,
@@ -167,18 +167,18 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "גַּע",
+      "heb": "וְגַע",
       "translit": "ga",
       "ref": "Job.1.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_construct": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לִנְגֹּעַ",
+      "heb": "לָגַעַת",
       "translit": "lingo'a",
       "ref": "2Sam.14.10",
       "has_suffix": false,
@@ -189,7 +189,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּגְּעוּ",
+      "heb": "תִּגְּעוּ",
       "translit": "tigg'u",
       "ref": "1Chr.16.22",
       "has_suffix": false,
@@ -205,7 +205,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּנָּֽגְעוּ",
+      "heb": "וַיִּנָּֽגְעוּ",
       "translit": "vayyinnag'u",
       "ref": "Josh.8.15",
       "has_suffix": false,
@@ -221,7 +221,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "נִגְּעוֹ",
+      "heb": "נִגְּעוֹ",
       "translit": "nigg'o",
       "ref": "2Chr.26.20",
       "has_suffix": true,
@@ -232,7 +232,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיְנַגַּע",
+      "heb": "וַיְנַגַּע",
       "translit": "vaynagga",
       "ref": "2Kgs.15.5",
       "has_suffix": false,
@@ -248,7 +248,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יְנֻגָּֽעוּ",
+      "heb": "יְנֻגָּֽעוּ",
       "translit": "ynugga'u",
       "ref": "Ps.73.5",
       "has_suffix": false,
@@ -264,7 +264,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הִגִּיעַ",
+      "heb": "הִגִּֽיעַ",
       "translit": "higgi'a",
       "ref": "2Chr.28.9",
       "has_suffix": false,
@@ -273,7 +273,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "הִגַּעַתְּ",
+      "heb": "הִגַּעַתְּ",
       "translit": "higga'att",
       "ref": "Esth.4.14",
       "has_suffix": false,
@@ -282,7 +282,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "הִגִּיעוּ",
+      "heb": "הִגִּיעוּ",
       "translit": "higgi'u",
       "ref": "Esth.6.14",
       "has_suffix": false,
@@ -293,7 +293,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתַּגַּע",
+      "heb": "וַתַּגַּע",
       "translit": "vattagga",
       "ref": "Exod.4.25",
       "has_suffix": false,
@@ -302,7 +302,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּגַּע",
+      "heb": "וַיַּגַּע",
       "translit": "vayyagga",
       "ref": "Isa.6.7",
       "has_suffix": false,
@@ -311,7 +311,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּגִּיעוּ",
+      "heb": "וַיַּגִּיעוּ",
       "translit": "vayyaggi'u",
       "ref": "Ps.107.18",
       "has_suffix": false,
@@ -322,7 +322,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "מַגַּעַת",
+      "heb": "מַגַּעַת",
       "translit": "magga'at",
       "ref": "2Chr.3.11",
       "has_suffix": false,
@@ -331,7 +331,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מַגִּיעַ",
+      "heb": "מַגִּיעַ",
       "translit": "maggi'a",
       "ref": "2Chr.3.11",
       "has_suffix": false,
@@ -342,16 +342,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַגִּיעַ",
+      "heb": "וְיַגִּיעַ",
       "translit": "yaggi'a",
       "ref": "Dan.12.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יַגִּֽיעוּ",
+      "heb": "יַגִּֽיעוּ",
       "translit": "yaggi'u",
       "ref": "Isa.30.4",
       "has_suffix": false,
@@ -360,7 +360,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תַגִּיע",
+      "heb": "תַגִּיע",
       "translit": "taggi",
       "ref": "Lev.5.7",
       "has_suffix": false,
@@ -371,7 +371,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְהִגִּיעוּ",
+      "heb": "וְהִגִּיעוּ",
       "translit": "vhiggi'u",
       "ref": "Eccl.12.1",
       "has_suffix": false,
@@ -380,7 +380,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְהִגַּעְתֶּם",
+      "heb": "וְהִגַּעְתֶּם",
       "translit": "vhigga'tem",
       "ref": "Exod.12.22",
       "has_suffix": false,
@@ -389,7 +389,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהִגַּעְתִּיהוּ",
+      "heb": "וְהִגַּעְתִּיהוּ",
       "translit": "vhigga'tihu",
       "ref": "Ezek.13.14",
       "has_suffix": true,
@@ -400,11 +400,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "וּבְהַגִּיעַ",
+      "heb": "הַגִּיעֵנוּ",
       "translit": "uvhaggi'a",
       "ref": "1Sam.14.9",
-      "has_suffix": false,
-      "has_prefix": true
+      "has_suffix": true,
+      "has_prefix": false
      }
     ]
    }

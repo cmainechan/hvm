@@ -11,7 +11,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "נָשָׂא",
+      "heb": "נָשָׂא",
       "translit": "nasa",
       "ref": "1Chr.18.11",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "נָשָׂאתָ",
+      "heb": "נָשָׂאתָ",
       "translit": "nasa'ta",
       "ref": "1Kgs.2.26",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "נָשְׂאוּ",
+      "heb": "נָשְׂאוּ",
       "translit": "nas'u",
       "ref": "2Sam.18.28",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "נָשְׂאָה",
+      "heb": "נָשְׂאָה",
       "translit": "nas'ah",
       "ref": "Esth.5.2",
       "has_suffix": false,
@@ -47,7 +47,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "נָשָׂאתִי",
+      "heb": "נָשָׂאתִי",
       "translit": "nasa'ti",
       "ref": "Exod.6.8",
       "has_suffix": false,
@@ -56,7 +56,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "נְשָׂאתִים",
+      "heb": "נְשָׂאתִים",
       "translit": "nsa'tim",
       "ref": "Ezek.16.58",
       "has_suffix": true,
@@ -65,7 +65,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "נְשָׂאתֶֽם",
+      "heb": "נְשָׂאתֶֽם",
       "translit": "nsa'tem",
       "ref": "Ezek.36.6",
       "has_suffix": false,
@@ -76,7 +76,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּשְׂאוּ",
+      "heb": "וַיִּשְׂאוּ",
       "translit": "vayyis'u",
       "ref": "1Chr.10.9",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּשָּׂא",
+      "heb": "וַיִּשָּׂא",
       "translit": "vayyissa",
       "ref": "1Chr.21.16",
       "has_suffix": false,
@@ -94,7 +94,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֶשָּׂא",
+      "heb": "וָאֶשָּׂא",
       "translit": "va'essa",
       "ref": "1Sam.25.35",
       "has_suffix": false,
@@ -103,7 +103,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּשָּׂא",
+      "heb": "וַתִּשָּׂא",
       "translit": "vattissa",
       "ref": "2Kgs.4.37",
       "has_suffix": false,
@@ -112,7 +112,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתִּשָּׂא",
+      "heb": "וַתִּשָּׂא",
       "translit": "vattissa",
       "ref": "2Kgs.19.22",
       "has_suffix": false,
@@ -121,7 +121,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "וַתִּשֶּׂאנָה",
+      "heb": "וַתִּשֶּׂאנָה",
       "translit": "vattisse'nah",
       "ref": "Ruth.1.9",
       "has_suffix": false,
@@ -132,7 +132,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "נֹשֵׂא",
+      "heb": "נֹשֵׂא",
       "translit": "nose",
       "ref": "1Chr.11.39",
       "has_suffix": false,
@@ -141,16 +141,16 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "נֹשְׂאִים",
+      "heb": "הַנֹּשְׂאִים",
       "translit": "nos'im",
       "ref": "1Chr.15.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "נֹֽשְׂאוֹת",
+      "heb": "נֹֽשְׂאוֹת",
       "translit": "nos'ot",
       "ref": "2Chr.9.21",
       "has_suffix": false,
@@ -161,7 +161,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הַנְּשֻׂאִים",
+      "heb": "הַנְּשֻׂאִים",
       "translit": "hannsu'im",
       "ref": "Isa.46.3",
       "has_suffix": false,
@@ -172,7 +172,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶשָּׂא",
+      "heb": "אֶשָּׂא",
       "translit": "essa",
       "ref": "1Chr.21.24",
       "has_suffix": false,
@@ -181,7 +181,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִשָּׂא",
+      "heb": "תִשָּׂא",
       "translit": "tissa",
       "ref": "1Kgs.5.23",
       "has_suffix": false,
@@ -190,25 +190,25 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִשְׂאוּ",
+      "heb": "יִשָּׂאוּם",
       "translit": "yis'u",
       "ref": "1Kgs.14.28",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִשָּׂא",
+      "heb": "יִֽשָּׂאֲךָ",
       "translit": "yissa",
       "ref": "1Kgs.18.12",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תִשְׂאִי",
+      "heb": "תִּשְׂאִי",
       "translit": "tis'i",
       "ref": "Ezek.16.54",
       "has_suffix": false,
@@ -217,7 +217,7 @@
      {
       "code": "2fp",
       "label": "2nd fem. pl.",
-      "heb": "תִּשֶּׂאינָה",
+      "heb": "תִּשֶּׂאינָה",
       "translit": "tisse'ynah",
       "ref": "Ezek.23.49",
       "has_suffix": false,
@@ -226,7 +226,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּשְׂאוּ",
+      "heb": "תִּשְׂאוּ",
       "translit": "tis'u",
       "ref": "Ezek.33.25",
       "has_suffix": false,
@@ -235,16 +235,16 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּשָּֽׂא",
+      "heb": "תִּשָּׂאֵֽם",
       "translit": "tissa",
       "ref": "Isa.40.24",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "וְתִשֶּׂנָה",
+      "heb": "וְתִשֶּׂנָה",
       "translit": "vtissenah",
       "ref": "Jer.9.17",
       "has_suffix": false,
@@ -255,7 +255,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְנָשָׂא",
+      "heb": "וְנָשָׂא",
       "translit": "vnasa",
       "ref": "1Sam.17.34",
       "has_suffix": false,
@@ -264,16 +264,16 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְנָשְׂאוּ",
+      "heb": "וּנְשָׂאוּם",
       "translit": "vnas'u",
       "ref": "2Chr.12.11",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְנָשָׂאתָ",
+      "heb": "וְנָשָׂאתָ",
       "translit": "vnasa'ta",
       "ref": "2Kgs.19.4",
       "has_suffix": false,
@@ -282,7 +282,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וּנְשָׂאתֶם",
+      "heb": "וּנְשָׂאתֶם",
       "translit": "unsa'tem",
       "ref": "Amos.5.26",
       "has_suffix": false,
@@ -291,7 +291,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְנָשָׂאתִי",
+      "heb": "וְנָשָׂאתִי",
       "translit": "vnasa'ti",
       "ref": "Gen.18.26",
       "has_suffix": false,
@@ -302,7 +302,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "שְׂאוּ",
+      "heb": "שְׂאוּ",
       "translit": "s'u",
       "ref": "1Chr.16.29",
       "has_suffix": false,
@@ -311,7 +311,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "שָׂא",
+      "heb": "שָׂא",
       "translit": "sa",
       "ref": "1Sam.15.25",
       "has_suffix": false,
@@ -320,7 +320,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "שְׂאִי",
+      "heb": "שְׂאִי",
       "translit": "s'i",
       "ref": "2Kgs.4.36",
       "has_suffix": false,
@@ -331,18 +331,18 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "שְׂאֵת",
+      "heb": "לָשֵׂאת",
       "translit": "s'et",
       "ref": "1Chr.15.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "נָשֹׂא",
+      "heb": "נָשֹׂא",
       "translit": "naso",
       "ref": "Hos.1.6",
       "has_suffix": false,
@@ -353,7 +353,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶשָּׂא",
+      "heb": "אֶשָּׂא",
       "translit": "essa",
       "ref": "Job.32.21",
       "has_suffix": false,
@@ -362,7 +362,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נִשָּׂא",
+      "heb": "נִשָּׂא",
       "translit": "nissa",
       "ref": "Lam.3.41",
       "has_suffix": false,
@@ -373,7 +373,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּשְׂאוּ",
+      "heb": "תִּשְׂאוּ",
       "translit": "tis'u",
       "ref": "Ezra.9.12",
       "has_suffix": false,
@@ -382,7 +382,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּשָּׂא",
+      "heb": "תִּשָּׂא",
       "translit": "tissa",
       "ref": "Isa.2.9",
       "has_suffix": false,
@@ -391,7 +391,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִשָּׂא",
+      "heb": "יִשָּׂא",
       "translit": "yissa",
       "ref": "Num.6.26",
       "has_suffix": false,
@@ -407,7 +407,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "נִשֵּׂאת",
+      "heb": "נִשֵּׂאת",
       "translit": "nisse't",
       "ref": "1Chr.14.2",
       "has_suffix": false,
@@ -416,7 +416,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "נִשָּׂא",
+      "heb": "נִשָּׂא",
       "translit": "nissa",
       "ref": "2Sam.19.43",
       "has_suffix": false,
@@ -427,16 +427,16 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "נִשָּׂא",
+      "heb": "וְנִשָּׂא",
       "translit": "nissa",
       "ref": "Isa.2.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "וְהַנִּשָּׂאִים",
+      "heb": "וְהַנִּשָּׂאִים",
       "translit": "vhannissa'im",
       "ref": "Isa.2.13",
       "has_suffix": false,
@@ -445,7 +445,7 @@
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "הַנִּשָּׂאֽוֹת",
+      "heb": "הַנִּשָּׂאֽוֹת",
       "translit": "hannissa'ot",
       "ref": "Isa.2.14",
       "has_suffix": false,
@@ -454,7 +454,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "נִשָּׂאָה",
+      "heb": "נִשָּׂאָה",
       "translit": "nissa'ah",
       "ref": "Isa.30.25",
       "has_suffix": false,
@@ -465,7 +465,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "נִשֵּׂאת",
+      "heb": "נִשֵּׂאת",
       "translit": "nisse't",
       "ref": "Zech.5.7",
       "has_suffix": false,
@@ -476,7 +476,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִנָּשְׂאוּ",
+      "heb": "יִנָּשְׂאוּ",
       "translit": "yinnas'u",
       "ref": "Ezek.1.19",
       "has_suffix": false,
@@ -485,7 +485,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶנָּשֵֽׂא",
+      "heb": "אֶנָּשֵֽׂא",
       "translit": "ennase",
       "ref": "Isa.33.10",
       "has_suffix": false,
@@ -494,7 +494,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִנָּשֵׂא",
+      "heb": "יִנָּשֵׂא",
       "translit": "yinnase",
       "ref": "Isa.40.4",
       "has_suffix": false,
@@ -503,7 +503,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תִּנָּשֶֽׂאנָה",
+      "heb": "תִּנָּשֶֽׂאנָה",
       "translit": "tinnase'nah",
       "ref": "Isa.49.22",
       "has_suffix": false,
@@ -512,7 +512,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּנָּשֵׂאוּ",
+      "heb": "תִּנָּשֵׂאוּ",
       "translit": "tinnase'u",
       "ref": "Isa.66.12",
       "has_suffix": false,
@@ -523,7 +523,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְנִשָּׂא",
+      "heb": "וְנִשָּׂא",
       "translit": "vnissa",
       "ref": "2Kgs.20.17",
       "has_suffix": false,
@@ -534,7 +534,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הִנָּשֵׂא",
+      "heb": "הִנָּשֵׂא",
       "translit": "hinnase",
       "ref": "Ps.7.7",
       "has_suffix": false,
@@ -543,7 +543,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְֽהִנָּשְׂאוּ",
+      "heb": "וְֽהִנָּשְׂאוּ",
       "translit": "vhinnas'u",
       "ref": "Ps.24.7",
       "has_suffix": false,
@@ -554,7 +554,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "וּבְהִנָּשֵׂא",
+      "heb": "וּבְהִנָּשֵׂא",
       "translit": "uvhinnase",
       "ref": "Ezek.1.19",
       "has_suffix": false,
@@ -570,7 +570,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "נִשָּׂא",
+      "heb": "נִשָּׂא",
       "translit": "nissa",
       "ref": "1Kgs.9.11",
       "has_suffix": false,
@@ -579,7 +579,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְנִשְּׂאוּ",
+      "heb": "וְנִשְּׂאוּ",
       "translit": "vniss'u",
       "ref": "Ezra.8.36",
       "has_suffix": false,
@@ -590,7 +590,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַֽיְנַשְּׂאֵהוּ",
+      "heb": "וַֽיְנַשְּׂאֵהוּ",
       "translit": "vaynass'ehu",
       "ref": "Esth.3.1",
       "has_suffix": true,
@@ -601,7 +601,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מְנַשְּׂאִים",
+      "heb": "מְנַשְּׂאִים",
       "translit": "mnass'im",
       "ref": "Esth.9.3",
       "has_suffix": false,
@@ -612,7 +612,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יְנַשְּׂאוּהוּ",
+      "heb": "יְנַשְּׂאוּהוּ",
       "translit": "ynass'uhu",
       "ref": "Ezra.1.4",
       "has_suffix": true,
@@ -623,7 +623,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְנִשָּׂא",
+      "heb": "וְנִשָּׂא",
       "translit": "vnissa",
       "ref": "Amos.4.2",
       "has_suffix": false,
@@ -634,7 +634,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְנַשְּׂאֵם",
+      "heb": "וְנַשְּׂאֵם",
       "translit": "vnass'em",
       "ref": "Ps.28.9",
       "has_suffix": true,
@@ -650,7 +650,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְהִשִּׂיאוּ",
+      "heb": "וְהִשִּׂיאוּ",
       "translit": "vhissi'u",
       "ref": "2Sam.17.13",
       "has_suffix": false,
@@ -666,7 +666,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּנַּשֵּׂא",
+      "heb": "וַיִּנַּשֵּׂא",
       "translit": "vayyinnasse",
       "ref": "2Chr.32.23",
       "has_suffix": false,
@@ -677,7 +677,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִֽנַּשְּׂאוּ",
+      "heb": "יִֽנַּשְּׂאוּ",
       "translit": "yinnass'u",
       "ref": "Dan.11.14",
       "has_suffix": false,
@@ -686,7 +686,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִתְנַשֵּׂא",
+      "heb": "תִתְנַשֵּׂא",
       "translit": "titnasse",
       "ref": "Ezek.29.15",
       "has_suffix": false,
@@ -695,7 +695,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּֽתְנַשְּׂאוּ",
+      "heb": "תִּֽתְנַשְּׂאוּ",
       "translit": "titnass'u",
       "ref": "Num.16.3",
       "has_suffix": false,
@@ -704,7 +704,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִתְנַשָּׂא",
+      "heb": "יִתְנַשָּׂא",
       "translit": "yitnassa",
       "ref": "Num.23.24",
       "has_suffix": false,
@@ -715,7 +715,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הִתְנַשֵּׂא",
+      "heb": "הִתְנַשֵּׂא",
       "translit": "hitnasse",
       "ref": "Ezek.17.14",
       "has_suffix": false,

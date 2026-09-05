@@ -11,7 +11,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "נְטַעְתֶּם",
+      "heb": "נְטַעְתֶּם",
       "translit": "nta'tem",
       "ref": "Amos.5.11",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "נָטָעְתָּ",
+      "heb": "נָטָעְתָּ",
       "translit": "nata'ta",
       "ref": "Deut.6.11",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "נָטַעְתִּי",
+      "heb": "נָטַעְתִּי",
       "translit": "nata'ti",
       "ref": "Eccl.2.4",
       "has_suffix": false,
@@ -67,7 +67,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּטַּע",
+      "heb": "וַיִּטַּע",
       "translit": "vayyitta",
       "ref": "Gen.2.8",
       "has_suffix": false,
@@ -76,7 +76,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתִּטָּעֵם",
+      "heb": "וַתִּטָּעֵם",
       "translit": "vattitta'em",
       "ref": "Ps.44.3",
       "has_suffix": true,
@@ -85,7 +85,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּטְּעוּ",
+      "heb": "וַיִּטְּעוּ",
       "translit": "vayyitt'u",
       "ref": "Ps.107.37",
       "has_suffix": false,
@@ -136,7 +136,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְיִטַּע",
+      "heb": "וְיִטַּע",
       "translit": "vyitta",
       "ref": "Dan.11.45",
       "has_suffix": false,
@@ -145,7 +145,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּטַּע",
+      "heb": "תִטַּע",
       "translit": "titta",
       "ref": "Deut.16.21",
       "has_suffix": false,
@@ -154,7 +154,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תִּטְּעִי",
+      "heb": "תִּטְּעִי",
       "translit": "titt'i",
       "ref": "Isa.17.10",
       "has_suffix": false,
@@ -163,7 +163,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִטְּעוּ",
+      "heb": "יִטְּעוּ",
       "translit": "yitt'u",
       "ref": "Isa.65.22",
       "has_suffix": false,
@@ -172,7 +172,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִטָּעוּ",
+      "heb": "תִטָּעוּ",
       "translit": "titta'u",
       "ref": "Jer.35.7",
       "has_suffix": false,
@@ -183,10 +183,10 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְנָטַעְתִּי",
+      "heb": "וּנְטַעְתִּיהוּ",
       "translit": "vnata'ti",
       "ref": "1Chr.17.9",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -201,7 +201,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וּנְטַעְתֶּם",
+      "heb": "וּנְטַעְתֶּם",
       "translit": "unta'tem",
       "ref": "Lev.19.23",
       "has_suffix": false,
@@ -239,7 +239,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "נִטָּעוּ",
+      "heb": "נִטָּעוּ",
       "translit": "nitta'u",
       "ref": "Isa.40.24",
       "has_suffix": false,

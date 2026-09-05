@@ -11,7 +11,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "בָּנָה",
+      "heb": "בָּנָה",
       "translit": "banah",
       "ref": "1Chr.5.36",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "בָּנִיתִי",
+      "heb": "בָנִיתִי",
       "translit": "baniti",
       "ref": "1Kgs.8.13",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "בָּנִתָה",
+      "heb": "בָּנִתָה",
       "translit": "banitah",
       "ref": "1Kgs.9.3",
       "has_suffix": false,
@@ -47,7 +47,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "בָּנוּ",
+      "heb": "בָּנוּ",
       "translit": "banu",
       "ref": "2Kgs.16.18",
       "has_suffix": false,
@@ -56,7 +56,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "בָּנִית",
+      "heb": "בָּנִית",
       "translit": "banit",
       "ref": "Ezek.16.25",
       "has_suffix": false,
@@ -65,7 +65,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "בָּנְתָה",
+      "heb": "בָּנְתָה",
       "translit": "bantah",
       "ref": "Prov.9.1",
       "has_suffix": false,
@@ -76,7 +76,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּבֶן",
+      "heb": "וַתִּבֶן",
       "translit": "vattiven",
       "ref": "1Chr.7.24",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּבֶן",
+      "heb": "וַיִּבֶן",
       "translit": "vayyiven",
       "ref": "1Chr.11.8",
       "has_suffix": false,
@@ -103,7 +103,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּבְנוּ",
+      "heb": "וַיִּבְנוּ",
       "translit": "vayyivnu",
       "ref": "1Kgs.14.23",
       "has_suffix": false,
@@ -112,7 +112,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וַתִּבְנִי",
+      "heb": "וַתִּבְנִי",
       "translit": "vattivni",
       "ref": "Ezek.16.24",
       "has_suffix": false,
@@ -121,7 +121,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וַנִּבְנֶה",
+      "heb": "וַנִּבְנֶה",
       "translit": "vannivneh",
       "ref": "Neh.3.38",
       "has_suffix": false,
@@ -132,7 +132,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "בֹּנֶה",
+      "heb": "בֹנֶה",
       "translit": "boneh",
       "ref": "1Kgs.6.12",
       "has_suffix": false,
@@ -141,27 +141,27 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "בּוֹנִים",
+      "heb": "וְלַבֹּנִים",
       "translit": "bonim",
       "ref": "2Chr.34.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "participle_passive": [
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "בָּנוּי",
+      "heb": "הַבָּנֽוּי",
       "translit": "banuy",
       "ref": "Judg.6.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "בְּנוּיִֽם",
+      "heb": "בְּנוּיִֽם",
       "translit": "bnuyim",
       "ref": "Neh.7.4",
       "has_suffix": false,
@@ -170,7 +170,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "הַבְּנוּיָה",
+      "heb": "הַבְּנוּיָה",
       "translit": "habbnuyah",
       "ref": "Ps.122.3",
       "has_suffix": false,
@@ -181,7 +181,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּבְנֶה",
+      "heb": "תִּבְנֶה",
       "translit": "tivneh",
       "ref": "1Chr.17.4",
       "has_suffix": false,
@@ -190,7 +190,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִבְנֶה",
+      "heb": "יִֽבְנֶה",
       "translit": "yivneh",
       "ref": "1Chr.17.10",
       "has_suffix": false,
@@ -226,7 +226,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּבְנוּ",
+      "heb": "תִּבְנוּ",
       "translit": "tivnu",
       "ref": "Isa.66.1",
       "has_suffix": false,
@@ -284,16 +284,16 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "בְּנוּ",
+      "heb": "וּבְנוּ",
       "translit": "bnu",
       "ref": "1Chr.22.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "בְּנֵה",
+      "heb": "בְּֽנֵה",
       "translit": "bneh",
       "ref": "1Kgs.2.36",
       "has_suffix": false,
@@ -304,7 +304,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בְּנוֹת",
+      "heb": "בְּנוֹת",
       "translit": "bnot",
       "ref": "1Chr.6.17",
       "has_suffix": false,
@@ -315,7 +315,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בָּנֹה",
+      "heb": "בָּנֹה",
       "translit": "banoh",
       "ref": "1Kgs.8.13",
       "has_suffix": false,
@@ -391,7 +391,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "הַנִּבְנֶה",
+      "heb": "הַנִּבְנֶה",
       "translit": "hannivneh",
       "ref": "1Chr.22.19",
       "has_suffix": false,
@@ -402,7 +402,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִבָּנֶה",
+      "heb": "תִבָּנֶה",
       "translit": "tibbaneh",
       "ref": "Deut.13.17",
       "has_suffix": false,
@@ -411,7 +411,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תִּבָּנֶֽינָה",
+      "heb": "תִּבָּנֶֽינָה",
       "translit": "tibbanenah",
       "ref": "Ezek.36.10",
       "has_suffix": false,
@@ -420,7 +420,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אִבָּנֶה",
+      "heb": "אִבָּנֶה",
       "translit": "ibbaneh",
       "ref": "Gen.16.2",
       "has_suffix": false,
@@ -429,7 +429,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִבָּנֶה",
+      "heb": "יִבָּנֶֽה",
       "translit": "yibbaneh",
       "ref": "Isa.25.2",
       "has_suffix": false,
@@ -438,7 +438,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּבָּנֶה",
+      "heb": "תִּבָּנֶה",
       "translit": "tibbaneh",
       "ref": "Job.22.23",
       "has_suffix": false,
@@ -478,10 +478,10 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְהִבָּנֽוֹת",
+      "heb": "בְּהִבָּנֹתוֹ",
       "translit": "lhibbanot",
       "ref": "1Kgs.6.7",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": true
      }
     ],
@@ -489,7 +489,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּבָּנֶה",
+      "heb": "תִּבָּנֶה",
       "translit": "tibbaneh",
       "ref": "Num.21.27",
       "has_suffix": false,

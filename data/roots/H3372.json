@@ -56,7 +56,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "יָֽרְאָה",
+      "heb": "יָרֵאָה",
       "translit": "yar'ah",
       "ref": "Gen.18.15",
       "has_suffix": false,
@@ -76,7 +76,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּרָא",
+      "heb": "וַיִּירָא",
       "translit": "vayyira",
       "ref": "1Chr.13.12",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּֽירְאוּ",
+      "heb": "וַיִּֽרְאוּ",
       "translit": "vayyir'u",
       "ref": "1Kgs.3.28",
       "has_suffix": false,
@@ -94,7 +94,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "וַתִּירֶאןָ",
+      "heb": "וַתִּירֶאןָ",
       "translit": "vattire'na",
       "ref": "Exod.1.17",
       "has_suffix": false,
@@ -112,7 +112,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וַתִּֽירְאִי",
+      "heb": "וַתִּֽירְאִי",
       "translit": "vattir'i",
       "ref": "Isa.51.12",
       "has_suffix": false,
@@ -121,7 +121,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַתִּירָֽאוּ",
+      "heb": "וַתִּירָֽאוּ",
       "translit": "vattira'u",
       "ref": "Job.6.21",
       "has_suffix": false,
@@ -130,7 +130,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וַנִּירָא",
+      "heb": "וַנִּירָא",
       "translit": "vannira",
       "ref": "Josh.9.24",
       "has_suffix": false,
@@ -152,16 +152,16 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִֽירְאוּ",
+      "heb": "יִֽרָאוּךָ",
       "translit": "yir'u",
       "ref": "1Kgs.8.40",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִֽירְאוּ",
+      "heb": "תִּֽירְאוּ",
       "translit": "tir'u",
       "ref": "1Sam.12.14",
       "has_suffix": false,
@@ -179,7 +179,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִירָא",
+      "heb": "תִּירָא",
       "translit": "tira",
       "ref": "Deut.6.2",
       "has_suffix": false,
@@ -197,10 +197,10 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אִירָא",
+      "heb": "אִירָאֶנּוּ",
       "translit": "ira",
       "ref": "Job.9.35",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -266,11 +266,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "יְרֹא",
+      "heb": "לְיִרְאָה",
       "translit": "yro",
       "ref": "1Kgs.8.43",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "cohortative": [
@@ -288,7 +288,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּירָא",
+      "heb": "תִּירָא",
       "translit": "tira",
       "ref": "1Chr.22.13",
       "has_suffix": false,
@@ -297,7 +297,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תִּֽירְאִי",
+      "heb": "תִּירְאִי",
       "translit": "tir'i",
       "ref": "1Kgs.17.13",
       "has_suffix": false,
@@ -306,7 +306,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּֽירְאוּ",
+      "heb": "תִּירָאוּ",
       "translit": "tir'u",
       "ref": "1Sam.12.20",
       "has_suffix": false,
@@ -322,20 +322,20 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "נוֹרָא",
+      "heb": "וְנוֹרָא",
       "translit": "nora",
       "ref": "1Chr.16.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "נוֹרָאוֹת",
+      "heb": "וְנֹרָאוֹת",
       "translit": "nora'ot",
       "ref": "1Chr.17.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "fs",
@@ -351,7 +351,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּוָּרֵֽא",
+      "heb": "תִּוָּרֵֽא",
       "translit": "tivvare",
       "ref": "Ps.130.4",
       "has_suffix": false,

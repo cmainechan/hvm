@@ -29,7 +29,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "יָלַדְתִּי",
+      "heb": "יָלַדְתִּי",
       "translit": "yaladti",
       "ref": "1Chr.4.9",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "יָלַדְתְּ",
+      "heb": "יָלָדְתְּ",
       "translit": "yaladt",
       "ref": "1Sam.4.20",
       "has_suffix": false,
@@ -47,11 +47,11 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "יָֽלְדוּ",
+      "heb": "וְיָלָֽדוּ",
       "translit": "yaldu",
       "ref": "Exod.1.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "1cp",
@@ -67,7 +67,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתֵּלֶד",
+      "heb": "וַתֵּלֶד",
       "translit": "vatteled",
       "ref": "1Chr.2.19",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "וַתֵּלַדְנָה",
+      "heb": "וַתֵּלַדְנָה",
       "translit": "vatteladnah",
       "ref": "Ezek.23.4",
       "has_suffix": false,
@@ -94,7 +94,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיֵּלֵֽדוּ",
+      "heb": "וַיֵּלֵֽדוּ",
       "translit": "vayyeledu",
       "ref": "Gen.20.17",
       "has_suffix": false,
@@ -105,16 +105,16 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "יֽוֹלֵדָה",
+      "heb": "וְיֹלַדְתְּ",
       "translit": "yoledah",
       "ref": "Gen.16.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "הַיֹּלְדוֹת",
+      "heb": "הַיֹּלְדוֹת",
       "translit": "hayyoldot",
       "ref": "Jer.16.3",
       "has_suffix": false,
@@ -143,7 +143,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "הַיָּלוּד",
+      "heb": "הַיָּלוּד",
       "translit": "hayyalud",
       "ref": "1Kgs.3.26",
       "has_suffix": false,
@@ -154,7 +154,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תֵּלֵד",
+      "heb": "תֵּלֵד",
       "translit": "teled",
       "ref": "Deut.25.6",
       "has_suffix": false,
@@ -163,7 +163,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תֵּֽלְדִי",
+      "heb": "תֵּֽלְדִי",
       "translit": "teldi",
       "ref": "Gen.3.16",
       "has_suffix": false,
@@ -181,7 +181,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יֵלְדוּ",
+      "heb": "יֵֽלֵדוּן",
       "translit": "yeldu",
       "ref": "Hos.9.16",
       "has_suffix": false,
@@ -190,7 +190,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תֵּלְדוּ",
+      "heb": "תֵּלְדוּ",
       "translit": "teldu",
       "ref": "Isa.33.11",
       "has_suffix": false,
@@ -208,7 +208,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יֵּלֶד",
+      "heb": "יֵּלֶד",
       "translit": "yeled",
       "ref": "Prov.27.1",
       "has_suffix": false,
@@ -237,7 +237,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וְיֹלַדְתְּ",
+      "heb": "וְיֹלַדְתְּ",
       "translit": "vyoladt",
       "ref": "Judg.13.5",
       "has_suffix": false,
@@ -257,11 +257,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לֶדֶת",
+      "heb": "לְלִדְתִּי",
       "translit": "ledet",
       "ref": "1Kgs.3.18",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
@@ -304,7 +304,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "נוּלְּדוּ",
+      "heb": "נוּלְּדוּ",
       "translit": "nulldu",
       "ref": "1Chr.3.5",
       "has_suffix": false,
@@ -315,7 +315,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּוָּלְדוּ",
+      "heb": "וַיִּוָּלְדוּ",
       "translit": "vayyivvaldu",
       "ref": "2Sam.3.2",
       "has_suffix": false,
@@ -324,7 +324,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּוָּלֵד",
+      "heb": "וַיִּוָּלֵד",
       "translit": "vayyivvaled",
       "ref": "Gen.4.18",
       "has_suffix": false,
@@ -366,7 +366,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִוָּלֵד",
+      "heb": "יִוָּלֵד",
       "translit": "yivvaled",
       "ref": "Deut.15.19",
       "has_suffix": false,
@@ -375,7 +375,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִוָּלְדוּ",
+      "heb": "יִוָּלְדוּ",
       "translit": "yivvaldu",
       "ref": "Deut.23.9",
       "has_suffix": false,
@@ -384,7 +384,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אִוָּלֶד",
+      "heb": "אִוָּלֶד",
       "translit": "ivvaled",
       "ref": "Job.3.3",
       "has_suffix": false,
@@ -393,7 +393,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּוָּלֵד",
+      "heb": "תִּוָּלֵד",
       "translit": "tivvaled",
       "ref": "Job.15.7",
       "has_suffix": false,
@@ -404,11 +404,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בְּהִוָּלֶד",
+      "heb": "הִוָּלְדֽוֹ",
       "translit": "bhivvaled",
       "ref": "Eccl.7.1",
-      "has_suffix": false,
-      "has_prefix": true
+      "has_suffix": true,
+      "has_prefix": false
      }
     ]
    }
@@ -420,7 +420,7 @@
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "לַֽמְיַלְּדֹת",
+      "heb": "לַֽמְיַלְּדֹת",
       "translit": "lamyalldot",
       "ref": "Exod.1.15",
       "has_suffix": false,
@@ -429,7 +429,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "הַמְיַלֶּדֶת",
+      "heb": "הַמְיַלֶּדֶת",
       "translit": "hamyalledet",
       "ref": "Exod.1.19",
       "has_suffix": false,
@@ -440,7 +440,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בְּיַלֶּדְכֶן",
+      "heb": "בְּיַלֶּדְכֶן",
       "translit": "byalledkhen",
       "ref": "Exod.1.16",
       "has_suffix": true,
@@ -456,7 +456,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יֻלַּד",
+      "heb": "יֻלַּד",
       "translit": "yullad",
       "ref": "1Chr.1.19",
       "has_suffix": false,
@@ -465,7 +465,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "יֻלְּדוּ",
+      "heb": "יֻלְּדוּ",
       "translit": "yulldu",
       "ref": "2Sam.3.5",
       "has_suffix": false,
@@ -474,7 +474,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "יֻלְּדָה",
+      "heb": "יֻלְּדָה",
       "translit": "yulldah",
       "ref": "Gen.24.15",
       "has_suffix": false,
@@ -483,7 +483,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "יֻלַּדְתֶּם",
+      "heb": "יֻלַּדְתֶּם",
       "translit": "yulladtem",
       "ref": "Jer.22.26",
       "has_suffix": false,
@@ -494,7 +494,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יוּלַּד",
+      "heb": "יוּלַּד",
       "translit": "yullad",
       "ref": "Judg.18.29",
       "has_suffix": false,
@@ -503,7 +503,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יֻלָּדוּ",
+      "heb": "יֻלָּדוּ",
       "translit": "yulladu",
       "ref": "Ps.90.2",
       "has_suffix": false,
@@ -537,7 +537,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הוֹלַדְתָּ",
+      "heb": "הוֹלַדְתָּ",
       "translit": "holadta",
       "ref": "Gen.48.6",
       "has_suffix": false,
@@ -657,7 +657,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הֻלֶּדֶת",
+      "heb": "הוּלֶּדֶת",
       "translit": "hulledet",
       "ref": "Ezek.16.4",
       "has_suffix": false,
@@ -673,7 +673,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּתְיַֽלְדוּ",
+      "heb": "וַיִּתְיַֽלְדוּ",
       "translit": "vayyityaldu",
       "ref": "Num.1.18",
       "has_suffix": false,

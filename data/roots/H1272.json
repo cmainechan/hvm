@@ -11,7 +11,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "בָּרַח",
+      "heb": "בָּרַח",
       "translit": "barach",
       "ref": "1Kgs.11.23",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "בָּרָֽחוּ",
+      "heb": "בָּרָֽחוּ",
       "translit": "barachu",
       "ref": "Isa.22.3",
       "has_suffix": false,
@@ -31,7 +31,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּבְרְחוּ",
+      "heb": "וַיִּבְרְחוּ",
       "translit": "vayyivrchu",
       "ref": "1Kgs.2.39",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּבְרַח",
+      "heb": "וַיִּבְרַח",
       "translit": "vayyivrach",
       "ref": "1Kgs.11.17",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּבְרַח",
+      "heb": "וַתִּבְרַח",
       "translit": "vattivrach",
       "ref": "Gen.16.6",
       "has_suffix": false,
@@ -69,7 +69,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "בֹּרַֽחַת",
+      "heb": "בֹּרַֽחַת",
       "translit": "borachat",
       "ref": "Gen.16.8",
       "has_suffix": false,
@@ -109,7 +109,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "בְּרַח",
+      "heb": "בְּרַח",
       "translit": "brach",
       "ref": "Amos.7.12",
       "has_suffix": false,
@@ -118,7 +118,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "בִּרְחוּ",
+      "heb": "בִּרְחוּ",
       "translit": "birchu",
       "ref": "Isa.48.20",
       "has_suffix": false,
@@ -129,10 +129,10 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לִבְרֹחַ",
+      "heb": "בְּבָרְחִי",
       "translit": "livrocha",
       "ref": "1Kgs.2.7",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": true
      }
     ],
@@ -140,7 +140,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בָּרוֹחַ",
+      "heb": "בָּרוֹחַ",
       "translit": "barocha",
       "ref": "Job.27.22",
       "has_suffix": false,
@@ -178,7 +178,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּבְרִיחוּ",
+      "heb": "וַיַּבְרִיחוּ",
       "translit": "vayyavrichu",
       "ref": "1Chr.12.16",
       "has_suffix": false,
@@ -209,10 +209,10 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַבְרִיחַ",
+      "heb": "יַבְרִיחֶנּוּ",
       "translit": "yavricha",
       "ref": "Job.41.20",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ]

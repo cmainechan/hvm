@@ -11,7 +11,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "וְשֹׁקֶטֶת",
+      "heb": "וְשֹׁקֶטֶת",
       "translit": "vshoqetet",
       "ref": "1Chr.4.40",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הַשֹּׁקְטִים",
+      "heb": "הַשֹּׁקְטִים",
       "translit": "hashshoqtim",
       "ref": "Ezek.38.11",
       "has_suffix": false,
@@ -29,18 +29,18 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "שֹׁקֵט",
+      "heb": "וְשֹׁקֵט",
       "translit": "shoqet",
       "ref": "Jer.48.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "perfect": [
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "שָׁקְטָה",
+      "heb": "שָׁקְטָה",
       "translit": "shaqtah",
       "ref": "2Chr.13.23",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "שָׁקַטְתִּי",
+      "heb": "שָׁקַטְתִּי",
       "translit": "shaqatti",
       "ref": "Job.3.26",
       "has_suffix": false,
@@ -60,38 +60,38 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּשְׁקֹט",
+      "heb": "וַתִּשְׁקֹט",
       "translit": "vattishqot",
       "ref": "2Chr.14.4",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "veqatal": [
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְשָׁקַטְתִּי",
+      "heb": "וְשָׁקַטְתִּי",
       "translit": "vshaqatti",
       "ref": "Ezek.16.42",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְשָׁקַט",
+      "heb": "וְשָׁקַט",
       "translit": "vshaqat",
       "ref": "Jer.30.10",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "cohortative": [
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶשְׁקֳטָה",
+      "heb": "אֶשְׁקֳטָה",
       "translit": "eshqotah",
       "ref": "Isa.18.4",
       "has_suffix": false,
@@ -102,7 +102,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶשְׁקוֹט",
+      "heb": "אֶשְׁקוֹט",
       "translit": "eshqot",
       "ref": "Isa.62.1",
       "has_suffix": false,
@@ -111,7 +111,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תִשְׁקֹטִי",
+      "heb": "תִשְׁקֹטִי",
       "translit": "tishqoti",
       "ref": "Jer.47.6",
       "has_suffix": false,
@@ -120,7 +120,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִשְׁקֹט",
+      "heb": "יִשְׁקֹט",
       "translit": "yishqot",
       "ref": "Ruth.3.18",
       "has_suffix": false,
@@ -131,7 +131,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּשְׁקֹט",
+      "heb": "תִּשְׁקֹט",
       "translit": "tishqot",
       "ref": "Ps.83.2",
       "has_suffix": false,
@@ -147,7 +147,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הַשְׁקֵט",
+      "heb": "הַשְׁקֵט",
       "translit": "hashqet",
       "ref": "Ezek.16.49",
       "has_suffix": false,
@@ -158,7 +158,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְהַשְׁקֵט",
+      "heb": "וְהַשְׁקֵט",
       "translit": "vhashqet",
       "ref": "Isa.7.4",
       "has_suffix": false,
@@ -169,7 +169,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בְּהַשְׁקֵט",
+      "heb": "בְּהַשְׁקֵט",
       "translit": "bhashqet",
       "ref": "Isa.30.15",
       "has_suffix": false,
@@ -180,7 +180,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַשְׁקִט",
+      "heb": "יַשְׁקִט",
       "translit": "yashqit",
       "ref": "Job.34.29",
       "has_suffix": false,

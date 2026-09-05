@@ -11,7 +11,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "צַמְתָּ",
+      "heb": "צַמְתָּ",
       "translit": "tzamta",
       "ref": "2Sam.12.21",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "צַמְתִּי",
+      "heb": "צַמְתִּי",
       "translit": "tzamti",
       "ref": "2Sam.12.22",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "צַּמְנוּ",
+      "heb": "צַּמְנוּ",
       "translit": "tzamnu",
       "ref": "Isa.58.3",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "צַמְתֶּם",
+      "heb": "צַמְתֶּם",
       "translit": "tzamtem",
       "ref": "Zech.7.5",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיָּצוּמוּ",
+      "heb": "וַיָּצוּמוּ",
       "translit": "vayyatzumu",
       "ref": "1Chr.10.12",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיָּצוֹם",
+      "heb": "וַיָּצוֹם",
       "translit": "vayyatzom",
       "ref": "1Kgs.21.27",
       "has_suffix": false,
@@ -67,10 +67,10 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וַנָּצוּמָה",
+      "heb": "וַנָּצוּמָה",
       "translit": "vannatzumah",
       "ref": "Ezra.8.23",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      }
     ],
@@ -98,7 +98,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תָּצוּמוּ",
+      "heb": "תָּצוּמוּ",
       "translit": "tatzumu",
       "ref": "Isa.58.4",
       "has_suffix": false,

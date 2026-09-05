@@ -11,7 +11,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּבְרַךְ",
+      "heb": "וַיִּבְרַךְ",
       "translit": "vayyivrakh",
       "ref": "2Chr.6.13",
       "has_suffix": false,
@@ -22,7 +22,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "בָּרוּךְ",
+      "heb": "בָּרוּךְ",
       "translit": "barukh",
       "ref": "1Chr.16.36",
       "has_suffix": false,
@@ -31,7 +31,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "בְּרוּכִים",
+      "heb": "בְּרוּכִים",
       "translit": "brukhim",
       "ref": "1Sam.23.21",
       "has_suffix": false,
@@ -40,11 +40,11 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "בְּרוּכָה",
+      "heb": "וּבְרוּכָה",
       "translit": "brukhah",
       "ref": "1Sam.25.33",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "cohortative": [
@@ -94,7 +94,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "בֵּרַכְתָּ",
+      "heb": "בֵּרַכְתָּ",
       "translit": "berakhta",
       "ref": "1Chr.17.27",
       "has_suffix": false,
@@ -103,16 +103,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "בֵּרַךְ",
+      "heb": "בֵרֲכוֹ",
       "translit": "berakh",
       "ref": "1Chr.26.5",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "בֵּרֲכוּ",
+      "heb": "בֵּרֲכוּ",
       "translit": "berakhu",
       "ref": "2Chr.20.26",
       "has_suffix": false,
@@ -121,7 +121,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "בֵּרַכְתִּי",
+      "heb": "בֵּרַכְתִּי",
       "translit": "berakhti",
       "ref": "Gen.17.20",
       "has_suffix": false,
@@ -130,10 +130,10 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "בֵּרַכְנוּ",
+      "heb": "בֵּרַֽכְנוּכֶם",
       "translit": "berakhnu",
       "ref": "Ps.118.26",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -181,10 +181,10 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְּבָרֵךְ",
+      "heb": "תְּבָרֲכֵנִי",
       "translit": "tvarekh",
       "ref": "1Chr.4.10",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -199,16 +199,16 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֲבָרֵךְ",
+      "heb": "וַאֲבָרֶכְךָ",
       "translit": "avarekh",
       "ref": "Gen.12.2",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְּבָרֲכַנִּי",
+      "heb": "תְּבָרֶכְךָ",
       "translit": "tvarakhanni",
       "ref": "Gen.27.4",
       "has_suffix": true,
@@ -255,7 +255,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וּבֵֽרַכְתָּ",
+      "heb": "וּבֵֽרַכְתָּ",
       "translit": "uverakhta",
       "ref": "Deut.8.10",
       "has_suffix": false,
@@ -264,7 +264,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וּבֵֽרַכְתֶּם",
+      "heb": "וּבֵֽרַכְתֶּם",
       "translit": "uverakhtem",
       "ref": "Exod.12.32",
       "has_suffix": false,
@@ -273,10 +273,10 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וּבֵרַכְתִּי",
+      "heb": "וּבֵרַכְתִּֽיךָ",
       "translit": "uverakhti",
       "ref": "Exod.20.24",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -284,7 +284,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "בָּרֲכוּ",
+      "heb": "בָּֽרְכוּ",
       "translit": "barakhu",
       "ref": "1Chr.29.20",
       "has_suffix": false,
@@ -293,16 +293,16 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "בָּרֵךְ",
+      "heb": "וּבָרֵךְ",
       "translit": "barekh",
       "ref": "2Sam.7.29",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "בָּרֲכִי",
+      "heb": "בָּרֲכִי",
       "translit": "barakhi",
       "ref": "Ps.103.1",
       "has_suffix": false,
@@ -324,7 +324,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בָרֵךְ",
+      "heb": "בָּרֵךְ",
       "translit": "varekh",
       "ref": "1Chr.4.10",
       "has_suffix": false,
@@ -335,11 +335,11 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֲבָרֲכָה",
+      "heb": "וַאֲבָרֶכְכָה",
       "translit": "avarakhah",
       "ref": "Gen.27.7",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      }
     ],
     "jussive": [
@@ -371,11 +371,11 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מְבֹרָךְ",
+      "heb": "וּמְבֹרָךְ",
       "translit": "mvorakh",
       "ref": "1Chr.17.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "yiqtol": [
@@ -391,7 +391,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְּבֹרַךְ",
+      "heb": "תְּבֹרַךְ",
       "translit": "tvorakh",
       "ref": "Judg.5.24",
       "has_suffix": false,
@@ -407,7 +407,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּבְרֵךְ",
+      "heb": "וַיַּבְרֵךְ",
       "translit": "vayyavrekh",
       "ref": "Gen.24.11",
       "has_suffix": false,
@@ -423,7 +423,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "הַמִּתְבָּרֵךְ",
+      "heb": "הַמִּתְבָּרֵךְ",
       "translit": "hammitbarekh",
       "ref": "Isa.65.16",
       "has_suffix": false,
@@ -434,7 +434,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִתְבָּרֵךְ",
+      "heb": "יִתְבָּרֵךְ",
       "translit": "yitbarekh",
       "ref": "Isa.65.16",
       "has_suffix": false,
@@ -443,7 +443,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וְיִתְבָּרְכוּ",
+      "heb": "וְיִתְבָּרְכוּ",
       "translit": "vyitbarkhu",
       "ref": "Ps.72.17",
       "has_suffix": false,
@@ -454,7 +454,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְהִתְבָּרֵךְ",
+      "heb": "וְהִתְבָּרֵךְ",
       "translit": "vhitbarekh",
       "ref": "Deut.29.18",
       "has_suffix": false,
@@ -463,7 +463,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְהִתְבָּרֲכוּ",
+      "heb": "וְהִתְבָּרֲכוּ",
       "translit": "vhitbarakhu",
       "ref": "Gen.22.18",
       "has_suffix": false,

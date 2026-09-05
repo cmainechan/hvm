@@ -1,0 +1,144 @@
+{
+ "glosses": [
+  "stand firm"
+ ],
+ "strong": "H3320",
+ "stems": {
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּֽתְיַצְּבוּ",
+      "translit": "vayyityatzvu",
+      "ref": "1Chr.11.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּתְיַצֵּב",
+      "translit": "vayyityatzev",
+      "ref": "1Sam.10.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתֵּתַצַּב",
+      "translit": "vattetatzav",
+      "ref": "Exod.2.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הִֽתְיַצְּבוּ",
+      "translit": "hityatzvu",
+      "ref": "1Sam.10.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִתְיַצֵּב",
+      "translit": "hityatzev",
+      "ref": "2Sam.18.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִֽתְיַצְּבוּ",
+      "translit": "hityatzvu",
+      "ref": "2Chr.11.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִתְיַצֵּֽב",
+      "translit": "lehityatzev",
+      "ref": "2Chr.20.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּתְיַצֵּב",
+      "translit": "tityatzev",
+      "ref": "2Sam.18.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְיַצֵּב",
+      "translit": "yityatzev",
+      "ref": "Deut.11.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתְיַצְּבוּ",
+      "translit": "yityatzvu",
+      "ref": "Ps.2.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאֶֽתְיַצְּבָה",
+      "translit": "ve'etyatzvah",
+      "ref": "Hab.2.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִֽתְיַצְּבוּ",
+      "translit": "vehityatzvu",
+      "ref": "Num.11.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "יצב",
+ "citation_translit": "yatsav",
+ "search_match": [
+  "3320",
+  "h3320",
+  "stand firm",
+  "yatsav",
+  "יצב"
+ ]
+}

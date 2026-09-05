@@ -3,6 +3,12 @@
   "rest"
  ],
  "strong": "H5117",
+ "strong_alt": [
+  "H3240"
+ ],
+ "notes": [
+  "Hiphil/hophal (causative 'set down, give rest') forms are supplied by the related root יָנַח (H3240), not H5117 -- Strong's own entry for H3240 explicitly notes this ambiguity. Qal forms come from H5117 itself."
+ ],
  "stems": {
   "qal": {
    "sense_hint": "simple",
@@ -38,7 +44,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "נָחְתִּי",
+      "heb": "נָחְתִּי",
       "translit": "nachti",
       "ref": "Job.3.26",
       "has_suffix": false,
@@ -49,7 +55,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיָּנֽוּחוּ",
+      "heb": "וַיָּנֽוּחוּ",
       "translit": "vayyanuchu",
       "ref": "1Sam.25.9",
       "has_suffix": false,
@@ -58,7 +64,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיָּנַח",
+      "heb": "וַיָּנַח",
       "translit": "vayyanach",
       "ref": "Exod.10.14",
       "has_suffix": false,
@@ -67,7 +73,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתָּנַח",
+      "heb": "וַתָּנַח",
       "translit": "vattanach",
       "ref": "Gen.8.4",
       "has_suffix": false,
@@ -154,7 +160,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "כְּנוֹחַ",
+      "heb": "לָנוּחַ",
       "translit": "knocha",
       "ref": "2Sam.21.10",
       "has_suffix": false,
@@ -199,7 +205,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְהִנַּחְתֶּם",
+      "heb": "וְהִנַּחְתֶּם",
       "translit": "vhinnachtem",
       "ref": "Isa.65.15",
       "has_suffix": false,
@@ -210,7 +216,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיָּנַֽח",
+      "heb": "וַיָּנַֽח",
       "translit": "vayyanach",
       "ref": "2Chr.14.6",
       "has_suffix": false,
@@ -219,20 +225,20 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּנִּיחוּ",
+      "heb": "וַיַּנִּיחוּ",
       "translit": "vayyannichu",
       "ref": "2Kgs.17.29",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתַּנַּח",
+      "heb": "וַתַּנַּח",
       "translit": "vattannach",
       "ref": "Gen.39.16",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "participle_active": [
@@ -259,7 +265,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְּנִיחֶנּוּ",
+      "heb": "תְּנִיחֶנּוּ",
       "translit": "tnichennu",
       "ref": "Isa.63.14",
       "has_suffix": true,
@@ -268,7 +274,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "שֶׁאַנִּיחֶנּוּ",
+      "heb": "שֶׁאַנִּיחֶנּוּ",
       "translit": "she'annichennu",
       "ref": "Eccl.2.18",
       "has_suffix": true,
@@ -277,16 +283,16 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יַנִּיחוּ",
+      "heb": "וְיַנִּיחוּ",
       "translit": "yannichu",
       "ref": "Ezek.40.42",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּנִּיחֵנִי",
+      "heb": "תַּנִּיחֵנִי",
       "translit": "tannicheni",
       "ref": "Ps.119.121",
       "has_suffix": true,
@@ -297,7 +303,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וַהֲנִחֹתִי",
+      "heb": "וַהֲנִחוֹתִי",
       "translit": "vahanichoti",
       "ref": "1Chr.22.9",
       "has_suffix": false,
@@ -315,29 +321,29 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְהִנַּחְתָּ",
+      "heb": "וְהִנַּחְתָּ",
       "translit": "vhinnachta",
       "ref": "Deut.14.28",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      },
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְהִנִּיחוּ",
+      "heb": "וְהִנִּיחוּךְ",
       "translit": "vhinnichu",
       "ref": "Ezek.16.39",
-      "has_suffix": false,
-      "has_prefix": true
+      "has_suffix": true,
+      "has_prefix": false
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְהִנַּחְתֶּם",
+      "heb": "וְהִנַּחְתֶּם",
       "translit": "vhinnachtem",
       "ref": "Josh.4.3",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "imperative": [
@@ -353,29 +359,29 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הַֽנַּֽח",
+      "heb": "וְהַנַּח",
       "translit": "hannach",
       "ref": "Exod.16.33",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_construct": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הָנִיחַ",
+      "heb": "בְּהָנִיחַ",
       "translit": "hanicha",
       "ref": "Deut.25.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "jussive": [
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּנַּח",
+      "heb": "תַּנַּח",
       "translit": "tannach",
       "ref": "Eccl.7.18",
       "has_suffix": false,
@@ -402,7 +408,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מֻנָּח",
+      "heb": "מֻנָּח",
       "translit": "munnach",
       "ref": "Ezek.41.9",
       "has_suffix": false,
@@ -413,11 +419,11 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וְהֻנִּיחָה",
+      "heb": "וְהֻנִּיחָה",
       "translit": "vhunnichah",
       "ref": "Zech.5.11",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ]
    }

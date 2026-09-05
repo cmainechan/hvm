@@ -11,20 +11,20 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּטְבֹּל",
+      "heb": "וַיִּטְבֹּל",
       "translit": "vayyitbol",
       "ref": "1Sam.14.27",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      },
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּטְבְּלוּ",
+      "heb": "וַיִּטְבְּלוּ",
       "translit": "vayyitblu",
       "ref": "Gen.37.31",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "participle_active": [
@@ -42,11 +42,11 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וּטְבַלְתֶּם",
+      "heb": "וּטְבַלְתֶּם",
       "translit": "utvaltem",
       "ref": "Exod.12.22",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      },
      {
       "code": "3ms",
@@ -55,23 +55,23 @@
       "translit": "vtaval",
       "ref": "Lev.4.6",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      },
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וְטָבַלְתְּ",
+      "heb": "וְטָבַלְתְּ",
       "translit": "vtavalt",
       "ref": "Ruth.2.14",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "yiqtol": [
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּטְבְּלֵנִי",
+      "heb": "תִּטְבְּלֵנִי",
       "translit": "titbleni",
       "ref": "Job.9.31",
       "has_suffix": true,
@@ -87,7 +87,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "נִטְבְּלוּ",
+      "heb": "נִטְבְּלוּ",
       "translit": "nitblu",
       "ref": "Josh.3.15",
       "has_suffix": false,

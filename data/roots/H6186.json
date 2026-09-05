@@ -20,7 +20,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "עָרַכְתִּי",
+      "heb": "עָרַכְתִּי",
       "translit": "arakhti",
       "ref": "Job.13.18",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּעַרְכוּ",
+      "heb": "וַיַּֽעַרְכוּ",
       "translit": "vayya'arkhu",
       "ref": "1Chr.19.9",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַֽיַּעֲרֹךְ",
+      "heb": "וַֽיַּעֲרֹךְ",
       "translit": "vayya'arokh",
       "ref": "1Chr.19.10",
       "has_suffix": false,
@@ -67,7 +67,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתַּעֲרֹךְ",
+      "heb": "וַתַּעֲרֹךְ",
       "translit": "vatta'arokh",
       "ref": "1Sam.17.21",
       "has_suffix": false,
@@ -78,7 +78,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הַֽעֹרְכִים",
+      "heb": "הַֽעֹרְכִים",
       "translit": "ha'orkhim",
       "ref": "Isa.65.11",
       "has_suffix": false,
@@ -127,7 +127,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַּעַרְכוּ",
+      "heb": "תַּעַרְכוּ",
       "translit": "ta'arkhu",
       "ref": "Isa.40.18",
       "has_suffix": false,
@@ -163,7 +163,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּעֲרֹךְ",
+      "heb": "תַּעֲרֹךְ",
       "translit": "ta'arokh",
       "ref": "Ps.23.5",
       "has_suffix": false,
@@ -174,7 +174,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְעָרַכְתָּ",
+      "heb": "וְעָרַכְתָּ",
       "translit": "v'arakhta",
       "ref": "Exod.40.4",
       "has_suffix": false,
@@ -215,7 +215,7 @@
       "heb": "עֶרְכָה",
       "translit": "erkhah",
       "ref": "Job.33.5",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      }
     ],
@@ -223,11 +223,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "עֲרֹךְ",
+      "heb": "לַעֲרֹךְ",
       "translit": "arokh",
       "ref": "1Chr.12.37",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
@@ -272,10 +272,10 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַעֲרִיךְ",
+      "heb": "יַעֲרִיכֶנּוּ",
       "translit": "ya'arikh",
       "ref": "Lev.27.8",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],

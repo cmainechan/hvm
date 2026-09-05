@@ -11,7 +11,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְנִבֵּאתִי",
+      "heb": "וְנִבֵּאתִי",
       "translit": "vnibbe'ti",
       "ref": "Ezek.37.7",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "נִבְּאוּ",
+      "heb": "נִבְּאוּ",
       "translit": "nibb'u",
       "ref": "Jer.2.8",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "נִבֵּאתָ",
+      "heb": "נִבֵּאתָ",
       "translit": "nibbe'ta",
       "ref": "Jer.20.6",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "נִבָּא",
+      "heb": "נִבָּא",
       "translit": "nibba",
       "ref": "Jer.25.13",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּנָּבֵא",
+      "heb": "וַיִּנָּבֵא",
       "translit": "vayyinnave",
       "ref": "Jer.26.20",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּנָּבְאוּ",
+      "heb": "וַיִּנָּבְאוּ",
       "translit": "vayyinnav'u",
       "ref": "Jer.28.8",
       "has_suffix": false,
@@ -69,16 +69,16 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "נִבָּא",
+      "heb": "הַנִּבָּא",
       "translit": "nibba",
       "ref": "1Chr.25.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "נִבְּאִים",
+      "heb": "נִבְּאִים",
       "translit": "nibb'im",
       "ref": "1Kgs.22.12",
       "has_suffix": false,
@@ -89,7 +89,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הַֽנִּבְּאִים",
+      "heb": "הַֽנִּבְּאִים",
       "translit": "hannibb'im",
       "ref": "1Chr.25.1",
       "has_suffix": false,
@@ -98,7 +98,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "נִבָּא",
+      "heb": "נִבָּא",
       "translit": "nibba",
       "ref": "Jer.20.1",
       "has_suffix": false,
@@ -109,7 +109,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּנָּבְאֽוּ",
+      "heb": "תִּנָּבְאֽוּ",
       "translit": "tinnav'u",
       "ref": "Amos.2.12",
       "has_suffix": false,
@@ -118,7 +118,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִנָּבֵא",
+      "heb": "יִנָּבֵֽא",
       "translit": "yinnave",
       "ref": "Amos.3.8",
       "has_suffix": false,
@@ -127,7 +127,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִנָּבֵא",
+      "heb": "תִּנָּבֵֽא",
       "translit": "tinnave",
       "ref": "Amos.7.12",
       "has_suffix": false,
@@ -138,7 +138,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְנִבֵּאתָ",
+      "heb": "וְנִבֵּאתָ",
       "translit": "vnibbe'ta",
       "ref": "Ezek.4.7",
       "has_suffix": false,
@@ -147,7 +147,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְנִבְּאוּ",
+      "heb": "וְנִבְּאוּ",
       "translit": "vnibb'u",
       "ref": "Joel.3.1",
       "has_suffix": false,
@@ -158,7 +158,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הִנָּבֵא",
+      "heb": "הִנָּבֵא",
       "translit": "hinnave",
       "ref": "Amos.7.15",
       "has_suffix": false,
@@ -169,7 +169,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְהִנָּבֵא",
+      "heb": "לְהִנָּבֵא",
       "translit": "lhinnave",
       "ref": "Amos.7.13",
       "has_suffix": false,
@@ -185,7 +185,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהִנַּבֵּאתִי",
+      "heb": "וְהִנַּבֵּאתִי",
       "translit": "vhinnabbe'ti",
       "ref": "Ezek.37.10",
       "has_suffix": false,
@@ -194,7 +194,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "הִנַּבְּאוּ",
+      "heb": "הִנַּבְּאוּ",
       "translit": "hinnabb'u",
       "ref": "Jer.23.13",
       "has_suffix": false,
@@ -205,7 +205,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּֽתְנַבְּאוּ",
+      "heb": "וַיִּֽתְנַבְּאוּ",
       "translit": "vayyitnabb'u",
       "ref": "1Kgs.18.29",
       "has_suffix": false,
@@ -214,7 +214,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּתְנַבֵּא",
+      "heb": "וַיִּתְנַבֵּא",
       "translit": "vayyitnabbe",
       "ref": "1Sam.10.10",
       "has_suffix": false,
@@ -225,7 +225,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מִֽתְנַבְּאִים",
+      "heb": "מִֽתְנַבְּאִים",
       "translit": "mitnabb'im",
       "ref": "1Kgs.22.10",
       "has_suffix": false,
@@ -234,7 +234,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מִתְנַבֵּא",
+      "heb": "מִתְנַבֵּא",
       "translit": "mitnabbe",
       "ref": "2Chr.18.7",
       "has_suffix": false,
@@ -243,7 +243,7 @@
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "הַמִּֽתְנַבְּאוֹת",
+      "heb": "הַמִּֽתְנַבְּאוֹת",
       "translit": "hammitnabb'ot",
       "ref": "Ezek.13.17",
       "has_suffix": false,
@@ -254,7 +254,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִתְנַבֵּא",
+      "heb": "יִתְנַבֵּא",
       "translit": "yitnabbe",
       "ref": "1Kgs.22.8",
       "has_suffix": false,
@@ -265,7 +265,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְהִתְנַבִּיתָ",
+      "heb": "וְהִתְנַבִּיתָ",
       "translit": "vhitnabbita",
       "ref": "1Sam.10.6",
       "has_suffix": false,

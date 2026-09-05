@@ -11,7 +11,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "פָּתָר",
+      "heb": "פָּתָר",
       "translit": "patar",
       "ref": "Gen.40.16",
       "has_suffix": false,
@@ -22,7 +22,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּפְתָּר",
+      "heb": "וַיִּפְתָּר",
       "translit": "vayyiftar",
       "ref": "Gen.41.12",
       "has_suffix": false,
@@ -33,18 +33,18 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "פּוֹתֵר",
+      "heb": "וּפֹתֵר",
       "translit": "poter",
       "ref": "Gen.40.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_construct": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לִפְתֹּר",
+      "heb": "לִפְתֹּר",
       "translit": "liftor",
       "ref": "Gen.41.15",
       "has_suffix": false,

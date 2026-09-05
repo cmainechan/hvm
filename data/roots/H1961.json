@@ -47,11 +47,11 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הָיִיתִי",
+      "heb": "וְהָיִיתִי",
       "translit": "hayiti",
       "ref": "1Kgs.22.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2mp",
@@ -74,7 +74,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "הָיִית",
+      "heb": "הָיִֽית",
       "translit": "hayit",
       "ref": "Ezek.16.22",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּהְיוּ",
+      "heb": "וַיִּהְיוּ",
       "translit": "vayyihyu",
       "ref": "1Chr.1.51",
       "has_suffix": false,
@@ -103,7 +103,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתְּהִי",
+      "heb": "וַתְּהִי",
       "translit": "vatthi",
       "ref": "1Chr.2.26",
       "has_suffix": false,
@@ -112,7 +112,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "וַתִּהְיֶינָה",
+      "heb": "וַתִּהְיֶנָה",
       "translit": "vattihyenah",
       "ref": "1Chr.7.15",
       "has_suffix": false,
@@ -121,7 +121,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֱהִי",
+      "heb": "וָֽאֶהְיֶה",
       "translit": "va'ehi",
       "ref": "1Chr.17.5",
       "has_suffix": false,
@@ -130,7 +130,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וַנְּהִי",
+      "heb": "וַנִּהְיֶה",
       "translit": "vannhi",
       "ref": "2Sam.11.23",
       "has_suffix": false,
@@ -139,7 +139,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַתִּהְיוּ",
+      "heb": "וַתִּהְיוּ",
       "translit": "vattihyu",
       "ref": "Amos.4.11",
       "has_suffix": false,
@@ -148,7 +148,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וַתִּהְיִי",
+      "heb": "וַתִּהְיִי",
       "translit": "vattihyi",
       "ref": "Ezek.16.8",
       "has_suffix": false,
@@ -157,7 +157,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתְּהִי",
+      "heb": "וַתְּהִי",
       "translit": "vatthi",
       "ref": "Ps.118.21",
       "has_suffix": false,
@@ -188,7 +188,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּֽהְיֶה",
+      "heb": "תִּהְיֶה",
       "translit": "tihyeh",
       "ref": "1Chr.11.2",
       "has_suffix": false,
@@ -206,7 +206,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶהְיֶה",
+      "heb": "אֶֽהְיֶה",
       "translit": "ehyeh",
       "ref": "1Chr.17.13",
       "has_suffix": false,
@@ -215,7 +215,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּהְיֶה",
+      "heb": "תִֽהְיֶה",
       "translit": "tihyeh",
       "ref": "1Kgs.8.38",
       "has_suffix": false,
@@ -224,7 +224,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּהְיוּ",
+      "heb": "תִּֽהְיוּ",
       "translit": "tihyu",
       "ref": "1Sam.8.17",
       "has_suffix": false,
@@ -242,7 +242,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תִּהְיֶינָה",
+      "heb": "תִהְיֶיןָ",
       "translit": "tihyenah",
       "ref": "Deut.21.15",
       "has_suffix": false,
@@ -354,11 +354,11 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "הֱיוּ",
+      "heb": "וִֽהְיוּ",
       "translit": "heu",
       "ref": "1Sam.4.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2ms",
@@ -383,18 +383,18 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הֱיוֹת",
+      "heb": "לִהְיוֹת",
       "translit": "heot",
       "ref": "1Chr.1.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הָיוֹ",
+      "heb": "הָיֹה",
       "translit": "hayo",
       "ref": "1Kgs.13.32",
       "has_suffix": false,
@@ -405,16 +405,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְהִי",
+      "heb": "וִיהִי",
       "translit": "yhi",
       "ref": "1Chr.14.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְּהִי",
+      "heb": "תְּהִי",
       "translit": "thi",
       "ref": "1Chr.21.17",
       "has_suffix": false,
@@ -423,16 +423,16 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִֽהְיוּ",
+      "heb": "וְיִֽהְיוּ",
       "translit": "yihyu",
       "ref": "1Kgs.8.59",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּֽהְיוּ",
+      "heb": "תִּֽהְיוּ",
       "translit": "tihyu",
       "ref": "2Chr.30.7",
       "has_suffix": false,
@@ -441,7 +441,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְּהִי",
+      "heb": "תְּהִי",
       "translit": "thi",
       "ref": "Eccl.7.16",
       "has_suffix": false,

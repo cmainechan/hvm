@@ -27,7 +27,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְהֵפַרְתָּה",
+      "heb": "וְהֵפַרְתָּה",
       "translit": "vhefartah",
       "ref": "2Sam.15.34",
       "has_suffix": false,
@@ -36,11 +36,11 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הֵפֵר",
+      "heb": "וְהֵפֵר",
       "translit": "hefer",
       "ref": "Ezek.17.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3cp",
@@ -56,7 +56,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיָּפֵרוּ",
+      "heb": "וַיָּפֵרוּ",
       "translit": "vayyaferu",
       "ref": "Ezek.44.7",
       "has_suffix": false,
@@ -65,7 +65,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיָּפֶר",
+      "heb": "וַיָּפֶר",
       "translit": "vayyafer",
       "ref": "Neh.4.9",
       "has_suffix": false,
@@ -105,7 +105,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תָּפֵרוּ",
+      "heb": "תָּפֵרוּ",
       "translit": "taferu",
       "ref": "Jer.33.20",
       "has_suffix": false,
@@ -114,7 +114,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תָּפֵר",
+      "heb": "תָּפֵר",
       "translit": "tafer",
       "ref": "Job.15.4",
       "has_suffix": false,
@@ -145,7 +145,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הָפֵר",
+      "heb": "הָפֵרָה",
       "translit": "hafer",
       "ref": "1Kgs.15.19",
       "has_suffix": false,
@@ -178,7 +178,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תָּפֵר",
+      "heb": "תָּפֵר",
       "translit": "tafer",
       "ref": "Jer.14.21",
       "has_suffix": false,
@@ -194,7 +194,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתֻּפַר",
+      "heb": "וַתֻּפַר",
       "translit": "vattufar",
       "ref": "Zech.11.11",
       "has_suffix": false,
@@ -205,11 +205,11 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תֻפַר",
+      "heb": "וְתֻפָר",
       "translit": "tufar",
       "ref": "Isa.8.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ]
    }

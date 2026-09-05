@@ -29,7 +29,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "רָמוּ",
+      "heb": "רָֽמּוּ",
       "translit": "ramu",
       "ref": "Job.22.12",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיָּרָם",
+      "heb": "וַיָּרֻם",
       "translit": "vayyaram",
       "ref": "Exod.16.20",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתָּרָם",
+      "heb": "וַתָּרָם",
       "translit": "vattaram",
       "ref": "Gen.7.17",
       "has_suffix": false,
@@ -69,16 +69,16 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "רָם",
+      "heb": "וָרָם",
       "translit": "ram",
       "ref": "Deut.1.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "רָמָה",
+      "heb": "רָמָֽה",
       "translit": "ramah",
       "ref": "Exod.14.8",
       "has_suffix": false,
@@ -107,7 +107,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יָרֽוּמוּ",
+      "heb": "יְרֻמֽוּן",
       "translit": "yarumu",
       "ref": "Isa.49.11",
       "has_suffix": false,
@@ -116,7 +116,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תָּרוּם",
+      "heb": "תָּרֹם",
       "translit": "tarum",
       "ref": "Mic.5.8",
       "has_suffix": false,
@@ -150,7 +150,7 @@
       "heb": "רוּמָה",
       "translit": "rumah",
       "ref": "Ps.21.14",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      }
     ],
@@ -203,10 +203,10 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הֲרִימֹתִי",
+      "heb": "הֲרִימֹתִיךָ",
       "translit": "harimoti",
       "ref": "1Kgs.14.7",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -232,7 +232,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיָּרֶם",
+      "heb": "וַיָּרֶם",
       "translit": "vayyarem",
       "ref": "1Kgs.11.26",
       "has_suffix": false,
@@ -241,7 +241,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתָּרֶם",
+      "heb": "וַתָּרֶם",
       "translit": "vattarem",
       "ref": "Ps.92.11",
       "has_suffix": false,
@@ -272,7 +272,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תָּרִימוּ",
+      "heb": "תָּרִימוּ",
       "translit": "tarimu",
       "ref": "Ezek.45.1",
       "has_suffix": false,
@@ -339,7 +339,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הָרֵם",
+      "heb": "הָרֶם",
       "translit": "harem",
       "ref": "2Kgs.6.7",
       "has_suffix": false,
@@ -368,11 +368,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הָרִֽים",
+      "heb": "לְהָרִֽים",
       "translit": "harim",
       "ref": "1Chr.15.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "jussive": [
@@ -388,7 +388,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תָּרִימוּ",
+      "heb": "תָּרִימוּ",
       "translit": "tarimu",
       "ref": "Ps.75.5",
       "has_suffix": false,

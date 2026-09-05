@@ -11,16 +11,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִקְרֶה",
+      "heb": "יִקְּרֵךְ",
       "translit": "yiqreh",
       "ref": "1Sam.28.10",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תִּקְרֶינָה",
+      "heb": "תִּקְרֶינָה",
       "translit": "tiqrenah",
       "ref": "Isa.41.22",
       "has_suffix": false,
@@ -31,7 +31,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "קָרָהוּ",
+      "heb": "קָֽרְךָ",
       "translit": "qarahu",
       "ref": "Deut.25.18",
       "has_suffix": true,
@@ -42,7 +42,7 @@
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "הַקֹּרֹת",
+      "heb": "הַקֹּרֹת",
       "translit": "haqqorot",
       "ref": "Gen.42.29",
       "has_suffix": false,
@@ -57,18 +57,18 @@
       "translit": "vqarahu",
       "ref": "Gen.44.29",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "wayyiqtol": [
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּקֶר",
+      "heb": "וַיִּקֶר",
       "translit": "vayyiqer",
       "ref": "Ruth.2.3",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ]
    }
@@ -138,7 +138,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִקָּרֵה",
+      "heb": "יִקָּרֵה",
       "translit": "yiqqareh",
       "ref": "Num.23.3",
       "has_suffix": false,
@@ -147,7 +147,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אִקָּרֶה",
+      "heb": "אִקָּרֶה",
       "translit": "iqqareh",
       "ref": "Num.23.15",
       "has_suffix": false,
@@ -158,11 +158,11 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּקָּר",
+      "heb": "וַיִּקָּר",
       "translit": "vayyiqqar",
       "ref": "Num.23.4",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ]
    }
@@ -200,7 +200,7 @@
       "translit": "vhiqritem",
       "ref": "Num.35.11",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ]
    }

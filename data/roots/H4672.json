@@ -20,11 +20,11 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "מָצָאתָ",
+      "heb": "הַֽמְצָאתַנִי",
       "translit": "matza'ta",
       "ref": "1Kgs.21.20",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      },
      {
       "code": "1cs",
@@ -38,7 +38,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "מָצְאוּ",
+      "heb": "מָצָאוּ",
       "translit": "matz'u",
       "ref": "1Sam.9.4",
       "has_suffix": false,
@@ -56,10 +56,10 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "מָצְאָה",
+      "heb": "מְצָאָתַם",
       "translit": "matz'ah",
       "ref": "Exod.18.8",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -85,7 +85,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיִּמְצְאוּ",
+      "heb": "וַֽיִּמְצְאוּ",
       "translit": "vayyimtz'u",
       "ref": "1Chr.4.40",
       "has_suffix": false,
@@ -94,16 +94,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּמְצָא",
+      "heb": "וַֽיִּמְצָאָהּ",
       "translit": "vayyimtza",
       "ref": "1Chr.20.2",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּמְצָא",
+      "heb": "וַתִּמְצָא",
       "translit": "vattimtza",
       "ref": "Isa.10.14",
       "has_suffix": false,
@@ -141,7 +141,7 @@
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "הַמֹּצְאוֹת",
+      "heb": "הַמֹּצְאוֹת",
       "translit": "hammotz'ot",
       "ref": "Josh.2.23",
       "has_suffix": false,
@@ -150,7 +150,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הַמֹּצְאִים",
+      "heb": "הַמֹּצְאִים",
       "translit": "hammotz'im",
       "ref": "Num.15.33",
       "has_suffix": false,
@@ -170,16 +170,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִמְצָא",
+      "heb": "יִמְצָאֶֽכָּה",
       "translit": "yimtza",
       "ref": "1Kgs.18.10",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּמְצְאוּ",
+      "heb": "תִּמְצְאוּן",
       "translit": "timtz'u",
       "ref": "1Sam.9.13",
       "has_suffix": false,
@@ -188,7 +188,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּמְצָא",
+      "heb": "תִּמְצָא",
       "translit": "timtza",
       "ref": "1Sam.10.7",
       "has_suffix": false,
@@ -197,16 +197,16 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִמְצְאוּ",
+      "heb": "וְיִמְצְאוּ",
       "translit": "yimtz'u",
       "ref": "1Sam.25.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּמְצָא",
+      "heb": "תִמְצָא",
       "translit": "timtza",
       "ref": "2Kgs.4.29",
       "has_suffix": false,
@@ -244,10 +244,10 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וּמָצְאוּ",
+      "heb": "וּמְצָאוּךָ",
       "translit": "umatz'u",
       "ref": "1Sam.10.3",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -262,10 +262,10 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וּמָצָא",
+      "heb": "וּמְצָאָנוּ",
       "translit": "umatza",
       "ref": "2Kgs.7.9",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -311,11 +311,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "מְצֹא",
+      "heb": "לִמְצֹא",
       "translit": "mtzo",
       "ref": "Eccl.7.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "cohortative": [
@@ -333,7 +333,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּמְצָא",
+      "heb": "תִּמְצָא",
       "translit": "timtza",
       "ref": "1Sam.1.18",
       "has_suffix": false,
@@ -387,7 +387,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּמָּצְאוּ",
+      "heb": "וַיִּמָּצְאוּ",
       "translit": "vayyimmatz'u",
       "ref": "1Chr.24.4",
       "has_suffix": false,
@@ -396,7 +396,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּמָּצֵא",
+      "heb": "וַיִּמָּצֵא",
       "translit": "vayyimmatze",
       "ref": "1Chr.26.31",
       "has_suffix": false,
@@ -405,7 +405,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּמָּצֵא",
+      "heb": "וַתִּמָּצֵא",
       "translit": "vattimmatze",
       "ref": "1Sam.13.22",
       "has_suffix": false,
@@ -416,16 +416,16 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "נִמְצָא",
+      "heb": "וְהַנִּמְצָא",
       "translit": "nimtza",
       "ref": "1Chr.29.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הַנִּמְצְאִים",
+      "heb": "הַנִּמְצְאִים",
       "translit": "hannimtz'im",
       "ref": "1Sam.13.15",
       "has_suffix": false,
@@ -434,7 +434,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "הַנִּמְצָאָֽה",
+      "heb": "הַנִּמְצָאָֽה",
       "translit": "hannimtza'ah",
       "ref": "2Kgs.19.4",
       "has_suffix": false,
@@ -443,7 +443,7 @@
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "הַנִּמְצָאֹת",
+      "heb": "הַנִּמְצָאֹת",
       "translit": "hannimtza'ot",
       "ref": "Gen.19.15",
       "has_suffix": false,
@@ -454,7 +454,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הַנִּמְצָאִֽים",
+      "heb": "הַנִּמְצָאִֽים",
       "translit": "hannimtza'im",
       "ref": "Ezra.8.25",
       "has_suffix": false,
@@ -465,7 +465,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִמָּצֵא",
+      "heb": "יִמָּצֵא",
       "translit": "yimmatze",
       "ref": "1Chr.28.9",
       "has_suffix": false,
@@ -474,7 +474,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִמָּצֵא",
+      "heb": "תִמָּצֵא",
       "translit": "timmatze",
       "ref": "1Kgs.1.52",
       "has_suffix": false,
@@ -483,7 +483,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תִמָּצְאִי",
+      "heb": "תִמָּצְאִי",
       "translit": "timmatz'i",
       "ref": "Ezek.26.21",
       "has_suffix": false,
@@ -492,16 +492,16 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִמָּצְאוּן",
+      "heb": "יִמָּצְאוּן",
       "translit": "yimmatz'un",
       "ref": "Gen.18.29",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      },
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תִמָּצֶאינָה",
+      "heb": "תִמָּצֶאינָה",
       "translit": "timmatze'ynah",
       "ref": "Jer.50.20",
       "has_suffix": false,
@@ -541,7 +541,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בְּהִמָּצְאוֹ",
+      "heb": "בְּהִמָּצְאוֹ",
       "translit": "bhimmatz'o",
       "ref": "Isa.55.6",
       "has_suffix": true,
@@ -552,7 +552,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הִמָּצֵא",
+      "heb": "הִמָּצֵא",
       "translit": "himmatze",
       "ref": "Exod.22.3",
       "has_suffix": false,
@@ -588,7 +588,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּמְצִאוּ",
+      "heb": "וַיַּמְצִאוּ",
       "translit": "vayyamtzi'u",
       "ref": "Lev.9.12",
       "has_suffix": false,
@@ -599,7 +599,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "כְּמוֹצְאֵת",
+      "heb": "כְּמוֹצְאֵת",
       "translit": "kmotz'et",
       "ref": "Song.8.10",
       "has_suffix": false,

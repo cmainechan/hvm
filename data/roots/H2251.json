@@ -11,7 +11,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַחְבֹּט",
+      "heb": "תַחְבֹּט",
       "translit": "tachbot",
       "ref": "Deut.24.20",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַחְבֹּט",
+      "heb": "יַחְבֹּט",
       "translit": "yachbot",
       "ref": "Isa.27.12",
       "has_suffix": false,
@@ -42,11 +42,11 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתַּחְבֹּט",
+      "heb": "וַתַּחְבֹּט",
       "translit": "vattachbot",
       "ref": "Ruth.2.17",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ]
    }

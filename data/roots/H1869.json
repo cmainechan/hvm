@@ -11,7 +11,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "דָּרַךְ",
+      "heb": "דָּֽרַךְ",
       "translit": "darakh",
       "ref": "Deut.1.36",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "דָּרַכְתָּ",
+      "heb": "דָּרַכְתָּ",
       "translit": "darakhta",
       "ref": "Hab.3.15",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "דָּרַכְתִּי",
+      "heb": "דָּרַכְתִּי",
       "translit": "darakhti",
       "ref": "Isa.63.3",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "דָּרְכוּ",
+      "heb": "דָּרְכוּ",
       "translit": "darkhu",
       "ref": "Job.22.15",
       "has_suffix": false,
@@ -47,7 +47,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "דָּרְכָה",
+      "heb": "דָּרְכָה",
       "translit": "darkhah",
       "ref": "Josh.14.9",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיִּדְרְכוּ",
+      "heb": "וַֽיִּדְרְכוּ",
       "translit": "vayyidrkhu",
       "ref": "Judg.9.27",
       "has_suffix": false,
@@ -69,27 +69,27 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "דֹּרֵךְ",
+      "heb": "וְדֹרֵךְ",
       "translit": "dorekh",
       "ref": "Amos.4.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "דֹּֽרְכִֽים",
+      "heb": "כְּדֹרְכִים",
       "translit": "dorkhim",
       "ref": "Jer.25.30",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "participle_passive": [
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "דְּרֻכוֹת",
+      "heb": "דְּרֻכוֹת",
       "translit": "drukhot",
       "ref": "Isa.5.28",
       "has_suffix": false,
@@ -98,7 +98,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "דְּרוּכָה",
+      "heb": "דְּרוּכָה",
       "translit": "drukhah",
       "ref": "Isa.21.15",
       "has_suffix": false,
@@ -118,7 +118,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּדְרֹךְ",
+      "heb": "תִּדְרֹךְ",
       "translit": "tidrokh",
       "ref": "Deut.11.24",
       "has_suffix": false,
@@ -127,7 +127,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּדְרְכוּ",
+      "heb": "תִּדְרְכוּ",
       "translit": "tidrkhu",
       "ref": "Deut.11.25",
       "has_suffix": false,
@@ -163,7 +163,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תִּדְרְכִי",
+      "heb": "תִּדְרְכִי",
       "translit": "tidrkhi",
       "ref": "Judg.5.21",
       "has_suffix": false,
@@ -197,7 +197,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הִדְרַכְתִּיךָ",
+      "heb": "הִדְרַכְתִּיךָ",
       "translit": "hidrakhtikha",
       "ref": "Prov.4.11",
       "has_suffix": true,
@@ -208,7 +208,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיַּדְרְכוּ",
+      "heb": "וַֽיַּדְרְכוּ",
       "translit": "vayyadrkhu",
       "ref": "Jer.9.2",
       "has_suffix": false,
@@ -217,7 +217,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּֽדְרִיכֵם",
+      "heb": "וַיַּֽדְרִיכֵם",
       "translit": "vayyadrikhem",
       "ref": "Ps.107.7",
       "has_suffix": true,
@@ -228,10 +228,10 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַדְרֵךְ",
+      "heb": "יַדְרִכֵנִי",
       "translit": "yadrekh",
       "ref": "Hab.3.19",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {

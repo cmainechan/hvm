@@ -11,7 +11,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "תָּעוּ",
+      "heb": "תָּעוּ",
       "translit": "ta'u",
       "ref": "Ezek.44.10",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "תָּעָה",
+      "heb": "תָּעָה",
       "translit": "ta'ah",
       "ref": "Isa.21.4",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "תָּעִינוּ",
+      "heb": "תָּעִינוּ",
       "translit": "ta'inu",
       "ref": "Isa.53.6",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתֵּתַע",
+      "heb": "וַתֵּתַע",
       "translit": "vatteta",
       "ref": "Gen.21.14",
       "has_suffix": false,
@@ -60,7 +60,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "תֹּעֶה",
+      "heb": "תֹּעֶה",
       "translit": "to'eh",
       "ref": "Exod.23.4",
       "has_suffix": false,
@@ -82,7 +82,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בִּתְעוֹת",
+      "heb": "בִּתְעוֹת",
       "translit": "bit'ot",
       "ref": "Ezek.44.10",
       "has_suffix": false,
@@ -93,7 +93,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תֵּתַע",
+      "heb": "תֵּתַע",
       "translit": "teta",
       "ref": "Prov.7.25",
       "has_suffix": false,
@@ -120,7 +120,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "כְּהִתָּעוֹת",
+      "heb": "כְּהִתָּעוֹת",
       "translit": "khitta'ot",
       "ref": "Isa.19.14",
       "has_suffix": false,
@@ -165,7 +165,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיֶּתַע",
+      "heb": "וַיֶּתַע",
       "translit": "vayyeta",
       "ref": "2Chr.33.9",
       "has_suffix": false,
@@ -174,10 +174,10 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּתְעוּ",
+      "heb": "וַיַּתְעוּם",
       "translit": "vayyat'u",
       "ref": "Amos.2.4",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -214,7 +214,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תַּתְעֵֽם",
+      "heb": "תַּתְעֵֽם",
       "translit": "tat'em",
       "ref": "Prov.12.26",
       "has_suffix": true,

@@ -51,7 +51,7 @@
       "translit": "vaymarru",
       "ref": "Exod.1.14",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "yiqtol": [
@@ -74,7 +74,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּמֵּר",
+      "heb": "תַּמֵּר",
       "translit": "tammer",
       "ref": "Exod.23.21",
       "has_suffix": false,
@@ -107,7 +107,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "כְּהָמֵר",
+      "heb": "כְּהָמֵר",
       "translit": "khamer",
       "ref": "Zech.12.10",
       "has_suffix": false,

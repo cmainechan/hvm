@@ -22,7 +22,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּֽחַר",
+      "heb": "וַיִּֽחַר",
       "translit": "vayyichar",
       "ref": "1Chr.13.10",
       "has_suffix": false,
@@ -33,7 +33,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יֶחֱרֶה",
+      "heb": "יֶֽחֱרֶה",
       "translit": "yechereh",
       "ref": "1Sam.20.7",
       "has_suffix": false,
@@ -77,11 +77,11 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִחַר",
+      "heb": "וְיִֽחַר",
       "translit": "yichar",
       "ref": "Exod.32.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ]
    }
@@ -93,7 +93,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הַנֶּחֱרִים",
+      "heb": "הַנֶּחֱרִים",
       "translit": "hannecherim",
       "ref": "Isa.41.11",
       "has_suffix": false,
@@ -120,7 +120,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּחַר",
+      "heb": "וַיַּחַר",
       "translit": "vayyachar",
       "ref": "Job.19.11",
       "has_suffix": false,
@@ -136,7 +136,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּתְחַר",
+      "heb": "תִּתְחַר",
       "translit": "titchar",
       "ref": "Prov.24.19",
       "has_suffix": false,

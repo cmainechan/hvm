@@ -11,7 +11,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "שָׁתִיתִי",
+      "heb": "שָׁתִיתִי",
       "translit": "shatiti",
       "ref": "1Sam.1.15",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "שָׁתָה",
+      "heb": "שָׁתָה",
       "translit": "shatah",
       "ref": "1Sam.30.12",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "שְׁתִיתֶם",
+      "heb": "שְׁתִיתֶם",
       "translit": "shtitem",
       "ref": "Deut.29.5",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "שָׁתִית",
+      "heb": "שָׁתִית",
       "translit": "shatit",
       "ref": "Isa.51.17",
       "has_suffix": false,
@@ -47,7 +47,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "שָׁתוּ",
+      "heb": "שָׁתוּ",
       "translit": "shatu",
       "ref": "Jer.35.14",
       "has_suffix": false,
@@ -56,7 +56,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "שָׁתִינוּ",
+      "heb": "שָׁתִינוּ",
       "translit": "shatinu",
       "ref": "Lam.5.4",
       "has_suffix": false,
@@ -67,7 +67,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּשְׁתּוּ",
+      "heb": "וַיִּשְׁתּוּ",
       "translit": "vayyishtu",
       "ref": "1Chr.29.22",
       "has_suffix": false,
@@ -76,7 +76,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיֵּשְׁתְּ",
+      "heb": "וַיֵּשְׁתְּ",
       "translit": "vayyesht",
       "ref": "1Kgs.13.19",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתֵּשְׁתְּ",
+      "heb": "וַתֵּשְׁתְּ",
       "translit": "vattesht",
       "ref": "1Kgs.13.22",
       "has_suffix": false,
@@ -94,7 +94,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֵשְׁתְּ",
+      "heb": "וָאֵשְׁתְּ",
       "translit": "va'esht",
       "ref": "Gen.24.46",
       "has_suffix": false,
@@ -103,7 +103,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתֵּשְׁתְּ",
+      "heb": "וַתֵּשְׁתְּ",
       "translit": "vattesht",
       "ref": "Num.20.11",
       "has_suffix": false,
@@ -114,7 +114,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "וְשֹׁתִים",
+      "heb": "וְשׁוֹתִים",
       "translit": "vshotim",
       "ref": "1Chr.12.40",
       "has_suffix": false,
@@ -123,7 +123,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "שֹׁתֶה",
+      "heb": "שֹׁתֶה",
       "translit": "shoteh",
       "ref": "1Kgs.16.9",
       "has_suffix": false,
@@ -132,7 +132,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "שֹׁתָה",
+      "heb": "שֹׁתָה",
       "translit": "shotah",
       "ref": "Job.6.4",
       "has_suffix": false,
@@ -143,7 +143,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶשְׁתֶּה",
+      "heb": "אֶשְׁתֶּה",
       "translit": "eshteh",
       "ref": "1Chr.11.19",
       "has_suffix": false,
@@ -152,7 +152,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִשְׁתֶּה",
+      "heb": "תִשְׁתֶּה",
       "translit": "tishteh",
       "ref": "1Kgs.13.9",
       "has_suffix": false,
@@ -161,16 +161,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִשְׁתֶּה",
+      "heb": "וְיֵשְׁתְּ",
       "translit": "yishteh",
       "ref": "1Kgs.13.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִשְׁתֶּה",
+      "heb": "תִשְׁתֶּה",
       "translit": "tishteh",
       "ref": "2Sam.12.3",
       "has_suffix": false,
@@ -179,7 +179,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִשְׁתּוּ",
+      "heb": "יִשְׁתּוּ",
       "translit": "yishtu",
       "ref": "Amos.2.8",
       "has_suffix": false,
@@ -188,16 +188,16 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נִשְׁתֶּה",
+      "heb": "וְנִשְׁתֶּֽה",
       "translit": "nishteh",
       "ref": "Amos.4.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִשְׁתּוּ",
+      "heb": "תִשְׁתּוּ",
       "translit": "tishtu",
       "ref": "Amos.5.11",
       "has_suffix": false,
@@ -206,7 +206,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תִּשְׁתִּי",
+      "heb": "תִּשְׁתִּי",
       "translit": "tishti",
       "ref": "Ezek.23.32",
       "has_suffix": false,
@@ -215,7 +215,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תִּשְׁתֶּֽינָה",
+      "heb": "תִּשְׁתֶּֽינָה",
       "translit": "tishtenah",
       "ref": "Ezek.34.19",
       "has_suffix": false,
@@ -226,7 +226,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וּשְׁתִיתֶם",
+      "heb": "וּשְׁתִיתֶם",
       "translit": "ushtitem",
       "ref": "2Kgs.3.17",
       "has_suffix": false,
@@ -235,7 +235,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְשָׁתוּ",
+      "heb": "וְשָׁתוּ",
       "translit": "vshatu",
       "ref": "Amos.9.14",
       "has_suffix": false,
@@ -244,7 +244,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְשָׁתִיתִי",
+      "heb": "וְשָׁתִיתִי",
       "translit": "vshatiti",
       "ref": "Deut.2.28",
       "has_suffix": false,
@@ -253,7 +253,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְשָׁתָה",
+      "heb": "וְשָׁתָה",
       "translit": "vshatah",
       "ref": "Eccl.2.24",
       "has_suffix": false,
@@ -262,7 +262,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וְשָׁתִית",
+      "heb": "וְשָׁתִית",
       "translit": "vshatit",
       "ref": "Ezek.23.34",
       "has_suffix": false,
@@ -273,38 +273,38 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "שְׁתֵה",
+      "heb": "וּשְׁתֵה",
       "translit": "shteh",
       "ref": "1Kgs.18.41",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "שְׁתוּ",
+      "heb": "וּשְׁתוּ",
       "translit": "shtu",
       "ref": "2Kgs.18.31",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_construct": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "שְׁתֽוֹת",
+      "heb": "לִשְׁתּוֹתָם",
       "translit": "shtot",
       "ref": "1Chr.11.18",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "שָׁתֹה",
+      "heb": "שָׁתֹה",
       "translit": "shatoh",
       "ref": "1Sam.1.9",
       "has_suffix": false,
@@ -315,7 +315,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְאֶשְׁתֶּֽה",
+      "heb": "וְאֶשְׁתֶּֽה",
       "translit": "v'eshteh",
       "ref": "1Kgs.17.10",
       "has_suffix": false,
@@ -324,7 +324,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וְנִשְׁתֶּֽה",
+      "heb": "וְנִשְׁתֶּֽה",
       "translit": "vnishteh",
       "ref": "Dan.1.12",
       "has_suffix": false,
@@ -335,7 +335,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "תֵּשְׁתְּ",
+      "heb": "תֵּשְׁתְּ",
       "translit": "tesht",
       "ref": "1Kgs.13.22",
       "has_suffix": false,
@@ -344,16 +344,16 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִשְׁתּֽוּ",
+      "heb": "וְיִשְׁתּוּ",
       "translit": "yishtu",
       "ref": "2Kgs.6.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּשְׁתּוּ",
+      "heb": "תִּשְׁתּוּ",
       "translit": "tishtu",
       "ref": "Esth.4.16",
       "has_suffix": false,
@@ -362,7 +362,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תִּשְׁתִּי",
+      "heb": "תִּשְׁתִּי",
       "translit": "tishti",
       "ref": "Judg.13.4",
       "has_suffix": false,
@@ -371,7 +371,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תֵּשְׁתְּ",
+      "heb": "תֵּשְׁתְּ",
       "translit": "tesht",
       "ref": "Judg.13.14",
       "has_suffix": false,
@@ -380,7 +380,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תֵּשְׁתְּ",
+      "heb": "תֵּשְׁתְּ",
       "translit": "tesht",
       "ref": "Lev.10.9",
       "has_suffix": false,
@@ -396,7 +396,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִשָּׁתֶה",
+      "heb": "יִשָּׁתֶה",
       "translit": "yishshateh",
       "ref": "Lev.11.34",
       "has_suffix": false,

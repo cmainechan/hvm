@@ -20,7 +20,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "נָצָֽרְתִּי",
+      "heb": "נָצָֽרְתִּי",
       "translit": "natzarti",
       "ref": "Ps.119.22",
       "has_suffix": false,
@@ -60,7 +60,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "וְהַנָּצוּר",
+      "heb": "וְהַנָּצוּר",
       "translit": "vhannatzur",
       "ref": "Ezek.6.12",
       "has_suffix": false,
@@ -89,7 +89,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִצְּרֶנְהוּ",
+      "heb": "יִצְּרֶנְהוּ",
       "translit": "yitztzrenhu",
       "ref": "Deut.32.10",
       "has_suffix": true,
@@ -107,7 +107,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּצֹּר",
+      "heb": "תִּצֹּר",
       "translit": "titztzor",
       "ref": "Isa.26.3",
       "has_suffix": false,
@@ -116,19 +116,19 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֱצֹּר",
+      "heb": "אֶצֳּרֶֽנָּה",
       "translit": "etztzor",
       "ref": "Isa.27.3",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּצֹּר",
+      "heb": "תִנְצְרֶֽכָּה",
       "translit": "titztzor",
       "ref": "Prov.2.11",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -169,18 +169,18 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶצֹּֽרָה",
+      "heb": "וְאֶצְּרָה",
       "translit": "etztzorah",
       "ref": "Ps.119.34",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "jussive": [
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִצֹּר",
+      "heb": "יִצֹּר",
       "translit": "yitztzor",
       "ref": "Prov.3.1",
       "has_suffix": false,
@@ -189,7 +189,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תִּצֹּֽרְנָה",
+      "heb": "תִּצֹּֽרְנָה",
       "translit": "titztzornah",
       "ref": "Prov.23.26",
       "has_suffix": false,

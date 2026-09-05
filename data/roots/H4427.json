@@ -29,7 +29,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "מָלַכְתָּ",
+      "heb": "מָלַכְתָּ",
       "translit": "malakhta",
       "ref": "2Sam.16.8",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּמְלֹךְ",
+      "heb": "וַיִּמְלֹךְ",
       "translit": "vayyimlokh",
       "ref": "1Chr.1.44",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיִּמְלְכוּ",
+      "heb": "וַֽיִּמְלְכוּ",
       "translit": "vayyimlkhu",
       "ref": "1Kgs.11.24",
       "has_suffix": false,
@@ -69,11 +69,11 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מֹלֵךְ",
+      "heb": "הַמֹּלֵךְ",
       "translit": "molekh",
       "ref": "Esth.1.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "yiqtol": [
@@ -98,7 +98,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּמְלֹךְ",
+      "heb": "תִּמְלֹךְ",
       "translit": "timlokh",
       "ref": "1Sam.23.17",
       "has_suffix": false,
@@ -118,7 +118,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וּמָלַכְתָּ",
+      "heb": "וּמָלַכְתָּ",
       "translit": "umalakhta",
       "ref": "1Kgs.11.37",
       "has_suffix": false,
@@ -138,7 +138,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "מְלָךְ",
+      "heb": "מָלְכָה",
       "translit": "mlakh",
       "ref": "Judg.9.8",
       "has_suffix": false,
@@ -180,7 +180,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּמְלֹךְ",
+      "heb": "תִּמְלֹךְ",
       "translit": "timlokh",
       "ref": "Esth.2.4",
       "has_suffix": false,
@@ -196,7 +196,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּמָּלֵךְ",
+      "heb": "וַיִּמָּלֵךְ",
       "translit": "vayyimmalekh",
       "ref": "Neh.5.7",
       "has_suffix": false,
@@ -221,7 +221,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הִמְלַכְתָּ",
+      "heb": "הִמְלַכְתָּ",
       "translit": "himlakhta",
       "ref": "1Kgs.3.7",
       "has_suffix": false,
@@ -230,7 +230,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הִמְלַכְתִּי",
+      "heb": "הִמְלַכְתִּי",
       "translit": "himlakhti",
       "ref": "1Sam.15.11",
       "has_suffix": false,
@@ -250,7 +250,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּמְלֵךְ",
+      "heb": "וַיַּמְלֵךְ",
       "translit": "vayyamlekh",
       "ref": "1Chr.23.1",
       "has_suffix": false,
@@ -259,7 +259,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּמְלִיכוּ",
+      "heb": "וַיַּמְלִיכוּ",
       "translit": "vayyamlikhu",
       "ref": "1Chr.29.22",
       "has_suffix": false,
@@ -277,7 +277,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַתַּמְלִיכוּ",
+      "heb": "וַתַּמְלִיכוּ",
       "translit": "vattamlikhu",
       "ref": "Judg.9.16",
       "has_suffix": false,
@@ -288,7 +288,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "הַמַּמְלִיךְ",
+      "heb": "הַמַּמְלִיךְ",
       "translit": "hammamlikh",
       "ref": "Ezek.17.16",
       "has_suffix": false,
@@ -310,7 +310,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְהִמְלַכְתָּ",
+      "heb": "וְהִמְלַכְתָּ",
       "translit": "vhimlakhta",
       "ref": "1Sam.8.22",
       "has_suffix": false,
@@ -321,10 +321,10 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְהַמְלִיךְ",
+      "heb": "לְהַמְלִיכוֹ",
       "translit": "lhamlikh",
       "ref": "1Chr.11.10",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": true
      }
     ]

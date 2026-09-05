@@ -3,6 +3,12 @@
   "go"
  ],
  "strong": "H1980",
+ "strong_alt": [
+  "H3212"
+ ],
+ "notes": [
+  "Prefixed conjugations (wayyiqtol, yiqtol, imperative, jussive, cohortative) are supplied by the suppletive root יָלַךְ (H3212), not H1980 -- this is standard Biblical Hebrew suppletion, not a data error. Perfect, participle, and infinitives come from H1980 itself."
+ ],
  "stems": {
   "qal": {
    "sense_hint": "simple",
@@ -29,7 +35,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הָלַכְתָּ",
+      "heb": "הָלַכְתָּ",
       "translit": "halakhta",
       "ref": "1Chr.17.8",
       "has_suffix": false,
@@ -47,7 +53,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "הֲלַכְתֶּם",
+      "heb": "הֲלַכְתֶּם",
       "translit": "halakhtem",
       "ref": "1Sam.10.14",
       "has_suffix": false,
@@ -56,7 +62,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "הָלָכְתְּ",
+      "heb": "הָלַכְתְּ",
       "translit": "halakht",
       "ref": "Ezek.16.47",
       "has_suffix": false,
@@ -65,7 +71,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הָלַכְתִּי",
+      "heb": "הָלָֽכְתִּי",
       "translit": "halakhti",
       "ref": "Gen.35.3",
       "has_suffix": false,
@@ -85,7 +91,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתֵּלֶךְ",
+      "heb": "וַתֵּלֶךְ",
       "translit": "vattelekh",
       "ref": "1Kgs.10.13",
       "has_suffix": false,
@@ -94,7 +100,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיֵּלֶךְ",
+      "heb": "וַיֵּלֶךְ",
       "translit": "vayyelekh",
       "ref": "1Chr.11.4",
       "has_suffix": false,
@@ -103,7 +109,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיֵּלְכוּ",
+      "heb": "וַיֵּלְכוּ",
       "translit": "vayyelkhu",
       "ref": "1Chr.4.39",
       "has_suffix": false,
@@ -112,7 +118,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתֵּלֶךְ",
+      "heb": "וַתֵּלֶךְ",
       "translit": "vattelekh",
       "ref": "1Kgs.14.9",
       "has_suffix": false,
@@ -130,7 +136,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וַנֵּלֶךְ",
+      "heb": "וַנֵּלֶךְ",
       "translit": "vannelekh",
       "ref": "Deut.1.19",
       "has_suffix": false,
@@ -139,7 +145,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "וַתֵּלַכְנָה",
+      "heb": "וַתֵּלַכְנָה",
       "translit": "vattelakhnah",
       "ref": "Gen.24.61",
       "has_suffix": false,
@@ -148,7 +154,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַתֵּלְכוּ",
+      "heb": "וַתֵּלְכוּ",
       "translit": "vattelkhu",
       "ref": "Judg.18.24",
       "has_suffix": false,
@@ -157,7 +163,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וַתֵּלְכִי",
+      "heb": "וַתֵּלְכִי",
       "translit": "vattelkhi",
       "ref": "Ruth.2.11",
       "has_suffix": false,
@@ -168,11 +174,11 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הֹלְכִים",
+      "heb": "הַהֹֽלְכִים",
       "translit": "holkhim",
       "ref": "1Chr.15.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "ms",
@@ -186,11 +192,11 @@
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "הֹלְכוֹת",
+      "heb": "הַהֹלְכוֹת",
       "translit": "holkhot",
       "ref": "1Sam.25.42",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "fs",
@@ -224,7 +230,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יֵלְכוּ",
+      "heb": "יֵֽלְכוּ",
       "translit": "yelkhu",
       "ref": "1Kgs.8.36",
       "has_suffix": false,
@@ -233,7 +239,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תֵּלֶךְ",
+      "heb": "תֵלֵךְ",
       "translit": "telekh",
       "ref": "Gen.24.39",
       "has_suffix": false,
@@ -242,7 +248,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תֵּלֵךְ",
+      "heb": "תֵּלֵךְ",
       "translit": "telekh",
       "ref": "1Kgs.3.14",
       "has_suffix": false,
@@ -251,16 +257,16 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נֵלֵךְ",
+      "heb": "הֲנֵלֵךְ",
       "translit": "nelekh",
       "ref": "1Kgs.22.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תֵּֽלְכוּ",
+      "heb": "תֵּֽלְכוּ",
       "translit": "telkhu",
       "ref": "Deut.1.33",
       "has_suffix": false,
@@ -269,7 +275,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תֵּלַכְנָה",
+      "heb": "תֵּלַכְנָה",
       "translit": "telakhnah",
       "ref": "Ezek.7.17",
       "has_suffix": false,
@@ -278,7 +284,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תֵּלְכִי",
+      "heb": "תֵלֵכִי",
       "translit": "telkhi",
       "ref": "Gen.16.8",
       "has_suffix": false,
@@ -298,7 +304,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְהָלַכְתָּ",
+      "heb": "וְהָֽלַכְתָּ",
       "translit": "vhalakhta",
       "ref": "1Kgs.2.42",
       "has_suffix": false,
@@ -307,7 +313,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַהֲלַכְתֶּם",
+      "heb": "וַהֲלַכְתֶּם",
       "translit": "vahalakhtem",
       "ref": "1Kgs.9.6",
       "has_suffix": false,
@@ -316,7 +322,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וְהָלַכְתְּ",
+      "heb": "וְהָלַכְתְּ",
       "translit": "vhalakht",
       "ref": "1Kgs.14.2",
       "has_suffix": false,
@@ -334,7 +340,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְהָלַךְ",
+      "heb": "וְהָלָֽךְ",
       "translit": "vhalakh",
       "ref": "1Sam.6.8",
       "has_suffix": false,
@@ -343,7 +349,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהָלַכְתִּי",
+      "heb": "וְהָלַכְתִּי",
       "translit": "vhalakhti",
       "ref": "1Sam.23.23",
       "has_suffix": false,
@@ -410,11 +416,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לֶכֶת",
+      "heb": "בְּלֶכְתּוֹ",
       "translit": "lekhet",
       "ref": "1Chr.12.21",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
@@ -432,16 +438,16 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֵלֲכָה",
+      "heb": "וְאֵלֵךְ",
       "translit": "elakhah",
       "ref": "1Kgs.11.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נֵלְכָה",
+      "heb": "נֵלֲכָה",
       "translit": "nelkhah",
       "ref": "1Sam.9.6",
       "has_suffix": false,
@@ -452,7 +458,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תֵּלְכוּ",
+      "heb": "תֵּלֵֽכוּ",
       "translit": "telkhu",
       "ref": "2Kgs.2.18",
       "has_suffix": false,
@@ -479,7 +485,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תֵּלֵךְ",
+      "heb": "תֵּלֵךְ",
       "translit": "telekh",
       "ref": "Jer.16.5",
       "has_suffix": false,
@@ -488,7 +494,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תֵּלְכִי",
+      "heb": "תֵּלְכִי",
       "translit": "telkhi",
       "ref": "Ruth.2.8",
       "has_suffix": false,
@@ -504,7 +510,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "נֶהֱלָכְתִּי",
+      "heb": "נֶהֱלָכְתִּי",
       "translit": "nehelakhti",
       "ref": "Ps.109.23",
       "has_suffix": false,
@@ -520,7 +526,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "הִלְּכוּ",
+      "heb": "הִלְּכוּ",
       "translit": "hillkhu",
       "ref": "Job.24.10",
       "has_suffix": false,
@@ -529,7 +535,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הִלַּכְתִּי",
+      "heb": "הִלַּכְתִּי",
       "translit": "hillakhti",
       "ref": "Job.30.28",
       "has_suffix": false,
@@ -540,7 +546,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיְהַלֵּךְ",
+      "heb": "וַיְהַלֵּךְ",
       "translit": "vayhallekh",
       "ref": "1Kgs.21.27",
       "has_suffix": false,
@@ -551,7 +557,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הַֽמְהַלְּכִים",
+      "heb": "הַֽמְהַלְּכִים",
       "translit": "hamhallkhim",
       "ref": "Eccl.4.15",
       "has_suffix": false,
@@ -560,7 +566,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "הַֽמְהַלֵּךְ",
+      "heb": "הַֽמְהַלֵּךְ",
       "translit": "hamhallekh",
       "ref": "Ps.104.3",
       "has_suffix": false,
@@ -571,7 +577,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "כִמְהַלֵּךְ",
+      "heb": "כִמְהַלֵּךְ",
       "translit": "khimhallekh",
       "ref": "Prov.6.11",
       "has_suffix": false,
@@ -582,7 +588,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יְהַלֵּכוּ",
+      "heb": "יְהַלֵּכוּ",
       "translit": "yhallekhu",
       "ref": "Eccl.8.10",
       "has_suffix": false,
@@ -591,7 +597,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְהַלֵּךְ",
+      "heb": "יְהַלֵּךְ",
       "translit": "yhallekh",
       "ref": "Ezek.18.9",
       "has_suffix": false,
@@ -600,7 +606,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נְהַלֵּֽךְ",
+      "heb": "נְהַלֵּֽךְ",
       "translit": "nhallekh",
       "ref": "Isa.59.9",
       "has_suffix": false,
@@ -609,7 +615,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֲהַלֵּךְ",
+      "heb": "אֲהַלֵּך",
       "translit": "ahallekh",
       "ref": "Prov.8.20",
       "has_suffix": false,
@@ -620,7 +626,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְהַלֵּךְ",
+      "heb": "וְהַלֵּךְ",
       "translit": "vhallekh",
       "ref": "Eccl.11.9",
       "has_suffix": false,
@@ -647,7 +653,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיֹּלִכוּ",
+      "heb": "וַיֹּלִכוּ",
       "translit": "vayyolikhu",
       "ref": "1Kgs.1.38",
       "has_suffix": false,
@@ -656,7 +662,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיֹּלֶךְ",
+      "heb": "וַיֹּלֶךְ",
       "translit": "vayyolekh",
       "ref": "2Kgs.6.19",
       "has_suffix": false,
@@ -716,7 +722,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהוֹלַכְתִּי",
+      "heb": "וְהוֹלַכְתִּי",
       "translit": "vholakhti",
       "ref": "Ezek.36.12",
       "has_suffix": false,
@@ -783,7 +789,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הִתְהַלַּכְתִּי",
+      "heb": "הִתְהַלַּכְתִּי",
       "translit": "hithallakhti",
       "ref": "1Chr.17.6",
       "has_suffix": false,
@@ -792,7 +798,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "הִתְהַלַּכְנוּ",
+      "heb": "הִתְהַלַּכְנוּ",
       "translit": "hithallakhnu",
       "ref": "1Sam.25.15",
       "has_suffix": false,
@@ -801,7 +807,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הִתְהַלֶּךְ",
+      "heb": "הִתְהַלֶּךְ",
       "translit": "hithallekh",
       "ref": "1Sam.30.31",
       "has_suffix": false,
@@ -810,7 +816,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הִתְהַלָּֽכְתָּ",
+      "heb": "הִתְהַלָּֽכְתָּ",
       "translit": "hithallakhta",
       "ref": "Ezek.28.14",
       "has_suffix": false,
@@ -819,7 +825,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "הִתְהַלְּכוּ",
+      "heb": "הִתְהַלְּכוּ",
       "translit": "hithallkhu",
       "ref": "Gen.48.15",
       "has_suffix": false,
@@ -830,7 +836,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּֽתְהַלְּכוּ",
+      "heb": "וַיִּֽתְהַלְּכוּ",
       "translit": "vayyithallkhu",
       "ref": "1Chr.16.20",
       "has_suffix": false,
@@ -839,7 +845,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּתְהַלֵּךְ",
+      "heb": "וַיִּתְהַלֵּךְ",
       "translit": "vayyithallekh",
       "ref": "1Chr.21.4",
       "has_suffix": false,
@@ -848,7 +854,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "וַתִּתְהַלַּכְנָה",
+      "heb": "וַתִּתְהַלַּכְנָה",
       "translit": "vattithallakhnah",
       "ref": "Zech.6.7",
       "has_suffix": false,
@@ -859,7 +865,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מִתְהַלֵּךְ",
+      "heb": "מִתְהַלֵּךְ",
       "translit": "mithallekh",
       "ref": "1Sam.12.2",
       "has_suffix": false,
@@ -868,7 +874,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הַמִּֽתְהַלְּכִים",
+      "heb": "הַמִּֽתְהַלְּכִים",
       "translit": "hammithallkhim",
       "ref": "1Sam.25.27",
       "has_suffix": false,
@@ -877,7 +883,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "מִתְהַלֶּכֶת",
+      "heb": "מִתְהַלֶּכֶת",
       "translit": "mithallekhet",
       "ref": "Ezek.1.13",
       "has_suffix": false,
@@ -888,7 +894,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִתְהַלָּכוּ",
+      "heb": "יִתְהַלְּכוּ",
       "translit": "yithallakhu",
       "ref": "1Sam.2.30",
       "has_suffix": false,
@@ -897,7 +903,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִתְהַלָּֽךְ",
+      "heb": "יִתְהַלָּֽךְ",
       "translit": "yithallakh",
       "ref": "Job.18.8",
       "has_suffix": false,
@@ -906,7 +912,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶתְהַלֵּךְ",
+      "heb": "אֶתְהַלֵּךְ",
       "translit": "ethallekh",
       "ref": "Ps.43.2",
       "has_suffix": false,
@@ -917,7 +923,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְהִתְהַלֵּךְ",
+      "heb": "וְהִתְהַלֵּךְ",
       "translit": "vhithallekh",
       "ref": "1Sam.2.35",
       "has_suffix": false,
@@ -926,7 +932,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהִתְהַלַּכְתִּי",
+      "heb": "וְהִתְהַלַּכְתִּי",
       "translit": "vhithallakhti",
       "ref": "Lev.26.12",
       "has_suffix": false,
@@ -937,7 +943,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הִתְהַלֵּךְ",
+      "heb": "הִתְהַלֵּךְ",
       "translit": "hithallekh",
       "ref": "Gen.13.17",
       "has_suffix": false,
@@ -946,18 +952,18 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "הִתְהַלְּכוּ",
+      "heb": "וְהִתְהַלְּכוּ",
       "translit": "hithallkhu",
       "ref": "Josh.18.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_construct": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "וּמֵֽהִתְהַלֵּךְ",
+      "heb": "וּמֵֽהִתְהַלֵּךְ",
       "translit": "umehithallekh",
       "ref": "Job.1.7",
       "has_suffix": false,
@@ -968,7 +974,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְאֶתְהַלְּכָה",
+      "heb": "וְאֶתְהַלְּכָה",
       "translit": "v'ethallkhah",
       "ref": "Ps.119.45",
       "has_suffix": false,

@@ -11,7 +11,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "פָּעַל",
+      "heb": "פָּעַל",
       "translit": "pa'al",
       "ref": "Deut.32.27",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "פָּעַלְתָּ",
+      "heb": "פָּעַלְתָּ",
       "translit": "pa'alta",
       "ref": "Exod.15.17",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "פָּעַלְתִּי",
+      "heb": "פָּעַלְתִּי",
       "translit": "pa'alti",
       "ref": "Job.34.32",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּפְעָלֵהוּ",
+      "heb": "וַיִּפְעָלֵהוּ",
       "translit": "vayyif'alehu",
       "ref": "Isa.44.12",
       "has_suffix": true,
@@ -60,7 +60,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "פֹּעֵל",
+      "heb": "פֹּעֵל",
       "translit": "po'el",
       "ref": "Hab.1.5",
       "has_suffix": false,
@@ -89,7 +89,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּפְעָל",
+      "heb": "תִּפְעָל",
       "translit": "tif'al",
       "ref": "Job.11.8",
       "has_suffix": false,
@@ -98,10 +98,10 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּפְעָלוּן",
+      "heb": "תִּפְעָלוּן",
       "translit": "tif'alun",
       "ref": "Ps.58.3",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      }
     ]

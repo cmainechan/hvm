@@ -22,7 +22,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּרְעוּ",
+      "heb": "וַיִּרְעוּ",
       "translit": "vayyir'u",
       "ref": "Ezek.34.8",
       "has_suffix": false,
@@ -31,7 +31,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "וַתִּרְעֶינָה",
+      "heb": "וַתִּרְעֶינָה",
       "translit": "vattir'enah",
       "ref": "Gen.41.2",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּרְעֵם",
+      "heb": "וַיִּרְעֵם",
       "translit": "vayyir'em",
       "ref": "Ps.78.72",
       "has_suffix": true,
@@ -60,11 +60,11 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "רֹעִים",
+      "heb": "הָרֹעִים",
       "translit": "ro'im",
       "ref": "1Chr.27.29",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "ms",
@@ -134,7 +134,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תִּרְעֶינָה",
+      "heb": "תִּרְעֶינָה",
       "translit": "tir'enah",
       "ref": "Ezek.34.14",
       "has_suffix": false,
@@ -152,7 +152,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּרְעֶה",
+      "heb": "תִּרְעֶה",
       "translit": "tir'eh",
       "ref": "Jer.22.22",
       "has_suffix": false,
@@ -264,7 +264,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּתְרַע",
+      "heb": "תִּתְרַע",
       "translit": "titra",
       "ref": "Prov.22.24",
       "has_suffix": false,

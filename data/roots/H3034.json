@@ -27,7 +27,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּדּוּ",
+      "heb": "וַיַּדּוּ",
       "translit": "vayyaddu",
       "ref": "Lam.3.53",
       "has_suffix": false,
@@ -85,25 +85,25 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אוֹדֶה",
+      "heb": "אוֹדְךָ",
       "translit": "odeh",
       "ref": "2Sam.22.50",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יוֹדוּ",
+      "heb": "יוֹדוּךָ",
       "translit": "yodu",
       "ref": "Gen.49.8",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תּוֹדֶךָּ",
+      "heb": "תּוֹדֶךָּ",
       "translit": "todekka",
       "ref": "Isa.38.18",
       "has_suffix": true,
@@ -112,10 +112,10 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְהוֹדֶה",
+      "heb": "יוֹדֶךָ",
       "translit": "yhodeh",
       "ref": "Isa.38.19",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -154,11 +154,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הֹדוֹת",
+      "heb": "וּלְהוֹדוֹת",
       "translit": "hodot",
       "ref": "1Chr.16.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "cohortative": [
@@ -192,7 +192,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְהִתְוַדָּה",
+      "heb": "וְהִתְוַדָּה",
       "translit": "vhitvaddah",
       "ref": "Lev.16.21",
       "has_suffix": false,
@@ -203,7 +203,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֶתְוַדֶּה",
+      "heb": "וָאֶתְוַדֶּה",
       "translit": "va'etvaddeh",
       "ref": "Dan.9.4",
       "has_suffix": false,
@@ -212,7 +212,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּתְוַדּוּ",
+      "heb": "וַיִּתְוַדּוּ",
       "translit": "vayyitvaddu",
       "ref": "Neh.9.2",
       "has_suffix": false,
@@ -223,16 +223,16 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מִתְוַדִּים",
+      "heb": "וּמִתְוַדִּים",
       "translit": "mitvaddim",
       "ref": "2Chr.30.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "וּמִתְוַדֶּה",
+      "heb": "וּמִתְוַדֶּה",
       "translit": "umitvaddeh",
       "ref": "Dan.9.20",
       "has_suffix": false,
@@ -243,7 +243,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְהִתְוַדָּה",
+      "heb": "וְהִתְוַדָּה",
       "translit": "vhitvaddah",
       "ref": "Lev.5.5",
       "has_suffix": false,
@@ -263,7 +263,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "וּכְהִתְוַדֹּתוֹ",
+      "heb": "וּכְהִתְוַדֹּתוֹ",
       "translit": "ukhhitvaddoto",
       "ref": "Ezra.10.1",
       "has_suffix": true,

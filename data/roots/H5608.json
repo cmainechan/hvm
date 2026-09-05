@@ -11,16 +11,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "סָפַר",
+      "heb": "סְפָרָם",
       "translit": "safar",
       "ref": "2Chr.2.16",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "סְפַרְתֶּם",
+      "heb": "סְפַרְתֶּם",
       "translit": "sfartem",
       "ref": "Isa.22.10",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "סָפַרְתָּה",
+      "heb": "סָפַרְתָּה",
       "translit": "safartah",
       "ref": "Ps.56.9",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּסְפֹּר",
+      "heb": "וַיִּסְפֹּר",
       "translit": "vayyispor",
       "ref": "2Chr.2.1",
       "has_suffix": false,
@@ -62,7 +62,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּסְפָּר",
+      "heb": "תִּסְפָּר",
       "translit": "tispar",
       "ref": "Deut.16.9",
       "has_suffix": false,
@@ -71,7 +71,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִסְפְּרוּ",
+      "heb": "יִסְפְּרוּ",
       "translit": "yispru",
       "ref": "Ezek.44.26",
       "has_suffix": false,
@@ -89,7 +89,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּסְפְּרוּ",
+      "heb": "תִּסְפְּרוּ",
       "translit": "tispru",
       "ref": "Lev.23.16",
       "has_suffix": false,
@@ -98,7 +98,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶסְפְּרֵם",
+      "heb": "אֶסְפְּרֵם",
       "translit": "esprem",
       "ref": "Ps.139.18",
       "has_suffix": true,
@@ -127,7 +127,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וּסְפַרְתֶּם",
+      "heb": "וּסְפַרְתֶּם",
       "translit": "usfartem",
       "ref": "Lev.23.15",
       "has_suffix": false,
@@ -136,7 +136,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְסָפַרְתָּ",
+      "heb": "וְסָפַרְתָּ",
       "translit": "vsafarta",
       "ref": "Lev.25.8",
       "has_suffix": false,
@@ -167,7 +167,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לִסְפֹּר",
+      "heb": "לִסְפֹּר",
       "translit": "lispor",
       "ref": "Deut.16.9",
       "has_suffix": false,
@@ -183,7 +183,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּסָּֽפְרוּ",
+      "heb": "וַיִּסָּֽפְרוּ",
       "translit": "vayyissafru",
       "ref": "1Chr.23.3",
       "has_suffix": false,
@@ -194,7 +194,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִסָּפֵר",
+      "heb": "יִסָּפֵר",
       "translit": "yissafer",
       "ref": "1Kgs.3.8",
       "has_suffix": false,
@@ -203,7 +203,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִסָּפְרוּ",
+      "heb": "יִסָּפְרוּ",
       "translit": "yissafru",
       "ref": "1Kgs.8.5",
       "has_suffix": false,
@@ -219,7 +219,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "סִפְּרוּ",
+      "heb": "סִפְּרוּ",
       "translit": "sippru",
       "ref": "Judg.6.13",
       "has_suffix": false,
@@ -228,7 +228,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "סִפַּרְתִּי",
+      "heb": "סִפַּרְתִּי",
       "translit": "sipparti",
       "ref": "Ps.119.13",
       "has_suffix": false,
@@ -239,7 +239,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיְסַפֵּר",
+      "heb": "וַיְסַפֶּר",
       "translit": "vaysapper",
       "ref": "1Kgs.13.11",
       "has_suffix": false,
@@ -248,16 +248,16 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיְסַפְּרוּ",
+      "heb": "וַֽיְסַפְּרוּם",
       "translit": "vaysappru",
       "ref": "1Kgs.13.11",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתְּסַפֶּר",
+      "heb": "וַתְּסַפֶּר",
       "translit": "vattsapper",
       "ref": "2Kgs.8.6",
       "has_suffix": false,
@@ -266,7 +266,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וַנְּסַפֶּר",
+      "heb": "וַנְּסַפֶּר",
       "translit": "vannsapper",
       "ref": "Gen.41.12",
       "has_suffix": false,
@@ -277,7 +277,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מְסַפֵּר",
+      "heb": "מְסַפֵּר",
       "translit": "msapper",
       "ref": "2Kgs.8.5",
       "has_suffix": false,
@@ -286,7 +286,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מְֽסַפְּרִים",
+      "heb": "מְֽסַפְּרִים",
       "translit": "msapprim",
       "ref": "Ps.19.2",
       "has_suffix": false,
@@ -297,7 +297,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְּסַפֵּר",
+      "heb": "תְּסַפֵּר",
       "translit": "tsapper",
       "ref": "Exod.10.2",
       "has_suffix": false,
@@ -306,7 +306,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יְסַפֵּֽרוּ",
+      "heb": "יְסַפְּרוּ",
       "translit": "ysapperu",
       "ref": "Ezek.12.16",
       "has_suffix": false,
@@ -315,7 +315,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְסַפֵּר",
+      "heb": "יְסַפֵּר",
       "translit": "ysapper",
       "ref": "Job.38.37",
       "has_suffix": false,
@@ -324,7 +324,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֲסַפֵּר",
+      "heb": "אֲסַפֵּר",
       "translit": "asapper",
       "ref": "Ps.22.18",
       "has_suffix": false,
@@ -333,7 +333,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תְּסַפְּרוּ",
+      "heb": "תְּסַפְּרוּ",
       "translit": "tsappru",
       "ref": "Ps.48.14",
       "has_suffix": false,
@@ -342,7 +342,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נְסַפֵּר",
+      "heb": "נְסַפֵּר",
       "translit": "nsapper",
       "ref": "Ps.79.13",
       "has_suffix": false,
@@ -353,7 +353,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "סַפְּרוּ",
+      "heb": "סַפְּרוּ",
       "translit": "sappru",
       "ref": "1Chr.16.24",
       "has_suffix": false,
@@ -362,7 +362,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "סַפֵּר",
+      "heb": "סַפְּרָה",
       "translit": "sapper",
       "ref": "2Kgs.8.4",
       "has_suffix": false,
@@ -373,7 +373,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "סַפֵּר",
+      "heb": "סַפֵּר",
       "translit": "sapper",
       "ref": "Exod.9.16",
       "has_suffix": false,
@@ -384,7 +384,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וּנְסַפְּרָה",
+      "heb": "וּנְסַפְּרָה",
       "translit": "unsapprah",
       "ref": "Jer.51.10",
       "has_suffix": false,
@@ -393,18 +393,18 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֲסַפְּרָה",
+      "heb": "וַאֲסַפֵּֽרָה",
       "translit": "asapprah",
       "ref": "Job.15.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "jussive": [
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְסַפֵּר",
+      "heb": "יְסַפֵּר",
       "translit": "ysapper",
       "ref": "Jer.23.28",
       "has_suffix": false,
@@ -420,7 +420,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "סֻפַּר",
+      "heb": "סֻפַּר",
       "translit": "suppar",
       "ref": "Isa.52.15",
       "has_suffix": false,
@@ -431,7 +431,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְסֻפָּֽר",
+      "heb": "יְסֻפָּֽר",
       "translit": "ysuppar",
       "ref": "Hab.1.5",
       "has_suffix": false,

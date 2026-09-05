@@ -20,7 +20,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "רָחַצְתְּ",
+      "heb": "רָחַצְתְּ",
       "translit": "rachatzt",
       "ref": "Ezek.23.40",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "רָחַצְתִּי",
+      "heb": "רָחַצְתִּי",
       "translit": "rachatzti",
       "ref": "Song.5.3",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּרְחַץ",
+      "heb": "וַיִּרְחַץ",
       "translit": "vayyirchatz",
       "ref": "2Sam.12.20",
       "has_suffix": false,
@@ -58,16 +58,16 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֶרְחַץ",
+      "heb": "וָאֶרְחָצֵךְ",
       "translit": "va'erchatz",
       "ref": "Ezek.16.9",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּרְחֲצוּ",
+      "heb": "וַיִּרְחֲצוּ",
       "translit": "vayyirchatzu",
       "ref": "Gen.43.24",
       "has_suffix": false,
@@ -127,7 +127,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְרָחַצְתָּ",
+      "heb": "וְרָחַצְתָּ",
       "translit": "vrachatzta",
       "ref": "2Kgs.5.10",
       "has_suffix": false,
@@ -154,7 +154,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וְרָחַצְתְּ",
+      "heb": "וְרָחַצְתְּ",
       "translit": "vrachatzt",
       "ref": "Ruth.3.3",
       "has_suffix": false,
@@ -174,11 +174,11 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "רַחֲצוּ",
+      "heb": "וְרַחֲצוּ",
       "translit": "rachatzu",
       "ref": "Gen.18.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_construct": [
@@ -201,7 +201,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "רֻחַצְתְּ",
+      "heb": "רֻחַצְתְּ",
       "translit": "ruchatzt",
       "ref": "Ezek.16.4",
       "has_suffix": false,
@@ -226,7 +226,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הִתְרָחַצְתִּי",
+      "heb": "הִתְרָחַצְתִּי",
       "translit": "hitrachatzti",
       "ref": "Job.9.30",
       "has_suffix": false,

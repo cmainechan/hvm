@@ -20,10 +20,10 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "זֵרִיתָ",
+      "heb": "זֵרִיתָֽנוּ",
       "translit": "zerita",
       "ref": "Ps.44.12",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -44,7 +44,7 @@
       "translit": "vzeriti",
       "ref": "Ezek.5.10",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      },
      {
       "code": "3cp",
@@ -53,7 +53,7 @@
       "translit": "vzeruha",
       "ref": "Jer.51.2",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "yiqtol": [
@@ -107,11 +107,11 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּזֶר",
+      "heb": "וַיִּזֶר",
       "translit": "vayyizer",
       "ref": "Exod.32.20",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      },
      {
       "code": "1cs",
@@ -120,14 +120,14 @@
       "translit": "va'ezrem",
       "ref": "Jer.15.7",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "yiqtol": [
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּזְרֶה",
+      "heb": "תִּזְרֶה",
       "translit": "tizreh",
       "ref": "Ezek.5.2",
       "has_suffix": false,
@@ -176,7 +176,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בְּהִזָּרֽוֹתֵיכֶם",
+      "heb": "בְּהִזָּרֽוֹתֵיכֶם",
       "translit": "bhizzarotekhem",
       "ref": "Ezek.6.8",
       "has_suffix": true,
@@ -187,11 +187,11 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּזָּרוּ",
+      "heb": "וַיִּזָּרוּ",
       "translit": "vayyizzaru",
       "ref": "Ezek.36.19",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ]
    }

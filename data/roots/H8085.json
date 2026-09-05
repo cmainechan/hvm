@@ -11,7 +11,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "שָׁמַעְנוּ",
+      "heb": "שָׁמַעְנוּ",
       "translit": "shama'nu",
       "ref": "1Chr.17.20",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "שָׁמַעַתְּ",
+      "heb": "שָׁמַעַתְּ",
       "translit": "shama'att",
       "ref": "1Kgs.1.11",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "שְׁמַעְתֶּם",
+      "heb": "שְׁמַעְתֶּֽם",
       "translit": "shma'tem",
       "ref": "1Kgs.1.45",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "שָׁמַעְתִּי",
+      "heb": "שָׁמָֽעְתִּי",
       "translit": "shama'ti",
       "ref": "1Kgs.2.42",
       "has_suffix": false,
@@ -47,7 +47,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "שָׁמְעוּ",
+      "heb": "שָׁמְעוּ",
       "translit": "sham'u",
       "ref": "1Kgs.5.14",
       "has_suffix": false,
@@ -56,7 +56,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "שָׁמַע",
+      "heb": "שָׁמַע",
       "translit": "shama",
       "ref": "1Kgs.5.15",
       "has_suffix": false,
@@ -65,7 +65,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "שָׁמַעְתָּ",
+      "heb": "שָׁמַעְתָּ",
       "translit": "shama'ta",
       "ref": "1Kgs.20.36",
       "has_suffix": false,
@@ -74,7 +74,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "שָׁמְעָה",
+      "heb": "שָׁמְעָה",
       "translit": "sham'ah",
       "ref": "1Sam.28.21",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּשְׁמְעוּ",
+      "heb": "וַֽיִּשְׁמְעוּ",
       "translit": "vayyishm'u",
       "ref": "1Chr.10.11",
       "has_suffix": false,
@@ -94,7 +94,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּשְׁמַע",
+      "heb": "וַיִּשְׁמַע",
       "translit": "vayyishma",
       "ref": "1Chr.14.8",
       "has_suffix": false,
@@ -103,7 +103,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּשְׁמַע",
+      "heb": "וַתִּשְׁמַע",
       "translit": "vattishma",
       "ref": "1Sam.4.19",
       "has_suffix": false,
@@ -112,7 +112,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֶשְׁמַע",
+      "heb": "וָאֶשְׁמַע",
       "translit": "va'eshma",
       "ref": "1Sam.15.24",
       "has_suffix": false,
@@ -121,7 +121,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וַנִּשְׁמַע",
+      "heb": "וַנִּשְׁמַע",
       "translit": "vannishma",
       "ref": "Jer.35.8",
       "has_suffix": false,
@@ -130,7 +130,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַתִּשְׁמְעוּ",
+      "heb": "וַתִּשְׁמְעוּ",
       "translit": "vattishm'u",
       "ref": "Josh.22.2",
       "has_suffix": false,
@@ -141,7 +141,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "שֹׁמֵעַ",
+      "heb": "שֹׁמֵעַ",
       "translit": "shome'a",
       "ref": "1Kgs.3.9",
       "has_suffix": false,
@@ -150,7 +150,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "שֹׁמַעַת",
+      "heb": "שֹׁמַעַת",
       "translit": "shoma'at",
       "ref": "1Kgs.10.1",
       "has_suffix": false,
@@ -159,18 +159,18 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "שֹׁמְעִים",
+      "heb": "הַשֹּׁמְעִים",
       "translit": "shom'im",
       "ref": "1Kgs.10.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "yiqtol": [
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּשְׁמַע",
+      "heb": "תִּשְׁמַע",
       "translit": "tishma",
       "ref": "1Kgs.8.30",
       "has_suffix": false,
@@ -179,7 +179,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִשְׁמְעוּ",
+      "heb": "יִשְׁמְעוּן",
       "translit": "yishm'u",
       "ref": "1Kgs.8.42",
       "has_suffix": false,
@@ -188,7 +188,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִשְׁמְעוּ",
+      "heb": "תִשְׁמְעוּ",
       "translit": "tishm'u",
       "ref": "1Sam.12.15",
       "has_suffix": false,
@@ -197,7 +197,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִשְׁמַע",
+      "heb": "יִשְׁמַע",
       "translit": "yishma",
       "ref": "1Sam.30.24",
       "has_suffix": false,
@@ -206,7 +206,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶשְׁמַע",
+      "heb": "אֶשְׁמַע",
       "translit": "eshma",
       "ref": "2Chr.7.14",
       "has_suffix": false,
@@ -215,16 +215,16 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נִשְׁמַע",
+      "heb": "וְנִשְׁמָֽע",
       "translit": "nishma",
       "ref": "Exod.24.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תִּשְׁמַעְנָה",
+      "heb": "תִּשְׁמַעְנָה",
       "translit": "tishma'nah",
       "ref": "Isa.30.21",
       "has_suffix": false,
@@ -233,7 +233,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּשְׁמַע",
+      "heb": "תִּשְׁמַע",
       "translit": "tishma",
       "ref": "Isa.34.1",
       "has_suffix": false,
@@ -244,7 +244,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְשָׁמַעְתָּ",
+      "heb": "וְשָׁמַעְתָּ",
       "translit": "vshama'ta",
       "ref": "1Kgs.8.30",
       "has_suffix": false,
@@ -253,7 +253,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְשָׁמַע",
+      "heb": "וְשָׁמַע",
       "translit": "vshama",
       "ref": "1Sam.2.22",
       "has_suffix": false,
@@ -262,7 +262,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וּשְׁמַעְתֶּם",
+      "heb": "וּשְׁמַעְתֶּם",
       "translit": "ushma'tem",
       "ref": "1Sam.12.14",
       "has_suffix": false,
@@ -271,16 +271,16 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְשָׁמַעְתִּי",
+      "heb": "וּשְׁמַעְתִּֽיו",
       "translit": "vshama'ti",
       "ref": "Deut.1.17",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וְשָׁמַעְנוּ",
+      "heb": "וְשָׁמַעְנוּ",
       "translit": "vshama'nu",
       "ref": "Deut.5.27",
       "has_suffix": false,
@@ -289,7 +289,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְשָׁמְעוּ",
+      "heb": "וְשָׁמְעוּ",
       "translit": "vsham'u",
       "ref": "Exod.3.18",
       "has_suffix": false,
@@ -298,7 +298,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וְשָֽׁמְעָה",
+      "heb": "וְשָֽׁמְעָה",
       "translit": "vsham'ah",
       "ref": "Lev.5.1",
       "has_suffix": false,
@@ -309,16 +309,16 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "שִׁמְעוּ",
+      "heb": "שְׁמָעוּנִי",
       "translit": "shim'u",
       "ref": "1Chr.28.2",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "שְׁמַע",
+      "heb": "שְׁמַע",
       "translit": "shma",
       "ref": "1Kgs.22.19",
       "has_suffix": false,
@@ -327,7 +327,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "שִׁמְעִי",
+      "heb": "שִׁמְעִי",
       "translit": "shim'i",
       "ref": "Ezek.16.35",
       "has_suffix": false,
@@ -336,7 +336,7 @@
      {
       "code": "2fp",
       "label": "2nd fem. pl.",
-      "heb": "שְׁמַעְנָה",
+      "heb": "שְׁמַעַן",
       "translit": "shma'nah",
       "ref": "Gen.4.23",
       "has_suffix": false,
@@ -347,18 +347,18 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "שְׁמֹעַ",
+      "heb": "כְּֽשָׁמְעֲךָ",
       "translit": "shmo'a",
       "ref": "1Chr.14.15",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "שָׁמוֹעַ",
+      "heb": "שָׁמֹעַ",
       "translit": "shamo'a",
       "ref": "1Sam.23.10",
       "has_suffix": false,
@@ -369,7 +369,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וְנִשְׁמְעָה",
+      "heb": "וְנִשְׁמְעָה",
       "translit": "vnishm'ah",
       "ref": "2Sam.17.5",
       "has_suffix": false,
@@ -378,7 +378,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶשְׁמְעָה",
+      "heb": "אֶשְׁמְעָה",
       "translit": "eshm'ah",
       "ref": "Jer.4.21",
       "has_suffix": false,
@@ -389,7 +389,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּשְׁמַע",
+      "heb": "תִּשְׁמַע",
       "translit": "tishma",
       "ref": "1Kgs.20.8",
       "has_suffix": false,
@@ -398,7 +398,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִשְׁמְעוּ",
+      "heb": "יִשְׁמְעוּ",
       "translit": "yishm'u",
       "ref": "1Sam.13.3",
       "has_suffix": false,
@@ -407,7 +407,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִֽשְׁמַֽע",
+      "heb": "יִֽשְׁמַֽע",
       "translit": "yishma",
       "ref": "1Sam.26.19",
       "has_suffix": false,
@@ -416,7 +416,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּשְׁמְעוּ",
+      "heb": "תִּשְׁמְעוּ",
       "translit": "tishm'u",
       "ref": "2Kgs.18.31",
       "has_suffix": false,
@@ -425,7 +425,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וְתִשְׁמַע",
+      "heb": "וְתִשְׁמַע",
       "translit": "vtishma",
       "ref": "Deut.32.1",
       "has_suffix": false,
@@ -441,7 +441,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "נִשְׁמַע",
+      "heb": "נִשְׁמַע",
       "translit": "nishma",
       "ref": "1Kgs.6.7",
       "has_suffix": false,
@@ -450,7 +450,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "נִשְׁמְעוּ",
+      "heb": "נִשְׁמְעוּ",
       "translit": "nishm'u",
       "ref": "Dan.10.12",
       "has_suffix": false,
@@ -461,7 +461,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיְּשָּֽׁמְעוּ",
+      "heb": "וַיְּשָּֽׁמְעוּ",
       "translit": "vayyshsham'u",
       "ref": "1Sam.17.31",
       "has_suffix": false,
@@ -470,7 +470,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּשָּׁמַע",
+      "heb": "וַיִּשָּׁמַע",
       "translit": "vayyishshama",
       "ref": "2Chr.30.27",
       "has_suffix": false,
@@ -479,7 +479,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּשָּׁמַע",
+      "heb": "וַתִּשָּׁמַע",
       "translit": "vattishshama",
       "ref": "Neh.12.43",
       "has_suffix": false,
@@ -490,7 +490,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "הַנִּשְׁמַעַת",
+      "heb": "הַנִּשְׁמַעַת",
       "translit": "hannishma'at",
       "ref": "Jer.51.46",
       "has_suffix": false,
@@ -499,7 +499,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "נִשְׁמָע",
+      "heb": "נִשְׁמָע",
       "translit": "nishma",
       "ref": "Ps.19.4",
       "has_suffix": false,
@@ -510,7 +510,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "נִשְׁמָעִֽים",
+      "heb": "נִשְׁמָעִֽים",
       "translit": "nishma'im",
       "ref": "Eccl.9.16",
       "has_suffix": false,
@@ -519,7 +519,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "נִשְׁמָע",
+      "heb": "נִשְׁמָע",
       "translit": "nishma",
       "ref": "Jer.31.15",
       "has_suffix": false,
@@ -530,7 +530,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִשָּׁמַע",
+      "heb": "יִשָּׁמֵעַ",
       "translit": "yishshama",
       "ref": "1Sam.1.13",
       "has_suffix": false,
@@ -539,7 +539,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִשָּׁמְעוּ",
+      "heb": "יִשָּׁמְעוּ",
       "translit": "yishsham'u",
       "ref": "2Sam.22.45",
       "has_suffix": false,
@@ -548,7 +548,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּשָּׁמַע",
+      "heb": "תִּשָּׁמַע",
       "translit": "tishshama",
       "ref": "Jer.18.22",
       "has_suffix": false,
@@ -559,7 +559,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְנִשְׁמַע",
+      "heb": "וְנִשְׁמַע",
       "translit": "vnishma",
       "ref": "Esth.1.20",
       "has_suffix": false,
@@ -570,7 +570,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בְּהִשָּׁמַע",
+      "heb": "בְּהִשָּׁמַע",
       "translit": "bhishshama",
       "ref": "Esth.2.8",
       "has_suffix": false,
@@ -586,7 +586,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיְשַׁמַּע",
+      "heb": "וַיְשַׁמַּע",
       "translit": "vayshamma",
       "ref": "1Sam.15.4",
       "has_suffix": false,
@@ -602,7 +602,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הִשְׁמִיעַ",
+      "heb": "הִשְׁמִיעַ",
       "translit": "hishmi'a",
       "ref": "1Kgs.15.22",
       "has_suffix": false,
@@ -611,7 +611,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהִשְׁמַעְתִּי",
+      "heb": "וְהִשְׁמַעְתִּי",
       "translit": "vhishma'ti",
       "ref": "Isa.43.12",
       "has_suffix": false,
@@ -620,7 +620,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "הִשְׁמִיעוּ",
+      "heb": "הִשְׁמִיעוּ",
       "translit": "hishmi'u",
       "ref": "Jer.48.4",
       "has_suffix": false,
@@ -629,7 +629,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הִשְׁמַעְתָּ",
+      "heb": "הִשְׁמַעְתָּ",
       "translit": "hishma'ta",
       "ref": "Ps.76.9",
       "has_suffix": false,
@@ -640,7 +640,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּשְׁמִיעוּ",
+      "heb": "וַיַּשְׁמִיעוּ",
       "translit": "vayyashmi'u",
       "ref": "Neh.12.42",
       "has_suffix": false,
@@ -651,7 +651,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מַשְׁמִיעִים",
+      "heb": "מַשְׁמִיעִים",
       "translit": "mashmi'im",
       "ref": "1Chr.15.16",
       "has_suffix": false,
@@ -660,7 +660,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מַשְׁמִיעַ",
+      "heb": "מַשְׁמִֽיעַ",
       "translit": "mashmi'a",
       "ref": "1Chr.16.5",
       "has_suffix": false,
@@ -671,34 +671,34 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אַשְׁמִיעַ",
+      "heb": "וְאַשְׁמִיעֲךָ",
       "translit": "ashmi'a",
       "ref": "1Sam.9.27",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַשְׁמִיעַ",
+      "heb": "וְיַשְׁמִעֵנוּ",
       "translit": "yashmi'a",
       "ref": "Deut.30.12",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      },
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יַשְׁמִיעוּ",
+      "heb": "יַשְׁמִיעֻנוּ",
       "translit": "yashmi'u",
       "ref": "Isa.43.9",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַשְׁמִיעוּ",
+      "heb": "תַשְׁמִיעוּ",
       "translit": "tashmi'u",
       "ref": "Josh.6.10",
       "has_suffix": false,
@@ -707,7 +707,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּשְׁמִיעֵנִי",
+      "heb": "תַּשְׁמִיעֵנִי",
       "translit": "tashmi'eni",
       "ref": "Ps.51.10",
       "has_suffix": true,
@@ -718,7 +718,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְהִשְׁמִיעוּ",
+      "heb": "וְהִשְׁמִיעוּ",
       "translit": "vhishmi'u",
       "ref": "Ezek.27.30",
       "has_suffix": false,
@@ -727,7 +727,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְהִשְׁמִיעַ",
+      "heb": "וְהִשְׁמִיעַ",
       "translit": "vhishmi'a",
       "ref": "Isa.30.30",
       "has_suffix": false,
@@ -736,7 +736,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהִשְׁמַעְתִּי",
+      "heb": "וְהִשְׁמַעְתִּי",
       "translit": "vhishma'ti",
       "ref": "Jer.49.2",
       "has_suffix": false,
@@ -747,7 +747,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "הַשְׁמִיעוּ",
+      "heb": "הַשְׁמִיעוּ",
       "translit": "hashmi'u",
       "ref": "Amos.3.9",
       "has_suffix": false,
@@ -756,7 +756,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הַשְׁמִיעֵנִי",
+      "heb": "הַשְׁמִיעֵנִי",
       "translit": "hashmi'eni",
       "ref": "Ps.143.8",
       "has_suffix": true,
@@ -765,7 +765,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "הַשְׁמִיעִינִי",
+      "heb": "הַשְׁמִיעִינִי",
       "translit": "hashmi'ini",
       "ref": "Song.2.14",
       "has_suffix": true,
@@ -776,7 +776,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְהַשְׁמִיעַ",
+      "heb": "לְהַשְׁמִֽיעַ",
       "translit": "lhashmi'a",
       "ref": "1Chr.15.19",
       "has_suffix": false,
@@ -787,7 +787,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּשְׁמַע",
+      "heb": "תַּשְׁמַע",
       "translit": "tashma",
       "ref": "Judg.18.25",
       "has_suffix": false,

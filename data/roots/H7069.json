@@ -29,7 +29,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "קָנִיתָ",
+      "heb": "קָנִֽיתָ",
       "translit": "qanita",
       "ref": "Exod.15.16",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּקֶן",
+      "heb": "וַיִּקֶן",
       "translit": "vayyiqen",
       "ref": "1Kgs.16.24",
       "has_suffix": false,
@@ -125,7 +125,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּקְנוּ",
+      "heb": "תִּקְנוּ",
       "translit": "tiqnu",
       "ref": "Lev.25.44",
       "has_suffix": false,
@@ -147,7 +147,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "קְנֵה",
+      "heb": "קְנֵֽה",
       "translit": "qneh",
       "ref": "Gen.47.19",
       "has_suffix": false,
@@ -158,11 +158,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "קְֽנֹה",
+      "heb": "לִקְנוֹת",
       "translit": "qnoh",
       "ref": "2Chr.34.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
@@ -185,7 +185,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִקָּנוּ",
+      "heb": "יִקָּנוּ",
       "translit": "yiqqanu",
       "ref": "Jer.32.15",
       "has_suffix": false,
@@ -223,7 +223,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "הַמַּקְנֶֽה",
+      "heb": "הַמַּקְנֶֽה",
       "translit": "hammaqneh",
       "ref": "Ezek.8.3",
       "has_suffix": false,

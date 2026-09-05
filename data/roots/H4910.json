@@ -11,7 +11,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "מָשָׁל",
+      "heb": "מָשָׁל",
       "translit": "mashal",
       "ref": "Dan.11.4",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "מָשְׁלוּ",
+      "heb": "מָשְׁלוּ",
       "translit": "mashlu",
       "ref": "Isa.3.12",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "מָשַׁלְתָּ",
+      "heb": "מָשַׁלְתָּ",
       "translit": "mashalta",
       "ref": "Isa.63.19",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "מָשָֽׁלָה",
+      "heb": "מָשָֽׁלָה",
       "translit": "mashalah",
       "ref": "Ps.103.19",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיִּמְשְׁלוּ",
+      "heb": "וַֽיִּמְשְׁלוּ",
       "translit": "vayyimshlu",
       "ref": "Ps.106.41",
       "has_suffix": false,
@@ -60,7 +60,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מוֹשֵׁל",
+      "heb": "מוֹשֵׁל",
       "translit": "moshel",
       "ref": "1Chr.29.12",
       "has_suffix": false,
@@ -69,16 +69,16 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מֹשְׁלִים",
+      "heb": "הַמּֽוֹשְׁלִים",
       "translit": "moshlim",
       "ref": "2Chr.23.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "מֹשְׁלָה",
+      "heb": "מֹשְׁלָה",
       "translit": "moshlah",
       "ref": "Isa.40.10",
       "has_suffix": false,
@@ -89,7 +89,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִמְשֹֽׁלוּ",
+      "heb": "יִמְשֹֽׁלוּ",
       "translit": "yimsholu",
       "ref": "Deut.15.6",
       "has_suffix": false,
@@ -98,7 +98,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִמְשֹׁל",
+      "heb": "יִמְשֹׁל",
       "translit": "yimshol",
       "ref": "Exod.21.8",
       "has_suffix": false,
@@ -107,7 +107,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּמְשָׁל",
+      "heb": "תִּמְשָׁל",
       "translit": "timshal",
       "ref": "Gen.4.7",
       "has_suffix": false,
@@ -116,7 +116,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶמְשֹׁל",
+      "heb": "אֶמְשֹׁל",
       "translit": "emshol",
       "ref": "Judg.8.23",
       "has_suffix": false,
@@ -125,7 +125,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּמְשׁוֹל",
+      "heb": "תִּמְשׁוֹל",
       "translit": "timshol",
       "ref": "Prov.12.24",
       "has_suffix": false,
@@ -136,7 +136,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וּמָשַׁל",
+      "heb": "וּמָשַׁל",
       "translit": "umashal",
       "ref": "Dan.11.3",
       "has_suffix": false,
@@ -145,7 +145,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וּמָֽשַׁלְתָּ",
+      "heb": "וּמָֽשַׁלְתָּ",
       "translit": "umashalta",
       "ref": "Deut.15.6",
       "has_suffix": false,
@@ -156,7 +156,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "מְשָׁל",
+      "heb": "מְשָׁל",
       "translit": "mshal",
       "ref": "Judg.8.22",
       "has_suffix": false,
@@ -167,11 +167,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "מְשֹׁל",
+      "heb": "לִמְשׁוֹל",
       "translit": "mshol",
       "ref": "Ezek.19.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
@@ -189,7 +189,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִמְשְׁלוּ",
+      "heb": "יִמְשְׁלוּ",
       "translit": "yimshlu",
       "ref": "Ps.19.14",
       "has_suffix": false,
@@ -205,7 +205,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּמְשִׁילֵהוּ",
+      "heb": "תַּמְשִׁילֵהוּ",
       "translit": "tamshilehu",
       "ref": "Ps.8.7",
       "has_suffix": true,
@@ -216,7 +216,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְהִמְשִׁילָם",
+      "heb": "וְהִמְשִׁילָם",
       "translit": "vhimshilam",
       "ref": "Dan.11.39",
       "has_suffix": true,
@@ -227,7 +227,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הַמְשֵׁל",
+      "heb": "הַמְשֵׁל",
       "translit": "hamshel",
       "ref": "Job.25.2",
       "has_suffix": false,

@@ -11,7 +11,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "שְׁלֹף",
+      "heb": "שְׁלֹף",
       "translit": "shlof",
       "ref": "1Chr.10.4",
       "has_suffix": false,
@@ -22,7 +22,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "שֹׁלֵֽף",
+      "heb": "שֹׁלֵֽף",
       "translit": "sholef",
       "ref": "1Chr.21.5",
       "has_suffix": false,
@@ -33,7 +33,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "שְׁלוּפָה",
+      "heb": "שְׁלוּפָה",
       "translit": "shlufah",
       "ref": "1Chr.21.16",
       "has_suffix": false,
@@ -44,18 +44,18 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּשְׁלֹף",
+      "heb": "וַֽיִּשְׁלְפָהּ",
       "translit": "vayyishlof",
       "ref": "1Sam.17.51",
-      "has_suffix": false,
-      "has_prefix": true
+      "has_suffix": true,
+      "has_prefix": false
      }
     ],
     "perfect": [
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "שָׁלַף",
+      "heb": "שָׁלַף",
       "translit": "shalaf",
       "ref": "Job.20.25",
       "has_suffix": false,

@@ -11,16 +11,16 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "הָרְגוּ",
+      "heb": "וַהֲרָגוּם",
       "translit": "hargu",
       "ref": "1Chr.7.21",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הָרַג",
+      "heb": "הָרָג",
       "translit": "harag",
       "ref": "1Kgs.9.16",
       "has_suffix": false,
@@ -29,34 +29,34 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הָרַגְתִּי",
+      "heb": "הֲרַגְתִּיךָ",
       "translit": "haragti",
       "ref": "1Sam.24.12",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הָרַגְתָּ",
+      "heb": "הֲרַגְתָּֽנִי",
       "translit": "haragta",
       "ref": "1Sam.24.19",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "הֲרָגָתְהוּ",
+      "heb": "וַהֲרָגָתַם",
       "translit": "haragathu",
       "ref": "Amos.9.4",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "הֲרַגְתֶּם",
+      "heb": "הֲרַגְתֶּם",
       "translit": "haragtem",
       "ref": "Judg.8.18",
       "has_suffix": false,
@@ -76,25 +76,25 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַֽיַּהֲרֹג",
+      "heb": "וַיַּהַרְגֵהוּ",
       "translit": "vayyaharog",
       "ref": "1Chr.11.23",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּֽהַרְגוּ",
+      "heb": "וַיַּֽהַרְגֻהוּ",
       "translit": "vayyahargu",
       "ref": "2Chr.24.25",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַתַּֽהַרְגוּ",
+      "heb": "וַתַּֽהַרְגוּ",
       "translit": "vattahargu",
       "ref": "2Chr.28.9",
       "has_suffix": false,
@@ -134,18 +134,18 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הֲרוּגִים",
+      "heb": "הַֽהֲרוּגִים",
       "translit": "harugim",
       "ref": "Esth.9.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "yiqtol": [
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּהֲרֹג",
+      "heb": "תַּהֲרֹג",
       "translit": "taharog",
       "ref": "2Kgs.8.12",
       "has_suffix": false,
@@ -163,7 +163,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַּהַרְגוּ",
+      "heb": "תַּהַרְגוּ",
       "translit": "tahargu",
       "ref": "Ezek.9.6",
       "has_suffix": false,
@@ -199,7 +199,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תַּֽהַרְגֵהוּ",
+      "heb": "תַּֽהַרְגֵהוּ",
       "translit": "tahargehu",
       "ref": "Job.20.16",
       "has_suffix": true,
@@ -219,16 +219,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְהָרַג",
+      "heb": "וַהֲרָגָנִי",
       "translit": "vharag",
       "ref": "1Kgs.18.12",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהָרַגְתִּי",
+      "heb": "וְהָרַגְתִּי",
       "translit": "vharagti",
       "ref": "Exod.22.23",
       "has_suffix": false,
@@ -237,7 +237,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְהָרַגְתָּ",
+      "heb": "וְהָרַגְתָּ",
       "translit": "vharagta",
       "ref": "Lev.20.16",
       "has_suffix": false,
@@ -257,11 +257,11 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "הִרְגוּ",
+      "heb": "וְהִרְגוּ",
       "translit": "hirgu",
       "ref": "Exod.32.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2ms",
@@ -277,7 +277,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לַהֲרֹג",
+      "heb": "בַּהֲרֹג",
       "translit": "laharog",
       "ref": "1Kgs.11.24",
       "has_suffix": false,
@@ -319,7 +319,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּהֲרֹג",
+      "heb": "תַּהֲרֹג",
       "translit": "taharog",
       "ref": "Exod.23.7",
       "has_suffix": false,
@@ -335,7 +335,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תֵּהָרַגְנָה",
+      "heb": "תֵּהָרַגְנָה",
       "translit": "teharagnah",
       "ref": "Ezek.26.6",
       "has_suffix": false,
@@ -355,7 +355,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בֵּהָרֵֽג",
+      "heb": "בֵּהָרֵֽג",
       "translit": "behareg",
       "ref": "Ezek.26.15",
       "has_suffix": false,

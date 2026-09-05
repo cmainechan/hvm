@@ -11,7 +11,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וּנְחַלְתָּֽנוּ",
+      "heb": "וּנְחַלְתָּֽנוּ",
       "translit": "unchaltanu",
       "ref": "Exod.34.9",
       "has_suffix": true,
@@ -29,7 +29,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "נָחַלְתִּי",
+      "heb": "נָחַלְתִּי",
       "translit": "nachalti",
       "ref": "Ps.119.111",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּנְחֲלוּ",
+      "heb": "וַיִּנְחֲלוּ",
       "translit": "vayyinchalu",
       "ref": "Josh.16.4",
       "has_suffix": false,
@@ -51,7 +51,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִנְחַל",
+      "heb": "תִּנְחַל",
       "translit": "tinchal",
       "ref": "Deut.19.14",
       "has_suffix": false,
@@ -89,7 +89,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְנָחַלְתָּ",
+      "heb": "וְנָחַלְתָּ",
       "translit": "vnachalta",
       "ref": "Exod.23.30",
       "has_suffix": false,
@@ -107,7 +107,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וּנְחַלְתֶּם",
+      "heb": "וּנְחַלְתֶּם",
       "translit": "unchaltem",
       "ref": "Ezek.47.14",
       "has_suffix": false,
@@ -179,7 +179,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הִנְחַלְתִּי",
+      "heb": "הִנְחַלְתִּי",
       "translit": "hinchalti",
       "ref": "Jer.3.18",
       "has_suffix": false,
@@ -201,19 +201,19 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַנְחִיל",
+      "heb": "יַנְחִלֵם",
       "translit": "yanchil",
       "ref": "1Sam.2.8",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּנְחִיל",
+      "heb": "תַּנְחִילֶנָּה",
       "translit": "tanchil",
       "ref": "Deut.31.7",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -221,7 +221,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְהִנְחַלְתֶּם",
+      "heb": "וְהִנְחַלְתֶּם",
       "translit": "vhinchaltem",
       "ref": "1Chr.28.8",
       "has_suffix": false,
@@ -232,11 +232,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְהַנְחִיל",
+      "heb": "הַנְחִילוֹ",
       "translit": "lhanchil",
       "ref": "Deut.21.16",
-      "has_suffix": false,
-      "has_prefix": true
+      "has_suffix": true,
+      "has_prefix": false
      }
     ]
    }
@@ -248,7 +248,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הָנְחַלְתִּי",
+      "heb": "הָנְחַלְתִּי",
       "translit": "hanchalti",
       "ref": "Job.7.3",
       "has_suffix": false,
@@ -264,7 +264,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּתְנַחֲלוּ",
+      "heb": "תִּתְנַחֲלוּ",
       "translit": "titnachalu",
       "ref": "Ezek.47.13",
       "has_suffix": false,
@@ -284,7 +284,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְהִתְנַחֲלְתֶּם",
+      "heb": "וְהִתְנַחֲלְתֶּם",
       "translit": "vhitnachaltem",
       "ref": "Lev.25.46",
       "has_suffix": false,

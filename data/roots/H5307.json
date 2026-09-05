@@ -11,7 +11,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "נָפְלוּ",
+      "heb": "נָפָלוּ",
       "translit": "naflu",
       "ref": "1Chr.5.22",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "נָפָלְתָּ",
+      "heb": "נָפָלְתָּ",
       "translit": "nafalta",
       "ref": "2Sam.3.34",
       "has_suffix": false,
@@ -47,18 +47,18 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "נָפַלְתִּי",
+      "heb": "וְנָפַלְתִּי",
       "translit": "nafalti",
       "ref": "Judg.15.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "wayyiqtol": [
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיִּפְּלוּ",
+      "heb": "וַֽיִּפְּלוּ",
       "translit": "vayyipplu",
       "ref": "1Chr.5.10",
       "has_suffix": false,
@@ -67,7 +67,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּפֹּל",
+      "heb": "וַיִּפֹּל",
       "translit": "vayyippol",
       "ref": "1Chr.10.4",
       "has_suffix": false,
@@ -76,7 +76,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּפֹּל",
+      "heb": "וַתִּפֹּל",
       "translit": "vattippol",
       "ref": "1Kgs.18.38",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֶפֹּל",
+      "heb": "וָאֶפְּלָה",
       "translit": "va'eppol",
       "ref": "Dan.8.17",
       "has_suffix": false,
@@ -105,27 +105,27 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "נֹפֵל",
+      "heb": "הַנֹּפֵל",
       "translit": "nofel",
       "ref": "1Kgs.20.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "נֹפֶלֶת",
+      "heb": "הַנֹּפֶלֶת",
       "translit": "nofelet",
       "ref": "Amos.9.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "yiqtol": [
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִפֹּל",
+      "heb": "יִפּוֹל",
       "translit": "yippol",
       "ref": "1Chr.12.20",
       "has_suffix": false,
@@ -134,16 +134,16 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּפֹּל",
+      "heb": "הֲתִפֹּל",
       "translit": "tippol",
       "ref": "Amos.3.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִפְּלוּ",
+      "heb": "יִפֹּלוּ",
       "translit": "yipplu",
       "ref": "Amos.7.17",
       "has_suffix": false,
@@ -152,7 +152,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּפּוֹל",
+      "heb": "תִּפּוֹל",
       "translit": "tippol",
       "ref": "Esth.6.13",
       "has_suffix": false,
@@ -161,7 +161,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּפֹּלוּ",
+      "heb": "תִּפֹּלוּ",
       "translit": "tippolu",
       "ref": "Ezek.11.10",
       "has_suffix": false,
@@ -170,7 +170,7 @@
      {
       "code": "2fp",
       "label": "2nd fem. pl.",
-      "heb": "תִּפֹּלְנָה",
+      "heb": "תִּפֹּלְנָה",
       "translit": "tippolnah",
       "ref": "Ezek.13.11",
       "has_suffix": false,
@@ -179,7 +179,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תִּפֹּלְנָה",
+      "heb": "תִּפֹּלְנָה",
       "translit": "tippolnah",
       "ref": "Ezek.30.25",
       "has_suffix": false,
@@ -190,7 +190,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְנָפַלְתָּ",
+      "heb": "וְנָפַלְתָּ",
       "translit": "vnafalta",
       "ref": "2Chr.25.19",
       "has_suffix": false,
@@ -217,7 +217,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וְנָפְלָה",
+      "heb": "וְנָֽפְלָה",
       "translit": "vnaflah",
       "ref": "Ezek.13.14",
       "has_suffix": false,
@@ -226,7 +226,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וּנְפַלְתֶּם",
+      "heb": "וּנְפַלְתֶּם",
       "translit": "unfaltem",
       "ref": "Jer.25.34",
       "has_suffix": false,
@@ -248,11 +248,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בִּנְפֹל",
+      "heb": "נָפְלוֹ",
       "translit": "binfol",
       "ref": "1Sam.29.3",
-      "has_suffix": false,
-      "has_prefix": true
+      "has_suffix": true,
+      "has_prefix": false
      }
     ],
     "infinitive_absolute": [
@@ -270,7 +270,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶפְּלָה",
+      "heb": "אֶפְּלָה",
       "translit": "epplah",
       "ref": "1Chr.21.13",
       "has_suffix": false,
@@ -279,27 +279,27 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נִפְּלָה",
+      "heb": "וְנִפְּלָה",
       "translit": "nipplah",
       "ref": "2Kgs.7.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "jussive": [
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִפֹּל",
+      "heb": "וְיִפֹּל",
       "translit": "yippol",
       "ref": "1Kgs.22.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּפָּל",
+      "heb": "תִּפָּל",
       "translit": "tippal",
       "ref": "Jer.37.20",
       "has_suffix": false,
@@ -315,7 +315,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "הִפִּילוּ",
+      "heb": "הִפִּילוּ",
       "translit": "hippilu",
       "ref": "1Chr.26.14",
       "has_suffix": false,
@@ -324,7 +324,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הִפִּיל",
+      "heb": "הִפִּיל",
       "translit": "hippil",
       "ref": "1Sam.3.19",
       "has_suffix": false,
@@ -333,7 +333,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הִפַּלְתִּי",
+      "heb": "הִפַּלְתִּי",
       "translit": "hippalti",
       "ref": "Jer.15.8",
       "has_suffix": false,
@@ -342,7 +342,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "הִפַּלְנוּ",
+      "heb": "הִפַּלְנוּ",
       "translit": "hippalnu",
       "ref": "Neh.10.35",
       "has_suffix": false,
@@ -351,7 +351,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "הִפִּילָה",
+      "heb": "הִפִּילָה",
       "translit": "hippilah",
       "ref": "Prov.7.26",
       "has_suffix": false,
@@ -360,7 +360,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הִפַּלְתָּם",
+      "heb": "הִפַּלְתָּם",
       "translit": "hippaltam",
       "ref": "Ps.73.18",
       "has_suffix": true,
@@ -371,7 +371,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּפִּילוּ",
+      "heb": "וַיַּפִּילוּ",
       "translit": "vayyappilu",
       "ref": "1Chr.24.31",
       "has_suffix": false,
@@ -380,7 +380,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתַּפֵּל",
+      "heb": "וַתַּפֵּל",
       "translit": "vattappel",
       "ref": "Dan.8.10",
       "has_suffix": false,
@@ -389,7 +389,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּפֵּל",
+      "heb": "וַיַּפֵּל",
       "translit": "vayyappel",
       "ref": "Gen.2.21",
       "has_suffix": false,
@@ -400,7 +400,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מַפִּיל",
+      "heb": "מַפִּיל",
       "translit": "mappil",
       "ref": "2Kgs.6.5",
       "has_suffix": false,
@@ -409,7 +409,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מַפִּילִים",
+      "heb": "מַפִּילִים",
       "translit": "mappilim",
       "ref": "Dan.9.18",
       "has_suffix": false,
@@ -420,7 +420,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַּפִּילוּ",
+      "heb": "תַּפִּילוּ",
       "translit": "tappilu",
       "ref": "2Kgs.3.19",
       "has_suffix": false,
@@ -429,7 +429,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יַפִּילוּ",
+      "heb": "יַפִּילוּ",
       "translit": "yappilu",
       "ref": "2Kgs.3.25",
       "has_suffix": false,
@@ -438,7 +438,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַפִּיל",
+      "heb": "יַפִּיל",
       "translit": "yappil",
       "ref": "Exod.21.27",
       "has_suffix": false,
@@ -447,7 +447,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אַפִּיל",
+      "heb": "אַפִּיל",
       "translit": "appil",
       "ref": "Ezek.32.12",
       "has_suffix": false,
@@ -456,7 +456,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תַּפִּֽיל",
+      "heb": "תַּפִּֽיל",
       "translit": "tappil",
       "ref": "Isa.26.19",
       "has_suffix": false,
@@ -465,7 +465,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּפִּיל",
+      "heb": "תַּפִּיל",
       "translit": "tappil",
       "ref": "Prov.1.14",
       "has_suffix": false,
@@ -476,16 +476,16 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהִפַּלְתִּי",
+      "heb": "וְהִפַּלְתִּיו",
       "translit": "vhippalti",
       "ref": "2Kgs.19.7",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְהִפִּילוֹ",
+      "heb": "וְהִפִּילוֹ",
       "translit": "vhippilo",
       "ref": "Deut.25.2",
       "has_suffix": true,
@@ -494,7 +494,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְהִפִּילוּ",
+      "heb": "וְהִפִּילוּ",
       "translit": "vhippilu",
       "ref": "Jer.22.7",
       "has_suffix": false,
@@ -505,7 +505,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "הַפִּילוּ",
+      "heb": "הַפִּילוּ",
       "translit": "happilu",
       "ref": "1Sam.14.42",
       "has_suffix": false,
@@ -514,7 +514,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הַפִּלֶהָ",
+      "heb": "הַפִּלֶהָ",
       "translit": "happileha",
       "ref": "Josh.13.6",
       "has_suffix": true,
@@ -525,7 +525,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְהַפִּיל",
+      "heb": "לְהַפִּיל",
       "translit": "lhappil",
       "ref": "1Sam.18.25",
       "has_suffix": false,
@@ -536,7 +536,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וְנַפִּילָה",
+      "heb": "וְנַפִּילָה",
       "translit": "vnappilah",
       "ref": "Jonah.1.7",
       "has_suffix": false,
@@ -547,7 +547,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּפֵּל",
+      "heb": "תַּפֵּל",
       "translit": "tappel",
       "ref": "Esth.6.10",
       "has_suffix": false,
@@ -563,7 +563,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הִתְנַפָּלְתִּי",
+      "heb": "הִתְנַפָּלְתִּי",
       "translit": "hitnappalti",
       "ref": "Deut.9.25",
       "has_suffix": false,
@@ -574,7 +574,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָֽאֶתְנַפַּל",
+      "heb": "וָֽאֶתְנַפַּל",
       "translit": "va'etnappal",
       "ref": "Deut.9.18",
       "has_suffix": false,
@@ -585,7 +585,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "וּמִתְנַפֵּל",
+      "heb": "וּמִתְנַפֵּל",
       "translit": "umitnappel",
       "ref": "Ezra.10.1",
       "has_suffix": false,
@@ -596,7 +596,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "וּלְהִתְנַפֵּל",
+      "heb": "וּלְהִתְנַפֵּל",
       "translit": "ulhitnappel",
       "ref": "Gen.43.18",
       "has_suffix": false,

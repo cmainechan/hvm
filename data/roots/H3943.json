@@ -11,7 +11,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִלָּפְתוּ",
+      "heb": "יִלָּפְתוּ",
       "translit": "yillaftu",
       "ref": "Job.6.18",
       "has_suffix": false,
@@ -22,11 +22,11 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּלָּפֵת",
+      "heb": "וַיִּלָּפֵת",
       "translit": "vayyillafet",
       "ref": "Ruth.3.8",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ]
    }
@@ -38,11 +38,11 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּלְפֹּת",
+      "heb": "וַיִּלְפֹּת",
       "translit": "vayyilpot",
       "ref": "Judg.16.29",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ]
    }

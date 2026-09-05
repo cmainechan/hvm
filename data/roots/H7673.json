@@ -11,7 +11,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "שָׁבְתָה",
+      "heb": "שָׁבָתָה",
       "translit": "shavtah",
       "ref": "2Chr.36.21",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "שָׁבַת",
+      "heb": "שָׁבַת",
       "translit": "shavat",
       "ref": "Exod.31.17",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "שָׁבָתוּ",
+      "heb": "שָׁבָתוּ",
       "translit": "shavatu",
       "ref": "Lam.5.14",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּשְׁבְּתוּ",
+      "heb": "וַיִּשְׁבְּתוּ",
       "translit": "vayyishbtu",
       "ref": "Exod.16.30",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּשְׁבֹּת",
+      "heb": "וַיִּשְׁבֹּת",
       "translit": "vayyishbot",
       "ref": "Gen.2.2",
       "has_suffix": false,
@@ -60,7 +60,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּשְׁבֹּת",
+      "heb": "תִּשְׁבֹּת",
       "translit": "tishbot",
       "ref": "Exod.23.12",
       "has_suffix": false,
@@ -69,7 +69,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִשְׁבֹּֽתוּ",
+      "heb": "יִשְׁבֹּֽתוּ",
       "translit": "yishbotu",
       "ref": "Gen.8.22",
       "has_suffix": false,
@@ -78,7 +78,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִשְׁבּוֹת",
+      "heb": "יִשְׁבּוֹת",
       "translit": "yishbot",
       "ref": "Hos.7.4",
       "has_suffix": false,
@@ -87,7 +87,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּשְׁבְּתוּ",
+      "heb": "תִּשְׁבְּתוּ",
       "translit": "tishbtu",
       "ref": "Lev.23.32",
       "has_suffix": false,
@@ -96,7 +96,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּשְׁבַּת",
+      "heb": "תִּשְׁבַּת",
       "translit": "tishbat",
       "ref": "Lev.26.34",
       "has_suffix": false,
@@ -107,7 +107,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וְשָׁבְתָה",
+      "heb": "וְשָׁבְתָה",
       "translit": "vshavtah",
       "ref": "Lev.25.2",
       "has_suffix": false,
@@ -123,7 +123,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְנִשְׁבְּתוּ",
+      "heb": "וְנִשְׁבְּתוּ",
       "translit": "vnishbtu",
       "ref": "Ezek.6.6",
       "has_suffix": false,
@@ -132,7 +132,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְנִשְׁבַּת",
+      "heb": "וְנִשְׁבַּת",
       "translit": "vnishbat",
       "ref": "Ezek.30.18",
       "has_suffix": false,
@@ -148,16 +148,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הִשְׁבִּית",
+      "heb": "וְהִשְׁבִּית",
       "translit": "hishbit",
       "ref": "2Kgs.23.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְהִשְׁבַּתֶּם",
+      "heb": "וְהִשְׁבַּתֶּם",
       "translit": "vhishbattem",
       "ref": "Exod.5.5",
       "has_suffix": false,
@@ -166,7 +166,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הִשְׁבַּתִּי",
+      "heb": "הִשְׁבַּתִּי",
       "translit": "hishbatti",
       "ref": "Ezek.12.23",
       "has_suffix": false,
@@ -175,7 +175,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְהִשְׁבִּיתוּ",
+      "heb": "וְהִשְׁבִּיתוּ",
       "translit": "vhishbitu",
       "ref": "Josh.22.25",
       "has_suffix": false,
@@ -184,7 +184,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הִשְׁבַּתָּ",
+      "heb": "הִשְׁבַּתָּ",
       "translit": "hishbatta",
       "ref": "Ps.89.45",
       "has_suffix": false,
@@ -195,7 +195,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּשְׁבֵּת",
+      "heb": "וַיַּשְׁבֵּת",
       "translit": "vayyashbet",
       "ref": "2Chr.16.5",
       "has_suffix": false,
@@ -206,7 +206,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מַשְׁבִּית",
+      "heb": "מַשְׁבִּית",
       "translit": "mashbit",
       "ref": "Jer.16.9",
       "has_suffix": false,
@@ -217,7 +217,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַשְׁבִּית",
+      "heb": "יַשְׁבִּית",
       "translit": "yashbit",
       "ref": "Dan.9.27",
       "has_suffix": false,
@@ -226,7 +226,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַּשְׁבִּיתוּ",
+      "heb": "תַּשְׁבִּיתוּ",
       "translit": "tashbitu",
       "ref": "Exod.12.15",
       "has_suffix": false,
@@ -235,7 +235,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַשְׁבִּית",
+      "heb": "תַשְׁבִּית",
       "translit": "tashbit",
       "ref": "Lev.2.13",
       "has_suffix": false,
@@ -246,7 +246,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְהִשְׁבִּית",
+      "heb": "וְהִשְׁבִּית",
       "translit": "vhishbit",
       "ref": "Dan.11.18",
       "has_suffix": false,
@@ -255,7 +255,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהִשְׁבַּתִּי",
+      "heb": "וְהִשְׁבַּתִּי",
       "translit": "vhishbatti",
       "ref": "Ezek.7.24",
       "has_suffix": false,
@@ -264,7 +264,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וְהִשְׁבַּתְנוּ",
+      "heb": "וְהִשְׁבַּתְנוּ",
       "translit": "vhishbatnu",
       "ref": "Neh.4.5",
       "has_suffix": false,
@@ -275,7 +275,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "הַשְׁבִּיתוּ",
+      "heb": "הַשְׁבִּיתוּ",
       "translit": "hashbitu",
       "ref": "Isa.30.11",
       "has_suffix": false,
@@ -286,7 +286,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "וְלַשְׁבִּית",
+      "heb": "וְלַשְׁבִּית",
       "translit": "vlashbit",
       "ref": "Amos.8.4",
       "has_suffix": false,
@@ -297,7 +297,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אַשְׁבִּיתָה",
+      "heb": "אַשְׁבִּיתָה",
       "translit": "ashbitah",
       "ref": "Deut.32.26",
       "has_suffix": false,

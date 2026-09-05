@@ -20,7 +20,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "קָרַעְתָּ",
+      "heb": "קָרַעְתָּ",
       "translit": "qara'ta",
       "ref": "2Kgs.5.8",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "קָרַעְתִּי",
+      "heb": "קָרַעְתִּי",
       "translit": "qara'ti",
       "ref": "Ezra.9.3",
       "has_suffix": false,
@@ -58,10 +58,10 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּקְרַע",
+      "heb": "וַיִּקְרָעֶהָ",
       "translit": "vayyiqra",
       "ref": "1Kgs.11.30",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -76,7 +76,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּקְרַע",
+      "heb": "וַתִּקְרַע",
       "translit": "vattiqra",
       "ref": "2Chr.23.13",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתִּקְרַע",
+      "heb": "וַתִּקְרַע",
       "translit": "vattiqra",
       "ref": "2Chr.34.27",
       "has_suffix": false,
@@ -94,7 +94,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיִּקְרְעוּ",
+      "heb": "וַֽיִּקְרְעוּ",
       "translit": "vayyiqr'u",
       "ref": "Gen.44.13",
       "has_suffix": false,
@@ -165,7 +165,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְקָרַעְתִּי",
+      "heb": "וְקָרַעְתִּי",
       "translit": "vqara'ti",
       "ref": "Ezek.13.20",
       "has_suffix": false,
@@ -234,7 +234,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּקָּרַֽע",
+      "heb": "וַיִּקָּרַֽע",
       "translit": "vayyiqqara",
       "ref": "1Sam.15.27",
       "has_suffix": false,
@@ -245,7 +245,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִקָּרֵֽעַ",
+      "heb": "יִקָּרֵֽעַ",
       "translit": "yiqqare'a",
       "ref": "Exod.28.32",
       "has_suffix": false,

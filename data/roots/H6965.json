@@ -38,7 +38,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "קַמְתָּ",
+      "heb": "קַמְתָּ",
       "translit": "qamta",
       "ref": "2Sam.12.21",
       "has_suffix": false,
@@ -47,7 +47,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "קַמְתִּי",
+      "heb": "קַמְתִּי",
       "translit": "qamti",
       "ref": "Ezra.9.5",
       "has_suffix": false,
@@ -56,7 +56,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "קַמְתֶּם",
+      "heb": "קַמְתֶּם",
       "translit": "qamtem",
       "ref": "Judg.9.18",
       "has_suffix": false,
@@ -65,7 +65,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "קַּמְנוּ",
+      "heb": "קַּמְנוּ",
       "translit": "qamnu",
       "ref": "Ps.20.9",
       "has_suffix": false,
@@ -76,7 +76,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיָּקֻמוּ",
+      "heb": "וַיָּקוּמוּ",
       "translit": "vayyaqumu",
       "ref": "1Chr.10.12",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיָּקָם",
+      "heb": "וַיָּקָם",
       "translit": "vayyaqam",
       "ref": "1Chr.28.2",
       "has_suffix": false,
@@ -94,7 +94,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתָּקָם",
+      "heb": "וַתָּקָם",
       "translit": "vattaqam",
       "ref": "1Kgs.3.20",
       "has_suffix": false,
@@ -103,7 +103,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאָקוּם",
+      "heb": "וָאָקֻם",
       "translit": "va'aqum",
       "ref": "1Kgs.3.21",
       "has_suffix": false,
@@ -123,11 +123,11 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "קָמִים",
+      "heb": "הַקּוֹמִים",
       "translit": "qamim",
       "ref": "2Kgs.16.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "fs",
@@ -161,7 +161,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יָקוּמוּ",
+      "heb": "יְקוּמוּן",
       "translit": "yaqumu",
       "ref": "2Sam.22.39",
       "has_suffix": false,
@@ -188,7 +188,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תָּקוּם",
+      "heb": "תָּקוּם",
       "translit": "taqum",
       "ref": "Lev.19.32",
       "has_suffix": false,
@@ -217,7 +217,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְקַמְתִּי",
+      "heb": "וְקַמְתִּי",
       "translit": "vqamti",
       "ref": "Amos.7.9",
       "has_suffix": false,
@@ -226,7 +226,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְקַמְתָּ",
+      "heb": "וְקַמְתָּ",
       "translit": "vqamta",
       "ref": "Deut.17.8",
       "has_suffix": false,
@@ -264,11 +264,11 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "קוּמוּ",
+      "heb": "וְקוּמוּ",
       "translit": "qumu",
       "ref": "1Chr.22.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2fs",
@@ -293,11 +293,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "קוּם",
+      "heb": "לָקוּם",
       "translit": "qum",
       "ref": "1Sam.22.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
@@ -360,7 +360,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "קִיְּמוּ",
+      "heb": "קִיְּמוּ",
       "translit": "qiyymu",
       "ref": "Esth.9.27",
       "has_suffix": false,
@@ -369,7 +369,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "קִיַּם",
+      "heb": "קִיַּם",
       "translit": "qiyyam",
       "ref": "Esth.9.31",
       "has_suffix": false,
@@ -380,10 +380,10 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֲקַיֵּמָה",
+      "heb": "וָאֲקַיֵּמָה",
       "translit": "va'aqayyemah",
       "ref": "Ps.119.106",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      }
     ],
@@ -391,7 +391,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "קַיְּמֵנִי",
+      "heb": "קַיְּמֵנִי",
       "translit": "qayymeni",
       "ref": "Ps.119.28",
       "has_suffix": true,
@@ -402,7 +402,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְקַיֵּם",
+      "heb": "לְקַיֵּם",
       "translit": "lqayyem",
       "ref": "Esth.9.21",
       "has_suffix": false,
@@ -418,29 +418,29 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הֲקִמֹתִי",
+      "heb": "וַהֲקִמֹתִי",
       "translit": "haqimoti",
       "ref": "1Kgs.9.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הֵקִים",
+      "heb": "וְהֵקִים",
       "translit": "heqim",
       "ref": "1Kgs.14.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הֲקֵימֹתוֹ",
+      "heb": "וַהֲקֵֽמֹתוֹ",
       "translit": "haqemoto",
       "ref": "2Kgs.9.2",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3cp",
@@ -456,7 +456,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיָּקֶם",
+      "heb": "וַיָּקֶם",
       "translit": "vayyaqem",
       "ref": "1Kgs.7.21",
       "has_suffix": false,
@@ -474,7 +474,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיָּקִימוּ",
+      "heb": "וַיָּקִימוּ",
       "translit": "vayyaqimu",
       "ref": "Josh.7.26",
       "has_suffix": false,
@@ -483,7 +483,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתָּקֶם",
+      "heb": "וַתָּקֶם",
       "translit": "vattaqem",
       "ref": "Neh.9.8",
       "has_suffix": false,
@@ -523,7 +523,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תָּקִים",
+      "heb": "תָקִים",
       "translit": "taqim",
       "ref": "Deut.16.22",
       "has_suffix": false,
@@ -532,7 +532,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תָּקִימוּ",
+      "heb": "תָּקִימוּ",
       "translit": "taqimu",
       "ref": "Deut.27.4",
       "has_suffix": false,
@@ -541,7 +541,7 @@
      {
       "code": "2fp",
       "label": "2nd fem. pl.",
-      "heb": "תָּקִימְנָה",
+      "heb": "תָּקִימְנָה",
       "translit": "taqimnah",
       "ref": "Jer.44.25",
       "has_suffix": false,
@@ -550,7 +550,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יָקִימוּ",
+      "heb": "יְקִימוּן",
       "translit": "yaqimu",
       "ref": "Job.4.4",
       "has_suffix": false,
@@ -561,7 +561,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וַהֲקִמֹתִי",
+      "heb": "וַהֲקִֽימוֹתִי",
       "translit": "vahaqimoti",
       "ref": "1Chr.17.11",
       "has_suffix": false,
@@ -628,11 +628,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הָקִים",
+      "heb": "לְהָקִים",
       "translit": "haqim",
       "ref": "1Chr.21.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
@@ -666,7 +666,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הוּקַם",
+      "heb": "הֻקַם",
       "translit": "huqam",
       "ref": "2Sam.23.1",
       "has_suffix": false,

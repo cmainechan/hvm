@@ -11,16 +11,16 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "דֹּבֵר",
+      "heb": "וְדֹבֵר",
       "translit": "dover",
       "ref": "Amos.5.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "דֹּבְרֹת",
+      "heb": "דֹּבְרֹת",
       "translit": "dovrot",
       "ref": "Num.27.7",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "דֹּבְרִֽים",
+      "heb": "דֹּבְרִֽים",
       "translit": "dovrim",
       "ref": "Num.36.5",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "דָּבֻר",
+      "heb": "דָּבֻר",
       "translit": "davur",
       "ref": "Prov.25.11",
       "has_suffix": false,
@@ -51,7 +51,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בְּדָבְרֶךָ",
+      "heb": "בְּדָבְרֶךָ",
       "translit": "bdavrekha",
       "ref": "Ps.51.6",
       "has_suffix": true,
@@ -67,7 +67,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נִּדְבַּרְנוּ",
+      "heb": "נִּדְבַּרְנוּ",
       "translit": "nidbarnu",
       "ref": "Mal.3.13",
       "has_suffix": false,
@@ -76,7 +76,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "נִדְבְּרוּ",
+      "heb": "נִדְבְּרוּ",
       "translit": "nidbru",
       "ref": "Mal.3.16",
       "has_suffix": false,
@@ -87,7 +87,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הַנִּדְבָּרִים",
+      "heb": "הַנִּדְבָּרִים",
       "translit": "hannidbarim",
       "ref": "Ezek.33.30",
       "has_suffix": false,
@@ -103,7 +103,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "דִּבַּרְתִּי",
+      "heb": "דִּבַּרְתִּי",
       "translit": "dibbarti",
       "ref": "1Chr.17.6",
       "has_suffix": false,
@@ -112,7 +112,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "דִּבֶּר",
+      "heb": "דִּבֶּר",
       "translit": "dibber",
       "ref": "1Chr.17.15",
       "has_suffix": false,
@@ -121,7 +121,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "דִּבַּרְתָּ",
+      "heb": "דִּבַּרְתָּ",
       "translit": "dibbarta",
       "ref": "1Chr.17.23",
       "has_suffix": false,
@@ -130,7 +130,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "דִּבְּרוּ",
+      "heb": "דִּבְּרוּ",
       "translit": "dibbru",
       "ref": "1Kgs.12.9",
       "has_suffix": false,
@@ -139,7 +139,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "דִּבַּרְנוּ",
+      "heb": "דִּבַּרְנוּ",
       "translit": "dibbarnu",
       "ref": "1Sam.20.23",
       "has_suffix": false,
@@ -148,7 +148,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "דִּבְּרָה",
+      "heb": "דִּבְּרָה",
       "translit": "dibbrah",
       "ref": "2Kgs.5.4",
       "has_suffix": false,
@@ -157,7 +157,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "דִּבַּרְתֶּם",
+      "heb": "דִּבַּרְתֶּם",
       "translit": "dibbartem",
       "ref": "Exod.12.32",
       "has_suffix": false,
@@ -166,7 +166,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "דִבַּרְתְּ",
+      "heb": "דִבַּרְתְּ",
       "translit": "dibbart",
       "ref": "Jer.3.5",
       "has_suffix": false,
@@ -177,7 +177,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתְּדַבֵּר",
+      "heb": "וַתְּדַבֵּר",
       "translit": "vattdabber",
       "ref": "1Chr.17.17",
       "has_suffix": false,
@@ -186,7 +186,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיְדַבֵּר",
+      "heb": "וַיְדַבֵּר",
       "translit": "vaydabber",
       "ref": "1Chr.21.9",
       "has_suffix": false,
@@ -195,7 +195,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "וַתְּדַבֵּרְנָה",
+      "heb": "וַתְּדַבֵּרְנָה",
       "translit": "vattdabbernah",
       "ref": "1Kgs.3.22",
       "has_suffix": false,
@@ -204,7 +204,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתְּדַבֵּר",
+      "heb": "וַתְּדַבֵּר",
       "translit": "vattdabber",
       "ref": "1Kgs.10.2",
       "has_suffix": false,
@@ -213,7 +213,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיְדַבְּרוּ",
+      "heb": "וַֽיְדַבְּרוּ",
       "translit": "vaydabbru",
       "ref": "1Kgs.12.3",
       "has_suffix": false,
@@ -222,7 +222,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֲדַבֵּר",
+      "heb": "וָאֲדַבְּרָה",
       "translit": "va'adabber",
       "ref": "Dan.10.16",
       "has_suffix": false,
@@ -233,7 +233,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "מְדַבֶּרֶת",
+      "heb": "מְדַבֶּרֶת",
       "translit": "mdabberet",
       "ref": "1Kgs.1.14",
       "has_suffix": false,
@@ -242,7 +242,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מְדַבֵּר",
+      "heb": "מְדַבֵּר",
       "translit": "mdabber",
       "ref": "1Kgs.1.42",
       "has_suffix": false,
@@ -251,16 +251,16 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מְדַבְּרִים",
+      "heb": "הַֽמְדַבְּרִים",
       "translit": "mdabbrim",
       "ref": "2Chr.33.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "fp",
       "label": "fem. pl.",
-      "heb": "מְדַבְּרוֹת",
+      "heb": "מְדַבְּרוֹת",
       "translit": "mdabbrot",
       "ref": "Isa.19.18",
       "has_suffix": false,
@@ -271,7 +271,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֲדַבֵּר",
+      "heb": "אֲדַבֵּר",
       "translit": "adabber",
       "ref": "1Kgs.2.18",
       "has_suffix": false,
@@ -280,7 +280,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְּדַבֵּר",
+      "heb": "תְּדַבֵּר",
       "translit": "tdabber",
       "ref": "1Kgs.12.10",
       "has_suffix": false,
@@ -289,7 +289,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְדַבֵּר",
+      "heb": "יְדַבֵּר",
       "translit": "ydabber",
       "ref": "1Sam.9.6",
       "has_suffix": false,
@@ -298,7 +298,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יְדַבֵּרוּ",
+      "heb": "יְדַבְּרוּ",
       "translit": "ydabberu",
       "ref": "2Sam.20.18",
       "has_suffix": false,
@@ -307,7 +307,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תְּדַבְּרוּ",
+      "heb": "תְּדַבְּרוּן",
       "translit": "tdabbru",
       "ref": "Gen.32.20",
       "has_suffix": false,
@@ -316,7 +316,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נְּדַבֵּר",
+      "heb": "נְּדַבֵּר",
       "translit": "ndabber",
       "ref": "Gen.44.16",
       "has_suffix": false,
@@ -325,7 +325,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תְּדַבֵּרִי",
+      "heb": "תְּדַבֵּרִי",
       "translit": "tdabberi",
       "ref": "Isa.29.4",
       "has_suffix": false,
@@ -334,7 +334,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תְּדַבֵּרְנָה",
+      "heb": "תְּדַבֵּרְנָה",
       "translit": "tdabbernah",
       "ref": "Job.27.4",
       "has_suffix": false,
@@ -343,7 +343,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְּדַבֵּר",
+      "heb": "תְּדַבֵּר",
       "translit": "tdabber",
       "ref": "Ps.37.30",
       "has_suffix": false,
@@ -354,7 +354,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְדִבַּרְתָּ",
+      "heb": "וְדִבַּרְתָּ",
       "translit": "vdibbarta",
       "ref": "1Chr.21.10",
       "has_suffix": false,
@@ -363,7 +363,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְדִבַּרְתֶּם",
+      "heb": "וְדִבַּרְתֶּם",
       "translit": "vdibbartem",
       "ref": "2Kgs.1.6",
       "has_suffix": false,
@@ -372,7 +372,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וְדִבַּרְתְּ",
+      "heb": "וְדִבַּרְתְּ",
       "translit": "vdibbart",
       "ref": "2Sam.14.3",
       "has_suffix": false,
@@ -381,7 +381,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְדִבֶּר",
+      "heb": "וְדִבֶּר",
       "translit": "vdibber",
       "ref": "Deut.18.18",
       "has_suffix": false,
@@ -390,7 +390,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְדִבְּרוּ",
+      "heb": "וְדִבְּרוּ",
       "translit": "vdibbru",
       "ref": "Deut.20.5",
       "has_suffix": false,
@@ -399,7 +399,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְדִבַּרְתִּי",
+      "heb": "וְדִבַּרְתִּי",
       "translit": "vdibbarti",
       "ref": "Exod.25.22",
       "has_suffix": false,
@@ -410,7 +410,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "דַּבֵּר",
+      "heb": "דַּבֵּֽר",
       "translit": "dabber",
       "ref": "1Kgs.2.14",
       "has_suffix": false,
@@ -419,7 +419,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "דַּבְּרוּ",
+      "heb": "דַּבְּרוּ",
       "translit": "dabbru",
       "ref": "1Kgs.20.11",
       "has_suffix": false,
@@ -428,7 +428,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "דַּבֵּֽרִי",
+      "heb": "דַּבֵּֽרִי",
       "translit": "dabberi",
       "ref": "2Sam.14.12",
       "has_suffix": false,
@@ -439,29 +439,29 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "דַּבֵּר",
+      "heb": "לְדַבֶּר",
       "translit": "dabber",
       "ref": "1Kgs.2.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_absolute": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "דַּבֵּר",
+      "heb": "וְדַבֵּר",
       "translit": "dabber",
       "ref": "2Kgs.2.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "cohortative": [
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֲדַבְּרָה",
+      "heb": "אֲדַבְּרָה",
       "translit": "adabbrah",
       "ref": "2Sam.14.15",
       "has_suffix": false,
@@ -472,7 +472,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תְדַבְּרוּ",
+      "heb": "תְדַבְּרוּ",
       "translit": "tdabbru",
       "ref": "1Sam.2.3",
       "has_suffix": false,
@@ -481,16 +481,16 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְּדַבֶּר",
+      "heb": "וּֽתְדַבֶּר",
       "translit": "tdabber",
       "ref": "1Sam.25.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְּדַבֵּר",
+      "heb": "תְּדַבֵּר",
       "translit": "tdabber",
       "ref": "2Kgs.18.26",
       "has_suffix": false,
@@ -499,7 +499,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְדַבֵּר",
+      "heb": "יְדַבֶּר",
       "translit": "ydabber",
       "ref": "2Sam.14.18",
       "has_suffix": false,
@@ -515,7 +515,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מְדֻבָּר",
+      "heb": "מְדֻבָּר",
       "translit": "mdubbar",
       "ref": "Ps.87.3",
       "has_suffix": false,
@@ -526,7 +526,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "שֶׁיְּדֻבַּר",
+      "heb": "שֶׁיְּדֻבַּר",
       "translit": "sheyydubbar",
       "ref": "Song.8.8",
       "has_suffix": false,
@@ -542,7 +542,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיַּדְבֵּר",
+      "heb": "וַיַּדְבֵּר",
       "translit": "vayyadber",
       "ref": "Ps.18.48",
       "has_suffix": false,
@@ -553,7 +553,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַדְבֵּר",
+      "heb": "יַדְבֵּר",
       "translit": "yadber",
       "ref": "Ps.47.4",
       "has_suffix": false,
@@ -569,7 +569,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מִדַּבֵּר",
+      "heb": "מִדַּבֵּר",
       "translit": "middabber",
       "ref": "Ezek.2.2",
       "has_suffix": false,

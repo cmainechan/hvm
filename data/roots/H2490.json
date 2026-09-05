@@ -22,7 +22,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "כְּחֹלְלִים",
+      "heb": "כְּחֹלְלִים",
       "translit": "kchollim",
       "ref": "Ps.87.7",
       "has_suffix": false,
@@ -89,7 +89,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וְנִחַלְתְּ",
+      "heb": "וְנִחַלְתְּ",
       "translit": "vnichalt",
       "ref": "Ezek.22.16",
       "has_suffix": false,
@@ -116,16 +116,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "חִלֵּל",
+      "heb": "חִלְּלוֹ",
       "translit": "chillel",
       "ref": "Deut.20.6",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "חִלְּלוּ",
+      "heb": "חִלְּלוּ",
       "translit": "chilllu",
       "ref": "Ezek.20.13",
       "has_suffix": false,
@@ -134,7 +134,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "חִלָּֽלְתְּ",
+      "heb": "חִלָּֽלְתְּ",
       "translit": "chillalt",
       "ref": "Ezek.22.8",
       "has_suffix": false,
@@ -143,7 +143,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "חִלַּלְתָּ",
+      "heb": "חִלַּלְתָּ",
       "translit": "chillalta",
       "ref": "Ezek.28.18",
       "has_suffix": false,
@@ -152,7 +152,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "חִלַּלְתֶּם",
+      "heb": "חִלַּלְתֶּם",
       "translit": "chillaltem",
       "ref": "Ezek.36.22",
       "has_suffix": false,
@@ -161,7 +161,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "חִלַּלְתִּי",
+      "heb": "חִלַּלְתִּי",
       "translit": "chillalti",
       "ref": "Isa.47.6",
       "has_suffix": false,
@@ -172,7 +172,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתְּחַֽלְלֶֽהָ",
+      "heb": "וַתְּחַֽלְלֶֽהָ",
       "translit": "vattchalleha",
       "ref": "Exod.20.25",
       "has_suffix": true,
@@ -181,7 +181,7 @@
      {
       "code": "2fp",
       "label": "2nd fem. pl.",
-      "heb": "וַתְּחַלֶּלְנָה",
+      "heb": "וַתְּחַלֶּלְנָה",
       "translit": "vattchallelnah",
       "ref": "Ezek.13.19",
       "has_suffix": false,
@@ -190,7 +190,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיְחַלְּלוּ",
+      "heb": "וַיְחַלְּלוּ",
       "translit": "vaychalllu",
       "ref": "Ezek.22.26",
       "has_suffix": false,
@@ -199,7 +199,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֶחַלֶּלְךָ",
+      "heb": "וָאֶחַלֶּלְךָ",
       "translit": "va'echallelkha",
       "ref": "Ezek.28.16",
       "has_suffix": true,
@@ -208,7 +208,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַתְּחַלְּלוּ",
+      "heb": "וַתְּחַלְּלוּ",
       "translit": "vattchalllu",
       "ref": "Jer.34.16",
       "has_suffix": false,
@@ -219,7 +219,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מְחַלְּלִים",
+      "heb": "מְחַלְּלִים",
       "translit": "mchalllim",
       "ref": "1Kgs.1.40",
       "has_suffix": false,
@@ -228,7 +228,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מְחַלֵּל",
+      "heb": "מְחַלֵּל",
       "translit": "mchallel",
       "ref": "Ezek.24.21",
       "has_suffix": false,
@@ -237,7 +237,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "מְחַלֶּלֶת",
+      "heb": "מְחַלֶּלֶת",
       "translit": "mchallelet",
       "ref": "Lev.21.9",
       "has_suffix": false,
@@ -248,25 +248,25 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְחַלֵּל",
+      "heb": "יְחַלְּלֶֽנּוּ",
       "translit": "ychallel",
       "ref": "Deut.20.6",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְחַלֵּל",
+      "heb": "תְחַלְּלֶּֽנּוּ",
       "translit": "tchallel",
       "ref": "Deut.28.30",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תְחַלְּלוּ",
+      "heb": "תְחַלְּלוּ",
       "translit": "tchalllu",
       "ref": "Ezek.20.39",
       "has_suffix": false,
@@ -275,16 +275,16 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֲחַלֵּל",
+      "heb": "וַאֲחַלֵּל",
       "translit": "achallel",
       "ref": "Isa.43.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יְחַלְּלוּ",
+      "heb": "יְחַלְּלוּ",
       "translit": "ychalllu",
       "ref": "Lev.21.6",
       "has_suffix": false,
@@ -295,7 +295,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וְחִלְּלוּ",
+      "heb": "וְחִלְּלוּ",
       "translit": "vchilllu",
       "ref": "Dan.11.31",
       "has_suffix": false,
@@ -304,7 +304,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְחִלַּלְתָּ",
+      "heb": "וְחִלַּלְתָּ",
       "translit": "vchillalta",
       "ref": "Lev.19.12",
       "has_suffix": false,
@@ -315,18 +315,18 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "חַלֵּל",
+      "heb": "וּֽבְחַלְּלוֹ",
       "translit": "challel",
       "ref": "1Chr.5.1",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      }
     ],
     "jussive": [
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְּחַלֵּל",
+      "heb": "תְּחַלֵּל",
       "translit": "tchallel",
       "ref": "Lev.19.29",
       "has_suffix": false,
@@ -342,7 +342,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "הַֽמְחֻלָּל",
+      "heb": "הַֽמְחֻלָּל",
       "translit": "hamchullal",
       "ref": "Ezek.36.23",
       "has_suffix": false,
@@ -376,7 +376,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הַחִלֹּתִי",
+      "heb": "הַחִלֹּתִי",
       "translit": "hachilloti",
       "ref": "1Sam.22.15",
       "has_suffix": false,
@@ -394,7 +394,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "הֵחֵלָּה",
+      "heb": "הֵחֵלָּה",
       "translit": "hechellah",
       "ref": "Judg.20.40",
       "has_suffix": false,
@@ -405,7 +405,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיָּחֶל",
+      "heb": "וַיָּחֶל",
       "translit": "vayyachel",
       "ref": "2Chr.3.1",
       "has_suffix": false,
@@ -414,7 +414,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיָּחֵלּוּ",
+      "heb": "וַיָּחֵלּוּ",
       "translit": "vayyachellu",
       "ref": "2Chr.29.17",
       "has_suffix": false,
@@ -423,7 +423,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "וַתְּחִלֶּינָה",
+      "heb": "וַתְּחִלֶּינָה",
       "translit": "vattchillenah",
       "ref": "Gen.41.54",
       "has_suffix": false,
@@ -432,7 +432,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתָּחֶל",
+      "heb": "וַתָּחֶל",
       "translit": "vattachel",
       "ref": "Judg.13.25",
       "has_suffix": false,
@@ -463,7 +463,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תָּחֵל",
+      "heb": "תָּחֵל",
       "translit": "tachel",
       "ref": "Deut.16.9",
       "has_suffix": false,
@@ -472,7 +472,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תָּחֵלּוּ",
+      "heb": "תָּחֵלּוּ",
       "translit": "tachellu",
       "ref": "Ezek.9.6",
       "has_suffix": false,

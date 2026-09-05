@@ -11,7 +11,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "חַלְתִּי",
+      "heb": "חַלְתִּי",
       "translit": "chalti",
       "ref": "Isa.23.4",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיָּחֶל",
+      "heb": "וַיָּחֶל",
       "translit": "vayyachel",
       "ref": "1Chr.10.3",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתָּחֹל",
+      "heb": "וַתָּחֹל",
       "translit": "vattachol",
       "ref": "Jer.51.29",
       "has_suffix": false,
@@ -67,7 +67,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיָּחִילוּ",
+      "heb": "וַיָּחִילוּ",
       "translit": "vayyachilu",
       "ref": "Judg.3.25",
       "has_suffix": false,
@@ -78,7 +78,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יָחִילוּ",
+      "heb": "יָחֻלוּ",
       "translit": "yachilu",
       "ref": "2Sam.3.29",
       "has_suffix": false,
@@ -87,7 +87,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תָּחִיל",
+      "heb": "תָּחוּל",
       "translit": "tachil",
       "ref": "Ezek.30.16",
       "has_suffix": false,
@@ -96,10 +96,10 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תְּחִילִֽין",
+      "heb": "תְּחִילִֽין",
       "translit": "tchilin",
       "ref": "Isa.45.10",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      },
      {

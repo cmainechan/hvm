@@ -11,7 +11,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "פֹּרֶה",
+      "heb": "פֹּרֶה",
       "translit": "poreh",
       "ref": "Deut.29.17",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "פֹּֽרִיָּה",
+      "heb": "פֹּֽרִיָּה",
       "translit": "poriyyah",
       "ref": "Ezek.19.10",
       "has_suffix": false,
@@ -31,7 +31,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "פָּרוּ",
+      "heb": "פָּרוּ",
       "translit": "paru",
       "ref": "Exod.1.7",
       "has_suffix": false,
@@ -51,7 +51,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּפְרֶה",
+      "heb": "תִּפְרֶה",
       "translit": "tifreh",
       "ref": "Exod.23.30",
       "has_suffix": false,
@@ -84,7 +84,7 @@
       "translit": "ufaru",
       "ref": "Ezek.36.11",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      },
      {
       "code": "2mp",
@@ -93,14 +93,14 @@
       "translit": "ufritem",
       "ref": "Jer.3.16",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "imperative": [
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "פְּרוּ",
+      "heb": "פְּרוּ",
       "translit": "pru",
       "ref": "Gen.1.22",
       "has_suffix": false,
@@ -109,7 +109,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "פְּרֵה",
+      "heb": "פְּרֵה",
       "translit": "preh",
       "ref": "Gen.35.11",
       "has_suffix": false,
@@ -120,11 +120,11 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּפְרוּ",
+      "heb": "וַיִּפְרוּ",
       "translit": "vayyifru",
       "ref": "Gen.47.27",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ]
    }
@@ -136,11 +136,11 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהִפְרֵיתִי",
+      "heb": "וְהִפְרֵתִי",
       "translit": "vhifreti",
       "ref": "Gen.17.6",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "jussive": [
@@ -169,11 +169,11 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיֶּפֶר",
+      "heb": "וַיֶּפֶר",
       "translit": "vayyefer",
       "ref": "Ps.105.24",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ]
    }

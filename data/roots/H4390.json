@@ -29,7 +29,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "מָלְאָה",
+      "heb": "מָֽלְאָה",
       "translit": "mal'ah",
       "ref": "Ezek.7.23",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּמְלְאוּ",
+      "heb": "וַיִּמְלְאוּ",
       "translit": "vayyiml'u",
       "ref": "Gen.25.24",
       "has_suffix": false,
@@ -98,7 +98,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּמְלָאֵמוֹ",
+      "heb": "תִּמְלָאֵמוֹ",
       "translit": "timla'emo",
       "ref": "Exod.15.9",
       "has_suffix": true,
@@ -140,11 +140,11 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "מְלֹאת",
+      "heb": "כִּמְלֹאת",
       "translit": "mlo't",
       "ref": "2Kgs.4.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "jussive": [
@@ -167,7 +167,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּמָּלֵא",
+      "heb": "וַיִּמָּלֵא",
       "translit": "vayyimmale",
       "ref": "1Kgs.7.14",
       "has_suffix": false,
@@ -176,7 +176,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּמָּלֵא",
+      "heb": "וַתִּמָּלֵא",
       "translit": "vattimmale",
       "ref": "2Kgs.3.20",
       "has_suffix": false,
@@ -185,7 +185,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וַתִּמָּלְאִי",
+      "heb": "וַתִּמָּלְאִי",
       "translit": "vattimmal'i",
       "ref": "Ezek.27.25",
       "has_suffix": false,
@@ -207,7 +207,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִמָּלֵא",
+      "heb": "יִמָּלֵא",
       "translit": "yimmale",
       "ref": "2Kgs.3.17",
       "has_suffix": false,
@@ -216,7 +216,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּמָּלֵא",
+      "heb": "תִמָּלֵא",
       "translit": "timmale",
       "ref": "Eccl.1.8",
       "has_suffix": false,
@@ -225,7 +225,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִמָּלְאוּ",
+      "heb": "יִמָּלְאוּ",
       "translit": "yimmal'u",
       "ref": "Eccl.11.3",
       "has_suffix": false,
@@ -234,7 +234,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תִּמָּלֵאִי",
+      "heb": "תִּמָּלֵאִי",
       "translit": "timmale'i",
       "ref": "Ezek.23.33",
       "has_suffix": false,
@@ -245,7 +245,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אִמָּלְאָה",
+      "heb": "אִמָּלְאָה",
       "translit": "immal'ah",
       "ref": "Ezek.26.2",
       "has_suffix": false,
@@ -261,7 +261,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "מִלֵּא",
+      "heb": "מִלֵּא",
       "translit": "mille",
       "ref": "1Kgs.8.15",
       "has_suffix": false,
@@ -270,7 +270,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "מִלֵּאתָ",
+      "heb": "מִלֵּאתָ",
       "translit": "mille'ta",
       "ref": "1Kgs.8.24",
       "has_suffix": false,
@@ -288,7 +288,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "מִלֵּאתֶם",
+      "heb": "מִלֵּאתֶם",
       "translit": "mille'tem",
       "ref": "2Chr.29.31",
       "has_suffix": false,
@@ -297,16 +297,16 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "מִלֵּאתִי",
+      "heb": "מִלֵּאתִיו",
       "translit": "mille'ti",
       "ref": "Exod.28.3",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "מִלֵּאנוּ",
+      "heb": "מִלֵּאנוּ",
       "translit": "mille'nu",
       "ref": "Josh.9.13",
       "has_suffix": false,
@@ -317,16 +317,16 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיְמַלְאוּ",
+      "heb": "וַיְמַלְאוּם",
       "translit": "vaymal'u",
       "ref": "1Sam.18.27",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיְמַלֵּא",
+      "heb": "וַיְמַלֵּא",
       "translit": "vaymalle",
       "ref": "2Kgs.23.14",
       "has_suffix": false,
@@ -335,7 +335,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "וַתְּמַלֶּאנָה",
+      "heb": "וַתְּמַלֶּאנָה",
       "translit": "vattmalle'nah",
       "ref": "Exod.2.16",
       "has_suffix": false,
@@ -344,7 +344,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֲמַלֵּא",
+      "heb": "וָאֲמַלֵּא",
       "translit": "va'amalle",
       "ref": "Exod.31.3",
       "has_suffix": false,
@@ -353,7 +353,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתְּמַלֵּא",
+      "heb": "וַתְּמַלֵּא",
       "translit": "vattmalle",
       "ref": "Gen.21.19",
       "has_suffix": false,
@@ -364,7 +364,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מְמַלֵּא",
+      "heb": "מְמַלֵּא",
       "translit": "mmalle",
       "ref": "1Chr.12.16",
       "has_suffix": false,
@@ -373,7 +373,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הַֽמְמַלְאִים",
+      "heb": "וְהַֽמְמַלְאִים",
       "translit": "hammal'im",
       "ref": "Isa.65.11",
       "has_suffix": false,
@@ -384,7 +384,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְמַלֵּא",
+      "heb": "יְמַלֵּא",
       "translit": "ymalle",
       "ref": "1Kgs.13.33",
       "has_suffix": false,
@@ -393,7 +393,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֲמַלֵּֽא",
+      "heb": "אֲמַלֵּֽא",
       "translit": "amalle",
       "ref": "Exod.23.26",
       "has_suffix": false,
@@ -402,7 +402,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְּמַלֵּא",
+      "heb": "תְּמַלֵּא",
       "translit": "tmalle",
       "ref": "Exod.29.35",
       "has_suffix": false,
@@ -411,7 +411,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יְמַלֵּאוּ",
+      "heb": "יְמַלֵּאוּ",
       "translit": "ymalle'u",
       "ref": "Ezek.7.19",
       "has_suffix": false,
@@ -420,7 +420,7 @@
      {
       "code": "3fp",
       "label": "3rd fem. pl.",
-      "heb": "תְּמַלֶּאנָה",
+      "heb": "תְּמַלֶּאנָה",
       "translit": "tmalle'nah",
       "ref": "Job.39.2",
       "has_suffix": false,
@@ -429,7 +429,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נְמַלֵּא",
+      "heb": "נְמַלֵּא",
       "translit": "nmalle",
       "ref": "Prov.1.13",
       "has_suffix": false,
@@ -440,7 +440,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וּמִלֵּאתִי",
+      "heb": "וּמִלֵּאתִי",
       "translit": "umille'ti",
       "ref": "1Kgs.1.14",
       "has_suffix": false,
@@ -449,16 +449,16 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "וּמִלְאוּ",
+      "heb": "וּמִלְאוּהָ",
       "translit": "umil'u",
       "ref": "2Kgs.3.25",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וּמִלֵּאתָ",
+      "heb": "וּמִלֵּאתָ",
       "translit": "umille'ta",
       "ref": "Exod.28.17",
       "has_suffix": false,
@@ -467,7 +467,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וּמִלֵּא",
+      "heb": "וּמִלֵּא",
       "translit": "umille",
       "ref": "Lev.21.10",
       "has_suffix": false,
@@ -478,7 +478,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "מַלֵּא",
+      "heb": "מַלֵּא",
       "translit": "malle",
       "ref": "1Sam.16.1",
       "has_suffix": false,
@@ -487,18 +487,18 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "מַלְאוּ",
+      "heb": "וּמַלְאוּ",
       "translit": "mal'u",
       "ref": "Ezek.9.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "infinitive_construct": [
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְמַלֵּא",
+      "heb": "לְמַלֹּאות",
       "translit": "lmalle",
       "ref": "1Chr.29.5",
       "has_suffix": false,
@@ -514,7 +514,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מְמֻלָּאִים",
+      "heb": "מְמֻלָּאִים",
       "translit": "mmulla'im",
       "ref": "Song.5.14",
       "has_suffix": false,
@@ -530,10 +530,10 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִתְמַלָּאֽוּן",
+      "heb": "יִתְמַלָּאֽוּן",
       "translit": "yitmalla'un",
       "ref": "Job.16.10",
-      "has_suffix": true,
+      "has_suffix": false,
       "has_prefix": false
      }
     ]

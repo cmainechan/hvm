@@ -15,16 +15,16 @@
       "translit": "vaysukhum",
       "ref": "2Chr.28.15",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": false
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיָּסֶךְ",
+      "heb": "וַיָּסֶךְ",
       "translit": "vayyasekh",
       "ref": "2Sam.12.20",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      },
      {
       "code": "1cs",
@@ -33,14 +33,14 @@
       "translit": "va'asukhekh",
       "ref": "Ezek.16.9",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": false
      }
     ],
     "jussive": [
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תָּסוּכִי",
+      "heb": "תָּסוּכִי",
       "translit": "tasukhi",
       "ref": "2Sam.14.2",
       "has_suffix": false,
@@ -62,7 +62,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "סָכְתִּי",
+      "heb": "סָכְתִּי",
       "translit": "sakhti",
       "ref": "Dan.10.3",
       "has_suffix": false,
@@ -84,11 +84,11 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וָסַכְתְּ",
+      "heb": "וָסַכְתְּ",
       "translit": "vasakht",
       "ref": "Ruth.3.3",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": false
      }
     ]
    }

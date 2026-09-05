@@ -11,16 +11,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יָצַק",
+      "heb": "יְצָקָם",
       "translit": "yatzaq",
       "ref": "1Kgs.7.46",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וְיָצַקְתְּ",
+      "heb": "וְיָצַקְתְּ",
       "translit": "vyatzaqt",
       "ref": "2Kgs.4.4",
       "has_suffix": false,
@@ -31,7 +31,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּצֹק",
+      "heb": "וַיִּצֶק",
       "translit": "vayyitzoq",
       "ref": "1Kgs.22.35",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּֽצְקוּ",
+      "heb": "וַיִּֽצְקוּ",
       "translit": "vayyitzqu",
       "ref": "2Kgs.4.40",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּצֹק",
+      "heb": "וַתִּצֹק",
       "translit": "vattitzoq",
       "ref": "2Sam.13.9",
       "has_suffix": false,
@@ -80,7 +80,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶצָּק",
+      "heb": "אֶצָּק",
       "translit": "etztzaq",
       "ref": "Isa.44.3",
       "has_suffix": false,
@@ -100,7 +100,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְיָצַקְתָּ",
+      "heb": "וְיָצַקְתָּ",
       "translit": "vyatzaqta",
       "ref": "2Kgs.9.3",
       "has_suffix": false,
@@ -156,7 +156,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּצִּקוּ",
+      "heb": "וַיַּצִּקוּ",
       "translit": "vayyatztziqu",
       "ref": "2Sam.15.24",
       "has_suffix": false,

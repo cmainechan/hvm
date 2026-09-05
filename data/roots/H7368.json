@@ -11,7 +11,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "רָחֲקוּ",
+      "heb": "רָֽחֲקוּ",
       "translit": "rachaqu",
       "ref": "Ezek.44.10",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּרְחַק",
+      "heb": "וַתִּרְחַק",
       "translit": "vattirchaq",
       "ref": "Ps.109.17",
       "has_suffix": false,
@@ -60,7 +60,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּרְחָק",
+      "heb": "תִּרְחָק",
       "translit": "tirchaq",
       "ref": "Exod.23.7",
       "has_suffix": false,
@@ -131,7 +131,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּרְחַק",
+      "heb": "תִּרְחַק",
       "translit": "tirchaq",
       "ref": "Ps.22.12",
       "has_suffix": false,
@@ -147,7 +147,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "רִחַקְתָּ",
+      "heb": "רִחַקְתָּ",
       "translit": "richaqta",
       "ref": "Isa.26.15",
       "has_suffix": false,
@@ -194,7 +194,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הִרְחַקְתִּים",
+      "heb": "הִרְחַקְתִּים",
       "translit": "hirchaqtim",
       "ref": "Ezek.11.16",
       "has_suffix": true,
@@ -221,7 +221,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הִרְחַקְתָּ",
+      "heb": "הִרְחַקְתָּ",
       "translit": "hirchaqta",
       "ref": "Ps.88.9",
       "has_suffix": false,
@@ -241,7 +241,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּרְחִיק",
+      "heb": "תַּרְחִיק",
       "translit": "tarchiq",
       "ref": "Job.22.23",
       "has_suffix": false,
@@ -259,7 +259,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַרְחִיקֶנָּה",
+      "heb": "יַרְחִיקֶנָּה",
       "translit": "yarchiqennah",
       "ref": "Prov.22.15",
       "has_suffix": true,
@@ -270,10 +270,10 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הַרְחֵק",
+      "heb": "הַרְחִיקֵהוּ",
       "translit": "harcheq",
       "ref": "Job.11.14",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -303,7 +303,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַּרְחִיקוּ",
+      "heb": "תַּרְחִיקוּ",
       "translit": "tarchiqu",
       "ref": "Josh.8.4",
       "has_suffix": false,

@@ -11,7 +11,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "יָרָשְׁתָּ",
+      "heb": "יָרָשְׁתָּ",
       "translit": "yarashta",
       "ref": "1Kgs.21.19",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "יָרַשְׁנוּ",
+      "heb": "יָרַשְׁנוּ",
       "translit": "yarashnu",
       "ref": "Deut.3.12",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּֽירְשׁוּ",
+      "heb": "וַיִּֽרְשׁוּ",
       "translit": "vayyirshu",
       "ref": "2Kgs.17.24",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּירַשׁ",
+      "heb": "וַיִּירַשׁ",
       "translit": "vayyirash",
       "ref": "Ezek.33.24",
       "has_suffix": false,
@@ -67,7 +67,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַתִּֽירְשׁוּ",
+      "heb": "וַתִּֽירְשׁוּ",
       "translit": "vattirshu",
       "ref": "Josh.24.8",
       "has_suffix": false,
@@ -78,16 +78,16 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "יוֹרֵשׁ",
+      "heb": "הַיּוֹרֵשׁ",
       "translit": "yoresh",
       "ref": "2Sam.14.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "יֹרְשִׁים",
+      "heb": "יֹרְשִׁים",
       "translit": "yorshim",
       "ref": "Deut.12.2",
       "has_suffix": false,
@@ -96,7 +96,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "יֹרֶשֶׁת",
+      "heb": "יֹרֶשֶׁת",
       "translit": "yoreshet",
       "ref": "Num.36.8",
       "has_suffix": false,
@@ -107,7 +107,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּֽירְשׁוּ",
+      "heb": "תִּֽירְשׁוּ",
       "translit": "tirshu",
       "ref": "1Chr.28.8",
       "has_suffix": false,
@@ -125,16 +125,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִירַשׁ",
+      "heb": "יִֽירָשְׁךָ",
       "translit": "yirash",
       "ref": "Gen.15.4",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אִֽירָשֶֽׁנָּה",
+      "heb": "אִֽירָשֶֽׁנָּה",
       "translit": "irashennah",
       "ref": "Gen.15.8",
       "has_suffix": true,
@@ -143,10 +143,10 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִירָשׁ",
+      "heb": "תִּירָשֶֽׁנּוּ",
       "translit": "tirash",
       "ref": "Judg.11.23",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -181,7 +181,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וִֽירִשְׁתֶּם",
+      "heb": "וִֽירִשְׁתֶּם",
       "translit": "virishtem",
       "ref": "Deut.4.1",
       "has_suffix": false,
@@ -190,7 +190,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְיָרַשְׁתָּ",
+      "heb": "וְיָֽרַשְׁתָּ",
       "translit": "vyarashta",
       "ref": "Deut.6.18",
       "has_suffix": false,
@@ -199,10 +199,10 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "וְיָרַשְׁנוּ",
+      "heb": "וִֽירַשְׁנוּהָ",
       "translit": "vyarashnu",
       "ref": "Ezek.35.10",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -239,10 +239,10 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לָרֶשֶׁת",
+      "heb": "לְרִשְׁתּֽוֹ",
       "translit": "lareshet",
       "ref": "1Kgs.21.16",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": true
      }
     ],
@@ -250,7 +250,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "נִירֲשָׁה",
+      "heb": "נִירֲשָׁה",
       "translit": "nirashah",
       "ref": "Ps.83.13",
       "has_suffix": false,
@@ -277,7 +277,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּוָּרֵשׁ",
+      "heb": "תִּוָּרֵשׁ",
       "translit": "tivvaresh",
       "ref": "Gen.45.11",
       "has_suffix": false,
@@ -286,7 +286,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִוָּרֵשׁ",
+      "heb": "יִוָּרֵשׁ",
       "translit": "yivvaresh",
       "ref": "Prov.23.21",
       "has_suffix": false,
@@ -295,7 +295,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אִוָּרֵשׁ",
+      "heb": "אִוָּרֵשׁ",
       "translit": "ivvaresh",
       "ref": "Prov.30.9",
       "has_suffix": false,
@@ -336,7 +336,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הוֹרַשְׁתָּ",
+      "heb": "הוֹרַשְׁתָּ",
       "translit": "horashta",
       "ref": "2Chr.20.7",
       "has_suffix": false,
@@ -356,10 +356,10 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיּוֹרֶשׁ",
+      "heb": "וַיֹּרִשֵֽׁם",
       "translit": "vayyoresh",
       "ref": "Josh.13.12",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -378,7 +378,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תּוֹרִישֵׁמוֹ",
+      "heb": "תּוֹרִישֵׁמוֹ",
       "translit": "torishemo",
       "ref": "Exod.15.9",
       "has_suffix": true,
@@ -396,19 +396,19 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תוֹרִישׁ",
+      "heb": "וְתוֹרִישֵׁנִי",
       "translit": "torish",
       "ref": "Job.13.26",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יוֹרִישׁ",
+      "heb": "יוֹרִשֶׁנּוּ",
       "translit": "yorish",
       "ref": "Job.20.15",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -425,7 +425,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וְהֽוֹרַשְׁתָּם",
+      "heb": "וְהֽוֹרַשְׁתָּם",
       "translit": "vhorashtam",
       "ref": "Deut.9.3",
       "has_suffix": true,
@@ -443,7 +443,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וְהוֹרַשְׁתֶּם",
+      "heb": "וְהוֹרַשְׁתֶּם",
       "translit": "vhorashtem",
       "ref": "Ezra.9.12",
       "has_suffix": false,
@@ -452,7 +452,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהוֹרַשְׁתִּים",
+      "heb": "וְהוֹרַשְׁתִּים",
       "translit": "vhorashtim",
       "ref": "Josh.14.12",
       "has_suffix": true,

@@ -11,7 +11,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "גָּדְלוּ",
+      "heb": "גָּדְלוּ",
       "translit": "gadlu",
       "ref": "1Kgs.12.8",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "גָּדְלָה",
+      "heb": "גָּדְלָה",
       "translit": "gadlah",
       "ref": "1Sam.26.24",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "גָּדַלְתָּ",
+      "heb": "גָּדַלְתָּ",
       "translit": "gadalta",
       "ref": "2Sam.7.22",
       "has_suffix": false,
@@ -38,7 +38,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְגָדַלְתִּי",
+      "heb": "וְגָדַלְתִּי",
       "translit": "vgadalti",
       "ref": "Eccl.2.9",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּגְדַּל",
+      "heb": "וַיִּגְדַּל",
       "translit": "vayyigdal",
       "ref": "1Kgs.10.23",
       "has_suffix": false,
@@ -67,7 +67,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּגְדַּל",
+      "heb": "וַתִּגְדַּל",
       "translit": "vattigdal",
       "ref": "2Sam.12.3",
       "has_suffix": false,
@@ -76,7 +76,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "וַֽתִּגְדְּלִי",
+      "heb": "וַֽתִּגְדְּלִי",
       "translit": "vattigdli",
       "ref": "Ezek.16.7",
       "has_suffix": false,
@@ -85,7 +85,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיִּגְדְּלוּ",
+      "heb": "וַֽיִּגְדְּלוּ",
       "translit": "vayyigdlu",
       "ref": "Gen.25.27",
       "has_suffix": false,
@@ -96,16 +96,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִגְדַּל",
+      "heb": "וְיִגְדַּל",
       "translit": "yigdal",
       "ref": "1Chr.17.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּגְדַּל",
+      "heb": "תִּגְדַּל",
       "translit": "tigdal",
       "ref": "1Sam.26.24",
       "has_suffix": false,
@@ -114,7 +114,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶגְדַּל",
+      "heb": "אֶגְדַּל",
       "translit": "egdal",
       "ref": "Gen.41.40",
       "has_suffix": false,
@@ -123,7 +123,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִגְדָּלוּ",
+      "heb": "יִגְדָּלוּ",
       "translit": "yigdalu",
       "ref": "Ruth.1.13",
       "has_suffix": false,
@@ -134,7 +134,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִגְדַּל",
+      "heb": "יִגְדַּל",
       "translit": "yigdal",
       "ref": "Mal.1.5",
       "has_suffix": false,
@@ -150,7 +150,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "גִּדַּל",
+      "heb": "גִּדַּל",
       "translit": "giddal",
       "ref": "Esth.3.1",
       "has_suffix": false,
@@ -159,7 +159,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "גִּדְּלוּהוּ",
+      "heb": "גִּדְּלוּהוּ",
       "translit": "giddluhu",
       "ref": "Ezek.31.4",
       "has_suffix": true,
@@ -168,7 +168,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "גִּדַּלְתִּי",
+      "heb": "גִּדַּלְתִּי",
       "translit": "giddalti",
       "ref": "Isa.1.2",
       "has_suffix": false,
@@ -177,7 +177,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "גִּדֵּֽלָה",
+      "heb": "גִּדֵּֽלָה",
       "translit": "giddelah",
       "ref": "Isa.51.18",
       "has_suffix": false,
@@ -186,7 +186,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "גִדַּלְתּוֹ",
+      "heb": "גִדַּלְתּוֹ",
       "translit": "giddalto",
       "ref": "Jonah.4.10",
       "has_suffix": true,
@@ -197,7 +197,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיְגַדֵּל",
+      "heb": "וַיְגַדֵּל",
       "translit": "vaygaddel",
       "ref": "1Chr.29.25",
       "has_suffix": false,
@@ -208,7 +208,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מְגַדְּלִים",
+      "heb": "מְגַדְּלִים",
       "translit": "mgaddlim",
       "ref": "2Kgs.10.6",
       "has_suffix": false,
@@ -219,16 +219,16 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יְגַדֵּֽל",
+      "heb": "וִֽיגַדֵּל",
       "translit": "ygaddel",
       "ref": "1Kgs.1.37",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וַאֲגַדְּלָה",
+      "heb": "וַאֲגַדְּלָה",
       "translit": "va'agaddlah",
       "ref": "Gen.12.2",
       "has_suffix": false,
@@ -237,7 +237,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יְגַדְּלוּ",
+      "heb": "יְגַדְּלוּ",
       "translit": "ygaddlu",
       "ref": "Hos.9.12",
       "has_suffix": false,
@@ -246,7 +246,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תְגַדְּלֶנּוּ",
+      "heb": "תְגַדְּלֶנּוּ",
       "translit": "tgaddlennu",
       "ref": "Job.7.17",
       "has_suffix": true,
@@ -257,7 +257,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "גַּדְּלוּ",
+      "heb": "גַּדְּלוּ",
       "translit": "gaddlu",
       "ref": "Ps.34.4",
       "has_suffix": false,
@@ -268,18 +268,18 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "גַּדֵּל",
+      "heb": "לְגַדֵּל",
       "translit": "gaddel",
       "ref": "1Chr.29.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "cohortative": [
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וַאֲגַדְּלֶנּוּ",
+      "heb": "וַאֲגַדְּלֶנּוּ",
       "translit": "va'agaddlennu",
       "ref": "Ps.69.31",
       "has_suffix": true,
@@ -295,7 +295,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מְגֻדָּלִים",
+      "heb": "מְגֻדָּלִים",
       "translit": "mguddalim",
       "ref": "Ps.144.12",
       "has_suffix": false,
@@ -311,7 +311,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הִגְדִּיל",
+      "heb": "הִגְדִּל",
       "translit": "higdil",
       "ref": "1Sam.12.24",
       "has_suffix": false,
@@ -320,7 +320,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הִגְדַּלְתִּי",
+      "heb": "הִגְדַּלְתִּי",
       "translit": "higdalti",
       "ref": "Eccl.1.16",
       "has_suffix": false,
@@ -329,7 +329,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "הִגְדַּלְתָּ",
+      "heb": "הִגְדַּלְתָּ",
       "translit": "higdalta",
       "ref": "Isa.9.2",
       "has_suffix": false,
@@ -338,7 +338,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "הִגְדִּֽילוּ",
+      "heb": "הִגְדִּֽילוּ",
       "translit": "higdilu",
       "ref": "Ps.38.17",
       "has_suffix": false,
@@ -349,7 +349,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַתַּגְדִּילוּ",
+      "heb": "וַתַּגְדִּילוּ",
       "translit": "vattagdilu",
       "ref": "Ezek.35.13",
       "has_suffix": false,
@@ -358,7 +358,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתַּגְדֵּל",
+      "heb": "וַתַּגְדֵּל",
       "translit": "vattagdel",
       "ref": "Gen.19.19",
       "has_suffix": false,
@@ -367,7 +367,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּגְדִּילוּ",
+      "heb": "וַיַּגְדִּילוּ",
       "translit": "vayyagdilu",
       "ref": "Zeph.2.8",
       "has_suffix": false,
@@ -378,7 +378,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מַגְדִּיל",
+      "heb": "מַגְדִּיל",
       "translit": "magdil",
       "ref": "Ps.18.51",
       "has_suffix": false,
@@ -387,7 +387,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הַֽמַּגְדִּילִים",
+      "heb": "הַֽמַּגְדִּילִים",
       "translit": "hammagdilim",
       "ref": "Ps.35.26",
       "has_suffix": false,
@@ -398,7 +398,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַגְדִּיל",
+      "heb": "יַגְדִּיל",
       "translit": "yagdil",
       "ref": "Dan.8.25",
       "has_suffix": false,
@@ -407,7 +407,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אַגְדִּיל",
+      "heb": "אַגְדִּיל",
       "translit": "agdil",
       "ref": "Ezek.24.9",
       "has_suffix": false,
@@ -416,7 +416,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַּגְדִּילוּ",
+      "heb": "תַּגְדִּילוּ",
       "translit": "tagdilu",
       "ref": "Job.19.5",
       "has_suffix": false,
@@ -427,7 +427,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְהִגְדִּֽיל",
+      "heb": "וְהִגְדִּֽיל",
       "translit": "vhigdil",
       "ref": "Dan.8.4",
       "has_suffix": false,
@@ -438,7 +438,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְהַגְדִּיל",
+      "heb": "לְהַגְדִּיל",
       "translit": "lhagdil",
       "ref": "1Chr.22.5",
       "has_suffix": false,
@@ -449,7 +449,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּגְדֵּל",
+      "heb": "תַּגְדֵּל",
       "translit": "tagdel",
       "ref": "Obad.1.12",
       "has_suffix": false,
@@ -465,18 +465,18 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִתְגַּדָּֽל",
+      "heb": "וְיִתְגַּדֵּל",
       "translit": "yitgaddal",
       "ref": "Dan.11.36",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "veqatal": [
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְהִתְגַּדִּלְתִּי",
+      "heb": "וְהִתְגַּדִּלְתִּי",
       "translit": "vhitgaddilti",
       "ref": "Ezek.38.23",
       "has_suffix": false,

@@ -91,6 +91,7 @@ def build():
     for root, data in entries.items():
         clean = {k: v for k, v in data.items()
                  if k not in ("root", "search_match", "citation_translit")}
+        # strong_alt and notes (used for suppletive roots) pass straight through
         verb_data[root] = clean
         verb_index.append({"root": root, "match": data.get("search_match", [])})
         if "citation_translit" in data:

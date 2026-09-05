@@ -20,7 +20,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "עָרַבְתָּ",
+      "heb": "עָרַבְתָּ",
       "translit": "aravta",
       "ref": "Prov.6.1",
       "has_suffix": false,
@@ -51,7 +51,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶֽעֶרְבֶנּוּ",
+      "heb": "אֶֽעֶרְבֶנּוּ",
       "translit": "e'ervennu",
       "ref": "Gen.43.9",
       "has_suffix": true,
@@ -71,10 +71,10 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "עֲרֹב",
+      "heb": "עָרְבֵֽנִי",
       "translit": "arov",
       "ref": "Isa.38.14",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      }
     ],
@@ -109,7 +109,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּתְעָרְבוּ",
+      "heb": "וַיִּתְעָרְבוּ",
       "translit": "vayyit'arvu",
       "ref": "Ps.106.35",
       "has_suffix": false,
@@ -151,7 +151,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּתְעָרָֽב",
+      "heb": "תִּתְעָרָֽב",
       "translit": "tit'arav",
       "ref": "Prov.24.21",
       "has_suffix": false,

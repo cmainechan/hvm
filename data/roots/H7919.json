@@ -11,7 +11,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "שָׂכַל",
+      "heb": "שָׂכַל",
       "translit": "sakhal",
       "ref": "1Sam.18.30",
       "has_suffix": false,
@@ -27,7 +27,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "שִׂכֵּל",
+      "heb": "שִׂכֵּל",
       "translit": "sikkel",
       "ref": "Gen.48.14",
       "has_suffix": false,
@@ -43,7 +43,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "הִשְׂכִּיל",
+      "heb": "הִשְׂכִּיל",
       "translit": "hiskil",
       "ref": "1Chr.28.19",
       "has_suffix": false,
@@ -52,7 +52,7 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "הִשְׂכִּילוּ",
+      "heb": "הִשְׂכִּילוּ",
       "translit": "hiskilu",
       "ref": "Jer.10.21",
       "has_suffix": false,
@@ -61,7 +61,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "הִשְׂכַּלְתִּי",
+      "heb": "הִשְׂכַּלְתִּי",
       "translit": "hiskalti",
       "ref": "Ps.119.99",
       "has_suffix": false,
@@ -72,7 +72,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מַשְׂכִּיל",
+      "heb": "מַשְׂכִּיל",
       "translit": "maskil",
       "ref": "1Sam.18.14",
       "has_suffix": false,
@@ -81,7 +81,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "הַמַּשְׂכִּילִים",
+      "heb": "הַמַּשְׂכִּילִים",
       "translit": "hammaskilim",
       "ref": "2Chr.30.22",
       "has_suffix": false,
@@ -90,7 +90,7 @@
      {
       "code": "fs",
       "label": "fem. sg.",
-      "heb": "מַשְׂכָּֽלֶת",
+      "heb": "מַשְׂכָּֽלֶת",
       "translit": "maskalet",
       "ref": "Prov.19.14",
       "has_suffix": false,
@@ -101,7 +101,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַּשְׂכִּיל",
+      "heb": "תַּשְׂכִּיל",
       "translit": "taskil",
       "ref": "1Kgs.2.3",
       "has_suffix": false,
@@ -110,7 +110,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יַשְׂכִּיל",
+      "heb": "יַשְׂכִּיל",
       "translit": "yaskil",
       "ref": "1Sam.18.5",
       "has_suffix": false,
@@ -119,7 +119,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַּשְׂכִּילוּ",
+      "heb": "תַּשְׂכִּילוּ",
       "translit": "taskilu",
       "ref": "Deut.29.8",
       "has_suffix": false,
@@ -128,7 +128,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יַשְׂכִּילוּ",
+      "heb": "יַשְׂכִּילוּ",
       "translit": "yaskilu",
       "ref": "Deut.32.29",
       "has_suffix": false,
@@ -137,7 +137,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אַשְׂכִּֽילְךָ",
+      "heb": "אַשְׂכִּֽילְךָ",
       "translit": "askilkha",
       "ref": "Ps.32.8",
       "has_suffix": true,
@@ -148,7 +148,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְהִשְׂכִּיל",
+      "heb": "וְהִשְׂכִּיל",
       "translit": "vhiskil",
       "ref": "Jer.23.5",
       "has_suffix": false,
@@ -159,7 +159,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "הַשְׂכִּילוּ",
+      "heb": "הַשְׂכִּילוּ",
       "translit": "haskilu",
       "ref": "Ps.2.10",
       "has_suffix": false,
@@ -170,7 +170,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "וּלְהַשְׂכִּיל",
+      "heb": "וּלְהַשְׂכִּיל",
       "translit": "ulhaskil",
       "ref": "Dan.9.13",
       "has_suffix": false,
@@ -181,18 +181,18 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "הַשְׂכֵּל",
+      "heb": "וְהַשְׂכֵּל",
       "translit": "haskel",
       "ref": "Dan.1.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "cohortative": [
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אַשְׂכִּילָה",
+      "heb": "אַשְׂכִּילָה",
       "translit": "askilah",
       "ref": "Ps.101.2",
       "has_suffix": false,

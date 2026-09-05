@@ -11,7 +11,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וּקְבַרְתֶּם",
+      "heb": "וּקְבַרְתֶּם",
       "translit": "uqvartem",
       "ref": "1Kgs.13.31",
       "has_suffix": false,
@@ -20,11 +20,11 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "קָבְרוּ",
+      "heb": "וְקָבְרוּ",
       "translit": "qavru",
       "ref": "1Kgs.14.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3ms",
@@ -38,7 +38,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "קָבַרְתִּי",
+      "heb": "קָבַרְתִּי",
       "translit": "qavarti",
       "ref": "Gen.49.31",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּקְבְּרוּ",
+      "heb": "וַיִּקְבְּרוּ",
       "translit": "vayyiqbru",
       "ref": "1Chr.10.12",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּקְבְֹּר",
+      "heb": "וַיִּקְבְֹּר",
       "translit": "vayyiqbor",
       "ref": "2Kgs.21.26",
       "has_suffix": false,
@@ -67,7 +67,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "וַֽתִּקְבְּרוּ",
+      "heb": "וַֽתִּקְבְּרוּ",
       "translit": "vattiqbru",
       "ref": "2Sam.2.5",
       "has_suffix": false,
@@ -76,7 +76,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וָאֶקְבְּרֶהָ",
+      "heb": "וָאֶקְבְּרֶהָ",
       "translit": "va'eqbreha",
       "ref": "Gen.48.7",
       "has_suffix": true,
@@ -127,7 +127,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּקְבְּרֶנּוּ",
+      "heb": "תִּקְבְּרֶנּוּ",
       "translit": "tiqbrennu",
       "ref": "Deut.21.23",
       "has_suffix": true,
@@ -136,7 +136,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִקְבְּרוּ",
+      "heb": "יִקְבְּרוּ",
       "translit": "yiqbru",
       "ref": "Jer.19.11",
       "has_suffix": false,
@@ -167,11 +167,11 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "קִבְרוּ",
+      "heb": "וְקִבְרוּהָ",
       "translit": "qivru",
       "ref": "2Kgs.9.34",
-      "has_suffix": false,
-      "has_prefix": false
+      "has_suffix": true,
+      "has_prefix": true
      },
      {
       "code": "2ms",
@@ -187,10 +187,10 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לִקְבֹּר",
+      "heb": "וּלְקָבְרֽוֹ",
       "translit": "liqbor",
       "ref": "1Kgs.13.29",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": true
      }
     ],
@@ -209,7 +209,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וְאֶקְבְּרָה",
+      "heb": "וְאֶקְבְּרָה",
       "translit": "v'eqbrah",
       "ref": "Gen.23.4",
       "has_suffix": false,
@@ -220,7 +220,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִקְבְּרֵנִי",
+      "heb": "תִקְבְּרֵנִי",
       "translit": "tiqbreni",
       "ref": "Gen.47.29",
       "has_suffix": true,
@@ -236,7 +236,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּקָּבֵר",
+      "heb": "וַיִּקָּבֵר",
       "translit": "vayyiqqaver",
       "ref": "1Kgs.2.10",
       "has_suffix": false,
@@ -245,7 +245,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּקָּבֵר",
+      "heb": "וַתִּקָּבֵר",
       "translit": "vattiqqaver",
       "ref": "Gen.35.8",
       "has_suffix": false,
@@ -256,7 +256,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּקָּבֵר",
+      "heb": "תִּקָּבֵר",
       "translit": "tiqqaver",
       "ref": "Gen.15.15",
       "has_suffix": false,
@@ -265,7 +265,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִקָּבֵרוּ",
+      "heb": "יִקָּבֵרוּ",
       "translit": "yiqqaveru",
       "ref": "Jer.8.2",
       "has_suffix": false,
@@ -274,7 +274,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִקָּבֵר",
+      "heb": "יִקָּבֵר",
       "translit": "yiqqaver",
       "ref": "Jer.22.19",
       "has_suffix": false,
@@ -283,7 +283,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶקָּבֵר",
+      "heb": "אֶקָּבֵר",
       "translit": "eqqaver",
       "ref": "Ruth.1.17",
       "has_suffix": false,
@@ -299,7 +299,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מְקַבְּרִים",
+      "heb": "מְקַבְּרִים",
       "translit": "mqabbrim",
       "ref": "Ezek.39.14",
       "has_suffix": false,
@@ -308,7 +308,7 @@
      {
       "code": "ms",
       "label": "masc. sg.",
-      "heb": "מְקַבֵּר",
+      "heb": "מְקַבֵּר",
       "translit": "mqabber",
       "ref": "Jer.14.16",
       "has_suffix": false,
@@ -319,7 +319,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תְּקַבְּרֵם",
+      "heb": "תְּקַבְּרֵם",
       "translit": "tqabbrem",
       "ref": "Hos.9.6",
       "has_suffix": true,
@@ -330,7 +330,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לְקַבֵּר",
+      "heb": "לְקַבֵּר",
       "translit": "lqabber",
       "ref": "1Kgs.11.15",
       "has_suffix": false,
@@ -346,7 +346,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "קֻבַּר",
+      "heb": "קֻבַּר",
       "translit": "qubbar",
       "ref": "Gen.25.10",
       "has_suffix": false,

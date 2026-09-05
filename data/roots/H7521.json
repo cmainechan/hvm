@@ -29,10 +29,10 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "רָצִיתָ",
+      "heb": "רְצִיתָֽם",
       "translit": "ratzita",
       "ref": "Ps.44.4",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -49,16 +49,16 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "וַתִּרֶץ",
+      "heb": "וַתִּרְצֵֽנִי",
       "translit": "vattiretz",
       "ref": "Gen.33.10",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּרְצֵהוּ",
+      "heb": "וַיִּרְצֵהוּ",
       "translit": "vayyirtzehu",
       "ref": "Job.33.26",
       "has_suffix": true,
@@ -91,7 +91,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּרְצֶה",
+      "heb": "תִּרְצֶה",
       "translit": "tirtzeh",
       "ref": "1Chr.29.17",
       "has_suffix": false,
@@ -100,10 +100,10 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִרְצֶֽה",
+      "heb": "יִרְצֶֽךָ",
       "translit": "yirtzeh",
       "ref": "2Sam.24.23",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": false
      },
      {
@@ -118,7 +118,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּרְצֶה",
+      "heb": "תִּרְצֶה",
       "translit": "tirtzeh",
       "ref": "Lev.26.34",
       "has_suffix": false,
@@ -169,10 +169,10 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "בִּרְצוֹת",
+      "heb": "בִּרְצוֹתִי",
       "translit": "birtzot",
       "ref": "1Chr.29.3",
-      "has_suffix": false,
+      "has_suffix": true,
       "has_prefix": true
      }
     ]
@@ -264,7 +264,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִתְרַצֶּה",
+      "heb": "יִתְרַצֶּה",
       "translit": "yitratztzeh",
       "ref": "1Sam.29.4",
       "has_suffix": false,

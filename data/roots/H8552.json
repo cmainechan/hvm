@@ -11,16 +11,16 @@
      {
       "code": "3cp",
       "label": "3rd pl.",
-      "heb": "תַּמּוּ",
+      "heb": "הֲתַמּוּ",
       "translit": "tammu",
       "ref": "1Sam.16.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "תַּם",
+      "heb": "תַּם",
       "translit": "tam",
       "ref": "Gen.47.18",
       "has_suffix": false,
@@ -29,7 +29,7 @@
      {
       "code": "1cp",
       "label": "1st pl.",
-      "heb": "תַּמְנוּ",
+      "heb": "תָּֽמְנוּ",
       "translit": "tamnu",
       "ref": "Jer.44.18",
       "has_suffix": false,
@@ -40,7 +40,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "וַתִּתֹּם",
+      "heb": "וַתִּתֹּם",
       "translit": "vattittom",
       "ref": "1Kgs.7.22",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַֽיִּתְּמוּ",
+      "heb": "וַֽיִּתְּמוּ",
       "translit": "vayyittmu",
       "ref": "Deut.34.8",
       "has_suffix": false,
@@ -58,7 +58,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיִּתֹּם",
+      "heb": "וַיִּתֹּם",
       "translit": "vayyittom",
       "ref": "Gen.47.15",
       "has_suffix": false,
@@ -69,7 +69,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּתֻּם",
+      "heb": "תִּתֻּם",
       "translit": "tittum",
       "ref": "Ezek.24.11",
       "has_suffix": false,
@@ -78,7 +78,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִתֹּם",
+      "heb": "יִתֹּם",
       "translit": "yittom",
       "ref": "Ezek.47.12",
       "has_suffix": false,
@@ -87,7 +87,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "יִתַּמּוּ",
+      "heb": "יִתַּמּוּ",
       "translit": "yittammu",
       "ref": "Jer.14.15",
       "has_suffix": false,
@@ -127,7 +127,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "תֹּם",
+      "heb": "תֹּם",
       "translit": "tom",
       "ref": "1Kgs.6.22",
       "has_suffix": false,
@@ -154,7 +154,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְיַתֵּם",
+      "heb": "וְיַתֵּם",
       "translit": "vyattem",
       "ref": "2Kgs.22.4",
       "has_suffix": false,
@@ -163,7 +163,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תַתֵּם",
+      "heb": "תַתֵּם",
       "translit": "tattem",
       "ref": "Job.22.3",
       "has_suffix": false,
@@ -174,7 +174,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "וַהֲתִמֹּתִי",
+      "heb": "וַהֲתִמֹּתִי",
       "translit": "vahatimmoti",
       "ref": "Ezek.22.15",
       "has_suffix": false,
@@ -185,7 +185,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "כְּהָתֵם",
+      "heb": "כְּהָתֵם",
       "translit": "khatem",
       "ref": "Dan.8.23",
       "has_suffix": false,
@@ -212,7 +212,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּתַּמָּֽם",
+      "heb": "תִּתַּמָּֽם",
       "translit": "tittammam",
       "ref": "2Sam.22.26",
       "has_suffix": false,

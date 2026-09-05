@@ -11,7 +11,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "פָּדִיתָ",
+      "heb": "פָּדִיתָ",
       "translit": "padita",
       "ref": "1Chr.17.21",
       "has_suffix": false,
@@ -20,7 +20,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "פָּדָה",
+      "heb": "פָּדָה",
       "translit": "padah",
       "ref": "1Kgs.1.29",
       "has_suffix": false,
@@ -29,18 +29,18 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "פְּדִיתִיךָ",
+      "heb": "וּפְדִתִיךָ",
       "translit": "pditikha",
       "ref": "Jer.15.21",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": true
      }
     ],
     "wayyiqtol": [
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּפְדּוּ",
+      "heb": "וַיִּפְדּוּ",
       "translit": "vayyifdu",
       "ref": "1Sam.14.45",
       "has_suffix": false,
@@ -49,7 +49,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַֽיִּפְדְּךָ",
+      "heb": "וַֽיִּפְדְּךָ",
       "translit": "vayyifdkha",
       "ref": "Deut.7.8",
       "has_suffix": true,
@@ -71,7 +71,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תִּפְדֶּה",
+      "heb": "תִּפְדֶּה",
       "translit": "tifdeh",
       "ref": "Exod.13.13",
       "has_suffix": false,
@@ -80,7 +80,7 @@
      {
       "code": "1cs",
       "label": "1st sg.",
-      "heb": "אֶפְדֶּֽה",
+      "heb": "אֶפְדֶּֽה",
       "translit": "efdeh",
       "ref": "Exod.13.15",
       "has_suffix": false,
@@ -89,7 +89,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תִּפְדּֽוּנִי",
+      "heb": "תִּפְדּֽוּנִי",
       "translit": "tifduni",
       "ref": "Job.6.23",
       "has_suffix": true,
@@ -98,7 +98,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִפְדֶּה",
+      "heb": "יִפְדֶּה",
       "translit": "yifdeh",
       "ref": "Ps.49.8",
       "has_suffix": false,
@@ -120,7 +120,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "פְּדֵה",
+      "heb": "פְּדֵה",
       "translit": "pdeh",
       "ref": "Ps.25.22",
       "has_suffix": false,
@@ -142,7 +142,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "פָּדֹה",
+      "heb": "פָּדֹה",
       "translit": "padoh",
       "ref": "Num.18.15",
       "has_suffix": false,
@@ -158,7 +158,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "נִפְדָּתָה",
+      "heb": "נִפְדָּתָה",
       "translit": "nifdatah",
       "ref": "Lev.19.20",
       "has_suffix": false,
@@ -169,7 +169,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תִּפָּדֶה",
+      "heb": "תִּפָּדֶה",
       "translit": "tippadeh",
       "ref": "Isa.1.27",
       "has_suffix": false,
@@ -178,7 +178,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "יִפָּדֶה",
+      "heb": "יִפָּדֶה",
       "translit": "yippadeh",
       "ref": "Lev.27.29",
       "has_suffix": false,
@@ -194,7 +194,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וְהֶפְדָּהּ",
+      "heb": "וְהֶפְדָּהּ",
       "translit": "vhefdahh",
       "ref": "Exod.21.8",
       "has_suffix": true,
@@ -210,7 +210,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "וְהָפְדֵּה",
+      "heb": "וְהָפְדֵּה",
       "translit": "vhafdeh",
       "ref": "Lev.19.20",
       "has_suffix": false,

@@ -22,7 +22,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיָּלֶן",
+      "heb": "וַיָּלֶן",
       "translit": "vayyalen",
       "ref": "1Kgs.19.9",
       "has_suffix": false,
@@ -31,7 +31,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיָּלִינוּ",
+      "heb": "וַיָּלִינוּ",
       "translit": "vayyalinu",
       "ref": "Gen.24.54",
       "has_suffix": false,
@@ -80,7 +80,7 @@
      {
       "code": "3fs",
       "label": "3rd fem. sg.",
-      "heb": "תָּלִין",
+      "heb": "תָלִין",
       "translit": "talin",
       "ref": "Deut.21.23",
       "has_suffix": false,
@@ -98,7 +98,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תָּלִינוּ",
+      "heb": "תָּלִינוּ",
       "translit": "talinu",
       "ref": "Isa.21.13",
       "has_suffix": false,
@@ -116,7 +116,7 @@
      {
       "code": "2fs",
       "label": "2nd fem. sg.",
-      "heb": "תָּלִינִי",
+      "heb": "תָּלִינִי",
       "translit": "talini",
       "ref": "Ruth.1.16",
       "has_suffix": false,
@@ -147,20 +147,20 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "לִינוּ",
+      "heb": "וְלִינוּ",
       "translit": "linu",
       "ref": "Gen.19.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "לִין",
+      "heb": "וְלִין",
       "translit": "lin",
       "ref": "Judg.19.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": true
      },
      {
       "code": "2fs",
@@ -176,7 +176,7 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "לָלֽוּן",
+      "heb": "לָלִֽין",
       "translit": "lalun",
       "ref": "Gen.24.23",
       "has_suffix": false,
@@ -198,7 +198,7 @@
      {
       "code": "2ms",
       "label": "2nd masc. sg.",
-      "heb": "תָּלֶן",
+      "heb": "תָּלֶן",
       "translit": "talen",
       "ref": "2Sam.17.16",
       "has_suffix": false,
@@ -214,7 +214,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיִּלֹּנוּ",
+      "heb": "וַיִּלֹּנוּ",
       "translit": "vayyillonu",
       "ref": "Exod.15.24",
       "has_suffix": false,
@@ -241,7 +241,7 @@
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
-      "heb": "וַיָּלֶן",
+      "heb": "וַיָּלֶן",
       "translit": "vayyalen",
       "ref": "Exod.17.3",
       "has_suffix": false,
@@ -250,7 +250,7 @@
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
-      "heb": "וַיַּלִּינוּ",
+      "heb": "וַיַּלִּינוּ",
       "translit": "vayyallinu",
       "ref": "Num.14.36",
       "has_suffix": false,
@@ -261,7 +261,7 @@
      {
       "code": "mp",
       "label": "masc. pl.",
-      "heb": "מַלִּינִים",
+      "heb": "מַלִּינִים",
       "translit": "mallinim",
       "ref": "Num.14.27",
       "has_suffix": false,
@@ -272,7 +272,7 @@
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
-      "heb": "תַלִּינוּ",
+      "heb": "תַלִּינוּ",
       "translit": "tallinu",
       "ref": "Exod.16.7",
       "has_suffix": false,
