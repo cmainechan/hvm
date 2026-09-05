@@ -1,0 +1,163 @@
+{
+ "glosses": [
+  "be angry"
+ ],
+ "strong": "H2734",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חָרָה",
+      "translit": "charah",
+      "ref": "2Kgs.23.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּֽחַר",
+      "translit": "vayyichar",
+      "ref": "1Chr.13.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶחֱרֶה",
+      "translit": "yechereh",
+      "ref": "1Sam.20.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְחָרָה",
+      "translit": "vcharah",
+      "ref": "Deut.7.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַחֲרוֹת",
+      "translit": "lacharot",
+      "ref": "2Sam.24.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "חָרֹה",
+      "translit": "charoh",
+      "ref": "1Sam.20.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִחַר",
+      "translit": "yichar",
+      "ref": "Exod.32.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַנֶּחֱרִים",
+      "translit": "hannecherim",
+      "ref": "Isa.41.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֶחֱרָה",
+      "translit": "hecherah",
+      "ref": "Neh.3.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּחַר",
+      "translit": "vayyachar",
+      "ref": "Job.19.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּתְחַר",
+      "translit": "titchar",
+      "ref": "Prov.24.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be incensed",
+  "hiphil": "burn with zeal",
+  "hitpael": "fret oneself"
+ },
+ "root": "חרה",
+ "search_match": [
+  "2734",
+  "be angry",
+  "charah",
+  "h2734",
+  "חרה"
+ ],
+ "citation_translit": "charah"
+}

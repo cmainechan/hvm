@@ -1,0 +1,365 @@
+{
+ "glosses": [
+  "reign"
+ ],
+ "strong": "H4427",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "מָלְכוּ",
+      "translit": "malkhu",
+      "ref": "1Chr.1.43",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "מָלַךְ",
+      "translit": "malakh",
+      "ref": "1Chr.3.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "מָלַכְתָּ",
+      "translit": "malakhta",
+      "ref": "2Sam.16.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּמְלֹךְ",
+      "translit": "vayyimlokh",
+      "ref": "1Chr.1.44",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּמְלְכוּ",
+      "translit": "vayyimlkhu",
+      "ref": "1Kgs.11.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מֹלֶכֶת",
+      "translit": "molekhet",
+      "ref": "2Chr.22.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֹלֵךְ",
+      "translit": "molekh",
+      "ref": "Esth.1.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶמְלֹךְ",
+      "translit": "emlokh",
+      "ref": "1Kgs.1.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִמְלֹךְ",
+      "translit": "yimlokh",
+      "ref": "1Kgs.1.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּמְלֹךְ",
+      "translit": "timlokh",
+      "ref": "1Sam.23.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִמְלֹכוּ",
+      "translit": "yimlokhu",
+      "ref": "Prov.8.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּמָלַכְתָּ",
+      "translit": "umalakhta",
+      "ref": "1Kgs.11.37",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּמָלַךְ",
+      "translit": "umalakh",
+      "ref": "Jer.23.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "מְלָךְ",
+      "translit": "mlakh",
+      "ref": "Judg.9.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "מָלְכִי",
+      "translit": "malkhi",
+      "ref": "Judg.9.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מְלָךְ",
+      "translit": "mlakh",
+      "ref": "1Chr.1.43",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מָלֹךְ",
+      "translit": "malokh",
+      "ref": "1Sam.24.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּמְלֹךְ",
+      "translit": "timlokh",
+      "ref": "Esth.2.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּמָּלֵךְ",
+      "translit": "vayyimmalekh",
+      "ref": "Neh.5.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִמְלִיךְ",
+      "translit": "himlikh",
+      "ref": "1Kgs.1.43",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִמְלַכְתָּ",
+      "translit": "himlakhta",
+      "ref": "1Kgs.3.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הִמְלַכְתִּי",
+      "translit": "himlakhti",
+      "ref": "1Sam.15.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִמְלִיכוּ",
+      "translit": "himlikhu",
+      "ref": "Hos.8.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּמְלֵךְ",
+      "translit": "vayyamlekh",
+      "ref": "1Chr.23.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּמְלִיכוּ",
+      "translit": "vayyamlikhu",
+      "ref": "1Chr.29.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאַמְלִיךְ",
+      "translit": "va'amlikh",
+      "ref": "1Sam.12.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַתַּמְלִיכוּ",
+      "translit": "vattamlikhu",
+      "ref": "Judg.9.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַמַּמְלִיךְ",
+      "translit": "hammamlikh",
+      "ref": "Ezek.17.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נַמְלִיךְ",
+      "translit": "namlikh",
+      "ref": "2Kgs.10.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהִמְלַכְתָּ",
+      "translit": "vhimlakhta",
+      "ref": "1Sam.8.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַמְלִיךְ",
+      "translit": "lhamlikh",
+      "ref": "1Chr.11.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הָמְלַךְ",
+      "translit": "hamlakh",
+      "ref": "Dan.9.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "make king",
+  "niphal": "take counsel with oneself",
+  "hophal": "be made king"
+ },
+ "root": "מלך",
+ "search_match": [
+  "4427",
+  "h4427",
+  "make king",
+  "malakh",
+  "reign",
+  "מלך"
+ ],
+ "citation_translit": "malakh"
+}

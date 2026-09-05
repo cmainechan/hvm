@@ -1,0 +1,415 @@
+{
+ "glosses": [
+  "fear"
+ ],
+ "strong": "H3372",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָרֵא",
+      "translit": "yare",
+      "ref": "1Chr.10.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "יָרֵאתִי",
+      "translit": "yare'ti",
+      "ref": "1Sam.15.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "יָרְאוּ",
+      "translit": "yar'u",
+      "ref": "2Kgs.17.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "יָרֵאתָ",
+      "translit": "yare'ta",
+      "ref": "2Sam.1.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "יְרֵאתֶם",
+      "translit": "yre'tem",
+      "ref": "Deut.5.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "יָֽרְאָה",
+      "translit": "yar'ah",
+      "ref": "Gen.18.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "יָרֵאנוּ",
+      "translit": "yare'nu",
+      "ref": "Hos.10.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּרָא",
+      "translit": "vayyira",
+      "ref": "1Chr.13.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּֽירְאוּ",
+      "translit": "vayyir'u",
+      "ref": "1Kgs.3.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וַתִּירֶאןָ",
+      "translit": "vattire'na",
+      "ref": "Exod.1.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאִירָא",
+      "translit": "va'ira",
+      "ref": "Gen.3.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַתִּֽירְאִי",
+      "translit": "vattir'i",
+      "ref": "Isa.51.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַתִּירָֽאוּ",
+      "translit": "vattira'u",
+      "ref": "Job.6.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וַנִּירָא",
+      "translit": "vannira",
+      "ref": "Josh.9.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "יָרֵא",
+      "translit": "yare",
+      "ref": "2Kgs.4.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִֽירְאוּ",
+      "translit": "yir'u",
+      "ref": "1Kgs.8.40",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִֽירְאוּ",
+      "translit": "tir'u",
+      "ref": "1Sam.12.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִירָא",
+      "translit": "yira",
+      "ref": "Amos.3.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִירָא",
+      "translit": "tira",
+      "ref": "Deut.6.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִירָאִי",
+      "translit": "tira'i",
+      "ref": "Isa.54.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אִירָא",
+      "translit": "ira",
+      "ref": "Job.9.35",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִירָא",
+      "translit": "tira",
+      "ref": "Prov.31.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִירָא",
+      "translit": "nira",
+      "ref": "Ps.46.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְיָֽרְאוּ",
+      "translit": "vyar'u",
+      "ref": "Deut.28.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְיָרֵאתָ",
+      "translit": "vyare'ta",
+      "ref": "Lev.19.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "יְראוּ",
+      "translit": "yr'u",
+      "ref": "1Sam.12.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "יְרָֽא",
+      "translit": "yra",
+      "ref": "Eccl.5.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "יְרֹא",
+      "translit": "yro",
+      "ref": "1Kgs.8.43",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִירָא",
+      "translit": "nira",
+      "ref": "Jer.5.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּירָא",
+      "translit": "tira",
+      "ref": "1Chr.22.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִּֽירְאִי",
+      "translit": "tir'i",
+      "ref": "1Kgs.17.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּֽירְאוּ",
+      "translit": "tir'u",
+      "ref": "1Sam.12.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נוֹרָא",
+      "translit": "nora",
+      "ref": "1Chr.16.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "נוֹרָאוֹת",
+      "translit": "nora'ot",
+      "ref": "1Chr.17.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "נוֹרָאָֽה",
+      "translit": "nora'ah",
+      "ref": "Isa.21.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּוָּרֵֽא",
+      "translit": "tivvare",
+      "ref": "Ps.130.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְיָֽרְאִים",
+      "translit": "myar'im",
+      "ref": "Neh.6.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֵֽרְאֻנִי",
+      "translit": "yer'uni",
+      "ref": "2Sam.14.15",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְיָֽרְאָם",
+      "translit": "lyar'am",
+      "ref": "2Chr.32.18",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be feared",
+  "piel": "make afraid"
+ },
+ "root": "ירא",
+ "search_match": [
+  "3372",
+  "fear",
+  "h3372",
+  "yare",
+  "ירא"
+ ],
+ "citation_translit": "yare"
+}

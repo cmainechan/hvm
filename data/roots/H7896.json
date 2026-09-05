@@ -1,0 +1,264 @@
+{
+ "glosses": [
+  "put"
+ ],
+ "strong": "H7896",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "שָׁתָה",
+      "translit": "shatah",
+      "ref": "1Sam.4.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שָׁת",
+      "translit": "shat",
+      "ref": "Exod.7.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שָׁתוּ",
+      "translit": "shatu",
+      "ref": "Exod.33.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "שַׁתָּה",
+      "translit": "shattah",
+      "ref": "Ps.8.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "שַׁתִּי",
+      "translit": "shatti",
+      "ref": "Ps.73.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּשֶׁת",
+      "translit": "vayyashet",
+      "ref": "1Sam.2.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתָּשֶׁת",
+      "translit": "vattashet",
+      "ref": "2Sam.19.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּשִׁיתוּ",
+      "translit": "vayyashitu",
+      "ref": "Jer.2.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתְּשִׁתֵהוּ",
+      "translit": "vattshitehu",
+      "ref": "Ruth.4.16",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָשִׁית",
+      "translit": "ashit",
+      "ref": "1Kgs.11.34",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָשִׁית",
+      "translit": "yashit",
+      "ref": "Exod.21.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּשִׁית",
+      "translit": "tashit",
+      "ref": "Job.7.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָשִׁיתוּ",
+      "translit": "yashitu",
+      "ref": "Ps.17.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְשַׁתִּי",
+      "translit": "vshatti",
+      "ref": "Exod.23.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "שִׁיתִי",
+      "translit": "shiti",
+      "ref": "Isa.16.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "שִׁית",
+      "translit": "shit",
+      "ref": "Job.10.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "שִׁיתוּ",
+      "translit": "shitu",
+      "ref": "Ps.48.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְשִׁית",
+      "translit": "vshit",
+      "ref": "Exod.10.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "שֹׁת",
+      "translit": "shot",
+      "ref": "Isa.22.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תָּשִׁיתִי",
+      "translit": "tashiti",
+      "ref": "2Sam.13.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּשֶׁת",
+      "translit": "tashet",
+      "ref": "Exod.23.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָשֵׁת",
+      "translit": "yashet",
+      "ref": "Gen.41.33",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תָּשִׁיתוּ",
+      "translit": "tashitu",
+      "ref": "Ps.62.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יוּשַׁת",
+      "translit": "yushat",
+      "ref": "Exod.21.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hophal": "be laid"
+ },
+ "root": "שית",
+ "search_match": [
+  "7896",
+  "h7896",
+  "put (shit)",
+  "shit",
+  "שית"
+ ],
+ "citation_translit": "shit"
+}

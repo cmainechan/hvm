@@ -1,0 +1,527 @@
+{
+ "glosses": [
+  "perish"
+ ],
+ "strong": "H6",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "אָבַד",
+      "translit": "avad",
+      "ref": "Eccl.5.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "אָבְדָה",
+      "translit": "avdah",
+      "ref": "Eccl.9.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָבַדְתִּי",
+      "translit": "avadti",
+      "ref": "Esth.4.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "אָבַדְתְּ",
+      "translit": "avadt",
+      "ref": "Ezek.26.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "אָבְדוּ",
+      "translit": "avdu",
+      "ref": "Jer.48.36",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "אָבַדְנוּ",
+      "translit": "avadnu",
+      "ref": "Num.17.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "אָבַדְתָּ",
+      "translit": "avadta",
+      "ref": "Num.21.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וַתֹּאבַדְנָה",
+      "translit": "vatto'vadnah",
+      "ref": "1Sam.9.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיֹּאבְדוּ",
+      "translit": "vayyo'vdu",
+      "ref": "2Sam.1.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "אֹֽבְדוֹת",
+      "translit": "ovdot",
+      "ref": "1Sam.9.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "אֹבֵד",
+      "translit": "oved",
+      "ref": "Deut.26.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "הָאֹבֶדֶת",
+      "translit": "ha'ovedet",
+      "ref": "Ezek.34.4",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הָאֹֽבְדִים",
+      "translit": "ha'ovdim",
+      "ref": "Isa.27.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תֹּאבֵדוּ",
+      "translit": "to'vedu",
+      "ref": "Deut.4.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֹּאבַד",
+      "translit": "to'vad",
+      "ref": "Deut.22.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֹאבֵדוּ",
+      "translit": "yo'vedu",
+      "ref": "Isa.41.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֹאבַד",
+      "translit": "yo'vad",
+      "ref": "Jer.4.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נֹאבֵֽד",
+      "translit": "no'ved",
+      "ref": "Jonah.1.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְאָבַד",
+      "translit": "v'avad",
+      "ref": "2Kgs.9.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְאָֽבְדוּ",
+      "translit": "v'avdu",
+      "ref": "Amos.1.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַאֲבַדְתֶּם",
+      "translit": "va'avadtem",
+      "ref": "Deut.11.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְאָֽבְדָה",
+      "translit": "v'avdah",
+      "ref": "Isa.29.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "אֲבֹד",
+      "translit": "avod",
+      "ref": "Deut.7.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "אָבֹד",
+      "translit": "avod",
+      "ref": "Deut.4.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נֹאבְדָה",
+      "translit": "no'vdah",
+      "ref": "Jonah.1.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "אִבַּד",
+      "translit": "ibbad",
+      "ref": "2Kgs.13.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אִבַּדְתִּי",
+      "translit": "ibbadti",
+      "ref": "Jer.15.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "אִבַּדְתָּ",
+      "translit": "ibbadta",
+      "ref": "Ps.9.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתְּאַבֵּד",
+      "translit": "vatt'abbed",
+      "ref": "2Kgs.11.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיְאַבְּדֽוּם",
+      "translit": "vay'abbdum",
+      "ref": "2Kgs.19.18",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְאַבְּדֵם",
+      "translit": "vay'abbdem",
+      "ref": "Deut.11.4",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָֽאַבֶּדְךָ",
+      "translit": "va'abbedkha",
+      "ref": "Ezek.28.16",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתְּאַבֵּד",
+      "translit": "vatt'abbed",
+      "ref": "Isa.26.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְאַבְּדִים",
+      "translit": "m'abbdim",
+      "ref": "Jer.23.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּאַבֵּדוּ",
+      "translit": "t'abbedu",
+      "ref": "Deut.12.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְאַבֵּד",
+      "translit": "y'abbed",
+      "ref": "Eccl.7.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּאַבְּדֵֽם",
+      "translit": "t'abbdem",
+      "ref": "Prov.1.32",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּאַבֵּד",
+      "translit": "t'abbed",
+      "ref": "Ps.5.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְאִבַּדְתֶּם",
+      "translit": "v'ibbadtem",
+      "ref": "Deut.12.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאִבַּדְתִּי",
+      "translit": "v'ibbadti",
+      "ref": "Ezek.6.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְאִבַּד",
+      "translit": "v'ibbad",
+      "ref": "Jer.51.55",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְאַבֵּד",
+      "translit": "l'abbed",
+      "ref": "Eccl.3.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "אַבֵּד",
+      "translit": "abbed",
+      "ref": "Deut.12.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הֶאֱבַֽדְתָּ",
+      "translit": "he'evadta",
+      "ref": "Job.14.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַאֲבִיד",
+      "translit": "ma'avid",
+      "ref": "Deut.8.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהַאֲבַדְתָּ",
+      "translit": "vha'avadta",
+      "ref": "Deut.7.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהַאֲבַדְתִּי",
+      "translit": "vha'avadti",
+      "ref": "Ezek.25.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהֶֽאֱבִיד",
+      "translit": "vhe'evid",
+      "ref": "Num.24.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַאֲבִיד",
+      "translit": "ha'avid",
+      "ref": "2Kgs.10.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֹבִידָה",
+      "translit": "ovidah",
+      "ref": "Jer.46.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "destroy",
+  "piel": "destroy"
+ },
+ "root": "אבד",
+ "search_match": [
+  "6",
+  "avad",
+  "destroy",
+  "h6",
+  "perish",
+  "אבד"
+ ],
+ "citation_translit": "avad"
+}

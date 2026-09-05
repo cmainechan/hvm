@@ -1,0 +1,573 @@
+{
+ "glosses": [
+  "remember"
+ ],
+ "strong": "H2142",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "זָכַר",
+      "translit": "zakhar",
+      "ref": "2Chr.24.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "זָכְרוּ",
+      "translit": "zakhru",
+      "ref": "Amos.1.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "זָכַרְתְּ",
+      "translit": "zakhart",
+      "ref": "Ezek.16.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "זְכַרְתַּנִי",
+      "translit": "zkhartani",
+      "ref": "Gen.40.14",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "זָכַרְתִּי",
+      "translit": "zakharti",
+      "ref": "Hos.7.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּזְכַרְתֶּם",
+      "translit": "uzkhartem",
+      "ref": "Judg.9.2",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "זָֽכְרָה",
+      "translit": "zakhrah",
+      "ref": "Lam.1.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "זָכַרְנוּ",
+      "translit": "zakharnu",
+      "ref": "Num.11.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּזְכֹּר",
+      "translit": "vayyizkor",
+      "ref": "1Sam.1.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶזְכֹּר",
+      "translit": "va'ezkor",
+      "ref": "Exod.6.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּזְכְּרוּ",
+      "translit": "vayyizkru",
+      "ref": "Ps.78.35",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "זָכוּר",
+      "translit": "zakhur",
+      "ref": "Ps.103.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּזְכֹּר",
+      "translit": "tizkor",
+      "ref": "Deut.7.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִזְכֹּר",
+      "translit": "yizkor",
+      "ref": "Eccl.5.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִזְכְּרִי",
+      "translit": "tizkri",
+      "ref": "Ezek.16.63",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶזְכֹּֽר",
+      "translit": "ezkor",
+      "ref": "Isa.43.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִזְכְּרוּ",
+      "translit": "yizkru",
+      "ref": "Isa.64.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּזְכּוֹר",
+      "translit": "tizkor",
+      "ref": "Lam.3.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּזְכְּרוּ",
+      "translit": "tizkru",
+      "ref": "Num.15.40",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְזָכַרְתָּ",
+      "translit": "vzakharta",
+      "ref": "1Sam.1.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְזָכְרוּ",
+      "translit": "vzakhru",
+      "ref": "Ezek.6.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְזָכַרְתִּי",
+      "translit": "vzakharti",
+      "ref": "Ezek.16.60",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְזָכַרְתְּ",
+      "translit": "vzakhart",
+      "ref": "Ezek.16.61",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּזְכַרְתֶּם",
+      "translit": "uzkhartem",
+      "ref": "Ezek.20.43",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "זִכְרוּ",
+      "translit": "zikhru",
+      "ref": "1Chr.16.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "זְכֹר",
+      "translit": "zkhor",
+      "ref": "2Chr.6.42",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִזְכֹּר",
+      "translit": "lizkor",
+      "ref": "Ezek.23.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "זָכוֹר",
+      "translit": "zakhor",
+      "ref": "Deut.7.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶזְכְּרָה",
+      "translit": "ezkrah",
+      "ref": "Ps.42.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִזְכָּר",
+      "translit": "yizkar",
+      "ref": "2Sam.14.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּזְכֹּר",
+      "translit": "tizkor",
+      "ref": "2Sam.19.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּזְכְּרוּ",
+      "translit": "tizkru",
+      "ref": "Isa.43.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נִזְכָּרִים",
+      "translit": "nizkarim",
+      "ref": "Esth.9.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּזָּכָר",
+      "translit": "tizzakhar",
+      "ref": "Exod.34.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תִזָּכַרְנָה",
+      "translit": "tizzakharnah",
+      "ref": "Ezek.3.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִזָּכְרוּ",
+      "translit": "yizzakhru",
+      "ref": "Ezek.18.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִזָּכֵרִי",
+      "translit": "tizzakheri",
+      "ref": "Ezek.21.37",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִזָּכֵר",
+      "translit": "yizzakher",
+      "ref": "Jer.11.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וֲנִזְכַּרְתֶּם",
+      "translit": "vanizkartem",
+      "ref": "Num.10.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִזָּכֶרְכֶם",
+      "translit": "hizzakherkhem",
+      "ref": "Ezek.21.29",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִזְכִּיר",
+      "translit": "hizkir",
+      "ref": "Isa.49.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַזְכִּיר",
+      "translit": "mazkir",
+      "ref": "1Chr.18.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַמַּזְכִּרִים",
+      "translit": "hammazkirim",
+      "ref": "Isa.62.6",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מַזְכֶּרֶת",
+      "translit": "mazkeret",
+      "ref": "Num.5.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַזְכִּיר",
+      "translit": "azkir",
+      "ref": "Exod.20.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַזְכִּירוּ",
+      "translit": "tazkiru",
+      "ref": "Exod.23.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַזְכִּיר",
+      "translit": "yazkir",
+      "ref": "Isa.19.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נַזְכִּיר",
+      "translit": "nazkir",
+      "ref": "Isa.26.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַזְכִּירוּ",
+      "translit": "yazkiru",
+      "ref": "Isa.48.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהִזְכַּרְתַּנִי",
+      "translit": "vhizkartani",
+      "ref": "Gen.40.14",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הַזְכִּירוּ",
+      "translit": "hazkiru",
+      "ref": "Isa.12.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַזְכִּירֵנִי",
+      "translit": "hazkireni",
+      "ref": "Isa.43.26",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַזְכִּיר",
+      "translit": "hazkir",
+      "ref": "1Chr.16.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַזְכִּירָה",
+      "translit": "azkirah",
+      "ref": "Ps.45.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נַזְכִּירָה",
+      "translit": "nazkirah",
+      "ref": "Song.1.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "remind",
+  "niphal": "be remembered"
+ },
+ "root": "זכר",
+ "search_match": [
+  "2142",
+  "h2142",
+  "remember",
+  "zakhar",
+  "זכר"
+ ],
+ "citation_translit": "zakhar"
+}

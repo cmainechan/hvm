@@ -1,0 +1,55 @@
+{
+ "glosses": [
+  "fall into deep sleep"
+ ],
+ "strong": "H7290",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (this root has no attested qal; niphal serves as its basic/citation stem)",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נִרְדַּמְתִּי",
+      "translit": "nirdamti",
+      "ref": "Dan.8.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֵּרָדַֽם",
+      "translit": "vayyeradam",
+      "ref": "Jonah.1.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִרְדָּם",
+      "translit": "nirdam",
+      "ref": "Dan.10.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "רדם",
+ "search_match": [
+  "7290",
+  "fall into deep sleep",
+  "h7290",
+  "radam",
+  "רדם"
+ ],
+ "citation_translit": "nirdam"
+}

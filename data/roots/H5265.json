@@ -1,0 +1,280 @@
+{
+ "glosses": [
+  "set out"
+ ],
+ "strong": "H5265",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נָסַע",
+      "translit": "nasa",
+      "ref": "2Kgs.19.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָסְעוּ",
+      "translit": "nas'u",
+      "ref": "Deut.10.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּסְעוּ",
+      "translit": "vayyis'u",
+      "ref": "2Kgs.3.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּסַּע",
+      "translit": "vayyissa",
+      "ref": "2Kgs.19.36",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וַנִּסַּע",
+      "translit": "vannissa",
+      "ref": "Deut.1.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֹסֵעַ",
+      "translit": "nose'a",
+      "ref": "Exod.14.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נֹסְעִים",
+      "translit": "nos'im",
+      "ref": "Num.10.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִסָּֽעוּ",
+      "translit": "yissa'u",
+      "ref": "Exod.40.36",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִסַּע",
+      "translit": "yissa",
+      "ref": "Isa.33.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּסְעוּ",
+      "translit": "tis'u",
+      "ref": "Josh.3.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנָסְעוּ",
+      "translit": "vnas'u",
+      "ref": "Jer.31.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנָסַע",
+      "translit": "vnasa",
+      "ref": "Num.2.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "סְּעוּ",
+      "translit": "s'u",
+      "ref": "Deut.1.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בִּנְסֹעַ",
+      "translit": "binso'a",
+      "ref": "Gen.11.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְנָסוֹעַ",
+      "translit": "vnaso'a",
+      "ref": "Gen.12.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִסְעָה",
+      "translit": "nis'ah",
+      "ref": "Gen.33.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיִסָּֽעוּ",
+      "translit": "vyissa'u",
+      "ref": "Exod.14.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִסַּע",
+      "translit": "nissa",
+      "ref": "Isa.38.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּסִּעוּ",
+      "translit": "vayyassi'u",
+      "ref": "1Kgs.5.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּסַּע",
+      "translit": "vayyassa",
+      "ref": "Exod.15.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַסִּיעַ",
+      "translit": "massi'a",
+      "ref": "Eccl.10.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תַּסִּֽיעִי",
+      "translit": "tassi'i",
+      "ref": "2Kgs.4.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַסַּע",
+      "translit": "yassa",
+      "ref": "Ps.78.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּסִּיעַ",
+      "translit": "tassi'a",
+      "ref": "Ps.80.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be pulled up",
+  "hiphil": "lead out"
+ },
+ "root": "נסע",
+ "search_match": [
+  "5265",
+  "h5265",
+  "nasa",
+  "set out",
+  "נסע"
+ ],
+ "citation_translit": "nasa"
+}

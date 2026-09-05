@@ -1,0 +1,426 @@
+{
+ "glosses": [
+  "approach"
+ ],
+ "strong": "H5066",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּגַּשׁ",
+      "translit": "vayyiggash",
+      "ref": "1Chr.19.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּגְּשׁוּ",
+      "translit": "vayyiggshu",
+      "ref": "1Kgs.18.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וַתִּגַּשְׁןָ",
+      "translit": "vattiggashna",
+      "ref": "Gen.33.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּגַּשׁ",
+      "translit": "vattiggash",
+      "ref": "Gen.33.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִגְּשׁוּ",
+      "translit": "yiggshu",
+      "ref": "Exod.24.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִגַּשׁ",
+      "translit": "yiggash",
+      "ref": "Exod.24.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "גְּשׁוּ",
+      "translit": "gshu",
+      "ref": "1Kgs.18.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "גַּשׁ",
+      "translit": "gash",
+      "ref": "2Sam.1.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "גֹּשִֽׁי",
+      "translit": "goshi",
+      "ref": "Ruth.2.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לָגֶשֶׁת",
+      "translit": "lageshet",
+      "ref": "Exod.28.43",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּגְּשׁוּ",
+      "translit": "tiggshu",
+      "ref": "Exod.19.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּגַּשׁ",
+      "translit": "tiggash",
+      "ref": "Isa.65.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִגְּשׁוּ",
+      "translit": "yiggshu",
+      "ref": "Joel.4.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִגַּשׁ",
+      "translit": "niggash",
+      "ref": "1Kgs.20.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִגְּשׁוּ",
+      "translit": "niggshu",
+      "ref": "1Sam.7.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "נִגַּשְׁתֶּם",
+      "translit": "niggashtem",
+      "ref": "2Sam.11.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַנִּגָּשִׁים",
+      "translit": "hanniggashim",
+      "ref": "Exod.19.22",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִגַּשׁ",
+      "translit": "vniggash",
+      "ref": "Amos.9.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנִגְּשׁוּ",
+      "translit": "vniggshu",
+      "ref": "Deut.21.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְנִגְּשָׁה",
+      "translit": "vniggshah",
+      "ref": "Deut.25.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִגִּישׁוּ",
+      "translit": "higgishu",
+      "ref": "2Sam.17.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הִֽגַּשְׁתֶּם",
+      "translit": "higgashtem",
+      "ref": "Amos.5.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּגִּשׁוּ",
+      "translit": "vayyaggishu",
+      "ref": "1Sam.14.34",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתַּגֵּשׁ",
+      "translit": "vattaggesh",
+      "ref": "1Sam.28.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּגֵּשׁ",
+      "translit": "vayyaggesh",
+      "ref": "1Sam.30.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַתַּגִּישׁוּן",
+      "translit": "vattaggishun",
+      "ref": "Amos.6.3",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַגִּשִׁים",
+      "translit": "maggishim",
+      "ref": "1Kgs.5.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּמַגִּישׁ",
+      "translit": "umaggish",
+      "ref": "Mal.2.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תַגִּישׁ",
+      "translit": "taggish",
+      "ref": "Amos.9.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַגִּישׁוּ",
+      "translit": "yaggishu",
+      "ref": "Isa.41.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַגִּישׁוּ",
+      "translit": "taggishu",
+      "ref": "Mal.1.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהִגִּישׁוֹ",
+      "translit": "vhiggisho",
+      "ref": "Exod.21.6",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הַגִּישׁוּ",
+      "translit": "haggishu",
+      "ref": "1Sam.13.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַגִּישָׁה",
+      "translit": "haggishah",
+      "ref": "1Sam.14.18",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַגֵּשׁ",
+      "translit": "yaggesh",
+      "ref": "Job.40.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֻגָּשׁוּ",
+      "translit": "huggashu",
+      "ref": "2Sam.3.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֻגָּשׁ",
+      "translit": "muggash",
+      "ref": "Mal.1.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הִֽתְנַגְּשׁוּ",
+      "translit": "hitnaggshu",
+      "ref": "Isa.45.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "bring near",
+  "hophal": "be brought near",
+  "niphal": "approach",
+  "hitpael": "approach"
+ },
+ "root": "נגש¹",
+ "search_match": [
+  "5066",
+  "approach (nigash)",
+  "h5066",
+  "nagash",
+  "נגש¹"
+ ],
+ "citation_translit": "nagash"
+}

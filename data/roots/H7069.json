@@ -1,0 +1,249 @@
+{
+ "glosses": [
+  "buy"
+ ],
+ "strong": "H7069",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "קָנָה",
+      "translit": "qanah",
+      "ref": "2Sam.12.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "קָנִיתִי",
+      "translit": "qaniti",
+      "ref": "Eccl.2.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "קָנִיתָ",
+      "translit": "qanita",
+      "ref": "Exod.15.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "קָנִינוּ",
+      "translit": "qaninu",
+      "ref": "Neh.5.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "קָנְתָה",
+      "translit": "qantah",
+      "ref": "Ps.78.54",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּקֶן",
+      "translit": "vayyiqen",
+      "ref": "1Kgs.16.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶקְנֶה",
+      "translit": "va'eqneh",
+      "ref": "Jer.13.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "קֹנֶֽה",
+      "translit": "qoneh",
+      "ref": "Deut.28.68",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶקְנֶה",
+      "translit": "eqneh",
+      "ref": "1Chr.21.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִקְנֶה",
+      "translit": "tiqneh",
+      "ref": "Exod.21.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִקְנוּ",
+      "translit": "yiqnu",
+      "ref": "Jer.32.44",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִקְנֶה",
+      "translit": "yiqneh",
+      "ref": "Lev.22.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּקְנוּ",
+      "translit": "tiqnu",
+      "ref": "Lev.25.44",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְקָנִיתָ",
+      "translit": "vqanita",
+      "ref": "Jer.13.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "קְנֵה",
+      "translit": "qneh",
+      "ref": "Gen.47.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "קְֽנֹה",
+      "translit": "qnoh",
+      "ref": "2Chr.34.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "קָנֹה",
+      "translit": "qanoh",
+      "ref": "1Chr.21.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִקָּנוּ",
+      "translit": "yiqqanu",
+      "ref": "Jer.32.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִקְנָה",
+      "translit": "vniqnah",
+      "ref": "Jer.32.43",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִקְנַנִי",
+      "translit": "hiqnani",
+      "ref": "Zech.13.5",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַמַּקְנֶֽה",
+      "translit": "hammaqneh",
+      "ref": "Ezek.8.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be bought",
+  "hiphil": "buy"
+ },
+ "root": "קנה",
+ "search_match": [
+  "7069",
+  "buy",
+  "h7069",
+  "qanah",
+  "קנה"
+ ],
+ "citation_translit": "qanah"
+}

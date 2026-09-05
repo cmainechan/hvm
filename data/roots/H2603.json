@@ -1,0 +1,334 @@
+{
+ "glosses": [
+  "favor"
+ ],
+ "strong": "H2603",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חָנַן",
+      "translit": "chanan",
+      "ref": "Gen.33.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְחַנֹּתִי",
+      "translit": "vchannoti",
+      "ref": "Job.19.17",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חָנָֽנוּ",
+      "translit": "chananu",
+      "ref": "Lam.4.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּחָן",
+      "translit": "vayyachan",
+      "ref": "2Kgs.13.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חוֹנֵן",
+      "translit": "chonen",
+      "ref": "Prov.14.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶֽחֱנַן",
+      "translit": "yechenan",
+      "ref": "Amos.5.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְחָנֵּֽם",
+      "translit": "tchannem",
+      "ref": "Deut.7.2",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָחֹן",
+      "translit": "achon",
+      "ref": "Exod.33.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְחַנַּנִי",
+      "translit": "vchannani",
+      "ref": "2Sam.12.22",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְחַנֹּתִי",
+      "translit": "vchannoti",
+      "ref": "Exod.33.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חָנֵּנִי",
+      "translit": "channeni",
+      "ref": "Isa.33.2",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "חָנֻּנִי",
+      "translit": "channuni",
+      "ref": "Job.19.21",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַֽחֲנַנְכֶם",
+      "translit": "lachanankhem",
+      "ref": "Isa.30.18",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "חָנוֹן",
+      "translit": "chanon",
+      "ref": "Isa.30.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וִֽיחָנֵנוּ",
+      "translit": "vichanenu",
+      "ref": "Mal.1.9",
+      "has_suffix": true,
+      "has_prefix": true
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּחֹן",
+      "translit": "tachon",
+      "ref": "Ps.59.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "נֵּחַנְתְּ",
+      "translit": "nechant",
+      "ref": "Jer.22.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְחַנֵּן",
+      "translit": "ychannen",
+      "ref": "Prov.26.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֻחַן",
+      "translit": "yuchan",
+      "ref": "Isa.26.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הִתְחַנַּנְתִּי",
+      "translit": "hitchannanti",
+      "ref": "1Kgs.8.59",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִתְחַנַּנְתָּה",
+      "translit": "hitchannantah",
+      "ref": "1Kgs.9.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּתְחַנֵּן",
+      "translit": "vayyitchannen",
+      "ref": "2Kgs.1.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶתְחַנַּן",
+      "translit": "va'etchannan",
+      "ref": "Deut.3.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּתְחַנֶּן",
+      "translit": "vattitchannen",
+      "ref": "Esth.8.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּתְחַנָּֽן",
+      "translit": "titchannan",
+      "ref": "Job.8.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶתְחַנָּֽן",
+      "translit": "etchannan",
+      "ref": "Job.9.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִֽתְחַנְּנוּ",
+      "translit": "vhitchannnu",
+      "ref": "1Kgs.8.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִֽתְחַנֶּן",
+      "translit": "lhitchannen",
+      "ref": "Esth.4.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hitpael": "seek favor",
+  "niphal": "be shown favor",
+  "piel": "make gracious (of the voice)",
+  "hophal": "be shown favor"
+ },
+ "root": "חנן",
+ "search_match": [
+  "2603",
+  "chanan",
+  "favor",
+  "h2603",
+  "חנן"
+ ],
+ "citation_translit": "chanan"
+}

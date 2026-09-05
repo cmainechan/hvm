@@ -1,0 +1,283 @@
+{
+ "glosses": [
+  "give to drink"
+ ],
+ "strong": "H8248",
+ "stems": {
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְשֻׁקֶּֽה",
+      "translit": "yshuqqeh",
+      "ref": "Job.21.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הִשְׁקָֽתָה",
+      "translit": "hishqatah",
+      "ref": "Gen.24.46",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִשְׁקוּ",
+      "translit": "vhishqu",
+      "ref": "Gen.29.3",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִשְׁקִיתָנוּ",
+      "translit": "hishqitanu",
+      "ref": "Ps.60.5",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּשְׁקֻהוּ",
+      "translit": "vayyashquhu",
+      "ref": "1Sam.30.11",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַתַּשְׁקוּ",
+      "translit": "vattashqu",
+      "ref": "Amos.2.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּשְׁקְ",
+      "translit": "vayyashq",
+      "ref": "Exod.2.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וַתַּשְׁקֶיןָ",
+      "translit": "vattashqena",
+      "ref": "Gen.19.33",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתַּשְׁקְ",
+      "translit": "vattashq",
+      "ref": "Gen.21.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָֽאַשְׁקֶה",
+      "translit": "va'ashqeh",
+      "ref": "Jer.25.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתַּשְׁקֵמוֹ",
+      "translit": "vattashqemo",
+      "ref": "Ps.80.6",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַשְׁקֶה",
+      "translit": "mashqeh",
+      "ref": "Ps.104.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַשְׁקֶה",
+      "translit": "yashqeh",
+      "ref": "1Chr.11.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נַשְׁקֶה",
+      "translit": "nashqeh",
+      "ref": "Gen.19.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַשְׁקֶה",
+      "translit": "ashqeh",
+      "ref": "Gen.24.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַשְׁקוּ",
+      "translit": "yashqu",
+      "ref": "Gen.29.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּשְׁקֶה",
+      "translit": "tashqeh",
+      "ref": "Job.22.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהִשְׁקִיתָ",
+      "translit": "vhishqita",
+      "ref": "Deut.11.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִשְׁקֵיתִי",
+      "translit": "vhishqeti",
+      "ref": "Ezek.32.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהִשְׁקָה",
+      "translit": "vhishqah",
+      "ref": "Gen.2.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְהִשְׁקִינוּ",
+      "translit": "vhishqinu",
+      "ref": "Gen.29.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הַשְׁקִינִי",
+      "translit": "hashqini",
+      "ref": "Gen.24.43",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הַשְׁקוּ",
+      "translit": "hashqu",
+      "ref": "Gen.29.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַשְׁקֵהוּ",
+      "translit": "hashqehu",
+      "ref": "Prov.25.21",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַשְׁקוֹת",
+      "translit": "lhashqot",
+      "ref": "Eccl.2.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נַשְׁקֶנּוּ",
+      "translit": "nashqennu",
+      "ref": "Gen.19.34",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be given drink",
+  "hiphil": "give to drink"
+ },
+ "root": "שקה",
+ "search_match": [
+  "8248",
+  "give to drink",
+  "h8248",
+  "hishqah",
+  "שקה"
+ ],
+ "citation_translit": "hishqah"
+}

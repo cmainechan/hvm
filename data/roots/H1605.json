@@ -1,0 +1,119 @@
+{
+ "glosses": [
+  "rebuke"
+ ],
+ "strong": "H1605",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּגְעַר",
+      "translit": "vayyig'ar",
+      "ref": "Gen.37.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְגָעַר",
+      "translit": "vga'ar",
+      "ref": "Isa.17.13",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְגָעַרְתִּי",
+      "translit": "vga'arti",
+      "ref": "Mal.3.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּמִגְּעָר",
+      "translit": "umigg'ar",
+      "ref": "Isa.54.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "גָּעַרְתָּ",
+      "translit": "ga'arta",
+      "ref": "Jer.29.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "גֹעֵר",
+      "translit": "go'er",
+      "ref": "Mal.2.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "גְּעַר",
+      "translit": "g'ar",
+      "ref": "Ps.68.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִגְעֲרוּ",
+      "translit": "tig'aru",
+      "ref": "Ruth.2.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִגְעַר",
+      "translit": "yig'ar",
+      "ref": "Zech.3.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "גער",
+ "search_match": [
+  "1605",
+  "ga'ar",
+  "h1605",
+  "rebuke",
+  "גער"
+ ],
+ "citation_translit": "ga'ar"
+}

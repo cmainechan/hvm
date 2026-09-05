@@ -1,0 +1,290 @@
+{
+ "glosses": [
+  "choose"
+ ],
+ "strong": "H977",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "בָּחַר",
+      "translit": "bachar",
+      "ref": "1Chr.15.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "בָּחַרְתִּי",
+      "translit": "bacharti",
+      "ref": "1Chr.28.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "בָּחַרְתָּ",
+      "translit": "bacharta",
+      "ref": "1Kgs.3.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "בְּחַרְתֶּם",
+      "translit": "bchartem",
+      "ref": "1Sam.8.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "בָּחָֽרוּ",
+      "translit": "bacharu",
+      "ref": "Gen.6.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּבְחַר",
+      "translit": "vayyivchar",
+      "ref": "1Chr.19.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶבְחַר",
+      "translit": "va'evchar",
+      "ref": "1Kgs.8.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּבְחַר",
+      "translit": "vattivchar",
+      "ref": "Job.7.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "בֹחֵר",
+      "translit": "vocher",
+      "ref": "1Sam.20.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "בָּחוּר",
+      "translit": "bachur",
+      "ref": "1Chr.19.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִבְחַר",
+      "translit": "yivchar",
+      "ref": "2Sam.15.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּבְחַר",
+      "translit": "tivchar",
+      "ref": "2Sam.19.39",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶבְחַר",
+      "translit": "evchar",
+      "ref": "Isa.58.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִבְחֲרָה",
+      "translit": "nivcharah",
+      "ref": "Job.34.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּבָֽחַרְתָּ",
+      "translit": "uvacharta",
+      "ref": "Deut.30.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּבָחַר",
+      "translit": "uvachar",
+      "ref": "Isa.14.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וּבָֽחֲרוּ",
+      "translit": "uvacharu",
+      "ref": "Isa.56.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "בְּחַר",
+      "translit": "bchar",
+      "ref": "1Chr.21.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "בַּחֲרוּ",
+      "translit": "bacharu",
+      "ref": "1Kgs.18.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בָּחֳרִי",
+      "translit": "bachori",
+      "ref": "Ezek.20.5",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּבָחֹר",
+      "translit": "uvachor",
+      "ref": "1Sam.2.28",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶבְחֲרָה",
+      "translit": "evcharah",
+      "ref": "2Sam.17.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיִבְחֲרוּ",
+      "translit": "vyivcharu",
+      "ref": "1Kgs.18.23",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּבְחַר",
+      "translit": "tivchar",
+      "ref": "Prov.3.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִבְחָר",
+      "translit": "nivchar",
+      "ref": "Prov.8.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִבְחַר",
+      "translit": "vnivchar",
+      "ref": "Jer.8.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be chosen"
+ },
+ "root": "בחר",
+ "search_match": [
+  "977",
+  "bachar",
+  "choose",
+  "h977",
+  "בחר"
+ ],
+ "citation_translit": "bachar"
+}

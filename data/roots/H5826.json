@@ -1,0 +1,244 @@
+{
+ "glosses": [
+  "help"
+ ],
+ "strong": "H5826",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "עֲזָרְךָ",
+      "translit": "azarkha",
+      "ref": "1Chr.12.19",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "עָזְרוּ",
+      "translit": "azru",
+      "ref": "1Chr.12.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "עֲזַרְתִּיךָ",
+      "translit": "azartikha",
+      "ref": "Isa.41.10",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "עָזַרְתָּ",
+      "translit": "azarta",
+      "ref": "Job.26.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיַּעְזְרוּ",
+      "translit": "vayya'zru",
+      "ref": "1Kgs.1.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּֽעֲזָר",
+      "translit": "vayya'azar",
+      "ref": "2Chr.26.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "עֹזֵר",
+      "translit": "ozer",
+      "ref": "1Kgs.20.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "עָזֻר",
+      "translit": "azur",
+      "ref": "Isa.31.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַעְזֹרוּ",
+      "translit": "ya'zoru",
+      "ref": "Deut.32.38",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַֽעֲזָר",
+      "translit": "ya'azar",
+      "ref": "Gen.49.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַעֲזַרְתֶּם",
+      "translit": "va'azartem",
+      "ref": "Josh.1.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "עָזְרֵנוּ",
+      "translit": "azrenu",
+      "ref": "2Chr.14.10",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְעִזְרֻנִי",
+      "translit": "v'izruni",
+      "ref": "Josh.10.4",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַעְזֹר",
+      "translit": "la'zor",
+      "ref": "1Chr.12.18",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְֽנֶעֱזָרְתִּי",
+      "translit": "vne'ezarti",
+      "ref": "Ps.28.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיֵּעָזְרוּ",
+      "translit": "vayye'azru",
+      "ref": "1Chr.5.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֵעָזְרוּ",
+      "translit": "ye'azru",
+      "ref": "Dan.11.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהֵעָזֵר",
+      "translit": "lhe'azer",
+      "ref": "2Chr.26.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַעְזְרִים",
+      "translit": "ma'zrim",
+      "ref": "2Chr.28.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיַעְזְרוּנִי",
+      "translit": "vya'zruni",
+      "ref": "2Chr.28.23",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be helped",
+  "hiphil": "help"
+ },
+ "root": "עזר",
+ "search_match": [
+  "5826",
+  "azar",
+  "h5826",
+  "help",
+  "עזר"
+ ],
+ "citation_translit": "azar"
+}

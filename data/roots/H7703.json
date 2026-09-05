@@ -1,0 +1,208 @@
+{
+ "glosses": [
+  "devastate"
+ ],
+ "strong": "H7703",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שַׁדּוּנִי",
+      "translit": "shadduni",
+      "ref": "Ps.17.9",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "שׁוֹדֵד",
+      "translit": "shoded",
+      "ref": "Isa.16.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "שֹֽׁדְדִים",
+      "translit": "shoddim",
+      "ref": "Jer.12.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "שָׁדוּד",
+      "translit": "shadud",
+      "ref": "Isa.33.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "הַשְּׁדוּדָה",
+      "translit": "hashshdudah",
+      "ref": "Ps.137.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְשָׁדְדֵם",
+      "translit": "yshaddem",
+      "ref": "Jer.5.6",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְשָֽׁדְדוּ",
+      "translit": "vshaddu",
+      "ref": "Ezek.32.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְשָׁדְדוּ",
+      "translit": "vshaddu",
+      "ref": "Jer.49.28",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִשְׁדוֹד",
+      "translit": "lishdod",
+      "ref": "Jer.47.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "שָׁדוֹד",
+      "translit": "shadod",
+      "ref": "Mic.2.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נְשַׁדֻּנוּ",
+      "translit": "nshaddunu",
+      "ref": "Mic.2.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּשַׁדֵּד",
+      "translit": "tshadded",
+      "ref": "Prov.24.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שֻׁדַּד",
+      "translit": "shuddad",
+      "ref": "Isa.15.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "שֻׁדָּֽדְנוּ",
+      "translit": "shuddadnu",
+      "ref": "Jer.4.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "שֻׁדְּדָה",
+      "translit": "shudddah",
+      "ref": "Jer.4.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שֻׁדְּדוּ",
+      "translit": "shudddu",
+      "ref": "Jer.4.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be devastated",
+  "piel": "devastate",
+  "pual": "devastate"
+ },
+ "root": "שדד",
+ "search_match": [
+  "7703",
+  "devastate",
+  "h7703",
+  "shadad",
+  "שדד"
+ ],
+ "citation_translit": "shadad"
+}

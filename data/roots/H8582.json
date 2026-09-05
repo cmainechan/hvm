@@ -1,0 +1,251 @@
+{
+ "glosses": [
+  "stray"
+ ],
+ "strong": "H8582",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "תָּעוּ",
+      "translit": "ta'u",
+      "ref": "Ezek.44.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "תָּעָה",
+      "translit": "ta'ah",
+      "ref": "Isa.21.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "תָּעִינוּ",
+      "translit": "ta'inu",
+      "ref": "Isa.53.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "תָעִֽיתִי",
+      "translit": "ta'iti",
+      "ref": "Ps.119.110",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתֵּתַע",
+      "translit": "vatteta",
+      "ref": "Gen.21.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "תֹּעֶה",
+      "translit": "to'eh",
+      "ref": "Exod.23.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתְעוּ",
+      "translit": "yit'u",
+      "ref": "Ezek.14.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בִּתְעוֹת",
+      "translit": "bit'ot",
+      "ref": "Ezek.44.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֵּתַע",
+      "translit": "teta",
+      "ref": "Prov.7.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִתְעָה",
+      "translit": "nit'ah",
+      "ref": "Job.15.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כְּהִתָּעוֹת",
+      "translit": "khitta'ot",
+      "ref": "Isa.19.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִתְעוּ",
+      "translit": "hit'u",
+      "ref": "Gen.20.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִתְעָה",
+      "translit": "hit'ah",
+      "ref": "Hos.4.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הִתְעֵיתֶם",
+      "translit": "hit'etem",
+      "ref": "Jer.42.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֶּתַע",
+      "translit": "vayyeta",
+      "ref": "2Chr.33.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּתְעוּ",
+      "translit": "vayyat'u",
+      "ref": "Amos.2.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַתְעִים",
+      "translit": "mat'im",
+      "ref": "Isa.3.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַתְעֶה",
+      "translit": "mat'eh",
+      "ref": "Isa.30.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַתְעֵנוּ",
+      "translit": "tat'enu",
+      "ref": "Isa.63.17",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תַּתְעֵֽם",
+      "translit": "tat'em",
+      "ref": "Prov.12.26",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִתְעוּ",
+      "translit": "vhit'u",
+      "ref": "Isa.19.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "lead astray",
+  "niphal": "be led astray"
+ },
+ "root": "תעה",
+ "search_match": [
+  "8582",
+  "h8582",
+  "stray",
+  "ta'ah",
+  "תעה"
+ ],
+ "citation_translit": "ta'ah"
+}

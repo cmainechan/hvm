@@ -1,0 +1,909 @@
+{
+ "glosses": [
+  "come"
+ ],
+ "strong": "H935",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "בָּא",
+      "translit": "ba",
+      "ref": "1Chr.2.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "בָּאתֶם",
+      "translit": "ba'tem",
+      "ref": "1Chr.12.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "בָּאוּ",
+      "translit": "ba'u",
+      "ref": "1Chr.12.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "בָּאָה",
+      "translit": "ba'ah",
+      "ref": "1Kgs.2.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "בָּאתִי",
+      "translit": "ba'ti",
+      "ref": "1Kgs.10.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "בָּאתָ",
+      "translit": "ba'ta",
+      "ref": "1Kgs.13.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "בָּאנוּ",
+      "translit": "ba'nu",
+      "ref": "1Sam.25.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "בָאת",
+      "translit": "va't",
+      "ref": "Gen.16.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּבֹאוּ",
+      "translit": "vayyavo'u",
+      "ref": "1Chr.4.41",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּבֹא",
+      "translit": "vayyavo",
+      "ref": "1Chr.7.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתָּבֹא",
+      "translit": "vattavo",
+      "ref": "1Kgs.1.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וַנָּבוֹא",
+      "translit": "vannavo",
+      "ref": "1Sam.10.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַתָּבֹאת",
+      "translit": "vattavo't",
+      "ref": "1Sam.25.34",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַתָּבֹאוּ",
+      "translit": "vattavo'u",
+      "ref": "Deut.29.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וַתָּבֹאנָה",
+      "translit": "vattavo'nah",
+      "ref": "Esth.4.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאָבוֹא",
+      "translit": "va'avo",
+      "ref": "Ezek.3.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "בָּאִים",
+      "translit": "ba'im",
+      "ref": "1Chr.2.55",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "בָּאָה",
+      "translit": "ba'ah",
+      "ref": "1Chr.27.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "בָּא",
+      "translit": "ba",
+      "ref": "1Kgs.15.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "בָּאוֹת",
+      "translit": "ba'ot",
+      "ref": "Ezek.16.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָבֹאוּ",
+      "translit": "yavo'u",
+      "ref": "1Chr.10.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּבוֹא",
+      "translit": "tavo",
+      "ref": "1Chr.11.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָבוֹא",
+      "translit": "avo",
+      "ref": "1Kgs.1.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תָּבֹאנָה",
+      "translit": "tavo'nah",
+      "ref": "1Kgs.3.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָּבוֹא",
+      "translit": "tavo",
+      "ref": "1Kgs.10.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תָבֹאוּ",
+      "translit": "tavo'u",
+      "ref": "1Kgs.11.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָבוֹא",
+      "translit": "yavo",
+      "ref": "1Kgs.14.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נָבוֹא",
+      "translit": "navo",
+      "ref": "2Kgs.7.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּבָאתָ",
+      "translit": "uva'ta",
+      "ref": "1Chr.14.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּבָא",
+      "translit": "uva",
+      "ref": "1Kgs.1.35",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וּבָאת",
+      "translit": "uva't",
+      "ref": "1Kgs.14.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּבָאתֶם",
+      "translit": "uva'tem",
+      "ref": "1Sam.16.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וּבָאוּ",
+      "translit": "uva'u",
+      "ref": "2Chr.6.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וּבָאנוּ",
+      "translit": "uva'nu",
+      "ref": "2Sam.17.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וּבָאָה",
+      "translit": "uva'ah",
+      "ref": "Ezek.30.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "בֹּאוּ",
+      "translit": "bo'u",
+      "ref": "1Chr.16.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "בֹּאִי",
+      "translit": "bo'i",
+      "ref": "1Kgs.1.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "בֹּא",
+      "translit": "bo",
+      "ref": "1Kgs.1.42",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בּוֹא",
+      "translit": "bo",
+      "ref": "1Chr.5.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בוֹא",
+      "translit": "vo",
+      "ref": "1Kgs.22.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָבוֹא",
+      "translit": "avo",
+      "ref": "2Chr.1.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נָבוֹאָה",
+      "translit": "navo'ah",
+      "ref": "2Kgs.7.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָבוֹא",
+      "translit": "yavo",
+      "ref": "1Sam.4.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָבֹאוּ",
+      "translit": "yavo'u",
+      "ref": "2Chr.23.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָּבֹא",
+      "translit": "tavo",
+      "ref": "2Sam.13.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תָּבֹאוּ",
+      "translit": "tavo'u",
+      "ref": "Hos.4.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּבוֹא",
+      "translit": "tavo",
+      "ref": "Jer.16.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תָּבוֹאִי",
+      "translit": "tavo'i",
+      "ref": "Ruth.3.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֵבִיאוּ",
+      "translit": "hevi'u",
+      "ref": "1Chr.11.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הֵבֵאתָ",
+      "translit": "heve'ta",
+      "ref": "1Chr.17.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֵבִיא",
+      "translit": "hevi",
+      "ref": "1Kgs.9.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הֲבֵאתֶם",
+      "translit": "have'tem",
+      "ref": "1Sam.21.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הֵבִיאָה",
+      "translit": "hevi'ah",
+      "ref": "1Sam.25.35",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הֵבֵאתִי",
+      "translit": "heve'ti",
+      "ref": "2Kgs.19.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַֽהֲבֵאתוֹ",
+      "translit": "vahave'to",
+      "ref": "2Sam.14.10",
+      "has_suffix": true,
+      "has_prefix": true
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "הֲבִֽיאֹנֻם",
+      "translit": "havi'onum",
+      "ref": "Num.32.17",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּבֵא",
+      "translit": "vayyave",
+      "ref": "1Chr.4.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּבִיאוּ",
+      "translit": "vayyavi'u",
+      "ref": "1Chr.10.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתָּבֵא",
+      "translit": "vattave",
+      "ref": "1Sam.1.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאָבִיא",
+      "translit": "va'avi",
+      "ref": "1Sam.15.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתְּבִיאֵם",
+      "translit": "vattvi'em",
+      "ref": "Neh.9.23",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֵבִיא",
+      "translit": "mevi",
+      "ref": "1Chr.11.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְבִיאִים",
+      "translit": "mvi'im",
+      "ref": "1Chr.12.41",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָבִיאוּ",
+      "translit": "yavi'u",
+      "ref": "1Chr.9.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָבִיא",
+      "translit": "avi",
+      "ref": "1Chr.13.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נָבִיא",
+      "translit": "navi",
+      "ref": "1Sam.9.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּבִיא",
+      "translit": "tavi",
+      "ref": "1Sam.17.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תָבִיאוּ",
+      "translit": "tavi'u",
+      "ref": "1Sam.21.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָבִיא",
+      "translit": "yavi",
+      "ref": "2Chr.24.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תְּבִיאֶינָה",
+      "translit": "tvi'enah",
+      "ref": "Lev.7.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָּבִיא",
+      "translit": "tavi",
+      "ref": "Lev.12.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהֵבֵאתִי",
+      "translit": "vheve'ti",
+      "ref": "1Sam.1.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַהֲבֵאתֶם",
+      "translit": "vahave'tem",
+      "ref": "1Sam.16.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהֵבֵאתָ",
+      "translit": "vheve'ta",
+      "ref": "2Sam.9.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהֵבִיא",
+      "translit": "vhevi",
+      "ref": "Deut.30.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהֵבִיאוּ",
+      "translit": "vhevi'u",
+      "ref": "Isa.14.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְהֵבִיאָה",
+      "translit": "vhevi'ah",
+      "ref": "Lev.15.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הָבִיאוּ",
+      "translit": "havi'u",
+      "ref": "1Chr.21.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הָבֵיא",
+      "translit": "have",
+      "ref": "1Sam.20.40",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הָבִיאִי",
+      "translit": "havi'i",
+      "ref": "2Sam.13.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הָבִיא",
+      "translit": "havi",
+      "ref": "1Chr.13.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְהָבֵא",
+      "translit": "vhave",
+      "ref": "Hag.1.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הֻבָאתָה",
+      "translit": "huva'tah",
+      "ref": "Ezek.40.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הֻבָאת",
+      "translit": "huva't",
+      "ref": "Gen.33.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֽוּבְאוּ",
+      "translit": "huv'u",
+      "ref": "Gen.43.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הוּבָא",
+      "translit": "huva",
+      "ref": "Lev.10.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַמּוּבָא",
+      "translit": "hammuva",
+      "ref": "2Chr.34.9",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מֽוּבָאִים",
+      "translit": "muva'im",
+      "ref": "Ezek.23.42",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "מוּבָאוֹת",
+      "translit": "muva'ot",
+      "ref": "Ps.45.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יוּבָא",
+      "translit": "yuva",
+      "ref": "2Kgs.12.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יוּבָאוּ",
+      "translit": "yuva'u",
+      "ref": "Jer.27.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהוּבָא",
+      "translit": "vhuva",
+      "ref": "Exod.27.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "bring",
+  "hophal": "be brought"
+ },
+ "root": "בוא",
+ "search_match": [
+  "935",
+  "bo",
+  "bring",
+  "come",
+  "h935",
+  "בוא"
+ ],
+ "citation_translit": "bo"
+}

@@ -1,0 +1,50 @@
+name: Build and deploy
+
+on:
+  workflow_run:
+    workflows: ["Validate data"]
+    types: [completed]
+    branches: [main]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build dist/
+        run: python3 scripts/build.py
+      - name: Prepare Pages site
+        run: |
+          mkdir -p _site
+          cp dist/hebrew-verb-map.html _site/index.html
+          cp dist/data.json _site/data.json
+          cp dist/hebrew-verb-map.jsx _site/hebrew-verb-map.jsx
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,373 @@
+{
+ "glosses": [
+  "bury"
+ ],
+ "strong": "H6912",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּקְבַרְתֶּם",
+      "translit": "uqvartem",
+      "ref": "1Kgs.13.31",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "קָבְרוּ",
+      "translit": "qavru",
+      "ref": "1Kgs.14.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "קָבַר",
+      "translit": "qavar",
+      "ref": "Gen.23.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "קָבַרְתִּי",
+      "translit": "qavarti",
+      "ref": "Gen.49.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּקְבְּרוּ",
+      "translit": "vayyiqbru",
+      "ref": "1Chr.10.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּקְבְֹּר",
+      "translit": "vayyiqbor",
+      "ref": "2Kgs.21.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַֽתִּקְבְּרוּ",
+      "translit": "vattiqbru",
+      "ref": "2Sam.2.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶקְבְּרֶהָ",
+      "translit": "va'eqbreha",
+      "ref": "Gen.48.7",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "קֹבֵר",
+      "translit": "qover",
+      "ref": "2Kgs.9.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "קֹבְרִים",
+      "translit": "qovrim",
+      "ref": "2Kgs.13.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "קָבוּר",
+      "translit": "qavur",
+      "ref": "1Kgs.13.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "קְבֻרִים",
+      "translit": "qvurim",
+      "ref": "Eccl.8.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּקְבְּרֶנּוּ",
+      "translit": "tiqbrennu",
+      "ref": "Deut.21.23",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִקְבְּרוּ",
+      "translit": "yiqbru",
+      "ref": "Jer.19.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּקְבַרְתּוֹ",
+      "translit": "uqvarto",
+      "ref": "1Kgs.2.31",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְקָבְרוּ",
+      "translit": "vqavru",
+      "ref": "Ezek.39.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "קִבְרוּ",
+      "translit": "qivru",
+      "ref": "2Kgs.9.34",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "קְבֹר",
+      "translit": "qvor",
+      "ref": "Gen.23.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִקְבֹּר",
+      "translit": "liqbor",
+      "ref": "1Kgs.13.29",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "קָבוֹר",
+      "translit": "qavor",
+      "ref": "Deut.21.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאֶקְבְּרָה",
+      "translit": "v'eqbrah",
+      "ref": "Gen.23.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִקְבְּרֵנִי",
+      "translit": "tiqbreni",
+      "ref": "Gen.47.29",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּקָּבֵר",
+      "translit": "vayyiqqaver",
+      "ref": "1Kgs.2.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּקָּבֵר",
+      "translit": "vattiqqaver",
+      "ref": "Gen.35.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּקָּבֵר",
+      "translit": "tiqqaver",
+      "ref": "Gen.15.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִקָּבֵרוּ",
+      "translit": "yiqqaveru",
+      "ref": "Jer.8.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִקָּבֵר",
+      "translit": "yiqqaver",
+      "ref": "Jer.22.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶקָּבֵר",
+      "translit": "eqqaver",
+      "ref": "Ruth.1.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְקַבְּרִים",
+      "translit": "mqabbrim",
+      "ref": "Ezek.39.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְקַבֵּר",
+      "translit": "mqabber",
+      "ref": "Jer.14.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּקַבְּרֵם",
+      "translit": "tqabbrem",
+      "ref": "Hos.9.6",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְקַבֵּר",
+      "translit": "lqabber",
+      "ref": "1Kgs.11.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "קֻבַּר",
+      "translit": "qubbar",
+      "ref": "Gen.25.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be buried",
+  "piel": "bury",
+  "pual": "be buried"
+ },
+ "root": "קבר",
+ "search_match": [
+  "6912",
+  "bury",
+  "h6912",
+  "qavar",
+  "קבר"
+ ],
+ "citation_translit": "qavar"
+}

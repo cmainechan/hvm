@@ -1,0 +1,540 @@
+{
+ "glosses": [
+  "be"
+ ],
+ "strong": "H1961",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הָיוּ",
+      "translit": "hayu",
+      "ref": "1Chr.2.33",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הָיָה",
+      "translit": "hayah",
+      "ref": "1Chr.2.34",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הָיְתָה",
+      "translit": "haytah",
+      "ref": "1Chr.7.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הָיִיתָ",
+      "translit": "hayita",
+      "ref": "1Chr.17.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הָיִיתִי",
+      "translit": "hayiti",
+      "ref": "1Kgs.22.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הֱיִיתֶם",
+      "translit": "heyitem",
+      "ref": "2Sam.3.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "הָיִינוּ",
+      "translit": "hayinu",
+      "ref": "Deut.6.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הָיִית",
+      "translit": "hayit",
+      "ref": "Ezek.16.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּהְיוּ",
+      "translit": "vayyihyu",
+      "ref": "1Chr.1.51",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְהִי",
+      "translit": "vayhi",
+      "ref": "1Chr.2.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתְּהִי",
+      "translit": "vatthi",
+      "ref": "1Chr.2.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וַתִּהְיֶינָה",
+      "translit": "vattihyenah",
+      "ref": "1Chr.7.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֱהִי",
+      "translit": "va'ehi",
+      "ref": "1Chr.17.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וַנְּהִי",
+      "translit": "vannhi",
+      "ref": "2Sam.11.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַתִּהְיוּ",
+      "translit": "vattihyu",
+      "ref": "Amos.4.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַתִּהְיִי",
+      "translit": "vattihyi",
+      "ref": "Ezek.16.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתְּהִי",
+      "translit": "vatthi",
+      "ref": "Ps.118.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "הוֹיָה",
+      "translit": "hoyah",
+      "ref": "Exod.9.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִהְיוּ",
+      "translit": "yihyu",
+      "ref": "1Chr.9.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּֽהְיֶה",
+      "translit": "tihyeh",
+      "ref": "1Chr.11.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִהְיֶה",
+      "translit": "yihyeh",
+      "ref": "1Chr.11.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶהְיֶה",
+      "translit": "ehyeh",
+      "ref": "1Chr.17.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּהְיֶה",
+      "translit": "tihyeh",
+      "ref": "1Kgs.8.38",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּהְיוּ",
+      "translit": "tihyu",
+      "ref": "1Sam.8.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִהְיֶה",
+      "translit": "nihyeh",
+      "ref": "1Sam.14.40",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תִּהְיֶינָה",
+      "translit": "tihyenah",
+      "ref": "Deut.21.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִֽהְיִי",
+      "translit": "tihyi",
+      "ref": "Hos.3.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fp",
+      "label": "2nd fem. pl.",
+      "heb": "וְתִֽהְיֶינָה",
+      "translit": "vtihyenah",
+      "ref": "Jer.48.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְהָיְתָה",
+      "translit": "vhaytah",
+      "ref": "1Chr.4.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהָיוּ",
+      "translit": "vhayu",
+      "ref": "1Chr.9.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהָיָה",
+      "translit": "vhayah",
+      "ref": "1Chr.17.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהָיִיתָ",
+      "translit": "vhayita",
+      "ref": "1Chr.19.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהָיִיתִי",
+      "translit": "vhayiti",
+      "ref": "1Kgs.1.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וִהְיִיתֶם",
+      "translit": "vihyitem",
+      "ref": "1Sam.4.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְהָיִינוּ",
+      "translit": "vhayinu",
+      "ref": "1Sam.8.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְהָיִית",
+      "translit": "vhayit",
+      "ref": "2Sam.14.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2cp",
+      "label": "2cp",
+      "heb": "וִהְיִיתֶם",
+      "translit": "vihyitem",
+      "ref": "Lev.11.45",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הֱיוּ",
+      "translit": "heu",
+      "ref": "1Sam.4.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הֱיֵה",
+      "translit": "heyeh",
+      "ref": "1Sam.18.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הֲיִי",
+      "translit": "hayi",
+      "ref": "Gen.24.60",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הֱיוֹת",
+      "translit": "heot",
+      "ref": "1Chr.1.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הָיוֹ",
+      "translit": "hayo",
+      "ref": "1Kgs.13.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְהִי",
+      "translit": "yhi",
+      "ref": "1Chr.14.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּהִי",
+      "translit": "thi",
+      "ref": "1Chr.21.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִֽהְיוּ",
+      "translit": "yihyu",
+      "ref": "1Kgs.8.59",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּֽהְיוּ",
+      "translit": "tihyu",
+      "ref": "2Chr.30.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּהִי",
+      "translit": "thi",
+      "ref": "Eccl.7.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וְתִֽהְיֶנָה",
+      "translit": "vtihyenah",
+      "ref": "Jer.18.21",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִהְיָה",
+      "translit": "nihyah",
+      "ref": "1Kgs.1.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נִהְיְתָה",
+      "translit": "nihytah",
+      "ref": "Dan.2.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נִהְיֵיתִי",
+      "translit": "nihyeti",
+      "ref": "Dan.8.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נִהְיֵיתָֽ",
+      "translit": "nihyeta",
+      "ref": "Deut.27.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "נִהְיָה",
+      "translit": "nihyah",
+      "ref": "Prov.13.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְנִֽהְיָתָה",
+      "translit": "vnihyatah",
+      "ref": "Ezek.21.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "happen"
+ },
+ "root": "היה",
+ "search_match": [
+  "1961",
+  "be",
+  "h1961",
+  "hayah",
+  "היה"
+ ],
+ "citation_translit": "hayah"
+}

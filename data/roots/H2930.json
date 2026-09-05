@@ -1,0 +1,464 @@
+{
+ "glosses": [
+  "be unclean"
+ ],
+ "strong": "H2930",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "טָמֵאת",
+      "translit": "tame't",
+      "ref": "Ezek.22.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "טָמְאָה",
+      "translit": "tam'ah",
+      "ref": "Mic.2.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "טָמֵא",
+      "translit": "tame",
+      "ref": "Num.6.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּטְמָא",
+      "translit": "vattitma",
+      "ref": "Ezek.23.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּטְמְאוּ",
+      "translit": "vayyitm'u",
+      "ref": "Ps.106.39",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִטְמָא",
+      "translit": "yitma",
+      "ref": "Hag.2.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּטְמָֽא",
+      "translit": "titma",
+      "ref": "Lev.12.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְטָמֵא",
+      "translit": "vtame",
+      "ref": "Lev.11.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְטָמְאָה",
+      "translit": "vtam'ah",
+      "ref": "Lev.12.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְטָמְאוּ",
+      "translit": "vtam'u",
+      "ref": "Lev.15.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְטָמְאָה",
+      "translit": "ltam'ah",
+      "ref": "Ezek.22.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "נִטְמֵאתֶם",
+      "translit": "nitme'tem",
+      "ref": "Ezek.20.43",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נִטְמָאָה",
+      "translit": "nitma'ah",
+      "ref": "Ezek.23.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "נִטְמֵאת",
+      "translit": "nitme't",
+      "ref": "Ezek.23.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִטְמָא",
+      "translit": "nitma",
+      "ref": "Hos.5.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נִטְמֵאתִי",
+      "translit": "nitme'ti",
+      "ref": "Jer.2.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִטְמְאוּ",
+      "translit": "nitm'u",
+      "ref": "Lev.18.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נִטְמְאִים",
+      "translit": "nitm'im",
+      "ref": "Ezek.20.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְנִטְמֵתֶם",
+      "translit": "vnitmetem",
+      "ref": "Lev.11.43",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְנִטְמָֽאָה",
+      "translit": "vnitma'ah",
+      "ref": "Num.5.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "טִמֵּא",
+      "translit": "timme",
+      "ref": "2Kgs.23.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "טִמֵּאת",
+      "translit": "timme't",
+      "ref": "Ezek.5.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "טִמְּאוּ",
+      "translit": "timm'u",
+      "ref": "Ezek.23.38",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "טִמֵּאתֶם",
+      "translit": "timme'tem",
+      "ref": "Ezek.33.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיְטַמְּאוּ",
+      "translit": "vaytamm'u",
+      "ref": "2Chr.36.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְטַמֵּא",
+      "translit": "vaytamme",
+      "ref": "2Kgs.23.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֲטַמֵּא",
+      "translit": "va'atamme",
+      "ref": "Ezek.20.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַתְּטַמְּאוּ",
+      "translit": "vatttamm'u",
+      "ref": "Jer.2.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְטַמֵּא",
+      "translit": "ttamme",
+      "ref": "Deut.21.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְטַמְּאוּ",
+      "translit": "ytamm'u",
+      "ref": "Ezek.43.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְטַמְּאֶנּוּ",
+      "translit": "ytamm'ennu",
+      "ref": "Lev.13.44",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְטִמֵּאתֶם",
+      "translit": "vtimme'tem",
+      "ref": "Isa.30.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְטִמֵּא",
+      "translit": "vtimme",
+      "ref": "Lev.13.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "טַמְּאוּ",
+      "translit": "tamm'u",
+      "ref": "Ezek.9.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "טַמֵּא",
+      "translit": "tamme",
+      "ref": "Jer.7.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "טַמֵּא",
+      "translit": "tamme",
+      "ref": "Lev.13.44",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְטַמְּאוּ",
+      "translit": "ttamm'u",
+      "ref": "Lev.11.44",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מְטֻמָּאָה",
+      "translit": "mtumma'ah",
+      "ref": "Ezek.4.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִטַּמְּאוּ",
+      "translit": "yittamm'u",
+      "ref": "Ezek.14.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִֽטַּמְּאוּ",
+      "translit": "tittamm'u",
+      "ref": "Lev.11.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִטַּמָּא",
+      "translit": "yittamma",
+      "ref": "Lev.21.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּטַּמָּאוּ",
+      "translit": "tittamma'u",
+      "ref": "Ezek.20.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "defile oneself",
+  "hitpael": "defile oneself",
+  "piel": "defile",
+  "pual": "be defiled"
+ },
+ "root": "טמא",
+ "search_match": [
+  "2930",
+  "be unclean",
+  "h2930",
+  "tame",
+  "טמא"
+ ],
+ "citation_translit": "tame"
+}

@@ -1,0 +1,175 @@
+{
+ "glosses": [
+  "form"
+ ],
+ "strong": "H3335",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַיּוֹצְרִים",
+      "translit": "hayyotzrim",
+      "ref": "1Chr.4.23",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "יוֹצֵר",
+      "translit": "yotzer",
+      "ref": "Amos.4.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "יָצַרְתִּי",
+      "translit": "yatzarti",
+      "ref": "2Kgs.19.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָצָֽר",
+      "translit": "yatzar",
+      "ref": "Gen.2.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "יָצַרְתָּ",
+      "translit": "yatzarta",
+      "ref": "Ps.74.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "יָצָֽרוּ",
+      "translit": "yatzaru",
+      "ref": "Ps.95.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּצַר",
+      "translit": "vayyatzar",
+      "ref": "Exod.32.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וִיצַרְתִּיהָ",
+      "translit": "vitzartiha",
+      "ref": "Isa.37.26",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִצְּרֵהוּ",
+      "translit": "yitztzrehu",
+      "ref": "Isa.44.12",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶצָּרְךָ",
+      "translit": "etztzarkha",
+      "ref": "Jer.1.5",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נוֹצַר",
+      "translit": "notzar",
+      "ref": "Isa.43.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יוּצַר",
+      "translit": "yutzar",
+      "ref": "Isa.54.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "יֻצָּרוּ",
+      "translit": "yutztzaru",
+      "ref": "Ps.139.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be formed",
+  "pual": "be formed",
+  "hophal": "be formed"
+ },
+ "root": "יצר",
+ "search_match": [
+  "3335",
+  "form",
+  "h3335",
+  "yatzar",
+  "יצר"
+ ],
+ "citation_translit": "yatzar"
+}

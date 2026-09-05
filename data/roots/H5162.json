@@ -1,0 +1,420 @@
+{
+ "glosses": [
+  "regret/comfort"
+ ],
+ "strong": "H5162",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נִחַמְתִּי",
+      "translit": "nichamti",
+      "ref": "1Sam.15.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִחַם",
+      "translit": "nicham",
+      "ref": "1Sam.15.35",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּנָּחֶם",
+      "translit": "vayyinnachem",
+      "ref": "1Chr.21.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּנָּחֲמוּ",
+      "translit": "vayyinnachamu",
+      "ref": "Ezek.31.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִחָם",
+      "translit": "nicham",
+      "ref": "Joel.2.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִחָם",
+      "translit": "nicham",
+      "ref": "Jer.8.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִנָּחֵם",
+      "translit": "yinnachem",
+      "ref": "1Sam.15.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶנָּחֵם",
+      "translit": "ennachem",
+      "ref": "Ezek.24.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְנִחַמְתֶּם",
+      "translit": "vnichamtem",
+      "ref": "Ezek.14.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִחַם",
+      "translit": "vnicham",
+      "ref": "Ezek.32.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְנִֽחַמְתִּי",
+      "translit": "vnichamti",
+      "ref": "Jer.18.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהִנָּחֵם",
+      "translit": "vhinnachem",
+      "ref": "Exod.32.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִנָּחֵֽם",
+      "translit": "hinnachem",
+      "ref": "1Sam.15.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִחַם",
+      "translit": "nicham",
+      "ref": "Isa.49.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נִֽחַמְתָּנִי",
+      "translit": "nichamtani",
+      "ref": "Ps.86.17",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְנַחֵם",
+      "translit": "vaynachem",
+      "ref": "2Sam.12.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיְנַחֲמוּ",
+      "translit": "vaynachamu",
+      "ref": "Job.42.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְנַחֲמִים",
+      "translit": "mnachamim",
+      "ref": "1Chr.19.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְנַחֵם",
+      "translit": "mnachem",
+      "ref": "Eccl.4.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְנַחֵֽם",
+      "translit": "ynachem",
+      "ref": "Gen.5.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּֽנַחֲמֵֽנִי",
+      "translit": "tnachameni",
+      "ref": "Isa.12.1",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲנַחֲמֵֽךְ",
+      "translit": "anachamekh",
+      "ref": "Isa.51.19",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּנַחֲמֶנּוּ",
+      "translit": "tnachamennu",
+      "ref": "Isa.66.13",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּנַחֲמוּנִי",
+      "translit": "tnachamuni",
+      "ref": "Job.21.34",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְנַֽחֲמֻֽנִי",
+      "translit": "ynachamuni",
+      "ref": "Ps.23.4",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנִחֲמוּ",
+      "translit": "vnichamu",
+      "ref": "Ezek.14.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְנִחַמְתִּים",
+      "translit": "vnichamtim",
+      "ref": "Jer.31.13",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִחַם",
+      "translit": "vnicham",
+      "ref": "Zech.1.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "נַחֲמוּ",
+      "translit": "nachamu",
+      "ref": "Isa.40.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְנַחֵם",
+      "translit": "lnachem",
+      "ref": "1Chr.7.22",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נֻחָמָה",
+      "translit": "nuchamah",
+      "ref": "Isa.54.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּנֻחָֽמוּ",
+      "translit": "tnuchamu",
+      "ref": "Isa.66.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָֽאֶתְנֶחָֽם",
+      "translit": "va'etnecham",
+      "ref": "Ps.119.52",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִתְנַחֵם",
+      "translit": "mitnachem",
+      "ref": "Gen.27.42",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְנֶחָם",
+      "translit": "yitnecham",
+      "ref": "Deut.32.36",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִנֶּחָמְתִּי",
+      "translit": "vhinnechamti",
+      "ref": "Ezek.5.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִתְנַחֵם",
+      "translit": "lhitnachem",
+      "ref": "Gen.37.35",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hitpael": "comfort oneself",
+  "niphal": "regret; comfort",
+  "piel": "comfort",
+  "pual": "be comforted"
+ },
+ "root": "נחם",
+ "search_match": [
+  "5162",
+  "h5162",
+  "nacham",
+  "regret/comfort",
+  "נחם"
+ ],
+ "citation_translit": "nacham"
+}

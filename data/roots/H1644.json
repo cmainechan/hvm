@@ -1,0 +1,250 @@
+{
+ "glosses": [
+  "drive out"
+ ],
+ "strong": "H1644",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְגָרֵשׁ",
+      "translit": "legaresh",
+      "ref": "1Chr.17.21",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְגָרֶשׁ",
+      "translit": "vaygaresh",
+      "ref": "1Kgs.2.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיְגָרְשׁוּ",
+      "translit": "vaygareshu",
+      "ref": "Judg.11.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתְּגָרֶשׁ",
+      "translit": "vattegaresh",
+      "ref": "Josh.24.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֲגָרֵשׁ",
+      "translit": "va'agaresh",
+      "ref": "Judg.6.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַתְּגָרְשׁוּנִי",
+      "translit": "vattegareshuni",
+      "ref": "Judg.11.7",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "גֵרְשׁוּנִי",
+      "translit": "gereshuni",
+      "ref": "1Sam.26.19",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "גֵּרַשְׁתִּֽהוּ",
+      "translit": "gerashtihu",
+      "ref": "Ezek.31.11",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "גֵּרַשְׁתָּ",
+      "translit": "gerashta",
+      "ref": "Gen.4.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְגָרֵשׁ",
+      "translit": "yegaresh",
+      "ref": "Exod.11.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲגָרֵשׁ",
+      "translit": "agaresh",
+      "ref": "Judg.2.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּגָרְשׁוּן",
+      "translit": "tegareshun",
+      "ref": "Mic.2.9",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּגָרֵשׁ",
+      "translit": "tegaresh",
+      "ref": "Ps.80.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְגָרְשׁוּהָ",
+      "translit": "yegareshuha",
+      "ref": "Zeph.2.4",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "גָּרֵשׁ",
+      "translit": "garesh",
+      "ref": "Exod.11.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְגֵרְשָׁה",
+      "translit": "vegereshah",
+      "ref": "Exod.23.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְגֵרַשְׁתָּמוֹ",
+      "translit": "vegerashtamo",
+      "ref": "Exod.23.31",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְגֵֽרַשְׁתִּי",
+      "translit": "vegerashti",
+      "ref": "Exod.33.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "גָּרֵשׁ",
+      "translit": "garesh",
+      "ref": "Gen.21.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְנִגְרְשָׁה",
+      "translit": "venigreshah",
+      "ref": "Amos.8.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִגְרָשׁ",
+      "translit": "nigrash",
+      "ref": "Isa.57.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נִגְרַשְׁתִּי",
+      "translit": "nigrashti",
+      "ref": "Jonah.2.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be driven out; be tossed"
+ },
+ "root": "גרש",
+ "search_match": [
+  "1644",
+  "be driven out",
+  "be tossed",
+  "drive out",
+  "garash",
+  "h1644",
+  "גרש"
+ ],
+ "citation_translit": "garash"
+}

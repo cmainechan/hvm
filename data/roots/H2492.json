@@ -1,0 +1,159 @@
+{
+ "glosses": [
+  "dream"
+ ],
+ "strong": "H2492",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חָלַם",
+      "translit": "chalam",
+      "ref": "Dan.2.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "חָלַמְתִּי",
+      "translit": "chalamti",
+      "ref": "Dan.2.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חָלָמְתָּ",
+      "translit": "chalamta",
+      "ref": "Gen.37.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "חָלַמְנוּ",
+      "translit": "chalamnu",
+      "ref": "Gen.40.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּחֲלֹם",
+      "translit": "vayyachalom",
+      "ref": "Gen.28.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּֽחַלְמוּ",
+      "translit": "vayyachalmu",
+      "ref": "Gen.40.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וַנַּֽחַלְמָה",
+      "translit": "vannachalmah",
+      "ref": "Gen.41.11",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חֹלֵם",
+      "translit": "cholem",
+      "ref": "Gen.41.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "כְּחֹלְמִֽים",
+      "translit": "kcholmim",
+      "ref": "Ps.126.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחֲלֹם",
+      "translit": "yachalom",
+      "ref": "Isa.29.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַחְלְמוּ",
+      "translit": "yachlmu",
+      "ref": "Job.39.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַחְלְמִֽים",
+      "translit": "machlmim",
+      "ref": "Jer.29.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְתַחֲלִימֵנִי",
+      "translit": "vtachalimeni",
+      "ref": "Isa.38.16",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "cause to dream"
+ },
+ "root": "חלם",
+ "search_match": [
+  "2492",
+  "chalam",
+  "dream",
+  "h2492",
+  "חלם"
+ ],
+ "citation_translit": "chalam"
+}

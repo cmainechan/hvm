@@ -1,0 +1,298 @@
+{
+ "glosses": [
+  "lodge"
+ ],
+ "strong": "H3885",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְלָן",
+      "translit": "vlan",
+      "ref": "2Sam.12.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּלֶן",
+      "translit": "vayyalen",
+      "ref": "1Kgs.19.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּלִינוּ",
+      "translit": "vayyalinu",
+      "ref": "Gen.24.54",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "לָן",
+      "translit": "lan",
+      "ref": "Gen.32.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "לֵנִים",
+      "translit": "lenim",
+      "ref": "Neh.13.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָלִינוּ",
+      "translit": "yalinu",
+      "ref": "1Chr.9.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָלִין",
+      "translit": "yalin",
+      "ref": "2Sam.17.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָּלִין",
+      "translit": "talin",
+      "ref": "Deut.21.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נָלִֽין",
+      "translit": "nalin",
+      "ref": "Gen.19.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תָּלִינוּ",
+      "translit": "talinu",
+      "ref": "Isa.21.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָלִין",
+      "translit": "alin",
+      "ref": "Ps.55.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תָּלִינִי",
+      "translit": "talini",
+      "ref": "Ruth.1.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְלַנּוּ",
+      "translit": "vlannu",
+      "ref": "Judg.19.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְלָנֶה",
+      "translit": "vlaneh",
+      "ref": "Zech.5.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "לִינוּ",
+      "translit": "linu",
+      "ref": "Gen.19.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "לִין",
+      "translit": "lin",
+      "ref": "Judg.19.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "לִינִי",
+      "translit": "lini",
+      "ref": "Ruth.3.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לָלֽוּן",
+      "translit": "lalun",
+      "ref": "Gen.24.23",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נָלִינָה",
+      "translit": "nalinah",
+      "ref": "Song.7.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּלֶן",
+      "translit": "talen",
+      "ref": "2Sam.17.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּלֹּנוּ",
+      "translit": "vayyillonu",
+      "ref": "Exod.15.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הֲלִֽינֹתֶם",
+      "translit": "halinotem",
+      "ref": "Num.14.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּלֶן",
+      "translit": "vayyalen",
+      "ref": "Exod.17.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּלִּינוּ",
+      "translit": "vayyallinu",
+      "ref": "Num.14.36",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַלִּינִים",
+      "translit": "mallinim",
+      "ref": "Num.14.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַלִּינוּ",
+      "translit": "tallinu",
+      "ref": "Exod.16.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "murmur",
+  "hiphil": "murmur"
+ },
+ "root": "לין",
+ "search_match": [
+  "3885",
+  "h3885",
+  "lodge",
+  "lun",
+  "לין"
+ ],
+ "citation_translit": "lun"
+}

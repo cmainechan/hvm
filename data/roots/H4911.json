@@ -1,0 +1,174 @@
+{
+ "glosses": [
+  "speak in proverbs"
+ ],
+ "strong": "H4911",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַמֹּשֵׁל",
+      "translit": "hammoshel",
+      "ref": "Ezek.16.44",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מֹֽשְׁלִים",
+      "translit": "moshlim",
+      "ref": "Ezek.18.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִמְשְׁלוּ",
+      "translit": "yimshlu",
+      "ref": "Ezek.12.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִמְשֹׁל",
+      "translit": "yimshol",
+      "ref": "Ezek.16.44",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּמְשֹׁל",
+      "translit": "umshol",
+      "ref": "Ezek.17.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מְשֹׁל",
+      "translit": "mshol",
+      "ref": "Ezek.18.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נִמְשָֽׁלְתָּ",
+      "translit": "nimshalta",
+      "ref": "Isa.14.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִמְשַׁל",
+      "translit": "nimshal",
+      "ref": "Ps.49.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְנִמְשַׁלְתִּי",
+      "translit": "vnimshalti",
+      "ref": "Ps.28.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְמַשֵּׁל",
+      "translit": "mmashshel",
+      "ref": "Ezek.21.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְתַמְשִׁלוּנִי",
+      "translit": "vtamshiluni",
+      "ref": "Isa.46.5",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶתְמַשֵּׁל",
+      "translit": "va'etmashshel",
+      "ref": "Job.30.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "become like",
+  "piel": "speak in parables",
+  "hiphil": "liken; compare",
+  "hitpael": "become like"
+ },
+ "root": "משל²",
+ "search_match": [
+  "4911",
+  "h4911",
+  "mashal",
+  "speak in proverbs",
+  "משל²"
+ ],
+ "citation_translit": "mashal"
+}

@@ -1,0 +1,125 @@
+{
+ "glosses": [
+  "serve"
+ ],
+ "strong": "H8334",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתְּשָׁרְתֵהוּ",
+      "translit": "vattshartehu",
+      "ref": "1Kgs.1.4",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְשָׁרֶת",
+      "translit": "vaysharet",
+      "ref": "1Kgs.19.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְשָׁרְתִים",
+      "translit": "mshartim",
+      "ref": "1Chr.6.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מְשָׁרַת",
+      "translit": "msharat",
+      "ref": "1Kgs.1.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְשָׁרֵת",
+      "translit": "msharet",
+      "ref": "1Sam.2.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְשָׁרְתוּ",
+      "translit": "yshartu",
+      "ref": "2Kgs.25.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְשָׁרְתֵֽנִי",
+      "translit": "ysharteni",
+      "ref": "Ps.101.6",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְשֵׁרֵת",
+      "translit": "vsheret",
+      "ref": "Deut.18.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְשֵׁרְתוּ",
+      "translit": "vshertu",
+      "ref": "Num.3.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְשָׁרֵת",
+      "translit": "lsharet",
+      "ref": "1Chr.15.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "serve"
+ },
+ "root": "שרת",
+ "search_match": [
+  "8334",
+  "h8334",
+  "serve",
+  "sharat",
+  "שרת"
+ ],
+ "citation_translit": "sharat"
+}

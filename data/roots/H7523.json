@@ -1,0 +1,162 @@
+{
+ "glosses": [
+  "murder"
+ ],
+ "strong": "H7523",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הֲרָצַחְתָּ",
+      "translit": "haratzachta",
+      "ref": "1Kgs.21.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "רֹצֵחַֽ",
+      "translit": "rotzecha",
+      "ref": "Deut.4.42",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִרְצַח",
+      "translit": "yirtzach",
+      "ref": "Deut.4.42",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּרְצָֽח",
+      "translit": "tirtzach",
+      "ref": "Deut.5.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְרָצַח",
+      "translit": "vratzach",
+      "ref": "Deut.22.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "רָצֹחַ",
+      "translit": "ratzocha",
+      "ref": "Hos.4.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "הַנִּרְצָחָה",
+      "translit": "hannirtzachah",
+      "ref": "Judg.20.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֵֽרָצֵֽחַ",
+      "translit": "eratzecha",
+      "ref": "Prov.22.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַֽמְרַצֵּחַ",
+      "translit": "hamratztzecha",
+      "ref": "2Kgs.6.32",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְרַצְּחִֽים",
+      "translit": "mratztzchim",
+      "ref": "Isa.1.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְרַצְּחוּ",
+      "translit": "yratztzchu",
+      "ref": "Hos.6.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּרָצְּחוּ",
+      "translit": "tratztzchu",
+      "ref": "Ps.62.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be murdered",
+  "piel": "murder"
+ },
+ "root": "רצח",
+ "search_match": [
+  "7523",
+  "h7523",
+  "murder",
+  "ratzach",
+  "רצח"
+ ],
+ "citation_translit": "ratzach"
+}

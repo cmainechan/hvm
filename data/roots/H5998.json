@@ -1,0 +1,80 @@
+{
+ "glosses": [
+  "toil"
+ ],
+ "strong": "H5998",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַעֲמֹל",
+      "translit": "ya'amol",
+      "ref": "Eccl.8.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "שֶׁעָמַלְתִּי",
+      "translit": "she'amalti",
+      "ref": "Eccl.2.11",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "עָֽמַל",
+      "translit": "amal",
+      "ref": "Eccl.2.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "עָמַלְתָּ",
+      "translit": "amalta",
+      "ref": "Jonah.4.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "עָמְלָה",
+      "translit": "amelah",
+      "ref": "Prov.16.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "עָמְלוּ",
+      "translit": "amelu",
+      "ref": "Ps.127.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "עמל",
+ "search_match": [
+  "5998",
+  "amal",
+  "h5998",
+  "toil",
+  "עמל"
+ ],
+ "citation_translit": "amal"
+}

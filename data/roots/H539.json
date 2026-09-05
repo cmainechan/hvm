@@ -1,0 +1,381 @@
+{
+ "glosses": [
+  "believe"
+ ],
+ "strong": "H539",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הָאֹמְנִים",
+      "translit": "ha'omnim",
+      "ref": "2Kgs.10.1",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "אֹמֵן",
+      "translit": "omen",
+      "ref": "Esth.2.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "לְאֹמֶֽנֶת",
+      "translit": "l'omenet",
+      "ref": "Ruth.4.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הָאֱמֻנִים",
+      "translit": "ha'emunim",
+      "ref": "Lam.4.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נֶאֶמְנוּ",
+      "translit": "ne'emnu",
+      "ref": "Jer.15.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נֶאֶמְנָה",
+      "translit": "ne'emnah",
+      "ref": "Ps.78.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֶאֱמָן",
+      "translit": "ne'eman",
+      "ref": "1Kgs.11.38",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "וְנֶאֱמָנוֹת",
+      "translit": "vne'emanot",
+      "ref": "Deut.28.59",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נֶאֱמָנִים",
+      "translit": "ne'emanim",
+      "ref": "Deut.28.59",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "נֶאֱמָנָֽה",
+      "translit": "ne'emanah",
+      "ref": "Hos.5.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְנֶאֱמָן",
+      "translit": "vne'eman",
+      "ref": "Jer.42.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵאָמֵן",
+      "translit": "ye'amen",
+      "ref": "1Chr.17.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תֵאָמֵֽנוּ",
+      "translit": "te'amenu",
+      "ref": "2Chr.20.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיֵאָמְנוּ",
+      "translit": "vye'amnu",
+      "ref": "Gen.42.20",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תֵּאָמַֽנָה",
+      "translit": "te'amanah",
+      "ref": "Isa.60.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנֶאְמַן",
+      "translit": "vne'man",
+      "ref": "2Sam.7.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵאָמֶן",
+      "translit": "ye'amen",
+      "ref": "1Kgs.8.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הֶאֱמַנְתִּי",
+      "translit": "he'emanti",
+      "ref": "1Kgs.10.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֶאֱמִינוּ",
+      "translit": "he'eminu",
+      "ref": "2Kgs.17.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הֶֽאֱמַנְתֶּם",
+      "translit": "he'emantem",
+      "ref": "Deut.9.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֶאֱמִין",
+      "translit": "he'emin",
+      "ref": "Gen.15.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּאֲמֵן",
+      "translit": "vayya'amen",
+      "ref": "1Sam.27.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּֽאֲמִינוּ",
+      "translit": "vayya'aminu",
+      "ref": "Exod.14.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַאֲמִינִם",
+      "translit": "ma'aminim",
+      "ref": "Deut.1.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַֽמַּאֲמִין",
+      "translit": "hamma'amin",
+      "ref": "Isa.28.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַאֲמִין",
+      "translit": "ta'amin",
+      "ref": "Deut.28.66",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַאֲמִינוּ",
+      "translit": "ya'aminu",
+      "ref": "Exod.4.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַאֲמִינוּ",
+      "translit": "ta'aminu",
+      "ref": "Hab.1.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַאֲמִין",
+      "translit": "ya'amin",
+      "ref": "Job.4.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַאֲמִין",
+      "translit": "a'amin",
+      "ref": "Job.9.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהֶֽאֱמִינוּ",
+      "translit": "vhe'eminu",
+      "ref": "Exod.4.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הַאֲמִינוּ",
+      "translit": "ha'aminu",
+      "ref": "2Chr.20.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּאֲמִינוּ",
+      "translit": "ta'aminu",
+      "ref": "2Chr.32.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּאֲמֵן",
+      "translit": "ta'amen",
+      "ref": "Jer.12.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַאֲמֵן",
+      "translit": "ya'amen",
+      "ref": "Job.15.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be faithful",
+  "hiphil": "believe"
+ },
+ "root": "אמן",
+ "search_match": [
+  "539",
+  "aman",
+  "believe",
+  "h539",
+  "אמן"
+ ],
+ "citation_translit": "aman"
+}

@@ -1,0 +1,231 @@
+{
+ "glosses": [
+  "pour; cast"
+ ],
+ "strong": "H3332",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָצַק",
+      "translit": "yatzaq",
+      "ref": "1Kgs.7.46",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְיָצַקְתְּ",
+      "translit": "vyatzaqt",
+      "ref": "2Kgs.4.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּצֹק",
+      "translit": "vayyitzoq",
+      "ref": "1Kgs.22.35",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּֽצְקוּ",
+      "translit": "vayyitzqu",
+      "ref": "2Kgs.4.40",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּצֹק",
+      "translit": "vattitzoq",
+      "ref": "2Sam.13.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "יְצֻקִים",
+      "translit": "ytzuqim",
+      "ref": "1Kgs.7.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "יָצוּק",
+      "translit": "yatzuq",
+      "ref": "Job.41.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶצָּק",
+      "translit": "etztzaq",
+      "ref": "Isa.44.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִצֹק",
+      "translit": "yitzoq",
+      "ref": "Lev.14.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְיָצַקְתָּ",
+      "translit": "vyatzaqta",
+      "ref": "2Kgs.9.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיָצַק",
+      "translit": "vyatzaq",
+      "ref": "Lev.2.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְיִֽצְקוּ",
+      "translit": "vyitzqu",
+      "ref": "1Kgs.18.34",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "צַק",
+      "translit": "tzaq",
+      "ref": "2Kgs.4.41",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לָצֶקֶת",
+      "translit": "latzeqet",
+      "ref": "Exod.38.27",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּצִּקוּ",
+      "translit": "vayyatztziqu",
+      "ref": "2Sam.15.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מוֹצָֽקֶת",
+      "translit": "motzaqet",
+      "ref": "2Kgs.4.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הוּצַק",
+      "translit": "hutzaq",
+      "ref": "Ps.45.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מוּצָֽק",
+      "translit": "mutzaq",
+      "ref": "1Kgs.7.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יוּצַק",
+      "translit": "yutzaq",
+      "ref": "Job.22.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "pour; cast",
+  "hophal": "be poured out"
+ },
+ "root": "יצק",
+ "search_match": [
+  "3332",
+  "h3332",
+  "pour/cast",
+  "yatzaq",
+  "יצק"
+ ],
+ "citation_translit": "yatzaq"
+}

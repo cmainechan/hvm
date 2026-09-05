@@ -1,0 +1,111 @@
+{
+ "glosses": [
+  "delude"
+ ],
+ "strong": "H5377",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִשְּׁאוּ",
+      "translit": "nishsh'u",
+      "ref": "Isa.19.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִשִּׁיא",
+      "translit": "hishshi",
+      "ref": "Gen.3.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִשֵּׁאתָ",
+      "translit": "hishshe'ta",
+      "ref": "Jer.4.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִשִּׁיאוּךָ",
+      "translit": "hishshi'ukha",
+      "ref": "Obad.1.7",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַשֵּׁא",
+      "translit": "hashshe",
+      "ref": "Jer.4.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַשִּׁיא",
+      "translit": "yashshi",
+      "ref": "2Chr.32.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַשִּׁיאוּ",
+      "translit": "yashshi'u",
+      "ref": "Jer.29.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּשִּׁאוּ",
+      "translit": "tashshi'u",
+      "ref": "Jer.37.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be deceived",
+  "hiphil": "delude"
+ },
+ "root": "נשא²",
+ "search_match": [
+  "5377",
+  "delude",
+  "h5377",
+  "nasha",
+  "נשא²"
+ ],
+ "citation_translit": "nasha"
+}

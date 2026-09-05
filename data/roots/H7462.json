@@ -1,0 +1,290 @@
+{
+ "glosses": [
+  "shepherd"
+ ],
+ "strong": "H7462",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "רָעֽוּ",
+      "translit": "ra'u",
+      "ref": "Ezek.34.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּרְעוּ",
+      "translit": "vayyir'u",
+      "ref": "Ezek.34.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וַתִּרְעֶינָה",
+      "translit": "vattir'enah",
+      "ref": "Gen.41.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּרְעֵם",
+      "translit": "vayyir'em",
+      "ref": "Ps.78.72",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָֽאֶרְעֶה",
+      "translit": "va'er'eh",
+      "ref": "Zech.11.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "רֹעִים",
+      "translit": "ro'im",
+      "ref": "1Chr.27.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "רֹעֶה",
+      "translit": "ro'eh",
+      "ref": "1Kgs.22.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "רֹעָה",
+      "translit": "ro'ah",
+      "ref": "Gen.29.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "רֹעוֹת",
+      "translit": "ro'ot",
+      "ref": "Job.1.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִרְעֶה",
+      "translit": "tir'eh",
+      "ref": "1Chr.11.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִרְעוּ",
+      "translit": "yir'u",
+      "ref": "Ezek.34.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִרְעֽוּ",
+      "translit": "tir'u",
+      "ref": "Ezek.34.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶרְעֶה",
+      "translit": "er'eh",
+      "ref": "Ezek.34.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תִּרְעֶינָה",
+      "translit": "tir'enah",
+      "ref": "Ezek.34.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִרְעֶה",
+      "translit": "yir'eh",
+      "ref": "Ezek.34.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּרְעֶה",
+      "translit": "tir'eh",
+      "ref": "Jer.22.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וּרְעִיתִים",
+      "translit": "ur'itim",
+      "ref": "Ezek.34.13",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְרָעָה",
+      "translit": "vra'ah",
+      "ref": "Ezek.34.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְרָעוּ",
+      "translit": "vra'u",
+      "ref": "Isa.5.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "רְעֽוּ",
+      "translit": "r'u",
+      "ref": "Gen.29.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "רְעֵה",
+      "translit": "r'eh",
+      "ref": "Mic.7.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וּרְעִי",
+      "translit": "ur'i",
+      "ref": "Song.1.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִרְעוֹת",
+      "translit": "lir'ot",
+      "ref": "1Chr.17.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִרְעוּ",
+      "translit": "yir'u",
+      "ref": "Exod.34.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "רֵעָה",
+      "translit": "re'ah",
+      "ref": "Judg.14.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּתְרַע",
+      "translit": "titra",
+      "ref": "Prov.22.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hitpael": "associate with",
+  "piel": "shepherd"
+ },
+ "root": "רעה",
+ "search_match": [
+  "7462",
+  "h7462",
+  "ra'ah",
+  "shepherd/pasture",
+  "רעה"
+ ],
+ "citation_translit": "ra'ah"
+}

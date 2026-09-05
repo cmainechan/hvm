@@ -1,0 +1,156 @@
+{
+ "glosses": [
+  "escape"
+ ],
+ "strong": "H6403",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וּפָֽלְטוּ",
+      "translit": "ufaltu",
+      "ref": "Ezek.7.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַֽתְּפַלְּטֵנִי",
+      "translit": "vattfallteni",
+      "ref": "2Sam.22.44",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַֽיְפַלְּטֵם",
+      "translit": "vayfalltem",
+      "ref": "Ps.37.40",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּפַלֵּט",
+      "translit": "tfallet",
+      "ref": "Job.21.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּפַלֵּט",
+      "translit": "tfallet",
+      "ref": "Mic.6.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְפַלְּטֵהוּ",
+      "translit": "yfalltehu",
+      "ref": "Ps.22.9",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וַאֲפַלְּטֵהוּ",
+      "translit": "va'afalltehu",
+      "ref": "Ps.91.14",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "פַּלְּטָה",
+      "translit": "palltah",
+      "ref": "Ps.17.13",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "פַּלְּטוּ",
+      "translit": "palltu",
+      "ref": "Ps.82.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וַאֲפַלְּטָה",
+      "translit": "va'afalltah",
+      "ref": "Job.23.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיַפְלִיט",
+      "translit": "vyaflit",
+      "ref": "Isa.5.29",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַפְלִיט",
+      "translit": "taflit",
+      "ref": "Mic.6.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "bring to safety",
+  "hiphil": "bring forth safely"
+ },
+ "root": "פלט",
+ "search_match": [
+  "6403",
+  "escape",
+  "h6403",
+  "palat",
+  "פלט"
+ ],
+ "citation_translit": "palat"
+}

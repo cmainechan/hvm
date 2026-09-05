@@ -1,0 +1,193 @@
+{
+ "glosses": [
+  "bind"
+ ],
+ "strong": "H2280",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּחֲבָשׁ",
+      "translit": "vayyachavosh",
+      "ref": "1Kgs.13.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּחְבְּשׁוּ",
+      "translit": "vayyachbeshu",
+      "ref": "1Kgs.13.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַֽתַּחֲבֹשׁ",
+      "translit": "vattachavosh",
+      "ref": "2Kgs.4.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶחְבְּשֵׁךְ",
+      "translit": "va'echbeshekh",
+      "ref": "Ezek.16.10",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "חִבְשׁוּ",
+      "translit": "chivshu",
+      "ref": "1Kgs.13.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חֲבוֹשׁ",
+      "translit": "chavosh",
+      "ref": "Ezek.24.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "חֲבֻשִׁים",
+      "translit": "chavushim",
+      "ref": "2Sam.16.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חָבוּשׁ",
+      "translit": "chavush",
+      "ref": "Jonah.2.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶחְבְּשָׁה",
+      "translit": "echbeshah",
+      "ref": "2Sam.19.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחֲבוֹשׁ",
+      "translit": "yachavosh",
+      "ref": "Job.34.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְחָבַשְׁתָּ",
+      "translit": "vechavashta",
+      "ref": "Exod.29.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "חֲבֹשׁ",
+      "translit": "chavosh",
+      "ref": "Isa.30.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "חֲבַשְׁתֶּם",
+      "translit": "chavashtem",
+      "ref": "Ezek.34.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חֹבֵשׁ",
+      "translit": "chovesh",
+      "ref": "Isa.3.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "חֻבְּשָׁה",
+      "translit": "chubbeshah",
+      "ref": "Ezek.30.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חֻבָּשׁוּ",
+      "translit": "chubbeshu",
+      "ref": "Isa.1.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be bound up"
+ },
+ "root": "חבש",
+ "search_match": [
+  "2280",
+  "be bound up",
+  "bind",
+  "chavash",
+  "h2280",
+  "חבש"
+ ],
+ "citation_translit": "chavash"
+}

@@ -1,0 +1,180 @@
+{
+ "glosses": [
+  "betray"
+ ],
+ "strong": "H898",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "בְּגַדְתֶּם",
+      "translit": "bgadtem",
+      "ref": "1Sam.14.33",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "בָּגְדוּ",
+      "translit": "bagdu",
+      "ref": "Hos.5.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "בָּגְדָה",
+      "translit": "bagdah",
+      "ref": "Jer.3.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "בָּגַדְתָּה",
+      "translit": "bagadtah",
+      "ref": "Mal.2.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "בָגָֽדְתִּי",
+      "translit": "vagadti",
+      "ref": "Ps.73.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּבְגְּדוּ",
+      "translit": "vayyivgdu",
+      "ref": "Judg.9.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "בֹּגְדִים",
+      "translit": "bogdim",
+      "ref": "Hab.1.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "בּוֹגֵד",
+      "translit": "boged",
+      "ref": "Hab.2.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "בֹּֽגֵדָה",
+      "translit": "bogedah",
+      "ref": "Jer.3.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִבְגְּדוּ",
+      "translit": "yivgdu",
+      "ref": "Isa.33.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּבְגּוֹד",
+      "translit": "tivgod",
+      "ref": "Isa.48.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִבְגַּד",
+      "translit": "nivgad",
+      "ref": "Mal.2.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִבְגֹּֽדוּ",
+      "translit": "tivgodu",
+      "ref": "Mal.2.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִבְגֹּד",
+      "translit": "livgod",
+      "ref": "Exod.21.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בָּגוֹד",
+      "translit": "bagod",
+      "ref": "Isa.48.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִבְגֹּֽד",
+      "translit": "yivgod",
+      "ref": "Mal.2.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "בגד",
+ "search_match": [
+  "898",
+  "bagad",
+  "betray",
+  "h898",
+  "בגד"
+ ],
+ "citation_translit": "bagad"
+}

@@ -1,0 +1,547 @@
+{
+ "glosses": [
+  "call"
+ ],
+ "strong": "H7121",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "קָרְאָה",
+      "translit": "qar'ah",
+      "ref": "1Chr.4.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "קָרְאוּ",
+      "translit": "qar'u",
+      "ref": "1Chr.11.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "קָרָא",
+      "translit": "qara",
+      "ref": "1Kgs.1.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "קָרָאתָ",
+      "translit": "qara'ta",
+      "ref": "1Sam.3.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "קָרָאתִי",
+      "translit": "qara'ti",
+      "ref": "1Sam.3.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "קָרָאת",
+      "translit": "qara't",
+      "ref": "Jer.3.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "קְרָאתֶם",
+      "translit": "qra'tem",
+      "ref": "Judg.14.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּקְרָא",
+      "translit": "vayyiqra",
+      "ref": "1Chr.4.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּקְרָא",
+      "translit": "vattiqra",
+      "ref": "1Chr.7.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּקְרְאוּ",
+      "translit": "vayyiqr'u",
+      "ref": "1Kgs.12.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶקְרָא",
+      "translit": "va'eqra",
+      "ref": "1Sam.28.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וַתִּקְרֶאןָ",
+      "translit": "vattiqre'na",
+      "ref": "Num.25.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "קֹרֵא",
+      "translit": "qore",
+      "ref": "1Sam.3.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "קֹרִאים",
+      "translit": "qori'ym",
+      "ref": "Ps.99.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "קְרֻאִים",
+      "translit": "qru'im",
+      "ref": "1Kgs.1.41",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "קָֽרוּא",
+      "translit": "qaru",
+      "ref": "Esth.5.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִקְרְאוּ",
+      "translit": "yiqr'u",
+      "ref": "1Chr.6.50",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִקְרָא",
+      "translit": "yiqra",
+      "ref": "1Kgs.8.43",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶקְרָא",
+      "translit": "eqra",
+      "ref": "1Kgs.18.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּקְרָא",
+      "translit": "tiqra",
+      "ref": "Deut.31.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִקְרָא",
+      "translit": "niqra",
+      "ref": "Gen.24.57",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִּקְרְאִי",
+      "translit": "tiqr'i",
+      "ref": "Hos.2.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּקְרְאוּ",
+      "translit": "tiqr'u",
+      "ref": "Lev.23.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִקְרָא",
+      "translit": "tiqra",
+      "ref": "Prov.1.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fp",
+      "label": "2nd fem. pl.",
+      "heb": "תִקְרֶאנָה",
+      "translit": "tiqre'nah",
+      "ref": "Ruth.1.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּקְרָאתֶם",
+      "translit": "uqra'tem",
+      "ref": "1Kgs.18.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְקָרָאתָ",
+      "translit": "vqara'ta",
+      "ref": "1Sam.16.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְקָרָא",
+      "translit": "vqara",
+      "ref": "2Kgs.5.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְקָרְאוּ",
+      "translit": "vqar'u",
+      "ref": "Amos.5.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְקָרָאתִי",
+      "translit": "vqara'ti",
+      "ref": "Exod.2.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְקָרָאת",
+      "translit": "vqara't",
+      "ref": "Gen.16.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְקָרָאת",
+      "translit": "vqara't",
+      "ref": "Isa.7.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "קִרְאוּ",
+      "translit": "qir'u",
+      "ref": "1Chr.16.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "קְרָא",
+      "translit": "qra",
+      "ref": "2Kgs.4.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fp",
+      "label": "2nd fem. pl.",
+      "heb": "קִרְאֶן",
+      "translit": "qir'en",
+      "ref": "Exod.2.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "קְרֹא",
+      "translit": "qro",
+      "ref": "1Kgs.8.52",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2fp",
+      "label": "2nd fem. pl.",
+      "heb": "תִּקְרֶאנָה",
+      "translit": "tiqre'nah",
+      "ref": "Ruth.1.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִקְרָא",
+      "translit": "niqra",
+      "ref": "1Chr.13.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְנִקְרְאָה",
+      "translit": "vniqr'ah",
+      "ref": "Esth.2.14",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נִקְרֵאתי",
+      "translit": "niqre'ty",
+      "ref": "Esth.4.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִקְרָאוּ",
+      "translit": "niqra'u",
+      "ref": "Isa.48.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּקָּרֵא",
+      "translit": "vayyiqqare",
+      "ref": "2Sam.18.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּקָּרְאוּ",
+      "translit": "vayyiqqar'u",
+      "ref": "Esth.3.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִקְרָא",
+      "translit": "niqra",
+      "ref": "Eccl.6.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַנִּקְרָאִים",
+      "translit": "hanniqra'im",
+      "ref": "Isa.48.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נִקְרָאִים",
+      "translit": "niqra'im",
+      "ref": "Esth.6.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִקְרָא",
+      "translit": "niqra",
+      "ref": "Jer.44.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִקָּרְאוּ",
+      "translit": "yiqqar'u",
+      "ref": "1Chr.23.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִקָּרֵא",
+      "translit": "yiqqare",
+      "ref": "1Sam.9.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּקָּרֵאוּ",
+      "translit": "tiqqare'u",
+      "ref": "Isa.61.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִקְרָא",
+      "translit": "vniqra",
+      "ref": "2Sam.12.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "קֹרָא",
+      "translit": "qora",
+      "ref": "Ezek.10.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְקֹרָא",
+      "translit": "vqora",
+      "ref": "Isa.58.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be called",
+  "pual": "be called"
+ },
+ "root": "קרא¹",
+ "search_match": [
+  "7121",
+  "call",
+  "h7121",
+  "qara",
+  "קרא¹"
+ ],
+ "citation_translit": "qara"
+}

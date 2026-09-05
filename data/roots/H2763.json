@@ -1,0 +1,243 @@
+{
+ "glosses": [
+  "be mutilated (flat-nosed)"
+ ],
+ "strong": "H2763",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חָרֻם",
+      "translit": "charum",
+      "ref": "Lev.21.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֶחֱרִים",
+      "translit": "hecherim",
+      "ref": "1Sam.15.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֶחֱרִֽימוּ",
+      "translit": "hecherimu",
+      "ref": "1Sam.15.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "הֶחֱרַֽמְנוּ",
+      "translit": "hecheramnu",
+      "ref": "1Sam.15.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הֶחֱרַֽמְתִּי",
+      "translit": "hecheramti",
+      "ref": "1Sam.15.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הֶחֱרַמְתֶּם",
+      "translit": "hecheramtem",
+      "ref": "Josh.2.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיַּחֲרִימוּ",
+      "translit": "vayyacharimu",
+      "ref": "1Chr.4.41",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וַֽנַּחֲרֵם",
+      "translit": "vannacharem",
+      "ref": "Deut.2.34",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּחֲרֵם",
+      "translit": "vayyacharem",
+      "ref": "Josh.10.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּחֲרִים",
+      "translit": "tacharim",
+      "ref": "Deut.7.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּחֲרִימוּ",
+      "translit": "tacharimu",
+      "ref": "Josh.6.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחֲרִם",
+      "translit": "yacharim",
+      "ref": "Lev.27.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהַֽחֲרַמְתֶּם",
+      "translit": "vhacharamtem",
+      "ref": "1Sam.15.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהַחֲרַמְתָּה",
+      "translit": "vhacharamtah",
+      "ref": "1Sam.15.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהֶחֱרִים",
+      "translit": "vhecherim",
+      "ref": "Isa.11.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהַחֲרַמְתִּי",
+      "translit": "vhacharamti",
+      "ref": "Jer.25.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהַחֲרֵם",
+      "translit": "vhacharem",
+      "ref": "Jer.50.21",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הַחֲרִימוּ",
+      "translit": "hacharimu",
+      "ref": "Jer.50.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַחֲרִים",
+      "translit": "lhacharim",
+      "ref": "1Kgs.9.21",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַחֲרֵם",
+      "translit": "hacharem",
+      "ref": "Deut.3.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָחֳרַם",
+      "translit": "yachoram",
+      "ref": "Exod.22.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "devote to destruction",
+  "hophal": "be devoted to destruction"
+ },
+ "root": "חרם",
+ "search_match": [
+  "2763",
+  "charam",
+  "devote to destruction",
+  "h2763",
+  "חרם"
+ ],
+ "citation_translit": "charam"
+}

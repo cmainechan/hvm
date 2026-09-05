@@ -1,0 +1,274 @@
+{
+ "glosses": [
+  "command"
+ ],
+ "strong": "H6680",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "צִוָּה",
+      "translit": "tzivvah",
+      "ref": "1Chr.6.34",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "צִוִּיתִי",
+      "translit": "tzivviti",
+      "ref": "1Chr.17.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "צִוִּיתֶם",
+      "translit": "tzivvitem",
+      "ref": "Amos.2.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "צִוִּיתָ",
+      "translit": "tzivvita",
+      "ref": "Deut.26.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "צִוְּתָה",
+      "translit": "tzivvtah",
+      "ref": "Esth.4.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְצַו",
+      "translit": "vaytzav",
+      "ref": "1Chr.22.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֲצַוֶּה",
+      "translit": "va'atzavveh",
+      "ref": "Deut.1.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתְּצַוֵּהוּ",
+      "translit": "vatttzavvehu",
+      "ref": "Esth.4.5",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיְצַוּוּ",
+      "translit": "vaytzauu",
+      "ref": "Gen.50.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְצַוֶּה",
+      "translit": "mtzavveh",
+      "ref": "Amos.6.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מְצַוָּה",
+      "translit": "mtzavvah",
+      "ref": "Gen.27.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְצַוֶּה",
+      "translit": "ytzavveh",
+      "ref": "1Chr.22.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲצַוֶּה",
+      "translit": "atzavveh",
+      "ref": "1Kgs.11.38",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּצַוֻּם",
+      "translit": "ttzavvum",
+      "ref": "Deut.32.46",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּצַוֶּה",
+      "translit": "ttzavveh",
+      "ref": "Exod.27.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְצִוָּה",
+      "translit": "vtzivvah",
+      "ref": "1Sam.25.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְצִוִּיתָ",
+      "translit": "vtzivvita",
+      "ref": "Jer.27.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְצִוִּיתִי",
+      "translit": "vtzivviti",
+      "ref": "Lev.25.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "צַו",
+      "translit": "tzav",
+      "ref": "1Kgs.5.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְצַוּוּ",
+      "translit": "vtzauu",
+      "ref": "Josh.1.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְצַוֺּת",
+      "translit": "ltzavvt",
+      "ref": "2Sam.6.21",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "צֻוֵּֽיתִי",
+      "translit": "tzuvveti",
+      "ref": "Ezek.12.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "צֻוֵּיתָה",
+      "translit": "tzuvvetah",
+      "ref": "Gen.45.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "צֻוָּֽה",
+      "translit": "tzuvvah",
+      "ref": "Num.3.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְצֻוֶּֽה",
+      "translit": "ytzuvveh",
+      "ref": "Exod.34.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "command",
+  "pual": "be commanded"
+ },
+ "root": "צוה",
+ "search_match": [
+  "6680",
+  "command",
+  "h6680",
+  "tzavah",
+  "צוה"
+ ],
+ "citation_translit": "tzavah"
+}

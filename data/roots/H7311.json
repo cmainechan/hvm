@@ -1,0 +1,441 @@
+{
+ "glosses": [
+  "be high"
+ ],
+ "strong": "H7311",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "רָמָה",
+      "translit": "ramah",
+      "ref": "1Sam.2.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְרָם",
+      "translit": "vram",
+      "ref": "Ezek.31.10",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "רָמוּ",
+      "translit": "ramu",
+      "ref": "Job.22.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּרָם",
+      "translit": "vayyaram",
+      "ref": "Exod.16.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתָּרָם",
+      "translit": "vattaram",
+      "ref": "Gen.7.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "רָמִים",
+      "translit": "ramim",
+      "ref": "2Sam.22.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "רָם",
+      "translit": "ram",
+      "ref": "Deut.1.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "רָמָה",
+      "translit": "ramah",
+      "ref": "Exod.14.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "רָמוֹת",
+      "translit": "ramot",
+      "ref": "Prov.6.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָרוּם",
+      "translit": "yarum",
+      "ref": "Isa.30.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָרֽוּמוּ",
+      "translit": "yarumu",
+      "ref": "Isa.49.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָּרוּם",
+      "translit": "tarum",
+      "ref": "Mic.5.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָרוּם",
+      "translit": "arum",
+      "ref": "Ps.46.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְרָם",
+      "translit": "vram",
+      "ref": "Dan.11.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "רוּמָה",
+      "translit": "rumah",
+      "ref": "Ps.21.14",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "רוּם",
+      "translit": "rum",
+      "ref": "Deut.17.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיָרֻם",
+      "translit": "vyarum",
+      "ref": "2Sam.22.47",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָרוּמוּ",
+      "translit": "yarumu",
+      "ref": "Ps.66.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֵרִים",
+      "translit": "herim",
+      "ref": "1Kgs.11.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הֲרִימֹתִי",
+      "translit": "harimoti",
+      "ref": "1Kgs.14.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֵרִימוּ",
+      "translit": "herimu",
+      "ref": "2Chr.30.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הֲרִימוֹתָ",
+      "translit": "harimota",
+      "ref": "2Kgs.19.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּרֶם",
+      "translit": "vayyarem",
+      "ref": "1Kgs.11.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתָּרֶם",
+      "translit": "vattarem",
+      "ref": "Ps.92.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֵרִים",
+      "translit": "merim",
+      "ref": "Exod.35.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָרִים",
+      "translit": "yarim",
+      "ref": "1Sam.2.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תָּרִימוּ",
+      "translit": "tarimu",
+      "ref": "Ezek.45.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָרִים",
+      "translit": "arim",
+      "ref": "Isa.14.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הֲתָרִים",
+      "translit": "hatarim",
+      "ref": "Job.38.34",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָרִימוּ",
+      "translit": "yarimu",
+      "ref": "Lev.22.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהֵרִים",
+      "translit": "vherim",
+      "ref": "Lev.2.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַהֲרֵמֹתֶם",
+      "translit": "vaharemotem",
+      "ref": "Num.18.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַהֲרֵמֹתָ",
+      "translit": "vaharemota",
+      "ref": "Num.31.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הָרֵם",
+      "translit": "harem",
+      "ref": "2Kgs.6.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הָרִימוּ",
+      "translit": "harimu",
+      "ref": "Ezek.45.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הָרִימִי",
+      "translit": "harimi",
+      "ref": "Isa.40.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הָרִֽים",
+      "translit": "harim",
+      "ref": "1Chr.15.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיָרֵם",
+      "translit": "vyarem",
+      "ref": "Num.17.2",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תָּרִימוּ",
+      "translit": "tarimu",
+      "ref": "Ps.75.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הוּרַם",
+      "translit": "huram",
+      "ref": "Dan.8.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יוּרַם",
+      "translit": "yuram",
+      "ref": "Lev.4.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "exalt",
+  "hophal": "be taken away"
+ },
+ "root": "רום",
+ "search_match": [
+  "7311",
+  "be high",
+  "h7311",
+  "rum",
+  "רום"
+ ],
+ "citation_translit": "rum"
+}

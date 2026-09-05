@@ -1,0 +1,416 @@
+{
+ "glosses": [
+  "sell"
+ ],
+ "strong": "H4376",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "מָֽכַר",
+      "translit": "makhar",
+      "ref": "Deut.32.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "מָכְרוּ",
+      "translit": "makhru",
+      "ref": "Gen.37.36",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "מְכַרְתֶּם",
+      "translit": "mkhartem",
+      "ref": "Gen.45.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "מָכַרְתִּי",
+      "translit": "makharti",
+      "ref": "Isa.50.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "מָכְרָה",
+      "translit": "makhrah",
+      "ref": "Ruth.4.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּמְכֹּר",
+      "translit": "vayyimkor",
+      "ref": "1Sam.12.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּמְכְּרוּ",
+      "translit": "vayyimkru",
+      "ref": "Gen.37.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּמְכֹּר",
+      "translit": "vattimkor",
+      "ref": "Prov.31.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֹכֵר",
+      "translit": "mokher",
+      "ref": "Ezek.7.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "הַמֹּכֶרֶת",
+      "translit": "hammokheret",
+      "ref": "Nah.3.4",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "וּמֹכְרִים",
+      "translit": "umokhrim",
+      "ref": "Neh.13.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּמְכֹּֽר",
+      "translit": "timkor",
+      "ref": "Deut.21.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִמְכֹּר",
+      "translit": "yimkor",
+      "ref": "Exod.21.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִמְכְּרוּ",
+      "translit": "yimkru",
+      "ref": "Ezek.48.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִמְכְּרוּ",
+      "translit": "timkru",
+      "ref": "Lev.25.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּמָכַר",
+      "translit": "umakhar",
+      "ref": "Deut.24.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וּמָכְרוּ",
+      "translit": "umakhru",
+      "ref": "Exod.21.35",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וּמָכַרְתִּי",
+      "translit": "umakharti",
+      "ref": "Ezek.30.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "מִכְרִי",
+      "translit": "mikhri",
+      "ref": "2Kgs.4.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "מִכְרָה",
+      "translit": "mikhrah",
+      "ref": "Gen.25.31",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִמְכּוֹר",
+      "translit": "limkor",
+      "ref": "Amos.2.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מָכֹר",
+      "translit": "makhor",
+      "ref": "Deut.14.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְנִמְכְּרֶנּוּ",
+      "translit": "vnimkrennu",
+      "ref": "Gen.37.27",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּמְכֹּר",
+      "translit": "timkor",
+      "ref": "Prov.23.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִמְכַּרְנוּ",
+      "translit": "nimkarnu",
+      "ref": "Esth.7.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "נִמְכַּרְתֶּם",
+      "translit": "nimkartem",
+      "ref": "Isa.50.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִמְכַּר",
+      "translit": "nimkar",
+      "ref": "Lev.25.48",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַנִּמְכָּרִים",
+      "translit": "hannimkarim",
+      "ref": "Neh.5.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִמָּכֵר",
+      "translit": "yimmakher",
+      "ref": "Deut.15.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִמָּכֵר",
+      "translit": "timmakher",
+      "ref": "Lev.25.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִמָּכְרוּ",
+      "translit": "yimmakhru",
+      "ref": "Lev.25.42",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִמְכַּר",
+      "translit": "vnimkar",
+      "ref": "Exod.22.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנִמְכְּרוּ",
+      "translit": "vnimkru",
+      "ref": "Neh.5.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִמָּכְרוֹ",
+      "translit": "himmakhro",
+      "ref": "Lev.25.50",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִתְמַכֵּר",
+      "translit": "hitmakker",
+      "ref": "1Kgs.21.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּֽתְמַכְּרוּ",
+      "translit": "vayyitmakkru",
+      "ref": "2Kgs.17.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהִתְמַכַּרְתֶּם",
+      "translit": "vhitmakkartem",
+      "ref": "Deut.28.68",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִתְמַכֶּרְךָ",
+      "translit": "hitmakkerkha",
+      "ref": "1Kgs.21.20",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hitpael": "sell oneself",
+  "niphal": "be sold"
+ },
+ "root": "מכר",
+ "search_match": [
+  "4376",
+  "h4376",
+  "makhar",
+  "sell",
+  "מכר"
+ ],
+ "citation_translit": "makhar"
+}

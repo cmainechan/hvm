@@ -1,0 +1,192 @@
+{
+ "glosses": [
+  "take captive"
+ ],
+ "strong": "H7617",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שָׁבוּ",
+      "translit": "shavu",
+      "ref": "1Kgs.8.48",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "שְׁבִיתֶם",
+      "translit": "shvitem",
+      "ref": "2Chr.28.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "שָׁבִיתָ",
+      "translit": "shavita",
+      "ref": "2Kgs.6.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שָׁבָה",
+      "translit": "shavah",
+      "ref": "Jer.41.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּשְׁבּוּ",
+      "translit": "vayyishbu",
+      "ref": "1Chr.5.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּשְׁבְּ",
+      "translit": "vayyishb",
+      "ref": "Jer.41.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "שֹׁבִים",
+      "translit": "shovim",
+      "ref": "Isa.14.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "לִשְׁבוּיִם",
+      "translit": "lishvuyim",
+      "ref": "Isa.61.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּשְׁבֶּֽךָּ",
+      "translit": "tishbekka",
+      "ref": "Num.24.22",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְשָׁבוּם",
+      "translit": "vshavum",
+      "ref": "1Kgs.8.46",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְשָׁבִיתָ",
+      "translit": "vshavita",
+      "ref": "Deut.21.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְשָׁבָם",
+      "translit": "vshavam",
+      "ref": "Jer.43.12",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּֽשֲׁבֵה",
+      "translit": "vshaveh",
+      "ref": "Judg.5.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "שְׁבוֹת",
+      "translit": "shvot",
+      "ref": "Obad.1.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִשְׁבּוּ",
+      "translit": "nishbu",
+      "ref": "1Kgs.8.47",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִשְׁבָּה",
+      "translit": "nishbah",
+      "ref": "Exod.22.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be taken captive"
+ },
+ "root": "שבה",
+ "search_match": [
+  "7617",
+  "h7617",
+  "shavah",
+  "take captive",
+  "שבה"
+ ],
+ "citation_translit": "shavah"
+}

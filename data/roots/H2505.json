@@ -1,0 +1,433 @@
+{
+ "glosses": [
+  "divide"
+ ],
+ "strong": "H2505",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חָלַק",
+      "translit": "chalaq",
+      "ref": "2Chr.23.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חָלְקוּ",
+      "translit": "chalqu",
+      "ref": "Josh.18.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֶּֽחָלְקֵם",
+      "translit": "vayyechalqem",
+      "ref": "1Chr.23.6",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיַּחְלְקוּ",
+      "translit": "vayyachlqu",
+      "ref": "1Chr.24.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַֽתַּחְלְקֵם",
+      "translit": "vattachlqem",
+      "ref": "Neh.9.22",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חוֹלֵק",
+      "translit": "choleq",
+      "ref": "Prov.29.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַחֲלֹֽקוּ",
+      "translit": "yachaloqu",
+      "ref": "1Sam.30.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּחְלְקוּ",
+      "translit": "tachlqu",
+      "ref": "2Sam.19.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחֲלֹֽק",
+      "translit": "yachaloq",
+      "ref": "Job.27.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "חִלְקוּ",
+      "translit": "chilqu",
+      "ref": "Josh.22.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַחֲלֹק",
+      "translit": "lachaloq",
+      "ref": "Neh.13.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֵּחָלֵק",
+      "translit": "vayyechaleq",
+      "ref": "Gen.14.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵחָלֵק",
+      "translit": "yechaleq",
+      "ref": "1Kgs.16.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֵּחָלֵק",
+      "translit": "techaleq",
+      "ref": "Num.26.53",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "חִלְּקַתָּה",
+      "translit": "chillqattah",
+      "ref": "Isa.34.17",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חִלֵּֽקוּ",
+      "translit": "chillequ",
+      "ref": "Joel.4.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חִלְּקָם",
+      "translit": "chillqam",
+      "ref": "Lam.4.16",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְחַלֵּק",
+      "translit": "vaychalleq",
+      "ref": "1Chr.16.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיְחַלְּקוּ",
+      "translit": "vaychallqu",
+      "ref": "1Kgs.18.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְחַלֵּק",
+      "translit": "ychalleq",
+      "ref": "Dan.11.39",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲחַלֵּק",
+      "translit": "achalleq",
+      "ref": "Exod.15.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְחַלְּקוּ",
+      "translit": "ychallqu",
+      "ref": "Judg.5.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּחַלֵּק",
+      "translit": "tchalleq",
+      "ref": "Ps.68.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְחִלַּקְתָּֽם",
+      "translit": "vchillaqtam",
+      "ref": "Ezek.5.1",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְחִלַּקְתֶּם",
+      "translit": "vchillaqtem",
+      "ref": "Ezek.47.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חַלֵּק",
+      "translit": "challeq",
+      "ref": "Josh.13.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מֵֽחַלֵּק",
+      "translit": "mechalleq",
+      "ref": "Isa.9.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲחַלְּקָה",
+      "translit": "achallqah",
+      "ref": "Ps.60.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חֻלַּק",
+      "translit": "chullaq",
+      "ref": "Isa.33.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּחֻלָּק",
+      "translit": "tchullaq",
+      "ref": "Amos.7.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְחֻלַּק",
+      "translit": "vchullaq",
+      "ref": "Zech.14.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הֶחֱלִֽיקָה",
+      "translit": "hecheliqah",
+      "ref": "Prov.2.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֶחֱלִיק",
+      "translit": "hecheliq",
+      "ref": "Ps.36.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַחֲלִיק",
+      "translit": "machaliq",
+      "ref": "Prov.28.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַחֲלִֽיקוּן",
+      "translit": "yachaliqun",
+      "ref": "Ps.5.10",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַחֲלִק",
+      "translit": "lachaliq",
+      "ref": "Jer.37.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִֽתְחַלְּקוּ",
+      "translit": "vhitchallqu",
+      "ref": "Josh.18.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "apportion",
+  "hiphil": "apportion",
+  "niphal": "be divided",
+  "pual": "be divided",
+  "hitpael": "divide among themselves"
+ },
+ "root": "חלק",
+ "search_match": [
+  "2505",
+  "chalaq",
+  "divide",
+  "h2505",
+  "חלק"
+ ],
+ "citation_translit": "chalaq"
+}

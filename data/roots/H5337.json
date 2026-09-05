@@ -1,0 +1,431 @@
+{
+ "glosses": [
+  "deliver"
+ ],
+ "strong": "H5337",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִצַּלְנוּ",
+      "translit": "nitztzalnu",
+      "ref": "Jer.7.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּנָּצֵל",
+      "translit": "vattinnatzel",
+      "ref": "Gen.32.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּנָּצֵֽל",
+      "translit": "tinnatzel",
+      "ref": "2Kgs.19.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִנָּצְלוּ",
+      "translit": "yinnatzlu",
+      "ref": "Amos.3.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִנָּצֵל",
+      "translit": "yinnatzel",
+      "ref": "Deut.23.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִּנָּצֵלִי",
+      "translit": "tinnatzeli",
+      "ref": "Mic.4.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִנָּצֵל",
+      "translit": "hinnatzel",
+      "ref": "Prov.6.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִנָּצֵל",
+      "translit": "lhinnatzel",
+      "ref": "Hab.2.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אִנָּצְלָה",
+      "translit": "innatzlah",
+      "ref": "Ps.69.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיְנַצְּלוּ",
+      "translit": "vaynatztzlu",
+      "ref": "2Chr.20.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְנַצְּלוּ",
+      "translit": "ynatztzlu",
+      "ref": "Ezek.14.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְנִצַּלְתֶּם",
+      "translit": "vnitztzaltem",
+      "ref": "Exod.3.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִצִּיל",
+      "translit": "hitztzil",
+      "ref": "1Sam.7.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "הִצַּלְנוּ",
+      "translit": "hitztzalnu",
+      "ref": "1Sam.30.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִצִּילוּ",
+      "translit": "hitztzilu",
+      "ref": "2Chr.25.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הִצַּלְתִּיךָ",
+      "translit": "hitztzaltikha",
+      "ref": "2Sam.12.7",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִצַּֽלְתָּ",
+      "translit": "hitztzalta",
+      "ref": "Exod.5.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הִצַּלְתֶּם",
+      "translit": "hitztzaltem",
+      "ref": "Josh.22.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּצִּילוּהָ",
+      "translit": "vayyatztziluha",
+      "ref": "1Chr.11.14",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאַצִּל",
+      "translit": "va'atztzil",
+      "ref": "1Sam.10.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּצֵּל",
+      "translit": "vayyatztzel",
+      "ref": "1Sam.12.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַצִּֽיל",
+      "translit": "matztzil",
+      "ref": "2Sam.14.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַצִּיל",
+      "translit": "yatztzil",
+      "ref": "1Sam.4.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַצִּילוּ",
+      "translit": "yatztzilu",
+      "ref": "1Sam.12.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּצִּֽיל",
+      "translit": "tatztzil",
+      "ref": "1Sam.30.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַצִּיל",
+      "translit": "atztzil",
+      "ref": "2Kgs.20.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תַּצִּיל",
+      "translit": "tatztzil",
+      "ref": "Ezek.33.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִצַּלְתִּי",
+      "translit": "vhitztzalti",
+      "ref": "1Sam.17.35",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהִצִּיל",
+      "translit": "vhitztzil",
+      "ref": "2Sam.20.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהִצַּלְתֶּם",
+      "translit": "vhitztzaltem",
+      "ref": "Josh.2.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִצִּילוּ",
+      "translit": "vhitztzilu",
+      "ref": "Num.35.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַצֵּל",
+      "translit": "hatztzel",
+      "ref": "1Chr.16.35",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הַצִּֽילוּ",
+      "translit": "hatztzilu",
+      "ref": "Jer.21.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַצִּיל",
+      "translit": "hatztzil",
+      "ref": "2Chr.32.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַצֵּל",
+      "translit": "hatztzel",
+      "ref": "1Sam.30.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּצֵּל",
+      "translit": "tatztzel",
+      "ref": "Ps.119.43",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֻצָּל",
+      "translit": "mutztzal",
+      "ref": "Amos.4.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּֽתְנַצְּלוּ",
+      "translit": "vayyitnatztzlu",
+      "ref": "Exod.33.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "plunder",
+  "hitpael": "strip oneself",
+  "niphal": "be delivered",
+  "hiphil": "deliver",
+  "hophal": "deliver"
+ },
+ "root": "נצל",
+ "search_match": [
+  "5337",
+  "deliver",
+  "h5337",
+  "natzal",
+  "נצל"
+ ],
+ "citation_translit": "natzal"
+}

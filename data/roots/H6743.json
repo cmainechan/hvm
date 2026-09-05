@@ -1,0 +1,259 @@
+{
+ "glosses": [
+  "prosper"
+ ],
+ "strong": "H6743",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְצָלְחוּ",
+      "translit": "vtzalchu",
+      "ref": "2Sam.19.18",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "צָלֵחָה",
+      "translit": "tzalechah",
+      "ref": "Jer.12.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּצְלַח",
+      "translit": "vattitzlach",
+      "ref": "1Sam.10.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַֽתִּצְלְחִי",
+      "translit": "vattitzlchi",
+      "ref": "Ezek.16.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיַצְלִיחוּ",
+      "translit": "vyatzlichu",
+      "ref": "Jer.5.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִצְלַח",
+      "translit": "yitzlach",
+      "ref": "Amos.5.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִצְלָח",
+      "translit": "titzlach",
+      "ref": "Dan.11.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְצָלְחָה",
+      "translit": "vtzalchah",
+      "ref": "1Sam.10.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "צְלַח",
+      "translit": "tzlach",
+      "ref": "Ps.45.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִצְלִֽיחַ",
+      "translit": "hitzlicha",
+      "ref": "2Chr.7.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּצְלַח",
+      "translit": "vayyatzlach",
+      "ref": "1Chr.29.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּצְלִֽיחוּ",
+      "translit": "vayyatzlichu",
+      "ref": "2Chr.14.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַצְלִיחַ",
+      "translit": "matzlicha",
+      "ref": "Gen.24.42",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּצְלִיחַ",
+      "translit": "tatzlicha",
+      "ref": "1Chr.22.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַצְלִֽיחוּ",
+      "translit": "tatzlichu",
+      "ref": "2Chr.13.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תַצְלִיחִי",
+      "translit": "tatzlichi",
+      "ref": "Jer.2.37",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הֲתַצְלִיחַ",
+      "translit": "hatatzlicha",
+      "ref": "Judg.18.5",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַצְלִיחַֽ",
+      "translit": "yatzlicha",
+      "ref": "Neh.2.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהִצְלַחְתָּ",
+      "translit": "vhitzlachta",
+      "ref": "1Chr.22.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְהִצְלִֽיחָה",
+      "translit": "vhitzlichah",
+      "ref": "Dan.8.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהִצְלִיחַ",
+      "translit": "vhitzlicha",
+      "ref": "Dan.8.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהַצְלַח",
+      "translit": "vhatzlach",
+      "ref": "1Kgs.22.12",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהַצְלִיחוּ",
+      "translit": "vhatzlichu",
+      "ref": "2Chr.18.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "make prosper"
+ },
+ "root": "צלח",
+ "search_match": [
+  "6743",
+  "h6743",
+  "prosper",
+  "tzalach",
+  "צלח"
+ ],
+ "citation_translit": "tzalach"
+}

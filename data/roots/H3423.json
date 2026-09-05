@@ -1,0 +1,501 @@
+{
+ "glosses": [
+  "possess"
+ ],
+ "strong": "H3423",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "יָרָשְׁתָּ",
+      "translit": "yarashta",
+      "ref": "1Kgs.21.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "יָרַשְׁנוּ",
+      "translit": "yarashnu",
+      "ref": "Deut.3.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "יָרְשׁוּ",
+      "translit": "yarshu",
+      "ref": "Deut.30.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָרַשׁ",
+      "translit": "yarash",
+      "ref": "Jer.49.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּֽירְשׁוּ",
+      "translit": "vayyirshu",
+      "ref": "2Kgs.17.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּירַשׁ",
+      "translit": "vayyirash",
+      "ref": "Ezek.33.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַתִּֽירְשׁוּ",
+      "translit": "vattirshu",
+      "ref": "Josh.24.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "יוֹרֵשׁ",
+      "translit": "yoresh",
+      "ref": "2Sam.14.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "יֹרְשִׁים",
+      "translit": "yorshim",
+      "ref": "Deut.12.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "יֹרֶשֶׁת",
+      "translit": "yoreshet",
+      "ref": "Num.36.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּֽירְשׁוּ",
+      "translit": "tirshu",
+      "ref": "1Chr.28.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִֽירְשׁוּ",
+      "translit": "yirshu",
+      "ref": "Amos.9.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִירַשׁ",
+      "translit": "yirash",
+      "ref": "Gen.15.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אִֽירָשֶֽׁנָּה",
+      "translit": "irashennah",
+      "ref": "Gen.15.8",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִירָשׁ",
+      "translit": "tirash",
+      "ref": "Judg.11.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִירָֽשׁ",
+      "translit": "nirash",
+      "ref": "Judg.11.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִירַשׁ",
+      "translit": "tirash",
+      "ref": "Prov.30.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְיָרְשׁוּ",
+      "translit": "vyarshu",
+      "ref": "Deut.3.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וִֽירִשְׁתֶּם",
+      "translit": "virishtem",
+      "ref": "Deut.4.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְיָרַשְׁתָּ",
+      "translit": "vyarashta",
+      "ref": "Deut.6.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְיָרַשְׁנוּ",
+      "translit": "vyarashnu",
+      "ref": "Ezek.35.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיָרַשׁ",
+      "translit": "vyarash",
+      "ref": "Jer.49.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "רֵשׁ",
+      "translit": "resh",
+      "ref": "1Kgs.21.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּרְשׁוּ",
+      "translit": "urshu",
+      "ref": "Deut.1.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לָרֶשֶׁת",
+      "translit": "lareshet",
+      "ref": "1Kgs.21.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִירֲשָׁה",
+      "translit": "nirashah",
+      "ref": "Ps.83.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיִֽרְשׁוּ",
+      "translit": "vyirshu",
+      "ref": "Deut.10.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּוָּרֵשׁ",
+      "translit": "tivvaresh",
+      "ref": "Gen.45.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִוָּרֵשׁ",
+      "translit": "yivvaresh",
+      "ref": "Prov.23.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אִוָּרֵשׁ",
+      "translit": "ivvaresh",
+      "ref": "Prov.30.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְיָרֵשׁ",
+      "translit": "yyaresh",
+      "ref": "Deut.28.42",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הוֹרִישׁ",
+      "translit": "horish",
+      "ref": "1Kgs.14.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הוֹרַשְׁתָּ",
+      "translit": "horashta",
+      "ref": "2Chr.20.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הוֹרִישׁוּ",
+      "translit": "horishu",
+      "ref": "Josh.13.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיּוֹרֶשׁ",
+      "translit": "vayyoresh",
+      "ref": "Josh.13.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מוֹרִישׁ",
+      "translit": "morish",
+      "ref": "1Sam.2.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תּוֹרִישֵׁמוֹ",
+      "translit": "torishemo",
+      "ref": "Exod.15.9",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אוֹרִישׁ",
+      "translit": "orish",
+      "ref": "Exod.34.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תוֹרִישׁ",
+      "translit": "torish",
+      "ref": "Job.13.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יוֹרִישׁ",
+      "translit": "yorish",
+      "ref": "Job.20.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תוֹרִישׁוּ",
+      "translit": "torishu",
+      "ref": "Num.33.55",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהֽוֹרַשְׁתָּם",
+      "translit": "vhorashtam",
+      "ref": "Deut.9.3",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהוֹרִישׁ",
+      "translit": "vhorish",
+      "ref": "Deut.11.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהוֹרַשְׁתֶּם",
+      "translit": "vhorashtem",
+      "ref": "Ezra.9.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהוֹרַשְׁתִּים",
+      "translit": "vhorashtim",
+      "ref": "Josh.14.12",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהוֹרִישׁ",
+      "translit": "lhorish",
+      "ref": "Deut.4.38",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְהוֹרֵשׁ",
+      "translit": "vhoresh",
+      "ref": "Josh.3.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be dispossessed",
+  "piel": "take possession of",
+  "hiphil": "dispossess"
+ },
+ "root": "ירש",
+ "search_match": [
+  "3423",
+  "h3423",
+  "possess",
+  "yarash",
+  "ירש"
+ ],
+ "citation_translit": "yarash"
+}

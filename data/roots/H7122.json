@@ -1,0 +1,173 @@
+{
+ "glosses": [
+  "encounter"
+ ],
+ "strong": "H7122",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "קְרָאַנִי",
+      "translit": "qra'ani",
+      "ref": "Gen.42.38",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "קְרָאֻנִי",
+      "translit": "qra'uni",
+      "ref": "Jer.13.22",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "קָרָאת",
+      "translit": "qara't",
+      "ref": "Jer.44.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וַתִּקְרֶאנָה",
+      "translit": "vattiqre'nah",
+      "ref": "Lev.10.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תִקְרֶאנָה",
+      "translit": "tiqre'nah",
+      "ref": "Exod.1.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִקְרָא",
+      "translit": "yiqra",
+      "ref": "Gen.42.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְקָרָאת",
+      "translit": "vqara't",
+      "ref": "Deut.31.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִקְרַאת",
+      "translit": "liqra't",
+      "ref": "1Sam.4.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִקְרָא",
+      "translit": "niqra",
+      "ref": "2Sam.20.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּקָּרֵא",
+      "translit": "vayyiqqare",
+      "ref": "2Sam.18.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִקָּרֵא",
+      "translit": "yiqqare",
+      "ref": "Deut.22.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "נִקְרֹא",
+      "translit": "niqro",
+      "ref": "2Sam.1.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתַּקְרֵא",
+      "translit": "vattaqre",
+      "ref": "Jer.32.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "happen to be present",
+  "hiphil": "cause to befall"
+ },
+ "root": "קרא²",
+ "search_match": [
+  "7122",
+  "encounter",
+  "h7122",
+  "qara",
+  "קרא²"
+ ],
+ "citation_translit": "qara"
+}

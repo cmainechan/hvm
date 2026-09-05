@@ -1,0 +1,694 @@
+{
+ "glosses": [
+  "rise"
+ ],
+ "strong": "H6965",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "קָם",
+      "translit": "qam",
+      "ref": "1Kgs.8.54",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "קָמוּ",
+      "translit": "qamu",
+      "ref": "1Kgs.14.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "קָמָה",
+      "translit": "qamah",
+      "ref": "1Sam.4.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "קַמְתָּ",
+      "translit": "qamta",
+      "ref": "2Sam.12.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "קַמְתִּי",
+      "translit": "qamti",
+      "ref": "Ezra.9.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "קַמְתֶּם",
+      "translit": "qamtem",
+      "ref": "Judg.9.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "קַּמְנוּ",
+      "translit": "qamnu",
+      "ref": "Ps.20.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּקֻמוּ",
+      "translit": "vayyaqumu",
+      "ref": "1Chr.10.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּקָם",
+      "translit": "vayyaqam",
+      "ref": "1Chr.28.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתָּקָם",
+      "translit": "vattaqam",
+      "ref": "1Kgs.3.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאָקוּם",
+      "translit": "va'aqum",
+      "ref": "1Kgs.3.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "קָם",
+      "translit": "qam",
+      "ref": "2Chr.21.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "קָמִים",
+      "translit": "qamim",
+      "ref": "2Kgs.16.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "קָמָה",
+      "translit": "qamah",
+      "ref": "Mic.7.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָקוּם",
+      "translit": "yaqum",
+      "ref": "1Kgs.3.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָקוּם",
+      "translit": "taqum",
+      "ref": "1Sam.13.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָקוּמוּ",
+      "translit": "yaqumu",
+      "ref": "2Sam.22.39",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָקוּם",
+      "translit": "aqum",
+      "ref": "Isa.33.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תָקוּמוּ",
+      "translit": "taqumu",
+      "ref": "Jer.25.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּקוּם",
+      "translit": "taqum",
+      "ref": "Lev.19.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נָקוּם",
+      "translit": "naqum",
+      "ref": "Neh.2.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְקָמָה",
+      "translit": "vqamah",
+      "ref": "1Sam.24.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְקַמְתִּי",
+      "translit": "vqamti",
+      "ref": "Amos.7.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְקַמְתָּ",
+      "translit": "vqamta",
+      "ref": "Deut.17.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְקָם",
+      "translit": "vqam",
+      "ref": "Deut.19.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְקָמוּ",
+      "translit": "vqamu",
+      "ref": "Gen.41.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "קוּם",
+      "translit": "qum",
+      "ref": "1Chr.22.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "קוּמוּ",
+      "translit": "qumu",
+      "ref": "1Chr.22.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "קוּמִי",
+      "translit": "qumi",
+      "ref": "1Kgs.14.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fp",
+      "label": "2nd fem. pl.",
+      "heb": "קֹמְנָה",
+      "translit": "qomnah",
+      "ref": "Isa.32.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "קוּם",
+      "translit": "qum",
+      "ref": "1Sam.22.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "קוֹם",
+      "translit": "qom",
+      "ref": "Jer.44.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָקוּמָה",
+      "translit": "aqumah",
+      "ref": "2Sam.3.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְנָקוּמָה",
+      "translit": "vnaqumah",
+      "ref": "Gen.35.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָקוּמוּ",
+      "translit": "yaqumu",
+      "ref": "2Sam.2.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָקֻם",
+      "translit": "yaqum",
+      "ref": "Gen.27.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "קִיְּמוּ",
+      "translit": "qiyymu",
+      "ref": "Esth.9.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "קִיַּם",
+      "translit": "qiyyam",
+      "ref": "Esth.9.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֲקַיֵּמָה",
+      "translit": "va'aqayyemah",
+      "ref": "Ps.119.106",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "קַיְּמֵנִי",
+      "translit": "qayymeni",
+      "ref": "Ps.119.28",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְקַיֵּם",
+      "translit": "lqayyem",
+      "ref": "Esth.9.21",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הֲקִמֹתִי",
+      "translit": "haqimoti",
+      "ref": "1Kgs.9.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֵקִים",
+      "translit": "heqim",
+      "ref": "1Kgs.14.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הֲקֵימֹתוֹ",
+      "translit": "haqemoto",
+      "ref": "2Kgs.9.2",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֵקִימוּ",
+      "translit": "heqimu",
+      "ref": "Isa.23.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּקֶם",
+      "translit": "vayyaqem",
+      "ref": "1Kgs.7.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאָקִים",
+      "translit": "va'aqim",
+      "ref": "Amos.2.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּקִימוּ",
+      "translit": "vayyaqimu",
+      "ref": "Josh.7.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתָּקֶם",
+      "translit": "vattaqem",
+      "ref": "Neh.9.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֵקִים",
+      "translit": "meqim",
+      "ref": "1Sam.2.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָקִים",
+      "translit": "yaqim",
+      "ref": "1Kgs.2.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָקִים",
+      "translit": "aqim",
+      "ref": "1Sam.3.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּקִים",
+      "translit": "taqim",
+      "ref": "Deut.16.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תָּקִימוּ",
+      "translit": "taqimu",
+      "ref": "Deut.27.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fp",
+      "label": "2nd fem. pl.",
+      "heb": "תָּקִימְנָה",
+      "translit": "taqimnah",
+      "ref": "Jer.44.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָקִימוּ",
+      "translit": "yaqimu",
+      "ref": "Job.4.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וַהֲקִמֹתִי",
+      "translit": "vahaqimoti",
+      "ref": "1Chr.17.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַהֲקֵמֹתָ",
+      "translit": "vahaqemota",
+      "ref": "Deut.27.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהֵקִים",
+      "translit": "vheqim",
+      "ref": "Ezek.26.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וַהֲקֵמֹנוּ",
+      "translit": "vahaqemonu",
+      "ref": "Mic.5.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהֵקִימוּ",
+      "translit": "vheqimu",
+      "ref": "Num.10.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הָקֵם",
+      "translit": "haqem",
+      "ref": "2Sam.7.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הָקִימוּ",
+      "translit": "haqimu",
+      "ref": "Jer.51.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הָקִים",
+      "translit": "haqim",
+      "ref": "1Chr.21.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הָקֵם",
+      "translit": "haqem",
+      "ref": "Deut.22.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָקֵם",
+      "translit": "yaqem",
+      "ref": "1Sam.1.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הוּקַם",
+      "translit": "huqam",
+      "ref": "2Sam.23.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "raise",
+  "piel": "confirm",
+  "hophal": "be raised up"
+ },
+ "root": "קום",
+ "search_match": [
+  "6965",
+  "h6965",
+  "qum",
+  "raise",
+  "rise",
+  "קום"
+ ],
+ "citation_translit": "qum"
+}

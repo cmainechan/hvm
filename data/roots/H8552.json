@@ -1,0 +1,238 @@
+{
+ "glosses": [
+  "be complete"
+ ],
+ "strong": "H8552",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "תַּמּוּ",
+      "translit": "tammu",
+      "ref": "1Sam.16.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "תַּם",
+      "translit": "tam",
+      "ref": "Gen.47.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "תַּמְנוּ",
+      "translit": "tamnu",
+      "ref": "Jer.44.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּתֹּם",
+      "translit": "vattittom",
+      "ref": "1Kgs.7.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּתְּמוּ",
+      "translit": "vayyittmu",
+      "ref": "Deut.34.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּתֹּם",
+      "translit": "vayyittom",
+      "ref": "Gen.47.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּתֻּם",
+      "translit": "tittum",
+      "ref": "Ezek.24.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתֹּם",
+      "translit": "yittom",
+      "ref": "Ezek.47.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתַּמּוּ",
+      "translit": "yittammu",
+      "ref": "Jer.14.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֵיתָם",
+      "translit": "etam",
+      "ref": "Ps.19.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְתַמּוּ",
+      "translit": "vtammu",
+      "ref": "Jer.44.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְתַם",
+      "translit": "vtam",
+      "ref": "Lev.26.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "תֹּם",
+      "translit": "tom",
+      "ref": "1Kgs.6.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֵתַֽמּוּ",
+      "translit": "hetammu",
+      "ref": "2Sam.20.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיַתֵּם",
+      "translit": "vyattem",
+      "ref": "2Kgs.22.4",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַתֵּם",
+      "translit": "tattem",
+      "ref": "Job.22.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וַהֲתִמֹּתִי",
+      "translit": "vahatimmoti",
+      "ref": "Ezek.22.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כְּהָתֵם",
+      "translit": "khatem",
+      "ref": "Dan.8.23",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הָתֵם",
+      "translit": "hatem",
+      "ref": "Ezek.24.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּתַּמָּֽם",
+      "translit": "tittammam",
+      "ref": "2Sam.22.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hitpael": "act blamelessly",
+  "hiphil": "bring to completion"
+ },
+ "root": "תמם",
+ "search_match": [
+  "8552",
+  "be complete",
+  "h8552",
+  "tamam",
+  "תמם"
+ ],
+ "citation_translit": "tamam"
+}

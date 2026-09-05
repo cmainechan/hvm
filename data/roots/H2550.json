@@ -1,0 +1,149 @@
+{
+ "glosses": [
+  "pity"
+ ],
+ "strong": "H2550",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חָמַל",
+      "translit": "chamal",
+      "ref": "1Sam.15.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "חֲמַלְתֶּם",
+      "translit": "chamaltem",
+      "ref": "1Sam.23.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חָמָֽלְתָּ",
+      "translit": "chamalta",
+      "ref": "Lam.2.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּחְמֹל",
+      "translit": "vayyachmol",
+      "ref": "1Sam.15.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתַּחְמֹל",
+      "translit": "vattachmol",
+      "ref": "Exod.2.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶחְמֹל",
+      "translit": "va'echmol",
+      "ref": "Ezek.36.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַחְמֹל",
+      "translit": "tachmol",
+      "ref": "1Sam.15.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶחְמוֹל",
+      "translit": "echmol",
+      "ref": "Ezek.5.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחְמֹל",
+      "translit": "yachmol",
+      "ref": "Hab.1.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַחְמֹֽלוּ",
+      "translit": "yachmolu",
+      "ref": "Isa.9.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּחְמְלוּ",
+      "translit": "tachmlu",
+      "ref": "Jer.51.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְחָמַלְתִּי",
+      "translit": "vchamalti",
+      "ref": "Mal.3.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּחְמֹֽלוּ",
+      "translit": "tachmolu",
+      "ref": "Ezek.9.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "חמל",
+ "search_match": [
+  "2550",
+  "chamal",
+  "h2550",
+  "pity",
+  "חמל"
+ ],
+ "citation_translit": "chamal"
+}

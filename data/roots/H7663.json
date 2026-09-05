@@ -1,0 +1,78 @@
+{
+ "glosses": [
+  "wait for"
+ ],
+ "strong": "H7663",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שִׂבְּרוּ",
+      "translit": "sibbru",
+      "ref": "Esth.9.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "שִׂבַּרְתִּי",
+      "translit": "sibbarti",
+      "ref": "Ps.119.166",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְשַׂבְּרוּ",
+      "translit": "ysabbru",
+      "ref": "Isa.38.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fp",
+      "label": "2nd fem. pl.",
+      "heb": "תְּשַׂבֵּרְנָה",
+      "translit": "tsabbernah",
+      "ref": "Ruth.1.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "שֹׂבֵר",
+      "translit": "sover",
+      "ref": "Neh.2.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "שבר³",
+ "search_match": [
+  "7663",
+  "h7663",
+  "savar",
+  "wait for",
+  "שבר³"
+ ],
+ "citation_translit": "savar"
+}

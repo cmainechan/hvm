@@ -1,0 +1,564 @@
+{
+ "glosses": [
+  "open"
+ ],
+ "strong": "H6605",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "פָּתַח",
+      "translit": "patach",
+      "ref": "2Chr.29.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּפָתַחְתָּ",
+      "translit": "ufatachta",
+      "ref": "2Kgs.9.3",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "פָּתַחְתִּי",
+      "translit": "patachti",
+      "ref": "Job.33.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "פָּתְחָה",
+      "translit": "patchah",
+      "ref": "Prov.31.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "פָּֽתְחוּ",
+      "translit": "patchu",
+      "ref": "Ps.37.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּפְתַּח",
+      "translit": "vayyiftach",
+      "ref": "1Sam.3.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶפְתַּח",
+      "translit": "va'eftach",
+      "ref": "Dan.10.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּפְתַּח",
+      "translit": "vattiftach",
+      "ref": "Exod.2.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וַֽנִּפְתְּחָה",
+      "translit": "vanniftchah",
+      "ref": "Gen.43.21",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּפְתְּחוּ",
+      "translit": "vayyiftchu",
+      "ref": "Gen.44.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "פֹתֵחַ",
+      "translit": "fotecha",
+      "ref": "Ezek.25.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "פְתֻחוֹת",
+      "translit": "ftuchot",
+      "ref": "1Kgs.8.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "פְּתוּחָה",
+      "translit": "ptuchah",
+      "ref": "Ezek.21.33",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "פָּתוּחַ",
+      "translit": "patucha",
+      "ref": "Jer.5.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּפְתַּח",
+      "translit": "tiftach",
+      "ref": "Deut.15.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִפְתַּח",
+      "translit": "yiftach",
+      "ref": "Deut.28.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶפְתַּח",
+      "translit": "eftach",
+      "ref": "Ezek.3.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּפְתַּח",
+      "translit": "tiftach",
+      "ref": "Isa.45.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִפְתָּחוּם",
+      "translit": "yiftachum",
+      "ref": "Neh.13.19",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וּפָתְחָה",
+      "translit": "ufatchah",
+      "ref": "Deut.20.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּפָתַֽח",
+      "translit": "ufatach",
+      "ref": "Ezek.46.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "פְּתַח",
+      "translit": "ptach",
+      "ref": "2Kgs.13.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "פִּתְחוּ",
+      "translit": "pitchu",
+      "ref": "Isa.26.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "פִּתְחִי",
+      "translit": "pitchi",
+      "ref": "Song.5.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִפְתֹּחַ",
+      "translit": "liftocha",
+      "ref": "Ezek.21.27",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "פָתֹחַ",
+      "translit": "fatocha",
+      "ref": "Deut.15.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְנִפְתְּחָה",
+      "translit": "vniftchah",
+      "ref": "Amos.8.5",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶפְתְּחָה",
+      "translit": "eftchah",
+      "ref": "Ps.78.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִפְתְּחוּ",
+      "translit": "niftchu",
+      "ref": "Ezek.1.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִפְתַּח",
+      "translit": "niftach",
+      "ref": "Isa.5.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּפָּתַח",
+      "translit": "vayyippatach",
+      "ref": "Ezek.33.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִפְתָּח",
+      "translit": "niftach",
+      "ref": "Zech.13.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִפָּתֵחַ",
+      "translit": "yippatecha",
+      "ref": "Ezek.24.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תִּפָּתַֽחְנָה",
+      "translit": "tippatachnah",
+      "ref": "Isa.35.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּפָּתַח",
+      "translit": "tippatach",
+      "ref": "Jer.1.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִפָּֽתְחוּ",
+      "translit": "yippatchu",
+      "ref": "Neh.7.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִפָּתֵחַ",
+      "translit": "lhippatecha",
+      "ref": "Isa.51.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "פִּתֵּחַ",
+      "translit": "pittecha",
+      "ref": "2Chr.3.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "פִתְּחָה",
+      "translit": "fittchah",
+      "ref": "Isa.48.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "פִתַּחְתִּיךָ",
+      "translit": "fittachtikha",
+      "ref": "Jer.40.4",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "פִּתַּחְתָּ",
+      "translit": "pittachta",
+      "ref": "Ps.30.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְפַתַּח",
+      "translit": "vayfattach",
+      "ref": "1Kgs.7.36",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְפַתֵּחַ",
+      "translit": "mfattecha",
+      "ref": "1Kgs.20.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּפַתַּח",
+      "translit": "tfattach",
+      "ref": "Exod.28.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְפַתַּח",
+      "translit": "yfattach",
+      "ref": "Isa.28.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲפַתֵּחַ",
+      "translit": "afattecha",
+      "ref": "Isa.45.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּפִתַּחְתָּ",
+      "translit": "ufittachta",
+      "ref": "Exod.28.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וּפִתְּחוּ",
+      "translit": "ufittchu",
+      "ref": "Isa.60.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְפַתֵּחַ",
+      "translit": "lfattecha",
+      "ref": "2Chr.2.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "פַּתֵּחַ",
+      "translit": "pattecha",
+      "ref": "Isa.58.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "מְפֻתָּחֹת",
+      "translit": "mfuttachot",
+      "ref": "Exod.39.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הִֽתְפַּתְּחִי",
+      "translit": "hitpattchi",
+      "ref": "Isa.52.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "engrave",
+  "pual": "be engraved",
+  "niphal": "be opened",
+  "hitpael": "loose oneself"
+ },
+ "root": "פתח",
+ "search_match": [
+  "6605",
+  "h6605",
+  "open",
+  "patach",
+  "פתח"
+ ],
+ "citation_translit": "patach"
+}

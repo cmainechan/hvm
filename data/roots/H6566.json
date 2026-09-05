@@ -1,0 +1,301 @@
+{
+ "glosses": [
+  "spread out"
+ ],
+ "strong": "H6566",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "פָּרְשׂוּ",
+      "translit": "parsu",
+      "ref": "Isa.33.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "פָּרַשׂ",
+      "translit": "paras",
+      "ref": "Job.36.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "פָּרְשָׂה",
+      "translit": "parsah",
+      "ref": "Prov.31.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּפְרְשׂוּ",
+      "translit": "vayyifrsu",
+      "ref": "1Kgs.6.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּפְרֹשׂ",
+      "translit": "vayyifros",
+      "ref": "1Kgs.8.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּפְרֹשׂ",
+      "translit": "vattifros",
+      "ref": "2Sam.17.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶפְרֹשׂ",
+      "translit": "va'efros",
+      "ref": "Ezek.16.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וַנִּפְרֹשׂ",
+      "translit": "vannifros",
+      "ref": "Ps.44.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "פֹּרְשִׂים",
+      "translit": "porsim",
+      "ref": "1Chr.28.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "פֹּרֵשׂ",
+      "translit": "pores",
+      "ref": "Lam.4.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "פְּרֻשׂוֹת",
+      "translit": "prusot",
+      "ref": "1Kgs.8.54",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "פְּרוּשָׂה",
+      "translit": "prusah",
+      "ref": "Hos.5.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "פָּרֻשׂ",
+      "translit": "parus",
+      "ref": "Joel.2.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִפְרֹשׂ",
+      "translit": "yifros",
+      "ref": "Deut.32.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶפְרֹשׂ",
+      "translit": "efros",
+      "ref": "Exod.9.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִפְרְשׂוּ",
+      "translit": "yifrsu",
+      "ref": "Num.4.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּפָרַשׂ",
+      "translit": "ufaras",
+      "ref": "1Kgs.8.38",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וּפָרְשׂוּ",
+      "translit": "ufarsu",
+      "ref": "Deut.22.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וּפָרַשְׂתִּי",
+      "translit": "ufarasti",
+      "ref": "Ezek.12.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּפָרַשְׂתָּ",
+      "translit": "ufarasta",
+      "ref": "Job.11.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִפָּרֵשׂוּ",
+      "translit": "yipparesu",
+      "ref": "Ezek.17.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "פֵּרַשְׂתִּי",
+      "translit": "perasti",
+      "ref": "Isa.65.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "פֵּֽרְשָׂה",
+      "translit": "persah",
+      "ref": "Lam.1.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְפָרֵשׂ",
+      "translit": "yfares",
+      "ref": "Isa.25.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּפָרֵשׂ",
+      "translit": "tfares",
+      "ref": "Jer.4.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּפֵרַשׂ",
+      "translit": "uferas",
+      "ref": "Isa.25.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְּפָרֵשׂ",
+      "translit": "bfares",
+      "ref": "Isa.1.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be spread out",
+  "piel": "spread out"
+ },
+ "root": "פרש",
+ "search_match": [
+  "6566",
+  "h6566",
+  "paras",
+  "spread out",
+  "פרש"
+ ],
+ "citation_translit": "paras"
+}

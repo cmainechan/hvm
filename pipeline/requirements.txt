@@ -1,0 +1,2 @@
+# pipeline.py uses only the Python standard library (re, glob, json,
+# collections). No external dependencies required.

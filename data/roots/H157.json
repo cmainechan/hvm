@@ -1,0 +1,302 @@
+{
+ "glosses": [
+  "love"
+ ],
+ "strong": "H157",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "אָהֵב",
+      "translit": "ahev",
+      "ref": "1Kgs.11.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "אָהֲבוּ",
+      "translit": "ahavu",
+      "ref": "1Sam.18.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "שֶׁאָהֲבָה",
+      "translit": "she'ahavah",
+      "ref": "1Sam.18.28",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "אֲהַבְתֶּם",
+      "translit": "ahavtem",
+      "ref": "Amos.4.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "אָהַבְתָּ",
+      "translit": "ahavta",
+      "ref": "Eccl.9.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָהַבְתִּי",
+      "translit": "ahavti",
+      "ref": "Exod.21.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "אָהַבְתְּ",
+      "translit": "ahavt",
+      "ref": "Ezek.16.37",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֶּאֱהַב",
+      "translit": "vayye'ehav",
+      "ref": "1Kgs.3.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתֶּאֱהַב",
+      "translit": "vatte'ehav",
+      "ref": "1Sam.18.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֹהַב",
+      "translit": "va'ohav",
+      "ref": "Hos.11.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "אֹהֵב",
+      "translit": "ohev",
+      "ref": "1Kgs.5.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "אֹֽהֲבִים",
+      "translit": "ohavim",
+      "ref": "Deut.13.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "אֹהֶבֶת",
+      "translit": "ohevet",
+      "ref": "Gen.25.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "אֲהוּבָה",
+      "translit": "ahuvah",
+      "ref": "Deut.21.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְאָהוּב",
+      "translit": "v'ahuv",
+      "ref": "Neh.13.26",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֶּאֱהָב",
+      "translit": "te'ehav",
+      "ref": "2Chr.19.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶאֱהַב",
+      "translit": "ye'ehav",
+      "ref": "Gen.29.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֵהָב",
+      "translit": "ehav",
+      "ref": "Hos.14.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּֽאֵהֲבוּ",
+      "translit": "t'ehavu",
+      "ref": "Prov.1.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְאָהַבְתָּ",
+      "translit": "v'ahavta",
+      "ref": "Deut.6.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַאֲהֵבְךָ",
+      "translit": "va'ahevkha",
+      "ref": "Deut.7.13",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַאֲהַבְתֶּם",
+      "translit": "va'ahavtem",
+      "ref": "Deut.10.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הֵבוּ",
+      "translit": "hevu",
+      "ref": "Amos.5.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "אֱֽהַב",
+      "translit": "ehav",
+      "ref": "Hos.3.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְאַהֲבָה",
+      "translit": "l'ahavah",
+      "ref": "2Sam.19.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֶּֽאֱהַב",
+      "translit": "te'ehav",
+      "ref": "Prov.20.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תֶּאֱהָבוּ",
+      "translit": "te'ehavu",
+      "ref": "Zech.8.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַנֶּאֱהָבִים",
+      "translit": "hanne'ehavim",
+      "ref": "2Sam.1.23",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be loved"
+ },
+ "root": "אהב",
+ "search_match": [
+  "157",
+  "ahav",
+  "h157",
+  "love",
+  "אהב"
+ ],
+ "citation_translit": "ahav"
+}

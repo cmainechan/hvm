@@ -1,0 +1,265 @@
+{
+ "glosses": [
+  "bind"
+ ],
+ "strong": "H631",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "אֲסָרָֽם",
+      "translit": "asaram",
+      "ref": "Job.36.13",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וַאֲסַרְנֻהוּ",
+      "translit": "va'asarnuhu",
+      "ref": "Judg.16.5",
+      "has_suffix": true,
+      "has_prefix": true
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "אָסְרָה",
+      "translit": "asrah",
+      "ref": "Num.30.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּאַסְרוּם",
+      "translit": "vayya'asrum",
+      "ref": "1Sam.6.10",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֶּאְסֹר",
+      "translit": "vayye'sor",
+      "ref": "2Chr.13.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתַּאַסְרֵהוּ",
+      "translit": "vatta'asrehu",
+      "ref": "Judg.16.8",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "אָסוּר",
+      "translit": "asur",
+      "ref": "2Kgs.7.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "אֲסֻרוֹת",
+      "translit": "asurot",
+      "ref": "2Sam.3.34",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "אֲסוּרִים",
+      "translit": "asurim",
+      "ref": "Eccl.4.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶאְסֹר",
+      "translit": "ye'sor",
+      "ref": "1Kgs.20.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נֶֽאֱסָרְךָ",
+      "translit": "ne'esarkha",
+      "ref": "Judg.15.13",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַאַסְרֻנִי",
+      "translit": "ya'asruni",
+      "ref": "Judg.16.7",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַאֲסַרְתֶּם",
+      "translit": "va'asartem",
+      "ref": "1Sam.6.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וַאֲסָרוּךָ",
+      "translit": "va'asarukha",
+      "ref": "Ezek.3.25",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְאָסְרָה",
+      "translit": "v'asrah",
+      "ref": "Num.30.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "אֱסֹר",
+      "translit": "esor",
+      "ref": "1Kgs.18.44",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "אִסְרוּ",
+      "translit": "isru",
+      "ref": "Jer.46.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לֶאְסֹר",
+      "translit": "le'sor",
+      "ref": "Hos.10.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "אָסֹר",
+      "translit": "asor",
+      "ref": "Judg.15.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵאָסֵר",
+      "translit": "ye'aser",
+      "ref": "Gen.42.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֵאָסֵר",
+      "translit": "te'aser",
+      "ref": "Judg.16.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הֵאָסְרוּ",
+      "translit": "he'asru",
+      "ref": "Gen.42.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "אֻסָּרוּ",
+      "translit": "ussaru",
+      "ref": "Isa.22.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be bound",
+  "pual": "be bound"
+ },
+ "root": "אסר",
+ "search_match": [
+  "631",
+  "asar",
+  "bind",
+  "h631",
+  "אסר"
+ ],
+ "citation_translit": "asar"
+}

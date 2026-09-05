@@ -1,0 +1,63 @@
+{
+ "glosses": [
+  "be in commotion"
+ ],
+ "strong": "H1949",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתֵּהֹם",
+      "translit": "vattehom",
+      "ref": "1Kgs.1.45",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תְּהִימֶנָה",
+      "translit": "thimenah",
+      "ref": "Mic.2.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאָהִֽימָה",
+      "translit": "v'ahimah",
+      "ref": "Ps.55.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be stirred up"
+ },
+ "root": "הום",
+ "search_match": [
+  "1949",
+  "be in commotion",
+  "h1949",
+  "hum",
+  "הום"
+ ],
+ "citation_translit": "hum"
+}

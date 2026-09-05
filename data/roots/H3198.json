@@ -1,0 +1,276 @@
+{
+ "glosses": [
+  "reprove"
+ ],
+ "strong": "H3198",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "וְנֹכָֽחַת",
+      "translit": "vnokhachat",
+      "ref": "Gen.20.16",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נוֹכָח",
+      "translit": "nokhach",
+      "ref": "Job.23.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְנִוָּֽכְחָה",
+      "translit": "vnivvakhchah",
+      "ref": "Isa.1.18",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֹכִיחַ",
+      "translit": "hokhicha",
+      "ref": "Gen.21.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הֹכַחְתָּ",
+      "translit": "hokhachta",
+      "ref": "Gen.24.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיּוֹכַח",
+      "translit": "vayyokhach",
+      "ref": "1Chr.16.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מוֹכִיחַ",
+      "translit": "mokhicha",
+      "ref": "Amos.5.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "וְלַמּוֹכִיחִים",
+      "translit": "vlammokhichim",
+      "ref": "Prov.24.25",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יוֹכִיחַ",
+      "translit": "yokhicha",
+      "ref": "1Chr.12.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תּוֹכִחֻךְ",
+      "translit": "tokhichukh",
+      "ref": "Jer.2.19",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אוֹכִֽיחַ",
+      "translit": "okhicha",
+      "ref": "Job.13.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְתוֹכִיחוּ",
+      "translit": "vtokhichu",
+      "ref": "Job.19.5",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תּוֹכִיחַ",
+      "translit": "tokhicha",
+      "ref": "Lev.19.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהוֹכִיחַ",
+      "translit": "vhokhicha",
+      "ref": "2Kgs.19.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהֹֽכַחְתִּיו",
+      "translit": "vhokhachtiv",
+      "ref": "2Sam.7.14",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הוֹכַח",
+      "translit": "hokhach",
+      "ref": "Prov.9.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהוֹכִיחַ",
+      "translit": "lhokhicha",
+      "ref": "Hab.1.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הוֹכֵחַ",
+      "translit": "hokhecha",
+      "ref": "Job.6.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיוֹכִיחוּ",
+      "translit": "vyokhichu",
+      "ref": "Gen.31.37",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יוֹכַח",
+      "translit": "yokhach",
+      "ref": "Hos.4.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תּוֹכַח",
+      "translit": "tokhach",
+      "ref": "Prov.9.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהוּכַח",
+      "translit": "vhukhach",
+      "ref": "Job.33.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְוַכָּֽח",
+      "translit": "yitvakkach",
+      "ref": "Mic.6.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "argue",
+  "hitpael": "argue",
+  "hiphil": "reprove",
+  "hophal": "be chastened"
+ },
+ "root": "יכח",
+ "search_match": [
+  "3198",
+  "h3198",
+  "reprove",
+  "yakhach",
+  "יכח"
+ ],
+ "citation_translit": "yakhach"
+}

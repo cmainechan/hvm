@@ -1,0 +1,412 @@
+{
+ "glosses": [
+  "save"
+ ],
+ "strong": "H3467",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נוֹשַׁע",
+      "translit": "nosha",
+      "ref": "Deut.33.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נוֹשָֽׁעְנוּ",
+      "translit": "nosha'nu",
+      "ref": "Jer.8.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נוֹשָׁע",
+      "translit": "nosha",
+      "ref": "Ps.33.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אִוָּשֵֽׁעַ",
+      "translit": "ivvashe'a",
+      "ref": "2Sam.22.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּוָּשֵׁעוּן",
+      "translit": "tivvashe'un",
+      "ref": "Isa.30.15",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְנִוָּשֵֽׁעַ",
+      "translit": "vnivvashe'a",
+      "ref": "Isa.64.4",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִּוָּשֵׁעִי",
+      "translit": "tivvashe'i",
+      "ref": "Jer.4.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּוָּשַׁע",
+      "translit": "tivvasha",
+      "ref": "Jer.23.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִוָּשֵֽׁעַ",
+      "translit": "yivvashe'a",
+      "ref": "Jer.30.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְנוֹשַׁעְתֶּם",
+      "translit": "vnosha'tem",
+      "ref": "Num.10.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהִוָּשְׁעוּ",
+      "translit": "vhivvash'u",
+      "ref": "Isa.45.22",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאִוָּשֵׁעָה",
+      "translit": "v'ivvashe'ah",
+      "ref": "Jer.17.14",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְנִוָּשֵֽׁעָה",
+      "translit": "vnivvashe'ah",
+      "ref": "Ps.80.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הוֹשִׁיעַ",
+      "translit": "hoshi'a",
+      "ref": "1Sam.9.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהוֹשַׁעְתִּי",
+      "translit": "vhosha'ti",
+      "ref": "Isa.43.12",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הוֹשַׁעְתָּ",
+      "translit": "hosha'ta",
+      "ref": "Job.26.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הוֹשִׁיעָה",
+      "translit": "hoshi'ah",
+      "ref": "Judg.7.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הוֹשַׁעְתֶּם",
+      "translit": "hosha'tem",
+      "ref": "Judg.12.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיּוֹשַׁע",
+      "translit": "vayyosha",
+      "ref": "1Chr.11.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתּוֹשַֽׁע",
+      "translit": "vattosha",
+      "ref": "Isa.59.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיּוֹשִׁיעוּם",
+      "translit": "vayyoshi'um",
+      "ref": "Judg.2.16",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאוֹשִׁיעָה",
+      "translit": "va'oshi'ah",
+      "ref": "Judg.10.12",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מוֹשִׁיעַ",
+      "translit": "moshi'a",
+      "ref": "1Sam.10.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מֽוֹשִׁיעִים",
+      "translit": "moshi'im",
+      "ref": "Neh.9.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יוֹשִֽׁיעַ",
+      "translit": "yoshi'a",
+      "ref": "1Sam.4.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תוֹשִׁיעַ",
+      "translit": "toshi'a",
+      "ref": "2Chr.20.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אוֹשִׁיעַ",
+      "translit": "oshi'a",
+      "ref": "2Kgs.6.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יוֹשִׁיעוּ",
+      "translit": "yoshi'u",
+      "ref": "Jer.2.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תוֹשִׁעַ",
+      "translit": "toshi'a",
+      "ref": "Job.40.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תּוֹשִׁיעוּן",
+      "translit": "toshi'un",
+      "ref": "Judg.6.31",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהוֹשַׁעְתִּי",
+      "translit": "vhosha'ti",
+      "ref": "1Chr.19.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהוֹשַׁעְתָּ",
+      "translit": "vhosha'ta",
+      "ref": "1Sam.23.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהוֹשִׁיעַ",
+      "translit": "vhoshi'a",
+      "ref": "Judg.2.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הוֹשַׁע",
+      "translit": "hosha",
+      "ref": "1Chr.16.35",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהוֹשִׁיעַ",
+      "translit": "lhoshi'a",
+      "ref": "1Chr.19.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְהוֹשֵׁעַ",
+      "translit": "vhoshe'a",
+      "ref": "1Sam.25.26",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יוֹשִׁעֵךְ",
+      "translit": "yoshi'ekh",
+      "ref": "1Sam.7.8",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיוֹשִׁיעֻךְ",
+      "translit": "vyoshi'ukh",
+      "ref": "Isa.47.13",
+      "has_suffix": true,
+      "has_prefix": true
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תּוֹשִׁיעֵנוּ",
+      "translit": "toshi'enu",
+      "ref": "Josh.22.22",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be saved",
+  "hiphil": "save"
+ },
+ "root": "ישע",
+ "search_match": [
+  "3467",
+  "h3467",
+  "save",
+  "yasha",
+  "ישע"
+ ],
+ "citation_translit": "yasha"
+}

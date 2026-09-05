@@ -1,0 +1,73 @@
+{
+ "glosses": [
+  "vomit out"
+ ],
+ "strong": "H6958",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּקֵא",
+      "translit": "vayyaqe",
+      "ref": "Jonah.2.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתָּקִא",
+      "translit": "vattaqi",
+      "ref": "Lev.18.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָקִיא",
+      "translit": "taqi",
+      "ref": "Lev.18.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְקִיאֶנָּה",
+      "translit": "teqi'ennah",
+      "ref": "Prov.23.8",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַהֲקֵֽאתֽוֹ",
+      "translit": "vahaqe'to",
+      "ref": "Prov.25.16",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "קוא",
+ "search_match": [
+  "6958",
+  "h6958",
+  "qo",
+  "vomit out",
+  "קוא"
+ ],
+ "citation_translit": "qo"
+}

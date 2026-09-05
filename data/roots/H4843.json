@@ -1,0 +1,132 @@
+{
+ "glosses": [
+  "be bitter"
+ ],
+ "strong": "H4843",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "מָֽרָה",
+      "translit": "marah",
+      "ref": "2Kgs.4.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "מָר",
+      "translit": "mar",
+      "ref": "Isa.38.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵמַר",
+      "translit": "yemar",
+      "ref": "Isa.24.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיְמָרְרוּ",
+      "translit": "vaymarru",
+      "ref": "Exod.1.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲמָרֵר",
+      "translit": "amarer",
+      "ref": "Isa.22.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּמֵּר",
+      "translit": "tammer",
+      "ref": "Exod.23.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֵמַר",
+      "translit": "hemar",
+      "ref": "Job.27.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְהָמֵר",
+      "translit": "vhamer",
+      "ref": "Zech.12.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כְּהָמֵר",
+      "translit": "khamer",
+      "ref": "Zech.12.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "deal bitterly (with)"
+ },
+ "root": "מרר",
+ "search_match": [
+  "4843",
+  "be bitter",
+  "h4843",
+  "marar",
+  "מרר"
+ ],
+ "citation_translit": "marar"
+}

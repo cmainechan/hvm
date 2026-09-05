@@ -1,0 +1,313 @@
+{
+ "glosses": [
+  "stumble"
+ ],
+ "strong": "H3782",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "כָּשַׁל",
+      "translit": "kashal",
+      "ref": "Hos.5.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "כָשַׁלְתָּ",
+      "translit": "khashalta",
+      "ref": "Hos.14.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "כָשְׁלָה",
+      "translit": "khashlah",
+      "ref": "Isa.3.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "כָּשַׁלְנוּ",
+      "translit": "kashalnu",
+      "ref": "Isa.59.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "כָּשְׁלוּ",
+      "translit": "kashlu",
+      "ref": "Jer.46.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "כּוֹשֵׁל",
+      "translit": "koshel",
+      "ref": "2Chr.28.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "כֹּשְׁלוֹת",
+      "translit": "koshlot",
+      "ref": "Isa.35.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְכָשַׁלְתָּ",
+      "translit": "vkhashalta",
+      "ref": "Hos.4.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְכָשַׁל",
+      "translit": "vkhashal",
+      "ref": "Hos.4.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְכָשְׁלוּ",
+      "translit": "vkhashlu",
+      "ref": "Isa.8.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כָּשׁוֹל",
+      "translit": "kashol",
+      "ref": "Isa.40.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "וְנִכְשָׁלִים",
+      "translit": "vnikhshalim",
+      "ref": "1Sam.2.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַנִּכְשָׁל",
+      "translit": "hannikhshal",
+      "ref": "Zech.12.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִכָּשְׁלוּ",
+      "translit": "yikkashlu",
+      "ref": "Dan.11.35",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִכָּשֶׁל",
+      "translit": "yikkashel",
+      "ref": "Ezek.33.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִכָּשֵֽׁל",
+      "translit": "tikkashel",
+      "ref": "Prov.4.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנִכְשָֽׁלוּ",
+      "translit": "vnikhshalu",
+      "ref": "Dan.11.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִכְשַׁל",
+      "translit": "vnikhshal",
+      "ref": "Dan.11.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּבְהִכָּשְׁלָם",
+      "translit": "uvhikkashlam",
+      "ref": "Dan.11.34",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִכְשִׁיל",
+      "translit": "hikhshil",
+      "ref": "Lam.1.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הִכְשַׁלְתֶּם",
+      "translit": "hikhshaltem",
+      "ref": "Mal.2.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּכְשִׁלוּם",
+      "translit": "vayyakhshilum",
+      "ref": "Jer.18.15",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַכְשִֽׁילְךָ",
+      "translit": "yakhshilkha",
+      "ref": "2Chr.25.8",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תַכְשִׁלִי",
+      "translit": "takhshili",
+      "ref": "Ezek.36.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַכְשִֽׁילוּ",
+      "translit": "yakhshilu",
+      "ref": "Prov.4.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּלְהַכְשִֽׁיל",
+      "translit": "ulhakhshil",
+      "ref": "2Chr.25.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מֻכְשָׁלִים",
+      "translit": "mukhshalim",
+      "ref": "Jer.18.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "stumble",
+  "hiphil": "cause to stumble",
+  "hophal": "be made to stumble"
+ },
+ "root": "כשל",
+ "search_match": [
+  "3782",
+  "h3782",
+  "kashal",
+  "stumble",
+  "כשל"
+ ],
+ "citation_translit": "kashal"
+}

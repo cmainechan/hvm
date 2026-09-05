@@ -1,0 +1,330 @@
+{
+ "glosses": [
+  "judge"
+ ],
+ "strong": "H8199",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שָׁפַט",
+      "translit": "shafat",
+      "ref": "1Kgs.3.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שָׁפְטוּ",
+      "translit": "shaftu",
+      "ref": "2Kgs.23.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "שְׁפַטְתִּֽים",
+      "translit": "shfattim",
+      "ref": "Ezek.36.19",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּשְׁפֹּט",
+      "translit": "vayyishpot",
+      "ref": "1Sam.7.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "שֹֽׁפְטִים",
+      "translit": "shoftim",
+      "ref": "1Chr.17.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "שֹׁפֵט",
+      "translit": "shofet",
+      "ref": "1Sam.3.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "שֹׁפְטָה",
+      "translit": "shoftah",
+      "ref": "Judg.4.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשְׁפֹּט",
+      "translit": "yishpot",
+      "ref": "1Kgs.7.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּשְׁפּוֹט",
+      "translit": "tishpot",
+      "ref": "2Chr.1.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּשְׁפְּטוּ",
+      "translit": "tishptu",
+      "ref": "2Chr.19.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשְׁפְּטוּ",
+      "translit": "yishptu",
+      "ref": "Exod.18.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶשְׁפֹּט",
+      "translit": "eshpot",
+      "ref": "Ezek.7.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְשָׁפַטְתָּ",
+      "translit": "vshafatta",
+      "ref": "1Kgs.8.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְשָׁפַט",
+      "translit": "vshafat",
+      "ref": "1Sam.8.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּשְׁפַטְתֶּם",
+      "translit": "ushfattem",
+      "ref": "Deut.1.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְשָׁפְטוּ",
+      "translit": "vshaftu",
+      "ref": "Deut.16.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְשָׁפַטְתִּי",
+      "translit": "vshafatti",
+      "ref": "Exod.18.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "שִׁפְטוּ",
+      "translit": "shiftu",
+      "ref": "Isa.1.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "שְׁפָט",
+      "translit": "shfat",
+      "ref": "Lam.3.59",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "שְׁפֹט",
+      "translit": "shfot",
+      "ref": "1Chr.16.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "שָׁפוֹט",
+      "translit": "shafot",
+      "ref": "Gen.19.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשְׁפֹּט",
+      "translit": "yishpot",
+      "ref": "1Sam.24.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נִשְׁפַּטְתִּי",
+      "translit": "nishpatti",
+      "ref": "Ezek.20.36",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִשְׁפָּט",
+      "translit": "nishpat",
+      "ref": "Isa.59.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אִשָּׁפֵט",
+      "translit": "ishshafet",
+      "ref": "Ezek.20.36",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשָּׁפְטוּ",
+      "translit": "yishshaftu",
+      "ref": "Ps.9.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְנִשְׁפַּטְתִּי",
+      "translit": "vnishpatti",
+      "ref": "Ezek.17.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כְּהִשָּׁפֵט",
+      "translit": "khishshafet",
+      "ref": "2Chr.22.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאִשָּׁפְטָה",
+      "translit": "v'ishshaftah",
+      "ref": "1Sam.12.7",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִשָּׁפְטָה",
+      "translit": "nishshaftah",
+      "ref": "Isa.43.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "plead one's case"
+ },
+ "root": "שפט",
+ "search_match": [
+  "8199",
+  "h8199",
+  "judge",
+  "shafat",
+  "שפט"
+ ],
+ "citation_translit": "shafat"
+}

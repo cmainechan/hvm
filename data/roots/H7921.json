@@ -1,0 +1,187 @@
+{
+ "glosses": [
+  "be bereaved"
+ ],
+ "strong": "H7921",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "שָׁכֹלְתִּי",
+      "translit": "shakholti",
+      "ref": "Gen.43.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּשְׁכַּל",
+      "translit": "tishkal",
+      "ref": "1Sam.15.33",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶשְׁכַּל",
+      "translit": "eshkal",
+      "ref": "Gen.27.45",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "שִׁכְּלָה",
+      "translit": "shikklah",
+      "ref": "1Sam.15.33",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שִׁכֵּלוּ",
+      "translit": "shikkelu",
+      "ref": "Gen.31.38",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "שִׁכַּלְתֶּם",
+      "translit": "shikkaltem",
+      "ref": "Gen.42.36",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "שִׁכַּלְתִּי",
+      "translit": "shikkalti",
+      "ref": "Jer.15.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מְשַׁכָּֽלֶת",
+      "translit": "mshakkalet",
+      "ref": "2Kgs.2.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּשַׁכֶּל",
+      "translit": "tshakkel",
+      "ref": "Deut.32.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תְשַׁכְּלִי",
+      "translit": "tshakkli",
+      "ref": "Ezek.36.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְשִׁכְּלֻךְ",
+      "translit": "vshikklukh",
+      "ref": "Ezek.5.17",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְשִׁכְּלָה",
+      "translit": "vshikklah",
+      "ref": "Ezek.14.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְשִׁכַּלְתִּים",
+      "translit": "vshikkaltim",
+      "ref": "Hos.9.12",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְשַׁכְּלָֽם",
+      "translit": "lshakklam",
+      "ref": "Ezek.36.12",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַשְׁכִּיל",
+      "translit": "mashkil",
+      "ref": "Hos.9.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "make childless",
+  "hiphil": "make childless"
+ },
+ "root": "שכל¹",
+ "search_match": [
+  "7921",
+  "be bereaved",
+  "h7921",
+  "shakhol",
+  "שכל¹"
+ ],
+ "citation_translit": "shakhol"
+}

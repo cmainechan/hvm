@@ -1,0 +1,256 @@
+{
+ "glosses": [
+  "support"
+ ],
+ "strong": "H5564",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "סָמַךְ",
+      "translit": "samakh",
+      "ref": "Deut.34.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "סְמַכְתִּיו",
+      "translit": "smakhtiv",
+      "ref": "Gen.27.37",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "סָמְכָה",
+      "translit": "samkhah",
+      "ref": "Isa.59.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְסָמְכוּ",
+      "translit": "vsamkhu",
+      "ref": "Lev.24.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּסְמְכוּ",
+      "translit": "vayyismkhu",
+      "ref": "2Chr.29.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּסְמֹךְ",
+      "translit": "vayyismokh",
+      "ref": "Lev.8.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "סוֹמֵךְ",
+      "translit": "somekh",
+      "ref": "Isa.63.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "סָמוּךְ",
+      "translit": "samukh",
+      "ref": "Isa.26.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "סְמוּכִים",
+      "translit": "smukhim",
+      "ref": "Ps.111.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִסְמְכוּ",
+      "translit": "yismkhu",
+      "ref": "Num.8.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִסְמְכֵֽנִי",
+      "translit": "yismkheni",
+      "ref": "Ps.3.6",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִסְמְכֵֽנִי",
+      "translit": "tismkheni",
+      "ref": "Ps.51.14",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְסָמַךְ",
+      "translit": "vsamakh",
+      "ref": "Amos.5.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְסָמְכוּ",
+      "translit": "vsamkhu",
+      "ref": "Exod.29.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְסָמַכְתָּ",
+      "translit": "vsamakhta",
+      "ref": "Num.27.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "סָמְכֵנִי",
+      "translit": "samkheni",
+      "ref": "Ps.119.116",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִסְמָכוּ",
+      "translit": "nismakhu",
+      "ref": "Isa.48.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נִסְמַכְתִּי",
+      "translit": "nismakhti",
+      "ref": "Ps.71.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּסָּמְכוּ",
+      "translit": "vayyissamkhu",
+      "ref": "2Chr.32.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּסָּמֵךְ",
+      "translit": "vayyissamekh",
+      "ref": "Judg.16.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִסָּמֵךְ",
+      "translit": "yissamekh",
+      "ref": "2Kgs.18.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "סַמְּכוּנִי",
+      "translit": "sammkhuni",
+      "ref": "Song.2.5",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "support oneself",
+  "piel": "support"
+ },
+ "root": "סמך",
+ "search_match": [
+  "5564",
+  "h5564",
+  "lay hands/support",
+  "samakh",
+  "סמך"
+ ],
+ "citation_translit": "samakh"
+}

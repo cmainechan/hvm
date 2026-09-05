@@ -1,0 +1,77 @@
+{
+ "glosses": [
+  "draw off"
+ ],
+ "strong": "H8025",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "שְׁלֹף",
+      "translit": "shlof",
+      "ref": "1Chr.10.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "שֹׁלֵֽף",
+      "translit": "sholef",
+      "ref": "1Chr.21.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "שְׁלוּפָה",
+      "translit": "shlufah",
+      "ref": "1Chr.21.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּשְׁלֹף",
+      "translit": "vayyishlof",
+      "ref": "1Sam.17.51",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שָׁלַף",
+      "translit": "shalaf",
+      "ref": "Job.20.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "שלף",
+ "search_match": [
+  "8025",
+  "draw off",
+  "h8025",
+  "shalaf",
+  "שלף"
+ ],
+ "citation_translit": "shalaf"
+}

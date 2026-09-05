@@ -1,0 +1,617 @@
+{
+ "glosses": [
+  "stand"
+ ],
+ "strong": "H5975",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "עָמַדְתִּי",
+      "translit": "amadti",
+      "ref": "1Kgs.17.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "עָמְדוּ",
+      "translit": "amdu",
+      "ref": "1Sam.30.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "עָמַד",
+      "translit": "amad",
+      "ref": "2Chr.20.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "עָמְדָה",
+      "translit": "amdah",
+      "ref": "2Kgs.13.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "עָמַדְתָּ",
+      "translit": "amadta",
+      "ref": "Deut.4.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "עֲמַדְתֶּם",
+      "translit": "amadtem",
+      "ref": "Ezek.33.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּֽעַמְדוּ",
+      "translit": "vayya'amdu",
+      "ref": "1Chr.6.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַֽתַּעֲמֹד",
+      "translit": "vatta'amod",
+      "ref": "1Chr.20.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּעֲמֹד",
+      "translit": "vayya'amod",
+      "ref": "1Chr.21.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וַֽתַּעֲמֹדְנָה",
+      "translit": "vatta'amodnah",
+      "ref": "1Kgs.3.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶעֱמֹד",
+      "translit": "va'e'emod",
+      "ref": "2Sam.1.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַתַּֽעַמְדוּן",
+      "translit": "vatta'amdun",
+      "ref": "Deut.4.11",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "עֹמְדִים",
+      "translit": "omdim",
+      "ref": "1Chr.6.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "עֹמֵד",
+      "translit": "omed",
+      "ref": "1Chr.6.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "עֹמֶדֶת",
+      "translit": "omedet",
+      "ref": "Eccl.1.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "עֹמְדוֹת",
+      "translit": "omdot",
+      "ref": "Jer.44.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַעֲמֹד",
+      "translit": "ya'amod",
+      "ref": "2Kgs.6.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נַעֲמֹד",
+      "translit": "na'amod",
+      "ref": "2Kgs.10.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַעַמְדוּ",
+      "translit": "ya'amdu",
+      "ref": "Dan.1.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "יַעֲמֹדְנָה",
+      "translit": "ya'amodnah",
+      "ref": "Dan.8.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תַעֲמֹד",
+      "translit": "ta'amod",
+      "ref": "Dan.11.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַעֲמֹד",
+      "translit": "ta'amod",
+      "ref": "Dan.12.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּעֲמֹֽדוּ",
+      "translit": "ta'amodu",
+      "ref": "Josh.3.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְעָֽמְדָה",
+      "translit": "v'amdah",
+      "ref": "1Kgs.1.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְעָמַדְתָּ",
+      "translit": "v'amadta",
+      "ref": "1Kgs.19.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְעָמַדְנוּ",
+      "translit": "v'amadnu",
+      "ref": "1Sam.14.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְעָמַדְתִּי",
+      "translit": "v'amadti",
+      "ref": "1Sam.19.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְעָמַד",
+      "translit": "v'amad",
+      "ref": "2Kgs.5.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְעָמְדוּ",
+      "translit": "v'amdu",
+      "ref": "Deut.19.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַעֲמַדְתֶּם",
+      "translit": "va'amadtem",
+      "ref": "Jer.7.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "עֲמֹד",
+      "translit": "amod",
+      "ref": "1Sam.9.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "עִמְדוּ",
+      "translit": "imdu",
+      "ref": "2Chr.20.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "עִמְדִי",
+      "translit": "imdi",
+      "ref": "Isa.47.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "עֲמֹד",
+      "translit": "amod",
+      "ref": "1Chr.23.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְעָמֹד",
+      "translit": "v'amod",
+      "ref": "Esth.9.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נַֽעַמְדָה",
+      "translit": "na'amdah",
+      "ref": "2Chr.20.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶעֱמֹדָה",
+      "translit": "e'emodah",
+      "ref": "Hab.2.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַעֲמָד",
+      "translit": "ya'amad",
+      "ref": "1Sam.16.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּעֲמֹד",
+      "translit": "ta'amod",
+      "ref": "1Sam.20.38",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַֽעֲמְדוּ",
+      "translit": "ya'amdu",
+      "ref": "Ezra.10.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּעֲמֹדוּ",
+      "translit": "ta'amodu",
+      "ref": "Jer.4.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֶעֱמִיד",
+      "translit": "he'emid",
+      "ref": "1Chr.6.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הֶֽעֱמַדְתִּי",
+      "translit": "he'emadti",
+      "ref": "2Chr.33.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הֶעֱמַדְתָּ",
+      "translit": "he'emadta",
+      "ref": "Neh.6.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְהֶעֱמַדְנוּ",
+      "translit": "vhe'emadnu",
+      "ref": "Neh.10.33",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּעֲמִידוּ",
+      "translit": "vayya'amidu",
+      "ref": "1Chr.15.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּעֲמֵד",
+      "translit": "vayya'amed",
+      "ref": "1Chr.16.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתַּעֲמִדֵנִי",
+      "translit": "vatta'amideni",
+      "ref": "Ezek.2.2",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וַנַּעֲמִיד",
+      "translit": "vanna'amid",
+      "ref": "Neh.4.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָֽאַעֲמִיד",
+      "translit": "va'a'amid",
+      "ref": "Neh.4.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַעֲמִיד",
+      "translit": "ma'amid",
+      "ref": "2Chr.18.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַעֲמִיד",
+      "translit": "ya'amid",
+      "ref": "2Sam.22.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהַֽעֲמַדְתִּיהוּ",
+      "translit": "vha'amadtihu",
+      "ref": "1Chr.17.14",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהֶעֱמִיד",
+      "translit": "vhe'emid",
+      "ref": "Dan.11.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְֽהַעֲמַדְתָּ",
+      "translit": "vha'amadta",
+      "ref": "Num.3.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַעֲמֵד",
+      "translit": "ha'amed",
+      "ref": "Ezek.24.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַֽעֲמִיד",
+      "translit": "lha'amid",
+      "ref": "1Chr.15.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְהַעֲמֵיד",
+      "translit": "vha'amed",
+      "ref": "Neh.7.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מָעֳמָד",
+      "translit": "ma'omad",
+      "ref": "1Kgs.22.35",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָֽעֳמַד",
+      "translit": "ya'omad",
+      "ref": "Lev.16.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "set up",
+  "hophal": "be propped up; be stationed"
+ },
+ "root": "עמד",
+ "search_match": [
+  "5975",
+  "amad",
+  "h5975",
+  "set up",
+  "stand",
+  "עמד"
+ ],
+ "citation_translit": "amad"
+}

@@ -1,0 +1,237 @@
+{
+ "glosses": [
+  "redeem"
+ ],
+ "strong": "H6299",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "פָּדִיתָ",
+      "translit": "padita",
+      "ref": "1Chr.17.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "פָּדָה",
+      "translit": "padah",
+      "ref": "1Kgs.1.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "פְּדִיתִיךָ",
+      "translit": "pditikha",
+      "ref": "Jer.15.21",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּפְדּוּ",
+      "translit": "vayyifdu",
+      "ref": "1Sam.14.45",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַֽיִּפְדְּךָ",
+      "translit": "vayyifdkha",
+      "ref": "Deut.7.8",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "פּוֹדֶה",
+      "translit": "podeh",
+      "ref": "Ps.34.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּפְדֶּה",
+      "translit": "tifdeh",
+      "ref": "Exod.13.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶפְדֶּֽה",
+      "translit": "efdeh",
+      "ref": "Exod.13.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּפְדּֽוּנִי",
+      "translit": "tifduni",
+      "ref": "Job.6.23",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִפְדֶּה",
+      "translit": "yifdeh",
+      "ref": "Ps.49.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּפָדָה",
+      "translit": "ufadah",
+      "ref": "Lev.27.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "פְּדֵה",
+      "translit": "pdeh",
+      "ref": "Ps.25.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִפְדּוֹת",
+      "translit": "lifdot",
+      "ref": "1Chr.17.21",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "פָּדֹה",
+      "translit": "padoh",
+      "ref": "Num.18.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נִפְדָּתָה",
+      "translit": "nifdatah",
+      "ref": "Lev.19.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּפָּדֶה",
+      "translit": "tippadeh",
+      "ref": "Isa.1.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִפָּדֶה",
+      "translit": "yippadeh",
+      "ref": "Lev.27.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהֶפְדָּהּ",
+      "translit": "vhefdahh",
+      "ref": "Exod.21.8",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְהָפְדֵּה",
+      "translit": "vhafdeh",
+      "ref": "Lev.19.20",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be redeemed",
+  "hiphil": "allow to be redeemed",
+  "hophal": "be redeemed"
+ },
+ "root": "פדה",
+ "search_match": [
+  "6299",
+  "h6299",
+  "padah",
+  "redeem (padah)",
+  "פדה"
+ ],
+ "citation_translit": "padah"
+}

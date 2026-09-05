@@ -1,0 +1,104 @@
+{
+ "glosses": [
+  "open (mouth)"
+ ],
+ "strong": "H6475",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "פָּצְתָה",
+      "translit": "patztah",
+      "ref": "Deut.11.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "פָּצִיתִי",
+      "translit": "patziti",
+      "ref": "Judg.11.35",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "פָּצִיתָה",
+      "translit": "patzitah",
+      "ref": "Judg.11.36",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "פָּצוּ",
+      "translit": "patzu",
+      "ref": "Lam.2.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּפֹצֶה",
+      "translit": "ufotzeh",
+      "ref": "Isa.10.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִפְצֶה",
+      "translit": "yiftzeh",
+      "ref": "Job.35.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וּפָצְתָה",
+      "translit": "ufatztah",
+      "ref": "Num.16.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "פְּצֵה",
+      "translit": "ptzeh",
+      "ref": "Ezek.2.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "פצה",
+ "search_match": [
+  "6475",
+  "h6475",
+  "open (mouth)",
+  "patzah",
+  "פצה"
+ ],
+ "citation_translit": "patzah"
+}

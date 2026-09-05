@@ -1,0 +1,492 @@
+{
+ "glosses": [
+  "bless"
+ ],
+ "strong": "H1288",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּבְרַךְ",
+      "translit": "vayyivrakh",
+      "ref": "2Chr.6.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "בָּרוּךְ",
+      "translit": "barukh",
+      "ref": "1Chr.16.36",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "בְּרוּכִים",
+      "translit": "brukhim",
+      "ref": "1Sam.23.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "בְּרוּכָה",
+      "translit": "brukhah",
+      "ref": "1Sam.25.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִבְרְכָה",
+      "translit": "nivrkhah",
+      "ref": "Ps.95.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנִבְרְכוּ",
+      "translit": "vnivrkhu",
+      "ref": "Gen.12.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנִבְרְכוּ",
+      "translit": "vnivrkhu",
+      "ref": "Gen.18.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "בֵּרַכְתָּ",
+      "translit": "berakhta",
+      "ref": "1Chr.17.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "בֵּרַךְ",
+      "translit": "berakh",
+      "ref": "1Chr.26.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "בֵּרֲכוּ",
+      "translit": "berakhu",
+      "ref": "2Chr.20.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "בֵּרַכְתִּי",
+      "translit": "berakhti",
+      "ref": "Gen.17.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "בֵּרַכְנוּ",
+      "translit": "berakhnu",
+      "ref": "Ps.118.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְבָרֶךְ",
+      "translit": "vayvarekh",
+      "ref": "1Chr.13.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיְבָרֲכוּ",
+      "translit": "vayvarakhu",
+      "ref": "1Chr.29.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֲבָרֵךְ",
+      "translit": "va'avarekh",
+      "ref": "Gen.24.48",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְבָרֵֽךְ",
+      "translit": "mvarekh",
+      "ref": "Isa.66.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּבָרֵךְ",
+      "translit": "tvarekh",
+      "ref": "1Chr.4.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְבָרֵךְ",
+      "translit": "yvarekh",
+      "ref": "1Sam.9.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲבָרֵךְ",
+      "translit": "avarekh",
+      "ref": "Gen.12.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּבָרֲכַנִּי",
+      "translit": "tvarakhanni",
+      "ref": "Gen.27.4",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְבָרֲכוּ",
+      "translit": "tvarakhu",
+      "ref": "Num.6.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְבָרֵכוּ",
+      "translit": "yvarekhu",
+      "ref": "Ps.62.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נְבָרֵךְ",
+      "translit": "nvarekh",
+      "ref": "Ps.115.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּבֵרַךְ",
+      "translit": "uverakh",
+      "ref": "1Sam.2.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּבֵֽרַכְתָּ",
+      "translit": "uverakhta",
+      "ref": "Deut.8.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּבֵֽרַכְתֶּם",
+      "translit": "uverakhtem",
+      "ref": "Exod.12.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וּבֵרַכְתִּי",
+      "translit": "uverakhti",
+      "ref": "Exod.20.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "בָּרֲכוּ",
+      "translit": "barakhu",
+      "ref": "1Chr.29.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "בָּרֵךְ",
+      "translit": "barekh",
+      "ref": "2Sam.7.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "בָּרֲכִי",
+      "translit": "barakhi",
+      "ref": "Ps.103.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְבָרֵךְ",
+      "translit": "lvarekh",
+      "ref": "1Chr.16.43",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בָרֵךְ",
+      "translit": "varekh",
+      "ref": "1Chr.4.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲבָרֲכָה",
+      "translit": "avarakhah",
+      "ref": "Gen.27.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְבָרֵךְ",
+      "translit": "yvarekh",
+      "ref": "Gen.28.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וִיבָֽרְכוּ",
+      "translit": "vivarkhu",
+      "ref": "Neh.9.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְבֹרָךְ",
+      "translit": "mvorakh",
+      "ref": "1Chr.17.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְבֹרַךְ",
+      "translit": "yvorakh",
+      "ref": "2Sam.7.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּבֹרַךְ",
+      "translit": "tvorakh",
+      "ref": "Judg.5.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּבְרֵךְ",
+      "translit": "vayyavrekh",
+      "ref": "Gen.24.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַמִּתְבָּרֵךְ",
+      "translit": "hammitbarekh",
+      "ref": "Isa.65.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְבָּרֵךְ",
+      "translit": "yitbarekh",
+      "ref": "Isa.65.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיִתְבָּרְכוּ",
+      "translit": "vyitbarkhu",
+      "ref": "Ps.72.17",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהִתְבָּרֵךְ",
+      "translit": "vhitbarekh",
+      "ref": "Deut.29.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִתְבָּרֲכוּ",
+      "translit": "vhitbarakhu",
+      "ref": "Gen.22.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "bless oneself",
+  "hitpael": "bless oneself",
+  "piel": "bless",
+  "pual": "be blessed",
+  "hiphil": "cause to kneel"
+ },
+ "root": "ברך",
+ "search_match": [
+  "1288",
+  "barakh",
+  "bless",
+  "h1288",
+  "ברך"
+ ],
+ "citation_translit": "barakh"
+}

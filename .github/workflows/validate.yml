@@ -1,0 +1,36 @@
+name: Validate data
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  fast-checks:
+    name: Schema, duplicates, homonym safety
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pytest
+      - name: Run fast tests (no corpus needed)
+        run: pytest tests/test_data.py -q -k "not TestAgainstCorpus"
+      - name: Build dist/ to confirm it doesn't error
+        run: python3 scripts/build.py
+
+  corpus-checks:
+    name: Cross-verify against the source corpus
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pytest
+      - name: Fetch pinned corpus
+        run: pipeline/fetch_corpus.sh
+      - name: Run corpus cross-verification tests
+        run: pytest tests/test_data.py::TestAgainstCorpus -q

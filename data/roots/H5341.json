@@ -1,0 +1,211 @@
+{
+ "glosses": [
+  "keep"
+ ],
+ "strong": "H5341",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָצְרוּ",
+      "translit": "natzru",
+      "ref": "Prov.22.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נָצָֽרְתִּי",
+      "translit": "natzarti",
+      "ref": "Ps.119.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נְצָרָתַם",
+      "translit": "ntzaratam",
+      "ref": "Ps.119.129",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נוֹצְרִים",
+      "translit": "notzrim",
+      "ref": "2Kgs.17.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֹצֵר",
+      "translit": "notzer",
+      "ref": "Exod.34.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְהַנָּצוּר",
+      "translit": "vhannatzur",
+      "ref": "Ezek.6.12",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "נְצוּרָֽה",
+      "translit": "ntzurah",
+      "ref": "Isa.1.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "וּנְצֻרוֹת",
+      "translit": "untzurot",
+      "ref": "Isa.48.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִצְּרֶנְהוּ",
+      "translit": "yitztzrenhu",
+      "ref": "Deut.32.10",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִנְצֹֽרוּ",
+      "translit": "yintzoru",
+      "ref": "Deut.33.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּצֹּר",
+      "translit": "titztzor",
+      "ref": "Isa.26.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֱצֹּר",
+      "translit": "etztzor",
+      "ref": "Isa.27.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּצֹּר",
+      "translit": "titztzor",
+      "ref": "Prov.2.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נְצֹר",
+      "translit": "ntzor",
+      "ref": "Prov.3.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִנְצֹר",
+      "translit": "lintzor",
+      "ref": "Prov.2.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "נָצוֹר",
+      "translit": "natzor",
+      "ref": "Nah.2.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶצֹּֽרָה",
+      "translit": "etztzorah",
+      "ref": "Ps.119.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִצֹּר",
+      "translit": "yitztzor",
+      "ref": "Prov.3.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תִּצֹּֽרְנָה",
+      "translit": "titztzornah",
+      "ref": "Prov.23.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "נצר",
+ "search_match": [
+  "5341",
+  "h5341",
+  "keep (natsar)",
+  "natzar",
+  "נצר"
+ ],
+ "citation_translit": "natzar"
+}

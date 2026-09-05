@@ -1,0 +1,246 @@
+{
+ "glosses": [
+  "divide"
+ ],
+ "strong": "H6504",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּפְרִדוּ",
+      "translit": "vayyafridu",
+      "ref": "2Kgs.2.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְּהַפְרִידוֹ",
+      "translit": "bhafrido",
+      "ref": "Deut.32.8",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִפְרִיד",
+      "translit": "hifrid",
+      "ref": "Gen.30.40",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַפְרִיד",
+      "translit": "mafrid",
+      "ref": "Prov.16.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַפְרִֽיד",
+      "translit": "yafrid",
+      "ref": "Prov.18.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִפְרְדוּ",
+      "translit": "nifrdu",
+      "ref": "2Sam.1.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִפָּרֵד",
+      "translit": "yippared",
+      "ref": "Gen.2.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִפָּרֵדוּ",
+      "translit": "yipparedu",
+      "ref": "Gen.25.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִפָּרֶד",
+      "translit": "hippared",
+      "ref": "Gen.13.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּפָּרְדוּ",
+      "translit": "vayyippardu",
+      "ref": "Gen.13.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִפָּֽרֶד",
+      "translit": "hippared",
+      "ref": "Gen.13.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִפְרָד",
+      "translit": "nifrad",
+      "ref": "Judg.4.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נִפְרָדִים",
+      "translit": "nifradim",
+      "ref": "Neh.4.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּמְפֹרָד",
+      "translit": "umforad",
+      "ref": "Esth.3.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "פְּרֻדוֹת",
+      "translit": "prudot",
+      "ref": "Ezek.1.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְפָרֵדוּ",
+      "translit": "yfaredu",
+      "ref": "Hos.4.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתְפָּרָֽדוּ",
+      "translit": "yitparadu",
+      "ref": "Job.4.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִתְפָּֽרְדוּ",
+      "translit": "vhitpardu",
+      "ref": "Ps.22.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be separated",
+  "hiphil": "separate"
+ },
+ "root": "פרד",
+ "search_match": [
+  "6504",
+  "divide",
+  "divide (parad)",
+  "h6504",
+  "parad",
+  "פרד"
+ ],
+ "citation_translit": "parad"
+}

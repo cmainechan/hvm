@@ -1,0 +1,421 @@
+{
+ "glosses": [
+  "throw"
+ ],
+ "strong": "H7993",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִשְׁלַכְתָּ",
+      "translit": "hishlakhta",
+      "ref": "1Kgs.14.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִשְׁלִיכוּ",
+      "translit": "hishlikhu",
+      "ref": "2Kgs.7.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִשְׁלִיךְ",
+      "translit": "hishlikh",
+      "ref": "2Kgs.13.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הִשְׁלִיכָה",
+      "translit": "hishlikhah",
+      "ref": "2Sam.11.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הִשְׁלַכְתִּי",
+      "translit": "hishlakhti",
+      "ref": "Ezek.28.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּשְׁלֵךְ",
+      "translit": "vayyashlekh",
+      "ref": "1Kgs.19.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּשְׁלִיכוּ",
+      "translit": "vayyashlikhu",
+      "ref": "2Chr.24.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָֽאַשְׁלִךְ",
+      "translit": "va'ashlikh",
+      "ref": "Deut.9.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַתַּשְׁלִיכִי",
+      "translit": "vattashlikhi",
+      "ref": "Ezek.23.35",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתַּשְׁלֵךְ",
+      "translit": "vattashlekh",
+      "ref": "Gen.21.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתַּשְׁלֵךְ",
+      "translit": "vattashlekh",
+      "ref": "Jonah.2.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַשְׁלִיךְ",
+      "translit": "mashlikh",
+      "ref": "Mic.2.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַשְׁלִיךְ",
+      "translit": "ashlikh",
+      "ref": "2Chr.7.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַשְׁלִיכוּ",
+      "translit": "yashlikhu",
+      "ref": "2Kgs.3.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְתַשְׁלֵךְ",
+      "translit": "vtashlekh",
+      "ref": "Dan.8.12",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּשְׁלִיכֻהוּ",
+      "translit": "tashlikhuhu",
+      "ref": "Exod.1.22",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַשְׁלִיךְ",
+      "translit": "yashlikh",
+      "ref": "Isa.2.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְתַשְׁלִיךְ",
+      "translit": "vtashlikh",
+      "ref": "Mic.7.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2fp",
+      "label": "2nd fem. pl.",
+      "heb": "וְהִשְׁלַכְתֶּנָה",
+      "translit": "vhishlakhtenah",
+      "ref": "Amos.4.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהִשְׁלַכְתָּ",
+      "translit": "vhishlakhta",
+      "ref": "Ezek.5.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִשְׁלִיכוּ",
+      "translit": "vhishlikhu",
+      "ref": "Ezek.43.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִשְׁלַכְתִּי",
+      "translit": "vhishlakhti",
+      "ref": "Jer.7.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהִשְׁלִיךְ",
+      "translit": "vhishlikh",
+      "ref": "Lev.1.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַשְׁלֵךְ",
+      "translit": "hashlekh",
+      "ref": "2Kgs.9.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הַשְׁלִיכוּ",
+      "translit": "hashlikhu",
+      "ref": "Ezek.18.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְֽהַשְׁלִיכִי",
+      "translit": "vhashlikhi",
+      "ref": "Jer.7.29",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַשְׁלִיךְ",
+      "translit": "lhashlikh",
+      "ref": "2Kgs.24.20",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְהַשְׁלֵךְ",
+      "translit": "vhashlekh",
+      "ref": "Jer.22.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְנַשְׁלִיכָה",
+      "translit": "vnashlikhah",
+      "ref": "Gen.37.20",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּשְׁלִיכֵנִי",
+      "translit": "tashlikheni",
+      "ref": "Ps.51.13",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהֻשְׁלַךְ",
+      "translit": "vhushlakh",
+      "ref": "Dan.8.11",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הֻשְׁלָכָה",
+      "translit": "hushlakhah",
+      "ref": "Ezek.19.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הָשְׁלַכְתָּ",
+      "translit": "hashlakhta",
+      "ref": "Isa.14.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הָשְׁלַכְתִּי",
+      "translit": "hashlakhti",
+      "ref": "Ps.22.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַֽתֻּשְׁלְכִי",
+      "translit": "vattushlkhi",
+      "ref": "Ezek.16.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מֻשְׁלֶכֶת",
+      "translit": "mushlekhet",
+      "ref": "1Kgs.13.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֻשְׁלָךְ",
+      "translit": "mushlakh",
+      "ref": "2Sam.20.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מֻשְׁלָכִים",
+      "translit": "mushlakhim",
+      "ref": "Jer.14.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֻשְׁלָכוּ",
+      "translit": "yushlakhu",
+      "ref": "Isa.34.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהֻשְׁלְכוּ",
+      "translit": "vhushlkhu",
+      "ref": "Jer.22.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "throw",
+  "hophal": "be thrown down"
+ },
+ "root": "שלך",
+ "search_match": [
+  "7993",
+  "h7993",
+  "shalakh",
+  "throw",
+  "שלך"
+ ],
+ "citation_translit": "shalakh"
+}

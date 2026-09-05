@@ -1,0 +1,449 @@
+{
+ "glosses": [
+  "shut"
+ ],
+ "strong": "H5462",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "סָגַר",
+      "translit": "sagar",
+      "ref": "1Kgs.11.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "סָֽגְרוּ",
+      "translit": "sagru",
+      "ref": "2Chr.29.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְסָגַרְתְּ",
+      "translit": "vsagart",
+      "ref": "2Kgs.4.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּסְגֹּר",
+      "translit": "vayyisgor",
+      "ref": "2Chr.28.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּסְגֹּר",
+      "translit": "vattisgor",
+      "ref": "2Kgs.4.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּסְגְּרוּ",
+      "translit": "vayyisgru",
+      "ref": "Judg.9.51",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "סֹגֵר",
+      "translit": "soger",
+      "ref": "Isa.22.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "סֹגֶרֶת",
+      "translit": "sogeret",
+      "ref": "Josh.6.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "סָגוּר",
+      "translit": "sagur",
+      "ref": "Ezek.44.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִסְגֹּר",
+      "translit": "yisgor",
+      "ref": "Job.12.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְסָגַר",
+      "translit": "vsagar",
+      "ref": "Ezek.46.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "סִגְרוּ",
+      "translit": "sigru",
+      "ref": "2Kgs.6.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּֽסְגֹר",
+      "translit": "vsgor",
+      "ref": "Isa.26.20",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִסְגּוֹר",
+      "translit": "lisgor",
+      "ref": "Josh.2.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְנִסְגְּרָה",
+      "translit": "vnisgrah",
+      "ref": "Neh.6.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיִסְגֹּר",
+      "translit": "vyisgor",
+      "ref": "Mal.1.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִסְגַּר",
+      "translit": "nisgar",
+      "ref": "1Sam.23.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּסָּגְרוּ",
+      "translit": "vayyissagru",
+      "ref": "Neh.13.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּסָּגֵר",
+      "translit": "vattissager",
+      "ref": "Num.12.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִסָּגֵר",
+      "translit": "yissager",
+      "ref": "Ezek.46.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִסָּגֵֽרוּ",
+      "translit": "yissageru",
+      "ref": "Isa.45.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּסָּגֵר",
+      "translit": "tissager",
+      "ref": "Num.12.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִסָּגֵר",
+      "translit": "hissager",
+      "ref": "Ezek.3.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "סִגַּר",
+      "translit": "siggar",
+      "ref": "1Sam.24.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְסַגֶּרְךָ",
+      "translit": "ysaggerkha",
+      "ref": "1Sam.17.46",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "סֻגַּר",
+      "translit": "suggar",
+      "ref": "Isa.24.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "סֻגְּרוּ",
+      "translit": "suggru",
+      "ref": "Jer.13.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "וּמְסֻגֶּרֶת",
+      "translit": "umsuggeret",
+      "ref": "Josh.6.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְסֻגְּרוּ",
+      "translit": "vsuggru",
+      "ref": "Eccl.12.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִסְגִּיר",
+      "translit": "hisgir",
+      "ref": "Deut.32.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִסְגַּרְתַּנִי",
+      "translit": "hisgartani",
+      "ref": "Ps.31.9",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּסְגֵּר",
+      "translit": "vayyasger",
+      "ref": "Ps.78.48",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַסְגִּֽירוּ",
+      "translit": "yasgiru",
+      "ref": "1Sam.23.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַסְגִּיר",
+      "translit": "tasgir",
+      "ref": "1Sam.30.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיַסְגִּיר",
+      "translit": "vyasgir",
+      "ref": "Job.11.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִסְגַּרְתִּי",
+      "translit": "vhisgarti",
+      "ref": "Amos.6.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהִסְגִּיר",
+      "translit": "vhisgir",
+      "ref": "Lev.13.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַסְגִּיר",
+      "translit": "lhasgir",
+      "ref": "1Sam.23.20",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּסְגֵּר",
+      "translit": "tasger",
+      "ref": "Obad.1.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "hand over",
+  "pual": "be shut up",
+  "hiphil": "deliver up",
+  "niphal": "be shut in"
+ },
+ "root": "סגר",
+ "search_match": [
+  "5462",
+  "h5462",
+  "sagar",
+  "shut",
+  "סגר"
+ ],
+ "citation_translit": "sagar"
+}

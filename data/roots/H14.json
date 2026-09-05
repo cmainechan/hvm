@@ -1,0 +1,129 @@
+{
+ "glosses": [
+  "be willing"
+ ],
+ "strong": "H14",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "אָבָה",
+      "translit": "avah",
+      "ref": "1Chr.10.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "אָבוּ",
+      "translit": "avu",
+      "ref": "1Sam.15.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָבִיתִי",
+      "translit": "aviti",
+      "ref": "1Sam.26.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "אֲבִיתֶֽם",
+      "translit": "avitem",
+      "ref": "Deut.1.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "אֹבִים",
+      "translit": "ovim",
+      "ref": "Ezek.3.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֹאבֶֽה",
+      "translit": "to'veh",
+      "ref": "1Kgs.20.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֹאבֶה",
+      "translit": "yo'veh",
+      "ref": "Deut.29.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֹאבוּ",
+      "translit": "yo'vu",
+      "ref": "Ezek.3.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֹאבֶה",
+      "translit": "to'veh",
+      "ref": "Gen.24.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תֹּאבוּ",
+      "translit": "to'vu",
+      "ref": "Isa.1.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֹּבֵֽא",
+      "translit": "tove",
+      "ref": "Prov.1.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "אבה",
+ "search_match": [
+  "14",
+  "avah",
+  "be willing",
+  "h14",
+  "אבה"
+ ],
+ "citation_translit": "avah"
+}

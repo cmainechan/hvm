@@ -1,0 +1,115 @@
+{
+ "glosses": [
+  "rise"
+ ],
+ "strong": "H2224",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "זָרְחָה",
+      "translit": "zarechah",
+      "ref": "2Chr.26.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "זָרָֽח",
+      "translit": "zarach",
+      "ref": "Isa.60.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִזְרַח",
+      "translit": "yizrach",
+      "ref": "2Sam.23.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּזְרַח",
+      "translit": "tizrach",
+      "ref": "Ps.104.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְזָרַח",
+      "translit": "vezarach",
+      "ref": "Deut.33.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְזָרְחָה",
+      "translit": "vezarechah",
+      "ref": "Mal.3.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "זוֹרֵחַֽ",
+      "translit": "zoreach",
+      "ref": "Eccl.1.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּֽזְרַֽח",
+      "translit": "vayyizrach",
+      "ref": "Gen.32.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כִּזְרֹחַ",
+      "translit": "kizroach",
+      "ref": "Jonah.4.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "זרח",
+ "search_match": [
+  "2224",
+  "h2224",
+  "rise",
+  "zarach",
+  "זרח"
+ ],
+ "citation_translit": "zarach"
+}

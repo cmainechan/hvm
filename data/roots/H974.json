@@ -1,0 +1,214 @@
+{
+ "glosses": [
+  "test"
+ ],
+ "strong": "H974",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "בְּחָנַנִי",
+      "translit": "bchanani",
+      "ref": "Job.23.10",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "בָּחֲנוּ",
+      "translit": "bachanu",
+      "ref": "Mal.3.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "בָּחַנְתָּ",
+      "translit": "bachanta",
+      "ref": "Ps.17.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "בֹּחֵן",
+      "translit": "bochen",
+      "ref": "1Chr.29.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּבְחָנֶֽנּוּ",
+      "translit": "tivchanennu",
+      "ref": "Job.7.18",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּבְחָן",
+      "translit": "tivchan",
+      "ref": "Job.12.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִבְחֲנוּ",
+      "translit": "yivchanu",
+      "ref": "Ps.11.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִבְחָן",
+      "translit": "yivchan",
+      "ref": "Ps.11.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶבְחָֽנְךָ",
+      "translit": "evchankha",
+      "ref": "Ps.81.8",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּבָחַנְתָּ",
+      "translit": "uvachanta",
+      "ref": "Jer.6.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וּבְחַנְתִּים",
+      "translit": "uvchantim",
+      "ref": "Jer.9.6",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּבְחָנוּנִי",
+      "translit": "uvchanuni",
+      "ref": "Mal.3.10",
+      "has_suffix": true,
+      "has_prefix": true
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "בְּחָנֵנִי",
+      "translit": "bchaneni",
+      "ref": "Ps.26.2",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כִּבְחֹן",
+      "translit": "kivchon",
+      "ref": "Zech.13.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּבָּחֵנוּ",
+      "translit": "tibbachenu",
+      "ref": "Gen.42.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיִבָּֽחֲנוּ",
+      "translit": "vyibbachanu",
+      "ref": "Gen.42.16",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִבָּחֵן",
+      "translit": "yibbachen",
+      "ref": "Job.34.36",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "בֹחַן",
+      "translit": "vochan",
+      "ref": "Ezek.21.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be tested",
+  "pual": "be tested"
+ },
+ "root": "בחן",
+ "search_match": [
+  "974",
+  "bachan",
+  "h974",
+  "test",
+  "בחן"
+ ],
+ "citation_translit": "bachan"
+}

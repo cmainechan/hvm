@@ -1,0 +1,102 @@
+{
+ "glosses": [
+  "be thirsty"
+ ],
+ "strong": "H6770",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּצְמָא",
+      "translit": "vayyitzma",
+      "ref": "Exod.17.3",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּצְמָֽאוּ",
+      "translit": "vayyitzma'u",
+      "ref": "Job.24.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "צָמְאוּ",
+      "translit": "tzam'u",
+      "ref": "Isa.48.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "צָמֵאתִי",
+      "translit": "tzame'ti",
+      "ref": "Judg.4.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "צָמְאָה",
+      "translit": "tzam'ah",
+      "ref": "Ps.42.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִצְמָאוּ",
+      "translit": "yitzma'u",
+      "ref": "Isa.49.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּצְמָאוּ",
+      "translit": "titzma'u",
+      "ref": "Isa.65.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְצָמִת",
+      "translit": "vtzamit",
+      "ref": "Ruth.2.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "צמא",
+ "search_match": [
+  "6770",
+  "be thirsty",
+  "h6770",
+  "tzame",
+  "צמא"
+ ],
+ "citation_translit": "tzame"
+}

@@ -1,0 +1,107 @@
+{
+ "glosses": [
+  "anoint"
+ ],
+ "strong": "H5480",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיְסֻכוּם",
+      "translit": "vaysukhum",
+      "ref": "2Chr.28.15",
+      "has_suffix": true,
+      "has_prefix": true
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּסֶךְ",
+      "translit": "vayyasekh",
+      "ref": "2Sam.12.20",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֲסֻכֵךְ",
+      "translit": "va'asukhekh",
+      "ref": "Ezek.16.9",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תָּסוּכִי",
+      "translit": "tasukhi",
+      "ref": "2Sam.14.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְסוֹךְ",
+      "translit": "vsokh",
+      "ref": "Dan.10.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "סָכְתִּי",
+      "translit": "sakhti",
+      "ref": "Dan.10.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָסוּךְ",
+      "translit": "tasukh",
+      "ref": "Deut.28.40",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וָסַכְתְּ",
+      "translit": "vasakht",
+      "ref": "Ruth.3.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "סוך",
+ "search_match": [
+  "5480",
+  "anoint",
+  "anoint (sukh)",
+  "h5480",
+  "sukh",
+  "סוך"
+ ],
+ "citation_translit": "sukh"
+}

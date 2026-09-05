@@ -1,0 +1,719 @@
+{
+ "glosses": [
+  "die"
+ ],
+ "strong": "H4191",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "מֵת",
+      "translit": "met",
+      "ref": "1Chr.10.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "מֵתוּ",
+      "translit": "metu",
+      "ref": "1Chr.10.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "מָֽתְנוּ",
+      "translit": "matnu",
+      "ref": "2Kgs.7.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "מֵתָה",
+      "translit": "metah",
+      "ref": "Exod.7.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָמַֽתִּי",
+      "translit": "vamatti",
+      "ref": "Gen.19.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּמָת",
+      "translit": "vayyamat",
+      "ref": "1Chr.1.44",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתָּמָת",
+      "translit": "vattamat",
+      "ref": "1Chr.2.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּמֻתוּ",
+      "translit": "vayyamutu",
+      "ref": "2Sam.1.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֵת",
+      "translit": "met",
+      "ref": "1Kgs.3.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מֵתִֽים",
+      "translit": "metim",
+      "ref": "2Kgs.19.35",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מֵתָה",
+      "translit": "metah",
+      "ref": "Gen.30.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָמוּת",
+      "translit": "amut",
+      "ref": "1Kgs.2.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּמוּת",
+      "translit": "tamut",
+      "ref": "1Kgs.2.37",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָמֻתוּ",
+      "translit": "yamutu",
+      "ref": "1Sam.2.33",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָמוּת",
+      "translit": "yamut",
+      "ref": "1Sam.14.39",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תָמֻתוּ",
+      "translit": "tamutu",
+      "ref": "2Kgs.18.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נָמוּת",
+      "translit": "namut",
+      "ref": "2Sam.14.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָמוּת",
+      "translit": "tamut",
+      "ref": "Exod.7.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תְמוּתֶנָה",
+      "translit": "tmutenah",
+      "ref": "Ezek.13.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תָּמוּתִי",
+      "translit": "tamuti",
+      "ref": "Ruth.1.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּמֵת",
+      "translit": "umet",
+      "ref": "1Kgs.1.52",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וָמָֽתְנוּ",
+      "translit": "vamatnu",
+      "ref": "1Kgs.17.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וָמֵֽתוּ",
+      "translit": "vametu",
+      "ref": "Amos.6.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וָמֵתָה",
+      "translit": "vametah",
+      "ref": "Deut.22.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וָמַתָּה",
+      "translit": "vamattah",
+      "ref": "Ezek.28.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּמֻת",
+      "translit": "umut",
+      "ref": "Deut.32.50",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לָמוּת",
+      "translit": "lamut",
+      "ref": "1Kgs.2.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מוֹת",
+      "translit": "mot",
+      "ref": "1Kgs.2.37",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נָמוּת",
+      "translit": "namut",
+      "ref": "1Sam.12.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָמוּתָה",
+      "translit": "amutah",
+      "ref": "Gen.46.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָמֹת",
+      "translit": "yamot",
+      "ref": "1Kgs.21.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָּמֹת",
+      "translit": "tamot",
+      "ref": "Job.36.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֵמִית",
+      "translit": "hemit",
+      "ref": "1Chr.19.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֵמִיתוּ",
+      "translit": "hemitu",
+      "ref": "1Sam.30.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הֱמִיתָֽתְהוּ",
+      "translit": "hemitathu",
+      "ref": "2Chr.22.11",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהֵמַתָּה",
+      "translit": "vhemattah",
+      "ref": "Num.14.15",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הֲמִתֶּם",
+      "translit": "hamittem",
+      "ref": "Num.17.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּמֶת",
+      "translit": "vayyamet",
+      "ref": "1Chr.2.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּמִיתוּ",
+      "translit": "vayyamitu",
+      "ref": "2Chr.22.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֵמִית",
+      "translit": "memit",
+      "ref": "1Sam.2.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְמִיתִים",
+      "translit": "mmitim",
+      "ref": "2Kgs.17.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָמִית",
+      "translit": "yamit",
+      "ref": "1Kgs.1.51",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָמִית",
+      "translit": "amit",
+      "ref": "1Kgs.2.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְמִיתֻהוּ",
+      "translit": "tmituhu",
+      "ref": "1Kgs.3.27",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נְמִיתֶךָ",
+      "translit": "nmitekha",
+      "ref": "1Sam.11.12",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּמִית",
+      "translit": "tamit",
+      "ref": "1Sam.30.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְמִיתֻנוּ",
+      "translit": "ymitunu",
+      "ref": "2Kgs.7.4",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָּמִית",
+      "translit": "tamit",
+      "ref": "Job.5.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהֵמַתָּה",
+      "translit": "vhemattah",
+      "ref": "1Sam.15.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהֵמַתִּי",
+      "translit": "vhematti",
+      "ref": "1Sam.17.35",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַהֲמִתֶּם",
+      "translit": "vahamittem",
+      "ref": "2Sam.13.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהֵמִית",
+      "translit": "vhemit",
+      "ref": "2Sam.14.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fp",
+      "label": "2nd fem. pl.",
+      "heb": "וַהֲמִתֶּן",
+      "translit": "vahamitten",
+      "ref": "Exod.1.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הֲמִיתֵנִי",
+      "translit": "hamiteni",
+      "ref": "1Sam.20.8",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהָמִיתוּ",
+      "translit": "vhamitu",
+      "ref": "1Sam.22.17",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הָמִית",
+      "translit": "hamit",
+      "ref": "1Kgs.11.40",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הָמֵת",
+      "translit": "hamet",
+      "ref": "1Kgs.3.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וּנְמִיתֵם",
+      "translit": "unmitem",
+      "ref": "Judg.20.13",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּמִיתֻהוּ",
+      "translit": "tmituhu",
+      "ref": "1Kgs.3.26",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּמִתֵנוּ",
+      "translit": "tmitenu",
+      "ref": "Jer.41.8",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הוּמָֽת",
+      "translit": "humat",
+      "ref": "2Kgs.11.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֻמְתוּ",
+      "translit": "humtu",
+      "ref": "2Sam.21.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתּוּמַת",
+      "translit": "vattumat",
+      "ref": "2Kgs.11.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מוּמָֽת",
+      "translit": "mumat",
+      "ref": "1Sam.19.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַמּוּמָתִים",
+      "translit": "hammumatim",
+      "ref": "2Chr.22.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יוּמָֽת",
+      "translit": "yumat",
+      "ref": "1Kgs.2.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יוּמְתוּ",
+      "translit": "yumtu",
+      "ref": "2Kgs.14.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהוּמָת",
+      "translit": "vhumat",
+      "ref": "Deut.21.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תּוּמַת",
+      "translit": "tumat",
+      "ref": "2Kgs.11.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יוּמַת",
+      "translit": "yumat",
+      "ref": "Jer.38.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "kill",
+  "hophal": "be put to death"
+ },
+ "root": "מות",
+ "search_match": [
+  "4191",
+  "die",
+  "h4191",
+  "kill",
+  "mut",
+  "מות"
+ ],
+ "citation_translit": "mut"
+}

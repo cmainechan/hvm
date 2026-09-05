@@ -1,0 +1,151 @@
+{
+ "glosses": [
+  "take refuge"
+ ],
+ "strong": "H2620",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶֽחֱסֶה",
+      "translit": "echeseh",
+      "ref": "2Sam.22.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֶחֱסוּ",
+      "translit": "yechesu",
+      "ref": "Isa.14.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶחֱסֶה",
+      "translit": "yecheseh",
+      "ref": "Ps.34.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֶּחְסֶה",
+      "translit": "techseh",
+      "ref": "Ps.91.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "חוֹסִים",
+      "translit": "chosim",
+      "ref": "2Sam.22.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְהַחוֹסֶה",
+      "translit": "vhachoseh",
+      "ref": "Isa.57.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חָסָיוּ",
+      "translit": "chasayu",
+      "ref": "Deut.32.37",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "חָסִיתִי",
+      "translit": "chasiti",
+      "ref": "Ps.7.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "חָסָיָה",
+      "translit": "chasayah",
+      "ref": "Ps.57.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְחָסָה",
+      "translit": "vchasah",
+      "ref": "Ps.64.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַחֲסוֹת",
+      "translit": "lachasot",
+      "ref": "Isa.30.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "חֲסוּ",
+      "translit": "chasu",
+      "ref": "Judg.9.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְחָסוּ",
+      "translit": "vchasu",
+      "ref": "Zeph.3.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "חסה",
+ "search_match": [
+  "2620",
+  "chasah",
+  "h2620",
+  "take refuge",
+  "חסה"
+ ],
+ "citation_translit": "chasah"
+}

@@ -1,0 +1,613 @@
+{
+ "glosses": [
+  "be holy"
+ ],
+ "strong": "H6942",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "קְדַשְׁתִּיךָ",
+      "translit": "qdashtikha",
+      "ref": "Isa.65.5",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "קָדֵֽשׁוּ",
+      "translit": "qadeshu",
+      "ref": "Num.17.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּקְדָּשׁוּ",
+      "translit": "vayyiqdashu",
+      "ref": "Num.17.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִקְדָּֽשׁ",
+      "translit": "yiqdash",
+      "ref": "1Sam.21.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִּקְדַּשׁ",
+      "translit": "tiqdash",
+      "ref": "Deut.22.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְקָדַשׁ",
+      "translit": "vqadash",
+      "ref": "Exod.29.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּקָּדֵשׁ",
+      "translit": "vayyiqqadesh",
+      "ref": "Num.20.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִקְדָּשׁ",
+      "translit": "niqdash",
+      "ref": "Isa.5.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶקָּדֵשׁ",
+      "translit": "eqqadesh",
+      "ref": "Lev.10.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִקְדַּשׁ",
+      "translit": "vniqdash",
+      "ref": "Exod.29.43",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְנִקְדַּשְׁתִּי",
+      "translit": "vniqdashti",
+      "ref": "Ezek.20.41",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְּהִקָּדְשִׁי",
+      "translit": "bhiqqadshi",
+      "ref": "Ezek.36.23",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "קִדַּשׁ",
+      "translit": "qiddash",
+      "ref": "1Kgs.8.64",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "קִדְּשׁוּ",
+      "translit": "qiddshu",
+      "ref": "1Sam.7.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "קִדַּשְׁתֶּם",
+      "translit": "qiddashtem",
+      "ref": "Deut.32.51",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְקַדֵּשׁ",
+      "translit": "vayqaddesh",
+      "ref": "1Sam.16.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיְקַדְּשׁוּ",
+      "translit": "vayqaddshu",
+      "ref": "2Chr.29.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְקַדֵּשׁ",
+      "translit": "mqaddesh",
+      "ref": "Ezek.37.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲקַדֵּשׁ",
+      "translit": "aqaddesh",
+      "ref": "Exod.29.44",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְקַדְּשׁוּ",
+      "translit": "yqaddshu",
+      "ref": "Ezek.44.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְקִדַּשְׁתָּ",
+      "translit": "vqiddashta",
+      "ref": "Exod.19.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְקִדַּשְׁתִּי",
+      "translit": "vqiddashti",
+      "ref": "Exod.29.44",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְקִדַּשְׁתֶּם",
+      "translit": "vqiddashtem",
+      "ref": "Jer.17.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְקִדַּשׁ",
+      "translit": "vqiddash",
+      "ref": "Lev.16.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְקִדְּשׁוּ",
+      "translit": "vqiddshu",
+      "ref": "Mic.3.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "קַדְּשׁוּ",
+      "translit": "qaddshu",
+      "ref": "2Chr.29.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "קַדֶּשׁ",
+      "translit": "qaddesh",
+      "ref": "Exod.13.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְקַדֵּשׁ",
+      "translit": "lqaddesh",
+      "ref": "2Chr.29.17",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַמְקֻדָּשִׁים",
+      "translit": "hamquddashim",
+      "ref": "2Chr.26.18",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַֽמְקֻדָּשׁ",
+      "translit": "hamquddash",
+      "ref": "Ezek.48.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִקְדִּישׁ",
+      "translit": "hiqdish",
+      "ref": "1Chr.18.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִקְדִּישׁוּ",
+      "translit": "hiqdishu",
+      "ref": "1Chr.26.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הִקְדַּשְׁתִּי",
+      "translit": "hiqdashti",
+      "ref": "1Kgs.9.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְהִקְדָּשְׁנוּ",
+      "translit": "vhiqdashnu",
+      "ref": "2Chr.29.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּקְדִּשׁוּ",
+      "translit": "vayyaqdishu",
+      "ref": "Josh.20.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַמַּקְדִּישׁ",
+      "translit": "hammaqdish",
+      "ref": "1Chr.26.28",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַקְדִּשִׁים",
+      "translit": "maqdishim",
+      "ref": "Lev.22.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּקְדִּישׁ",
+      "translit": "taqdish",
+      "ref": "Deut.15.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַקְדִּישׁוּ",
+      "translit": "yaqdishu",
+      "ref": "Exod.28.38",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַקְדִּישׁוּ",
+      "translit": "taqdishu",
+      "ref": "Isa.8.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַקְדִּישׁ",
+      "translit": "yaqdish",
+      "ref": "Lev.27.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִקְדַּשְׁתִּי",
+      "translit": "vhiqdashti",
+      "ref": "2Chr.7.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִקְדִּישׁוּ",
+      "translit": "vhiqdishu",
+      "ref": "Isa.29.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהַקְדִּשֵׁם",
+      "translit": "vhaqdishem",
+      "ref": "Jer.12.3",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַקְדִּישׁ",
+      "translit": "lhaqdish",
+      "ref": "1Chr.23.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַקְדֵּשׁ",
+      "translit": "haqdesh",
+      "ref": "Judg.17.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִתְקַדָּשׁוּ",
+      "translit": "hitqaddashu",
+      "ref": "2Chr.5.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּֽתְקַדְּשׁוּ",
+      "translit": "vayyitqaddshu",
+      "ref": "1Chr.15.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מִתְקַדֶּשֶׁת",
+      "translit": "mitqaddeshet",
+      "ref": "2Sam.11.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַמִּתְקַדְּשִׁים",
+      "translit": "hammitqaddshim",
+      "ref": "Isa.66.17",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתְקַדְּשׁוּ",
+      "translit": "yitqaddshu",
+      "ref": "2Chr.29.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִתְקַדִּשְׁתִּי",
+      "translit": "vhitqaddishti",
+      "ref": "Ezek.38.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהִתְקַדִּשְׁתֶּם",
+      "translit": "vhitqaddishtem",
+      "ref": "Lev.11.44",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הִֽתְקַדְּשׁוּ",
+      "translit": "hitqaddshu",
+      "ref": "1Chr.15.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִתְקַדֶּשׁ",
+      "translit": "hitqaddesh",
+      "ref": "2Chr.29.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "show oneself holy",
+  "hitpael": "consecrate oneself",
+  "piel": "consecrate",
+  "pual": "be consecrated",
+  "hiphil": "consecrate"
+ },
+ "root": "קדש",
+ "search_match": [
+  "6942",
+  "consecrate",
+  "h6942",
+  "qadash",
+  "קדש"
+ ],
+ "citation_translit": "qadash"
+}

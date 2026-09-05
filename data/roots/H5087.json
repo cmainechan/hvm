@@ -1,0 +1,180 @@
+{
+ "glosses": [
+  "vow"
+ ],
+ "strong": "H5087",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נָדַר",
+      "translit": "nadar",
+      "ref": "2Sam.15.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נָדָרָה",
+      "translit": "nadarah",
+      "ref": "Num.30.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נָדַרְתִּי",
+      "translit": "nadarti",
+      "ref": "2Sam.15.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נָדַרְתָּ",
+      "translit": "nadarta",
+      "ref": "Deut.23.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נָדַרְנוּ",
+      "translit": "nadarnu",
+      "ref": "Jer.44.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּדַּר",
+      "translit": "vayyidar",
+      "ref": "Gen.28.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּדֹּר",
+      "translit": "vattidor",
+      "ref": "1Sam.1.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּדְּרוּ",
+      "translit": "vayyidru",
+      "ref": "Jonah.1.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנָדְרוּ",
+      "translit": "venadru",
+      "ref": "Isa.19.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִדֹּר",
+      "translit": "yidor",
+      "ref": "Num.30.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִדֹּר",
+      "translit": "tidor",
+      "ref": "Num.30.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּדֹּר",
+      "translit": "tidor",
+      "ref": "Deut.12.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּדְּרוּ",
+      "translit": "tidru",
+      "ref": "Deut.12.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "נִֽדֲרוּ",
+      "translit": "nidaru",
+      "ref": "Ps.76.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַנֹּדֵר",
+      "translit": "hanoder",
+      "ref": "Lev.27.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִנְדֹּר",
+      "translit": "lindor",
+      "ref": "Deut.23.23",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "נדר",
+ "search_match": [
+  "5087",
+  "h5087",
+  "nadar",
+  "vow",
+  "נדר"
+ ],
+ "citation_translit": "nadar"
+}

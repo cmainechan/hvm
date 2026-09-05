@@ -1,0 +1,428 @@
+{
+ "glosses": [
+  "touch"
+ ],
+ "strong": "H5060",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נָגְעָה",
+      "translit": "nag'ah",
+      "ref": "1Sam.6.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נָגַע",
+      "translit": "naga",
+      "ref": "1Sam.10.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נְגַֽעֲנוּךָ",
+      "translit": "nga'anukha",
+      "ref": "Gen.26.29",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָגָעוּ",
+      "translit": "naga'u",
+      "ref": "Hos.4.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּגַּע",
+      "translit": "vattigga",
+      "ref": "1Kgs.6.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּגַּע",
+      "translit": "vayyigga",
+      "ref": "1Kgs.19.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "נֹגַעַת",
+      "translit": "noga'at",
+      "ref": "1Kgs.6.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "נֹגְעֹת",
+      "translit": "nog'ot",
+      "ref": "1Kgs.6.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֹגֵעַ",
+      "translit": "noge'a",
+      "ref": "1Kgs.19.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַנֹּֽגְעִים",
+      "translit": "hannog'im",
+      "ref": "Jer.12.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נָגוּעַ",
+      "translit": "nagu'a",
+      "ref": "Isa.53.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִגַּע",
+      "translit": "yigga",
+      "ref": "2Sam.5.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִגָּֽעוּ",
+      "translit": "tigga'u",
+      "ref": "Deut.14.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּגַּע",
+      "translit": "tigga",
+      "ref": "Exod.19.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִגְּעוּ",
+      "translit": "yigg'u",
+      "ref": "Lam.4.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְנָגְעָה",
+      "translit": "vnag'ah",
+      "ref": "Jer.4.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "גַּע",
+      "translit": "ga",
+      "ref": "Job.1.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִנְגֹּעַ",
+      "translit": "lingo'a",
+      "ref": "2Sam.14.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּגְּעוּ",
+      "translit": "tigg'u",
+      "ref": "1Chr.16.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּנָּֽגְעוּ",
+      "translit": "vayyinnag'u",
+      "ref": "Josh.8.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִגְּעוֹ",
+      "translit": "nigg'o",
+      "ref": "2Chr.26.20",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְנַגַּע",
+      "translit": "vaynagga",
+      "ref": "2Kgs.15.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְנֻגָּֽעוּ",
+      "translit": "ynugga'u",
+      "ref": "Ps.73.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִגִּיעַ",
+      "translit": "higgi'a",
+      "ref": "2Chr.28.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הִגַּעַתְּ",
+      "translit": "higga'att",
+      "ref": "Esth.4.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִגִּיעוּ",
+      "translit": "higgi'u",
+      "ref": "Esth.6.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתַּגַּע",
+      "translit": "vattagga",
+      "ref": "Exod.4.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּגַּע",
+      "translit": "vayyagga",
+      "ref": "Isa.6.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּגִּיעוּ",
+      "translit": "vayyaggi'u",
+      "ref": "Ps.107.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מַגַּעַת",
+      "translit": "magga'at",
+      "ref": "2Chr.3.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַגִּיעַ",
+      "translit": "maggi'a",
+      "ref": "2Chr.3.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַגִּיעַ",
+      "translit": "yaggi'a",
+      "ref": "Dan.12.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַגִּֽיעוּ",
+      "translit": "yaggi'u",
+      "ref": "Isa.30.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תַגִּיע",
+      "translit": "taggi",
+      "ref": "Lev.5.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִגִּיעוּ",
+      "translit": "vhiggi'u",
+      "ref": "Eccl.12.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהִגַּעְתֶּם",
+      "translit": "vhigga'tem",
+      "ref": "Exod.12.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִגַּעְתִּיהוּ",
+      "translit": "vhigga'tihu",
+      "ref": "Ezek.13.14",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּבְהַגִּיעַ",
+      "translit": "uvhaggi'a",
+      "ref": "1Sam.14.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "afflict",
+  "pual": "be afflicted",
+  "hiphil": "reach",
+  "niphal": "be stricken; be defeated"
+ },
+ "root": "נגע",
+ "search_match": [
+  "5060",
+  "h5060",
+  "naga",
+  "touch",
+  "נגע"
+ ],
+ "citation_translit": "naga"
+}

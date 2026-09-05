@@ -1,0 +1,151 @@
+{
+ "glosses": [
+  "fast"
+ ],
+ "strong": "H6684",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "צַמְתָּ",
+      "translit": "tzamta",
+      "ref": "2Sam.12.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "צַמְתִּי",
+      "translit": "tzamti",
+      "ref": "2Sam.12.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "צַּמְנוּ",
+      "translit": "tzamnu",
+      "ref": "Isa.58.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "צַמְתֶּם",
+      "translit": "tzamtem",
+      "ref": "Zech.7.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּצוּמוּ",
+      "translit": "vayyatzumu",
+      "ref": "1Chr.10.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּצוֹם",
+      "translit": "vayyatzom",
+      "ref": "1Kgs.21.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וַנָּצוּמָה",
+      "translit": "vannatzumah",
+      "ref": "Ezra.8.23",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "צָם",
+      "translit": "tzam",
+      "ref": "2Sam.12.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָצוּם",
+      "translit": "atzum",
+      "ref": "Esth.4.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תָּצוּמוּ",
+      "translit": "tatzumu",
+      "ref": "Isa.58.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָצֻמוּ",
+      "translit": "yatzumu",
+      "ref": "Jer.14.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְצוּמוּ",
+      "translit": "vtzumu",
+      "ref": "Esth.4.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הֲצוֹם",
+      "translit": "hatzom",
+      "ref": "Zech.7.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "צום",
+ "search_match": [
+  "6684",
+  "fast",
+  "h6684",
+  "tzum",
+  "צום"
+ ],
+ "citation_translit": "tzum"
+}

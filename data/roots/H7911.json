@@ -1,0 +1,429 @@
+{
+ "glosses": [
+  "forget"
+ ],
+ "strong": "H7911",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "שָׁכָֽחְתִּי",
+      "translit": "shakhachti",
+      "ref": "Deut.26.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "שָׁכַחַתְּ",
+      "translit": "shakhachatt",
+      "ref": "Ezek.22.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "שָׁכְחָה",
+      "translit": "shakhchah",
+      "ref": "Hos.2.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שָׁכְחוּ",
+      "translit": "shakhchu",
+      "ref": "Hos.13.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שָׁכַח",
+      "translit": "shakhach",
+      "ref": "Isa.49.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הַֽשְׁכַחְתֶּם",
+      "translit": "hashkhachtem",
+      "ref": "Jer.44.9",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "שְׁכַחְתָּנִי",
+      "translit": "shkhachtani",
+      "ref": "Ps.42.10",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "שָׁכַחְנוּ",
+      "translit": "shakhachnu",
+      "ref": "Ps.44.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּשְׁכְּחוּ",
+      "translit": "vayyishkchu",
+      "ref": "1Sam.12.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתִּשְׁכַּח",
+      "translit": "vattishkach",
+      "ref": "Deut.32.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּשְׁכַּח",
+      "translit": "vayyishkach",
+      "ref": "Gen.40.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּשְׁכַּח",
+      "translit": "vattishkach",
+      "ref": "Job.39.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּשְׁכַּח",
+      "translit": "tishkach",
+      "ref": "1Sam.1.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִשְׁכָּחוּ",
+      "translit": "tishkachu",
+      "ref": "2Kgs.17.38",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶשְׁכַּח",
+      "translit": "eshkach",
+      "ref": "Amos.8.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשְׁכַּח",
+      "translit": "yishkach",
+      "ref": "Deut.4.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּשְׁכַּח",
+      "translit": "tishkach",
+      "ref": "Isa.49.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תִשְׁכַּחְנָה",
+      "translit": "tishkachnah",
+      "ref": "Isa.49.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִּשְׁכָּחִי",
+      "translit": "tishkachi",
+      "ref": "Isa.54.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשְׁכְּחוּ",
+      "translit": "yishkchu",
+      "ref": "Ps.59.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְשָֽׁכַחְתָּ",
+      "translit": "vshakhachta",
+      "ref": "Deut.8.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְשָׁכַח",
+      "translit": "vshakhach",
+      "ref": "Gen.27.45",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְשִׁכְחִי",
+      "translit": "vshikhchi",
+      "ref": "Ps.45.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "שָׁכֹחַ",
+      "translit": "shakhocha",
+      "ref": "Deut.8.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶשְׁכְּחָה",
+      "translit": "eshkchah",
+      "ref": "Job.9.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּשְׁכַּח",
+      "translit": "tishkach",
+      "ref": "Deut.9.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִּשְׁכְּחִי",
+      "translit": "tishkchi",
+      "ref": "Ps.103.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִשְׁכָּח",
+      "translit": "nishkach",
+      "ref": "Eccl.2.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִשְׁכְּחוּ",
+      "translit": "nishkchu",
+      "ref": "Isa.65.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נִשְׁכַּחְתִּי",
+      "translit": "nishkachti",
+      "ref": "Ps.31.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "נִשְׁכָּחָה",
+      "translit": "nishkachah",
+      "ref": "Isa.23.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַֽנִּשְׁכָּחִים",
+      "translit": "hannishkachim",
+      "ref": "Job.28.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִשָּׁכֵֽחַ",
+      "translit": "tishshakhecha",
+      "ref": "Deut.31.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשָּׁכַח",
+      "translit": "yishshakhach",
+      "ref": "Ps.9.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִשְׁכַּח",
+      "translit": "vnishkach",
+      "ref": "Gen.41.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְנִשְׁכַּחַת",
+      "translit": "vnishkachat",
+      "ref": "Isa.23.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שִׁכַּח",
+      "translit": "shikkach",
+      "ref": "Lam.2.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַשְׁכִּיחַ",
+      "translit": "lhashkicha",
+      "ref": "Jer.23.27",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיִֽשְׁתַּכְּחוּ",
+      "translit": "vyishtakkchu",
+      "ref": "Eccl.8.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be forgotten",
+  "piel": "cause to forget",
+  "hiphil": "cause to forget",
+  "hitpael": "be forgotten"
+ },
+ "root": "שכח",
+ "search_match": [
+  "7911",
+  "forget",
+  "h7911",
+  "shakhach",
+  "שכח"
+ ],
+ "citation_translit": "shakhach"
+}

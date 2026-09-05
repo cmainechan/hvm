@@ -1,0 +1,333 @@
+{
+ "glosses": [
+  "sow"
+ ],
+ "strong": "H2232",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "זְרַעְתֶּם",
+      "translit": "zra'tem",
+      "ref": "Hag.1.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "זָרְעוּ",
+      "translit": "zar'u",
+      "ref": "Jer.12.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "זָרַע",
+      "translit": "zara",
+      "ref": "Judg.6.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּזְרַע",
+      "translit": "vayyizra",
+      "ref": "Gen.26.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּזְרְעוּ",
+      "translit": "vayyizr'u",
+      "ref": "Ps.107.37",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "זֹרֵעַ",
+      "translit": "zore'a",
+      "ref": "Gen.1.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַזֹּרְעִים",
+      "translit": "hazzor'im",
+      "ref": "Ps.126.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "זְרוּעָֽה",
+      "translit": "zru'ah",
+      "ref": "Jer.2.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "זָרֻעַ",
+      "translit": "zaru'a",
+      "ref": "Ps.97.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּזְרַע",
+      "translit": "tizra",
+      "ref": "Deut.11.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִזְרָע",
+      "translit": "yizra",
+      "ref": "Eccl.11.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִזְרָעוּ",
+      "translit": "yizra'u",
+      "ref": "Hos.8.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִזְרָעוּ",
+      "translit": "tizra'u",
+      "ref": "Jer.35.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִזְרָע",
+      "translit": "nizra",
+      "ref": "Lev.25.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאֶזְרָעֵם",
+      "translit": "v'ezra'em",
+      "ref": "Zech.10.9",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּזְרַעְתֶּם",
+      "translit": "uzra'tem",
+      "ref": "Gen.47.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְזָרַעְתִּי",
+      "translit": "vzara'ti",
+      "ref": "Hos.2.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "זִרְעוּ",
+      "translit": "zir'u",
+      "ref": "2Kgs.19.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "זְרַע",
+      "translit": "zra",
+      "ref": "Eccl.11.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִזְרֹעַ",
+      "translit": "lizro'a",
+      "ref": "Isa.28.24",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶזְרְעָה",
+      "translit": "ezr'ah",
+      "ref": "Job.31.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּזְרְעוּ",
+      "translit": "tizr'u",
+      "ref": "Jer.4.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִזָּרֵעַ",
+      "translit": "yizzare'a",
+      "ref": "Deut.21.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִזָּרַע",
+      "translit": "tizzara",
+      "ref": "Deut.29.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְנִזְרַעְתֶּֽם",
+      "translit": "vnizra'tem",
+      "ref": "Ezek.36.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְנִזְרְעָה",
+      "translit": "vnizr'ah",
+      "ref": "Num.5.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "זֹרָעוּ",
+      "translit": "zora'u",
+      "ref": "Isa.40.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַזְרִיעַ",
+      "translit": "mazri'a",
+      "ref": "Gen.1.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תַזְרִיעַ",
+      "translit": "tazri'a",
+      "ref": "Lev.12.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be sown",
+  "pual": "be sown",
+  "hiphil": "yield seed"
+ },
+ "root": "זרע",
+ "search_match": [
+  "2232",
+  "h2232",
+  "sow",
+  "zara",
+  "זרע"
+ ],
+ "citation_translit": "zara"
+}

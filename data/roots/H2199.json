@@ -1,0 +1,303 @@
+{
+ "glosses": [
+  "cry out"
+ ],
+ "strong": "H2199",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "זָעֲקוּ",
+      "translit": "za'aqu",
+      "ref": "1Chr.5.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "זָעַקְתִּי",
+      "translit": "za'aqti",
+      "ref": "Ps.142.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּזְעַק",
+      "translit": "vayyiz'aq",
+      "ref": "1Kgs.22.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּזְעַק",
+      "translit": "vattiz'aq",
+      "ref": "1Sam.4.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּזְעֲקוּ",
+      "translit": "vayyiz'aqu",
+      "ref": "1Sam.5.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶזְעַק",
+      "translit": "va'ez'aq",
+      "ref": "Ezek.9.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְנִזְעַק",
+      "translit": "vniz'aq",
+      "ref": "2Chr.20.9",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִזְעָקוּ",
+      "translit": "yiz'aqu",
+      "ref": "Ezek.27.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶזְעָק",
+      "translit": "ez'aq",
+      "ref": "Hab.1.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּזְעָק",
+      "translit": "tiz'aq",
+      "ref": "Hab.2.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִזְעָק",
+      "translit": "yiz'aq",
+      "ref": "Isa.15.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּזְעַק",
+      "translit": "tiz'aq",
+      "ref": "Jer.30.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּזְעַקְתֶּם",
+      "translit": "uz'aqtem",
+      "ref": "1Sam.8.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְזָעָֽקָה",
+      "translit": "vza'aqah",
+      "ref": "2Sam.13.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְזָֽעֲקוּ",
+      "translit": "vza'aqu",
+      "ref": "Jer.11.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "זְעַק",
+      "translit": "z'aq",
+      "ref": "Ezek.21.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "זַֽעֲקִי",
+      "translit": "za'aqi",
+      "ref": "Isa.14.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְזַעֲקוּ",
+      "translit": "vza'aqu",
+      "ref": "Jer.25.34",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מִזְּעֹק",
+      "translit": "mizz'oq",
+      "ref": "1Sam.7.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִֽזְעֲקוּ",
+      "translit": "niz'aqu",
+      "ref": "Judg.18.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נִזְעָֽקְתָּ",
+      "translit": "niz'aqta",
+      "ref": "Judg.18.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִזָּעֵק",
+      "translit": "vayizza'eq",
+      "ref": "1Sam.14.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּזָּעֲקוּ",
+      "translit": "vayyizza'aqu",
+      "ref": "Josh.8.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּזְעֵק",
+      "translit": "vayyaz'eq",
+      "ref": "Jonah.3.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַזְעִיקוּ",
+      "translit": "yaz'iqu",
+      "ref": "Job.35.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַזְעֶק",
+      "translit": "haz'eq",
+      "ref": "2Sam.20.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַזְעִיק",
+      "translit": "lhaz'iq",
+      "ref": "2Sam.20.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be called together",
+  "hiphil": "call together"
+ },
+ "root": "זעק",
+ "search_match": [
+  "2199",
+  "cry out (zaaq)",
+  "h2199",
+  "za'aq",
+  "זעק"
+ ],
+ "citation_translit": "za'aq"
+}

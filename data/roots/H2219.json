@@ -1,0 +1,239 @@
+{
+ "glosses": [
+  "winnow"
+ ],
+ "strong": "H2219",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְזֵרָם",
+      "translit": "vzeram",
+      "ref": "1Kgs.14.15",
+      "has_suffix": true,
+      "has_prefix": true
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "זֵרִיתָ",
+      "translit": "zerita",
+      "ref": "Ps.44.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "זֵרוּ",
+      "translit": "zeru",
+      "ref": "Zech.2.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְזֵרִיתִי",
+      "translit": "vzeriti",
+      "ref": "Ezek.5.10",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְזֵרוּהָ",
+      "translit": "vzeruha",
+      "ref": "Jer.51.2",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֱזָרֶה",
+      "translit": "ezareh",
+      "ref": "Ezek.5.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְזָרוּ",
+      "translit": "yzaru",
+      "ref": "Prov.15.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּלְזָרוֹת",
+      "translit": "ulzarot",
+      "ref": "Ezek.20.23",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְזָרֶה",
+      "translit": "mzareh",
+      "ref": "Prov.20.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּזֶר",
+      "translit": "vayyizer",
+      "ref": "Exod.32.20",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶזְרֵם",
+      "translit": "va'ezrem",
+      "ref": "Jer.15.7",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּזְרֶה",
+      "translit": "tizreh",
+      "ref": "Ezek.5.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "זֹרֶה",
+      "translit": "zoreh",
+      "ref": "Isa.30.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִזְרוֹת",
+      "translit": "lizrot",
+      "ref": "Jer.4.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "זְרֵה",
+      "translit": "zreh",
+      "ref": "Num.17.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְּהִזָּרֽוֹתֵיכֶם",
+      "translit": "bhizzarotekhem",
+      "ref": "Ezek.6.8",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּזָּרוּ",
+      "translit": "vayyizzaru",
+      "ref": "Ezek.36.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְזֹרֶה",
+      "translit": "yzoreh",
+      "ref": "Job.18.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מְזֹרָה",
+      "translit": "mzorah",
+      "ref": "Prov.1.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "scatter"
+ },
+ "root": "זרה",
+ "search_match": [
+  "2219",
+  "h2219",
+  "winnow",
+  "zarah",
+  "זרה"
+ ],
+ "citation_translit": "zarah"
+}

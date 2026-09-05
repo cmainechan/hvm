@@ -1,0 +1,220 @@
+{
+ "glosses": [
+  "be angry"
+ ],
+ "strong": "H3707",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּכְעַס",
+      "translit": "vayyikh'as",
+      "ref": "2Chr.16.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶכְעַס",
+      "translit": "ekh'as",
+      "ref": "Ezek.16.42",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְכָעַס",
+      "translit": "vkha'as",
+      "ref": "Eccl.5.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִכְעוֹס",
+      "translit": "likh'os",
+      "ref": "Eccl.7.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְכִֽעֲסַתָּה",
+      "translit": "vkhi'asattah",
+      "ref": "1Sam.1.6",
+      "has_suffix": true,
+      "has_prefix": true
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "כִּעֲסוּנִי",
+      "translit": "ki'asuni",
+      "ref": "Deut.32.21",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִכְעִיס",
+      "translit": "hikh'is",
+      "ref": "1Kgs.15.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִכְעַסְתָּ",
+      "translit": "hikh'asta",
+      "ref": "1Kgs.21.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִכְעִיסוּ",
+      "translit": "hikh'isu",
+      "ref": "Jer.8.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּכְעֵס",
+      "translit": "vayyakh'es",
+      "ref": "1Kgs.22.54",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּכְעִסוּ",
+      "translit": "vayyakh'isu",
+      "ref": "Judg.2.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַכְעִסִים",
+      "translit": "makh'isim",
+      "ref": "1Kgs.14.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תַּכְעִסֶנָּה",
+      "translit": "takh'isennah",
+      "ref": "1Sam.1.7",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַכְעִיסֻֽהוּ",
+      "translit": "yakh'isuhu",
+      "ref": "Deut.32.16",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַכְעִיסֵֽם",
+      "translit": "akh'isem",
+      "ref": "Deut.32.21",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַכְעִיסוּ",
+      "translit": "takh'isu",
+      "ref": "Jer.25.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִכְעַסְתִּי",
+      "translit": "vhikh'asti",
+      "ref": "Ezek.32.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַכְעִיס",
+      "translit": "lhakh'is",
+      "ref": "1Kgs.14.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "provoke to anger",
+  "hiphil": "provoke to anger"
+ },
+ "root": "כעס",
+ "search_match": [
+  "3707",
+  "be angry (kaas)",
+  "h3707",
+  "ka'as",
+  "כעס"
+ ],
+ "citation_translit": "ka'as"
+}

@@ -1,0 +1,327 @@
+{
+ "glosses": [
+  "remain"
+ ],
+ "strong": "H3498",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נֹתְרוּ",
+      "translit": "notru",
+      "ref": "1Kgs.9.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נֽוֹתְרָה",
+      "translit": "notrah",
+      "ref": "1Kgs.17.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נוֹתַרְתִּי",
+      "translit": "notarti",
+      "ref": "1Kgs.18.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נוֹתַר",
+      "translit": "notar",
+      "ref": "1Sam.25.34",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "נוֹתַרְתֶּם",
+      "translit": "notartem",
+      "ref": "Isa.30.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָֽאִוָּתֵר",
+      "translit": "va'ivvater",
+      "ref": "1Kgs.19.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּוָּתֵר",
+      "translit": "vayyivvater",
+      "ref": "Gen.32.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּוָּֽתְרוּ",
+      "translit": "vayyivvatru",
+      "ref": "Josh.18.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַנּוֹתָרִים",
+      "translit": "hannotarim",
+      "ref": "1Chr.6.46",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְהַנּוֹתָר",
+      "translit": "vhannotar",
+      "ref": "1Kgs.9.20",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "הַנּוֹתָרֹֽת",
+      "translit": "hannotarot",
+      "ref": "Gen.30.36",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "וְהַנּוֹתֶרֶת",
+      "translit": "vhannoteret",
+      "ref": "Lev.2.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "לַנּוֹתָרִים",
+      "translit": "lannotarim",
+      "ref": "Judg.21.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִוָּתֵר",
+      "translit": "yivvater",
+      "ref": "2Kgs.20.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִוָּתְרוּ",
+      "translit": "yivvatru",
+      "ref": "Amos.6.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הוֹתִיר",
+      "translit": "hotir",
+      "ref": "Exod.10.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הוֹתִרָה",
+      "translit": "hotirah",
+      "ref": "Ruth.2.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיּוֹתֵר",
+      "translit": "vayyoter",
+      "ref": "1Chr.18.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיּוֹתִרוּ",
+      "translit": "vayyotiru",
+      "ref": "2Kgs.4.44",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתֹּתַֽר",
+      "translit": "vattotar",
+      "ref": "Ruth.2.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יוֹתִֽיר",
+      "translit": "yotir",
+      "ref": "Deut.28.54",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תוֹתִירוּ",
+      "translit": "totiru",
+      "ref": "Exod.12.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אוֹתִיר",
+      "translit": "otir",
+      "ref": "Ezek.39.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהוֹתִֽרְךָ",
+      "translit": "vhotirkha",
+      "ref": "Deut.28.11",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהוֹתַרְתִּי",
+      "translit": "vhotarti",
+      "ref": "Ezek.6.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הוֹתֵר",
+      "translit": "hoter",
+      "ref": "Ps.79.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הוֹתִיר",
+      "translit": "hotir",
+      "ref": "Jer.44.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְהוֹתֵֽר",
+      "translit": "vhoter",
+      "ref": "2Chr.31.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יוֹתֵר",
+      "translit": "yoter",
+      "ref": "Exod.16.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תּוֹתַר",
+      "translit": "totar",
+      "ref": "Gen.49.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "remain",
+  "hiphil": "leave remaining"
+ },
+ "root": "יתר",
+ "search_match": [
+  "3498",
+  "h3498",
+  "remain (yatar)",
+  "yatar",
+  "יתר"
+ ],
+ "citation_translit": "yatar"
+}

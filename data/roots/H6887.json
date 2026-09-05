@@ -1,0 +1,253 @@
+{
+ "glosses": [
+  "be in distress; be narrow"
+ ],
+ "strong": "H6887",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "צַר",
+      "translit": "tzar",
+      "ref": "1Sam.28.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "צָרָה",
+      "translit": "tzarah",
+      "ref": "Isa.28.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "צְרָרוּנִי",
+      "translit": "tzraruni",
+      "ref": "Ps.129.1",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּצַר",
+      "translit": "vayyatzar",
+      "ref": "2Kgs.5.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "צֹרֵֽר",
+      "translit": "tzorer",
+      "ref": "Job.26.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "צֹרְרִים",
+      "translit": "tzorrim",
+      "ref": "Num.25.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "צְרוּרָה",
+      "translit": "tzrurah",
+      "ref": "1Sam.25.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "צְרֻרוֹת",
+      "translit": "tzrurot",
+      "ref": "2Sam.20.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "צָרוּר",
+      "translit": "tzarur",
+      "ref": "Hos.13.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָצֹר",
+      "translit": "yatzor",
+      "ref": "Isa.11.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְצַרְתָּ",
+      "translit": "vtzarta",
+      "ref": "Deut.14.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְצָרֲרוּ",
+      "translit": "vtzararu",
+      "ref": "Num.33.55",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "צוֹר",
+      "translit": "tzor",
+      "ref": "Isa.8.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִצְרֹר",
+      "translit": "litzror",
+      "ref": "Lev.18.18",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "צָרוֹר",
+      "translit": "tzaror",
+      "ref": "Num.25.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "וּמְצֹרָרִֽים",
+      "translit": "umtzorarim",
+      "ref": "Josh.9.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מְצֵרָֽה",
+      "translit": "mtzerah",
+      "ref": "Jer.48.41",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָֽצַר",
+      "translit": "yatzar",
+      "ref": "1Kgs.8.37",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהֵצַר",
+      "translit": "vhetzar",
+      "ref": "Deut.28.52",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וַהֲצֵרוֹתִי",
+      "translit": "vahatzeroti",
+      "ref": "Jer.10.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הָצֵר",
+      "translit": "hatzer",
+      "ref": "2Chr.28.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be bound up",
+  "hiphil": "besiege; distress"
+ },
+ "root": "צרר",
+ "search_match": [
+  "6887",
+  "bind/restrict",
+  "h6887",
+  "tzarar",
+  "צרר"
+ ],
+ "citation_translit": "tzarar"
+}

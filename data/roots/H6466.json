@@ -1,0 +1,120 @@
+{
+ "glosses": [
+  "do; make"
+ ],
+ "strong": "H6466",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "פָּעַל",
+      "translit": "pa'al",
+      "ref": "Deut.32.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "פָּעַלְתָּ",
+      "translit": "pa'alta",
+      "ref": "Exod.15.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "פָעֲלוּ",
+      "translit": "fa'alu",
+      "ref": "Hos.7.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "פָּעַלְתִּי",
+      "translit": "pa'alti",
+      "ref": "Job.34.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּפְעָלֵהוּ",
+      "translit": "vayyif'alehu",
+      "ref": "Isa.44.12",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "פֹּעֵל",
+      "translit": "po'el",
+      "ref": "Hab.1.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶפְעַל",
+      "translit": "ef'al",
+      "ref": "Isa.43.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִפְעַל",
+      "translit": "yif'al",
+      "ref": "Isa.44.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּפְעָל",
+      "translit": "tif'al",
+      "ref": "Job.11.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּפְעָלוּן",
+      "translit": "tif'alun",
+      "ref": "Ps.58.3",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "פעל",
+ "search_match": [
+  "6466",
+  "do/make (paal)",
+  "h6466",
+  "pa'al",
+  "פעל"
+ ],
+ "citation_translit": "pa'al"
+}

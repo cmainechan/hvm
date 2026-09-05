@@ -1,0 +1,256 @@
+{
+ "glosses": [
+  "tremble"
+ ],
+ "strong": "H7264",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "רָגְזָה",
+      "translit": "ragzah",
+      "ref": "Isa.14.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּרְגַּז",
+      "translit": "vattirgaz",
+      "ref": "1Sam.14.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּרְגַּז",
+      "translit": "vayyirgaz",
+      "ref": "2Sam.19.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַתִּרְגְּזִי",
+      "translit": "vattirgzi",
+      "ref": "Ezek.16.43",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּרְגְּזוּ",
+      "translit": "vayyirgzu",
+      "ref": "Isa.5.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִרְגַּז",
+      "translit": "yirgaz",
+      "ref": "1Chr.17.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִרְגְּזוּ",
+      "translit": "yirgzu",
+      "ref": "2Sam.22.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִרְגַּז",
+      "translit": "tirgaz",
+      "ref": "Amos.8.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶרְגָּז",
+      "translit": "ergaz",
+      "ref": "Hab.3.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fp",
+      "label": "2nd fem. pl.",
+      "heb": "תִּרְגַּזְנָה",
+      "translit": "tirgaznah",
+      "ref": "Isa.32.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְרָגְזוּ",
+      "translit": "vragzu",
+      "ref": "Deut.2.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְרָגַז",
+      "translit": "vragaz",
+      "ref": "Prov.29.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fp",
+      "label": "2nd fem. pl.",
+      "heb": "רְגָזָה",
+      "translit": "rgazah",
+      "ref": "Isa.32.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "רִגְזוּ",
+      "translit": "rigzu",
+      "ref": "Ps.4.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּרְגְּזוּ",
+      "translit": "tirgzu",
+      "ref": "Gen.45.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִרְגְּזוּ",
+      "translit": "yirgzu",
+      "ref": "Joel.2.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִרְגַּזְתַּנִי",
+      "translit": "hirgaztani",
+      "ref": "1Sam.28.15",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִרְגִּיז",
+      "translit": "hirgiz",
+      "ref": "Isa.23.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַרְגִּיז",
+      "translit": "margiz",
+      "ref": "Isa.14.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַרְגִּיז",
+      "translit": "argiz",
+      "ref": "Isa.13.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְהִרְגִּיז",
+      "translit": "vhirgiz",
+      "ref": "Jer.50.34",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִֽתְרַגֶּזְךָ",
+      "translit": "hitraggezkha",
+      "ref": "2Kgs.19.27",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "disturb",
+  "hitpael": "be agitated"
+ },
+ "root": "רגז",
+ "search_match": [
+  "7264",
+  "h7264",
+  "ragaz",
+  "tremble",
+  "רגז"
+ ],
+ "citation_translit": "ragaz"
+}

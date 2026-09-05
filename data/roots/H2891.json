@@ -1,0 +1,384 @@
+{
+ "glosses": [
+  "be clean"
+ ],
+ "strong": "H2891",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "טָהַרְתִּי",
+      "translit": "taharti",
+      "ref": "2Kgs.5.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "טָהַרְתְּ",
+      "translit": "tahart",
+      "ref": "Ezek.24.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "טָהֲרָה",
+      "translit": "taharah",
+      "ref": "Lev.15.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּטְהָֽר",
+      "translit": "vayyithar",
+      "ref": "2Kgs.5.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִטְהֲרִי",
+      "translit": "tithari",
+      "ref": "Ezek.24.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִטְהַר",
+      "translit": "yithar",
+      "ref": "Job.4.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּטְהָֽר",
+      "translit": "tithar",
+      "ref": "Lev.15.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּטְהָֽרוּ",
+      "translit": "titharu",
+      "ref": "Lev.16.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאֶטְהָר",
+      "translit": "v'ethar",
+      "ref": "Ps.51.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּטְהַרְתֶּם",
+      "translit": "uthartem",
+      "ref": "Ezek.36.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְטָהֵֽר",
+      "translit": "vtaher",
+      "ref": "Lev.11.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְטָהֲרָה",
+      "translit": "vtaharah",
+      "ref": "Lev.12.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּטְהָֽר",
+      "translit": "uthar",
+      "ref": "2Kgs.5.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "טִהַרְנוּ",
+      "translit": "tiharnu",
+      "ref": "2Chr.29.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "טִֽהַרְתִּיךְ",
+      "translit": "tihartikh",
+      "ref": "Ezek.24.13",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְטַהֵר",
+      "translit": "vaytaher",
+      "ref": "2Chr.34.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַֽתְּטַהֲרֵֽם",
+      "translit": "vatttaharem",
+      "ref": "Job.37.21",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיְטַהֲרוּ",
+      "translit": "vaytaharu",
+      "ref": "Neh.12.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַֽמְטַהֵר",
+      "translit": "hamtaher",
+      "ref": "Lev.14.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲטַהֵר",
+      "translit": "ataher",
+      "ref": "Ezek.36.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְטִהַרְתִּי",
+      "translit": "vtiharti",
+      "ref": "Ezek.37.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְטִהֲרוּ",
+      "translit": "vtiharu",
+      "ref": "Ezek.39.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְטִהַר",
+      "translit": "vtihar",
+      "ref": "Lev.13.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְטִהַרְתָּ",
+      "translit": "vtiharta",
+      "ref": "Num.8.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "טַהֲרֵֽנִי",
+      "translit": "tahareni",
+      "ref": "Ps.51.4",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "טַהֵר",
+      "translit": "taher",
+      "ref": "2Chr.29.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מְטֹהָרָה",
+      "translit": "mtoharah",
+      "ref": "Ezek.22.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִטֶּהָרוּ",
+      "translit": "hitteharu",
+      "ref": "2Chr.30.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "הִטַּהַרְנוּ",
+      "translit": "hittaharnu",
+      "ref": "Josh.22.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּֽטַּהֲרוּ",
+      "translit": "vayyittaharu",
+      "ref": "Neh.12.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מִֽטַּהֲרִים",
+      "translit": "mittaharim",
+      "ref": "Isa.66.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַמִּטַּהֵר",
+      "translit": "hammittaher",
+      "ref": "Lev.14.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִטֶּהָֽרוּ",
+      "translit": "vhitteharu",
+      "ref": "Num.8.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהִֽטַּהֲרוּ",
+      "translit": "vhittaharu",
+      "ref": "Gen.35.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "cleanse",
+  "pual": "be cleansed",
+  "hitpael": "purify oneself"
+ },
+ "root": "טהר",
+ "search_match": [
+  "2891",
+  "be clean",
+  "h2891",
+  "taher",
+  "טהר"
+ ],
+ "citation_translit": "taher"
+}

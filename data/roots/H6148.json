@@ -1,0 +1,176 @@
+{
+ "glosses": [
+  "pledge"
+ ],
+ "strong": "H6148",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "עָרַב",
+      "translit": "arav",
+      "ref": "Gen.44.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "עָרַבְתָּ",
+      "translit": "aravta",
+      "ref": "Prov.6.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "עֹרְבִים",
+      "translit": "orvim",
+      "ref": "Neh.5.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "עֹרֵב",
+      "translit": "orev",
+      "ref": "Prov.17.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶֽעֶרְבֶנּוּ",
+      "translit": "e'ervennu",
+      "ref": "Gen.43.9",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֶֽעֶרְבוּ",
+      "translit": "ye'ervu",
+      "ref": "Hos.9.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "עֲרֹב",
+      "translit": "arov",
+      "ref": "Isa.38.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַעֲרֹב",
+      "translit": "la'arov",
+      "ref": "Ezek.27.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִתְעָֽרְבוּ",
+      "translit": "vhit'arvu",
+      "ref": "Ezra.9.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּתְעָרְבוּ",
+      "translit": "vayyit'arvu",
+      "ref": "Ps.106.35",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְעָרַב",
+      "translit": "yit'arav",
+      "ref": "Prov.14.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִתְעָרָֽב",
+      "translit": "tit'arav",
+      "ref": "Prov.20.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִתְעָרֶב",
+      "translit": "hit'arev",
+      "ref": "2Kgs.18.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּתְעָרָֽב",
+      "translit": "tit'arav",
+      "ref": "Prov.24.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hitpael": "exchange pledges with"
+ },
+ "root": "ערב",
+ "search_match": [
+  "6148",
+  "arav",
+  "h6148",
+  "pledge",
+  "ערב"
+ ],
+ "citation_translit": "arav"
+}

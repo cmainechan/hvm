@@ -1,0 +1,64 @@
+{
+ "glosses": [
+  "storm"
+ ],
+ "strong": "H5590",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִסְעֲרוּ",
+      "translit": "yis'aru",
+      "ref": "Hab.3.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְסֹעֵֽר",
+      "translit": "vesoer",
+      "ref": "Jonah.1.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּסָּעֵר",
+      "translit": "vayyisaer",
+      "ref": "2Kgs.6.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be agitated"
+ },
+ "root": "סער",
+ "search_match": [
+  "5590",
+  "be agitated",
+  "h5590",
+  "saar",
+  "storm",
+  "סער"
+ ],
+ "citation_translit": "sa'ar"
+}

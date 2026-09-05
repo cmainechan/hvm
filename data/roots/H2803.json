@@ -1,0 +1,440 @@
+{
+ "glosses": [
+  "consider"
+ ],
+ "strong": "H2803",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חָשַׁב",
+      "translit": "chashav",
+      "ref": "1Sam.18.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חָשַׁבְתָּה",
+      "translit": "chashavtah",
+      "ref": "2Sam.14.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חָשְׁבוּ",
+      "translit": "chashvu",
+      "ref": "Amos.6.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "חֲשַׁבְתֶּם",
+      "translit": "chashavtem",
+      "ref": "Gen.50.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "חֲשַׁבְנֻֽהוּ",
+      "translit": "chashavnuhu",
+      "ref": "Isa.53.3",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "חָשַׁבְתִּי",
+      "translit": "chashavti",
+      "ref": "Jer.18.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּחְשְׁבֶהָ",
+      "translit": "vayyachshveha",
+      "ref": "1Sam.1.13",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חֹשֵׁב",
+      "translit": "choshev",
+      "ref": "2Chr.26.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "חֹֽשְׁבִים",
+      "translit": "choshvim",
+      "ref": "Ezek.11.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַחְשְׁבוּ",
+      "translit": "yachshvu",
+      "ref": "Dan.11.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחְשֹׁב",
+      "translit": "yachshov",
+      "ref": "Isa.10.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּחְשֹׁבוּ",
+      "translit": "tachshovu",
+      "ref": "Job.6.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְתַחְשְׁבֵנִי",
+      "translit": "vtachshveni",
+      "ref": "Job.13.24",
+      "has_suffix": true,
+      "has_prefix": true
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תַּחְשְׁבֻנִי",
+      "translit": "tachshvuni",
+      "ref": "Job.19.15",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תַּחְשֹׁב",
+      "translit": "tachshov",
+      "ref": "Ps.52.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְחָשַׁב",
+      "translit": "vchashav",
+      "ref": "2Sam.14.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְחָשַׁבְתָּ",
+      "translit": "vchashavta",
+      "ref": "Ezek.38.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְלַחְשֹׁב",
+      "translit": "vlachshov",
+      "ref": "2Chr.2.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְנַחְשְׁבָה",
+      "translit": "vnachshvah",
+      "ref": "Jer.18.18",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחֲשָׁב",
+      "translit": "yachashav",
+      "ref": "2Sam.19.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּחְשְׁבוּ",
+      "translit": "tachshvu",
+      "ref": "Zech.7.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נֶחְשַׁבְנוּ",
+      "translit": "nechshavnu",
+      "ref": "Gen.31.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נֶחְשָׁבוּ",
+      "translit": "nechshavu",
+      "ref": "Hos.8.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נֶחְשַׁבְתִּי",
+      "translit": "nechshavti",
+      "ref": "Ps.88.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתֵּחָשֶׁב",
+      "translit": "vattechashev",
+      "ref": "Ps.106.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֶחְשָׁב",
+      "translit": "nechshav",
+      "ref": "1Kgs.10.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵחָשֵׁב",
+      "translit": "yechashev",
+      "ref": "2Kgs.22.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֵּחָשֵׁב",
+      "translit": "techashev",
+      "ref": "2Sam.4.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֵחָשְׁבוּ",
+      "translit": "yechashvu",
+      "ref": "Deut.2.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנֶחְשַׁב",
+      "translit": "vnechshav",
+      "ref": "Num.18.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "חִשְּׁבָה",
+      "translit": "chishshvah",
+      "ref": "Jonah.1.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "חִשַּׁבְתִּי",
+      "translit": "chishshavti",
+      "ref": "Ps.77.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָֽאֲחַשְּׁבָה",
+      "translit": "va'achashshvah",
+      "ref": "Ps.73.16",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַֽתְּחַשְּׁבֵֽהוּ",
+      "translit": "vattchashshvehu",
+      "ref": "Ps.144.3",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְחַשֵּׁב",
+      "translit": "mchashshev",
+      "ref": "Prov.24.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְחַשְּׁבוּ",
+      "translit": "ychashshvu",
+      "ref": "2Kgs.12.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְחַשֵּׁב",
+      "translit": "ychashshev",
+      "ref": "Dan.11.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּחַשְּׁבוּן",
+      "translit": "tchashshvun",
+      "ref": "Nah.1.9",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְחִשַּׁב",
+      "translit": "vchishshav",
+      "ref": "Lev.25.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְחַשָּֽׁב",
+      "translit": "yitchashshav",
+      "ref": "Num.23.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "plan",
+  "hitpael": "reckon oneself",
+  "niphal": "be reckoned"
+ },
+ "root": "חשב",
+ "search_match": [
+  "2803",
+  "chashav",
+  "consider",
+  "h2803",
+  "חשב"
+ ],
+ "citation_translit": "chashav"
+}

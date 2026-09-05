@@ -1,0 +1,63 @@
+{
+ "glosses": [
+  "grasp"
+ ],
+ "strong": "H3943",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִלָּפְתוּ",
+      "translit": "yillaftu",
+      "ref": "Job.6.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּלָּפֵת",
+      "translit": "vayyillafet",
+      "ref": "Ruth.3.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּלְפֹּת",
+      "translit": "vayyilpot",
+      "ref": "Judg.16.29",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "turn oneself (with a start)"
+ },
+ "root": "לפת",
+ "search_match": [
+  "3943",
+  "grasp",
+  "h3943",
+  "lafat",
+  "לפת"
+ ],
+ "citation_translit": "lafat"
+}

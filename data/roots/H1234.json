@@ -1,0 +1,412 @@
+{
+ "glosses": [
+  "split"
+ ],
+ "strong": "H1234",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "בָּקַעְתָּ",
+      "translit": "baqa'ta",
+      "ref": "Neh.9.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "בָּקַע",
+      "translit": "baqa",
+      "ref": "Ps.78.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּבְקְעוּ",
+      "translit": "vayyivq'u",
+      "ref": "1Chr.11.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּבְקַע",
+      "translit": "vayyivqa",
+      "ref": "Isa.48.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "בּוֹקֵעַ",
+      "translit": "boqe'a",
+      "ref": "Eccl.10.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּבָּקַע",
+      "translit": "tibbaqa",
+      "ref": "Isa.59.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּבָקַעְתָּ",
+      "translit": "uvaqa'ta",
+      "ref": "Ezek.29.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וּבָקְעָה",
+      "translit": "uvaq'ah",
+      "ref": "Isa.34.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּבְקָעֵהוּ",
+      "translit": "uvqa'ehu",
+      "ref": "Exod.14.16",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בִּקְעָם",
+      "translit": "biq'am",
+      "ref": "2Chr.32.1",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִבְקְעוּ",
+      "translit": "nivq'u",
+      "ref": "2Chr.25.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִבְקַע",
+      "translit": "nivqa",
+      "ref": "Job.26.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּבָּקַע",
+      "translit": "vattibbaqa",
+      "ref": "1Kgs.1.40",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּבָּקְעוּ",
+      "translit": "vayyibbaq'u",
+      "ref": "Exod.14.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִבָּקַע",
+      "translit": "yibbaqa",
+      "ref": "Isa.58.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִבְקַע",
+      "translit": "vnivqa",
+      "ref": "Zech.14.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִבָּקֵעַ",
+      "translit": "lhibbaqe'a",
+      "ref": "Ezek.30.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "בִּקֵּֽעַ",
+      "translit": "biqqe'a",
+      "ref": "2Kgs.15.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "בִּקֵּעוּ",
+      "translit": "biqqe'u",
+      "ref": "Isa.59.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיְבַקְּעוּ",
+      "translit": "vayvaqq'u",
+      "ref": "1Sam.6.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וַתְּבַקַּעְנָה",
+      "translit": "vattvaqqa'nah",
+      "ref": "2Kgs.2.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְבַקַּע",
+      "translit": "vayvaqqa",
+      "ref": "Gen.22.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּבַקֵּֽעַ",
+      "translit": "tvaqqe'a",
+      "ref": "2Kgs.8.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּבַקֵּֽעַ",
+      "translit": "tvaqqe'a",
+      "ref": "Ezek.13.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְבַקַּע",
+      "translit": "yvaqqa",
+      "ref": "Ps.78.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וּבִקַּעְתִּי",
+      "translit": "uviqqa'ti",
+      "ref": "Ezek.13.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מְבֻקָּעָֽה",
+      "translit": "mvuqqa'ah",
+      "ref": "Ezek.26.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "וּמְבֻקָּעִים",
+      "translit": "umvuqqa'im",
+      "ref": "Josh.9.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְבֻקָּֽעוּ",
+      "translit": "yvuqqa'u",
+      "ref": "Hos.14.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְנַבְקִעֶנָּה",
+      "translit": "vnavqi'ennah",
+      "ref": "Isa.7.6",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַבְקִיעַ",
+      "translit": "lhavqi'a",
+      "ref": "2Kgs.3.26",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הָבְקְעָה",
+      "translit": "havq'ah",
+      "ref": "Jer.39.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִתְבַּקָּעוּ",
+      "translit": "hitbaqqa'u",
+      "ref": "Josh.9.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתְבַּקָּעוּ",
+      "translit": "yitbaqqa'u",
+      "ref": "Mic.1.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be split",
+  "piel": "split",
+  "pual": "be broken open",
+  "hiphil": "break open",
+  "hophal": "be broken into",
+  "hitpael": "burst open"
+ },
+ "root": "בקע",
+ "search_match": [
+  "1234",
+  "baqa",
+  "h1234",
+  "split",
+  "בקע"
+ ],
+ "citation_translit": "baqa"
+}

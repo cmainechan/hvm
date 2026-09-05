@@ -1,0 +1,453 @@
+{
+ "glosses": [
+  "be afflicted"
+ ],
+ "strong": "H6031",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "עָנִיתִי",
+      "translit": "aniti",
+      "ref": "Ps.116.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַֽעֲנֶה",
+      "translit": "ya'aneh",
+      "ref": "Isa.31.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶעֱנֶה",
+      "translit": "e'eneh",
+      "ref": "Ps.119.67",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַעֲנוּ",
+      "translit": "ya'anu",
+      "ref": "Zech.10.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַעֲנוֹת",
+      "translit": "la'anot",
+      "ref": "2Sam.22.36",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נַעֲנֵיתִי",
+      "translit": "na'aneti",
+      "ref": "Ps.119.107",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נַעֲנֶה",
+      "translit": "na'aneh",
+      "ref": "Isa.53.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "נַעֲנָה",
+      "translit": "na'anah",
+      "ref": "Isa.58.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לֵעָנֹת",
+      "translit": "le'anot",
+      "ref": "Exod.10.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "עִנָּה",
+      "translit": "innah",
+      "ref": "2Sam.13.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "עִנִּיתָ",
+      "translit": "innita",
+      "ref": "Deut.21.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "עִנּוּ",
+      "translit": "innu",
+      "ref": "Ezek.22.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "עִנִּינוּ",
+      "translit": "inninu",
+      "ref": "Isa.58.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "עִנֵּיתִי",
+      "translit": "inneti",
+      "ref": "Nah.1.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְעַנֵּם",
+      "translit": "vay'annem",
+      "ref": "2Kgs.17.20",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיְעַנּוּנוּ",
+      "translit": "vay'annunu",
+      "ref": "Deut.26.6",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתְּעַנֶּהָ",
+      "translit": "vatt'anneha",
+      "ref": "Gen.16.6",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וַֽאעַנֶּה",
+      "translit": "va'anneh",
+      "ref": "1Kgs.11.39",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְעַנּוּ",
+      "translit": "y'annu",
+      "ref": "Exod.1.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּעַנּוּ",
+      "translit": "t'annu",
+      "ref": "Exod.22.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְעַנֶּה",
+      "translit": "t'anneh",
+      "ref": "Exod.22.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְעַנֶּֽה",
+      "translit": "y'anneh",
+      "ref": "Job.37.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְעִנִּיתֶם",
+      "translit": "v'innitem",
+      "ref": "Lev.16.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְעִנּוּ",
+      "translit": "v'innu",
+      "ref": "Num.24.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְעַנּוּ",
+      "translit": "v'annu",
+      "ref": "Judg.19.24",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "עַנּוֹת",
+      "translit": "annot",
+      "ref": "2Sam.7.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "עַנֵּה",
+      "translit": "anneh",
+      "ref": "Exod.22.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּעַנֵּנִי",
+      "translit": "t'anneni",
+      "ref": "2Sam.13.12",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "עֻנֵּיתִי",
+      "translit": "unneti",
+      "ref": "Ps.119.71",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּמְעֻנֶּֽה",
+      "translit": "um'unneh",
+      "ref": "Isa.53.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְעֻנֶּה",
+      "translit": "t'unneh",
+      "ref": "Lev.23.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "עֻנּוֹתֽוֹ",
+      "translit": "unnoto",
+      "ref": "Ps.132.1",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַעֲנֶה",
+      "translit": "ma'aneh",
+      "ref": "Eccl.5.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַעֲנֵֽם",
+      "translit": "ta'anem",
+      "ref": "1Kgs.8.35",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִתְעַנִּיתָ",
+      "translit": "hit'annita",
+      "ref": "1Kgs.2.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִתְעַנָּה",
+      "translit": "hit'annah",
+      "ref": "1Kgs.2.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתְעַנּֽוּ",
+      "translit": "yit'annu",
+      "ref": "Ps.107.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְהִתְעַנִּי",
+      "translit": "vhit'anni",
+      "ref": "Gen.16.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּלְהִתְעַנּוֹת",
+      "translit": "ulhit'annot",
+      "ref": "Dan.10.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "afflict",
+  "niphal": "be afflicted",
+  "pual": "be afflicted",
+  "hiphil": "keep occupied",
+  "hitpael": "be afflicted"
+ },
+ "root": "ענה²",
+ "search_match": [
+  "6031",
+  "anah",
+  "be afflicted",
+  "h6031",
+  "ענה²"
+ ],
+ "citation_translit": "anah"
+}

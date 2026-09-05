@@ -1,0 +1,264 @@
+{
+ "glosses": [
+  "plant"
+ ],
+ "strong": "H5193",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "נְטַעְתֶּם",
+      "translit": "nta'tem",
+      "ref": "Amos.5.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נָטָעְתָּ",
+      "translit": "nata'ta",
+      "ref": "Deut.6.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נָטַע",
+      "translit": "nata",
+      "ref": "Deut.20.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נָטַעְתִּי",
+      "translit": "nata'ti",
+      "ref": "Eccl.2.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָטְעוּ",
+      "translit": "nat'u",
+      "ref": "Jer.31.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נָטְעָה",
+      "translit": "nat'ah",
+      "ref": "Prov.31.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּטַּע",
+      "translit": "vayyitta",
+      "ref": "Gen.2.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתִּטָּעֵם",
+      "translit": "vattitta'em",
+      "ref": "Ps.44.3",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּטְּעוּ",
+      "translit": "vayyitt'u",
+      "ref": "Ps.107.37",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַנּוֹטֵעַ",
+      "translit": "hannote'a",
+      "ref": "Jer.11.17",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נֹטְעִים",
+      "translit": "not'im",
+      "ref": "Jer.31.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נָטֽוּעַ",
+      "translit": "natu'a",
+      "ref": "Eccl.3.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נְטוּעִים",
+      "translit": "ntu'im",
+      "ref": "Eccl.12.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיִטַּע",
+      "translit": "vyitta",
+      "ref": "Dan.11.45",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּטַּע",
+      "translit": "titta",
+      "ref": "Deut.16.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִּטְּעִי",
+      "translit": "titt'i",
+      "ref": "Isa.17.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִטְּעוּ",
+      "translit": "yitt'u",
+      "ref": "Isa.65.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִטָּעוּ",
+      "translit": "titta'u",
+      "ref": "Jer.35.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְנָטַעְתִּי",
+      "translit": "vnata'ti",
+      "ref": "1Chr.17.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנָטְעוּ",
+      "translit": "vnat'u",
+      "ref": "Amos.9.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּנְטַעְתֶּם",
+      "translit": "unta'tem",
+      "ref": "Lev.19.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְנִטְעוּ",
+      "translit": "vnit'u",
+      "ref": "2Kgs.19.29",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לָטַעַת",
+      "translit": "lata'at",
+      "ref": "Eccl.3.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִטָּעוּ",
+      "translit": "nitta'u",
+      "ref": "Isa.40.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be planted"
+ },
+ "root": "נטע",
+ "search_match": [
+  "5193",
+  "h5193",
+  "nata",
+  "plant",
+  "נטע"
+ ],
+ "citation_translit": "nata"
+}

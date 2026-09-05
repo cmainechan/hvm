@@ -1,0 +1,237 @@
+{
+ "glosses": [
+  "sing for joy"
+ ],
+ "strong": "H7442",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּרֹנּוּ",
+      "translit": "vayyaronnu",
+      "ref": "Lev.9.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָרֹנּוּ",
+      "translit": "yaronnu",
+      "ref": "Isa.24.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָּרֹנָּה",
+      "translit": "taronnah",
+      "ref": "Isa.35.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָרוּן",
+      "translit": "yarun",
+      "ref": "Prov.29.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "רָנִּי",
+      "translit": "ranni",
+      "ref": "Isa.12.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "רָנּוּ",
+      "translit": "rannu",
+      "ref": "Isa.44.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְּרָן",
+      "translit": "bran",
+      "ref": "Job.38.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְרַנֵּֽנוּ",
+      "translit": "yrannenu",
+      "ref": "1Chr.16.33",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּרַנֵּן",
+      "translit": "trannen",
+      "ref": "Ps.51.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲרַנֵּֽן",
+      "translit": "arannen",
+      "ref": "Ps.59.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תְּרַנֵּנָּה",
+      "translit": "trannennah",
+      "ref": "Ps.71.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְרִנְּנוּ",
+      "translit": "vrinnnu",
+      "ref": "Jer.31.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "רַנְּנוּ",
+      "translit": "rannnu",
+      "ref": "Isa.26.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְרַנֵּן",
+      "translit": "vrannen",
+      "ref": "Isa.35.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נְרַנְּנָה",
+      "translit": "nrannnah",
+      "ref": "Ps.20.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְרֻנָּן",
+      "translit": "yrunnan",
+      "ref": "Isa.16.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַרְנִֽן",
+      "translit": "arnin",
+      "ref": "Job.29.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּרְנִֽין",
+      "translit": "tarnin",
+      "ref": "Ps.65.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הַרְנִינוּ",
+      "translit": "harninu",
+      "ref": "Deut.32.43",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "sing for joy",
+  "pual": "be shouted for joy",
+  "hiphil": "cause to sing for joy"
+ },
+ "root": "רנן",
+ "search_match": [
+  "7442",
+  "h7442",
+  "ranan",
+  "sing for joy",
+  "רנן"
+ ],
+ "citation_translit": "ranan"
+}

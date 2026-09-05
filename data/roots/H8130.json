@@ -1,0 +1,239 @@
+{
+ "glosses": [
+  "hate"
+ ],
+ "strong": "H8130",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "שָׂנֵאתִי",
+      "translit": "sane'ti",
+      "ref": "1Kgs.22.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שָׂנֵא",
+      "translit": "sane",
+      "ref": "2Sam.13.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שָׂנְאוּ",
+      "translit": "san'u",
+      "ref": "Amos.5.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "שָׂנֵאת",
+      "translit": "sane't",
+      "ref": "Ezek.16.37",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "שָׂנֵאתָ",
+      "translit": "sane'ta",
+      "ref": "Ezek.35.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "שְׂנֵאתֶם",
+      "translit": "sne'tem",
+      "ref": "Gen.26.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "שָׂנְאָה",
+      "translit": "san'ah",
+      "ref": "Isa.1.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּשְׂנָאֶהָ",
+      "translit": "vayyisna'eha",
+      "ref": "2Sam.13.15",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּשְׂנְאוּ",
+      "translit": "vayyisn'u",
+      "ref": "Gen.37.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתִּשְׂנָא",
+      "translit": "vattisna",
+      "ref": "Ps.45.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "שֹׂנֵא",
+      "translit": "sone",
+      "ref": "Deut.4.42",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "שְׂנוּאָה",
+      "translit": "snu'ah",
+      "ref": "Deut.21.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִשְׂנָא",
+      "translit": "tisna",
+      "ref": "Lev.19.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשְׂנְאוּ",
+      "translit": "yisn'u",
+      "ref": "Prov.1.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשְׂנָא",
+      "translit": "yisna",
+      "ref": "Prov.9.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶשְׂנָא",
+      "translit": "esna",
+      "ref": "Ps.139.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּשְׂנֵאָֽהּ",
+      "translit": "usne'ahh",
+      "ref": "Deut.22.13",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "שִׂנְאוּ",
+      "translit": "sin'u",
+      "ref": "Amos.5.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "שְׂנֹא",
+      "translit": "sno",
+      "ref": "2Sam.19.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "שָׂנֹא",
+      "translit": "sano",
+      "ref": "Judg.15.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשָּׂנֵֽא",
+      "translit": "yissane",
+      "ref": "Prov.14.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be hated"
+ },
+ "root": "שנא",
+ "search_match": [
+  "8130",
+  "h8130",
+  "hate",
+  "sane",
+  "שנא"
+ ],
+ "citation_translit": "sane"
+}

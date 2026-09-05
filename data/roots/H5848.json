@@ -1,0 +1,106 @@
+{
+ "glosses": [
+  "cover"
+ ],
+ "strong": "H5848",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הָעֲטֻפִים",
+      "translit": "ha'atufim",
+      "ref": "Gen.30.42",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַֽעֲטוֹף",
+      "translit": "ya'atof",
+      "ref": "Isa.57.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַֽעַטְפוּ",
+      "translit": "ya'atfu",
+      "ref": "Ps.65.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בַּעֲטֹף",
+      "translit": "ba'atof",
+      "ref": "Ps.61.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְּהִתְעַטֵּף",
+      "translit": "behit'attef",
+      "ref": "Jonah.2.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּתְעַטָּֽף",
+      "translit": "tit'attaf",
+      "ref": "Ps.107.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּתְעַטֵּף",
+      "translit": "vattit'attef",
+      "ref": "Ps.143.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hitpael": "grow faint/feeble"
+ },
+ "root": "עטף",
+ "search_match": [
+  "5848",
+  "ataf",
+  "cover",
+  "grow faint/feeble",
+  "h5848",
+  "עטף"
+ ],
+ "citation_translit": "ataf"
+}

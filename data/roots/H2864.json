@@ -1,0 +1,85 @@
+{
+ "glosses": [
+  "dig; row"
+ ],
+ "strong": "H2864",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חָתַר",
+      "translit": "khatar",
+      "ref": "Job.24.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "חָתַֽרְתִּי",
+      "translit": "khatarti",
+      "ref": "Ezek.12.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶחְתֹּר",
+      "translit": "va'ekhtor",
+      "ref": "Ezek.8.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּחְתְּרוּ",
+      "translit": "vayyakhteru",
+      "ref": "Jonah.1.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַחְתְּרוּ",
+      "translit": "yakhteru",
+      "ref": "Amos.9.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חֲתָר",
+      "translit": "khatar",
+      "ref": "Ezek.12.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "חתר",
+ "search_match": [
+  "2864",
+  "chatar",
+  "dig",
+  "h2864",
+  "row",
+  "חתר"
+ ],
+ "citation_translit": "chatar"
+}

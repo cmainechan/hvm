@@ -1,0 +1,136 @@
+{
+ "glosses": [
+  "delight"
+ ],
+ "strong": "H2654",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חָפֵץ",
+      "translit": "chafetz",
+      "ref": "1Kgs.9.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "חָפַצְתִּי",
+      "translit": "chafatzti",
+      "ref": "2Sam.15.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חָפַצְתָּ",
+      "translit": "chafatzta",
+      "ref": "Deut.21.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "חָפֵֽצָה",
+      "translit": "chafetzah",
+      "ref": "Isa.66.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "חֲפַצְתֶּם",
+      "translit": "chafatztem",
+      "ref": "Jer.42.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "חָפָֽצְנוּ",
+      "translit": "chafatznu",
+      "ref": "Job.21.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחְפֹּץ",
+      "translit": "yachpotz",
+      "ref": "Deut.25.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶחְפֹּץ",
+      "translit": "echpotz",
+      "ref": "Ezek.18.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַחְפְּצוּ",
+      "translit": "yachptzu",
+      "ref": "Isa.13.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַחְפֹּץ",
+      "translit": "tachpotz",
+      "ref": "Ps.51.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "שֶׁתֶּחְפָּֽץ",
+      "translit": "shettechpatz",
+      "ref": "Song.2.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הֶחָפֹץ",
+      "translit": "hechafotz",
+      "ref": "Ezek.18.23",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "חפץ",
+ "search_match": [
+  "2654",
+  "chafetz",
+  "delight",
+  "h2654",
+  "חפץ"
+ ],
+ "citation_translit": "chafetz"
+}

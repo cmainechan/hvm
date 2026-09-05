@@ -1,0 +1,240 @@
+{
+ "glosses": [
+  "look"
+ ],
+ "strong": "H5027",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִבַּט",
+      "translit": "vnibbat",
+      "ref": "Isa.5.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הִבַּטְתֶּם",
+      "translit": "hibbattem",
+      "ref": "Isa.22.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִבִּיטוּ",
+      "translit": "hibbitu",
+      "ref": "Job.6.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִבִּיט",
+      "translit": "hibbit",
+      "ref": "Num.23.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּבֵּט",
+      "translit": "vayyabbet",
+      "ref": "1Chr.21.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתַּבֵּט",
+      "translit": "vattabbet",
+      "ref": "Gen.19.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתַּבֵּט",
+      "translit": "vattabbet",
+      "ref": "Isa.22.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַמַּבִּיט",
+      "translit": "hammabbit",
+      "ref": "Ps.104.32",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַבִּיט",
+      "translit": "abbit",
+      "ref": "2Kgs.3.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּבִּיט",
+      "translit": "tabbit",
+      "ref": "Hab.1.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַבִּיטוּ",
+      "translit": "yabbitu",
+      "ref": "Isa.5.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַבִּיט",
+      "translit": "yabbit",
+      "ref": "Isa.8.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהִבַּטְתָּ",
+      "translit": "vhibbatta",
+      "ref": "1Sam.2.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִבִּיטוּ",
+      "translit": "vhibbitu",
+      "ref": "Exod.33.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהִבִּיט",
+      "translit": "vhibbit",
+      "ref": "Num.21.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַבֵּט",
+      "translit": "habbet",
+      "ref": "1Kgs.18.43",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הַבִּיטוּ",
+      "translit": "habbitu",
+      "ref": "Hab.1.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַבִּיט",
+      "translit": "habbit",
+      "ref": "Exod.3.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאַבִּיטָה",
+      "translit": "v'abbitah",
+      "ref": "Isa.18.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּבֵּט",
+      "translit": "tabbet",
+      "ref": "1Sam.16.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַבִּיטוּ",
+      "translit": "yabbitu",
+      "ref": "Prov.4.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "look",
+  "hiphil": "look"
+ },
+ "root": "נבט",
+ "search_match": [
+  "5027",
+  "h5027",
+  "look",
+  "navat",
+  "נבט"
+ ],
+ "citation_translit": "navat"
+}

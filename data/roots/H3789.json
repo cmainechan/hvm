@@ -1,0 +1,381 @@
+{
+ "glosses": [
+  "write"
+ ],
+ "strong": "H3789",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "כָּתַב",
+      "translit": "katav",
+      "ref": "2Chr.26.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "כָּתַבְתִּי",
+      "translit": "katavti",
+      "ref": "Exod.24.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "כָּתַבְתָּ",
+      "translit": "katavta",
+      "ref": "Exod.32.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "כָּתְבוּ",
+      "translit": "katvu",
+      "ref": "Ezra.4.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּכְתֹּב",
+      "translit": "vayyikhtov",
+      "ref": "1Chr.24.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּכְתֹּב",
+      "translit": "vattikhtov",
+      "ref": "1Kgs.21.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּכְתְּבוּ",
+      "translit": "vayyikhtvu",
+      "ref": "Exod.39.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶכְתֹּב",
+      "translit": "va'ekhtov",
+      "ref": "Jer.32.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַכֹּתְבִים",
+      "translit": "hakkotvim",
+      "ref": "Jer.32.12",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "כֹּתֵב",
+      "translit": "kotev",
+      "ref": "Jer.36.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "כְּתוּבִים",
+      "translit": "ktuvim",
+      "ref": "1Chr.4.41",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "כָּתוּב",
+      "translit": "katuv",
+      "ref": "1Chr.16.40",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "הַכְּתוּבוֹת",
+      "translit": "hakktuvot",
+      "ref": "2Chr.34.24",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "כְתוּבָה",
+      "translit": "khtuvah",
+      "ref": "2Sam.1.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶכְתָּב",
+      "translit": "ekhtav",
+      "ref": "Deut.10.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּכְתֹּב",
+      "translit": "tikhtov",
+      "ref": "Ezek.37.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִכְתֹּב",
+      "translit": "yikhtov",
+      "ref": "Isa.10.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיִכְתְּבוּ",
+      "translit": "vyikhtvu",
+      "ref": "Josh.18.4",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּכְתְּבוּ",
+      "translit": "tikhtvu",
+      "ref": "Josh.18.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְכָתַבְתָּ",
+      "translit": "vkhatavta",
+      "ref": "Deut.6.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְכָתַב",
+      "translit": "vkhatav",
+      "ref": "Deut.17.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְכָתַבְתִּי",
+      "translit": "vkhatavti",
+      "ref": "Exod.34.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "כִּתְבוּ",
+      "translit": "kitvu",
+      "ref": "Deut.31.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "כְּתָב",
+      "translit": "ktav",
+      "ref": "Exod.17.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִכְתֹּב",
+      "translit": "likhtov",
+      "ref": "Deut.31.24",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְכָתוֹב",
+      "translit": "vkhatov",
+      "ref": "Jer.32.44",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּכָּתֵב",
+      "translit": "vayyikkatev",
+      "ref": "Esth.2.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִכְתָּב",
+      "translit": "nikhtav",
+      "ref": "Esth.3.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִכָּתֵב",
+      "translit": "yikkatev",
+      "ref": "Esth.1.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִכָּתֵבוּ",
+      "translit": "yikkatevu",
+      "ref": "Ezek.13.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּכָּתֶב",
+      "translit": "tikkatev",
+      "ref": "Ps.102.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִכָּתֵב",
+      "translit": "yikkatev",
+      "ref": "Esth.8.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִכָּתֵֽבוּ",
+      "translit": "yikkatevu",
+      "ref": "Ps.69.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "כִּתֵּֽבוּ",
+      "translit": "kittevu",
+      "ref": "Isa.10.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "וּֽמְכַתְּבִים",
+      "translit": "vmkhattvim",
+      "ref": "Isa.10.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be written",
+  "piel": "write"
+ },
+ "root": "כתב",
+ "search_match": [
+  "3789",
+  "h3789",
+  "katav",
+  "write",
+  "כתב"
+ ],
+ "citation_translit": "katav"
+}

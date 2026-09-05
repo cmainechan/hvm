@@ -1,0 +1,293 @@
+{
+ "glosses": [
+  "swallow"
+ ],
+ "strong": "H1104",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "בָּלַע",
+      "translit": "bala",
+      "ref": "Job.20.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "בְּלָעוּנוּ",
+      "translit": "bela'unu",
+      "ref": "Ps.124.3",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּבְלַע",
+      "translit": "vayyivla",
+      "ref": "Exod.7.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּבְלַע",
+      "translit": "vattivla",
+      "ref": "Num.16.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וַתִּבְלַעְןָ",
+      "translit": "vattivla'na",
+      "ref": "Gen.41.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וּבָלְעָה",
+      "translit": "uval'ah",
+      "ref": "Num.16.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִבְלָע",
+      "translit": "yivla",
+      "ref": "Job.20.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּבְלָעֵמוֹ",
+      "translit": "tivla'emo",
+      "ref": "Exod.15.12",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִבְלָעֻֽהוּ",
+      "translit": "yivla'uhu",
+      "ref": "Hos.8.7",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּבְלָעֵנִי",
+      "translit": "tivla'eni",
+      "ref": "Ps.69.16",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִבְלָעֵם",
+      "translit": "nivla'em",
+      "ref": "Prov.1.12",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בִּלְעִי",
+      "translit": "bil'i",
+      "ref": "Job.7.19",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "בִּלַּע",
+      "translit": "billa",
+      "ref": "Isa.25.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "בִּלֵּֽעוּ",
+      "translit": "bille'u",
+      "ref": "Isa.3.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "בִּלָּעְנוּ",
+      "translit": "billa'nu",
+      "ref": "Lam.2.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַֽתְּבַלְּעֵֽנִי",
+      "translit": "vattevalle'eni",
+      "ref": "Job.10.8",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּבִלַּע",
+      "translit": "uvilla",
+      "ref": "Isa.25.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְבַלַּע",
+      "translit": "yevalla",
+      "ref": "Prov.19.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲבַלַּע",
+      "translit": "avalla",
+      "ref": "2Sam.20.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְבַלַּע",
+      "translit": "tevalla",
+      "ref": "2Sam.20.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּבַלְּעֶֽנּוּ",
+      "translit": "tevalle'ennu",
+      "ref": "Eccl.10.12",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "בַּלַּע",
+      "translit": "balla",
+      "ref": "Ps.55.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְּבַלַּע",
+      "translit": "bevalla",
+      "ref": "Hab.1.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְבֻלַּע",
+      "translit": "yevulla",
+      "ref": "2Sam.17.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְבֻלָּעִֽים",
+      "translit": "mevulla'im",
+      "ref": "Isa.9.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "swallow up",
+  "pual": "be swallowed up"
+ },
+ "root": "בלע",
+ "search_match": [
+  "1104",
+  "bala",
+  "be swallowed up",
+  "h1104",
+  "swallow",
+  "swallow up",
+  "בלע"
+ ],
+ "citation_translit": "bala"
+}

@@ -1,0 +1,317 @@
+{
+ "glosses": [
+  "shoot"
+ ],
+ "strong": "H3384",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַמּוֹרִים",
+      "translit": "hammorim",
+      "ref": "1Chr.10.3",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מוֹרֶה",
+      "translit": "moreh",
+      "ref": "1Sam.20.36",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תוֹרֵם",
+      "translit": "torem",
+      "ref": "1Kgs.8.36",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אוֹרֶה",
+      "translit": "oreh",
+      "ref": "1Sam.20.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יוֹרֶה",
+      "translit": "yoreh",
+      "ref": "2Kgs.17.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יוֹרוּ",
+      "translit": "yoru",
+      "ref": "2Sam.11.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְתֹרֶךָּ",
+      "translit": "vtorekka",
+      "ref": "Job.12.7",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהוֹרֵיתִי",
+      "translit": "vhoreti",
+      "ref": "1Sam.12.23",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיֹּרוּ",
+      "translit": "vayyoru",
+      "ref": "2Chr.35.23",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיּוֹר",
+      "translit": "vayyor",
+      "ref": "2Kgs.13.17",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הוֹרָהוּ",
+      "translit": "horahu",
+      "ref": "2Kgs.12.3",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הֹרֵתִיךָ",
+      "translit": "horetikha",
+      "ref": "Exod.4.12",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הוֹרֵתָֽנִי",
+      "translit": "horetani",
+      "ref": "Ps.119.102",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּלְהוֹרֹת",
+      "translit": "ulhorot",
+      "ref": "Exod.24.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הוֹרוּנִי",
+      "translit": "horuni",
+      "ref": "Job.6.24",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הוֹרֵנִי",
+      "translit": "horeni",
+      "ref": "Job.34.32",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַיּוֹרִֽים",
+      "translit": "hayyorim",
+      "ref": "1Chr.10.3",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַיֹּרֶה",
+      "translit": "hayyoreh",
+      "ref": "Prov.26.18",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָרָה",
+      "translit": "yarah",
+      "ref": "1Sam.20.36",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "יָרִיתִי",
+      "translit": "yariti",
+      "ref": "Gen.31.51",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִירוֹת",
+      "translit": "lirot",
+      "ref": "2Chr.26.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "יְרֵה",
+      "translit": "yreh",
+      "ref": "2Kgs.13.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "יָרֹה",
+      "translit": "yaroh",
+      "ref": "Exod.19.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְיָרִיתִי",
+      "translit": "vyariti",
+      "ref": "Josh.18.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וַנִּירָם",
+      "translit": "vanniram",
+      "ref": "Num.21.30",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִיָּרֶה",
+      "translit": "yiyyareh",
+      "ref": "Exod.19.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יוֹרֶֽא",
+      "translit": "yore",
+      "ref": "Prov.11.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be shot (with arrows)",
+  "hiphil": "teach",
+  "hophal": "be watered"
+ },
+ "root": "ירה",
+ "search_match": [
+  "3384",
+  "h3384",
+  "teach",
+  "yarah",
+  "ירה"
+ ],
+ "citation_translit": "yarah"
+}

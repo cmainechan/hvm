@@ -1,0 +1,189 @@
+{
+ "glosses": [
+  "measure"
+ ],
+ "strong": "H4058",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "מָדַד",
+      "translit": "madad",
+      "ref": "Ezek.40.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּמֹדּוּ",
+      "translit": "vayyamoddu",
+      "ref": "Exod.16.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּמָד",
+      "translit": "vayyamad",
+      "ref": "Ezek.40.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּמוֹד",
+      "translit": "tamod",
+      "ref": "Ezek.45.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תָּמֹדּוּ",
+      "translit": "tamoddu",
+      "ref": "Ezek.47.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וּמָדְדוּ",
+      "translit": "umaddu",
+      "ref": "Deut.21.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּמָדַד",
+      "translit": "umadad",
+      "ref": "Ezek.40.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וּמַדֹּתִי",
+      "translit": "umaddoti",
+      "ref": "Isa.65.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּמַדֹּתֶם",
+      "translit": "umaddotem",
+      "ref": "Num.35.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לָמֹד",
+      "translit": "lamod",
+      "ref": "Zech.2.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִמַּד",
+      "translit": "yimmad",
+      "ref": "Hos.2.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִמַּדּוּ",
+      "translit": "yimmaddu",
+      "ref": "Jer.31.37",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְמַדֵּד",
+      "translit": "vaymadded",
+      "ref": "2Sam.8.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲמַדֵּֽד",
+      "translit": "amadded",
+      "ref": "Ps.60.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲמַדֵּֽד",
+      "translit": "amadded",
+      "ref": "Ps.108.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be measured",
+  "piel": "measure"
+ },
+ "root": "מדד",
+ "search_match": [
+  "4058",
+  "h4058",
+  "madad",
+  "measure",
+  "מדד"
+ ],
+ "citation_translit": "madad"
+}

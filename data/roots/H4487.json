@@ -1,0 +1,148 @@
+{
+ "glosses": [
+  "count"
+ ],
+ "strong": "H4487",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "מָנָה",
+      "translit": "manah",
+      "ref": "Num.23.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וּמָנִיתִי",
+      "translit": "umaniti",
+      "ref": "Isa.65.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּמְנוּ",
+      "translit": "vayyimnu",
+      "ref": "2Kgs.12.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִֽמְנֶה",
+      "translit": "timneh",
+      "ref": "1Kgs.20.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "מְנֵה",
+      "translit": "meneh",
+      "ref": "2Sam.24.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מוֹנֶה",
+      "translit": "moneh",
+      "ref": "Jer.33.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִמְנוֹת",
+      "translit": "limnot",
+      "ref": "1Chr.21.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "מִנָּה",
+      "translit": "minnah",
+      "ref": "Dan.1.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "מִנּוּ",
+      "translit": "minnu",
+      "ref": "Job.7.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְמַן",
+      "translit": "vayman",
+      "ref": "Dan.1.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "מַן",
+      "translit": "man",
+      "ref": "Ps.61.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "appoint"
+ },
+ "root": "מנה",
+ "search_match": [
+  "4487",
+  "appoint",
+  "count",
+  "h4487",
+  "manah",
+  "מנה"
+ ],
+ "citation_translit": "manah"
+}

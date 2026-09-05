@@ -1,0 +1,183 @@
+{
+ "glosses": [
+  "measure"
+ ],
+ "strong": "H3557",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְכָל",
+      "translit": "vekhal",
+      "ref": "Isa.40.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive (pilpel form — this root's stand-in for piel, since its middle radical can't double)",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "כִלְכַּל",
+      "translit": "kilkal",
+      "ref": "2Sam.19.33",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "כִּלְכַּלְתָּם",
+      "translit": "kilkaltam",
+      "ref": "Neh.9.21",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְכַלְכֵּל",
+      "translit": "vaykhalkel",
+      "ref": "Gen.47.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֲכַלְכְּלֵם",
+      "translit": "va'akhalkelem",
+      "ref": "1Kgs.18.13",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְכִלְכַּלְתִּי",
+      "translit": "vekhilkalti",
+      "ref": "Gen.45.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲכַלְכֵּל",
+      "translit": "akhalkel",
+      "ref": "Gen.50.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְכַלְכֵּל",
+      "translit": "yekhalkel",
+      "ref": "Ps.112.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְכַלְכְּלוּךָ",
+      "translit": "yekhalkelukha",
+      "ref": "1Kgs.8.27",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְכַלְכֵּל",
+      "translit": "mekhalkel",
+      "ref": "Mal.3.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כַּֽלְכֵל",
+      "translit": "kalkel",
+      "ref": "Jer.20.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָכִֽיל",
+      "translit": "yakhil",
+      "ref": "1Kgs.7.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָכִלוּ",
+      "translit": "yakhlu",
+      "ref": "Jer.2.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הָכִיל",
+      "translit": "hakhil",
+      "ref": "Jer.6.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "sustain",
+  "hiphil": "contain; endure"
+ },
+ "root": "כול",
+ "search_match": [
+  "3557",
+  "contain",
+  "endure",
+  "h3557",
+  "kul",
+  "measure",
+  "sustain",
+  "כול"
+ ],
+ "citation_translit": "kul"
+}

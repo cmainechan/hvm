@@ -1,0 +1,560 @@
+{
+ "glosses": [
+  "say"
+ ],
+ "strong": "H559",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "אָמַר",
+      "translit": "amar",
+      "ref": "1Chr.15.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָמַרְתִּי",
+      "translit": "amarti",
+      "ref": "1Chr.21.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "אָמַרְתָּ",
+      "translit": "amarta",
+      "ref": "1Kgs.1.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "אָמְרוּ",
+      "translit": "amru",
+      "ref": "1Kgs.9.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "אָמְרָה",
+      "translit": "amrah",
+      "ref": "1Sam.1.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "אֲמַרְתֶּם",
+      "translit": "amartem",
+      "ref": "1Sam.12.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "אָמַרְנוּ",
+      "translit": "amarnu",
+      "ref": "2Kgs.7.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "אָמַרְתְּ",
+      "translit": "amart",
+      "ref": "2Sam.6.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֹּאמֶר",
+      "translit": "vayyo'mer",
+      "ref": "1Chr.10.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיֹּאמְרוּ",
+      "translit": "vayyo'mru",
+      "ref": "1Chr.11.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתֹּאמֶר",
+      "translit": "vatto'mer",
+      "ref": "1Kgs.1.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתֹּאמֶר",
+      "translit": "vatto'mer",
+      "ref": "1Kgs.2.42",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֹמַר",
+      "translit": "va'omar",
+      "ref": "1Kgs.21.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וַתֹּאמַרְנָה",
+      "translit": "vatto'marnah",
+      "ref": "1Sam.9.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַתֹּאמְרוּ",
+      "translit": "vatto'mru",
+      "ref": "1Sam.10.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וַנֹּאמֶר",
+      "translit": "vanno'mer",
+      "ref": "Gen.26.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַתֹּאמְרִי",
+      "translit": "vatto'mri",
+      "ref": "Isa.47.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "אֹמֶרֶת",
+      "translit": "omeret",
+      "ref": "1Kgs.3.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "אֹמֵר",
+      "translit": "omer",
+      "ref": "1Kgs.5.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "אֹמְרִים",
+      "translit": "omrim",
+      "ref": "2Chr.13.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "אֹמְרוֹת",
+      "translit": "omrot",
+      "ref": "Amos.4.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הֶאָמוּר",
+      "translit": "he'amur",
+      "ref": "Mic.2.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֹאמְרוּ",
+      "translit": "yo'mru",
+      "ref": "1Chr.16.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֹאמַר",
+      "translit": "to'mar",
+      "ref": "1Chr.17.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֹאמַר",
+      "translit": "yo'mar",
+      "ref": "1Kgs.1.36",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תֹאמְרוּ",
+      "translit": "to'mru",
+      "ref": "1Sam.11.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֹמַר",
+      "translit": "omar",
+      "ref": "1Sam.16.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֹּאמַר",
+      "translit": "to'mar",
+      "ref": "1Sam.20.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נֹּאמַר",
+      "translit": "no'mar",
+      "ref": "2Sam.12.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תֹּאמַרְנָה",
+      "translit": "to'marnah",
+      "ref": "Esth.1.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תֹּאמְרִי",
+      "translit": "to'mri",
+      "ref": "Jer.2.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְאָמַרְתָּ",
+      "translit": "v'amarta",
+      "ref": "1Chr.17.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְאָמַרְתְּ",
+      "translit": "v'amart",
+      "ref": "1Kgs.1.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַאֲמַרְתֶּם",
+      "translit": "va'amartem",
+      "ref": "1Kgs.1.34",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְאָמַר",
+      "translit": "v'amar",
+      "ref": "1Sam.2.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְאָמְרוּ",
+      "translit": "v'amru",
+      "ref": "1Sam.10.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאָמַרְתִּי",
+      "translit": "v'amarti",
+      "ref": "2Sam.13.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְאָמְרָה",
+      "translit": "v'amrah",
+      "ref": "Deut.25.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְאָמַרְנוּ",
+      "translit": "v'amarnu",
+      "ref": "Gen.37.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "אִמְרוּ",
+      "translit": "imru",
+      "ref": "1Chr.16.35",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "אִמְרִי",
+      "translit": "imri",
+      "ref": "1Kgs.2.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "אֱמֹר",
+      "translit": "emor",
+      "ref": "1Kgs.12.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "אֲמֹר",
+      "translit": "amor",
+      "ref": "1Chr.4.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "אָמוֹר",
+      "translit": "amor",
+      "ref": "1Sam.2.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אוֹמְרָה",
+      "translit": "omrah",
+      "ref": "Gen.46.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֹאמַר",
+      "translit": "yo'mar",
+      "ref": "1Kgs.22.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֹּאמַר",
+      "translit": "to'mar",
+      "ref": "Deut.9.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֹאמְרוּ",
+      "translit": "yo'mru",
+      "ref": "Ps.35.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נֶאֱמַר",
+      "translit": "ne'emar",
+      "ref": "Dan.8.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֵּאָמַר",
+      "translit": "vayye'amar",
+      "ref": "Josh.2.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵאָמֵר",
+      "translit": "ye'amer",
+      "ref": "Ezek.13.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הֶאֱמַרְתָּ",
+      "translit": "he'emarta",
+      "ref": "Deut.26.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֶאֱמִֽירְךָ",
+      "translit": "he'emirkha",
+      "ref": "Deut.26.18",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִֽתְאַמְּרוּ",
+      "translit": "yit'ammru",
+      "ref": "Ps.94.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "declare",
+  "hitpael": "boast (of oneself)",
+  "niphal": "be said"
+ },
+ "root": "אמר",
+ "search_match": [
+  "559",
+  "amar",
+  "h559",
+  "say",
+  "אמר"
+ ],
+ "citation_translit": "amar"
+}

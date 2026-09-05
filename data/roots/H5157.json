@@ -1,0 +1,323 @@
+{
+ "glosses": [
+  "inherit"
+ ],
+ "strong": "H5157",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּנְחַלְתָּֽנוּ",
+      "translit": "unchaltanu",
+      "ref": "Exod.34.9",
+      "has_suffix": true,
+      "has_prefix": true
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָחֲלוּ",
+      "translit": "nachalu",
+      "ref": "Jer.16.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נָחַלְתִּי",
+      "translit": "nachalti",
+      "ref": "Ps.119.111",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּנְחֲלוּ",
+      "translit": "vayyinchalu",
+      "ref": "Josh.16.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִנְחַל",
+      "translit": "tinchal",
+      "ref": "Deut.19.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִנְחַל",
+      "translit": "yinchal",
+      "ref": "Isa.57.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִנְחֲלוּ",
+      "translit": "yinchalu",
+      "ref": "Num.18.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִנְחַל",
+      "translit": "ninchal",
+      "ref": "Num.32.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְנָחַלְתָּ",
+      "translit": "vnachalta",
+      "ref": "Exod.23.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנָחֲלוּ",
+      "translit": "vnachalu",
+      "ref": "Exod.32.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּנְחַלְתֶּם",
+      "translit": "unchaltem",
+      "ref": "Ezek.47.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנָחַל",
+      "translit": "vnachal",
+      "ref": "Zech.2.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִנְחֹל",
+      "translit": "linchol",
+      "ref": "Josh.19.49",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִחַל",
+      "translit": "nichal",
+      "ref": "Josh.13.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִֽחֲלוּ",
+      "translit": "nichalu",
+      "ref": "Josh.14.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְנַחֵל",
+      "translit": "lnachel",
+      "ref": "Num.34.29",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הִנְחַלְתִּי",
+      "translit": "hinchalti",
+      "ref": "Jer.3.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַנְחִיל",
+      "translit": "manchil",
+      "ref": "Deut.12.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַנְחִיל",
+      "translit": "yanchil",
+      "ref": "1Sam.2.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּנְחִיל",
+      "translit": "tanchil",
+      "ref": "Deut.31.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהִנְחַלְתֶּם",
+      "translit": "vhinchaltem",
+      "ref": "1Chr.28.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַנְחִיל",
+      "translit": "lhanchil",
+      "ref": "Deut.21.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הָנְחַלְתִּי",
+      "translit": "hanchalti",
+      "ref": "Job.7.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּתְנַחֲלוּ",
+      "translit": "titnachalu",
+      "ref": "Ezek.47.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִֽתְנַחֲלוּם",
+      "translit": "vhitnachalum",
+      "ref": "Isa.14.2",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהִתְנַחֲלְתֶּם",
+      "translit": "vhitnachaltem",
+      "ref": "Lev.25.46",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִתְנַחֵל",
+      "translit": "hitnachel",
+      "ref": "Num.32.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "apportion as inheritance",
+  "hiphil": "give as inheritance",
+  "hophal": "be given as inheritance",
+  "hitpael": "take possession"
+ },
+ "root": "נחל",
+ "search_match": [
+  "5157",
+  "h5157",
+  "inherit",
+  "nachal",
+  "נחל"
+ ],
+ "citation_translit": "nachal"
+}

@@ -1,0 +1,447 @@
+{
+ "glosses": [
+  "turn"
+ ],
+ "strong": "H6437",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "פָנִיתָ",
+      "translit": "fanita",
+      "ref": "2Sam.9.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "פָנָה",
+      "translit": "fanah",
+      "ref": "Deut.31.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וּפָנִיתִֽי",
+      "translit": "ufaniti",
+      "ref": "Eccl.2.11",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "פָּנִינוּ",
+      "translit": "paninu",
+      "ref": "Isa.53.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "פָּנוּ",
+      "translit": "panu",
+      "ref": "Isa.56.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתֵּפֶן",
+      "translit": "vattefen",
+      "ref": "1Kgs.10.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּפְנוּ",
+      "translit": "vayyifnu",
+      "ref": "2Chr.13.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּפֶן",
+      "translit": "vayyifen",
+      "ref": "2Chr.26.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וַנֵּפֶן",
+      "translit": "vannefen",
+      "ref": "Deut.2.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֵפֶן",
+      "translit": "va'efen",
+      "ref": "Deut.9.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "פֹּנִים",
+      "translit": "ponim",
+      "ref": "1Kgs.7.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "פֹּנֶה",
+      "translit": "poneh",
+      "ref": "2Chr.25.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "הַפֹּנוֹת",
+      "translit": "happonot",
+      "ref": "Ezek.46.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּפְנֶה",
+      "translit": "tifneh",
+      "ref": "1Kgs.2.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִפְנֶה",
+      "translit": "yifneh",
+      "ref": "1Sam.13.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאֶפְנֶה",
+      "translit": "v'efneh",
+      "ref": "Gen.24.49",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִפְנוּ",
+      "translit": "yifnu",
+      "ref": "Isa.13.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּפְנֶה",
+      "translit": "tifneh",
+      "ref": "Lev.20.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּפָנִיתָ",
+      "translit": "ufanita",
+      "ref": "1Kgs.8.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּפָנָה",
+      "translit": "ufanah",
+      "ref": "Deut.31.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וּפָנִיתִי",
+      "translit": "ufaniti",
+      "ref": "Ezek.36.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "פְּנוּ",
+      "translit": "pnu",
+      "ref": "Deut.1.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "פְּנֵה",
+      "translit": "pneh",
+      "ref": "Ps.25.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "פְּנוֹת",
+      "translit": "pnot",
+      "ref": "Deut.23.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "פָּנֹה",
+      "translit": "panoh",
+      "ref": "Hag.1.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֵּפֶן",
+      "translit": "tefen",
+      "ref": "Deut.9.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּפְנוּ",
+      "translit": "tifnu",
+      "ref": "Lev.19.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "פִּנִּיתִי",
+      "translit": "pinniti",
+      "ref": "Gen.24.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "פִּנִּיתָ",
+      "translit": "pinnita",
+      "ref": "Ps.80.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "פִּנָּה",
+      "translit": "pinnah",
+      "ref": "Zeph.3.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וּפִנּוּ",
+      "translit": "ufinnu",
+      "ref": "Lev.14.36",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּפִנָּה",
+      "translit": "ufinnah",
+      "ref": "Mal.3.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "פַּנּוּ",
+      "translit": "pannu",
+      "ref": "Isa.40.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִפְנוּ",
+      "translit": "hifnu",
+      "ref": "Jer.46.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִפְנָה",
+      "translit": "hifnah",
+      "ref": "Jer.48.39",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הִפְנְתָה",
+      "translit": "hifntah",
+      "ref": "Jer.49.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֶּפֶן",
+      "translit": "vayyefen",
+      "ref": "Judg.15.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַפְנֶֽה",
+      "translit": "mafneh",
+      "ref": "Nah.2.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כְּהַפְנֹתוֹ",
+      "translit": "khafnoto",
+      "ref": "1Sam.10.9",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מָפְנֶה",
+      "translit": "mafneh",
+      "ref": "Ezek.9.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הָפְנוּ",
+      "translit": "hafnu",
+      "ref": "Jer.49.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "remove",
+  "hiphil": "turn",
+  "hophal": "be turned"
+ },
+ "root": "פנה",
+ "search_match": [
+  "6437",
+  "h6437",
+  "panah",
+  "turn",
+  "פנה"
+ ],
+ "citation_translit": "panah"
+}

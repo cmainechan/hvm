@@ -1,0 +1,294 @@
+{
+ "glosses": [
+  "steal"
+ ],
+ "strong": "H1589",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "גָּנְבוּ",
+      "translit": "ganvu",
+      "ref": "2Sam.19.42",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "גָנַבְתָּ",
+      "translit": "ganavta",
+      "ref": "Gen.31.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "גְּנָבַתּוּ",
+      "translit": "gnavattu",
+      "ref": "Gen.31.32",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּגְנֹב",
+      "translit": "vattignov",
+      "ref": "2Chr.22.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּגְנֹב",
+      "translit": "vayyignov",
+      "ref": "Gen.31.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתִּגְנֹב",
+      "translit": "vattignov",
+      "ref": "Gen.31.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "גֹּנֵב",
+      "translit": "gonev",
+      "ref": "Deut.24.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "גָּנוּב",
+      "translit": "ganuv",
+      "ref": "Gen.30.33",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "גְּנוּבִים",
+      "translit": "gnuvim",
+      "ref": "Prov.9.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּגְנֹֽב",
+      "translit": "tignov",
+      "ref": "Deut.5.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִגְנֹֽב",
+      "translit": "yignov",
+      "ref": "Exod.21.37",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִגְנֹב",
+      "translit": "nignov",
+      "ref": "Gen.44.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּגְנֹבוּ",
+      "translit": "tignovu",
+      "ref": "Lev.19.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִגְנְבוּ",
+      "translit": "yignvu",
+      "ref": "Obad.1.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְגָנַבְתִּי",
+      "translit": "vganavti",
+      "ref": "Prov.30.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "גָּנֹב",
+      "translit": "ganov",
+      "ref": "Exod.22.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִגָּנֵב",
+      "translit": "yigganev",
+      "ref": "Exod.22.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְגַנֵּב",
+      "translit": "vaygannev",
+      "ref": "2Sam.15.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "גֻּנַּבְתִּי",
+      "translit": "gunnavti",
+      "ref": "Gen.40.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְגֻנָּב",
+      "translit": "ygunnav",
+      "ref": "Job.4.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְגֻנַּב",
+      "translit": "vgunnav",
+      "ref": "Exod.22.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "גֻנֹּב",
+      "translit": "gunnov",
+      "ref": "Gen.40.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּתְגַּנֵּב",
+      "translit": "vayyitgannev",
+      "ref": "2Sam.19.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְגַּנֵּב",
+      "translit": "yitgannev",
+      "ref": "2Sam.19.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "steal away secretly",
+  "hitpael": "steal away",
+  "niphal": "be stolen",
+  "pual": "be stolen"
+ },
+ "root": "גנב",
+ "search_match": [
+  "1589",
+  "ganav",
+  "h1589",
+  "steal",
+  "גנב"
+ ],
+ "citation_translit": "ganav"
+}

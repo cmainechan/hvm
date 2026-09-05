@@ -1,0 +1,730 @@
+{
+ "glosses": [
+  "be strong"
+ ],
+ "strong": "H2388",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חָזַק",
+      "translit": "chazaq",
+      "ref": "1Chr.21.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חָזְקוּ",
+      "translit": "chazqu",
+      "ref": "1Kgs.20.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "חָזְקָה",
+      "translit": "chazqah",
+      "ref": "2Chr.25.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חֲזַקְתַּנִי",
+      "translit": "chazaqtani",
+      "ref": "Jer.20.7",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֶּחֱזַק",
+      "translit": "vayyechezaq",
+      "ref": "1Kgs.16.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתֶּחֱזַק",
+      "translit": "vattechezaq",
+      "ref": "Exod.12.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֶּחֱזַק",
+      "translit": "techezaq",
+      "ref": "1Chr.19.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֶֽחֶזְקוּ",
+      "translit": "yechezqu",
+      "ref": "1Chr.19.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶחֱזַק",
+      "translit": "yechezaq",
+      "ref": "1Chr.28.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נֶחֱזַק",
+      "translit": "nechezaq",
+      "ref": "1Kgs.20.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תֶּחֶזְקוּ",
+      "translit": "techezqu",
+      "ref": "Deut.11.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תֶּחֱזַקְנָה",
+      "translit": "techezaqnah",
+      "ref": "Ezek.22.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְחָזַקְתָּ",
+      "translit": "vchazaqta",
+      "ref": "1Kgs.2.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְחָזְקוּ",
+      "translit": "vchazqu",
+      "ref": "2Sam.16.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַחֲזַקְתֶּם",
+      "translit": "vachazaqtem",
+      "ref": "Josh.23.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חֲזַק",
+      "translit": "chazaq",
+      "ref": "1Chr.19.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "חִזְקוּ",
+      "translit": "chizqu",
+      "ref": "2Chr.15.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְחָזְקָהּ",
+      "translit": "lchazqahh",
+      "ref": "Ezek.30.21",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תֶּחֱזַקְנָה",
+      "translit": "techezaqnah",
+      "ref": "2Sam.2.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חִזְּקוּ",
+      "translit": "chizzqu",
+      "ref": "2Kgs.12.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חִזַּקְתָּֽנִי",
+      "translit": "chizzaqtani",
+      "ref": "Dan.10.19",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "חִזַּקְתֶּם",
+      "translit": "chizzaqtem",
+      "ref": "Ezek.34.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "חִזַּקְתִּי",
+      "translit": "chizzaqti",
+      "ref": "Hos.7.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חִזַּק",
+      "translit": "chizzaq",
+      "ref": "Ps.147.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְחַזֵּק",
+      "translit": "vaychazzeq",
+      "ref": "1Sam.23.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיְחַזְּקוּ",
+      "translit": "vaychazzqu",
+      "ref": "2Chr.11.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְחַזְּקִים",
+      "translit": "mchazzqim",
+      "ref": "2Kgs.12.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְחַזֵּק",
+      "translit": "mchazzeq",
+      "ref": "Exod.14.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְחַזְּקוּ",
+      "translit": "ychazzqu",
+      "ref": "2Kgs.12.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲחַזֵּק",
+      "translit": "achazzeq",
+      "ref": "Exod.4.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּחַזֵּֽק",
+      "translit": "tchazzeq",
+      "ref": "Job.4.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְחִזְּקוּ",
+      "translit": "vchizzqu",
+      "ref": "2Kgs.12.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְחִזַּקְתִּי",
+      "translit": "vchizzaqti",
+      "ref": "Exod.14.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חַזֵּק",
+      "translit": "chazzeq",
+      "ref": "2Sam.11.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "חַזְּקוּ",
+      "translit": "chazzqu",
+      "ref": "Isa.35.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "חַזֵּֽקִי",
+      "translit": "chazzeqi",
+      "ref": "Isa.54.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "חַזֵּק",
+      "translit": "chazzeq",
+      "ref": "1Chr.26.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֶחֱזִיק",
+      "translit": "hecheziq",
+      "ref": "2Chr.26.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הֶחֱזִֽיקָה",
+      "translit": "hecheziqah",
+      "ref": "Ezek.16.49",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הֶחֱזַקְתִּי",
+      "translit": "hechezaqti",
+      "ref": "Isa.41.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֶחֱזִיקוּ",
+      "translit": "hecheziqu",
+      "ref": "Jer.8.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּחֲזֵק",
+      "translit": "vayyachazeq",
+      "ref": "1Kgs.1.50",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיַּחֲזִקוּ",
+      "translit": "vayyachaziqu",
+      "ref": "1Kgs.9.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתַּחֲזֶק",
+      "translit": "vattachazeq",
+      "ref": "2Kgs.4.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַחֲזִיק",
+      "translit": "machaziq",
+      "ref": "2Chr.4.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַחֲזִיקִים",
+      "translit": "machaziqim",
+      "ref": "Isa.56.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מַחֲזֶקֶת",
+      "translit": "machazeqet",
+      "ref": "Neh.4.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַחֲזִיקוּ",
+      "translit": "yachaziqu",
+      "ref": "Dan.11.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחֲזִיק",
+      "translit": "yachaziq",
+      "ref": "Isa.27.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאַחְזֵק",
+      "translit": "v'achzeq",
+      "ref": "Isa.42.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהֶחֱזַקְתִּי",
+      "translit": "vhechezaqti",
+      "ref": "1Sam.17.35",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהֶחֱזִיק",
+      "translit": "vhecheziq",
+      "ref": "2Sam.15.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְהֶחֱזִיקָה",
+      "translit": "vhecheziqah",
+      "ref": "Deut.25.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהֶחֱזִיקוּ",
+      "translit": "vhecheziqu",
+      "ref": "Isa.4.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהֶֽחֱזַקְתָּ",
+      "translit": "vhechezaqta",
+      "ref": "Lev.25.35",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַחֲזֵק",
+      "translit": "hachazeq",
+      "ref": "2Sam.11.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הַחֲזִיקִי",
+      "translit": "hachaziqi",
+      "ref": "Gen.21.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הַחֲזִיקוּ",
+      "translit": "hachaziqu",
+      "ref": "Jer.51.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַחֲזִיק",
+      "translit": "lhachaziq",
+      "ref": "2Kgs.15.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִתְחַזַּק",
+      "translit": "hitchazzaq",
+      "ref": "2Chr.13.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הִתְחַזַּקְתִּי",
+      "translit": "hitchazzaqti",
+      "ref": "Dan.10.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּתְחַזֵּק",
+      "translit": "vayyitchazzeq",
+      "ref": "1Sam.30.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַמִּתְחַזְּקִים",
+      "translit": "hammitchazzqim",
+      "ref": "1Chr.11.10",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִתְחַזֵּק",
+      "translit": "mitchazzeq",
+      "ref": "2Sam.3.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתְחַזָּֽקוּ",
+      "translit": "yitchazzaqu",
+      "ref": "Ezek.7.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהִתְחַזַּקְתֶּם",
+      "translit": "vhitchazzaqtem",
+      "ref": "Num.13.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִתְחַזַּק",
+      "translit": "hitchazzaq",
+      "ref": "1Kgs.20.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הִֽתְחַזְּקוּ",
+      "translit": "hitchazzqu",
+      "ref": "1Sam.4.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִתְחַזֵּק",
+      "translit": "lhitchazzeq",
+      "ref": "2Chr.13.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְנִֽתְחַזְּקָה",
+      "translit": "vnitchazzqah",
+      "ref": "1Chr.19.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "strengthen",
+  "hiphil": "strengthen",
+  "hitpael": "strengthen oneself"
+ },
+ "root": "חזק",
+ "search_match": [
+  "2388",
+  "be strong",
+  "chazaq",
+  "h2388",
+  "חזק"
+ ],
+ "citation_translit": "chazaq"
+}

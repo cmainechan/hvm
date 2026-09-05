@@ -1,0 +1,106 @@
+{
+ "glosses": [
+  "plunder"
+ ],
+ "strong": "H7997",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְשָׁלְלוּ",
+      "translit": "vshallu",
+      "ref": "Ezek.26.12",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְשָׁלַל",
+      "translit": "vshalal",
+      "ref": "Ezek.29.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִשְׁלֹל",
+      "translit": "lishlol",
+      "ref": "Ezek.38.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "שַׁלּוֹתָ",
+      "translit": "shallota",
+      "ref": "Hab.2.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְשָׁלּוּךָ",
+      "translit": "yshallukha",
+      "ref": "Hab.2.8",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תָּשֹׁלּוּ",
+      "translit": "tashollu",
+      "ref": "Ruth.2.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "שֹׁל",
+      "translit": "shol",
+      "ref": "Ruth.2.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַשֹּׁלְלִים",
+      "translit": "hashshollim",
+      "ref": "Zech.2.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "שלל",
+ "search_match": [
+  "7997",
+  "h7997",
+  "plunder",
+  "shalal",
+  "שלל"
+ ],
+ "citation_translit": "shalal"
+}

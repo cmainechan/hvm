@@ -1,0 +1,428 @@
+{
+ "glosses": [
+  "burn"
+ ],
+ "strong": "H1197",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "בָּעֲרוּ",
+      "translit": "ba'aru",
+      "ref": "2Sam.22.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "בָעֲרָה",
+      "translit": "va'arah",
+      "ref": "Esth.1.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּבְעַר",
+      "translit": "vattiv'ar",
+      "ref": "Isa.42.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּבְעַר",
+      "translit": "vayyiv'ar",
+      "ref": "Lam.2.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "בֹּעֵר",
+      "translit": "bo'er",
+      "ref": "Deut.4.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "בֹּֽעֲרוֹת",
+      "translit": "bo'arot",
+      "ref": "Ezek.1.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "בֹּֽעֲרִים",
+      "translit": "bo'arim",
+      "ref": "Ezek.21.36",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "בֹּעֵרָה",
+      "translit": "bo'erah",
+      "ref": "Hos.7.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִבְעַר",
+      "translit": "yiv'ar",
+      "ref": "Exod.3.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּבְעַר",
+      "translit": "tiv'ar",
+      "ref": "Isa.43.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִבְעֲרוּ",
+      "translit": "yiv'aru",
+      "ref": "Jer.10.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וּבָעֲרוּ",
+      "translit": "uva'aru",
+      "ref": "Isa.1.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וּבָעֲרָה",
+      "translit": "uva'arah",
+      "ref": "Isa.10.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִבְעַר",
+      "translit": "niv'ar",
+      "ref": "Jer.10.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִבְעֲרוּ",
+      "translit": "niv'aru",
+      "ref": "Jer.10.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "נִבְעָרָה",
+      "translit": "niv'arah",
+      "ref": "Isa.19.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "בִּעֵר",
+      "translit": "bi'er",
+      "ref": "1Kgs.22.47",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "בִעַרְתָּ",
+      "translit": "vi'arta",
+      "ref": "2Chr.19.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "בִּעַרְתִּי",
+      "translit": "bi'arti",
+      "ref": "Deut.26.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "בִּֽעַרְתֶּם",
+      "translit": "bi'artem",
+      "ref": "Isa.3.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְבַעֲרִים",
+      "translit": "mva'arim",
+      "ref": "Jer.7.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְבַעֵר",
+      "translit": "yva'er",
+      "ref": "1Kgs.14.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּבַעֵר",
+      "translit": "tva'er",
+      "ref": "Deut.21.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְבַעֲרוּ",
+      "translit": "tva'aru",
+      "ref": "Exod.35.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְבַֽעֲרוּ",
+      "translit": "yva'aru",
+      "ref": "Ezek.39.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וּבִעַרְתִּי",
+      "translit": "uvi'arti",
+      "ref": "1Kgs.14.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּבִֽעַרְתָּ",
+      "translit": "uvi'arta",
+      "ref": "Deut.13.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּבִעֵר",
+      "translit": "uvi'er",
+      "ref": "Exod.22.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וּבִעֲרוּ",
+      "translit": "uvi'aru",
+      "ref": "Ezek.39.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בָּעֵר",
+      "translit": "ba'er",
+      "ref": "2Chr.4.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בָּעֵֽר",
+      "translit": "ba'er",
+      "ref": "Isa.4.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וּנְבַעֲרָה",
+      "translit": "unva'arah",
+      "ref": "Judg.20.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מְבֹעָֽרֶת",
+      "translit": "mvo'aret",
+      "ref": "Jer.36.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִבְעַרְתִּי",
+      "translit": "vhiv'arti",
+      "ref": "Nah.2.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּבְעֵר",
+      "translit": "vayyav'er",
+      "ref": "2Chr.28.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַבְעִיר",
+      "translit": "mav'ir",
+      "ref": "1Kgs.16.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַבְעֶר",
+      "translit": "yav'er",
+      "ref": "Exod.22.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּבְעִיר",
+      "translit": "tav'ir",
+      "ref": "Ezek.5.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "kindle",
+  "hiphil": "kindle",
+  "niphal": "be kindled",
+  "pual": "be kindled"
+ },
+ "root": "בער",
+ "search_match": [
+  "1197",
+  "ba'ar",
+  "burn (baar)",
+  "h1197",
+  "בער"
+ ],
+ "citation_translit": "ba'ar"
+}

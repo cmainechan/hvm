@@ -1,0 +1,620 @@
+{
+ "glosses": [
+  "visit"
+ ],
+ "strong": "H6485",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "פָּקַד",
+      "translit": "paqad",
+      "ref": "1Chr.21.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "פָּקַדְתִּי",
+      "translit": "paqadti",
+      "ref": "1Sam.15.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "פָקַדְנוּ",
+      "translit": "faqadnu",
+      "ref": "1Sam.25.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "פָּקַדְתָּ",
+      "translit": "paqadta",
+      "ref": "Isa.26.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "פָקָדוּ",
+      "translit": "faqadu",
+      "ref": "Isa.26.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "פְקַדְתֶּם",
+      "translit": "fqadtem",
+      "ref": "Jer.23.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּפְקֹד",
+      "translit": "vayyifqod",
+      "ref": "1Kgs.20.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּפְקְדוּ",
+      "translit": "vayyifqdu",
+      "ref": "1Sam.14.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתִּפְקֹד",
+      "translit": "vattifqod",
+      "ref": "2Sam.3.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַֽתִּפְקְדִי",
+      "translit": "vattifqdi",
+      "ref": "Ezek.23.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶפְקֹד",
+      "translit": "va'efqod",
+      "ref": "Lev.18.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "פֹקֵד",
+      "translit": "foqed",
+      "ref": "Deut.5.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַפְּקֻדִים",
+      "translit": "happqudim",
+      "ref": "Exod.30.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּפְקֹד",
+      "translit": "tifqod",
+      "ref": "1Sam.17.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִפְקֹד",
+      "translit": "yifqod",
+      "ref": "1Sam.20.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶפְקֹד",
+      "translit": "efqod",
+      "ref": "Amos.3.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִפְקֹדוּ",
+      "translit": "yifqodu",
+      "ref": "Jer.3.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּפְקְדוּ",
+      "translit": "tifqdu",
+      "ref": "Num.1.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וּפָקַדְתִּי",
+      "translit": "ufaqadti",
+      "ref": "Amos.3.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וּפָֽקְדוּ",
+      "translit": "ufaqdu",
+      "ref": "Deut.20.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּֽפָקַדְתָּ",
+      "translit": "vfaqadta",
+      "ref": "Job.5.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּפְקַדְתֶּם",
+      "translit": "ufqadtem",
+      "ref": "Num.4.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "פִּקְדוּ",
+      "translit": "piqdu",
+      "ref": "1Sam.14.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "פְּקֹד",
+      "translit": "pqod",
+      "ref": "Jer.15.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִפְקֹד",
+      "translit": "lifqod",
+      "ref": "2Sam.24.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "פָּקֹד",
+      "translit": "paqod",
+      "ref": "1Sam.20.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִפְקַד",
+      "translit": "nifqad",
+      "ref": "1Sam.25.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּפָּקֵד",
+      "translit": "vayyippaqed",
+      "ref": "1Sam.20.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּפָּקְדוּ",
+      "translit": "vayyippaqdu",
+      "ref": "2Sam.2.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִפָּקֵד",
+      "translit": "yippaqed",
+      "ref": "1Kgs.20.39",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּפָּקֵד",
+      "translit": "tippaqed",
+      "ref": "Ezek.38.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִפָּקֵֽדוּ",
+      "translit": "yippaqedu",
+      "ref": "Isa.24.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְנִפְקַדְתָּ",
+      "translit": "vnifqadta",
+      "ref": "1Sam.20.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִפָּקֵד",
+      "translit": "lhippaqed",
+      "ref": "Judg.21.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִפָּקֵד",
+      "translit": "hippaqed",
+      "ref": "1Kgs.20.39",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִפָּקֵד",
+      "translit": "yippaqed",
+      "ref": "2Kgs.10.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְפַקֵּד",
+      "translit": "mfaqqed",
+      "ref": "Isa.13.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "פֻּקַּד",
+      "translit": "puqqad",
+      "ref": "Exod.38.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "פֻּקַּדְתִּי",
+      "translit": "puqqadti",
+      "ref": "Isa.38.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִפְקִיד",
+      "translit": "hifqid",
+      "ref": "1Kgs.14.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִפְקַדְתּוֹ",
+      "translit": "hifqadto",
+      "ref": "1Sam.29.4",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הִפְקַדְתִּי",
+      "translit": "hifqadti",
+      "ref": "Isa.62.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִפְקִדוּ",
+      "translit": "hifqidu",
+      "ref": "Jer.36.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּפְקֵד",
+      "translit": "vayyafqed",
+      "ref": "1Chr.26.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּפְקִדוּ",
+      "translit": "vayyafqidu",
+      "ref": "Jer.37.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַפְקִיד",
+      "translit": "yafqid",
+      "ref": "Isa.10.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַפְקִיד",
+      "translit": "afqid",
+      "ref": "Ps.31.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִפְקַדְתִּי",
+      "translit": "vhifqadti",
+      "ref": "Lev.26.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהַפְקִידוּ",
+      "translit": "vhafqidu",
+      "ref": "Josh.10.18",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַפְקֵד",
+      "translit": "hafqed",
+      "ref": "Num.1.50",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיַפְקֵד",
+      "translit": "vyafqed",
+      "ref": "Esth.2.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הָפְקַד",
+      "translit": "hafqad",
+      "ref": "Jer.6.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מֻפְקָדִים",
+      "translit": "mufqadim",
+      "ref": "2Chr.34.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִתְפָּקְדוּ",
+      "translit": "hitpaqdu",
+      "ref": "Judg.20.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּתְפָּֽקְדוּ",
+      "translit": "vayyitpaqdu",
+      "ref": "Judg.20.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּתְפָּקֵד",
+      "translit": "vayyitpaqed",
+      "ref": "Judg.21.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be missing; be mustered",
+  "piel": "appoint",
+  "hiphil": "appoint",
+  "hophal": "be appointed",
+  "pual": "be mustered; be numbered",
+  "hitpael": "muster themselves"
+ },
+ "root": "פקד",
+ "search_match": [
+  "6485",
+  "h6485",
+  "paqad",
+  "visit",
+  "פקד"
+ ],
+ "citation_translit": "paqad"
+}

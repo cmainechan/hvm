@@ -1,0 +1,569 @@
+{
+ "glosses": [
+  "be many"
+ ],
+ "strong": "H7235",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "רָבוּ",
+      "translit": "ravu",
+      "ref": "1Chr.5.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "רָבְתָה",
+      "translit": "ravtah",
+      "ref": "1Sam.14.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתֵּרֶב",
+      "translit": "vatterev",
+      "ref": "1Kgs.5.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּרְבּוּ",
+      "translit": "vayyirbu",
+      "ref": "1Sam.7.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּרֶב",
+      "translit": "vayyirev",
+      "ref": "Exod.1.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַתִּרְבִּי",
+      "translit": "vattirbi",
+      "ref": "Ezek.16.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וַתִּרְבֶּינָה",
+      "translit": "vattirbenah",
+      "ref": "Ezek.31.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִרְבֶּה",
+      "translit": "yirbeh",
+      "ref": "2Chr.24.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּרְבֶּה",
+      "translit": "tirbeh",
+      "ref": "Dan.12.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִרְבּוּ",
+      "translit": "tirbu",
+      "ref": "Deut.6.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִרְבּוּ",
+      "translit": "yirbu",
+      "ref": "Deut.8.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּרְבִיתֶם",
+      "translit": "urvitem",
+      "ref": "Deut.8.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְרָבִיתָ",
+      "translit": "vravita",
+      "ref": "Deut.30.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְרָבוּ",
+      "translit": "vravu",
+      "ref": "Ezek.36.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּרְבוּ",
+      "translit": "urvu",
+      "ref": "Gen.1.22",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּרְבֵה",
+      "translit": "urveh",
+      "ref": "Gen.35.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "רְבוֹת",
+      "translit": "rvot",
+      "ref": "Eccl.5.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִרֶב",
+      "translit": "yirev",
+      "ref": "Gen.1.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "רִבְּתָה",
+      "translit": "ribbtah",
+      "ref": "Ezek.19.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְרִבִּיתִי",
+      "translit": "vribbiti",
+      "ref": "Lam.2.22",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "רִבִּיתָ",
+      "translit": "ribbita",
+      "ref": "Ps.44.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "רַבֶּה",
+      "translit": "rabbeh",
+      "ref": "Judg.9.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִרְבּוּ",
+      "translit": "hirbu",
+      "ref": "1Chr.4.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הִרְבְּתָה",
+      "translit": "hirbtah",
+      "ref": "1Sam.1.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִרְבָּה",
+      "translit": "hirbah",
+      "ref": "2Chr.33.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הִרְבֵּיתֶם",
+      "translit": "hirbetem",
+      "ref": "Ezek.11.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִרְבִּיתָ",
+      "translit": "hirbita",
+      "ref": "Ezek.28.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "הִרְבִּינוּ",
+      "translit": "hirbinu",
+      "ref": "Ezra.10.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הִרְבֵּיתִי",
+      "translit": "hirbeti",
+      "ref": "Hos.2.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הִרְבֵּית",
+      "translit": "hirbet",
+      "ref": "Jer.46.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֶּרֶב",
+      "translit": "vayyerev",
+      "ref": "2Sam.18.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַתַּרְבִּי",
+      "translit": "vattarbi",
+      "ref": "Ezek.16.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתַּרְבֶּה",
+      "translit": "vattarbeh",
+      "ref": "Ezek.23.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאַרְבֶּה",
+      "translit": "va'arbeh",
+      "ref": "Josh.24.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַרְבִּים",
+      "translit": "marbim",
+      "ref": "1Chr.8.40",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַרְבֶּה",
+      "translit": "marbeh",
+      "ref": "Exod.16.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מַרְבָּה",
+      "translit": "marbah",
+      "ref": "Neh.9.37",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּרְבֶּה",
+      "translit": "tarbeh",
+      "ref": "2Sam.22.36",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַרְבֶּה",
+      "translit": "yarbeh",
+      "ref": "Dan.11.39",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַרְבֶּה",
+      "translit": "arbeh",
+      "ref": "Exod.32.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּרְבּוּ",
+      "translit": "tarbu",
+      "ref": "Isa.1.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְתַרְבִּי",
+      "translit": "vtarbi",
+      "ref": "Jer.2.22",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תַרְבֵּֽנִי",
+      "translit": "tarbeni",
+      "ref": "Ps.18.36",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהִרְבִּיתָ",
+      "translit": "vhirbita",
+      "ref": "1Chr.4.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהִרְבָּה",
+      "translit": "vhirbah",
+      "ref": "Deut.7.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִרְבֵּיתִי",
+      "translit": "vhirbeti",
+      "ref": "Exod.7.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הַרְבּוּ",
+      "translit": "harbu",
+      "ref": "Amos.4.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הֶרֶב",
+      "translit": "herev",
+      "ref": "Ezek.24.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הַרְבִּי",
+      "translit": "harbi",
+      "ref": "Isa.23.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַרְבּוֹת",
+      "translit": "harbot",
+      "ref": "1Chr.27.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַרְבֵּה",
+      "translit": "harbeh",
+      "ref": "1Chr.20.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאַרְבֶּה",
+      "translit": "v'arbeh",
+      "ref": "Gen.17.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּרְבּוּ",
+      "translit": "tarbu",
+      "ref": "1Sam.2.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיַרְבֶּךָ",
+      "translit": "vyarbekha",
+      "ref": "Gen.28.3",
+      "has_suffix": true,
+      "has_prefix": true
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְתֶרֶב",
+      "translit": "vterev",
+      "ref": "Job.10.17",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "rear",
+  "hiphil": "multiply"
+ },
+ "root": "רבה",
+ "search_match": [
+  "7235",
+  "be many",
+  "h7235",
+  "ravah",
+  "רבה"
+ ],
+ "citation_translit": "ravah"
+}

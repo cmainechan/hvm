@@ -1,0 +1,67 @@
+{
+ "glosses": [
+  "be enraged; be sad"
+ ],
+ "strong": "H2196",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּזְעַף",
+      "translit": "vayyiz'af",
+      "ref": "2Chr.26.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִזְעַף",
+      "translit": "yiz'af",
+      "ref": "Prov.19.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "זֹֽעֲפִים",
+      "translit": "zo'afim",
+      "ref": "Dan.1.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּבְזַעְפּוֹ",
+      "translit": "uvza'po",
+      "ref": "2Chr.26.19",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "זעף",
+ "search_match": [
+  "2196",
+  "be enraged",
+  "be sad",
+  "h2196",
+  "zaaf",
+  "זעף"
+ ],
+ "citation_translit": "za'af"
+}

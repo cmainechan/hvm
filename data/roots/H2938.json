@@ -1,0 +1,104 @@
+{
+ "glosses": [
+  "taste"
+ ],
+ "strong": "H2938",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "טָעַם",
+      "translit": "ta'am",
+      "ref": "1Sam.14.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "טָעַמְתִּי",
+      "translit": "ta'amti",
+      "ref": "1Sam.14.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "טָעֲמָה",
+      "translit": "ta'amah",
+      "ref": "Prov.31.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "טָעֹם",
+      "translit": "ta'om",
+      "ref": "1Sam.14.43",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶטְעַם",
+      "translit": "et'am",
+      "ref": "2Sam.3.35",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִטְעַם",
+      "translit": "yit'am",
+      "ref": "2Sam.19.36",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִטְעֲמוּ",
+      "translit": "yit'amu",
+      "ref": "Jonah.3.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "טַעֲמוּ",
+      "translit": "ta'amu",
+      "ref": "Ps.34.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "טעם",
+ "search_match": [
+  "2938",
+  "h2938",
+  "taam",
+  "taste",
+  "טעם"
+ ],
+ "citation_translit": "ta'am"
+}

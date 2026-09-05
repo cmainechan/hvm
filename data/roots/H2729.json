@@ -1,0 +1,175 @@
+{
+ "glosses": [
+  "tremble"
+ ],
+ "strong": "H2729",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיֶּֽחֶרְדוּ",
+      "translit": "vayyecherdu",
+      "ref": "1Kgs.1.49",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֶּחֱרַד",
+      "translit": "vayyecherad",
+      "ref": "1Sam.21.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חָרְדוּ",
+      "translit": "chardu",
+      "ref": "1Sam.13.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "חָרַדְתְּ",
+      "translit": "charadt",
+      "ref": "2Kgs.4.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "חָֽרְדָה",
+      "translit": "chardah",
+      "ref": "Isa.10.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְחָרַד",
+      "translit": "vcharad",
+      "ref": "Isa.19.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֶחֱרָדוּ",
+      "translit": "yecheradu",
+      "ref": "Amos.3.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶחֱרַד",
+      "translit": "yecherad",
+      "ref": "Job.37.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְחָֽרְדוּ",
+      "translit": "vchardu",
+      "ref": "Ezek.26.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "חִרְדוּ",
+      "translit": "chirdu",
+      "ref": "Isa.32.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהַֽחֲרַדְתִּי",
+      "translit": "vhacharadti",
+      "ref": "2Sam.17.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַחֲרִֽיד",
+      "translit": "macharid",
+      "ref": "Deut.28.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַחֲרִיד",
+      "translit": "lhacharid",
+      "ref": "Ezek.30.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֶחֱרִֽיד",
+      "translit": "hecherid",
+      "ref": "Judg.8.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "terrify"
+ },
+ "root": "חרד",
+ "search_match": [
+  "2729",
+  "charad",
+  "h2729",
+  "tremble",
+  "tremble (charad)",
+  "חרד"
+ ],
+ "citation_translit": "charad"
+}

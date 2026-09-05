@@ -1,0 +1,80 @@
+{
+ "glosses": [
+  "beat out"
+ ],
+ "strong": "H2251",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַחְבֹּט",
+      "translit": "tachbot",
+      "ref": "Deut.24.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחְבֹּט",
+      "translit": "yachbot",
+      "ref": "Isa.27.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חֹבֵט",
+      "translit": "chovet",
+      "ref": "Judg.6.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתַּחְבֹּט",
+      "translit": "vattachbot",
+      "ref": "Ruth.2.17",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵחָבֶט",
+      "translit": "yechavet",
+      "ref": "Isa.28.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "חבט",
+ "search_match": [
+  "2251",
+  "beat out",
+  "chavat",
+  "h2251",
+  "חבט"
+ ],
+ "citation_translit": "chavat"
+}

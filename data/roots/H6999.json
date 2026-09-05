@@ -1,0 +1,341 @@
+{
+ "glosses": [
+  "offer in smoke"
+ ],
+ "strong": "H6999",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "קִטְּרוּ",
+      "translit": "qittru",
+      "ref": "2Kgs.23.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "קִטַּרְתֶּם",
+      "translit": "qittartem",
+      "ref": "Jer.44.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְקַטֵּר",
+      "translit": "vayqatter",
+      "ref": "2Chr.28.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיְקַטְּרוּ",
+      "translit": "vayqattru",
+      "ref": "2Chr.34.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְקַטְּרִים",
+      "translit": "mqattrim",
+      "ref": "1Kgs.22.44",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "מְקַטְּרוֹת",
+      "translit": "mqattrot",
+      "ref": "Jer.44.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְקַטֵּֽר",
+      "translit": "yqatter",
+      "ref": "2Chr.25.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְקַטֵּרוּ",
+      "translit": "yqatteru",
+      "ref": "Hos.4.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "קַטֵּר",
+      "translit": "qatter",
+      "ref": "2Chr.28.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "קַטֵּר",
+      "translit": "qatter",
+      "ref": "1Sam.2.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִקְטִיר",
+      "translit": "hiqtir",
+      "ref": "2Chr.28.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִקְטִירוּ",
+      "translit": "hiqtiru",
+      "ref": "2Chr.29.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּקְטֵר",
+      "translit": "vayyaqter",
+      "ref": "2Kgs.16.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַקְטִירִים",
+      "translit": "maqtirim",
+      "ref": "1Chr.6.34",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּמַקְטִיר",
+      "translit": "umaqtir",
+      "ref": "1Kgs.3.3",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "מַקְטִירוֹת",
+      "translit": "maqtirot",
+      "ref": "1Kgs.11.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַקְטִרוּן",
+      "translit": "yaqtirun",
+      "ref": "1Sam.2.15",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּקְטִֽירוּ",
+      "translit": "taqtiru",
+      "ref": "2Chr.32.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַקְטִיר",
+      "translit": "yaqtir",
+      "ref": "Exod.30.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תַּקְטִיר",
+      "translit": "taqtir",
+      "ref": "Hos.2.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּקְטִיר",
+      "translit": "taqtir",
+      "ref": "Num.18.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהִקְטַרְתָּ",
+      "translit": "vhiqtarta",
+      "ref": "Exod.29.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהִקְטִיר",
+      "translit": "vhiqtir",
+      "ref": "Exod.30.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִקְטִירוּ",
+      "translit": "vhiqtiru",
+      "ref": "Lev.3.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַקְטֵר",
+      "translit": "haqter",
+      "ref": "2Kgs.16.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַקְטִיר",
+      "translit": "lhaqtir",
+      "ref": "1Chr.23.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְהַקְטֵיר",
+      "translit": "vhaqter",
+      "ref": "1Kgs.9.25",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַקְטִירוּן",
+      "translit": "yaqtirun",
+      "ref": "1Sam.2.16",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֻקְטָר",
+      "translit": "muqtar",
+      "ref": "Mal.1.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָּקְטָֽר",
+      "translit": "taqtar",
+      "ref": "Lev.6.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "offer in smoke",
+  "hiphil": "offer in smoke",
+  "hophal": "be offered in smoke"
+ },
+ "root": "קטר",
+ "search_match": [
+  "6999",
+  "h6999",
+  "offer in smoke",
+  "qatar",
+  "קטר"
+ ],
+ "citation_translit": "qatar"
+}

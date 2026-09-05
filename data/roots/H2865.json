@@ -1,0 +1,268 @@
+{
+ "glosses": [
+  "be dismayed"
+ ],
+ "strong": "H2865",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חַתּוּ",
+      "translit": "chattu",
+      "ref": "2Kgs.19.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "חַתָּה",
+      "translit": "chattah",
+      "ref": "Jer.14.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חַת",
+      "translit": "chat",
+      "ref": "Jer.50.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֵחַתּוּ",
+      "translit": "yechattu",
+      "ref": "Jer.10.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְחַתּוּ",
+      "translit": "vchattu",
+      "ref": "Isa.20.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וָחֹתּוּ",
+      "translit": "vachottu",
+      "ref": "Isa.8.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִחַת",
+      "translit": "nichat",
+      "ref": "Mal.2.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיֵּחַתּוּ",
+      "translit": "vayyechattu",
+      "ref": "1Sam.17.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֵחָֽת",
+      "translit": "techat",
+      "ref": "Deut.31.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵחָת",
+      "translit": "yechat",
+      "ref": "Isa.30.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֵחָֽת",
+      "translit": "techat",
+      "ref": "Isa.51.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֵחַתּוּ",
+      "translit": "yechattu",
+      "ref": "Jer.23.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֵחַתָּה",
+      "translit": "echattah",
+      "ref": "Jer.17.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֵּחָת",
+      "translit": "techat",
+      "ref": "1Chr.22.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תֵּחַתּוּ",
+      "translit": "techattu",
+      "ref": "2Chr.20.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֵחַתּוּ",
+      "translit": "yechattu",
+      "ref": "Jer.17.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "חִתְּתָה",
+      "translit": "chitttah",
+      "ref": "Jer.51.56",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְחִתַּתַּנִי",
+      "translit": "vchittattani",
+      "ref": "Job.7.14",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַחִתֹּתָ",
+      "translit": "hachittota",
+      "ref": "Isa.9.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְחִיתַן",
+      "translit": "ychitan",
+      "ref": "Hab.2.17",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲחִתְּךָ",
+      "translit": "achittkha",
+      "ref": "Jer.1.17",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהַחְתַּתִּי",
+      "translit": "vhachtatti",
+      "ref": "Jer.49.37",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "shatter",
+  "hiphil": "terrify",
+  "niphal": "be dismayed"
+ },
+ "root": "חתת",
+ "search_match": [
+  "2865",
+  "be dismayed",
+  "chatat",
+  "h2865",
+  "חתת"
+ ],
+ "citation_translit": "chatat"
+}

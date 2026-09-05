@@ -1,0 +1,503 @@
+{
+ "glosses": [
+  "sin"
+ ],
+ "strong": "H2398",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "חָטָאתִי",
+      "translit": "chata'ti",
+      "ref": "1Chr.21.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "חָטָאנוּ",
+      "translit": "chata'nu",
+      "ref": "1Kgs.8.47",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חָֽטְאוּ",
+      "translit": "chat'u",
+      "ref": "1Kgs.8.50",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חָטָא",
+      "translit": "chata",
+      "ref": "1Kgs.14.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "חֲטָאתֶם",
+      "translit": "chata'tem",
+      "ref": "Deut.9.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "חָטָאָה",
+      "translit": "chata'ah",
+      "ref": "Ezek.16.51",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חָטָאתָ",
+      "translit": "chata'ta",
+      "ref": "Hos.10.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַֽתֶּחֱטָא",
+      "translit": "vattecheta",
+      "ref": "Ezek.28.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וַֽנֶּחֱטָא",
+      "translit": "vannecheta",
+      "ref": "Isa.64.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "חֹטִאים",
+      "translit": "choti'ym",
+      "ref": "1Sam.14.33",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חוֹטֵֽא",
+      "translit": "chote",
+      "ref": "Eccl.2.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "הַחֹטֵאת",
+      "translit": "hachote't",
+      "ref": "Ezek.18.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶחֱטָא",
+      "translit": "yecheta",
+      "ref": "1Kgs.8.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֶחֶטְאוּ",
+      "translit": "yechet'u",
+      "ref": "1Kgs.8.33",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תֶחֶטְאוּ",
+      "translit": "techet'u",
+      "ref": "1Sam.14.34",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֶֽחֱטָא",
+      "translit": "techeta",
+      "ref": "1Sam.19.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֶחֱטָא",
+      "translit": "techeta",
+      "ref": "Ezek.14.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶֽחֱטָא",
+      "translit": "echeta",
+      "ref": "Ps.119.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַחֲטָאתֶם",
+      "translit": "vachata'tem",
+      "ref": "Deut.20.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְחָטָאת",
+      "translit": "vchata't",
+      "ref": "Exod.5.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְחָטָאתִי",
+      "translit": "vchata'ti",
+      "ref": "Gen.39.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְחָֽטְאָה",
+      "translit": "vchat'ah",
+      "ref": "Lev.5.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "חֲטֹא",
+      "translit": "chato",
+      "ref": "1Sam.12.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶחֱטָא",
+      "translit": "yecheta",
+      "ref": "1Sam.19.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תֶּחֶטְאוּ",
+      "translit": "techet'u",
+      "ref": "Gen.42.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חִטְּאוּ",
+      "translit": "chitt'u",
+      "ref": "Ezek.43.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיְחַטְּאוּ",
+      "translit": "vaychatt'u",
+      "ref": "2Chr.29.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְחַטֵּא",
+      "translit": "vaychatte",
+      "ref": "Lev.8.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַֽמְחַטֵּא",
+      "translit": "hamchatte",
+      "ref": "Lev.6.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲחַטֶּנָּה",
+      "translit": "achattennah",
+      "ref": "Gen.31.39",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּחַטְּאֵנִי",
+      "translit": "tchatt'eni",
+      "ref": "Ps.51.9",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְחִטֵּאתָ",
+      "translit": "vchitte'ta",
+      "ref": "Exod.29.36",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְחִטְּאוּ",
+      "translit": "vchitt'u",
+      "ref": "Ezek.43.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְחִטֵּא",
+      "translit": "vchitte",
+      "ref": "Lev.14.52",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מֵֽחַטֵּא",
+      "translit": "mechatte",
+      "ref": "Ezek.43.23",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֶחֱטִיא",
+      "translit": "hecheti",
+      "ref": "1Kgs.14.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֶחֱטִיאוּ",
+      "translit": "hecheti'u",
+      "ref": "1Kgs.16.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַֽתַּחֲטִא",
+      "translit": "vattachati",
+      "ref": "1Kgs.16.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּחֲטִא",
+      "translit": "vayyachati",
+      "ref": "2Kgs.21.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַחֲטִיא",
+      "translit": "tachati",
+      "ref": "Deut.24.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַחֲטִיאוּ",
+      "translit": "yachati'u",
+      "ref": "Exod.23.33",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחֲטִֽא",
+      "translit": "yachati",
+      "ref": "Judg.20.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַחֲטִיא",
+      "translit": "hachati",
+      "ref": "1Kgs.16.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּֽתְחַטְּאוּ",
+      "translit": "vayyitchatt'u",
+      "ref": "Num.8.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתְחַטָּֽאוּ",
+      "translit": "yitchatta'u",
+      "ref": "Job.41.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְחַטָּא",
+      "translit": "yitchatta",
+      "ref": "Num.19.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּֽתְחַטְּאוּ",
+      "translit": "titchatt'u",
+      "ref": "Num.31.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "purify from sin",
+  "hiphil": "cause to sin",
+  "hitpael": "purify oneself (from sin)"
+ },
+ "root": "חטא",
+ "search_match": [
+  "2398",
+  "chata",
+  "h2398",
+  "sin",
+  "חטא"
+ ],
+ "citation_translit": "chata"
+}

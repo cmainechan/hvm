@@ -1,0 +1,465 @@
+{
+ "glosses": [
+  "be satisfied"
+ ],
+ "strong": "H7646",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְשָׂבַע",
+      "translit": "vsava",
+      "ref": "1Chr.23.1",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "שָׂבָֽעַתְּ",
+      "translit": "sava'att",
+      "ref": "Ezek.16.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "שָׂבַעְתָּ",
+      "translit": "sava'ta",
+      "ref": "Hab.2.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שָׂבְעוּ",
+      "translit": "sav'u",
+      "ref": "Hos.13.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "שָׂבַעְתִּי",
+      "translit": "sava'ti",
+      "ref": "Isa.1.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "שָֽׂבְעָה",
+      "translit": "sav'ah",
+      "ref": "Prov.30.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "שָׂבַעְנוּ",
+      "translit": "sava'nu",
+      "ref": "Ps.123.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּשְׂבַּע",
+      "translit": "vayyisba",
+      "ref": "2Chr.24.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּשְׂבָּעוּ",
+      "translit": "vayyisba'u",
+      "ref": "Hos.13.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וַנִּֽשְׂבַּֽע",
+      "translit": "vannisba",
+      "ref": "Jer.44.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּשְׂבַּע",
+      "translit": "vattisba",
+      "ref": "Ruth.2.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשְׂבְּעוּ",
+      "translit": "yisb'u",
+      "ref": "Amos.4.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּשְׂבַּע",
+      "translit": "tisba",
+      "ref": "Eccl.1.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִֽשְׂבַּֽע",
+      "translit": "yisba",
+      "ref": "Eccl.5.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִשְׂבָּֽעוּ",
+      "translit": "tisba'u",
+      "ref": "Exod.16.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִשְׂבָּע",
+      "translit": "tisba",
+      "ref": "Mic.6.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תִשְׂבַּעְנָה",
+      "translit": "tisba'nah",
+      "ref": "Prov.27.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶשְׂבַּע",
+      "translit": "esba",
+      "ref": "Prov.30.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְשָׂבָֽעְתָּ",
+      "translit": "vsava'ta",
+      "ref": "Deut.6.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְשָׂבֵעוּ",
+      "translit": "vsave'u",
+      "ref": "Deut.14.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְשָׂבַע",
+      "translit": "vsava",
+      "ref": "Deut.31.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּשְׂבַעְתֶּם",
+      "translit": "usva'tem",
+      "ref": "Ezek.39.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְשָׂבְעָה",
+      "translit": "vsav'ah",
+      "ref": "Jer.46.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְשָׂבַעְתִּי",
+      "translit": "vsava'ti",
+      "ref": "Job.7.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "שְֽׂבַֽע",
+      "translit": "sva",
+      "ref": "Prov.20.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִשְׂבֹּעַ",
+      "translit": "lisbo'a",
+      "ref": "Exod.16.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְשָׂבוֹעַ",
+      "translit": "vsavo'a",
+      "ref": "2Chr.31.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶשְׂבְּעָה",
+      "translit": "esb'ah",
+      "ref": "Ps.17.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִשְׂבְּעָה",
+      "translit": "nisb'ah",
+      "ref": "Ps.65.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשְׂבַּע",
+      "translit": "yisba",
+      "ref": "Lam.3.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִשְׂבָּֽע",
+      "translit": "nisba",
+      "ref": "Job.31.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְשַׂבֵּעוּ",
+      "translit": "ysabbe'u",
+      "ref": "Ezek.7.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "שַׂבְּעֵנוּ",
+      "translit": "sabb'enu",
+      "ref": "Ps.90.14",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הִשְׂבַּעַתְּ",
+      "translit": "hisba'att",
+      "ref": "Ezek.27.33",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִשְׂבִּיעַ",
+      "translit": "hisbi'a",
+      "ref": "Lam.3.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאַשְׂבִּעַ",
+      "translit": "va'asbi'a",
+      "ref": "Jer.5.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַמַּשְׂבִּיַע",
+      "translit": "hammasbiya",
+      "ref": "Ps.103.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּשְׂבִּיעַ",
+      "translit": "tasbi'a",
+      "ref": "Isa.58.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַשְׂבִּעַנִי",
+      "translit": "yasbi'ani",
+      "ref": "Job.9.18",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַשְׂבִּיעַֽ",
+      "translit": "asbi'a",
+      "ref": "Ps.81.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִשְׂבַּעְתִּי",
+      "translit": "vhisba'ti",
+      "ref": "Ezek.32.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהִשְׂבִּיעַ",
+      "translit": "vhisbi'a",
+      "ref": "Isa.58.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַשְׂבִּיעַ",
+      "translit": "lhasbi'a",
+      "ref": "Job.38.27",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be satisfied",
+  "piel": "satisfy",
+  "hiphil": "satisfy; fill"
+ },
+ "root": "שבע²",
+ "search_match": [
+  "7646",
+  "be satisfied",
+  "h7646",
+  "sava",
+  "שבע²"
+ ],
+ "citation_translit": "sava"
+}

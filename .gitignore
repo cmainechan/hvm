@@ -1,0 +1,13 @@
+# corpus is fetched on demand, never committed (it's vendored via pinned
+# commit hashes in pipeline/fetch_corpus.sh instead, to keep repo size small)
+pipeline/corpus/
+
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# build output is regenerated from data/roots/ by scripts/build.py --
+# committing it invites drift between dist/ and the source of truth
+dist/
+
+.DS_Store

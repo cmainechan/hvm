@@ -1,0 +1,479 @@
+{
+ "glosses": [
+  "be boastful; be foolish"
+ ],
+ "strong": "H1984",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הֽוֹלְלִים",
+      "translit": "hollim",
+      "ref": "Ps.5.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תָּהֹלּוּ",
+      "translit": "tahollu",
+      "ref": "Ps.75.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִֽלְלוּךָ",
+      "translit": "hillukha",
+      "ref": "Isa.64.10",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִלֵּל",
+      "translit": "hillel",
+      "ref": "Ps.10.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "הִלַּלְנוּ",
+      "translit": "hillalnu",
+      "ref": "Ps.44.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הִלַּלְתִּיךָ",
+      "translit": "hillaltikha",
+      "ref": "Ps.119.164",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיְהַלְלוּ",
+      "translit": "vayhallu",
+      "ref": "2Chr.29.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַֽיְהַֽלְלָהּ",
+      "translit": "vayhallahh",
+      "ref": "Prov.31.28",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְהַֽלְלִים",
+      "translit": "mhallim",
+      "ref": "1Chr.23.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְהַלֶּל",
+      "translit": "yhallel",
+      "ref": "Isa.38.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְהַֽלְלוּ",
+      "translit": "yhallu",
+      "ref": "Prov.28.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲהַלֵּל",
+      "translit": "ahallel",
+      "ref": "Ps.35.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּהַלֵּל",
+      "translit": "thallel",
+      "ref": "Ps.150.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִֽלְלוּ",
+      "translit": "vhillu",
+      "ref": "Isa.62.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהִלַּלְתֶּם",
+      "translit": "vhillaltem",
+      "ref": "Joel.2.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הַֽלְלוּ",
+      "translit": "hallu",
+      "ref": "Jer.20.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הַלְלִי",
+      "translit": "halli",
+      "ref": "Ps.146.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַלֵּל",
+      "translit": "lhallel",
+      "ref": "1Chr.16.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְהַלֵּל",
+      "translit": "vhallel",
+      "ref": "1Chr.16.36",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲהַֽלְלָה",
+      "translit": "ahallah",
+      "ref": "Ps.22.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְהַלֶּלְךָ",
+      "translit": "yhallelkha",
+      "ref": "Prov.27.2",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וּֽתְהַֽלְלֶךָּ",
+      "translit": "vthallekka",
+      "ref": "Ps.119.175",
+      "has_suffix": true,
+      "has_prefix": true
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְֽהַֽלְלוּ",
+      "translit": "yhallu",
+      "ref": "Ps.148.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הַהֻלָּלָה",
+      "translit": "hahullalah",
+      "ref": "Ezek.26.17",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הוּלָּֽלוּ",
+      "translit": "hullalu",
+      "ref": "Ps.78.63",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְהֻלָּל",
+      "translit": "mhullal",
+      "ref": "1Chr.16.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְהֻלַּל",
+      "translit": "yhullal",
+      "ref": "Prov.12.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָהֵלּוּ",
+      "translit": "yahellu",
+      "ref": "Isa.13.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָהֵל",
+      "translit": "yahel",
+      "ref": "Job.31.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָּהֶל",
+      "translit": "tahel",
+      "ref": "Job.41.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְּהִלּוֹ",
+      "translit": "bhillo",
+      "ref": "Job.29.3",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִתְהַלֵּל",
+      "translit": "mithallel",
+      "ref": "Jer.9.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַמִּֽתְהַלְלִים",
+      "translit": "hammithallim",
+      "ref": "Ps.97.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּתְהַלָּֽל",
+      "translit": "tithallal",
+      "ref": "Isa.41.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתְהַלָּֽלוּ",
+      "translit": "yithallalu",
+      "ref": "Isa.45.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְהַלֵּל",
+      "translit": "yithallel",
+      "ref": "Jer.9.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִּתְהַֽלְלִי",
+      "translit": "tithalli",
+      "ref": "Jer.49.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִתְהַלָּֽל",
+      "translit": "tithallal",
+      "ref": "Prov.31.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הִֽתְהַֽלְלוּ",
+      "translit": "hithallu",
+      "ref": "1Chr.16.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִתְהַלֵּל",
+      "translit": "lhithallel",
+      "ref": "Ps.106.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְהַלֵּל",
+      "translit": "yithallel",
+      "ref": "1Kgs.20.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּתְהַלֵּל",
+      "translit": "tithallel",
+      "ref": "Prov.27.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּתְהַלֵּל",
+      "translit": "tithallel",
+      "ref": "Ps.34.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "boast",
+  "hitpael": "boast",
+  "piel": "praise",
+  "pual": "be praised"
+ },
+ "root": "הלל",
+ "search_match": [
+  "1984",
+  "h1984",
+  "halal",
+  "praise",
+  "הלל"
+ ],
+ "citation_translit": "halal"
+}

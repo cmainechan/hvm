@@ -1,0 +1,302 @@
+{
+ "glosses": [
+  "prophesy"
+ ],
+ "strong": "H5012",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְנִבֵּאתִי",
+      "translit": "vnibbe'ti",
+      "ref": "Ezek.37.7",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִבְּאוּ",
+      "translit": "nibb'u",
+      "ref": "Jer.2.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נִבֵּאתָ",
+      "translit": "nibbe'ta",
+      "ref": "Jer.20.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִבָּא",
+      "translit": "nibba",
+      "ref": "Jer.25.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּנָּבֵא",
+      "translit": "vayyinnave",
+      "ref": "Jer.26.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּנָּבְאוּ",
+      "translit": "vayyinnav'u",
+      "ref": "Jer.28.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִבָּא",
+      "translit": "nibba",
+      "ref": "1Chr.25.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נִבְּאִים",
+      "translit": "nibb'im",
+      "ref": "1Kgs.22.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַֽנִּבְּאִים",
+      "translit": "hannibb'im",
+      "ref": "1Chr.25.1",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִבָּא",
+      "translit": "nibba",
+      "ref": "Jer.20.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּנָּבְאֽוּ",
+      "translit": "tinnav'u",
+      "ref": "Amos.2.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִנָּבֵא",
+      "translit": "yinnave",
+      "ref": "Amos.3.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִנָּבֵא",
+      "translit": "tinnave",
+      "ref": "Amos.7.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְנִבֵּאתָ",
+      "translit": "vnibbe'ta",
+      "ref": "Ezek.4.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנִבְּאוּ",
+      "translit": "vnibb'u",
+      "ref": "Joel.3.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִנָּבֵא",
+      "translit": "hinnave",
+      "ref": "Amos.7.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִנָּבֵא",
+      "translit": "lhinnave",
+      "ref": "Amos.7.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִנַּבֵּאתִי",
+      "translit": "vhinnabbe'ti",
+      "ref": "Ezek.37.10",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִנַּבְּאוּ",
+      "translit": "hinnabb'u",
+      "ref": "Jer.23.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּֽתְנַבְּאוּ",
+      "translit": "vayyitnabb'u",
+      "ref": "1Kgs.18.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּתְנַבֵּא",
+      "translit": "vayyitnabbe",
+      "ref": "1Sam.10.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מִֽתְנַבְּאִים",
+      "translit": "mitnabb'im",
+      "ref": "1Kgs.22.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִתְנַבֵּא",
+      "translit": "mitnabbe",
+      "ref": "2Chr.18.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "הַמִּֽתְנַבְּאוֹת",
+      "translit": "hammitnabb'ot",
+      "ref": "Ezek.13.17",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְנַבֵּא",
+      "translit": "yitnabbe",
+      "ref": "1Kgs.22.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהִתְנַבִּיתָ",
+      "translit": "vhitnabbita",
+      "ref": "1Sam.10.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מֵֽהִתְנַבּוֹת",
+      "translit": "mehitnabbot",
+      "ref": "1Sam.10.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "prophesy",
+  "hitpael": "prophesy"
+ },
+ "root": "נבא",
+ "search_match": [
+  "5012",
+  "h5012",
+  "nava",
+  "prophesy",
+  "נבא"
+ ],
+ "citation_translit": "nava"
+}

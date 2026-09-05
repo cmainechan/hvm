@@ -1,0 +1,66 @@
+{
+ "glosses": [
+  "interpret"
+ ],
+ "strong": "H6622",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "פָּתָר",
+      "translit": "patar",
+      "ref": "Gen.40.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּפְתָּר",
+      "translit": "vayyiftar",
+      "ref": "Gen.41.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "פּוֹתֵר",
+      "translit": "poter",
+      "ref": "Gen.40.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִפְתֹּר",
+      "translit": "liftor",
+      "ref": "Gen.41.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "פתר",
+ "search_match": [
+  "6622",
+  "h6622",
+  "interpret",
+  "patar",
+  "פתר"
+ ],
+ "citation_translit": "patar"
+}

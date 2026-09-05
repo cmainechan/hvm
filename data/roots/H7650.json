@@ -1,0 +1,385 @@
+{
+ "glosses": [
+  "swear"
+ ],
+ "strong": "H7650",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נִשְׁבַּעְתָּ",
+      "translit": "nishba'ta",
+      "ref": "1Kgs.1.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נִשְׁבַּעְתִּי",
+      "translit": "nishba'ti",
+      "ref": "1Kgs.1.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִשְׁבַּעְנוּ",
+      "translit": "nishba'nu",
+      "ref": "1Sam.20.42",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִשְׁבְּעוּ",
+      "translit": "nishb'u",
+      "ref": "2Chr.15.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִשְׁבַּע",
+      "translit": "nishba",
+      "ref": "2Sam.3.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "נִשְׁבַּעְתֶּם",
+      "translit": "nishba'tem",
+      "ref": "Josh.6.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּשָּׁבַע",
+      "translit": "vayyishshava",
+      "ref": "1Kgs.1.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶשָּׁבַֽע",
+      "translit": "va'eshshava",
+      "ref": "1Kgs.2.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּשָּׁבְעוּ",
+      "translit": "vayyishshav'u",
+      "ref": "2Chr.15.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַנִּשְׁבָּעִים",
+      "translit": "hannishba'im",
+      "ref": "Amos.8.14",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַנִּשְׁבָּע",
+      "translit": "hannishba",
+      "ref": "Eccl.9.2",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "וְנִשְׁבָּעוֹת",
+      "translit": "vnishba'ot",
+      "ref": "Isa.19.18",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּשָּׁבֵֽעַ",
+      "translit": "tishshave'a",
+      "ref": "Deut.6.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אִשָּׁבֵֽעַ",
+      "translit": "ishshave'a",
+      "ref": "Gen.21.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּשָּׁבַע",
+      "translit": "tishshava",
+      "ref": "Isa.45.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשָּׁבַע",
+      "translit": "yishshava",
+      "ref": "Isa.65.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשָּׁבֵֽעוּ",
+      "translit": "yishshave'u",
+      "ref": "Jer.5.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִשָּׁבְעוּ",
+      "translit": "tishshav'u",
+      "ref": "Lev.19.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְנִשְׁבַּעְתָּ",
+      "translit": "vnishba'ta",
+      "ref": "Jer.4.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִשְׁבַּע",
+      "translit": "vnishba",
+      "ref": "Lev.5.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִשָּׁבְעָה",
+      "translit": "hishshav'ah",
+      "ref": "1Sam.24.22",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הִשָּֽׁבְעוּ",
+      "translit": "hishshav'u",
+      "ref": "Josh.2.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִשָּׁבֵעַ",
+      "translit": "lhishshave'a",
+      "ref": "Jer.12.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִשָּׁבַע",
+      "translit": "hishshava",
+      "ref": "Jer.7.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשָּֽׁבַֽע",
+      "translit": "yishshava",
+      "ref": "1Kgs.1.51",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּשָּׁבְעוּ",
+      "translit": "tishshav'u",
+      "ref": "Hos.4.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הִשְׁבַּעְתִּי",
+      "translit": "hishba'ti",
+      "ref": "1Kgs.2.42",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִשְׁבִּיעַ",
+      "translit": "hishbi'a",
+      "ref": "1Sam.14.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הִשְׁבַּעְתָּֽנוּ",
+      "translit": "hishba'tanu",
+      "ref": "Josh.2.17",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּשְׁבַּע",
+      "translit": "vayyashba",
+      "ref": "2Kgs.11.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָֽאַשְׁבִּיעֵם",
+      "translit": "va'ashbi'em",
+      "ref": "Neh.5.12",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאַשְׁבִּיעֲךָ",
+      "translit": "v'ashbi'akha",
+      "ref": "Gen.24.3",
+      "has_suffix": true,
+      "has_prefix": true
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַשְׁבִּיעוּ",
+      "translit": "tashbi'u",
+      "ref": "Josh.23.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהִשְׁבִּיעַ",
+      "translit": "vhishbi'a",
+      "ref": "1Kgs.18.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְּהַשְׁבִּיעַ",
+      "translit": "bhashbi'a",
+      "ref": "1Sam.14.27",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַשְׁבֵּעַ",
+      "translit": "hashbe'a",
+      "ref": "1Sam.14.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "put under oath",
+  "niphal": "swear"
+ },
+ "root": "שבע¹",
+ "search_match": [
+  "7650",
+  "h7650",
+  "shava",
+  "swear",
+  "שבע¹"
+ ],
+ "citation_translit": "shava"
+}

@@ -1,0 +1,790 @@
+{
+ "glosses": [
+  "go out"
+ ],
+ "strong": "H3318",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "יָצְאוּ",
+      "translit": "yatz'u",
+      "ref": "1Chr.1.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָצָא",
+      "translit": "yatza",
+      "ref": "1Chr.14.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "יָצָאתִי",
+      "translit": "yatza'ti",
+      "ref": "Dan.9.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "יָצָאתָ",
+      "translit": "yatza'ta",
+      "ref": "Deut.9.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "יְצָאתֶם",
+      "translit": "ytza'tem",
+      "ref": "Deut.11.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "יָֽצְאָה",
+      "translit": "yatz'ah",
+      "ref": "Ezek.7.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "יָצָאנוּ",
+      "translit": "yatza'nu",
+      "ref": "Num.11.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֵּצֵא",
+      "translit": "vayyetze",
+      "ref": "1Chr.12.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיֵּצְאוּ",
+      "translit": "vayyetz'u",
+      "ref": "1Chr.19.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתֵּצֵא",
+      "translit": "vattetze",
+      "ref": "1Kgs.10.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וַתֵּצֶאנָה",
+      "translit": "vattetze'nah",
+      "ref": "1Sam.18.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֵצֵא",
+      "translit": "va'etze",
+      "ref": "Ezek.3.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "יֹצֵאת",
+      "translit": "yotze't",
+      "ref": "1Chr.27.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "יֹצֵא",
+      "translit": "yotze",
+      "ref": "1Kgs.5.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "יֹצְאוֹת",
+      "translit": "yotz'ot",
+      "ref": "1Sam.9.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "יֹצְאִים",
+      "translit": "yotz'im",
+      "ref": "1Sam.14.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֵצֵא",
+      "translit": "tetze",
+      "ref": "1Chr.14.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵצֵא",
+      "translit": "yetze",
+      "ref": "1Kgs.8.44",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֵצֵא",
+      "translit": "etze",
+      "ref": "1Kgs.22.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נֵצֵא",
+      "translit": "netze",
+      "ref": "1Sam.11.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תֵצְאוּ",
+      "translit": "tetz'u",
+      "ref": "1Sam.17.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֵצְאוּ",
+      "translit": "yetz'u",
+      "ref": "2Chr.21.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֵּצֵא",
+      "translit": "tetze",
+      "ref": "2Kgs.19.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fp",
+      "label": "2nd fem. pl.",
+      "heb": "תֵּצֶאנָה",
+      "translit": "tetze'nah",
+      "ref": "Amos.4.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תֵּֽצְאִי",
+      "translit": "tetz'i",
+      "ref": "Jer.2.37",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיָצָא",
+      "translit": "vyatza",
+      "ref": "1Sam.8.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְיָצָאנוּ",
+      "translit": "vyatza'nu",
+      "ref": "1Sam.11.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְיָצָאתִי",
+      "translit": "vyatza'ti",
+      "ref": "1Sam.17.35",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְיָצְאוּ",
+      "translit": "vyatz'u",
+      "ref": "Deut.21.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְיָצָאתָ",
+      "translit": "vyatza'ta",
+      "ref": "Deut.23.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְיָצְאָה",
+      "translit": "vyatz'ah",
+      "ref": "Deut.24.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְיָצָאת",
+      "translit": "vyatza't",
+      "ref": "Jer.31.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וִֽיצָאתֶם",
+      "translit": "vitza'tem",
+      "ref": "Mal.3.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "צֵא",
+      "translit": "tze",
+      "ref": "1Kgs.2.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "צְאוּ",
+      "translit": "tz'u",
+      "ref": "2Chr.20.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "צְֽאִי",
+      "translit": "tz'i",
+      "ref": "Song.1.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fp",
+      "label": "2nd fem. pl.",
+      "heb": "צְאֶינָה",
+      "translit": "tz'enah",
+      "ref": "Song.3.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "צֵאת",
+      "translit": "tze't",
+      "ref": "1Chr.20.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "יָצֹא",
+      "translit": "yatzo",
+      "ref": "2Kgs.5.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נֵצֵא",
+      "translit": "netze",
+      "ref": "1Kgs.20.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאֵֽצְאָה",
+      "translit": "v'etz'ah",
+      "ref": "2Chr.1.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵצֵא",
+      "translit": "yetze",
+      "ref": "1Sam.22.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תֵּֽצְאוּ",
+      "translit": "tetz'u",
+      "ref": "Jer.6.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֵּצֵא",
+      "translit": "tetze",
+      "ref": "Prov.25.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הוֹצִיא",
+      "translit": "hotzi",
+      "ref": "1Chr.20.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הוֹצֵאתִי",
+      "translit": "hotze'ti",
+      "ref": "1Kgs.8.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הוֹצֵאתָ",
+      "translit": "hotze'ta",
+      "ref": "1Kgs.8.51",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְהוֹצֵאתְ",
+      "translit": "vhotze't",
+      "ref": "1Kgs.17.13",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הוֹצִיאוּ",
+      "translit": "hotzi'u",
+      "ref": "Exod.12.39",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הוֹצֵאתֶם",
+      "translit": "hotze'tem",
+      "ref": "Exod.16.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיּוֹצִיאוּ",
+      "translit": "vayyotzi'u",
+      "ref": "1Chr.19.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֹּצֵא",
+      "translit": "vayyotze",
+      "ref": "2Chr.16.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָֽאוֹצִא",
+      "translit": "va'otzi",
+      "ref": "Ezek.20.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתּוֹצֵא",
+      "translit": "vattotze",
+      "ref": "Gen.1.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתֹּצֵא",
+      "translit": "vattotze",
+      "ref": "Jer.32.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מוֹצִיא",
+      "translit": "motzi",
+      "ref": "1Chr.11.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מֽוֹצִאִים",
+      "translit": "motzi'im",
+      "ref": "2Chr.9.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֹצִֽאוּ",
+      "translit": "yotzi'u",
+      "ref": "1Chr.9.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תּוֹצִיא",
+      "translit": "totzi",
+      "ref": "Deut.14.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יוֹצִיא",
+      "translit": "yotzi",
+      "ref": "Deut.24.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אוֹצִיא",
+      "translit": "otzi",
+      "ref": "Exod.3.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תּוֹצִיא",
+      "translit": "totzi",
+      "ref": "Hag.1.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תוֹצִיאוּ",
+      "translit": "totzi'u",
+      "ref": "Jer.17.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נוֹצִיא",
+      "translit": "notzi",
+      "ref": "Num.20.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהוֹצֵאתָ",
+      "translit": "vhotze'ta",
+      "ref": "2Chr.18.33",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהוֹצִיאוּ",
+      "translit": "vhotzi'u",
+      "ref": "Deut.21.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהוֹצִיא",
+      "translit": "vhotzi",
+      "ref": "Deut.22.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהוֹצֵאתֶם",
+      "translit": "vhotze'tem",
+      "ref": "Deut.22.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהוֹצֵאתִי",
+      "translit": "vhotze'ti",
+      "ref": "Exod.6.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הוֹצִיאוּ",
+      "translit": "hotzi'u",
+      "ref": "1Kgs.21.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הוֹצֵא",
+      "translit": "hotze",
+      "ref": "1Kgs.22.34",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הוֹצִיאִי",
+      "translit": "hotzi'i",
+      "ref": "Josh.2.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הוֹצִיא",
+      "translit": "hotzi",
+      "ref": "1Kgs.8.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אוֹצִֽיאָה",
+      "translit": "otzi'ah",
+      "ref": "Gen.19.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תּוֹצֵא",
+      "translit": "totze",
+      "ref": "Gen.1.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הוּצָאָה",
+      "translit": "hutza'ah",
+      "ref": "Ezek.38.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַֽמּוּצָאִים",
+      "translit": "hammutza'im",
+      "ref": "Ezek.14.22",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מוּצֵאת",
+      "translit": "mutze't",
+      "ref": "Gen.38.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "מוּצָאוֹת",
+      "translit": "mutza'ot",
+      "ref": "Jer.38.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "bring out",
+  "hophal": "be brought out"
+ },
+ "root": "יצא",
+ "search_match": [
+  "3318",
+  "bring out",
+  "go out",
+  "h3318",
+  "yatza",
+  "יצא"
+ ],
+ "citation_translit": "yatza"
+}

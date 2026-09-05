@@ -1,0 +1,307 @@
+{
+ "glosses": [
+  "seize"
+ ],
+ "strong": "H8610",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "תָּפַשׂ",
+      "translit": "tafas",
+      "ref": "2Chr.25.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּפַשְׂתֶּֽם",
+      "translit": "tfastem",
+      "ref": "Jer.40.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "תָּפְשׂוּ",
+      "translit": "tafsu",
+      "ref": "Josh.8.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּתְפֹּשׂ",
+      "translit": "vayyitpos",
+      "ref": "1Kgs.11.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּתְפְּשׂוּ",
+      "translit": "vayyitpsu",
+      "ref": "1Kgs.18.40",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶתְפֹּשׂ",
+      "translit": "va'etpos",
+      "ref": "Deut.9.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּתְפְּשֵׂהוּ",
+      "translit": "vattitpsehu",
+      "ref": "Gen.39.12",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "תָּפוּשׂ",
+      "translit": "tafus",
+      "ref": "Hab.2.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְנִתְפְּשֵׂם",
+      "translit": "vnitpsem",
+      "ref": "2Kgs.7.12",
+      "has_suffix": true,
+      "has_prefix": true
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְפֹּשׂ",
+      "translit": "yitpos",
+      "ref": "Isa.3.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְתָפְשׂוּ",
+      "translit": "vtafsu",
+      "ref": "Deut.21.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּתְפָשָׂהּ",
+      "translit": "utfasahh",
+      "ref": "Deut.22.28",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְתָפַשְׂתִּי",
+      "translit": "vtafasti",
+      "ref": "Prov.30.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּפְשׂוּ",
+      "translit": "tifsu",
+      "ref": "1Kgs.13.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "תְּפֹשׂ",
+      "translit": "tfos",
+      "ref": "1Sam.23.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "תָּפֹשׂ",
+      "translit": "tafos",
+      "ref": "Jer.34.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִתְפָּשׂ",
+      "translit": "nitpas",
+      "ref": "Ezek.19.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נִתְפָּשָׂה",
+      "translit": "nitpasah",
+      "ref": "Jer.48.41",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "נִתְפַּשְׂתְּ",
+      "translit": "nitpast",
+      "ref": "Jer.50.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִתְפָּשׂוּ",
+      "translit": "nitpasu",
+      "ref": "Jer.51.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּתָּפֵשׂ",
+      "translit": "vattittafes",
+      "ref": "Jer.51.41",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּתָּפֵֽשׂוּ",
+      "translit": "tittafesu",
+      "ref": "Ezek.21.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּתָּפֵשׂ",
+      "translit": "tittafes",
+      "ref": "Jer.34.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתָּפְשׂוּ",
+      "translit": "yittafsu",
+      "ref": "Ps.10.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִתְפַּשׂ",
+      "translit": "vnitpas",
+      "ref": "Ezek.12.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִתָּפֵֽשׂ",
+      "translit": "lhittafes",
+      "ref": "Ezek.21.28",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּתַפֵּשׂ",
+      "translit": "ttappes",
+      "ref": "Prov.30.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "handle",
+  "niphal": "be seized"
+ },
+ "root": "תפש",
+ "search_match": [
+  "8610",
+  "h8610",
+  "seize",
+  "tafas",
+  "תפש"
+ ],
+ "citation_translit": "tafas"
+}

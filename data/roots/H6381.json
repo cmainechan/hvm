@@ -1,0 +1,202 @@
+{
+ "glosses": [
+  "be wonderful"
+ ],
+ "strong": "H6381",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נִפְלְאַתָה",
+      "translit": "nifl'atah",
+      "ref": "2Sam.1.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִפְלְאוּ",
+      "translit": "nifl'u",
+      "ref": "Prov.30.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּפָּלֵא",
+      "translit": "vayyippale",
+      "ref": "2Sam.13.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "נִפְלָאוֹת",
+      "translit": "nifla'ot",
+      "ref": "Dan.8.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "נִפְלֵאת",
+      "translit": "nifle't",
+      "ref": "Deut.30.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נִפְלָאִים",
+      "translit": "nifla'im",
+      "ref": "Ps.139.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִפָּלֵא",
+      "translit": "yippale",
+      "ref": "Deut.17.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְפַלֵּא",
+      "translit": "lfalle",
+      "ref": "Lev.22.21",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִפְלִיא",
+      "translit": "hifli",
+      "ref": "2Chr.26.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּמַפְלִא",
+      "translit": "umafli",
+      "ref": "Judg.13.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַפְלִא",
+      "translit": "yafli",
+      "ref": "Lev.27.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהִפְלָא",
+      "translit": "vhifla",
+      "ref": "Deut.28.59",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַפְלִיא",
+      "translit": "lhafli",
+      "ref": "Isa.29.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַפְלֵא",
+      "translit": "hafle",
+      "ref": "2Chr.2.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּתְפַּלָּא",
+      "translit": "titpalla",
+      "ref": "Job.10.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be wonderful",
+  "piel": "make a special vow",
+  "hiphil": "do wonderfully",
+  "hitpael": "show oneself wonderful"
+ },
+ "root": "פלא",
+ "search_match": [
+  "6381",
+  "be wonderful",
+  "h6381",
+  "pala",
+  "פלא"
+ ],
+ "citation_translit": "pala"
+}

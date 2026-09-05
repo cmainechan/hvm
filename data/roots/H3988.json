@@ -1,0 +1,259 @@
+{
+ "glosses": [
+  "reject"
+ ],
+ "strong": "H3988",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "מָאָסוּ",
+      "translit": "ma'asu",
+      "ref": "1Sam.8.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "מְאַסְתֶּם",
+      "translit": "m'astem",
+      "ref": "1Sam.10.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "מָאַסְתָּ",
+      "translit": "ma'asta",
+      "ref": "1Sam.15.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "מָאַסְתִּי",
+      "translit": "ma'asti",
+      "ref": "1Sam.16.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "מָאַס",
+      "translit": "ma'as",
+      "ref": "Isa.8.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּמְאַס",
+      "translit": "vayyim'as",
+      "ref": "1Sam.15.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּמְאֲסוּ",
+      "translit": "vayyim'asu",
+      "ref": "2Kgs.17.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתִּמְאָס",
+      "translit": "vattim'as",
+      "ref": "Ps.89.39",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מֹאֶסֶת",
+      "translit": "mo'eset",
+      "ref": "Ezek.21.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֹאֵס",
+      "translit": "mo'es",
+      "ref": "Isa.33.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶמְאַס",
+      "translit": "em'as",
+      "ref": "Hos.4.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִמְאַס",
+      "translit": "yim'as",
+      "ref": "Hos.9.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִמְאָסוּן",
+      "translit": "yim'asun",
+      "ref": "Isa.31.7",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִמְאַס",
+      "translit": "tim'as",
+      "ref": "Job.10.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּמְאָסוּ",
+      "translit": "tim'asu",
+      "ref": "Lev.26.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וּמָאַסְתִּי",
+      "translit": "uma'asti",
+      "ref": "2Kgs.23.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מָאֳסָם",
+      "translit": "ma'osam",
+      "ref": "Amos.2.4",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מָאֹס",
+      "translit": "ma'os",
+      "ref": "Isa.7.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּמְאָֽס",
+      "translit": "tim'as",
+      "ref": "Job.5.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּמָּאֵֽס",
+      "translit": "vayyimma'es",
+      "ref": "Job.7.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִמְאָס",
+      "translit": "nim'as",
+      "ref": "Jer.6.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִמָּאֵס",
+      "translit": "timma'es",
+      "ref": "Isa.54.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִמָּאֲסוּ",
+      "translit": "yimma'asu",
+      "ref": "Ps.58.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be rejected"
+ },
+ "root": "מאס",
+ "search_match": [
+  "3988",
+  "h3988",
+  "ma'as",
+  "reject",
+  "מאס"
+ ],
+ "citation_translit": "ma'as"
+}

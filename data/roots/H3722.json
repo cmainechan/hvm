@@ -1,0 +1,228 @@
+{
+ "glosses": [
+  "cover; atone"
+ ],
+ "strong": "H3722",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְכָֽפַרְתָּ",
+      "translit": "vkhafarta",
+      "ref": "Gen.6.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְכַפֵּר",
+      "translit": "vaykhapper",
+      "ref": "Num.8.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְכַפֵּר",
+      "translit": "ykhapper",
+      "ref": "2Chr.30.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲכַפֵּר",
+      "translit": "akhapper",
+      "ref": "2Sam.21.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּכַפֵּר",
+      "translit": "tkhapper",
+      "ref": "Exod.29.37",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְכַפְּרוּ",
+      "translit": "ykhappru",
+      "ref": "Ezek.43.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְכִפֶּר",
+      "translit": "vkhipper",
+      "ref": "Deut.32.43",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְכִפַּרְתָּֽהוּ",
+      "translit": "vkhippartahu",
+      "ref": "Ezek.43.20",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְכִפַּרְתֶּם",
+      "translit": "vkhippartem",
+      "ref": "Ezek.45.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "כַּפֵּר",
+      "translit": "kapper",
+      "ref": "Deut.21.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְכַפֵּר",
+      "translit": "lkhapper",
+      "ref": "1Chr.6.34",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲכַפְּרָה",
+      "translit": "akhapprah",
+      "ref": "Exod.32.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּכַפֵּר",
+      "translit": "tkhapper",
+      "ref": "Jer.18.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "כֻּפַּר",
+      "translit": "kuppar",
+      "ref": "Exod.29.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּכֻפָּֽר",
+      "translit": "tkhuppar",
+      "ref": "Isa.6.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְכֻפַּר",
+      "translit": "ykhuppar",
+      "ref": "Isa.22.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְכֻפַּר",
+      "translit": "vkhuppar",
+      "ref": "Isa.28.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְכַּפֵּר",
+      "translit": "yitkapper",
+      "ref": "1Sam.3.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "cover; atone",
+  "pual": "be atoned for",
+  "hitpael": "be atoned for"
+ },
+ "root": "כפר",
+ "search_match": [
+  "3722",
+  "cover/atone",
+  "h3722",
+  "kafar",
+  "כפר"
+ ],
+ "citation_translit": "kafar"
+}

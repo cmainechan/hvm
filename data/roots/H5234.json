@@ -1,0 +1,280 @@
+{
+ "glosses": [
+  "recognize"
+ ],
+ "strong": "H5234",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִכְּרוּ",
+      "translit": "nikkru",
+      "ref": "Lam.4.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִנָּכֵר",
+      "translit": "yinnakher",
+      "ref": "Prov.26.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִכַּר",
+      "translit": "nikkar",
+      "ref": "1Sam.23.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיְנַכְּרוּ",
+      "translit": "vaynakkru",
+      "ref": "Jer.19.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְנַכְּרוּ",
+      "translit": "ynakkru",
+      "ref": "Deut.32.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְנַכֵּֽרוּ",
+      "translit": "tnakkeru",
+      "ref": "Job.21.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִכִּירוּ",
+      "translit": "hikkiru",
+      "ref": "2Sam.3.36",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִכִּיר",
+      "translit": "hikkir",
+      "ref": "Deut.33.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּכֵּר",
+      "translit": "vayyakker",
+      "ref": "1Kgs.18.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאַכִּירָה",
+      "translit": "va'akkirah",
+      "ref": "Neh.6.12",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַכִּירִים",
+      "translit": "makkirim",
+      "ref": "Ezra.3.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַכִּיר",
+      "translit": "makkir",
+      "ref": "Ps.142.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַכִּיר",
+      "translit": "yakkir",
+      "ref": "Dan.11.39",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַכִּירוּ",
+      "translit": "takkiru",
+      "ref": "Deut.1.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַכִּיר",
+      "translit": "takkir",
+      "ref": "Deut.16.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַכִּירוּם",
+      "translit": "yakkirum",
+      "ref": "Isa.61.9",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַכִּיר",
+      "translit": "akkir",
+      "ref": "Jer.24.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַכֶּר",
+      "translit": "hakker",
+      "ref": "Gen.31.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַכִּירֵנִי",
+      "translit": "lhakkireni",
+      "ref": "Ruth.2.10",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַֽכֵּר",
+      "translit": "hakker",
+      "ref": "Prov.24.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּתְנַכֵּר",
+      "translit": "vayyitnakker",
+      "ref": "Gen.42.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מִתְנַכֵּרָֽה",
+      "translit": "mitnakkerah",
+      "ref": "1Kgs.14.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְנַכֶּר",
+      "translit": "yitnakker",
+      "ref": "Prov.20.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "disguise oneself",
+  "piel": "treat as a stranger",
+  "hitpael": "disguise oneself",
+  "hiphil": "recognize"
+ },
+ "root": "נכר",
+ "search_match": [
+  "5234",
+  "h5234",
+  "nakhar",
+  "recognize",
+  "נכר"
+ ],
+ "citation_translit": "nakhar"
+}

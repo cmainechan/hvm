@@ -1,0 +1,132 @@
+{
+ "glosses": [
+  "conceive"
+ ],
+ "strong": "H2029",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הָרָתָה",
+      "translit": "haratah",
+      "ref": "Gen.16.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "הָרִינוּ",
+      "translit": "harinu",
+      "ref": "Isa.26.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְהָרִית",
+      "translit": "vharit",
+      "ref": "Judg.13.3",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הָרִיתִי",
+      "translit": "hariti",
+      "ref": "Num.11.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתַּהַר",
+      "translit": "vattahar",
+      "ref": "1Chr.4.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וַֽתַּהֲרֶיןָ",
+      "translit": "vattaharena",
+      "ref": "Gen.19.36",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּהֲרוּ",
+      "translit": "taharu",
+      "ref": "Isa.33.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהָרָה",
+      "translit": "vharah",
+      "ref": "Ps.7.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הָרוֹ",
+      "translit": "haro",
+      "ref": "Isa.59.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֹרָה",
+      "translit": "horah",
+      "ref": "Job.3.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be conceived"
+ },
+ "root": "הרה",
+ "search_match": [
+  "2029",
+  "conceive",
+  "h2029",
+  "harah",
+  "הרה"
+ ],
+ "citation_translit": "harah"
+}

@@ -1,0 +1,106 @@
+{
+ "glosses": [
+  "hurl"
+ ],
+ "strong": "H2904",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֵטִיל",
+      "translit": "hetil",
+      "ref": "Jonah.1.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּטֶל",
+      "translit": "vayyatel",
+      "ref": "1Sam.18.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּטִלוּ",
+      "translit": "vayyatilu",
+      "ref": "Jonah.1.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהֵטַלְתִּי",
+      "translit": "vehetalti",
+      "ref": "Jer.16.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲטִילֶךָ",
+      "translit": "atilekha",
+      "ref": "Ezek.32.4",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַהֲטִילֻנִי",
+      "translit": "vahatiluni",
+      "ref": "Jonah.1.12",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pilpel": {
+   "sense_hint": "intensive (only biblical occurrence is a construct-state participle with a suffix, not a free citation form -- shown here as an explicit exception to the absolute-state-only participle rule, since no other attestation exists)",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg. (construct, only attestation)",
+      "heb": "מְטַלְטֶלְךָ",
+      "translit": "metaltelkha",
+      "ref": "Isa.22.17",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pilpel": "hurl violently"
+ },
+ "root": "טול",
+ "search_match": [
+  "2904",
+  "h2904",
+  "hurl",
+  "hurl violently",
+  "tul",
+  "טול"
+ ],
+ "citation_translit": "hetil"
+}

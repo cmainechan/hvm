@@ -1,0 +1,303 @@
+{
+ "glosses": [
+  "whore"
+ ],
+ "strong": "H2181",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "זָנוּ",
+      "translit": "zanu",
+      "ref": "Exod.34.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "זָֽנְתָה",
+      "translit": "zantah",
+      "ref": "Ezek.23.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "זָנִיתָ",
+      "translit": "zanita",
+      "ref": "Hos.9.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "זָנִית",
+      "translit": "zanit",
+      "ref": "Jer.3.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּזְנוּ",
+      "translit": "vayyiznu",
+      "ref": "1Chr.5.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַתִּזְנִי",
+      "translit": "vattizni",
+      "ref": "Ezek.16.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וַתִּזְנֶינָה",
+      "translit": "vattiznenah",
+      "ref": "Ezek.23.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּזֶן",
+      "translit": "vattizen",
+      "ref": "Ezek.23.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "זוֹנָה",
+      "translit": "zonah",
+      "ref": "Deut.23.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "זֹנֶה",
+      "translit": "zoneh",
+      "ref": "Ezek.6.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "זֹנוֹת",
+      "translit": "zonot",
+      "ref": "Ezek.6.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "זֹנִים",
+      "translit": "zonim",
+      "ref": "Ezek.20.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִזְנֶה",
+      "translit": "tizneh",
+      "ref": "Amos.7.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִזְנוּ",
+      "translit": "yiznu",
+      "ref": "Ezek.23.43",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִזְנִי",
+      "translit": "tizni",
+      "ref": "Hos.3.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תִּזְנֶינָה",
+      "translit": "tiznenah",
+      "ref": "Hos.4.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְזָנָה",
+      "translit": "vzanah",
+      "ref": "Deut.31.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְזָֽנְתָה",
+      "translit": "vzantah",
+      "ref": "Isa.23.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִזְנוֹת",
+      "translit": "liznot",
+      "ref": "Deut.22.21",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "זָנֹה",
+      "translit": "zanoh",
+      "ref": "Hos.1.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "זוּנָּה",
+      "translit": "zunnah",
+      "ref": "Ezek.16.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִזְנוּ",
+      "translit": "hiznu",
+      "ref": "Exod.34.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִזְנֵיתָ",
+      "translit": "hizneta",
+      "ref": "Hos.5.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֶּזֶן",
+      "translit": "vayyezen",
+      "ref": "2Chr.21.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתַּזְנֶה",
+      "translit": "vattazneh",
+      "ref": "2Chr.21.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כְּהַזְנוֹת",
+      "translit": "khaznot",
+      "ref": "2Chr.21.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַזְנֵה",
+      "translit": "hazneh",
+      "ref": "Hos.4.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "lead astray",
+  "pual": "whore"
+ },
+ "root": "זנה",
+ "search_match": [
+  "2181",
+  "h2181",
+  "whore",
+  "zanah",
+  "זנה"
+ ],
+ "citation_translit": "zanah"
+}

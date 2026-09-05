@@ -1,0 +1,703 @@
+{
+ "glosses": [
+  "give"
+ ],
+ "strong": "H5414",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָתְנוּ",
+      "translit": "natnu",
+      "ref": "1Chr.6.41",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נָתַן",
+      "translit": "natan",
+      "ref": "1Chr.14.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נָתַתִּי",
+      "translit": "natatti",
+      "ref": "1Chr.21.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נָתַנּוּ",
+      "translit": "natannu",
+      "ref": "1Chr.29.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נָתַתָּה",
+      "translit": "natattah",
+      "ref": "1Kgs.8.34",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נָתְנָה",
+      "translit": "natnah",
+      "ref": "1Kgs.10.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "נָתַתְּ",
+      "translit": "natatt",
+      "ref": "Ezek.16.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "נְתַתֶּם",
+      "translit": "ntattem",
+      "ref": "Jer.37.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּתֵּן",
+      "translit": "vayyitten",
+      "ref": "1Chr.2.35",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּתְּנוּ",
+      "translit": "vayyittnu",
+      "ref": "1Chr.6.40",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתִּתֵּן",
+      "translit": "vattitten",
+      "ref": "1Chr.17.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּתֵּן",
+      "translit": "vattitten",
+      "ref": "1Kgs.10.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶתֵּן",
+      "translit": "va'etten",
+      "ref": "1Kgs.14.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וַנִּתְּנָהּ",
+      "translit": "vannittnahh",
+      "ref": "Deut.29.7",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַֽתִּתְּנִים",
+      "translit": "vattittnim",
+      "ref": "Ezek.16.21",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֹתֵן",
+      "translit": "noten",
+      "ref": "1Kgs.5.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נֹתְנִים",
+      "translit": "notnim",
+      "ref": "2Chr.11.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נְתֻנִים",
+      "translit": "ntunim",
+      "ref": "1Chr.6.33",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נָתוּן",
+      "translit": "natun",
+      "ref": "2Chr.1.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "נְתֻנוֹת",
+      "translit": "ntunot",
+      "ref": "Deut.28.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶתֵּן",
+      "translit": "etten",
+      "ref": "1Chr.16.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתֵּן",
+      "translit": "yitten",
+      "ref": "1Chr.22.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּתֵּן",
+      "translit": "titten",
+      "ref": "1Kgs.13.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִתֵּן",
+      "translit": "nitten",
+      "ref": "1Sam.30.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתְּנוּ",
+      "translit": "yittnu",
+      "ref": "2Kgs.12.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּתֵּן",
+      "translit": "titten",
+      "ref": "Deut.11.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּתְּנוּ",
+      "translit": "tittnu",
+      "ref": "Exod.5.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִתְּנִי",
+      "translit": "tittni",
+      "ref": "Ezek.16.41",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְנָתַתָּה",
+      "translit": "vnatattah",
+      "ref": "1Chr.14.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְנָתַתִּי",
+      "translit": "vnatatti",
+      "ref": "1Chr.14.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּנְתַתֶּם",
+      "translit": "untattem",
+      "ref": "1Sam.6.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנָתַן",
+      "translit": "vnatan",
+      "ref": "1Sam.8.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנָתְנוּ",
+      "translit": "vnatnu",
+      "ref": "1Sam.10.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וּנְתַתִּיהוּ",
+      "translit": "untattihu",
+      "ref": "Ezek.16.19",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְנָתַנּוּ",
+      "translit": "vnatannu",
+      "ref": "Gen.34.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְנָתְנָה",
+      "translit": "vnatnah",
+      "ref": "Lev.25.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֵּן",
+      "translit": "ten",
+      "ref": "1Chr.21.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּנוּ",
+      "translit": "tnu",
+      "ref": "1Chr.22.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תְּנִי",
+      "translit": "tni",
+      "ref": "1Kgs.17.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "תֵּת",
+      "translit": "tet",
+      "ref": "1Kgs.5.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "נָתֹן",
+      "translit": "naton",
+      "ref": "2Sam.5.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶתְּנָה",
+      "translit": "ettnah",
+      "ref": "1Kgs.13.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִתְּנָה",
+      "translit": "nittnah",
+      "ref": "Num.14.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתְּנוּ",
+      "translit": "yittnu",
+      "ref": "1Kgs.18.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתֵּן",
+      "translit": "yitten",
+      "ref": "1Kgs.22.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּתֵּן",
+      "translit": "titten",
+      "ref": "1Sam.1.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּתְּנוּ",
+      "translit": "tittnu",
+      "ref": "2Kgs.12.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִּתְּנִי",
+      "translit": "tittni",
+      "ref": "Lam.2.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נִתְּנָה",
+      "translit": "nittnah",
+      "ref": "1Chr.5.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִתַּן",
+      "translit": "nittan",
+      "ref": "2Chr.34.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִתְּנוּ",
+      "translit": "nittnu",
+      "ref": "Eccl.12.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִתַּנּוּ",
+      "translit": "nittannu",
+      "ref": "Ezra.9.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּנָּתְנוּ",
+      "translit": "vayyinnatnu",
+      "ref": "1Chr.5.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּנָּתֵן",
+      "translit": "vattinnaten",
+      "ref": "Esth.9.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִתָּן",
+      "translit": "nittan",
+      "ref": "2Chr.28.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַנִּתָּן",
+      "translit": "hannittan",
+      "ref": "2Kgs.22.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִנָּתֵֽן",
+      "translit": "yinnaten",
+      "ref": "2Chr.2.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיִנָּתְנוּ",
+      "translit": "vyinnatnu",
+      "ref": "2Chr.18.14",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִנָּתֵן",
+      "translit": "tinnaten",
+      "ref": "2Kgs.18.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּנָּתֵן",
+      "translit": "tinnaten",
+      "ref": "Jer.34.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְנִתְּנָה",
+      "translit": "vnittnah",
+      "ref": "1Sam.25.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִתַּן",
+      "translit": "vnittan",
+      "ref": "Dan.11.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְנִתַּתֶּם",
+      "translit": "vnittattem",
+      "ref": "Lev.26.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִנָּתֵֽן",
+      "translit": "lhinnaten",
+      "ref": "Esth.3.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִנָּתֹן",
+      "translit": "hinnaton",
+      "ref": "Jer.32.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִנָּתֵן",
+      "translit": "yinnaten",
+      "ref": "Esth.5.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֻּתַּן",
+      "translit": "vayyuttan",
+      "ref": "2Sam.18.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֻתַּן",
+      "translit": "yuttan",
+      "ref": "Job.28.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֻתַּן",
+      "translit": "yuttan",
+      "ref": "2Kgs.5.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be given",
+  "hophal": "be given"
+ },
+ "root": "נתן",
+ "search_match": [
+  "5414",
+  "give",
+  "h5414",
+  "natan",
+  "נתן"
+ ],
+ "citation_translit": "natan"
+}

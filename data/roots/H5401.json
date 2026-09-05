@@ -1,0 +1,202 @@
+{
+ "glosses": [
+  "kiss"
+ ],
+ "strong": "H5401",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נָשַׁק",
+      "translit": "nashaq",
+      "ref": "1Kgs.19.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָשָֽׁקוּ",
+      "translit": "nashaqu",
+      "ref": "Ps.85.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּשַּׁק",
+      "translit": "vayyishshaq",
+      "ref": "1Sam.10.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּשְּׁקוּ",
+      "translit": "vayyishshqu",
+      "ref": "1Sam.20.41",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּשַּׁק",
+      "translit": "vattishshaq",
+      "ref": "Job.31.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשַּׁק",
+      "translit": "yishshaq",
+      "ref": "Gen.41.40",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשָּׁקֽוּן",
+      "translit": "yishshaqun",
+      "ref": "Hos.13.2",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶשָׁקְךָ",
+      "translit": "eshaqkha",
+      "ref": "Song.8.1",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְנָשְׁקָה",
+      "translit": "vnashqah",
+      "ref": "Prov.7.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּשְׁקָה",
+      "translit": "ushqah",
+      "ref": "Gen.27.26",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִנְשָׁק",
+      "translit": "linshaq",
+      "ref": "2Sam.20.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶשְּׁקָה",
+      "translit": "eshshqah",
+      "ref": "1Kgs.19.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְנַשֵּׁק",
+      "translit": "vaynashsheq",
+      "ref": "Gen.29.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "נַשְּׁקוּ",
+      "translit": "nashshqu",
+      "ref": "Ps.2.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְנַשֵּׁק",
+      "translit": "lnashsheq",
+      "ref": "Gen.31.28",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "מַשִּׁיקוֹת",
+      "translit": "mashshiqot",
+      "ref": "Ezek.3.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "equip",
+  "piel": "kiss"
+ },
+ "root": "נשק",
+ "search_match": [
+  "5401",
+  "h5401",
+  "kiss",
+  "nashaq",
+  "נשק"
+ ],
+ "citation_translit": "nashaq"
+}

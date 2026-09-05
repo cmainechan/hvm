@@ -1,0 +1,282 @@
+{
+ "glosses": [
+  "strike"
+ ],
+ "strong": "H5062",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נָגַף",
+      "translit": "nagaf",
+      "ref": "1Sam.4.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּגֹּף",
+      "translit": "vayyiggof",
+      "ref": "1Sam.25.38",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶגֹּף",
+      "translit": "va'eggof",
+      "ref": "Josh.24.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֹגֵף",
+      "translit": "nogef",
+      "ref": "2Chr.21.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִגֹּף",
+      "translit": "yiggof",
+      "ref": "1Sam.26.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִגּֽוֹף",
+      "translit": "tiggof",
+      "ref": "Prov.3.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶגּֽוֹף",
+      "translit": "eggof",
+      "ref": "Ps.89.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּגֹּף",
+      "translit": "tiggof",
+      "ref": "Ps.91.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנָגְפוּ",
+      "translit": "vnagfu",
+      "ref": "Exod.21.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנָגַף",
+      "translit": "vnagaf",
+      "ref": "Isa.19.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִנְגֹּף",
+      "translit": "lingof",
+      "ref": "Exod.12.23",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "נָגֹף",
+      "translit": "nagof",
+      "ref": "Isa.19.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִגְּפוּ",
+      "translit": "niggfu",
+      "ref": "1Chr.19.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִגַּף",
+      "translit": "niggaf",
+      "ref": "2Sam.10.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּנָּגֶף",
+      "translit": "vayyinnagef",
+      "ref": "1Sam.4.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּנָּגְפוּ",
+      "translit": "vayyinnagfu",
+      "ref": "1Sam.7.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נִגָּפִים",
+      "translit": "niggafim",
+      "ref": "Deut.28.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִגָּף",
+      "translit": "niggaf",
+      "ref": "Deut.28.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִנָּגֵף",
+      "translit": "yinnagef",
+      "ref": "2Chr.6.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּנָּֽגְפוּ",
+      "translit": "tinnagfu",
+      "ref": "Deut.1.42",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְנִגַּפְתֶּם",
+      "translit": "vniggaftem",
+      "ref": "Lev.26.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְּֽהִנָּגֵף",
+      "translit": "bhinnagef",
+      "ref": "1Kgs.8.33",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "נִגּוֹף",
+      "translit": "niggof",
+      "ref": "Judg.20.39",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִֽתְנַגְּפוּ",
+      "translit": "yitnaggfu",
+      "ref": "Jer.13.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hitpael": "stumble",
+  "niphal": "be struck down; be defeated"
+ },
+ "root": "נגף",
+ "search_match": [
+  "5062",
+  "h5062",
+  "nagaf",
+  "strike (nagaf)",
+  "נגף"
+ ],
+ "citation_translit": "nagaf"
+}

@@ -1,0 +1,104 @@
+{
+ "glosses": [
+  "cry out"
+ ],
+ "strong": "H7768",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "שִׁוַּעְתִּי",
+      "translit": "shivvati",
+      "ref": "Hab.1.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּשַׁוַּע",
+      "translit": "teshavva",
+      "ref": "Isa.58.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲשַׁוַּע",
+      "translit": "ashavva",
+      "ref": "Job.19.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּשַׁוֵּעַ",
+      "translit": "teshavea",
+      "ref": "Job.24.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְשַׁוְּעוּ",
+      "translit": "yeshavveu",
+      "ref": "Job.35.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְשַׁוֵּעַ",
+      "translit": "meshavea",
+      "ref": "Job.29.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּֽבְשַׁוְּעוֹ",
+      "translit": "uvshavv'o",
+      "ref": "Ps.22.25",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֲשַׁוֵּעָה",
+      "translit": "va'ashavve'ah",
+      "ref": "Ps.119.147",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "שוע",
+ "search_match": [
+  "7768",
+  "cry out",
+  "h7768",
+  "shava",
+  "שוע"
+ ],
+ "citation_translit": "shivvea"
+}

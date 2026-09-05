@@ -1,0 +1,241 @@
+{
+ "glosses": [
+  "anoint"
+ ],
+ "strong": "H4886",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "מָשְׁחוּ",
+      "translit": "mashchu",
+      "ref": "1Kgs.5.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "מָשַׁח",
+      "translit": "mashach",
+      "ref": "1Sam.10.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "מְשַׁחְתִּיךָֽ",
+      "translit": "mshachtikha",
+      "ref": "2Kgs.9.3",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "מָשַׁחְנוּ",
+      "translit": "mashachnu",
+      "ref": "2Sam.19.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "מָשַׁחְתָּ",
+      "translit": "mashachta",
+      "ref": "Exod.40.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּמְשְׁחוּ",
+      "translit": "vayyimshchu",
+      "ref": "1Chr.11.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּמְשַׁח",
+      "translit": "vayyimshach",
+      "ref": "1Kgs.1.39",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מֹשְׁחִים",
+      "translit": "moshchim",
+      "ref": "Judg.9.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּמָשׁוּחַ",
+      "translit": "umashucha",
+      "ref": "2Sam.3.39",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְשֻׁחִים",
+      "translit": "mshuchim",
+      "ref": "Exod.29.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּמְשַׁח",
+      "translit": "timshach",
+      "ref": "1Kgs.19.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִמְשָׁחוּ",
+      "translit": "yimshachu",
+      "ref": "Amos.6.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִמְשַׁח",
+      "translit": "yimshach",
+      "ref": "Lev.16.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּמָשַׁח",
+      "translit": "umashach",
+      "ref": "1Kgs.1.34",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּמָשַׁחְתָּ",
+      "translit": "umashachta",
+      "ref": "1Kgs.19.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "מְשָׁחֵהוּ",
+      "translit": "mshachehu",
+      "ref": "1Sam.16.12",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "מִשְׁחוּ",
+      "translit": "mishchu",
+      "ref": "Isa.21.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְלִמְשֹׁחַ",
+      "translit": "vlimshocha",
+      "ref": "1Sam.15.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּמָשׁוֹחַ",
+      "translit": "umashocha",
+      "ref": "Jer.22.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִמְשַׁח",
+      "translit": "nimshach",
+      "ref": "1Chr.14.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִמָּשַׁח",
+      "translit": "himmashach",
+      "ref": "Lev.6.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be anointed"
+ },
+ "root": "משח",
+ "search_match": [
+  "4886",
+  "anoint",
+  "h4886",
+  "mashach",
+  "משח"
+ ],
+ "citation_translit": "mashach"
+}

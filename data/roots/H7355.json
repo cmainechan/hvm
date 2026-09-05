@@ -1,0 +1,200 @@
+{
+ "glosses": [
+  "have compassion"
+ ],
+ "strong": "H7355",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶרְחָמְךָ",
+      "translit": "erchamkha",
+      "ref": "Ps.18.2",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "רִֽחַמְתִּיךְ",
+      "translit": "richamtikh",
+      "ref": "Isa.54.8",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "רִחַם",
+      "translit": "richam",
+      "ref": "Ps.103.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַֽיְרַחֲמֵם",
+      "translit": "vayrachamem",
+      "ref": "2Kgs.13.23",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְרַחֵֽם",
+      "translit": "mrachem",
+      "ref": "Ps.116.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲרַחֵם",
+      "translit": "arachem",
+      "ref": "Exod.33.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְרַחֵם",
+      "translit": "yrachem",
+      "ref": "Isa.9.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְרַחֵמוּ",
+      "translit": "yrachemu",
+      "ref": "Isa.13.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּרַחֵם",
+      "translit": "trachem",
+      "ref": "Ps.102.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְרִֽחֲמֽוּם",
+      "translit": "vrichamum",
+      "ref": "1Kgs.8.50",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְרִחַם",
+      "translit": "vricham",
+      "ref": "Deut.13.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְרִֽחַמְתִּי",
+      "translit": "vrichamti",
+      "ref": "Exod.33.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מֵרַחֵם",
+      "translit": "merachem",
+      "ref": "Isa.30.18",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "רַחֵם",
+      "translit": "rachem",
+      "ref": "Hab.3.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "רֻחָֽמָה",
+      "translit": "ruchamah",
+      "ref": "Hos.2.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְרֻחַם",
+      "translit": "yrucham",
+      "ref": "Hos.14.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "have compassion",
+  "pual": "be shown compassion"
+ },
+ "root": "רחם",
+ "search_match": [
+  "7355",
+  "h7355",
+  "have compassion",
+  "racham",
+  "רחם"
+ ],
+ "citation_translit": "racham"
+}

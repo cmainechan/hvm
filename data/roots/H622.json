@@ -1,0 +1,543 @@
+{
+ "glosses": [
+  "gather"
+ ],
+ "strong": "H622",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "אָסְפוּ",
+      "translit": "asfu",
+      "ref": "2Chr.34.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "אָסַפְתָּ",
+      "translit": "asafta",
+      "ref": "Gen.6.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "אָסַף",
+      "translit": "asaf",
+      "ref": "Gen.30.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָסַפְתִּי",
+      "translit": "asafti",
+      "ref": "Isa.10.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֶּאֱסֹף",
+      "translit": "vayye'esof",
+      "ref": "1Chr.15.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּאַסְפוּ",
+      "translit": "vayya'asfu",
+      "ref": "1Sam.5.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הָאֹסֵף",
+      "translit": "ha'osef",
+      "ref": "Num.19.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶאֱסֹף",
+      "translit": "e'esof",
+      "ref": "1Sam.15.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶאֱסֹֽף",
+      "translit": "ye'esof",
+      "ref": "2Kgs.5.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֶּאֱסֹף",
+      "translit": "te'esof",
+      "ref": "Deut.28.38",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תַּאַסְפִי",
+      "translit": "ta'asfi",
+      "ref": "Josh.2.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נֶאֱסֹף",
+      "translit": "ne'esof",
+      "ref": "Lev.25.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְאָסַפְתָּ",
+      "translit": "v'asafta",
+      "ref": "2Kgs.5.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְאָסַף",
+      "translit": "v'asaf",
+      "ref": "2Kgs.5.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְאָסְפוּ",
+      "translit": "v'asfu",
+      "ref": "Dan.11.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאָסַפְתִּי",
+      "translit": "v'asafti",
+      "ref": "Ezek.11.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "אֱסֹף",
+      "translit": "esof",
+      "ref": "1Sam.14.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "אִסְפִּי",
+      "translit": "ispi",
+      "ref": "Jer.10.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "אִסְפוּ",
+      "translit": "isfu",
+      "ref": "Jer.12.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לֶאֱסֹף",
+      "translit": "le'esof",
+      "ref": "2Kgs.5.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "אָסֹף",
+      "translit": "asof",
+      "ref": "Jer.8.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֹֽסְפָה",
+      "translit": "osfah",
+      "ref": "Mic.4.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֶּאֱסֹף",
+      "translit": "te'esof",
+      "ref": "Ps.26.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נֶאֶסְפוּ",
+      "translit": "ne'esfu",
+      "ref": "1Chr.11.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נֶאֱסַף",
+      "translit": "ne'esaf",
+      "ref": "Isa.57.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְנֶאֶסְפָה",
+      "translit": "vne'esfah",
+      "ref": "Jer.48.33",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיֵּאָסְפוּ",
+      "translit": "vayye'asfu",
+      "ref": "1Sam.17.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֵּאָסֶף",
+      "translit": "vayye'asef",
+      "ref": "Deut.32.50",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נֶֽאֱסָפִים",
+      "translit": "ne'esafim",
+      "ref": "1Sam.13.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֶאֱסָף",
+      "translit": "ne'esaf",
+      "ref": "Gen.49.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֵאָֽסְפוּ",
+      "translit": "ye'asfu",
+      "ref": "2Sam.14.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵאָסֵף",
+      "translit": "ye'asef",
+      "ref": "2Sam.17.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֵאָסֵף",
+      "translit": "te'asef",
+      "ref": "Ezek.29.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֵּאָסֵֽף",
+      "translit": "te'asef",
+      "ref": "Num.12.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְנֶאֱסַפְתָּ",
+      "translit": "vne'esafta",
+      "ref": "2Chr.34.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנֶאֱסַף",
+      "translit": "vne'esaf",
+      "ref": "Isa.16.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְנֶאֱסַפְתֶּם",
+      "translit": "vne'esaftem",
+      "ref": "Lev.26.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנֶאֶסְפוּ",
+      "translit": "vne'esfu",
+      "ref": "Zech.12.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הֵאָֽסְפוּ",
+      "translit": "he'asfu",
+      "ref": "Amos.3.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהֵאָסֵף",
+      "translit": "vhe'asef",
+      "ref": "Deut.32.50",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הֵאָֽסְפִי",
+      "translit": "he'asfi",
+      "ref": "Jer.47.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הֵאָסֵף",
+      "translit": "he'asef",
+      "ref": "Gen.29.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הֵאָסֹף",
+      "translit": "he'asof",
+      "ref": "2Sam.17.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְאַסֵּֽף",
+      "translit": "m'assef",
+      "ref": "Jer.9.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְאֻסָּף",
+      "translit": "m'ussaf",
+      "ref": "Ezek.38.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְאֻסְּפוּ",
+      "translit": "v'ussfu",
+      "ref": "Hos.10.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְאֻסַּף",
+      "translit": "v'ussaf",
+      "ref": "Isa.33.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָסֵף",
+      "translit": "asef",
+      "ref": "Zeph.1.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְּהִתְאַסֵּף",
+      "translit": "bhit'assef",
+      "ref": "Deut.33.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be gathered",
+  "piel": "gather",
+  "pual": "be gathered",
+  "hiphil": "gather",
+  "hitpael": "gather oneself together"
+ },
+ "root": "אסף",
+ "search_match": [
+  "622",
+  "asaf",
+  "gather",
+  "h622",
+  "אסף"
+ ],
+ "citation_translit": "asaf"
+}

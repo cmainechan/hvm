@@ -1,0 +1,252 @@
+{
+ "glosses": [
+  "wash"
+ ],
+ "strong": "H7364",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "רָחָצוּ",
+      "translit": "rachatzu",
+      "ref": "1Kgs.22.38",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "רָחַצְתְּ",
+      "translit": "rachatzt",
+      "ref": "Ezek.23.40",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "רָחַץ",
+      "translit": "rachatz",
+      "ref": "Isa.4.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "רָחַצְתִּי",
+      "translit": "rachatzti",
+      "ref": "Song.5.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּרְחַץ",
+      "translit": "vayyirchatz",
+      "ref": "2Sam.12.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶרְחַץ",
+      "translit": "va'erchatz",
+      "ref": "Ezek.16.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּרְחֲצוּ",
+      "translit": "vayyirchatzu",
+      "ref": "Gen.43.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "רֹחֶצֶת",
+      "translit": "rochetzet",
+      "ref": "2Sam.11.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "רֹֽחֲצוֹת",
+      "translit": "rochatzot",
+      "ref": "Song.5.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶרְחַץ",
+      "translit": "erchatz",
+      "ref": "2Kgs.5.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִרְחֲצוּ",
+      "translit": "yirchatzu",
+      "ref": "Deut.21.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִרְחַץ",
+      "translit": "yirchatz",
+      "ref": "Deut.23.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְרָחַצְתָּ",
+      "translit": "vrachatzta",
+      "ref": "2Kgs.5.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְרָחֲצוּ",
+      "translit": "vrachatzu",
+      "ref": "Exod.30.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְרָחַץ",
+      "translit": "vrachatz",
+      "ref": "Lev.14.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְרָחַצְתְּ",
+      "translit": "vrachatzt",
+      "ref": "Ruth.3.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "רְחַץ",
+      "translit": "rchatz",
+      "ref": "2Kgs.5.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "רַחֲצוּ",
+      "translit": "rachatzu",
+      "ref": "Gen.18.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִרְחֹץ",
+      "translit": "lirchotz",
+      "ref": "1Sam.25.41",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "רֻחַצְתְּ",
+      "translit": "ruchatzt",
+      "ref": "Ezek.16.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "רֻחָֽץ",
+      "translit": "ruchatz",
+      "ref": "Prov.30.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הִתְרָחַצְתִּי",
+      "translit": "hitrachatzti",
+      "ref": "Job.9.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be washed",
+  "hitpael": "wash oneself"
+ },
+ "root": "רחץ",
+ "search_match": [
+  "7364",
+  "h7364",
+  "rachatz",
+  "wash",
+  "רחץ"
+ ],
+ "citation_translit": "rachatz"
+}

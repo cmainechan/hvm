@@ -1,0 +1,329 @@
+{
+ "glosses": [
+  "be far"
+ ],
+ "strong": "H7368",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "רָחֲקוּ",
+      "translit": "rachaqu",
+      "ref": "Ezek.44.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "רָחַק",
+      "translit": "rachaq",
+      "ref": "Isa.59.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "רָחֲקָה",
+      "translit": "rachaqah",
+      "ref": "Isa.59.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּרְחַק",
+      "translit": "vattirchaq",
+      "ref": "Ps.109.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִרְחַק",
+      "translit": "yirchaq",
+      "ref": "Deut.12.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּרְחָק",
+      "translit": "tirchaq",
+      "ref": "Exod.23.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִרְחָק",
+      "translit": "tirchaq",
+      "ref": "Isa.46.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִרְחֲקוּ",
+      "translit": "yirchaqu",
+      "ref": "Job.5.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְרָחֲקוּ",
+      "translit": "vrachaqu",
+      "ref": "Isa.49.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "רַֽחֲקוּ",
+      "translit": "rachaqu",
+      "ref": "Ezek.11.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "רַחֲקִי",
+      "translit": "rachaqi",
+      "ref": "Isa.54.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִרְחֹק",
+      "translit": "lirchoq",
+      "ref": "Eccl.3.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּרְחַק",
+      "translit": "tirchaq",
+      "ref": "Ps.22.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "רִחַקְתָּ",
+      "translit": "richaqta",
+      "ref": "Isa.26.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "רִחַק",
+      "translit": "richaq",
+      "ref": "Isa.29.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְרִחַק",
+      "translit": "vrichaq",
+      "ref": "Isa.6.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְרַחֲקוּ",
+      "translit": "yrachaqu",
+      "ref": "Ezek.43.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הִרְחַקְתִּים",
+      "translit": "hirchaqtim",
+      "ref": "Ezek.11.16",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִרְחִיקוּ",
+      "translit": "hirchiqu",
+      "ref": "Gen.44.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִרְחִיק",
+      "translit": "hirchiq",
+      "ref": "Job.19.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִרְחַקְתָּ",
+      "translit": "hirchaqta",
+      "ref": "Ps.88.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַרְחִיקוּ",
+      "translit": "tarchiqu",
+      "ref": "Exod.8.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּרְחִיק",
+      "translit": "tarchiq",
+      "ref": "Job.22.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַרְחִיק",
+      "translit": "archiq",
+      "ref": "Joel.2.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַרְחִיקֶנָּה",
+      "translit": "yarchiqennah",
+      "ref": "Prov.22.15",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַרְחֵק",
+      "translit": "harcheq",
+      "ref": "Job.11.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַרְחִיק",
+      "translit": "harchiq",
+      "ref": "Jer.27.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַרְחֵק",
+      "translit": "harcheq",
+      "ref": "Exod.8.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּרְחִיקוּ",
+      "translit": "tarchiqu",
+      "ref": "Josh.8.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "remove far",
+  "hiphil": "put far away"
+ },
+ "root": "רחק",
+ "search_match": [
+  "7368",
+  "be far",
+  "h7368",
+  "rachaq",
+  "רחק"
+ ],
+ "citation_translit": "rachaq"
+}

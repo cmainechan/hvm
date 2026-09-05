@@ -1,0 +1,223 @@
+{
+ "glosses": [
+  "writhe"
+ ],
+ "strong": "H2342",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "חַלְתִּי",
+      "translit": "chalti",
+      "ref": "Isa.23.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "חַלְנוּ",
+      "translit": "chalnu",
+      "ref": "Isa.26.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "חָלָה",
+      "translit": "chalah",
+      "ref": "Isa.54.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חָלוּ",
+      "translit": "chalu",
+      "ref": "Jer.5.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּחֶל",
+      "translit": "vayyachel",
+      "ref": "1Chr.10.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתָּחֹל",
+      "translit": "vattachol",
+      "ref": "Jer.51.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּחִילוּ",
+      "translit": "vayyachilu",
+      "ref": "Judg.3.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָחִילוּ",
+      "translit": "yachilu",
+      "ref": "2Sam.3.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָּחִיל",
+      "translit": "tachil",
+      "ref": "Ezek.30.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תְּחִילִֽין",
+      "translit": "tchilin",
+      "ref": "Isa.45.10",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תָחִילוּ",
+      "translit": "tachilu",
+      "ref": "Jer.5.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָחֽוּל",
+      "translit": "yachul",
+      "ref": "Jer.23.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְחָלוּ",
+      "translit": "vchalu",
+      "ref": "Deut.2.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְחָלָה",
+      "translit": "vchalah",
+      "ref": "Hos.11.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "חִילוּ",
+      "translit": "chilu",
+      "ref": "1Chr.16.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "חוּלִי",
+      "translit": "chuli",
+      "ref": "Mic.4.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "חוּל",
+      "translit": "chul",
+      "ref": "Ezek.30.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָחִיל",
+      "translit": "yachil",
+      "ref": "Ps.29.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֲיוּחַל",
+      "translit": "hayuchal",
+      "ref": "Isa.66.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "shake",
+  "hophal": "be brought forth (in labor)"
+ },
+ "root": "חיל",
+ "search_match": [
+  "2342",
+  "chul",
+  "h2342",
+  "writhe",
+  "חיל"
+ ],
+ "citation_translit": "chul"
+}

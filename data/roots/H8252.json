@@ -1,0 +1,205 @@
+{
+ "glosses": [
+  "be quiet"
+ ],
+ "strong": "H8252",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "וְשֹׁקֶטֶת",
+      "translit": "vshoqetet",
+      "ref": "1Chr.4.40",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַשֹּׁקְטִים",
+      "translit": "hashshoqtim",
+      "ref": "Ezek.38.11",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "שֹׁקֵט",
+      "translit": "shoqet",
+      "ref": "Jer.48.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "שָׁקְטָה",
+      "translit": "shaqtah",
+      "ref": "2Chr.13.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "שָׁקַטְתִּי",
+      "translit": "shaqatti",
+      "ref": "Job.3.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּשְׁקֹט",
+      "translit": "vattishqot",
+      "ref": "2Chr.14.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְשָׁקַטְתִּי",
+      "translit": "vshaqatti",
+      "ref": "Ezek.16.42",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְשָׁקַט",
+      "translit": "vshaqat",
+      "ref": "Jer.30.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶשְׁקֳטָה",
+      "translit": "eshqotah",
+      "ref": "Isa.18.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶשְׁקוֹט",
+      "translit": "eshqot",
+      "ref": "Isa.62.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִשְׁקֹטִי",
+      "translit": "tishqoti",
+      "ref": "Jer.47.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשְׁקֹט",
+      "translit": "yishqot",
+      "ref": "Ruth.3.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּשְׁקֹט",
+      "translit": "tishqot",
+      "ref": "Ps.83.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַשְׁקֵט",
+      "translit": "hashqet",
+      "ref": "Ezek.16.49",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהַשְׁקֵט",
+      "translit": "vhashqet",
+      "ref": "Isa.7.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְּהַשְׁקֵט",
+      "translit": "bhashqet",
+      "ref": "Isa.30.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַשְׁקִט",
+      "translit": "yashqit",
+      "ref": "Job.34.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "cause quietness"
+ },
+ "root": "שקט",
+ "search_match": [
+  "8252",
+  "be quiet",
+  "h8252",
+  "shaqat",
+  "שקט"
+ ],
+ "citation_translit": "shaqat"
+}

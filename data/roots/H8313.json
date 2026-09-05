@@ -1,0 +1,348 @@
+{
+ "glosses": [
+  "burn"
+ ],
+ "strong": "H8313",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "שָׂרַפְנוּ",
+      "translit": "sarafnu",
+      "ref": "1Sam.30.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שָׂרַף",
+      "translit": "saraf",
+      "ref": "2Chr.34.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שָׂרְפוּ",
+      "translit": "sarfu",
+      "ref": "2Chr.36.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "שָׂרַפְתִּי",
+      "translit": "sarafti",
+      "ref": "Isa.44.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "שְׂרָפָתַם",
+      "translit": "srafatam",
+      "ref": "Isa.47.14",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "שָׂרַפְתָּ",
+      "translit": "sarafta",
+      "ref": "Jer.36.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּשְׂרֹף",
+      "translit": "vayyisrof",
+      "ref": "1Kgs.9.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּשְׂרְפוּ",
+      "translit": "vayyisrfu",
+      "ref": "1Sam.30.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶשְׂרֹף",
+      "translit": "va'esrof",
+      "ref": "Deut.9.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "שֹׂרְפִים",
+      "translit": "sorfim",
+      "ref": "2Kgs.17.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְהַשֹּׂרֵף",
+      "translit": "vhassoref",
+      "ref": "Lev.16.28",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "שְׂרוּפָה",
+      "translit": "srufah",
+      "ref": "1Sam.30.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "שְׂרֻפוֹת",
+      "translit": "srufot",
+      "ref": "Isa.1.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַשְּׂרֻפִים",
+      "translit": "hassrufim",
+      "ref": "Num.17.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשְׂרְפוּ",
+      "translit": "yisrfu",
+      "ref": "1Kgs.13.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּשְׂרֹֽפוּ",
+      "translit": "tisrofu",
+      "ref": "Deut.7.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּשְׂרֹף",
+      "translit": "tisrof",
+      "ref": "Exod.29.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּשְׂרֹף",
+      "translit": "tisrof",
+      "ref": "Jer.38.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשְׂרֹף",
+      "translit": "yisrof",
+      "ref": "Jer.43.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִשְׂרֹף",
+      "translit": "nisrof",
+      "ref": "Judg.12.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְשָׂרַפְתָּ",
+      "translit": "vsarafta",
+      "ref": "Deut.13.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְשָׂרְפוּ",
+      "translit": "vsarfu",
+      "ref": "Ezek.16.41",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְשָׂרַף",
+      "translit": "vsaraf",
+      "ref": "Ezek.43.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "שְׂרֹף",
+      "translit": "srof",
+      "ref": "Amos.2.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "שָׂרוֹף",
+      "translit": "sarof",
+      "ref": "2Sam.23.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְנִשְׂרְפָה",
+      "translit": "vnisrfah",
+      "ref": "Gen.11.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּשָּׂרְפוּ",
+      "translit": "vayyissarfu",
+      "ref": "1Chr.14.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשָּׂרְפוּ",
+      "translit": "yissarfu",
+      "ref": "2Sam.23.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּשָּׂרֵֽף",
+      "translit": "tissaref",
+      "ref": "Gen.38.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשָּׂרֵֽף",
+      "translit": "yissaref",
+      "ref": "Josh.7.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תִשָּׂרַֽפְנָה",
+      "translit": "tissarafnah",
+      "ref": "Prov.6.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שֹׂרָף",
+      "translit": "soraf",
+      "ref": "Lev.10.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be burned",
+  "pual": "be burned"
+ },
+ "root": "שרף",
+ "search_match": [
+  "8313",
+  "burn",
+  "h8313",
+  "saraf",
+  "שרף"
+ ],
+ "citation_translit": "saraf"
+}

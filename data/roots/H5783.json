@@ -1,0 +1,235 @@
+{
+ "glosses": [
+  "be awake"
+ ],
+ "strong": "H5783",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "עֵר",
+      "translit": "er",
+      "ref": "Mal.2.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְעוּרֶנּוּ",
+      "translit": "y'urennu",
+      "ref": "Job.41.2",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "עוּרִי",
+      "translit": "uri",
+      "ref": "Hab.2.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "עוּרָה",
+      "translit": "urah",
+      "ref": "Ps.7.7",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נֵעוֹר",
+      "translit": "ne'or",
+      "ref": "Zech.2.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵעוֹר",
+      "translit": "ye'or",
+      "ref": "Jer.6.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֵעֹרוּ",
+      "translit": "ye'oru",
+      "ref": "Jer.50.41",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֵעוֹרוּ",
+      "translit": "ye'oru",
+      "ref": "Joel.4.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֵעִיר",
+      "translit": "he'ir",
+      "ref": "2Chr.36.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הַעִירוֹתִי",
+      "translit": "ha'iroti",
+      "ref": "Isa.41.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּעַר",
+      "translit": "vayya'ar",
+      "ref": "1Chr.5.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֵעִיר",
+      "translit": "me'ir",
+      "ref": "Ezek.23.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָעִיר",
+      "translit": "ya'ir",
+      "ref": "Dan.11.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תָּעִירוּ",
+      "translit": "ta'iru",
+      "ref": "Song.2.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הָעִירוּ",
+      "translit": "ha'iru",
+      "ref": "Joel.4.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הָעִירָה",
+      "translit": "ha'irah",
+      "ref": "Ps.35.23",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בָּעִיר",
+      "translit": "ba'ir",
+      "ref": "Ps.73.20",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָעִירָה",
+      "translit": "a'irah",
+      "ref": "Ps.57.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיָעֵר",
+      "translit": "vya'er",
+      "ref": "Dan.11.25",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "awaken",
+  "niphal": "be roused"
+ },
+ "root": "עור",
+ "search_match": [
+  "5783",
+  "be awake",
+  "h5783",
+  "ur",
+  "עור"
+ ],
+ "citation_translit": "ur"
+}

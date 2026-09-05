@@ -1,0 +1,595 @@
+{
+ "glosses": [
+  "turn aside"
+ ],
+ "strong": "H5493",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "סָר",
+      "translit": "sar",
+      "ref": "1Kgs.15.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "סָרוּ",
+      "translit": "saru",
+      "ref": "1Kgs.15.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "סָרָה",
+      "translit": "sarah",
+      "ref": "1Sam.16.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "סַרְתֶּם",
+      "translit": "sartem",
+      "ref": "Deut.9.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "סָרְתִּי",
+      "translit": "sarti",
+      "ref": "Ps.119.102",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּסֻרוּ",
+      "translit": "vayyasuru",
+      "ref": "1Kgs.22.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּסַר",
+      "translit": "vayyasar",
+      "ref": "1Sam.15.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְסָר",
+      "translit": "vsar",
+      "ref": "1Sam.22.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָסוּר",
+      "translit": "tasur",
+      "ref": "1Sam.6.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תָּסוּרוּ",
+      "translit": "tasuru",
+      "ref": "1Sam.12.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָסוּר",
+      "translit": "yasur",
+      "ref": "2Kgs.4.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָסוּר",
+      "translit": "asur",
+      "ref": "2Sam.22.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָסוּרוּ",
+      "translit": "yasuru",
+      "ref": "Deut.4.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָסוּר",
+      "translit": "tasur",
+      "ref": "Deut.17.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נָסוּר",
+      "translit": "nasur",
+      "ref": "Judg.19.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְסָרָה",
+      "translit": "vsarah",
+      "ref": "1Sam.16.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְסָר",
+      "translit": "vsar",
+      "ref": "Amos.6.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְסַרְתֶּם",
+      "translit": "vsartem",
+      "ref": "Deut.11.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְסָרוּ",
+      "translit": "vsaru",
+      "ref": "Exod.8.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "סוּרוּ",
+      "translit": "suru",
+      "ref": "1Sam.15.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "סוּר",
+      "translit": "sur",
+      "ref": "2Sam.2.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "סוּר",
+      "translit": "sur",
+      "ref": "2Chr.35.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְסוֹר",
+      "translit": "vsor",
+      "ref": "Dan.9.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָסֻֽרָה",
+      "translit": "asurah",
+      "ref": "Exod.3.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְנָסוּרָה",
+      "translit": "vnasurah",
+      "ref": "Judg.19.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תָּסוּרוּ",
+      "translit": "tasuru",
+      "ref": "1Sam.12.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּסוּר",
+      "translit": "tasur",
+      "ref": "Josh.1.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָסֻר",
+      "translit": "yasur",
+      "ref": "Prov.9.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֵסִיר",
+      "translit": "hesir",
+      "ref": "1Chr.13.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הֲסִרֹתִי",
+      "translit": "hasiroti",
+      "ref": "1Chr.17.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֵסִירוּ",
+      "translit": "hesiru",
+      "ref": "2Chr.30.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּסַר",
+      "translit": "vayyasar",
+      "ref": "1Kgs.15.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּסִירוּ",
+      "translit": "vayyasiru",
+      "ref": "1Sam.7.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאָסִיר",
+      "translit": "va'asir",
+      "ref": "Ezek.16.50",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתָּסַר",
+      "translit": "vattasar",
+      "ref": "Gen.38.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֵסִיר",
+      "translit": "mesir",
+      "ref": "Isa.3.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָסִיר",
+      "translit": "asir",
+      "ref": "1Chr.17.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָסִיר",
+      "translit": "yasir",
+      "ref": "2Chr.30.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָסִירוּ",
+      "translit": "yasiru",
+      "ref": "Ezek.23.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּסִיר",
+      "translit": "tasir",
+      "ref": "Isa.58.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַהֲסִירֹתָ",
+      "translit": "vahasirota",
+      "ref": "1Kgs.2.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהֵסִיר",
+      "translit": "vhesir",
+      "ref": "1Sam.17.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וַהֲסִרֹתִי",
+      "translit": "vahasiroti",
+      "ref": "1Sam.17.46",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהֵסִירוּ",
+      "translit": "vhesiru",
+      "ref": "Dan.11.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְהֵסִירָה",
+      "translit": "vhesirah",
+      "ref": "Deut.21.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הָסֵר",
+      "translit": "haser",
+      "ref": "1Kgs.20.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הָסִירִי",
+      "translit": "hasiri",
+      "ref": "1Sam.1.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הָסִירוּ",
+      "translit": "hasiru",
+      "ref": "1Sam.7.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הָסִר",
+      "translit": "hasir",
+      "ref": "2Chr.33.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הָסֵר",
+      "translit": "haser",
+      "ref": "Gen.30.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאָסִירָה",
+      "translit": "v'asirah",
+      "ref": "2Sam.16.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיָסֵר",
+      "translit": "vyaser",
+      "ref": "Exod.8.4",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְתָסֵר",
+      "translit": "vtaser",
+      "ref": "Hos.2.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הוּסַר",
+      "translit": "husar",
+      "ref": "Dan.12.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַמּֽוּסָרִים",
+      "translit": "hammusarim",
+      "ref": "1Sam.21.7",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מוּסָר",
+      "translit": "musar",
+      "ref": "Isa.17.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יוּסַר",
+      "translit": "yusar",
+      "ref": "Lev.4.35",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "remove",
+  "hophal": "be removed"
+ },
+ "root": "סור",
+ "search_match": [
+  "5493",
+  "h5493",
+  "sur",
+  "turn aside",
+  "סור"
+ ],
+ "citation_translit": "sur"
+}

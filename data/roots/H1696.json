@@ -1,0 +1,598 @@
+{
+ "glosses": [
+  "speak"
+ ],
+ "strong": "H1696",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "דֹּבֵר",
+      "translit": "dover",
+      "ref": "Amos.5.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "דֹּבְרֹת",
+      "translit": "dovrot",
+      "ref": "Num.27.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "דֹּבְרִֽים",
+      "translit": "dovrim",
+      "ref": "Num.36.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "דָּבֻר",
+      "translit": "davur",
+      "ref": "Prov.25.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְּדָבְרֶךָ",
+      "translit": "bdavrekha",
+      "ref": "Ps.51.6",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִּדְבַּרְנוּ",
+      "translit": "nidbarnu",
+      "ref": "Mal.3.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִדְבְּרוּ",
+      "translit": "nidbru",
+      "ref": "Mal.3.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַנִּדְבָּרִים",
+      "translit": "hannidbarim",
+      "ref": "Ezek.33.30",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "דִּבַּרְתִּי",
+      "translit": "dibbarti",
+      "ref": "1Chr.17.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "דִּבֶּר",
+      "translit": "dibber",
+      "ref": "1Chr.17.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "דִּבַּרְתָּ",
+      "translit": "dibbarta",
+      "ref": "1Chr.17.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "דִּבְּרוּ",
+      "translit": "dibbru",
+      "ref": "1Kgs.12.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "דִּבַּרְנוּ",
+      "translit": "dibbarnu",
+      "ref": "1Sam.20.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "דִּבְּרָה",
+      "translit": "dibbrah",
+      "ref": "2Kgs.5.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "דִּבַּרְתֶּם",
+      "translit": "dibbartem",
+      "ref": "Exod.12.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "דִבַּרְתְּ",
+      "translit": "dibbart",
+      "ref": "Jer.3.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתְּדַבֵּר",
+      "translit": "vattdabber",
+      "ref": "1Chr.17.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְדַבֵּר",
+      "translit": "vaydabber",
+      "ref": "1Chr.21.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וַתְּדַבֵּרְנָה",
+      "translit": "vattdabbernah",
+      "ref": "1Kgs.3.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתְּדַבֵּר",
+      "translit": "vattdabber",
+      "ref": "1Kgs.10.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיְדַבְּרוּ",
+      "translit": "vaydabbru",
+      "ref": "1Kgs.12.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֲדַבֵּר",
+      "translit": "va'adabber",
+      "ref": "Dan.10.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מְדַבֶּרֶת",
+      "translit": "mdabberet",
+      "ref": "1Kgs.1.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְדַבֵּר",
+      "translit": "mdabber",
+      "ref": "1Kgs.1.42",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְדַבְּרִים",
+      "translit": "mdabbrim",
+      "ref": "2Chr.33.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "מְדַבְּרוֹת",
+      "translit": "mdabbrot",
+      "ref": "Isa.19.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲדַבֵּר",
+      "translit": "adabber",
+      "ref": "1Kgs.2.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּדַבֵּר",
+      "translit": "tdabber",
+      "ref": "1Kgs.12.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְדַבֵּר",
+      "translit": "ydabber",
+      "ref": "1Sam.9.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְדַבֵּרוּ",
+      "translit": "ydabberu",
+      "ref": "2Sam.20.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּדַבְּרוּ",
+      "translit": "tdabbru",
+      "ref": "Gen.32.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נְּדַבֵּר",
+      "translit": "ndabber",
+      "ref": "Gen.44.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תְּדַבֵּרִי",
+      "translit": "tdabberi",
+      "ref": "Isa.29.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תְּדַבֵּרְנָה",
+      "translit": "tdabbernah",
+      "ref": "Job.27.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּדַבֵּר",
+      "translit": "tdabber",
+      "ref": "Ps.37.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְדִבַּרְתָּ",
+      "translit": "vdibbarta",
+      "ref": "1Chr.21.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְדִבַּרְתֶּם",
+      "translit": "vdibbartem",
+      "ref": "2Kgs.1.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְדִבַּרְתְּ",
+      "translit": "vdibbart",
+      "ref": "2Sam.14.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְדִבֶּר",
+      "translit": "vdibber",
+      "ref": "Deut.18.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְדִבְּרוּ",
+      "translit": "vdibbru",
+      "ref": "Deut.20.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְדִבַּרְתִּי",
+      "translit": "vdibbarti",
+      "ref": "Exod.25.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "דַּבֵּר",
+      "translit": "dabber",
+      "ref": "1Kgs.2.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "דַּבְּרוּ",
+      "translit": "dabbru",
+      "ref": "1Kgs.20.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "דַּבֵּֽרִי",
+      "translit": "dabberi",
+      "ref": "2Sam.14.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "דַּבֵּר",
+      "translit": "dabber",
+      "ref": "1Kgs.2.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "דַּבֵּר",
+      "translit": "dabber",
+      "ref": "2Kgs.2.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲדַבְּרָה",
+      "translit": "adabbrah",
+      "ref": "2Sam.14.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְדַבְּרוּ",
+      "translit": "tdabbru",
+      "ref": "1Sam.2.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּדַבֶּר",
+      "translit": "tdabber",
+      "ref": "1Sam.25.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּדַבֵּר",
+      "translit": "tdabber",
+      "ref": "2Kgs.18.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְדַבֵּר",
+      "translit": "ydabber",
+      "ref": "2Sam.14.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְדֻבָּר",
+      "translit": "mdubbar",
+      "ref": "Ps.87.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שֶׁיְּדֻבַּר",
+      "translit": "sheyydubbar",
+      "ref": "Song.8.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּדְבֵּר",
+      "translit": "vayyadber",
+      "ref": "Ps.18.48",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַדְבֵּר",
+      "translit": "yadber",
+      "ref": "Ps.47.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִדַּבֵּר",
+      "translit": "middabber",
+      "ref": "Ezek.2.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "speak",
+  "piel": "speak",
+  "pual": "be spoken of",
+  "hiphil": "subdue",
+  "hitpael": "converse"
+ },
+ "root": "דבר",
+ "search_match": [
+  "1696",
+  "davar",
+  "h1696",
+  "speak",
+  "דבר"
+ ],
+ "citation_translit": "davar"
+}

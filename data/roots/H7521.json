@@ -1,0 +1,292 @@
+{
+ "glosses": [
+  "accept"
+ ],
+ "strong": "H7521",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "רָצָה",
+      "translit": "ratzah",
+      "ref": "1Chr.28.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "רָצְתָה",
+      "translit": "ratztah",
+      "ref": "2Chr.36.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "רָצִיתָ",
+      "translit": "ratzita",
+      "ref": "Ps.44.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "רָצוּ",
+      "translit": "ratzu",
+      "ref": "Ps.102.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתִּרֶץ",
+      "translit": "vattiretz",
+      "ref": "Gen.33.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּרְצֵהוּ",
+      "translit": "vayyirtzehu",
+      "ref": "Job.33.26",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "רוֹצֶה",
+      "translit": "rotzeh",
+      "ref": "Ps.147.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְרָצוּי",
+      "translit": "vratzuy",
+      "ref": "Esth.10.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּרְצֶה",
+      "translit": "tirtzeh",
+      "ref": "1Chr.29.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִרְצֶֽה",
+      "translit": "yirtzeh",
+      "ref": "2Sam.24.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶרְצֶה",
+      "translit": "ertzeh",
+      "ref": "Amos.5.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּרְצֶה",
+      "translit": "tirtzeh",
+      "ref": "Lev.26.34",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִרְצוּ",
+      "translit": "yirtzu",
+      "ref": "Lev.26.41",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּרְצִיתָם",
+      "translit": "urtzitam",
+      "ref": "2Chr.10.7",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְרָצִאתִי",
+      "translit": "vratzi'ti",
+      "ref": "Ezek.43.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "רְצֵה",
+      "translit": "rtzeh",
+      "ref": "Ps.40.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בִּרְצוֹת",
+      "translit": "birtzot",
+      "ref": "1Chr.29.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִרְצָה",
+      "translit": "nirtzah",
+      "ref": "Isa.40.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵרָצֶה",
+      "translit": "yeratzeh",
+      "ref": "Lev.7.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֵרָצוּ",
+      "translit": "yeratzu",
+      "ref": "Lev.22.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִרְצָה",
+      "translit": "vnirtzah",
+      "ref": "Lev.1.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְרַצּוּ",
+      "translit": "yratztzu",
+      "ref": "Job.20.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְהִרְצָת",
+      "translit": "vhirtzat",
+      "ref": "Lev.26.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְרַצֶּה",
+      "translit": "yitratztzeh",
+      "ref": "1Sam.29.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "pay off",
+  "hitpael": "ingratiate oneself",
+  "niphal": "be accepted",
+  "hiphil": "make amends"
+ },
+ "root": "רצה",
+ "search_match": [
+  "7521",
+  "accept",
+  "h7521",
+  "ratzah",
+  "רצה"
+ ],
+ "citation_translit": "ratzah"
+}

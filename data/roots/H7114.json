@@ -1,0 +1,238 @@
+{
+ "glosses": [
+  "be short"
+ ],
+ "strong": "H7114",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "קְצַרְתֶּם",
+      "translit": "qtzartem",
+      "ref": "Hos.10.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "קָצַר",
+      "translit": "qatzar",
+      "ref": "Isa.28.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "קָצְרָה",
+      "translit": "qatzrah",
+      "ref": "Isa.50.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "קָצָרוּ",
+      "translit": "qatzaru",
+      "ref": "Jer.12.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּקְצַר",
+      "translit": "vattiqtzar",
+      "ref": "Judg.10.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "קֹצְרִים",
+      "translit": "qotzrim",
+      "ref": "1Sam.6.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "קוֹצֵר",
+      "translit": "qotzer",
+      "ref": "Amos.9.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "קְצֻרוֹת",
+      "translit": "qtzurot",
+      "ref": "Ezek.42.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִקְצוֹר",
+      "translit": "tiqtzor",
+      "ref": "Deut.24.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִקְצֽוֹר",
+      "translit": "yiqtzor",
+      "ref": "Eccl.11.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִקְצֹרוּ",
+      "translit": "yiqtzoru",
+      "ref": "Hos.8.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִקְצַר",
+      "translit": "tiqtzar",
+      "ref": "Job.21.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִקְצְרוּ",
+      "translit": "tiqtzru",
+      "ref": "Lev.25.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תִּקְצֹֽרְנָה",
+      "translit": "tiqtzornah",
+      "ref": "Prov.10.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּקְצַרְתֶּם",
+      "translit": "uqtzartem",
+      "ref": "Lev.23.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "קִצְרוּ",
+      "translit": "qitzru",
+      "ref": "2Kgs.19.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְלִקְצֹר",
+      "translit": "vliqtzor",
+      "ref": "1Sam.8.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הֲקָצוֹר",
+      "translit": "haqatzor",
+      "ref": "Isa.50.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "קִצַּר",
+      "translit": "qitztzar",
+      "ref": "Ps.102.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִקְצַרְתָּ",
+      "translit": "hiqtzarta",
+      "ref": "Ps.89.46",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "shorten",
+  "piel": "shorten"
+ },
+ "root": "קצר",
+ "search_match": [
+  "7114",
+  "h7114",
+  "qatzar",
+  "reap",
+  "קצר"
+ ],
+ "citation_translit": "qatzar"
+}

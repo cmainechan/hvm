@@ -1,0 +1,357 @@
+{
+ "glosses": [
+  "pursue"
+ ],
+ "strong": "H7291",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "רָדַף",
+      "translit": "radaf",
+      "ref": "2Sam.20.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "רָֽדְפוּ",
+      "translit": "radfu",
+      "ref": "Deut.30.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּרְדֹּף",
+      "translit": "vayyirdof",
+      "ref": "1Kgs.20.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּרְדְּפוּ",
+      "translit": "vayyirdfu",
+      "ref": "1Sam.7.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַֽתִּרְדְּפֵנוּ",
+      "translit": "vattirdfenu",
+      "ref": "Lam.3.43",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "רֹדֵף",
+      "translit": "rodef",
+      "ref": "1Sam.24.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הָרֹדְפִים",
+      "translit": "harodfim",
+      "ref": "Josh.2.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִרְדֹּף",
+      "translit": "yirdof",
+      "ref": "1Sam.26.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶרְדֹּף",
+      "translit": "erdof",
+      "ref": "1Sam.30.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִרְדֹּפוּ",
+      "translit": "yirdofu",
+      "ref": "2Sam.2.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּרְדֹּף",
+      "translit": "tirdof",
+      "ref": "Deut.16.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִרְדְּפָה",
+      "translit": "nirdfah",
+      "ref": "Hos.6.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּרְדְּפֻנִי",
+      "translit": "tirdfuni",
+      "ref": "Job.19.22",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּרְדֹּף",
+      "translit": "tirdof",
+      "ref": "Job.30.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְרָדְפוּ",
+      "translit": "vradfu",
+      "ref": "Deut.28.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְרָדַף",
+      "translit": "vradaf",
+      "ref": "Exod.14.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְרָֽדַפְתִּי",
+      "translit": "vradafti",
+      "ref": "Jer.29.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּרְדַפְתֶּם",
+      "translit": "urdaftem",
+      "ref": "Lev.26.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "רְדֹף",
+      "translit": "rdof",
+      "ref": "1Sam.30.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "רִדְפוּ",
+      "translit": "ridfu",
+      "ref": "Josh.2.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִרְדֹּף",
+      "translit": "lirdof",
+      "ref": "1Sam.23.28",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶרְדְּפָה",
+      "translit": "erdfah",
+      "ref": "2Sam.17.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִרְדָּפְנוּ",
+      "translit": "nirdafnu",
+      "ref": "Lam.5.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִרְדָּֽף",
+      "translit": "nirdaf",
+      "ref": "Eccl.3.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְרַדֵּף",
+      "translit": "mraddef",
+      "ref": "Prov.11.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְרַדֶּף",
+      "translit": "yraddef",
+      "ref": "Nah.1.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּרַדֵּף",
+      "translit": "traddef",
+      "ref": "Prov.13.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִרְדְּפוּנִי",
+      "translit": "yirdfuni",
+      "ref": "Ps.23.6",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְרִדְּפָה",
+      "translit": "vriddfah",
+      "ref": "Hos.2.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְרֻדַּף",
+      "translit": "vruddaf",
+      "ref": "Isa.17.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִרְדִיפֻהוּ",
+      "translit": "hirdifuhu",
+      "ref": "Judg.20.43",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be pursued",
+  "piel": "pursue",
+  "pual": "be chased away",
+  "hiphil": "pursue"
+ },
+ "root": "רדף",
+ "search_match": [
+  "7291",
+  "h7291",
+  "pursue",
+  "radaf",
+  "רדף"
+ ],
+ "citation_translit": "radaf"
+}

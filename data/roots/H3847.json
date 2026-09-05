@@ -1,0 +1,448 @@
+{
+ "glosses": [
+  "wear"
+ ],
+ "strong": "H3847",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "לָבְשָׁה",
+      "translit": "lavshah",
+      "ref": "1Chr.12.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "לָבַשׁ",
+      "translit": "lavash",
+      "ref": "Esth.6.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "לָבַשְׁתִּי",
+      "translit": "lavashti",
+      "ref": "Job.29.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "לָבְשׁוּ",
+      "translit": "lavshu",
+      "ref": "Ps.65.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "לָבָֽשְׁתָּ",
+      "translit": "lavashta",
+      "ref": "Ps.104.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּלְבַּשׁ",
+      "translit": "vayyilbash",
+      "ref": "1Sam.28.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּלְבַּשׁ",
+      "translit": "vattilbash",
+      "ref": "Esth.5.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּלְבְּשׁוּ",
+      "translit": "vayyilbshu",
+      "ref": "Jonah.3.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַלֹּבְשִׁים",
+      "translit": "hallovshim",
+      "ref": "Zeph.1.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "לָבֻשׁ",
+      "translit": "lavush",
+      "ref": "1Sam.17.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִלְבְּשׁוּ",
+      "translit": "yilbshu",
+      "ref": "2Chr.6.41",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תִּלְבַּשְׁןָ",
+      "translit": "tilbashna",
+      "ref": "2Sam.13.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִלְבַּשׁ",
+      "translit": "yilbash",
+      "ref": "Deut.22.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִלְבַּשׁ",
+      "translit": "tilbash",
+      "ref": "Deut.22.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּלְבָּשׁוּ",
+      "translit": "tilbashu",
+      "ref": "Ezek.34.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִלְבָּשׁ",
+      "translit": "nilbash",
+      "ref": "Isa.4.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִלְבָּשִׁי",
+      "translit": "tilbashi",
+      "ref": "Isa.49.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶלְבָּשֶׁנָּה",
+      "translit": "elbashennah",
+      "ref": "Song.5.3",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְלָבְשׁוּ",
+      "translit": "vlavshu",
+      "ref": "Ezek.42.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְלָבַשׁ",
+      "translit": "vlavash",
+      "ref": "Lev.6.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "לְבַשׁ",
+      "translit": "lvash",
+      "ref": "1Kgs.22.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "לִבְשִׁי",
+      "translit": "livshi",
+      "ref": "2Sam.14.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "לִבְשׁוּ",
+      "translit": "livshu",
+      "ref": "Jer.46.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִלְבֹּֽשׁ",
+      "translit": "lilbosh",
+      "ref": "Gen.28.20",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לָבוֹשׁ",
+      "translit": "lavosh",
+      "ref": "Hag.1.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּלְבָּֽשׁ",
+      "translit": "tilbash",
+      "ref": "Job.40.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְלֻבָּשִׁים",
+      "translit": "mlubbashim",
+      "ref": "1Kgs.22.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִלְבִּישׁוּ",
+      "translit": "hilbishu",
+      "ref": "2Chr.28.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הִלְבִּישָׁה",
+      "translit": "hilbishah",
+      "ref": "Gen.27.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִלְבִּישַׁנִי",
+      "translit": "hilbishani",
+      "ref": "Isa.61.10",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּלְבֵּשׁ",
+      "translit": "vayyalbesh",
+      "ref": "1Sam.17.38",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּלְבִּשׁוּם",
+      "translit": "vayyalbishum",
+      "ref": "2Chr.28.15",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאַלְבִּישֵׁךְ",
+      "translit": "va'albishekh",
+      "ref": "Ezek.16.10",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתַּלְבֵּשׁ",
+      "translit": "vattalbesh",
+      "ref": "Gen.27.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַלְבִּישׁ",
+      "translit": "albish",
+      "ref": "Isa.50.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הֲתַלְבִּישׁ",
+      "translit": "hatalbish",
+      "ref": "Job.10.11",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תַּלְבִּישׁ",
+      "translit": "talbish",
+      "ref": "Prov.23.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִלְבִּישׁוּ",
+      "translit": "vhilbishu",
+      "ref": "Esth.6.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהִלְבַּשְׁתָּ",
+      "translit": "vhilbashta",
+      "ref": "Exod.28.41",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִלְבַּשְׁתִּיו",
+      "translit": "vhilbashtiv",
+      "ref": "Isa.22.21",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַלְבִּישׁ",
+      "translit": "lhalbish",
+      "ref": "Esth.4.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְהַלְבֵּשׁ",
+      "translit": "vhalbesh",
+      "ref": "Zech.3.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "clothe",
+  "pual": "be clothed"
+ },
+ "root": "לבש",
+ "search_match": [
+  "3847",
+  "h3847",
+  "lavash",
+  "wear",
+  "לבש"
+ ],
+ "citation_translit": "lavash"
+}

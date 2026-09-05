@@ -1,0 +1,162 @@
+{
+ "glosses": [
+  "hire"
+ ],
+ "strong": "H7936",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שָֽׂכַר",
+      "translit": "sakhar",
+      "ref": "2Kgs.7.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "שְׂכַרְתִּיךָ",
+      "translit": "skhartikha",
+      "ref": "Gen.30.16",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּשְׂכְּרוּ",
+      "translit": "vayyiskru",
+      "ref": "1Chr.19.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּשְׂכֹּר",
+      "translit": "vayyiskor",
+      "ref": "2Chr.25.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "שֹׂכְרִים",
+      "translit": "sokhrim",
+      "ref": "2Chr.24.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְשֹׂכֵר",
+      "translit": "vsokher",
+      "ref": "Prov.26.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "שָׂכוּר",
+      "translit": "sakhur",
+      "ref": "Neh.6.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשְׂכְּרוּ",
+      "translit": "yiskru",
+      "ref": "Isa.46.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִשְׂכֹּר",
+      "translit": "liskor",
+      "ref": "1Chr.19.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "שָׂכֹר",
+      "translit": "sakhor",
+      "ref": "Gen.30.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִשְׂכָּרוּ",
+      "translit": "niskaru",
+      "ref": "1Sam.2.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִשְׂתַּכֵּר",
+      "translit": "mistakker",
+      "ref": "Hag.1.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hitpael": "hire oneself out",
+  "niphal": "hire oneself out"
+ },
+ "root": "שכר²",
+ "search_match": [
+  "7936",
+  "h7936",
+  "hire",
+  "sakhar",
+  "שכר²"
+ ],
+ "citation_translit": "sakhar"
+}

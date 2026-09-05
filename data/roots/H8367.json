@@ -1,0 +1,42 @@
+{
+ "glosses": [
+  "become quiet"
+ ],
+ "strong": "H8367",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשְׁתֹּק",
+      "translit": "yishtoq",
+      "ref": "Prov.26.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשְׁתֹּקוּ",
+      "translit": "yishtoqu",
+      "ref": "Ps.107.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "שתק",
+ "search_match": [
+  "8367",
+  "become quiet",
+  "h8367",
+  "shataq",
+  "שתק"
+ ],
+ "citation_translit": "shataq"
+}

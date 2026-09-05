@@ -1,0 +1,371 @@
+{
+ "glosses": [
+  "plough"
+ ],
+ "strong": "H2790",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "חֲרַשְׁתֶּם",
+      "translit": "charashtem",
+      "ref": "Hos.10.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חָרְשׁוּ",
+      "translit": "charshu",
+      "ref": "Ps.129.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חֹרֵשׁ",
+      "translit": "choresh",
+      "ref": "1Kgs.19.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "חֹֽרְשׁוֹת",
+      "translit": "chorshot",
+      "ref": "Job.1.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "חֹרְשִׁים",
+      "translit": "chorshim",
+      "ref": "Ps.129.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "חֲרוּשָׁה",
+      "translit": "charushah",
+      "ref": "Jer.17.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחֲרוֹשׁ",
+      "translit": "yacharosh",
+      "ref": "Amos.6.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַחֲרֹשׁ",
+      "translit": "tacharosh",
+      "ref": "Deut.22.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תֶּחֱרַֽשְׁנָה",
+      "translit": "techerashnah",
+      "ref": "Mic.7.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְלַחֲרֹשׁ",
+      "translit": "vlacharosh",
+      "ref": "1Sam.8.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֶּחֱרַשׁ",
+      "translit": "techerash",
+      "ref": "Prov.3.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶחֱרַשׁ",
+      "translit": "yecherash",
+      "ref": "Ps.50.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֵֽחָרֵשׁ",
+      "translit": "techaresh",
+      "ref": "Jer.26.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהֶחֱרִישׁוּ",
+      "translit": "vhecherishu",
+      "ref": "2Kgs.18.36",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הֶחֱרַשְׁתִּי",
+      "translit": "hecherashti",
+      "ref": "Esth.7.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֶחֱרִשׁ",
+      "translit": "hecherish",
+      "ref": "Gen.34.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיַּחֲרִישׁוּ",
+      "translit": "vayyacharishu",
+      "ref": "Isa.36.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַחֲרִישׁ",
+      "translit": "macharish",
+      "ref": "1Sam.10.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַחֲרִשִׁים",
+      "translit": "macharishim",
+      "ref": "2Sam.19.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תַּחֲרִישִׁי",
+      "translit": "tacharishi",
+      "ref": "Esth.4.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּחֲרִישֽׁוּן",
+      "translit": "tacharishun",
+      "ref": "Exod.14.14",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּחֲרִישׁ",
+      "translit": "tacharish",
+      "ref": "Hab.1.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַחֲרִישׁ",
+      "translit": "acharish",
+      "ref": "Isa.42.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַחֲרִישׁו",
+      "translit": "yacharishv",
+      "ref": "Job.11.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחֲרִישׁ",
+      "translit": "yacharish",
+      "ref": "Num.30.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהֶחֱרִישׁ",
+      "translit": "vhecherish",
+      "ref": "Num.30.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְֽהֶחֱרַשְׁתִּי",
+      "translit": "vhecherashti",
+      "ref": "Ps.50.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הַחֲרִישִׁי",
+      "translit": "hacharishi",
+      "ref": "2Sam.13.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הַחֲרִישׁוּ",
+      "translit": "hacharishu",
+      "ref": "Isa.41.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַחֲרֵשׁ",
+      "translit": "hacharesh",
+      "ref": "Job.33.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַחֲרֵשׁ",
+      "translit": "hacharesh",
+      "ref": "Esth.4.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּחֲרֵשׁ",
+      "translit": "tacharesh",
+      "ref": "1Sam.7.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּתְחָרְשׁוּ",
+      "translit": "vayyitcharshu",
+      "ref": "Judg.16.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be ploughed",
+  "hiphil": "be silent",
+  "hitpael": "be silent"
+ },
+ "root": "חרש",
+ "search_match": [
+  "2790",
+  "be silent",
+  "charash",
+  "h2790",
+  "חרש"
+ ],
+ "citation_translit": "charash"
+}

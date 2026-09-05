@@ -1,0 +1,338 @@
+{
+ "glosses": [
+  "bow down"
+ ],
+ "strong": "H7812",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "שְׁחִי",
+      "translit": "shchi",
+      "ref": "Isa.51.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַשְׁחֶנָּה",
+      "translit": "yashchennah",
+      "ref": "Prov.12.25",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּשְׁתַּחוּ",
+      "translit": "vayyishtachu",
+      "ref": "1Chr.21.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּֽשְׁתַּחֲווּ",
+      "translit": "vayyishtachavu",
+      "ref": "1Chr.29.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִֽשְׁתַּחֲוֺת",
+      "translit": "lhishtachavt",
+      "ref": "1Sam.1.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hishtaphel": {
+   "sense_hint": "reflexive (bow down/worship — unique to this root)",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הִֽשְׁתַּחֲוֵיתִי",
+      "translit": "hishtachaveti",
+      "ref": "1Sam.15.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִֽשְׁתַּחֲווּ",
+      "translit": "hishtachavu",
+      "ref": "Jer.8.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּשְׁתַּחוּ",
+      "translit": "vattishtachu",
+      "ref": "1Kgs.1.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּֽשְׁתַּחֲוּוּ",
+      "translit": "vayyishtachauu",
+      "ref": "1Kgs.9.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּֽשְׁתַּחֲוֶה",
+      "translit": "vayyishtachaveh",
+      "ref": "1Kgs.22.54",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָֽאֶשְׁתַּחֲוֶה",
+      "translit": "va'eshtachaveh",
+      "ref": "Gen.24.48",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וַתִּֽשְׁתַּחֲוֶֽיןָ",
+      "translit": "vattishtachavena",
+      "ref": "Gen.33.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מִֽשְׁתַּחֲוִים",
+      "translit": "mishtachavim",
+      "ref": "2Chr.29.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִֽשְׁתַּחֲוֶה",
+      "translit": "mishtachaveh",
+      "ref": "2Kgs.19.37",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶשְׁתַּחֲוֶה",
+      "translit": "eshtachaveh",
+      "ref": "1Sam.15.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִֽשְׁתַּחֲוֶה",
+      "translit": "yishtachaveh",
+      "ref": "2Chr.25.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּֽשְׁתַּחֲווּ",
+      "translit": "tishtachavu",
+      "ref": "2Chr.32.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִשְׁתַּחֲוֶה",
+      "translit": "tishtachaveh",
+      "ref": "Deut.5.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִשְׁתַּחֲוֶה",
+      "translit": "nishtachaveh",
+      "ref": "Gen.22.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשְׁתַּחֲווּ",
+      "translit": "yishtachavu",
+      "ref": "Gen.49.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהִשְׁתַּחֲוִיתֶם",
+      "translit": "vhishtachavitem",
+      "ref": "1Kgs.9.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִֽשְׁתַּחֲוֵיתִי",
+      "translit": "vhishtachaveti",
+      "ref": "2Kgs.5.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהִשְׁתַּחֲוִיתָ",
+      "translit": "vhishtachavita",
+      "ref": "Deut.4.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִשְׁתַּחֲווּ",
+      "translit": "vhishtachavu",
+      "ref": "Exod.11.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהִֽשְׁתַּחֲוָה",
+      "translit": "vhishtachavah",
+      "ref": "Ezek.46.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הִשְׁתַּחֲווּ",
+      "translit": "hishtachavu",
+      "ref": "1Chr.16.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְהִשְׁתַּֽחֲוִי",
+      "translit": "vhishtachavi",
+      "ref": "Ps.45.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּלְהִשְׁתַּחֲוֺת",
+      "translit": "ulhishtachavt",
+      "ref": "2Kgs.5.18",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִשְׁתַּחֲוֶה",
+      "translit": "nishtachaveh",
+      "ref": "Ps.132.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיִֽשְׁתַּחֲווּ",
+      "translit": "vyishtachavu",
+      "ref": "Gen.27.29",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "weigh down",
+  "hitpael": "bow down",
+  "hishtaphel": "bow down"
+ },
+ "root": "שחה",
+ "search_match": [
+  "7812",
+  "bow down",
+  "h7812",
+  "hishtachavah",
+  "שחה"
+ ],
+ "citation_translit": "hishtachavah"
+}

@@ -1,0 +1,231 @@
+{
+ "glosses": [
+  "be broken"
+ ],
+ "strong": "H6565",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "פּוֹר",
+      "translit": "por",
+      "ref": "Isa.24.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהֵפַרְתָּה",
+      "translit": "vhefartah",
+      "ref": "2Sam.15.34",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֵפֵר",
+      "translit": "hefer",
+      "ref": "Ezek.17.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֵפֵרוּ",
+      "translit": "heferu",
+      "ref": "Isa.24.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּפֵרוּ",
+      "translit": "vayyaferu",
+      "ref": "Ezek.44.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּפֶר",
+      "translit": "vayyafer",
+      "ref": "Neh.4.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֵפֵר",
+      "translit": "mefer",
+      "ref": "Isa.44.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְתָפֵר",
+      "translit": "vtafer",
+      "ref": "Eccl.12.5",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָפֵר",
+      "translit": "yafer",
+      "ref": "Isa.14.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תָּפֵרוּ",
+      "translit": "taferu",
+      "ref": "Jer.33.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּפֵר",
+      "translit": "tafer",
+      "ref": "Job.15.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָפֵר",
+      "translit": "afer",
+      "ref": "Judg.2.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהֵפֵר",
+      "translit": "vhefer",
+      "ref": "Deut.31.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הָפֵר",
+      "translit": "hafer",
+      "ref": "1Kgs.15.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהָפֵר",
+      "translit": "lhafer",
+      "ref": "2Sam.17.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הָפֵר",
+      "translit": "hafer",
+      "ref": "Num.30.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּפֵר",
+      "translit": "tafer",
+      "ref": "Jer.14.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתֻּפַר",
+      "translit": "vattufar",
+      "ref": "Zech.11.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֻפַר",
+      "translit": "tufar",
+      "ref": "Isa.8.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "break",
+  "hophal": "be broken"
+ },
+ "root": "פרר",
+ "search_match": [
+  "6565",
+  "h6565",
+  "parar",
+  "violate",
+  "פרר"
+ ],
+ "citation_translit": "parar"
+}

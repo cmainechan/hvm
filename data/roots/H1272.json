@@ -1,0 +1,234 @@
+{
+ "glosses": [
+  "flee"
+ ],
+ "strong": "H1272",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "בָּרַח",
+      "translit": "barach",
+      "ref": "1Kgs.11.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "בָּרָֽחוּ",
+      "translit": "barachu",
+      "ref": "Isa.22.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּבְרְחוּ",
+      "translit": "vayyivrchu",
+      "ref": "1Kgs.2.39",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּבְרַח",
+      "translit": "vayyivrach",
+      "ref": "1Kgs.11.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּבְרַח",
+      "translit": "vattivrach",
+      "ref": "Gen.16.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "בֹרֵחַ",
+      "translit": "vorecha",
+      "ref": "1Sam.22.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "בֹּרַֽחַת",
+      "translit": "borachat",
+      "ref": "Gen.16.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִבְרְחוּ",
+      "translit": "yivrchu",
+      "ref": "Jer.52.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִבְרַח",
+      "translit": "yivrach",
+      "ref": "Job.20.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶבְרָֽח",
+      "translit": "evrach",
+      "ref": "Ps.139.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "בְּרַח",
+      "translit": "brach",
+      "ref": "Amos.7.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "בִּרְחוּ",
+      "translit": "birchu",
+      "ref": "Isa.48.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִבְרֹחַ",
+      "translit": "livrocha",
+      "ref": "1Kgs.2.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בָּרוֹחַ",
+      "translit": "barocha",
+      "ref": "Job.27.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְנִבְרָחָה",
+      "translit": "vnivrachah",
+      "ref": "2Sam.15.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִבְרִיחוּ",
+      "translit": "hivrichu",
+      "ref": "1Chr.8.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּבְרִיחוּ",
+      "translit": "vayyavrichu",
+      "ref": "1Chr.12.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאַבְרִיחֵהוּ",
+      "translit": "va'avrichehu",
+      "ref": "Neh.13.28",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַבְרִחַ",
+      "translit": "mavricha",
+      "ref": "Exod.26.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַבְרִיחַ",
+      "translit": "yavricha",
+      "ref": "Job.41.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "put to flight"
+ },
+ "root": "ברח",
+ "search_match": [
+  "1272",
+  "barach",
+  "flee (barach)",
+  "h1272",
+  "ברח"
+ ],
+ "citation_translit": "barach"
+}

@@ -1,0 +1,211 @@
+{
+ "glosses": [
+  "counsel"
+ ],
+ "strong": "H3289",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "יָעֲצוּ",
+      "translit": "ya'atzu",
+      "ref": "1Kgs.12.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָעַץ",
+      "translit": "ya'atz",
+      "ref": "2Chr.25.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "יָעַצְתִּי",
+      "translit": "ya'atzti",
+      "ref": "2Sam.17.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "יָעַצְתָּ",
+      "translit": "ya'atzta",
+      "ref": "Hab.2.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "יוֹעֵץ",
+      "translit": "yo'etz",
+      "ref": "1Chr.26.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "יוֹעֲצִים",
+      "translit": "yo'atzim",
+      "ref": "2Chr.22.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "הַיְּעוּצָה",
+      "translit": "hayy'utzah",
+      "ref": "Isa.14.26",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אִיעָצְךָ",
+      "translit": "i'atzkha",
+      "ref": "Exod.18.19",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אִֽיעֲצָה",
+      "translit": "i'atzah",
+      "ref": "1Kgs.1.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נוֹעָץ",
+      "translit": "no'atz",
+      "ref": "Isa.40.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נוֹעֲצוּ",
+      "translit": "no'atzu",
+      "ref": "Ps.71.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּוָּעַץ",
+      "translit": "vayyivva'atz",
+      "ref": "1Chr.13.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּוָּֽעֲצוּ",
+      "translit": "vayyivva'atzu",
+      "ref": "2Chr.30.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נֽוֹעָצִים",
+      "translit": "no'atzim",
+      "ref": "1Kgs.12.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִֽוָּעֲצוּ",
+      "translit": "yivva'atzu",
+      "ref": "Isa.45.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְנִֽוָּעֲצָה",
+      "translit": "vnivva'atzah",
+      "ref": "Neh.6.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיִתְיָעֲצוּ",
+      "translit": "vyitya'atzu",
+      "ref": "Ps.83.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "consult together",
+  "hitpael": "consult together"
+ },
+ "root": "יעץ",
+ "search_match": [
+  "3289",
+  "counsel",
+  "h3289",
+  "ya'atz",
+  "יעץ"
+ ],
+ "citation_translit": "ya'atz"
+}

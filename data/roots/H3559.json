@@ -1,0 +1,388 @@
+{
+ "glosses": [
+  "establish"
+ ],
+ "strong": "H3559",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נָכוֹנָה",
+      "translit": "nakhonah",
+      "ref": "1Kgs.2.46",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָכֹנוּ",
+      "translit": "nakhonu",
+      "ref": "Ezek.16.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּכּוֹן",
+      "translit": "vattikkon",
+      "ref": "1Kgs.2.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נָכוֹן",
+      "translit": "nakhon",
+      "ref": "1Chr.17.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נְכֹנִים",
+      "translit": "nkhonim",
+      "ref": "Exod.19.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "נְכוֹנָה",
+      "translit": "nkhonah",
+      "ref": "Job.42.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּכּוֹן",
+      "translit": "tikkon",
+      "ref": "1Chr.16.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִכּוֹן",
+      "translit": "tikkon",
+      "ref": "1Sam.20.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִכֹּנוּ",
+      "translit": "yikkonu",
+      "ref": "Prov.4.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִכּוֹן",
+      "translit": "yikkon",
+      "ref": "Prov.12.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִכּוֹן",
+      "translit": "hikkon",
+      "ref": "Amos.4.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיִכֹּנוּ",
+      "translit": "vyikkonu",
+      "ref": "Prov.16.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֵכִינוּ",
+      "translit": "hekhinu",
+      "ref": "1Chr.12.40",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֵכִין",
+      "translit": "hekhin",
+      "ref": "1Chr.14.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הֲכִינוֹתִי",
+      "translit": "hakhinoti",
+      "ref": "1Chr.15.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "הֲכִינֹנוּ",
+      "translit": "hakhinonu",
+      "ref": "1Chr.29.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הֲכִינוֹתָ",
+      "translit": "hakhinota",
+      "ref": "2Chr.19.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּכֶן",
+      "translit": "vayyakhen",
+      "ref": "1Chr.15.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּכִינוּ",
+      "translit": "vayyakhinu",
+      "ref": "1Kgs.5.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֵכִין",
+      "translit": "mekhin",
+      "ref": "Jer.10.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּכִין",
+      "translit": "takhin",
+      "ref": "Deut.19.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָּכִין",
+      "translit": "takhin",
+      "ref": "Job.15.35",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָכִין",
+      "translit": "yakhin",
+      "ref": "Job.27.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָכִין",
+      "translit": "akhin",
+      "ref": "Job.29.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וַהֲכִינוֹתִי",
+      "translit": "vahakhinoti",
+      "ref": "1Chr.17.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַהֲכִינֹתָה",
+      "translit": "vahakhinotah",
+      "ref": "Ezek.4.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הָכֵן",
+      "translit": "hakhen",
+      "ref": "1Chr.29.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הָכִינוּ",
+      "translit": "hakhinu",
+      "ref": "1Sam.7.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הָכִין",
+      "translit": "hakhin",
+      "ref": "1Chr.9.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הָכֵן",
+      "translit": "hakhen",
+      "ref": "Josh.3.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָכִינָה",
+      "translit": "akhinah",
+      "ref": "1Chr.22.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הוּכָן",
+      "translit": "hukhan",
+      "ref": "Isa.30.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מוּכָנִים",
+      "translit": "mukhanim",
+      "ref": "Ezek.40.43",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מוּכָן",
+      "translit": "mukhan",
+      "ref": "Prov.21.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהוּכַן",
+      "translit": "vhukhan",
+      "ref": "Isa.16.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be established",
+  "hiphil": "establish",
+  "hophal": "be prepared; be established"
+ },
+ "root": "כון",
+ "search_match": [
+  "3559",
+  "establish",
+  "h3559",
+  "kun",
+  "כון"
+ ],
+ "citation_translit": "kun"
+}

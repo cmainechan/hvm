@@ -1,0 +1,284 @@
+{
+ "glosses": [
+  "tread"
+ ],
+ "strong": "H1869",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "דָּרַךְ",
+      "translit": "darakh",
+      "ref": "Deut.1.36",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "דָּרַכְתָּ",
+      "translit": "darakhta",
+      "ref": "Hab.3.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "דָּרַכְתִּי",
+      "translit": "darakhti",
+      "ref": "Isa.63.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "דָּרְכוּ",
+      "translit": "darkhu",
+      "ref": "Job.22.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "דָּרְכָה",
+      "translit": "darkhah",
+      "ref": "Josh.14.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּדְרְכוּ",
+      "translit": "vayyidrkhu",
+      "ref": "Judg.9.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "דֹּרֵךְ",
+      "translit": "dorekh",
+      "ref": "Amos.4.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "דֹּֽרְכִֽים",
+      "translit": "dorkhim",
+      "ref": "Jer.25.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "דְּרֻכוֹת",
+      "translit": "drukhot",
+      "ref": "Isa.5.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "דְּרוּכָה",
+      "translit": "drukhah",
+      "ref": "Isa.21.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִדְרְכוּ",
+      "translit": "yidrkhu",
+      "ref": "1Sam.5.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּדְרֹךְ",
+      "translit": "tidrokh",
+      "ref": "Deut.11.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּדְרְכוּ",
+      "translit": "tidrkhu",
+      "ref": "Deut.11.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִדְרֹֽךְ",
+      "translit": "tidrokh",
+      "ref": "Deut.33.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִדְרֹךְ",
+      "translit": "yidrokh",
+      "ref": "Isa.16.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאֶדְרְכֵם",
+      "translit": "v'edrkhem",
+      "ref": "Isa.63.3",
+      "has_suffix": true,
+      "has_prefix": true
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִּדְרְכִי",
+      "translit": "tidrkhi",
+      "ref": "Judg.5.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִדְרִיכָהּ",
+      "translit": "hidrikhahh",
+      "ref": "Jer.51.33",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִדְרִיכֻהוּ",
+      "translit": "hidrikhuhu",
+      "ref": "Job.28.8",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הִדְרַכְתִּיךָ",
+      "translit": "hidrakhtikha",
+      "ref": "Prov.4.11",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיַּדְרְכוּ",
+      "translit": "vayyadrkhu",
+      "ref": "Jer.9.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּֽדְרִיכֵם",
+      "translit": "vayyadrikhem",
+      "ref": "Ps.107.7",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַדְרֵךְ",
+      "translit": "yadrekh",
+      "ref": "Hab.3.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַדְרִיכֵם",
+      "translit": "adrikhem",
+      "ref": "Isa.42.16",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהִדְרִיךְ",
+      "translit": "vhidrikh",
+      "ref": "Isa.11.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַדְרִיכֵנִי",
+      "translit": "hadrikheni",
+      "ref": "Ps.25.5",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "lead"
+ },
+ "root": "דרך",
+ "search_match": [
+  "1869",
+  "darakh",
+  "h1869",
+  "tread",
+  "דרך"
+ ],
+ "citation_translit": "darakh"
+}
