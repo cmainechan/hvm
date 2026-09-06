@@ -148,7 +148,26 @@
      }
     ]
    }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֲנִסָּה",
+      "translit": "hanissah",
+      "ref": "Job.4.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
   }
+ },
+ "stem_glosses": {
+  "niphal": "attempt; venture"
  },
  "root": "נסה",
  "search_match": [
