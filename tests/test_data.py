@@ -166,6 +166,32 @@ def test_root_order_is_computable_and_consistent():
         hebrew_sort_key(data["root"])  # raises ValueError on bad input
 
 
+def _stem_order_from(src_path):
+    text = (ROOT / src_path).read_text(encoding="utf-8")
+    m = re.search(r"const STEM_ORDER = \[(.*?)\];", text, re.S)
+    assert m, f"couldn't find STEM_ORDER in {src_path}"
+    return set(re.findall(r'"([^"]+)"', m.group(1)))
+
+
+def test_every_stem_is_known_to_the_ui():
+    """STEM_ORDER/STEM_COLOR in the two UI templates are a fixed, hand-
+    maintained list of the stems the wheel and legend know how to render.
+    A stem that shows up in data/roots/ but isn't in that list gets stored
+    correctly and then silently never appears as a wheel wedge -- a real
+    bug caught in review (polal/hithpolel/nithpael/pilpel all slipped
+    through this way at once). This test closes the loop: it fails loudly
+    at data-add time instead of requiring a manual side-by-side audit."""
+    used_stems = {stem for data in ALL_ROOTS.values() for stem in data["stems"]}
+    for src_path in ("src/template.jsx", "src/template.html"):
+        known = _stem_order_from(src_path)
+        missing = used_stems - known
+        assert not missing, (
+            f"{src_path}'s STEM_ORDER doesn't include: {missing} -- "
+            "add each to both STEM_ORDER and STEM_COLOR in template.jsx "
+            "AND template.html, or the wheel will silently hide that stem"
+        )
+
+
 def _corpus_available():
     return (ROOT / "pipeline" / "corpus" / "morphhb" / "wlc").exists()
 
