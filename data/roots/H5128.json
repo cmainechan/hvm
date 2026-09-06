@@ -1,0 +1,271 @@
+{
+ "glosses": [
+  "quiver; wander"
+ ],
+ "strong": "H5128",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָעוּ",
+      "translit": "nau",
+      "ref": "Isa.29.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּנַע",
+      "translit": "vayyana",
+      "ref": "Isa.7.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּנֻעוּ",
+      "translit": "vayyanuu",
+      "ref": "Exod.20.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָּנוּעַ",
+      "translit": "tanua",
+      "ref": "Isa.24.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָנוּעוּ",
+      "translit": "yanuu",
+      "ref": "Ps.109.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנָעוּ",
+      "translit": "vnau",
+      "ref": "Amos.4.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נָע",
+      "translit": "na",
+      "ref": "Gen.4.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "נָּעוֹת",
+      "translit": "naot",
+      "ref": "1Sam.1.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כְּנוֹעַ",
+      "translit": "knoa",
+      "ref": "Isa.7.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "נוֹעַ",
+      "translit": "noa",
+      "ref": "Isa.24.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִנּוֹעַ",
+      "translit": "yinnoa",
+      "ref": "Amos.9.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִנּוֹעוּ",
+      "translit": "yinnou",
+      "ref": "Nah.3.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הֵנִיעָה",
+      "translit": "heni'ah",
+      "ref": "2Kgs.19.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וַהֲנִעוֹתִי",
+      "translit": "vahanioti",
+      "ref": "Amos.9.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְנִעֵם",
+      "translit": "vayni'em",
+      "ref": "Num.32.13",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתְּנִיעֵנִי",
+      "translit": "vattni'eni",
+      "ref": "Dan.10.10",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּנִעוּ",
+      "translit": "vayyaniu",
+      "ref": "Lam.2.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָנִיעַ",
+      "translit": "yania",
+      "ref": "Zeph.2.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲנִֽיעֲךָ",
+      "translit": "ani'akha",
+      "ref": "2Sam.15.20",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְנִיעוּן",
+      "translit": "yniun",
+      "ref": "Ps.109.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הֲנִיעֵמוֹ",
+      "translit": "hani'emo",
+      "ref": "Ps.59.12",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָנַע",
+      "translit": "yana",
+      "ref": "2Kgs.23.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאָנִיעָה",
+      "translit": "v'ani'ah",
+      "ref": "Job.16.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be tossed about",
+  "hiphil": "shake; cause to wander"
+ },
+ "root": "נוע",
+ "search_match": [
+  "5128",
+  "h5128",
+  "quiver",
+  "nua",
+  "נוע"
+ ],
+ "citation_translit": "nua"
+}

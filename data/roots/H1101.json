@@ -1,0 +1,112 @@
+{
+ "glosses": [
+  "mix; feed (animals) fodder"
+ ],
+ "strong": "H1101",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "בָּלַל",
+      "translit": "balal",
+      "ref": "Gen.11.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "בַּלֹּתִי",
+      "translit": "balloti",
+      "ref": "Ps.92.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּבָול",
+      "translit": "vayyavavl",
+      "ref": "Judg.19.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְנָבְלָה",
+      "translit": "vnavlah",
+      "ref": "Gen.11.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "בָּלוּל",
+      "translit": "balul",
+      "ref": "Exod.29.40",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "בְּלוּלָה",
+      "translit": "blulah",
+      "ref": "Lev.14.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "בְּלוּלֹת",
+      "translit": "blulot",
+      "ref": "Exod.29.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְבּוֹלָל",
+      "translit": "yitbolal",
+      "ref": "Hos.7.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hithpolel": "mix oneself"
+ },
+ "root": "בלל",
+ "search_match": [
+  "1101",
+  "h1101",
+  "mix",
+  "balal",
+  "בלל"
+ ],
+ "citation_translit": "balal"
+}

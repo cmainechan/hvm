@@ -1,0 +1,263 @@
+{
+ "glosses": [
+  "pull down"
+ ],
+ "strong": "H5422",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נָתַץ",
+      "translit": "natatz",
+      "ref": "2Kgs.23.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָֽתְצוּ",
+      "translit": "nattzu",
+      "ref": "2Kgs.25.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּתֹּץ",
+      "translit": "vayyittotz",
+      "ref": "2Kgs.23.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּתְּצוּ",
+      "translit": "vayyitttzu",
+      "ref": "2Kgs.10.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַתִּתְֿצוּ",
+      "translit": "vattittzu",
+      "ref": "Isa.22.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתֹּץ",
+      "translit": "yittotz",
+      "ref": "Ezek.26.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶתֹּץ",
+      "translit": "ettotz",
+      "ref": "Judg.8.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתֹּצוּ",
+      "translit": "yittotzu",
+      "ref": "Ezek.26.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּתֹּצוּ",
+      "translit": "tittotzu",
+      "ref": "Deut.7.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנָתַץ",
+      "translit": "vnatatz",
+      "ref": "Lev.14.45",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נְתֹץ",
+      "translit": "ntotz",
+      "ref": "Ps.58.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַנְּתֻצִים",
+      "translit": "hanntutzim",
+      "ref": "Jer.33.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְלִנְתוֹץ",
+      "translit": "vlintotz",
+      "ref": "Jer.1.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִתְּצוּ",
+      "translit": "nitttzu",
+      "ref": "Jer.4.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִתַּץ",
+      "translit": "nittatz",
+      "ref": "2Chr.33.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְנַתֵּץ",
+      "translit": "vaynattetz",
+      "ref": "2Chr.34.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיְנַתְּצוּ",
+      "translit": "vaynatttzu",
+      "ref": "2Chr.31.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנִתְּצוּ",
+      "translit": "vnitttzu",
+      "ref": "Ezek.16.39",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְנִתַּצְתֶּם",
+      "translit": "vnittatztem",
+      "ref": "Deut.12.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נֻתַּץ",
+      "translit": "nuttatz",
+      "ref": "Judg.6.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֻתָּץ",
+      "translit": "yuttatz",
+      "ref": "Lev.11.35",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be pulled down",
+  "piel": "tear down",
+  "pual": "be torn down",
+  "hophal": "be broken down"
+ },
+ "root": "נתץ",
+ "search_match": [
+  "5422",
+  "h5422",
+  "pull down",
+  "natatz",
+  "נתץ"
+ ],
+ "citation_translit": "natatz"
+}

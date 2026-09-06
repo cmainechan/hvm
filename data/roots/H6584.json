@@ -1,0 +1,305 @@
+{
+ "glosses": [
+  "strip off"
+ ],
+ "strong": "H6584",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "פָּשַׁט",
+      "translit": "pashat",
+      "ref": "Hos.7.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּפָשַׁטְתָּ",
+      "translit": "ufashatta",
+      "ref": "Judg.9.33",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "פָּשַׁטְתִּי",
+      "translit": "pashatti",
+      "ref": "Song.5.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "פָשְׁטוּ",
+      "translit": "fashtu",
+      "ref": "1Sam.23.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "פְּשַׁטְתֶּם",
+      "translit": "pshattem",
+      "ref": "1Sam.27.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "פָּשַׁטְנוּ",
+      "translit": "pashatnu",
+      "ref": "1Sam.30.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּפְשַׁט",
+      "translit": "vayyifshat",
+      "ref": "1Sam.19.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּפְשְׁטוּ",
+      "translit": "vayyifshtu",
+      "ref": "1Chr.14.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִפְשֹׁטוּ",
+      "translit": "yifshotu",
+      "ref": "Ezek.26.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּפָשַׁט",
+      "translit": "ufashat",
+      "ref": "Lev.16.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fp",
+      "label": "2nd fem. pl.",
+      "heb": "פְּשֹׁטָֽה",
+      "translit": "pshotah",
+      "ref": "Isa.32.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "פֹשְׁטִים",
+      "translit": "foshtim",
+      "ref": "Neh.4.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְפַשֵּׁט",
+      "translit": "lfasshet",
+      "ref": "1Chr.10.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִפְשִׁיט",
+      "translit": "hifshit",
+      "ref": "Job.19.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִפְשִׁיטוּ",
+      "translit": "hifshitu",
+      "ref": "Mic.3.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּפְשֵׁט",
+      "translit": "vayyafshet",
+      "ref": "Num.20.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּפְשִׁיטוּ",
+      "translit": "vayyafshitu",
+      "ref": "1Sam.31.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּפְשִֽׁיט",
+      "translit": "tafshit",
+      "ref": "Job.22.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַפְשִׁיטֶנָּה",
+      "translit": "afshitennah",
+      "ref": "Hos.2.5",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּפְשִׁטוּן",
+      "translit": "tafshitun",
+      "ref": "Mic.2.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהִפְשִׁיט",
+      "translit": "vhifshit",
+      "ref": "Lev.1.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִפְשִׁיטוּ",
+      "translit": "vhifshitu",
+      "ref": "Ezek.16.39",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהַפְשֵׁט",
+      "translit": "vhafshet",
+      "ref": "Num.20.26",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַפְשִׁיטִֽים",
+      "translit": "mafshitim",
+      "ref": "2Chr.35.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַפְשִׁיט",
+      "translit": "lhafshit",
+      "ref": "2Chr.29.34",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּתְפַּשֵּׁט",
+      "translit": "vayyitpasshet",
+      "ref": "1Sam.18.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "strip",
+  "hitpael": "strip oneself of"
+ },
+ "root": "פשט",
+ "search_match": [
+  "6584",
+  "h6584",
+  "strip off",
+  "pashat",
+  "פשט"
+ ],
+ "citation_translit": "pashat"
+}

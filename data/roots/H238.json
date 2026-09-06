@@ -1,0 +1,140 @@
+{
+ "glosses": [
+  "give ear"
+ ],
+ "strong": "H238",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֶאֱזִין",
+      "translit": "he'ezin",
+      "ref": "Deut.1.45",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֶאֱזִֽינוּ",
+      "translit": "he'ezinu",
+      "ref": "2Chr.24.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַאֲזִין",
+      "translit": "ya'azin",
+      "ref": "Isa.42.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָזִין",
+      "translit": "azin",
+      "ref": "Job.32.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַאֲזִינוּ",
+      "translit": "ya'azinu",
+      "ref": "Ps.135.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהַאֲזִין",
+      "translit": "vha'azin",
+      "ref": "Ps.77.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהַֽאֲזַנְתָּ",
+      "translit": "vha'azanta",
+      "ref": "Exod.15.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַאֲזִֽינָה",
+      "translit": "ha'azinah",
+      "ref": "Job.33.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְהַאֲזִינִי",
+      "translit": "vha'azini",
+      "ref": "Isa.1.2",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הַאֲזִינוּ",
+      "translit": "ha'azinu",
+      "ref": "Deut.32.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fp",
+      "label": "2nd fem. pl.",
+      "heb": "הַאְזֵנָּה",
+      "translit": "hazennah",
+      "ref": "Gen.4.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֵזִין",
+      "translit": "mezin",
+      "ref": "Prov.17.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "אזן",
+ "search_match": [
+  "238",
+  "h238",
+  "give ear",
+  "azan",
+  "אזן"
+ ],
+ "citation_translit": "azan"
+}

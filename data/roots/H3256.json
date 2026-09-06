@@ -1,0 +1,310 @@
+{
+ "glosses": [
+  "admonish"
+ ],
+ "strong": "H3256",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיִסְּרֵנִי",
+      "translit": "vyissreni",
+      "ref": "Isa.8.11",
+      "has_suffix": true,
+      "has_prefix": true
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאֶסֳּרֵם",
+      "translit": "v'essorem",
+      "ref": "Hos.10.10",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "יֹסֵר",
+      "translit": "yoser",
+      "ref": "Prov.9.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "יָסֹר",
+      "translit": "yasor",
+      "ref": "1Chr.15.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָֽאִוָּסֵר",
+      "translit": "va'ivvaser",
+      "ref": "Jer.31.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִוָּסֶר",
+      "translit": "yivvaser",
+      "ref": "Prov.29.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִוָּסְרוּ",
+      "translit": "tivvasru",
+      "ref": "Lev.26.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הִוָּסְרִי",
+      "translit": "hivvasri",
+      "ref": "Jer.6.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הִוָּסְרוּ",
+      "translit": "hivvasru",
+      "ref": "Ps.2.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִסַּר",
+      "translit": "yissar",
+      "ref": "1Kgs.12.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "יִסְּרַתּוּ",
+      "translit": "yissrattu",
+      "ref": "Prov.31.1",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "יִסַּרְתָּ",
+      "translit": "yissarta",
+      "ref": "Job.4.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "יִסַּרְתִּי",
+      "translit": "yissarti",
+      "ref": "Hos.7.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "יִסְּרוּנִי",
+      "translit": "yissruni",
+      "ref": "Ps.16.7",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְיַסֵּר",
+      "translit": "yyasser",
+      "ref": "Deut.8.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּיַסְּרֵךְ",
+      "translit": "tyassrekh",
+      "ref": "Jer.2.19",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְיַסְּרֵֽנִי",
+      "translit": "tyassreni",
+      "ref": "Ps.38.2",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲיַסֵּר",
+      "translit": "ayasser",
+      "ref": "1Kgs.12.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיִסְּרוֹ",
+      "translit": "vyissro",
+      "ref": "Isa.28.26",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְיִסַּרְתִּי",
+      "translit": "vyissarti",
+      "ref": "Lev.26.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְיסְּרוּ",
+      "translit": "vysru",
+      "ref": "Deut.21.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "יַסֵּר",
+      "translit": "yasser",
+      "ref": "Prov.19.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְיַסְּרָה",
+      "translit": "lyassrah",
+      "ref": "Lev.26.18",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "יַסֹּר",
+      "translit": "yassor",
+      "ref": "Ps.118.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַיְסִרֵם",
+      "translit": "aysirem",
+      "ref": "Hos.7.12",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "nithpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנִֽוַּסְּרוּ",
+      "translit": "vnivvassru",
+      "ref": "Ezek.23.48",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "let oneself be corrected",
+  "piel": "chasten",
+  "hiphil": "chasten",
+  "nithpael": "be disciplined"
+ },
+ "root": "יסר",
+ "search_match": [
+  "3256",
+  "h3256",
+  "admonish",
+  "yasar",
+  "יסר"
+ ],
+ "citation_translit": "yasar"
+}

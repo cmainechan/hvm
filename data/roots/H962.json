@@ -1,0 +1,215 @@
+{
+ "glosses": [
+  "plunder"
+ ],
+ "strong": "H962",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "בָּזְזוּ",
+      "translit": "bazzu",
+      "ref": "2Chr.28.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "בָּזַזְנוּ",
+      "translit": "bazaznu",
+      "ref": "Deut.2.35",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּבֹזּוּ",
+      "translit": "vayyavozzu",
+      "ref": "2Chr.14.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּבֹז",
+      "translit": "tavoz",
+      "ref": "Deut.20.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָבֹֽזּוּ",
+      "translit": "yavozzu",
+      "ref": "Isa.10.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תָּבֹזּוּ",
+      "translit": "tavozzu",
+      "ref": "Josh.8.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּבָזַז",
+      "translit": "uvazaz",
+      "ref": "Ezek.29.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וּבָֽזְזוּ",
+      "translit": "uvazzu",
+      "ref": "Ezek.26.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "בֹּזּוּ",
+      "translit": "bozzu",
+      "ref": "Nah.2.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְֽנָבֹזָה",
+      "translit": "vnavozah",
+      "ref": "1Sam.14.36",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "בֹּזְזִים",
+      "translit": "bozzim",
+      "ref": "2Chr.20.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "בָּזוּז",
+      "translit": "bazuz",
+      "ref": "Isa.42.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לָבֹז",
+      "translit": "lavoz",
+      "ref": "2Chr.20.25",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּבּוֹז",
+      "translit": "tibboz",
+      "ref": "Isa.24.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנָבֹזּוּ",
+      "translit": "vnavozzu",
+      "ref": "Amos.3.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְהִבּוֹז",
+      "translit": "vhibboz",
+      "ref": "Isa.24.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וּבֻזָּֽזוּ",
+      "translit": "uvuzzazu",
+      "ref": "Jer.50.37",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be plundered",
+  "pual": "be taken as spoil"
+ },
+ "root": "בזז",
+ "search_match": [
+  "962",
+  "h962",
+  "plunder (bazaz)",
+  "bazaz",
+  "בזז"
+ ],
+ "citation_translit": "bazaz"
+}

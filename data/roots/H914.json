@@ -1,0 +1,281 @@
+{
+ "glosses": [
+  "divide"
+ ],
+ "strong": "H914",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִבְדִּיל",
+      "translit": "hivdil",
+      "ref": "Deut.10.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִבְדַּלְתָּם",
+      "translit": "hivdaltam",
+      "ref": "1Kgs.8.53",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הִבְדַּלְתִּי",
+      "translit": "hivdalti",
+      "ref": "Lev.20.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִבְדִּילוּ",
+      "translit": "hivdilu",
+      "ref": "Ezek.22.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּבְדֵּל",
+      "translit": "vayyavdel",
+      "ref": "1Chr.25.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאַבְדִּילָה",
+      "translit": "va'avdilah",
+      "ref": "Ezra.8.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּבְדִּילוּ",
+      "translit": "vayyavdilu",
+      "ref": "Neh.13.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַבְדִּיל",
+      "translit": "yavdil",
+      "ref": "Deut.4.41",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּבְדִּיל",
+      "translit": "tavdil",
+      "ref": "Deut.19.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַבְדִּילוּ",
+      "translit": "yavdilu",
+      "ref": "Ezek.39.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהִבְדִּילוֹ",
+      "translit": "vhivdilo",
+      "ref": "Deut.29.20",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְהִבְדִּילָה",
+      "translit": "vhivdilah",
+      "ref": "Exod.26.33",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהִבְדַּלְתָּ",
+      "translit": "vhivdalta",
+      "ref": "Num.8.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהִבְדַּלְתֶּם",
+      "translit": "vhivdaltem",
+      "ref": "Lev.20.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַבְדִּיל",
+      "translit": "mavdil",
+      "ref": "Gen.1.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַבְדִּלִים",
+      "translit": "mavdilim",
+      "ref": "Isa.59.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַבְדִּיל",
+      "translit": "lhavdil",
+      "ref": "Ezek.42.20",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַבְדֵּל",
+      "translit": "havdel",
+      "ref": "Isa.56.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִבְדְּלוּ",
+      "translit": "nivdlu",
+      "ref": "1Chr.12.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּבָּדֵל",
+      "translit": "vayyibbadel",
+      "ref": "1Chr.23.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּבָּדְלוּ",
+      "translit": "vayyibbadlu",
+      "ref": "Ezra.10.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִבָּדֵל",
+      "translit": "yibbadel",
+      "ref": "Ezra.10.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הִבָּדְלוּ",
+      "translit": "hibbadlu",
+      "ref": "Num.16.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַנִּבְדָּל",
+      "translit": "hannivdal",
+      "ref": "Neh.10.29",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַנִּבְדָּל",
+      "translit": "hannivdal",
+      "ref": "Ezra.6.21",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "separate oneself"
+ },
+ "root": "בדל",
+ "search_match": [
+  "914",
+  "h914",
+  "divide (badal)",
+  "badal",
+  "בדל"
+ ],
+ "citation_translit": "badal"
+}

@@ -1,0 +1,246 @@
+{
+ "glosses": [
+  "found"
+ ],
+ "strong": "H3245",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָֽסַד",
+      "translit": "yasad",
+      "ref": "Prov.3.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "יָסְדָה",
+      "translit": "yasdah",
+      "ref": "Isa.48.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "יָסַדְתָּ",
+      "translit": "yasadta",
+      "ref": "Ps.102.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וִיסַדְתִּיךְ",
+      "translit": "visadtikh",
+      "ref": "Isa.54.11",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְיֹסֵד",
+      "translit": "vyosed",
+      "ref": "Isa.51.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְיִסּוֹד",
+      "translit": "lyissod",
+      "ref": "2Chr.31.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נֽוֹסְדוּ",
+      "translit": "nosdu",
+      "ref": "Ps.2.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּוָּסֵֽד",
+      "translit": "tivvased",
+      "ref": "Isa.44.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִוָּסְדָה",
+      "translit": "hivvasdah",
+      "ref": "Exod.9.18",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִסַּד",
+      "translit": "yissad",
+      "ref": "1Chr.9.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "יִסַּדְתָּ",
+      "translit": "yissadta",
+      "ref": "Ps.8.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "יִסְּדוּ",
+      "translit": "yissdu",
+      "ref": "Zech.4.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְיַסְּדֶנָּה",
+      "translit": "yyassdennah",
+      "ref": "Josh.6.26",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְיַסֵּד",
+      "translit": "lyassed",
+      "ref": "1Kgs.5.31",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֻסַּד",
+      "translit": "yussad",
+      "ref": "1Kgs.6.37",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּמְיֻסָּד",
+      "translit": "umyussad",
+      "ref": "1Kgs.7.10",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְיֻסָּדִים",
+      "translit": "myussadim",
+      "ref": "Song.5.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הוּסַד",
+      "translit": "husad",
+      "ref": "2Chr.3.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מוּסָּד",
+      "translit": "mussad",
+      "ref": "Isa.28.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be founded",
+  "pual": "be founded",
+  "hophal": "be founded"
+ },
+ "root": "יסד",
+ "search_match": [
+  "3245",
+  "h3245",
+  "found",
+  "yasad",
+  "יסד"
+ ],
+ "citation_translit": "yasad"
+}

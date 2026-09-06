@@ -17,20 +17,26 @@ const STEM_COLOR = {
   niphal: { color: "#3A5F6B", soft: "#D8E4E6", name: "Niphal" },
   piel: { color: "#8B6F1F", soft: "#EFE6C6", name: "Piel" },
   pual: { color: "#5C4A8B", soft: "#E1DAEF", name: "Pual" },
+  polal: { color: "#6B8B2F", soft: "#E6EBD6", name: "Polal" },
   hiphil: { color: "#2F6B3A", soft: "#D9E8DC", name: "Hiphil" },
   hophal: { color: "#6B4A2F", soft: "#E6DAD0", name: "Hophal" },
   hitpael: { color: "#8B2F5C", soft: "#EBD6E1", name: "Hitpael" },
+  hithpolel: { color: "#2F8B8B", soft: "#D6EBEB", name: "Hithpolel" },
+  nithpael: { color: "#8B2F8B", soft: "#EBD6EB", name: "Nithpael" },
   hishtaphel: { color: "#3A4A8B", soft: "#DADFF0", name: "Hishtaphel" },
 };
-const STEM_ORDER = ["qal", "niphal", "piel", "pual", "hiphil", "hophal", "hitpael", "hishtaphel"];
+const STEM_ORDER = ["qal", "niphal", "piel", "pual", "polal", "hiphil", "hophal", "hitpael", "hithpolel", "nithpael", "hishtaphel"];
 
 // a handful of roots default to a stem other than the first-available one in
 // STEM_ORDER, because that stem is overwhelmingly the dominant/expected form
 // for that specific verb (e.g. "bow down" is almost always Hishtaphel, a rare
 // stem historically unique to this root, rather than its much sparser Qal).
 const DEFAULT_STEM_OVERRIDE = {
+  "אזן": "hiphil",
+  "בדל": "hiphil",
   "בקש": "piel",
   "זמר": "piel",
+  "יחל": "piel",
   "יכח": "hiphil",
   "יצב": "hitpael",
   "ישע": "hiphil",
@@ -54,6 +60,7 @@ const DEFAULT_STEM_OVERRIDE = {
   "קוה": "piel",
   "קטר": "hiphil",
   "קשב": "hiphil",
+  "רוע": "hiphil",
   "שבע¹": "niphal",
   "שחת": "hiphil",
   "שכם": "hiphil",

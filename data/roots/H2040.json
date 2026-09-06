@@ -1,0 +1,291 @@
+{
+ "glosses": [
+  "throw down; break through"
+ ],
+ "strong": "H2040",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הָרָס",
+      "translit": "haras",
+      "ref": "Isa.14.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הָרָסוּ",
+      "translit": "harasu",
+      "ref": "1Kgs.19.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֶּֽהֶרְסֶֽהָ",
+      "translit": "vayyeherseha",
+      "ref": "1Chr.20.1",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַהֲרוֹס",
+      "translit": "yaharos",
+      "ref": "Job.12.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֶהֶרְסֶֽנּוּ",
+      "translit": "tehersennu",
+      "ref": "Prov.14.1",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּהֲרֹס",
+      "translit": "taharos",
+      "ref": "Exod.15.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶהֱרֹס",
+      "translit": "eheros",
+      "ref": "Jer.24.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַהֲרֹסוּ",
+      "translit": "yaharosu",
+      "ref": "2Kgs.3.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהָרַסְתָּ",
+      "translit": "vharasta",
+      "ref": "Judg.6.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהָרַסְתִּי",
+      "translit": "vharasti",
+      "ref": "Ezek.13.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהָרְסוּ",
+      "translit": "vharsu",
+      "ref": "Ezek.16.39",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הֲרָס",
+      "translit": "haras",
+      "ref": "Ps.58.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֶֽהֶרְסוּ",
+      "translit": "yehersu",
+      "ref": "Exod.19.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הֹרֵס",
+      "translit": "hores",
+      "ref": "Jer.45.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הֶהָרֽוּס",
+      "translit": "heharus",
+      "ref": "1Kgs.18.30",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְלַהֲרוֹס",
+      "translit": "vlaharos",
+      "ref": "Jer.1.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נֶהֱרָֽסָה",
+      "translit": "neherasah",
+      "ref": "Prov.24.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נֶהֶרְסוּ",
+      "translit": "nehersu",
+      "ref": "Jer.50.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵהָרֵס",
+      "translit": "yehares",
+      "ref": "Jer.31.40",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֵּהָרֵֽס",
+      "translit": "tehares",
+      "ref": "Prov.11.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֵֽהָרֵסוּן",
+      "translit": "yeharesun",
+      "ref": "Ps.11.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנֶהֶרְסוּ",
+      "translit": "vnehersu",
+      "ref": "Ezek.30.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "וְהַנֶּהֱרָסוֹת",
+      "translit": "vhanneherasot",
+      "ref": "Ezek.36.35",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּהָרְסֵם",
+      "translit": "tharsem",
+      "ref": "Exod.23.24",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הָרֵס",
+      "translit": "hares",
+      "ref": "Exod.23.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be torn down",
+  "piel": "tear down"
+ },
+ "root": "הרס",
+ "search_match": [
+  "2040",
+  "h2040",
+  "throw down",
+  "haras",
+  "הרס"
+ ],
+ "citation_translit": "haras"
+}

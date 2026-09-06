@@ -1,0 +1,73 @@
+{
+ "glosses": [
+  "flow; waste away"
+ ],
+ "strong": "H2100",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּזֻבוּ",
+      "translit": "vayyazuvu",
+      "ref": "Isa.48.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָזוּב",
+      "translit": "yazuv",
+      "ref": "Lev.15.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָזוּב",
+      "translit": "tazuv",
+      "ref": "Lev.15.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָזוּבוּ",
+      "translit": "yazuvu",
+      "ref": "Lam.4.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "זָב",
+      "translit": "zav",
+      "ref": "2Sam.3.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "זוב",
+ "search_match": [
+  "2100",
+  "h2100",
+  "flow",
+  "zuv",
+  "זוב"
+ ],
+ "citation_translit": "zuv"
+}
