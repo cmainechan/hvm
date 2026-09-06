@@ -1,0 +1,137 @@
+{
+ "glosses": [
+  "confine; show hostility; fashion"
+ ],
+ "strong": "H6696",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "צַרְתָּנִי",
+      "translit": "tzartani",
+      "ref": "Ps.139.5",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּצַר",
+      "translit": "vayyatzar",
+      "ref": "1Chr.20.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּצֻרוּ",
+      "translit": "vayyatzuru",
+      "ref": "1Kgs.16.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָצוּר",
+      "translit": "tatzur",
+      "ref": "Deut.20.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נָצוּר",
+      "translit": "natzur",
+      "ref": "Song.8.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְצַרְתָּ",
+      "translit": "vtzarta",
+      "ref": "Deut.20.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְצַרְתִּי",
+      "translit": "vtzarti",
+      "ref": "Exod.23.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "צוּרִי",
+      "translit": "tzuri",
+      "ref": "Isa.21.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּצַר",
+      "translit": "tatzar",
+      "ref": "Deut.2.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "צָרִים",
+      "translit": "tzarim",
+      "ref": "1Kgs.15.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לָצוּר",
+      "translit": "latzur",
+      "ref": "1Sam.23.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "צור",
+ "search_match": [
+  "6696",
+  "h6696",
+  "confine",
+  "tzur",
+  "צור"
+ ],
+ "citation_translit": "tzur"
+}

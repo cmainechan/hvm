@@ -1,0 +1,205 @@
+{
+ "glosses": [
+  "do wrong"
+ ],
+ "strong": "H816",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "אָשַׁם",
+      "translit": "asham",
+      "ref": "Lev.5.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְאָֽשְׁמָה",
+      "translit": "v'ashmah",
+      "ref": "Num.5.6",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "אָשַׁמְתְּ",
+      "translit": "ashamt",
+      "ref": "Ezek.22.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֶּאְשַׁם",
+      "translit": "vayyesham",
+      "ref": "Hos.13.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיֶּאְשְׁמוּ",
+      "translit": "vayyeshmu",
+      "ref": "Ezek.25.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶאְשַׁם",
+      "translit": "yesham",
+      "ref": "Lev.5.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֶּאְשַׁם",
+      "translit": "tesham",
+      "ref": "Hos.14.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֶאְשְׁמוּ",
+      "translit": "yeshmu",
+      "ref": "2Chr.19.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תֶאְשָֽׁמוּ",
+      "translit": "teshamu",
+      "ref": "2Chr.19.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נֶאְשָׁם",
+      "translit": "nesham",
+      "ref": "Jer.50.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְאָשֵֽׁם",
+      "translit": "v'ashem",
+      "ref": "Lev.4.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְאָשָֽׁמְתָּ",
+      "translit": "v'ashamta",
+      "ref": "Prov.30.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְאָשֵֽׁמוּ",
+      "translit": "v'ashemu",
+      "ref": "Lev.4.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶאְשַׁם",
+      "translit": "yesham",
+      "ref": "Hos.4.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "אָשׁוֹם",
+      "translit": "ashom",
+      "ref": "Ezek.25.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נֶאְשָֽׁמוּ",
+      "translit": "neshamu",
+      "ref": "Joel.1.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַֽאֲשִׁימֵם",
+      "translit": "ha'ashimem",
+      "ref": "Ps.5.11",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "suffer punishment",
+  "hiphil": "declare guilty"
+ },
+ "root": "אשם",
+ "search_match": [
+  "816",
+  "h816",
+  "do wrong",
+  "asham",
+  "אשם"
+ ],
+ "citation_translit": "asham"
+}

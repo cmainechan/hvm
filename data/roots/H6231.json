@@ -1,0 +1,190 @@
+{
+ "glosses": [
+  "oppress"
+ ],
+ "strong": "H6231",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "עָשַׁק",
+      "translit": "ashaq",
+      "ref": "Ezek.18.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "עֲשַׁקְתָּנוּ",
+      "translit": "ashaqtanu",
+      "ref": "1Sam.12.4",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "עָשַׁקְתִּי",
+      "translit": "ashaqti",
+      "ref": "1Sam.12.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "עָשְׁקוּ",
+      "translit": "ashqu",
+      "ref": "Ezek.22.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַעֲשֹׁק",
+      "translit": "ya'ashoq",
+      "ref": "Job.40.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַעֲשֹׁק",
+      "translit": "ta'ashoq",
+      "ref": "Deut.24.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַֽעֲשֹׁקוּ",
+      "translit": "ta'ashoqu",
+      "ref": "Jer.7.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְעָֽשְׁקוּ",
+      "translit": "v'ashqu",
+      "ref": "Mic.2.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַעַשְׁקֻנִי",
+      "translit": "ya'ashquni",
+      "ref": "Ps.119.122",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּעֲשֹׁקוּ",
+      "translit": "ta'ashoqu",
+      "ref": "Zech.7.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "עוֹשֵׁק",
+      "translit": "osheq",
+      "ref": "Jer.21.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "הָעֹשְׁקוֹת",
+      "translit": "ha'oshqot",
+      "ref": "Amos.4.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "עָשׁוּק",
+      "translit": "ashuq",
+      "ref": "Deut.28.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "עֲשׁוּקִים",
+      "translit": "ashuqim",
+      "ref": "Jer.50.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַעֲשֹׁק",
+      "translit": "la'ashoq",
+      "ref": "Hos.12.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "הַֽמְעֻשָּׁקָה",
+      "translit": "ham'usshaqah",
+      "ref": "Isa.23.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be exploited"
+ },
+ "root": "עשק",
+ "search_match": [
+  "6231",
+  "h6231",
+  "oppress (ashaq)",
+  "ashaq",
+  "עשק"
+ ],
+ "citation_translit": "ashaq"
+}

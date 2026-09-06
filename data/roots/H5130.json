@@ -1,0 +1,188 @@
+{
+ "glosses": [
+  "sprinkle"
+ ],
+ "strong": "H5130",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נַפְתִּי",
+      "translit": "nafti",
+      "ref": "Prov.7.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "polel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְנֹפֵף",
+      "translit": "ynofef",
+      "ref": "Isa.10.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֵנִיף",
+      "translit": "henif",
+      "ref": "Exod.35.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הֵנַפְתָּ",
+      "translit": "henafta",
+      "ref": "Exod.20.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הֲנִיפוֹתִי",
+      "translit": "hanifoti",
+      "ref": "Job.31.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּנֶף",
+      "translit": "vayyanef",
+      "ref": "Lev.8.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְנִיפֶנּוּ",
+      "translit": "ynifennu",
+      "ref": "Lev.23.11",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָנִיף",
+      "translit": "tanif",
+      "ref": "Deut.23.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהֵנִיף",
+      "translit": "vhenif",
+      "ref": "2Kgs.5.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהֵנַפְתָּ",
+      "translit": "vhenafta",
+      "ref": "Exod.29.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הָנִיפוּ",
+      "translit": "hanifu",
+      "ref": "Isa.13.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֵנִיף",
+      "translit": "menif",
+      "ref": "Isa.19.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כְּהָנִיף",
+      "translit": "khanif",
+      "ref": "Isa.10.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הוּנַף",
+      "translit": "hunaf",
+      "ref": "Exod.29.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "polel": "brandish",
+  "hiphil": "wield; wave",
+  "hophal": "be waved"
+ },
+ "root": "נוף",
+ "search_match": [
+  "5130",
+  "h5130",
+  "sprinkle",
+  "nuf",
+  "נוף"
+ ],
+ "citation_translit": "nuf"
+}

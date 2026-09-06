@@ -333,10 +333,16 @@ def verify_root(strong, data, records_by_number):
                 cands = []
                 for cs in candidate_stems:
                     cands.extend(groups.get((cs, cat, row['code']), []))
-                match = [c for c in cands if c['ref'] == row['ref']]
-                if (match and nfc(match[0]['heb']) == nfc(row['heb'])
-                        and match[0]['has_prefix'] == row['has_prefix']
-                        and match[0]['has_suffix'] == row['has_suffix']):
+                # Filter on prefix/suffix here too, not just ref: the same
+                # verse can attest the same word twice with different
+                # attachments (e.g. Nah.1.2 repeats נֹקֵם, once bare and
+                # once with a vav prefix) -- matching on ref alone let
+                # match[0] land on the wrong one of the two and misreport a
+                # false discrepancy even though a real match existed.
+                match = [c for c in cands if c['ref'] == row['ref']
+                         and c['has_prefix'] == row['has_prefix']
+                         and c['has_suffix'] == row['has_suffix']]
+                if match and nfc(match[0]['heb']) == nfc(row['heb']):
                     continue
                 best = pick_best(cands) if cands else None
                 discs.append({

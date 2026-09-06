@@ -1,0 +1,254 @@
+{
+ "glosses": [
+  "draw; continue"
+ ],
+ "strong": "H4900",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "מָשַׁךְ",
+      "translit": "mashakh",
+      "ref": "1Kgs.22.34",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "מָשְׁכָה",
+      "translit": "mashkhah",
+      "ref": "Deut.21.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "מְשַׁכְתִּיךְ",
+      "translit": "mshakhtikh",
+      "ref": "Jer.31.3",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּמְשֹׁךְ",
+      "translit": "vayyimshokh",
+      "ref": "Judg.20.37",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתִּמְשֹׁךְ",
+      "translit": "vattimshokh",
+      "ref": "Neh.9.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּמְשְׁכוּ",
+      "translit": "vayyimshkhu",
+      "ref": "Gen.37.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִמְשׁוֹךְ",
+      "translit": "yimshokh",
+      "ref": "Job.21.33",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּמְשֹׁךְ",
+      "translit": "timshokh",
+      "ref": "Job.40.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶמְשְׁכֵם",
+      "translit": "emshkhem",
+      "ref": "Hos.11.4",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּמָשַׁךְ",
+      "translit": "umashakh",
+      "ref": "Job.24.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּמָֽשַׁכְתָּ",
+      "translit": "umashakhta",
+      "ref": "Judg.4.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וּמָשַׁכְתִּי",
+      "translit": "umashakhti",
+      "ref": "Judg.4.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "מְשֹׁךְ",
+      "translit": "mshokh",
+      "ref": "Ps.36.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "מִֽשְׁכוּ",
+      "translit": "mishkhu",
+      "ref": "Exod.12.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּמְשְׁכֵנִי",
+      "translit": "timshkheni",
+      "ref": "Ps.28.3",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֹשֵׁךְ",
+      "translit": "moshekh",
+      "ref": "Ps.109.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מֹשְׁכִים",
+      "translit": "moshkhim",
+      "ref": "Judg.5.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִמְשׁוֹךְ",
+      "translit": "limshokh",
+      "ref": "Eccl.2.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִמָּשֵׁךְ",
+      "translit": "timmashekh",
+      "ref": "Ezek.12.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִמָּשֵֽׁכוּ",
+      "translit": "yimmashekhu",
+      "ref": "Isa.13.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְמֻשָּׁךְ",
+      "translit": "mmusshakh",
+      "ref": "Isa.18.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מְמֻשָּׁכָה",
+      "translit": "mmusshakhah",
+      "ref": "Prov.13.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be drawn out",
+  "pual": "be deferred"
+ },
+ "root": "משך",
+ "search_match": [
+  "4900",
+  "h4900",
+  "draw",
+  "mashakh",
+  "משך"
+ ],
+ "citation_translit": "mashakh"
+}

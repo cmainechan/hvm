@@ -1,0 +1,185 @@
+{
+ "glosses": [
+  "be wicked"
+ ],
+ "strong": "H7561",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "רָשַׁעְתִּי",
+      "translit": "rashati",
+      "ref": "2Sam.22.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "רָשָֽׁעְנוּ",
+      "translit": "rashanu",
+      "ref": "1Kgs.8.47",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶרְשָׁע",
+      "translit": "ersha",
+      "ref": "Job.10.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּרְשַׁע",
+      "translit": "tirsha",
+      "ref": "Eccl.7.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִרְשִׁיעַ",
+      "translit": "hirshia",
+      "ref": "2Chr.20.35",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "הִרְשַׁעְנוּ",
+      "translit": "hirshanu",
+      "ref": "Dan.9.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּרְשִׁיעוּ",
+      "translit": "vayyarshiu",
+      "ref": "Job.32.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַרְשִֽׁיעַ",
+      "translit": "yarshia",
+      "ref": "1Sam.14.47",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּרְשִֽׁיעַ",
+      "translit": "tarshia",
+      "ref": "Job.34.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תַּרְשִׁיעִי",
+      "translit": "tarshi'i",
+      "ref": "Isa.54.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַרְשִׁיעֻן",
+      "translit": "yarshi'un",
+      "ref": "Exod.22.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִרְשִׁיעוּ",
+      "translit": "vhirshiu",
+      "ref": "Dan.12.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּרְשִׁיעֵנִי",
+      "translit": "tarshi'eni",
+      "ref": "Job.10.2",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּמַרְשִׁיעַ",
+      "translit": "umarshia",
+      "ref": "Prov.17.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַרְשִׁיעַ",
+      "translit": "lharshia",
+      "ref": "1Kgs.8.32",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "condemn as guilty"
+ },
+ "root": "רשע",
+ "search_match": [
+  "7561",
+  "h7561",
+  "be wicked",
+  "rasha",
+  "רשע"
+ ],
+ "citation_translit": "rasha"
+}

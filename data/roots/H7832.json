@@ -1,0 +1,227 @@
+{
+ "glosses": [
+  "laugh; sport"
+ ],
+ "strong": "H7832",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שָֽׂחֲקוּ",
+      "translit": "sachaqu",
+      "ref": "Job.30.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּשְׂחַק",
+      "translit": "vattischaq",
+      "ref": "Prov.31.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשְׂחָק",
+      "translit": "yischaq",
+      "ref": "Hab.1.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּֽשְׂחַק",
+      "translit": "tischaq",
+      "ref": "Job.39.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּשְׂחָק",
+      "translit": "tischaq",
+      "ref": "Job.5.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶשְׂחַק",
+      "translit": "eschaq",
+      "ref": "Job.29.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשְׂחָֽקוּ",
+      "translit": "yischaqu",
+      "ref": "Ps.52.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְשָׂחַק",
+      "translit": "vsachaq",
+      "ref": "Prov.29.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִשְׂחוֹק",
+      "translit": "lischoq",
+      "ref": "Eccl.3.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וִישַֽׂחֶק",
+      "translit": "visacheq",
+      "ref": "Judg.16.25",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַֽתְשַׂחֶק",
+      "translit": "hatsacheq",
+      "ref": "Job.40.29",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְשַֽׂחֲקוּ",
+      "translit": "ysachaqu",
+      "ref": "Job.40.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְשִׂחַקְתִּי",
+      "translit": "vsichaqti",
+      "ref": "2Sam.6.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְשַׂחֵק",
+      "translit": "msacheq",
+      "ref": "Prov.26.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מְשַׂחֶקֶת",
+      "translit": "msacheqet",
+      "ref": "Prov.8.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְשַׂחֲקִים",
+      "translit": "msachaqim",
+      "ref": "1Chr.13.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "הַֽמְשַׂחֲקוֹת",
+      "translit": "hamsachaqot",
+      "ref": "1Sam.18.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְשַֽׂחֶק",
+      "translit": "lsacheq",
+      "ref": "Ps.104.26",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַשְׂחִיקִים",
+      "translit": "maschiqim",
+      "ref": "2Chr.30.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "make sport",
+  "hiphil": "laugh mockingly"
+ },
+ "root": "שחק",
+ "search_match": [
+  "7832",
+  "h7832",
+  "laugh",
+  "sachaq",
+  "שחק"
+ ],
+ "citation_translit": "sachaq"
+}

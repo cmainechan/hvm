@@ -1,0 +1,203 @@
+{
+ "glosses": [
+  "be long"
+ ],
+ "strong": "H748",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "אָֽרְכוּ",
+      "translit": "arkhu",
+      "ref": "Gen.26.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וַתֶּאֱרַכְנָה",
+      "translit": "vatte'erakhnah",
+      "ref": "Ezek.31.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַֽאַרְכוּ",
+      "translit": "ya'arkhu",
+      "ref": "Ezek.12.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֶאֱרִיךְ",
+      "translit": "he'erikh",
+      "ref": "Prov.19.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֶאֱרִיכוּ",
+      "translit": "he'erikhu",
+      "ref": "Josh.24.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיַּאֲרִכוּ",
+      "translit": "vayya'arikhu",
+      "ref": "1Kgs.8.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַאֲרִיךְ",
+      "translit": "ya'arikh",
+      "ref": "Deut.17.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּאֲרִיךְ",
+      "translit": "ta'arikh",
+      "ref": "Deut.4.40",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַאֲרִיךְ",
+      "translit": "a'arikh",
+      "ref": "Isa.48.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַאֲרִיכוּ",
+      "translit": "ya'arikhu",
+      "ref": "Deut.25.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּאֲרִיכוּ",
+      "translit": "ta'arikhu",
+      "ref": "Deut.11.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהַאֲרַכְתָּ",
+      "translit": "vha'arakhta",
+      "ref": "Deut.22.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהַאַרַכְתִּי",
+      "translit": "vha'arakhti",
+      "ref": "1Kgs.3.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהַאֲרַכְתֶּם",
+      "translit": "vha'arakhtem",
+      "ref": "Deut.5.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הַאֲרִיכִי",
+      "translit": "ha'arikhi",
+      "ref": "Isa.54.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַאֲרִיךְ",
+      "translit": "ma'arikh",
+      "ref": "Eccl.7.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּבְהַאֲרִיךְ",
+      "translit": "uvha'arikh",
+      "ref": "Num.9.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "prolong"
+ },
+ "root": "ארך",
+ "search_match": [
+  "748",
+  "h748",
+  "be long",
+  "arakh",
+  "ארך"
+ ],
+ "citation_translit": "arakh"
+}

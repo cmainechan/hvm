@@ -1,0 +1,160 @@
+{
+ "glosses": [
+  "act unfaithfully"
+ ],
+ "strong": "H4603",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "מָעַל",
+      "translit": "ma'al",
+      "ref": "1Chr.10.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "מָעַלְתָּ",
+      "translit": "ma'alta",
+      "ref": "2Chr.26.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "מָעֲלוּ",
+      "translit": "ma'alu",
+      "ref": "2Chr.12.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "מְעַלְתֶּם",
+      "translit": "m'altem",
+      "ref": "Deut.32.51",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "מָעַלְנוּ",
+      "translit": "ma'alnu",
+      "ref": "Ezra.10.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּמְעַל",
+      "translit": "vayyim'al",
+      "ref": "2Chr.26.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּמְעֹל",
+      "translit": "vattim'ol",
+      "ref": "Num.5.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּֽמְעֲלוּ",
+      "translit": "vayyim'alu",
+      "ref": "1Chr.5.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִמְעַל",
+      "translit": "yim'al",
+      "ref": "Prov.16.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִמְעֹל",
+      "translit": "tim'ol",
+      "ref": "Lev.5.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּמְעָלוּ",
+      "translit": "tim'alu",
+      "ref": "Neh.1.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וּמָעֲלָה",
+      "translit": "uma'alah",
+      "ref": "Lev.5.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִמְעוֹל",
+      "translit": "limol",
+      "ref": "2Chr.28.22",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּמָעוֹל",
+      "translit": "umaol",
+      "ref": "2Chr.28.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "מעל",
+ "search_match": [
+  "4603",
+  "h4603",
+  "act unfaithfully",
+  "ma'al",
+  "מעל"
+ ],
+ "citation_translit": "ma'al"
+}

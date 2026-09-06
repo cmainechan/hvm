@@ -141,9 +141,11 @@ const styles = {
 
 const STEM_COLOR = {
   qal: { color: "#8B3A2F", soft: "#F1DCD6", name: "Qal" },
+  qal_passive: { color: "#707070", soft: "#E3E3E3", name: "Qal passive" },
   niphal: { color: "#3A5F6B", soft: "#D8E4E6", name: "Niphal" },
   piel: { color: "#8B6F1F", soft: "#EFE6C6", name: "Piel" },
   pilpel: { color: "#C77D2F", soft: "#F5E3D0", name: "Pilpel" },
+  polel: { color: "#2F6B8B", soft: "#D6E6EE", name: "Polel" },
   pual: { color: "#5C4A8B", soft: "#E1DAEF", name: "Pual" },
   polal: { color: "#6B8B2F", soft: "#E6EBD6", name: "Polal" },
   hiphil: { color: "#2F6B3A", soft: "#D9E8DC", name: "Hiphil" },
@@ -153,7 +155,7 @@ const STEM_COLOR = {
   nithpael: { color: "#8B2F8B", soft: "#EBD6EB", name: "Nithpael" },
   hishtaphel: { color: "#3A4A8B", soft: "#DADFF0", name: "Hishtaphel" },
 };
-const STEM_ORDER = ["qal", "niphal", "piel", "pilpel", "pual", "polal", "hiphil", "hophal", "hitpael", "hithpolel", "nithpael", "hishtaphel"];
+const STEM_ORDER = ["qal", "qal_passive", "niphal", "piel", "pilpel", "polel", "pual", "polal", "hiphil", "hophal", "hitpael", "hithpolel", "nithpael", "hishtaphel"];
 const DEFAULT_STEM_OVERRIDE = {
   "אזן": "hiphil",
   "בדל": "hiphil",
@@ -175,6 +177,7 @@ const DEFAULT_STEM_OVERRIDE = {
   "נחם": "niphal",
   "נכה": "hiphil",
   "נכר": "hiphil",
+  "נסה": "piel",
   "נצב": "niphal",
   "נצח": "piel",
   "נצל": "hiphil",

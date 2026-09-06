@@ -1,0 +1,279 @@
+{
+ "glosses": [
+  "avenge"
+ ],
+ "strong": "H5358",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִקּוֹם",
+      "translit": "yiqqom",
+      "ref": "Deut.32.43",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִקֹּם",
+      "translit": "tiqqom",
+      "ref": "Lev.19.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּנְקָמַנִי",
+      "translit": "unqamani",
+      "ref": "1Sam.24.13",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נְקֹם",
+      "translit": "nqom",
+      "ref": "Num.31.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֹקֵם",
+      "translit": "noqem",
+      "ref": "Nah.1.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "נֹקֶמֶת",
+      "translit": "noqemet",
+      "ref": "Lev.26.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִנְקֹם",
+      "translit": "linqom",
+      "ref": "Ezek.24.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "נָקֹם",
+      "translit": "naqom",
+      "ref": "Exod.21.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נִקַּמְתִּי",
+      "translit": "niqqamti",
+      "ref": "Judg.15.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנִקְּמוּ",
+      "translit": "vniqqmu",
+      "ref": "Ezek.25.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּנָּקְמוּ",
+      "translit": "vayyinnaqmu",
+      "ref": "Ezek.25.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִנָּקֵֽם",
+      "translit": "yinnaqem",
+      "ref": "Exod.21.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאִנָּקְמָה",
+      "translit": "v'innaqmah",
+      "ref": "Judg.16.28",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְנִקַּמְתִּי",
+      "translit": "vniqqamti",
+      "ref": "1Sam.14.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהִנָּקֶם",
+      "translit": "vhinnaqem",
+      "ref": "Jer.15.15",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הִנָּקְמוּ",
+      "translit": "hinnaqmu",
+      "ref": "Jer.50.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאִנָּקְמָה",
+      "translit": "v'innaqmah",
+      "ref": "Isa.1.24",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִנָּקֵם",
+      "translit": "lhinnaqem",
+      "ref": "1Sam.18.25",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְנִקַּמְתִּי",
+      "translit": "vniqqamti",
+      "ref": "2Kgs.9.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֻקַּם",
+      "translit": "yuqqam",
+      "ref": "Exod.21.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִתְנַקֵּם",
+      "translit": "titnaqqem",
+      "ref": "Jer.5.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּמִתְנַקֵּֽם",
+      "translit": "umitnaqqem",
+      "ref": "Ps.44.17",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "avenge oneself",
+  "hophal": "be avenged",
+  "hitpael": "avenge oneself"
+ },
+ "root": "נקם",
+ "search_match": [
+  "5358",
+  "h5358",
+  "avenge",
+  "naqam",
+  "נקם"
+ ],
+ "citation_translit": "naqam"
+}

@@ -1,0 +1,232 @@
+{
+ "glosses": [
+  "be exalted; be haughty"
+ ],
+ "strong": "H1361",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "גָּבַהּ",
+      "translit": "gavahh",
+      "ref": "2Chr.26.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "גָּבְהָא",
+      "translit": "gavha",
+      "ref": "Ezek.31.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "גָּבַהְתָּ",
+      "translit": "gavahta",
+      "ref": "Ezek.31.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "גָֽבְהוּ",
+      "translit": "gavhu",
+      "ref": "Isa.3.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּגְבַּהּ",
+      "translit": "vayyigbahh",
+      "ref": "1Sam.10.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּגְבַּהּ",
+      "translit": "vattigbahh",
+      "ref": "Ezek.19.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּגְבָּֽהוּ",
+      "translit": "vayyigbahu",
+      "ref": "Job.36.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וַֽתִּגְבְּהֶינָה",
+      "translit": "vattigbhenah",
+      "ref": "Ezek.16.50",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִגְבַּהּ",
+      "translit": "yigbahh",
+      "ref": "Prov.18.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִגְבְּהוּ",
+      "translit": "yigbhu",
+      "ref": "Ezek.31.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְגָבַהּ",
+      "translit": "vgavahh",
+      "ref": "Isa.52.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּגְבָּהוּ",
+      "translit": "tigbahu",
+      "ref": "Jer.13.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כִגְבֹהַּ",
+      "translit": "khigvohha",
+      "ref": "Ps.103.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הִגְבַּהְתִּי",
+      "translit": "higbahti",
+      "ref": "Ezek.17.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּגְבִּיהֶהָ",
+      "translit": "vayyagbiheha",
+      "ref": "2Chr.33.14",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַגְבִּיהַּ",
+      "translit": "yagbihha",
+      "ref": "Job.39.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַגְבִּיהַ",
+      "translit": "tagbiha",
+      "ref": "Jer.49.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַגְבִּיהוּ",
+      "translit": "yagbihu",
+      "ref": "Job.5.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַגְבִּיהַּ",
+      "translit": "magbihha",
+      "ref": "Prov.17.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַגְבֵּהַ",
+      "translit": "hagbeha",
+      "ref": "Ezek.21.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "exalt"
+ },
+ "root": "גבה",
+ "search_match": [
+  "1361",
+  "h1361",
+  "be exalted",
+  "gavahh",
+  "גבה"
+ ],
+ "citation_translit": "gavahh"
+}

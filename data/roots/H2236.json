@@ -1,0 +1,181 @@
+{
+ "glosses": [
+  "scatter"
+ ],
+ "strong": "H2236",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "זָרַק",
+      "translit": "zaraq",
+      "ref": "Exod.24.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "זָרְקָה",
+      "translit": "zarqah",
+      "ref": "Hos.7.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּזְרֹק",
+      "translit": "vayyizroq",
+      "ref": "2Chr.34.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּזְרְקוּ",
+      "translit": "vayyizrqu",
+      "ref": "2Chr.29.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִזְרֹק",
+      "translit": "yizroq",
+      "ref": "Isa.28.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּזְרֹק",
+      "translit": "tizroq",
+      "ref": "2Kgs.16.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְזָרַק",
+      "translit": "vzaraq",
+      "ref": "Lev.17.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְזָרַקְתָּ",
+      "translit": "vzaraqta",
+      "ref": "Exod.29.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְזָרַקְתִּי",
+      "translit": "vzaraqti",
+      "ref": "Ezek.36.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְזָרְקוּ",
+      "translit": "vzarqu",
+      "ref": "Lev.1.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּזְרֹק",
+      "translit": "uzroq",
+      "ref": "Ezek.10.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַזֹּרֵק",
+      "translit": "hazzoreq",
+      "ref": "Lev.7.14",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "זֹרְקִים",
+      "translit": "zorqim",
+      "ref": "2Chr.30.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְלִזְרֹק",
+      "translit": "vlizroq",
+      "ref": "Ezek.43.18",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "qal_passive": {
+   "sense_hint": "passive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "זֹרַק",
+      "translit": "zoraq",
+      "ref": "Num.19.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "qal_passive": "be sprinkled"
+ },
+ "root": "זרק",
+ "search_match": [
+  "2236",
+  "h2236",
+  "scatter (zaraq)",
+  "zaraq",
+  "זרק"
+ ],
+ "citation_translit": "zaraq"
+}
