@@ -1,0 +1,201 @@
+{
+ "glosses": [
+  "humble; subdue"
+ ],
+ "strong": "H3665",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִכְנַע",
+      "translit": "nikhna",
+      "ref": "1Kgs.21.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִכְנָעוּ",
+      "translit": "nikhnau",
+      "ref": "2Chr.12.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּכָּנַע",
+      "translit": "vayyikkana",
+      "ref": "2Chr.32.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּכָּנַע",
+      "translit": "vattikkana",
+      "ref": "Judg.3.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתִּכָּנַע",
+      "translit": "vattikkana",
+      "ref": "2Chr.34.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּכָּנֵֽעוּ",
+      "translit": "vayyikkaneu",
+      "ref": "1Chr.20.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִכָּנַע",
+      "translit": "yikkana",
+      "ref": "Lev.26.41",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיִכָּנְעוּ",
+      "translit": "vyikkanu",
+      "ref": "2Chr.7.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִכָּנְעוֹ",
+      "translit": "hikkano",
+      "ref": "2Chr.33.19",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִכְנִיעַ",
+      "translit": "hikhnia",
+      "ref": "2Chr.28.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּכְנַע",
+      "translit": "vayyakhna",
+      "ref": "Judg.4.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתַּכְנַע",
+      "translit": "vattakhna",
+      "ref": "Neh.9.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַכְנִיעֵם",
+      "translit": "yakhni'em",
+      "ref": "Deut.9.3",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּכְנִיעַ",
+      "translit": "takhnia",
+      "ref": "Isa.25.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַכְנִיעַ",
+      "translit": "akhnia",
+      "ref": "Ps.81.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִכְנַעְתִּי",
+      "translit": "vhikhnati",
+      "ref": "1Chr.17.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַכְנִיעֵהוּ",
+      "translit": "hakhni'ehu",
+      "ref": "Job.40.12",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be humbled; be subdued"
+ },
+ "root": "כנע",
+ "search_match": [
+  "3665",
+  "h3665",
+  "humble",
+  "kana",
+  "כנע"
+ ],
+ "citation_translit": "kana"
+}

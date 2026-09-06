@@ -1,0 +1,228 @@
+{
+ "glosses": [
+  "mourn"
+ ],
+ "strong": "H56",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "אָבַל",
+      "translit": "aval",
+      "ref": "Hos.10.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "אָבְלָה",
+      "translit": "avlah",
+      "ref": "Isa.24.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "אָֽבְלוּ",
+      "translit": "avlu",
+      "ref": "Joel.1.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֶּאֱבַל",
+      "translit": "te'eval",
+      "ref": "Hos.4.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְאָבַל",
+      "translit": "v'aval",
+      "ref": "Amos.8.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְאָבְלוּ",
+      "translit": "v'avlu",
+      "ref": "Isa.19.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הֶאֱבַלְתִּי",
+      "translit": "he'evalti",
+      "ref": "Ezek.31.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּֽאֲבֶל",
+      "translit": "vayya'avel",
+      "ref": "Lam.2.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִתְאַבֵּל",
+      "translit": "hit'abbel",
+      "ref": "1Sam.15.35",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּתְאַבֵּל",
+      "translit": "vayyit'abbel",
+      "ref": "1Chr.7.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶתְאַבְּלָה",
+      "translit": "va'et'abblah",
+      "ref": "Neh.1.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּֽתְאַבְּלוּ",
+      "translit": "vayyit'abblu",
+      "ref": "1Sam.6.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְאַבָּל",
+      "translit": "yit'abbal",
+      "ref": "Ezek.7.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הִֽתְאַבְּלִי",
+      "translit": "hit'abbli",
+      "ref": "2Sam.14.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְאַבָּל",
+      "translit": "yit'abbal",
+      "ref": "Ezek.7.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּֽתְאַבְּלוּ",
+      "translit": "tit'abblu",
+      "ref": "Neh.8.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִתְאַבֵּל",
+      "translit": "mit'abbel",
+      "ref": "1Sam.16.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מִתְאַבֶּלֶת",
+      "translit": "mit'abbelet",
+      "ref": "2Sam.14.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מִֽתְאַבְּלִים",
+      "translit": "mit'abblim",
+      "ref": "2Chr.35.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "cause to mourn"
+ },
+ "root": "אבל",
+ "search_match": [
+  "56",
+  "h56",
+  "mourn",
+  "aval",
+  "אבל"
+ ],
+ "citation_translit": "aval"
+}

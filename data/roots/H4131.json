@@ -1,0 +1,206 @@
+{
+ "glosses": [
+  "shake"
+ ],
+ "strong": "H4131",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "מָֽטָה",
+      "translit": "matah",
+      "ref": "Ps.60.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "מָטוּ",
+      "translit": "matu",
+      "ref": "Ps.46.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָּמוּט",
+      "translit": "tamut",
+      "ref": "Deut.32.35",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תְּמוּטֶנָה",
+      "translit": "tmutenah",
+      "ref": "Isa.54.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וּמָטָה",
+      "translit": "umatah",
+      "ref": "Lev.25.35",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מָט",
+      "translit": "mat",
+      "ref": "Prov.25.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "וּמָטִים",
+      "translit": "umatim",
+      "ref": "Prov.24.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מוֹט",
+      "translit": "mot",
+      "ref": "Ps.55.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מוֹט",
+      "translit": "mot",
+      "ref": "Isa.24.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָמוֹטּוּ",
+      "translit": "namottu",
+      "ref": "Ps.17.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִמּֽוֹט",
+      "translit": "yimmot",
+      "ref": "Isa.40.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּמּֽוֹט",
+      "translit": "timmot",
+      "ref": "1Chr.16.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶמּוֹט",
+      "translit": "emmot",
+      "ref": "Ps.10.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִמּוֹטוּ",
+      "translit": "yimmotu",
+      "ref": "Ps.140.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הִֽתְמוֹטְטָה",
+      "translit": "hitmottah",
+      "ref": "Isa.24.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָמִיטוּ",
+      "translit": "yamitu",
+      "ref": "Ps.55.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be shaken",
+  "hithpolel": "be greatly shaken",
+  "hiphil": "dislodge"
+ },
+ "root": "מוט",
+ "search_match": [
+  "4131",
+  "h4131",
+  "shake",
+  "mot",
+  "מוט"
+ ],
+ "citation_translit": "mot"
+}

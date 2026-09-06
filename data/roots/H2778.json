@@ -1,0 +1,167 @@
+{
+ "glosses": [
+  "reproach"
+ ],
+ "strong": "H2778",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶחֱרַף",
+      "translit": "yecheraf",
+      "ref": "Job.27.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֶּחֱרָֽף",
+      "translit": "techeraf",
+      "ref": "Isa.18.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חֵרֵף",
+      "translit": "cheref",
+      "ref": "1Sam.17.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חֵרַֽפְתָּ",
+      "translit": "cherafta",
+      "ref": "1Sam.17.45",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "חֵרַפְתִּי",
+      "translit": "cherafti",
+      "ref": "1Sam.17.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חֵרְפוּ",
+      "translit": "cherfu",
+      "ref": "Ps.89.52",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "חֵרַפְתֶּם",
+      "translit": "cheraftem",
+      "ref": "Judg.8.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְחָרֵף",
+      "translit": "vaycharef",
+      "ref": "1Chr.20.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְחָרֶף",
+      "translit": "ycharef",
+      "ref": "Ps.74.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְחָֽרְפֽוּנִי",
+      "translit": "ycharfuni",
+      "ref": "Neh.6.13",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְחָרֵף",
+      "translit": "mcharef",
+      "ref": "Ps.44.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְחָרֵף",
+      "translit": "lcharef",
+      "ref": "1Sam.17.25",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "נֶחֱרֶפֶת",
+      "translit": "necherefet",
+      "ref": "Lev.19.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "defy; taunt",
+  "niphal": "be betrothed"
+ },
+ "root": "חרף",
+ "search_match": [
+  "2778",
+  "h2778",
+  "reproach",
+  "charaf",
+  "חרף"
+ ],
+ "citation_translit": "charaf"
+}

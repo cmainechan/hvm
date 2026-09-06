@@ -1,0 +1,274 @@
+{
+ "glosses": [
+  "be righteous"
+ ],
+ "strong": "H6663",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "צָֽדְקָה",
+      "translit": "tzadqah",
+      "ref": "Gen.38.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "צָדַקְתָּ",
+      "translit": "tzadaqta",
+      "ref": "Job.33.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "צָדַקְתִּי",
+      "translit": "tzadaqti",
+      "ref": "Job.34.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "צָֽדְקוּ",
+      "translit": "tzadqu",
+      "ref": "Ps.19.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִצְדָּֽק",
+      "translit": "yitzdaq",
+      "ref": "Job.11.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּצְדָּֽק",
+      "translit": "titzdaq",
+      "ref": "Isa.43.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶצְדָּֽק",
+      "translit": "etzdaq",
+      "ref": "Job.13.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִצְדְּקוּ",
+      "translit": "yitzdqu",
+      "ref": "Isa.45.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תִּצְדַּקְנָה",
+      "translit": "titzdaqnah",
+      "ref": "Ezek.16.52",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְצָדַקְתִּי",
+      "translit": "vtzadaqti",
+      "ref": "Job.10.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִצְדַּק",
+      "translit": "vnitzdaq",
+      "ref": "Dan.8.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "צִדְּקָה",
+      "translit": "tziddqah",
+      "ref": "Jer.3.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַתְּצַדְּקִי",
+      "translit": "vatttzaddqi",
+      "ref": "Ezek.16.51",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "צַדְּקוֹ",
+      "translit": "tzaddqo",
+      "ref": "Job.32.2",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִצְדַּקְתִּֽיו",
+      "translit": "vhitzdaqtiv",
+      "ref": "2Sam.15.4",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַצְדִּיק",
+      "translit": "yatzdiq",
+      "ref": "Isa.53.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַצְדִּיק",
+      "translit": "atzdiq",
+      "ref": "Exod.23.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִצְדִּיקוּ",
+      "translit": "vhitzdiqu",
+      "ref": "Deut.25.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הַצְדִּֽיקוּ",
+      "translit": "hatzdiqu",
+      "ref": "Ps.82.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַצְדִּיק",
+      "translit": "matzdiq",
+      "ref": "Prov.17.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּלְהַצְדִּיק",
+      "translit": "ulhatzdiq",
+      "ref": "1Kgs.8.32",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִּצְטַדָּק",
+      "translit": "nitztaddaq",
+      "ref": "Gen.44.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be justified",
+  "piel": "justify",
+  "hiphil": "administer justice; justify",
+  "hitpael": "justify oneself"
+ },
+ "root": "צדק",
+ "search_match": [
+  "6663",
+  "h6663",
+  "be righteous",
+  "tzadaq",
+  "צדק"
+ ],
+ "citation_translit": "tzadaq"
+}

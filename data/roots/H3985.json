@@ -1,0 +1,165 @@
+{
+ "glosses": [
+  "refuse"
+ ],
+ "strong": "H3985",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "מֵאֵן",
+      "translit": "me'en",
+      "ref": "1Kgs.21.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "מֵֽאֲנָה",
+      "translit": "me'anah",
+      "ref": "Jer.15.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "מֵאַנְתָּ",
+      "translit": "me'anta",
+      "ref": "Exod.10.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "מֵאַנְתְּ",
+      "translit": "me'ant",
+      "ref": "Jer.3.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "מֵאֲנוּ",
+      "translit": "me'anu",
+      "ref": "Hos.11.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "מֵֽאַנְתֶּם",
+      "translit": "me'antem",
+      "ref": "Exod.16.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְמָאֵן",
+      "translit": "vayma'en",
+      "ref": "1Kgs.20.35",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתְּמָאֵן",
+      "translit": "vattma'en",
+      "ref": "Esth.1.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתְּמָאֵן",
+      "translit": "vattma'en",
+      "ref": "Exod.4.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיְמָאֲנוּ",
+      "translit": "vayma'anu",
+      "ref": "1Sam.8.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַתְּמָאֵנוּ",
+      "translit": "vattma'enu",
+      "ref": "Prov.1.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְמָאֵן",
+      "translit": "yma'en",
+      "ref": "Exod.22.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְמָאֲנוּ",
+      "translit": "yma'anu",
+      "ref": "Jer.25.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּמָאֲנוּ",
+      "translit": "tma'anu",
+      "ref": "Isa.1.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מָאֵן",
+      "translit": "ma'en",
+      "ref": "Exod.22.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "מאן",
+ "search_match": [
+  "3985",
+  "h3985",
+  "refuse",
+  "ma'en",
+  "מאן"
+ ],
+ "citation_translit": "ma'en"
+}

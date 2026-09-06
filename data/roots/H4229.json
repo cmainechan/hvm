@@ -1,0 +1,273 @@
+{
+ "glosses": [
+  "blot out"
+ ],
+ "strong": "H4229",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "מָחָה",
+      "translit": "machah",
+      "ref": "2Kgs.21.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "מָחִיתָ",
+      "translit": "machita",
+      "ref": "Ps.9.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "מָחִיתִי",
+      "translit": "machiti",
+      "ref": "Isa.44.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּמַח",
+      "translit": "vayyimach",
+      "ref": "Gen.7.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִמְחֶה",
+      "translit": "yimcheh",
+      "ref": "2Kgs.21.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּמְחֶה",
+      "translit": "timcheh",
+      "ref": "Deut.25.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶמְחֶה",
+      "translit": "emcheh",
+      "ref": "Exod.17.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּמָחָה",
+      "translit": "umachah",
+      "ref": "Deut.29.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וּמָחֲתָה",
+      "translit": "umachatah",
+      "ref": "Prov.30.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וּמָחִיתִי",
+      "translit": "umachiti",
+      "ref": "2Kgs.21.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "מְחֵֽה",
+      "translit": "mcheh",
+      "ref": "Ps.51.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאֶמְחֶה",
+      "translit": "v'emcheh",
+      "ref": "Deut.9.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֹחֶה",
+      "translit": "mocheh",
+      "ref": "Isa.43.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִמְחוֹת",
+      "translit": "limchot",
+      "ref": "2Kgs.14.27",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מָחֹה",
+      "translit": "machoh",
+      "ref": "Exod.17.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּמָּחוּ",
+      "translit": "vayyimmachu",
+      "ref": "Gen.7.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִמָּחֶה",
+      "translit": "yimmacheh",
+      "ref": "Deut.25.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִמָּחֶֽה",
+      "translit": "timmacheh",
+      "ref": "Prov.6.33",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִמָּחֽוּ",
+      "translit": "yimmachu",
+      "ref": "Ps.69.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנִמְחוּ",
+      "translit": "vnimchu",
+      "ref": "Ezek.6.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּמָּחֶה",
+      "translit": "timmacheh",
+      "ref": "Neh.3.37",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֶּמְחִי",
+      "translit": "temchi",
+      "ref": "Jer.18.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַֽמְחוֹת",
+      "translit": "lamchot",
+      "ref": "Prov.31.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be blotted out",
+  "hiphil": "blot out (from memory)"
+ },
+ "root": "מחה",
+ "search_match": [
+  "4229",
+  "h4229",
+  "blot out",
+  "machah",
+  "מחה"
+ ],
+ "citation_translit": "machah"
+}

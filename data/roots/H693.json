@@ -1,0 +1,191 @@
+{
+ "glosses": [
+  "lie in wait"
+ ],
+ "strong": "H693",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָרָֽבְתִּי",
+      "translit": "aravti",
+      "ref": "Job.31.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "אָרְבוּ",
+      "translit": "arvu",
+      "ref": "Lam.4.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַאֲרַבְתֶּם",
+      "translit": "va'aravtem",
+      "ref": "Judg.21.20",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֶּאֱרֹב",
+      "translit": "vayye'erov",
+      "ref": "Judg.9.43",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיֶּאֶרְבוּ",
+      "translit": "vayye'ervu",
+      "ref": "Judg.16.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶאֱרֹב",
+      "translit": "ye'erov",
+      "ref": "Ps.10.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֶּֽאֱרֹב",
+      "translit": "te'erov",
+      "ref": "Prov.23.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֶאֱרֹבוּ",
+      "translit": "ye'erovu",
+      "ref": "Mic.7.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְאָרַב",
+      "translit": "v'arav",
+      "ref": "Deut.19.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וֶאֱרֹב",
+      "translit": "ve'erov",
+      "ref": "Judg.9.32",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֶּאֱרֹב",
+      "translit": "te'erov",
+      "ref": "Prov.24.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נֶאֶרְבָה",
+      "translit": "ne'ervah",
+      "ref": "Prov.1.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "אֹרֵב",
+      "translit": "orev",
+      "ref": "Josh.8.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "אֹרְבִים",
+      "translit": "orvim",
+      "ref": "Josh.8.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "אֱרָב",
+      "translit": "erav",
+      "ref": "Prov.12.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְאָֽרְבִים",
+      "translit": "m'arvim",
+      "ref": "2Chr.20.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "ארב",
+ "search_match": [
+  "693",
+  "h693",
+  "lie in wait",
+  "arav",
+  "ארב"
+ ],
+ "citation_translit": "arav"
+}

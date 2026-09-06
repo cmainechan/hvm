@@ -1,0 +1,161 @@
+{
+ "glosses": [
+  "lead; bring"
+ ],
+ "strong": "H5148",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נָחָם",
+      "translit": "nacham",
+      "ref": "Exod.13.17",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נָחִיתָ",
+      "translit": "nachita",
+      "ref": "Exod.15.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנָחֲךָ",
+      "translit": "vnachakha",
+      "ref": "Isa.58.11",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נְחֵה",
+      "translit": "ncheh",
+      "ref": "Exod.32.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִנְחַנִי",
+      "translit": "hinchani",
+      "ref": "Gen.24.48",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִנְחִיתָם",
+      "translit": "hinchitam",
+      "ref": "Neh.9.12",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּנְחֵם",
+      "translit": "vayyanchem",
+      "ref": "1Kgs.10.26",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַנְחֶנּוּ",
+      "translit": "yanchennu",
+      "ref": "Deut.32.12",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תַּנְחֶה",
+      "translit": "tancheh",
+      "ref": "Prov.6.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַנְחֵֽם",
+      "translit": "tanchem",
+      "ref": "Job.38.32",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַנְחֶֽנָּה",
+      "translit": "anchennah",
+      "ref": "Job.31.18",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַנְחוּנִי",
+      "translit": "yanchuni",
+      "ref": "Ps.43.3",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַנְחֹתָם",
+      "translit": "lanchotam",
+      "ref": "Exod.13.21",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "lead"
+ },
+ "root": "נחה",
+ "search_match": [
+  "5148",
+  "h5148",
+  "lead",
+  "nachah",
+  "נחה"
+ ],
+ "citation_translit": "nachah"
+}

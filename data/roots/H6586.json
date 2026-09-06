@@ -1,0 +1,181 @@
+{
+ "glosses": [
+  "rebel; transgress"
+ ],
+ "strong": "H6586",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "פָּשַׁע",
+      "translit": "pasha",
+      "ref": "2Chr.21.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "פָּשָׁעַתְּ",
+      "translit": "pasha'att",
+      "ref": "Jer.3.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "פָּשְׁעוּ",
+      "translit": "pashu",
+      "ref": "1Kgs.8.50",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "פְּשַׁעְתֶּם",
+      "translit": "pshatem",
+      "ref": "Ezek.18.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "פָשַׁעְנוּ",
+      "translit": "fashanu",
+      "ref": "Lam.3.42",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּפְשַׁע",
+      "translit": "vayyifsha",
+      "ref": "2Chr.21.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּפְשְׁעוּ",
+      "translit": "vayyifshu",
+      "ref": "1Kgs.12.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִפְשַׁע",
+      "translit": "yifsha",
+      "ref": "Prov.28.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּפְשַׁע",
+      "translit": "tifsha",
+      "ref": "2Chr.21.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּפִשְׁעוּ",
+      "translit": "ufishu",
+      "ref": "Amos.4.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּפֹשֵׁעַ",
+      "translit": "ufoshea",
+      "ref": "Isa.48.8",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "פֹּשְׁעִים",
+      "translit": "posh'im",
+      "ref": "Isa.1.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִפְשֹׁעַ",
+      "translit": "lifshoa",
+      "ref": "Amos.4.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "פָּשֹׁעַ",
+      "translit": "pashoa",
+      "ref": "Isa.59.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִפְשָׁע",
+      "translit": "nifsha",
+      "ref": "Prov.18.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "quarrel with one another"
+ },
+ "root": "פשע",
+ "search_match": [
+  "6586",
+  "h6586",
+  "rebel",
+  "pasha",
+  "פשע"
+ ],
+ "citation_translit": "pasha"
+}

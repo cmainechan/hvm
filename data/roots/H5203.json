@@ -1,0 +1,236 @@
+{
+ "glosses": [
+  "forsake; permit; spread out"
+ ],
+ "strong": "H5203",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נָטַשׁ",
+      "translit": "natash",
+      "ref": "1Sam.10.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נָטַשְׁתָּ",
+      "translit": "natashta",
+      "ref": "1Sam.17.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "נָטַשְׁתְּ",
+      "translit": "natasht",
+      "ref": "Jer.15.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נָטַשְׁתִּי",
+      "translit": "natashti",
+      "ref": "Jer.12.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּטֹּשׁ",
+      "translit": "vayyittosh",
+      "ref": "1Sam.17.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּטֹּשׁ",
+      "translit": "vattittosh",
+      "ref": "1Sam.4.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּטְּשֻׁהוּ",
+      "translit": "vayyittshuhu",
+      "ref": "Ezek.31.12",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִטֹּשׁ",
+      "translit": "yittosh",
+      "ref": "1Sam.12.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְנִטֹּשׁ",
+      "translit": "vnittosh",
+      "ref": "Neh.10.32",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּנְטַשְׁתָּהּ",
+      "translit": "untashtahh",
+      "ref": "Exod.23.11",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְנָטַשְׁתִּי",
+      "translit": "vnatashti",
+      "ref": "2Kgs.21.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נְטֽוֹשׁ",
+      "translit": "ntosh",
+      "ref": "Prov.17.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִטְּשֵֽׁנוּ",
+      "translit": "yittshenu",
+      "ref": "1Kgs.8.57",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּטֹּשׁ",
+      "translit": "tittosh",
+      "ref": "Prov.1.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "נְטוּשָׁה",
+      "translit": "ntushah",
+      "ref": "Isa.21.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נְטֻשִׁים",
+      "translit": "ntushim",
+      "ref": "1Sam.30.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נִטְּשָׁה",
+      "translit": "nittshah",
+      "ref": "Amos.5.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִטְּשׁוּ",
+      "translit": "nittshu",
+      "ref": "Isa.16.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּנָּטְשׁוּ",
+      "translit": "vayyinnatshu",
+      "ref": "2Sam.5.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נֻטָּשׁ",
+      "translit": "nuttash",
+      "ref": "Isa.32.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be forsaken; be spread abroad",
+  "pual": "be abandoned"
+ },
+ "root": "נטש",
+ "search_match": [
+  "5203",
+  "h5203",
+  "forsake",
+  "natash",
+  "נטש"
+ ],
+ "citation_translit": "natash"
+}
