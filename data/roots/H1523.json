@@ -1,0 +1,160 @@
+{
+ "glosses": [
+  "rejoice; tremble"
+ ],
+ "strong": "H1523",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּגֶל",
+      "translit": "vayyagel",
+      "ref": "Ps.16.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וַתָּגֵלְנָה",
+      "translit": "vattagelnah",
+      "ref": "Ps.97.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָגִיל",
+      "translit": "yagil",
+      "ref": "Prov.23.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָּגֵל",
+      "translit": "tagel",
+      "ref": "Isa.61.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּגִיל",
+      "translit": "tagil",
+      "ref": "Isa.41.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָגִילוּ",
+      "translit": "yagilu",
+      "ref": "Hos.10.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תָּגֵלְנָה",
+      "translit": "tagelnah",
+      "ref": "Ps.48.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְגַלְתִּי",
+      "translit": "vgalti",
+      "ref": "Isa.65.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "גִּילִי",
+      "translit": "gili",
+      "ref": "Joel.2.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "גִּילוּ",
+      "translit": "gilu",
+      "ref": "Joel.2.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָגֵל",
+      "translit": "yagel",
+      "ref": "Prov.24.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְתָגֵל",
+      "translit": "vtagel",
+      "ref": "1Chr.16.31",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָגִילָה",
+      "translit": "agilah",
+      "ref": "Hab.3.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נָגִילָה",
+      "translit": "nagilah",
+      "ref": "Isa.25.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "גיל",
+ "search_match": [
+  "1523",
+  "h1523",
+  "rejoice",
+  "gil",
+  "גיל"
+ ],
+ "citation_translit": "gil"
+}

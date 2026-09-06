@@ -1,0 +1,218 @@
+{
+ "glosses": [
+  "gird"
+ ],
+ "strong": "H2296",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "חָֽגְרָה",
+      "translit": "chagrah",
+      "ref": "Prov.31.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חָגְרוּ",
+      "translit": "chagru",
+      "ref": "Isa.15.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּחְגֹּר",
+      "translit": "vayyachgor",
+      "ref": "1Sam.17.39",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּחְגְּרוּ",
+      "translit": "vayyachgru",
+      "ref": "1Kgs.20.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַֽתַּחְגְּרוּ",
+      "translit": "vattachgru",
+      "ref": "Deut.1.41",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחְגֹּר",
+      "translit": "yachgor",
+      "ref": "Lev.16.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּחְגֹּֽר",
+      "translit": "tachgor",
+      "ref": "Ps.76.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַחְגְּרוּ",
+      "translit": "yachgru",
+      "ref": "Ezek.44.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תַּחְגֹּֽרְנָה",
+      "translit": "tachgornah",
+      "ref": "Ps.65.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְחָגַרְתָּ",
+      "translit": "vchagarta",
+      "ref": "Exod.29.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְחָגְרוּ",
+      "translit": "vchagru",
+      "ref": "Ezek.27.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חֲגֹר",
+      "translit": "chagor",
+      "ref": "2Kgs.4.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "חִגְרִי",
+      "translit": "chigri",
+      "ref": "Jer.6.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "חִגְרוּ",
+      "translit": "chigru",
+      "ref": "1Sam.25.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fp",
+      "label": "2nd fem. pl.",
+      "heb": "חֲגֹרְנָה",
+      "translit": "chagornah",
+      "ref": "Jer.49.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חֹגֵר",
+      "translit": "choger",
+      "ref": "1Kgs.20.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "חֲגֻרִים",
+      "translit": "chagurim",
+      "ref": "Exod.12.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חָגוּר",
+      "translit": "chagur",
+      "ref": "1Sam.2.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "חֲגֻרִים",
+      "translit": "chagurim",
+      "ref": "Dan.10.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְלַחֲגֹר",
+      "translit": "vlachagor",
+      "ref": "Isa.22.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "חגר",
+ "search_match": [
+  "2296",
+  "h2296",
+  "gird",
+  "chagar",
+  "חגר"
+ ],
+ "citation_translit": "chagar"
+}

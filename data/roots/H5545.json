@@ -1,0 +1,156 @@
+{
+ "glosses": [
+  "forgive"
+ ],
+ "strong": "H5545",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "סָלָֽחְתָּ",
+      "translit": "salachta",
+      "ref": "Lam.3.42",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "סָלַחְתִּי",
+      "translit": "salachti",
+      "ref": "Num.14.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִסְלַח",
+      "translit": "yislach",
+      "ref": "2Kgs.5.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶסְלַח",
+      "translit": "eslach",
+      "ref": "Jer.31.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְסָלָֽחְתָּ",
+      "translit": "vsalachta",
+      "ref": "1Kgs.8.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְסָלַחְתִּי",
+      "translit": "vsalachti",
+      "ref": "Jer.33.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "סְֽלַֽח",
+      "translit": "slach",
+      "ref": "Amos.7.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִסְלַח",
+      "translit": "yislach",
+      "ref": "2Kgs.5.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַסֹּלֵחַ",
+      "translit": "hassolecha",
+      "ref": "Ps.103.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "סְלֹחַֽ",
+      "translit": "slocha",
+      "ref": "Deut.29.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִסְלַח",
+      "translit": "vnislach",
+      "ref": "Num.15.25",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִסְלַח",
+      "translit": "vnislach",
+      "ref": "Lev.19.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be forgiven"
+ },
+ "root": "סלח",
+ "search_match": [
+  "5545",
+  "h5545",
+  "forgive",
+  "salach",
+  "סלח"
+ ],
+ "citation_translit": "salach"
+}

@@ -1,0 +1,228 @@
+{
+ "glosses": [
+  "be rebellious"
+ ],
+ "strong": "H4784",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "מָרָה",
+      "translit": "marah",
+      "ref": "1Kgs.13.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "מָרָה",
+      "translit": "marah",
+      "ref": "1Sam.30.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "מָרִיתָ",
+      "translit": "marita",
+      "ref": "1Kgs.13.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "מָרִיתִי",
+      "translit": "mariti",
+      "ref": "Isa.50.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "מָרוּ",
+      "translit": "maru",
+      "ref": "Isa.63.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "מְרִיתֶם",
+      "translit": "mritem",
+      "ref": "Num.20.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וּמָרִינוּ",
+      "translit": "umarinu",
+      "ref": "Lam.3.42",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּמְרִיתֶם",
+      "translit": "umritem",
+      "ref": "1Sam.12.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֹרֶה",
+      "translit": "moreh",
+      "ref": "2Kgs.14.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַמֹּרִים",
+      "translit": "hammorim",
+      "ref": "Num.20.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מָרוֹ",
+      "translit": "maro",
+      "ref": "Lam.1.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִמְרוּ",
+      "translit": "himru",
+      "ref": "Ps.106.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתֶּמֶר",
+      "translit": "vattemer",
+      "ref": "Ezek.5.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּמְרוּ",
+      "translit": "vayyamru",
+      "ref": "Ezek.20.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַתַּמְרוּ",
+      "translit": "vattamru",
+      "ref": "Deut.1.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַמְרֶה",
+      "translit": "yamreh",
+      "ref": "Josh.1.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַמְרוּ",
+      "translit": "yamru",
+      "ref": "Ps.106.43",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַמְרוּ",
+      "translit": "tamru",
+      "ref": "1Sam.12.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַמְרִים",
+      "translit": "mamrim",
+      "ref": "Deut.31.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַמְרוֹת",
+      "translit": "lamrot",
+      "ref": "Isa.3.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "rebel against"
+ },
+ "root": "מרה",
+ "search_match": [
+  "4784",
+  "h4784",
+  "be rebellious",
+  "marah",
+  "מרה"
+ ],
+ "citation_translit": "marah"
+}

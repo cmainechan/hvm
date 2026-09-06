@@ -1,0 +1,212 @@
+{
+ "glosses": [
+  "break through; increase greatly"
+ ],
+ "strong": "H6555",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "פָרַץ",
+      "translit": "faratz",
+      "ref": "1Chr.13.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "פָּרַצְתָּ",
+      "translit": "paratzta",
+      "ref": "Gen.38.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "פָּרְצוּ",
+      "translit": "partzu",
+      "ref": "1Chr.4.38",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּפְרֹץ",
+      "translit": "vayyifrotz",
+      "ref": "2Chr.11.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּפְרָץ",
+      "translit": "vattifratz",
+      "ref": "Ps.106.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּפְרְצוּ",
+      "translit": "vayyifrtzu",
+      "ref": "1Sam.28.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִפְרֹץ",
+      "translit": "yifrotz",
+      "ref": "Exod.1.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִּפְרֹצִי",
+      "translit": "tifrotzi",
+      "ref": "Isa.54.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִפְרֹצוּ",
+      "translit": "yifrotzu",
+      "ref": "Hos.4.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּפָרַץ",
+      "translit": "ufaratz",
+      "ref": "Neh.3.35",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּפָרַצְתָּ",
+      "translit": "ufaratzta",
+      "ref": "Gen.28.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִפְרְצָה",
+      "translit": "nifrtzah",
+      "ref": "1Chr.13.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּפֹרֵץ",
+      "translit": "uforetz",
+      "ref": "Eccl.10.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "פְּרוּצָה",
+      "translit": "prutzah",
+      "ref": "Prov.25.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "פְּרוּצִים",
+      "translit": "prutzim",
+      "ref": "Neh.2.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְכִפְרֹץ",
+      "translit": "vkhifrotz",
+      "ref": "2Chr.31.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "פָּרֹץ",
+      "translit": "parotz",
+      "ref": "Isa.5.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִפְרָֽץ",
+      "translit": "nifratz",
+      "ref": "1Sam.3.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be broken through"
+ },
+ "root": "פרץ",
+ "search_match": [
+  "6555",
+  "h6555",
+  "break through",
+  "paratz",
+  "פרץ"
+ ],
+ "citation_translit": "paratz"
+}

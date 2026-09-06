@@ -1,0 +1,93 @@
+{
+ "glosses": [
+  "make music"
+ ],
+ "strong": "H2167",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְזַמֶּרְךָ",
+      "translit": "yzammerkha",
+      "ref": "Ps.30.13",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲזַמֵּֽר",
+      "translit": "azammer",
+      "ref": "2Sam.22.50",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְזַמְּרוּ",
+      "translit": "yzammru",
+      "ref": "Ps.149.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "זַמְּרוּ",
+      "translit": "zammru",
+      "ref": "1Chr.16.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲזַמֵּֽרָה",
+      "translit": "azammerah",
+      "ref": "Ps.101.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וּֽנְזַמְּרָה",
+      "translit": "unzammrah",
+      "ref": "Ps.21.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "זַמְּרָה",
+      "translit": "zammrah",
+      "ref": "Ps.147.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "זמר",
+ "search_match": [
+  "2167",
+  "h2167",
+  "make music",
+  "zamar",
+  "זמר"
+ ],
+ "citation_translit": "zamar"
+}

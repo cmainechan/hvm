@@ -30,6 +30,7 @@ const STEM_ORDER = ["qal", "niphal", "piel", "pual", "hiphil", "hophal", "hitpae
 // stem historically unique to this root, rather than its much sparser Qal).
 const DEFAULT_STEM_OVERRIDE = {
   "בקש": "piel",
+  "זמר": "piel",
   "יכח": "hiphil",
   "יצב": "hitpael",
   "ישע": "hiphil",
@@ -52,6 +53,7 @@ const DEFAULT_STEM_OVERRIDE = {
   "צוה": "piel",
   "קוה": "piel",
   "קטר": "hiphil",
+  "קשב": "hiphil",
   "שבע¹": "niphal",
   "שחת": "hiphil",
   "שכם": "hiphil",

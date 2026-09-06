@@ -1,0 +1,231 @@
+{
+ "glosses": [
+  "be empty; be clean"
+ ],
+ "strong": "H5352",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "נָקֹה",
+      "translit": "naqoh",
+      "ref": "Jer.49.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִקָּה",
+      "translit": "niqqah",
+      "ref": "Zech.5.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְנִקִּיתָ",
+      "translit": "vniqqita",
+      "ref": "Gen.24.8",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נִקֵּיתִי",
+      "translit": "niqqeti",
+      "ref": "Jer.2.35",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִנָּקֶה",
+      "translit": "yinnaqeh",
+      "ref": "Prov.11.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּנָּקֶה",
+      "translit": "tinnaqeh",
+      "ref": "Gen.24.41",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִנָּקוּ",
+      "translit": "tinnaqu",
+      "ref": "Jer.25.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִקָּֽה",
+      "translit": "vniqqah",
+      "ref": "1Sam.26.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְנִקָּתָה",
+      "translit": "vniqqatah",
+      "ref": "Isa.3.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הִנָּקִי",
+      "translit": "hinnaqi",
+      "ref": "Num.5.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִנָּקֵה",
+      "translit": "hinnaqeh",
+      "ref": "Jer.25.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נִקֵּיתִי",
+      "translit": "niqqeti",
+      "ref": "Joel.4.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְנַקֶּה",
+      "translit": "ynaqqeh",
+      "ref": "Deut.5.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְנַקֵּֽנִי",
+      "translit": "tnaqqeni",
+      "ref": "Job.10.14",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲנַקֶּֽךָּ",
+      "translit": "anaqqekka",
+      "ref": "Jer.30.11",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְנִקֵּיתִי",
+      "translit": "vniqqeti",
+      "ref": "Joel.4.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נַקֵּֽנִי",
+      "translit": "naqqeni",
+      "ref": "Ps.19.13",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּנַקֵּהוּ",
+      "translit": "tnaqqehu",
+      "ref": "1Kgs.2.9",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְנַקֵּה",
+      "translit": "vnaqqeh",
+      "ref": "Exod.34.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be cleaned out; be innocent",
+  "piel": "hold innocent"
+ },
+ "root": "נקה",
+ "search_match": [
+  "5352",
+  "h5352",
+  "be empty",
+  "naqah",
+  "נקה"
+ ],
+ "citation_translit": "naqah"
+}
