@@ -189,11 +189,96 @@
      }
     ]
    }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "רִפָּֽה",
+      "translit": "rippah",
+      "ref": "Job.12.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תְּרַפֶּינָה",
+      "translit": "trappenah",
+      "ref": "Ezek.1.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְרַפֵּא",
+      "translit": "mrappe",
+      "ref": "Jer.38.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְרַפִּים",
+      "translit": "mrappim",
+      "ref": "Ezra.4.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִתְרַפִּיתָ",
+      "translit": "hitrappita",
+      "ref": "Prov.24.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִתְרַפֶּה",
+      "translit": "mitrappeh",
+      "ref": "Prov.18.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מִתְרַפִּים",
+      "translit": "mitrappim",
+      "ref": "Josh.18.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "niphal": "grow weak",
-  "hiphil": "let drop"
+  "hiphil": "let drop",
+  "piel": "let drop",
+  "hitpael": "be idle; be negligent"
  },
  "root": "רפה",
  "search_match": [

@@ -195,10 +195,44 @@
      }
     ]
    }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מְפֹרָצֶת",
+      "translit": "mforatzet",
+      "ref": "Neh.1.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַמִּתְפָּרְצִים",
+      "translit": "hammitpartzim",
+      "ref": "1Sam.25.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
-  "niphal": "be broken through"
+  "niphal": "be broken through",
+  "pual": "be broken down",
+  "hitpael": "break away"
  },
  "root": "פרץ",
  "search_match": [
