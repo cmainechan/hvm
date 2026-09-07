@@ -6,6 +6,7 @@
  "stems": {
   "qal": {
    "sense_hint": "simple",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -382,6 +383,7 @@
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
    "forms": {
     "yiqtol": [
      {
@@ -398,6 +400,7 @@
   },
   "piel": {
    "sense_hint": "intensive",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -425,6 +428,7 @@
   },
   "hiphil": {
    "sense_hint": "causative",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -655,6 +659,7 @@
   },
   "hitpael": {
    "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -704,7 +709,7 @@
  "stem_glosses": {
   "piel": "impregnate; transgress",
   "hiphil": "cause to pass",
-  "hitpael": "overstep",
+  "hitpael": "be furious, be angry",
   "niphal": "be crossed"
  },
  "root": "עבר",

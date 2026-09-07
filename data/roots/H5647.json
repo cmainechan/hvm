@@ -6,6 +6,7 @@
  "stems": {
   "qal": {
    "sense_hint": "simple",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -263,6 +264,7 @@
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -310,6 +312,7 @@
   },
   "pual": {
    "sense_hint": "passive-intensive",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -326,6 +329,7 @@
   },
   "hiphil": {
    "sense_hint": "causative",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -413,6 +417,7 @@
   },
   "hophal": {
    "sense_hint": "passive-causative",
+   "gloss_verified": true,
    "forms": {
     "yiqtol": [
      {
@@ -439,10 +444,13 @@
  },
  "stem_glosses": {
   "hiphil": "put to work",
-  "hophal": "be enslaved",
+  "hophal": "serve",
   "niphal": "be worked",
   "pual": "be worked"
  },
+ "notes": [
+  "Both hophal attestations (Deut.5.9, Deut.13.3) are the negated 'you/we shall not serve them' formula and read as plain active 'serve', not passive 'be enslaved' -- gloss follows the attested sense rather than the expected hophal passive, since the WLC's own morphological tagging (not a pipeline error) places these under hophal despite the active meaning."
+ ],
  "root": "עבד",
  "search_match": [
   "5647",
