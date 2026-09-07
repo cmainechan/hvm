@@ -93,6 +93,34 @@
     ]
    },
    "gloss_verified": true
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִשְׁתּוֹלֵל",
+      "translit": "mishtolel",
+      "ref": "Isa.59.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "אֶשְׁתּוֹלְלוּ",
+      "translit": "eshtollu",
+      "ref": "Ps.76.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "root": "שלל",
@@ -104,5 +132,8 @@
   "שלל"
  ],
  "citation_translit": "shalal",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "stem_glosses": {
+  "hithpolel": "make oneself a prey; be plundered"
+ }
 }

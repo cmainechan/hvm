@@ -412,12 +412,41 @@
     ]
    },
    "gloss_verified": true
+  },
+  "qal_passive": {
+   "sense_hint": "passive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שֻׁפְּכוּ",
+      "translit": "shupkhu",
+      "ref": "Ps.73.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְשֻׁפַּךְ",
+      "translit": "vshuppakh",
+      "ref": "Zeph.1.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "niphal": "be poured out",
   "pual": "be poured out",
-  "hitpael": "be poured out"
+  "hitpael": "be poured out",
+  "qal_passive": "be poured out"
  },
  "root": "שפך",
  "search_match": [
