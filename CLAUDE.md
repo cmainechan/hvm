@@ -83,6 +83,55 @@ stem. For each root:
    qal (and what you used as the primary/citation stem instead), any
    single-attestation or textually contested form, any newly-discovered
    suppletion pair, and any rare stem beyond the standard seven.
+10. **Verify the gloss against the cited verse's actual context, not just
+    the lexicon's general definition.** A Strong's entry's definition can
+    span a real semantic range (e.g. "judge; think; intercede"); the
+    specific verse picked as citation might read closer to one shade of
+    that range than the one the gloss describes. This can't be checked
+    mechanically the way text accuracy or homonym collisions can — it's a
+    reading-comprehension judgment call, so make it explicitly, every time.
+    For each stem in the batch, report a one-line check: the citation
+    reference, a short paraphrase of what it says in context, and whether
+    that matches the gloss given. Example:
+    > piel "think; judge" — 1Sam.2.25 ("if a man sins... who will *judge*
+    > for him"), matches.
+    If it doesn't clearly match, say so and pick a better citation (or flag
+    that none of the attested forms cite a verse that clearly supports the
+    given gloss) rather than silently shipping a mismatch.
+    Once checked, mark the stem `"gloss_verified": true` (a peer of
+    `sense_hint` inside that stem's object) so the check doesn't need
+    repeating later.
+
+## Retroactive gloss-context audit (in progress)
+
+The dataset predates the gloss-verification step above for most existing
+roots. There's an ongoing project to go back through every stem already in
+`data/roots/` and apply the same check retroactively.
+
+- To find what's left: any stem object *without* a `"gloss_verified": true`
+  field hasn't been checked yet. A quick way to count remaining work:
+  ```python
+  import json, glob
+  todo = 0
+  for f in glob.glob("data/roots/*.json"):
+      data = json.load(open(f, encoding="utf-8"))
+      for stem, obj in data["stems"].items():
+          if not obj.get("gloss_verified"):
+              todo += 1
+  print(todo, "stems still need a gloss-context check")
+  ```
+- Work through it in batches of roughly **40 stems per session** (this is
+  reading/judgment work, not extraction, so it moves faster than adding new
+  roots — no need to throttle to 15 the way new-root batches are).
+- For each stem: read the cited verse in context, confirm the gloss holds,
+  report it the same one-line way as step 10 above, and set
+  `"gloss_verified": true`. If a mismatch turns up, fix the gloss or the
+  citation (whichever is actually wrong) and say so explicitly — don't
+  silently correct it without flagging what was found, same principle as
+  the "if something looks wrong" section below.
+- Commit progress incrementally (e.g. one commit per session) rather than
+  holding a huge uncommitted audit in progress — that way partial progress
+  is never at risk of being lost.
 
 ## Batch size
 
