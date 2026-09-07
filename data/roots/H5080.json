@@ -6,6 +6,7 @@
  "stems": {
   "qal": {
    "sense_hint": "simple",
+   "gloss_verified": true,
    "forms": {
     "infinitive_construct": [
      {
@@ -22,6 +23,7 @@
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -136,6 +138,7 @@
   },
   "pual": {
    "sense_hint": "passive-intensive",
+   "gloss_verified": true,
    "forms": {
     "participle_passive": [
      {
@@ -152,6 +155,7 @@
   },
   "hiphil": {
    "sense_hint": "causative",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -295,6 +299,7 @@
   },
   "hophal": {
    "sense_hint": "passive-causative",
+   "gloss_verified": true,
    "forms": {
     "participle_passive": [
      {
@@ -311,10 +316,11 @@
   }
  },
  "stem_glosses": {
+  "qal": "wield, swing (an axe)",
   "niphal": "be driven away",
-  "pual": "drive away",
+  "pual": "be driven away",
   "hiphil": "drive away",
-  "hophal": "drive away"
+  "hophal": "be driven away"
  },
  "root": "נדח",
  "search_match": [
