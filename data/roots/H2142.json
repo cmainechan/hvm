@@ -6,6 +6,7 @@
  "stems": {
   "qal": {
    "sense_hint": "simple",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -319,6 +320,7 @@
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
    "forms": {
     "participle_passive": [
      {
@@ -404,6 +406,7 @@
   },
   "hiphil": {
    "sense_hint": "causative",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {

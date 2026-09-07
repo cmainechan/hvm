@@ -6,6 +6,7 @@
  "stems": {
   "qal": {
    "sense_hint": "simple",
+   "gloss_verified": true,
    "forms": {
     "participle_active": [
      {
@@ -33,6 +34,7 @@
   },
   "piel": {
    "sense_hint": "intensive",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -247,6 +249,7 @@
   },
   "pual": {
    "sense_hint": "passive-intensive",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -294,6 +297,7 @@
   },
   "hiphil": {
    "sense_hint": "causative",
+   "gloss_verified": true,
    "forms": {
     "yiqtol": [
      {
@@ -339,6 +343,7 @@
   },
   "hitpael": {
    "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
    "forms": {
     "participle_active": [
      {
@@ -462,7 +467,7 @@
   }
  },
  "stem_glosses": {
-  "hiphil": "boast",
+  "hiphil": "shine, give light",
   "hitpael": "boast",
   "piel": "praise",
   "pual": "be praised"
