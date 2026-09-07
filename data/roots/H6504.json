@@ -155,6 +155,7 @@
   },
   "pual": {
    "sense_hint": "passive-intensive",
+   "gloss_verified": true,
    "forms": {
     "participle_passive": [
      {
@@ -231,7 +232,8 @@
  },
  "stem_glosses": {
   "niphal": "be separated",
-  "hiphil": "separate"
+  "hiphil": "separate",
+  "pual": "be separated"
  },
  "root": "פרד",
  "search_match": [
