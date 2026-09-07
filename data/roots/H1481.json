@@ -216,6 +216,34 @@
      }
     ]
    }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִתְגּוֹרֵר",
+      "translit": "mitgorer",
+      "ref": "1Kgs.17.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתְגּוֹרָרוּ",
+      "translit": "yitgoraru",
+      "ref": "Hos.7.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "root": "גור",
@@ -227,5 +255,8 @@
   "גור"
  ],
  "citation_translit": "gur",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "stem_glosses": {
+  "hithpolel": "sojourn; gather together"
+ }
 }
