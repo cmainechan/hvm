@@ -110,5 +110,8 @@
   "נשא²"
  ],
  "citation_translit": "nasha",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Stem-coverage audit found a single qal attestation (Jer.23.39, infinitive absolute נָשֹׁא) not currently in this root's data. Excluded deliberately: the finite verb in the same clause, וְנָשִׁיתִי, is tagged under H5382 (נשה, \"forget\") rather than H5377, even though the construction reads as a standard paronomastic infinitive-plus-finite-verb pairing (which normally shares one root) -- a well-known interpretive crux (KJV renders the clause \"I will utterly forget you,\" siding with the נשה reading). Too textually contested to add a qal stem on, especially since this root currently has no qal at all."
+ ]
 }

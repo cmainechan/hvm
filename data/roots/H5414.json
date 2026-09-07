@@ -688,11 +688,29 @@
      }
     ]
    }
+  },
+  "qal_passive": {
+   "sense_hint": "passive",
+   "gloss_verified": true,
+   "forms": {
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֻתַּן",
+      "translit": "yuttan",
+      "ref": "1Kgs.2.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "niphal": "be given",
-  "hophal": "be given"
+  "hophal": "be given",
+  "qal_passive": "be given"
  },
  "root": "נתן",
  "search_match": [

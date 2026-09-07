@@ -451,13 +451,80 @@
      }
     ]
    }
+  },
+  "poel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וַאֲסֹבְבָה",
+      "translit": "va'asovvah",
+      "ref": "Ps.26.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּסוֹבְבֶךָּ",
+      "translit": "tsovvekha",
+      "ref": "Ps.7.8",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּסוֹבְבֵנִי",
+      "translit": "tsovveni",
+      "ref": "Ps.32.7",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּסוֹבֵֽב",
+      "translit": "tsovev",
+      "ref": "Jer.31.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְסוֹבְבֻהָ",
+      "translit": "ysovvuha",
+      "ref": "Ps.55.11",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְסֹֽבְבֶנְהוּ",
+      "translit": "ysovvenhu",
+      "ref": "Deut.32.10",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "piel": "change, alter (the course of a matter)",
   "niphal": "turn about (of a border)",
   "hiphil": "bring around",
-  "hophal": "be turned about"
+  "hophal": "be turned about",
+  "poel": "encompass, surround"
  },
  "root": "סבב",
  "search_match": [

@@ -607,11 +607,29 @@
      }
     ]
    }
+  },
+  "pilpel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִפְלַל",
+      "translit": "vniflal",
+      "ref": "Ezek.28.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "hiphil": "throw down",
-  "hitpael": "prostrate oneself"
+  "hitpael": "prostrate oneself",
+  "pilpel": "fall"
  },
  "root": "נפל",
  "search_match": [

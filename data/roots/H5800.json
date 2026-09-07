@@ -467,11 +467,29 @@
      }
     ]
    }
+  },
+  "qal_passive": {
+   "sense_hint": "passive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "עֻזְּבָה",
+      "translit": "uzzvah",
+      "ref": "Jer.49.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "niphal": "be forsaken",
-  "pual": "be forsaken"
+  "pual": "be forsaken",
+  "qal_passive": "be forsaken"
  },
  "root": "עזב",
  "search_match": [

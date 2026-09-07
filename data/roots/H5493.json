@@ -580,11 +580,29 @@
      }
     ]
    }
+  },
+  "polel": {
+   "sense_hint": "intensive (causative)",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "סוֹרֵר",
+      "translit": "sorer",
+      "ref": "Lam.3.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "hiphil": "remove",
-  "hophal": "be removed"
+  "hophal": "be removed",
+  "polel": "turn away, pervert"
  },
  "root": "סור",
  "search_match": [

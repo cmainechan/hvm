@@ -48,10 +48,64 @@
      }
     ]
    }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאֵסָעֲרֵם",
+      "translit": "vesa'arem",
+      "ref": "Zech.7.14",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "סֹעֲרָה",
+      "translit": "so'arah",
+      "ref": "Isa.54.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "poel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְסֹעֵר",
+      "translit": "yso'er",
+      "ref": "Hos.13.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
-  "niphal": "be agitated"
+  "niphal": "be agitated",
+  "piel": "scatter with a storm",
+  "pual": "be storm-tossed",
+  "poel": "be driven (by storm)"
  },
  "root": "סער",
  "search_match": [
