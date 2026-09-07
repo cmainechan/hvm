@@ -1,0 +1,213 @@
+{
+ "glosses": [
+  "search; examine thoroughly"
+ ],
+ "strong": "H2713",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חֲקָרָֽהּ",
+      "translit": "chaqarahh",
+      "ref": "Job.28.27",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חֲקַרְתַּנִי",
+      "translit": "chaqartani",
+      "ref": "Ps.139.1",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "חֲקַרְנוּהָ",
+      "translit": "chaqarnuha",
+      "ref": "Job.5.27",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחְקֹר",
+      "translit": "yachqor",
+      "ref": "Job.13.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶחְקֹר",
+      "translit": "echqor",
+      "ref": "1Sam.20.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַחְקֹֽרוּ",
+      "translit": "yachqoru",
+      "ref": "Ezek.39.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּחְקְרוּן",
+      "translit": "tachqrun",
+      "ref": "Job.32.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְחָקַרְתָּ",
+      "translit": "vchaqarta",
+      "ref": "Deut.13.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חָקְרֵנִי",
+      "translit": "chaqreni",
+      "ref": "Ps.139.23",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "חִקְרוּ",
+      "translit": "chiqru",
+      "ref": "Judg.18.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְֽנַחְקֹרָה",
+      "translit": "vnachqorah",
+      "ref": "Lam.3.40",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חֹקֵר",
+      "translit": "choqer",
+      "ref": "Jer.17.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "חֲקוֹר",
+      "translit": "chaqor",
+      "ref": "2Sam.10.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נֶחְקַר",
+      "translit": "nechqar",
+      "ref": "1Kgs.7.47",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵֽחָקֵר",
+      "translit": "yechaqer",
+      "ref": "Jer.46.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיֵחָקְרוּ",
+      "translit": "vyechaqru",
+      "ref": "Jer.31.37",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְחִקֵּר",
+      "translit": "vchiqqer",
+      "ref": "Eccl.12.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be searched out",
+  "piel": "search out"
+ },
+ "root": "חקר",
+ "search_match": [
+  "2713",
+  "h2713",
+  "search",
+  "chaqar",
+  "חקר"
+ ],
+ "citation_translit": "chaqar",
+ "stem_coverage_checked": true
+}

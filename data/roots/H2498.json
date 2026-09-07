@@ -1,0 +1,220 @@
+{
+ "glosses": [
+  "pass on quickly; overstep"
+ ],
+ "strong": "H2498",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חָלַף",
+      "translit": "chalaf",
+      "ref": "Hab.1.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְחָלְפָה",
+      "translit": "vchalfah",
+      "ref": "Judg.5.26",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חָלְפוּ",
+      "translit": "chalfu",
+      "ref": "Isa.24.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחֲלֹֽף",
+      "translit": "yachalof",
+      "ref": "Isa.2.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תַּחְלְפֵהוּ",
+      "translit": "tachlfehu",
+      "ref": "Job.20.24",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְֽיַחֲלֹֽפוּ",
+      "translit": "vyachalofu",
+      "ref": "Ps.102.27",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְחָלַף",
+      "translit": "vchalaf",
+      "ref": "Isa.8.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְחָלַפְתָּ",
+      "translit": "vchalafta",
+      "ref": "1Sam.10.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַֽחֲלֹף",
+      "translit": "lachalof",
+      "ref": "Isa.21.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְחַלֵּף",
+      "translit": "vaychallef",
+      "ref": "2Sam.12.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהֶחֱלִף",
+      "translit": "vhechelif",
+      "ref": "Gen.31.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתַּחֲלֵף",
+      "translit": "vattachalef",
+      "ref": "Gen.31.41",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחֲלִיף",
+      "translit": "yachalif",
+      "ref": "Job.14.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תַחֲלִֽיף",
+      "translit": "tachalif",
+      "ref": "Job.29.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּחֲלִיפֵם",
+      "translit": "tachalifem",
+      "ref": "Ps.102.27",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַחֲלִיפוּ",
+      "translit": "yachalifu",
+      "ref": "Isa.40.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נַחֲלִֽיף",
+      "translit": "nachalif",
+      "ref": "Isa.9.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהַחֲלִיפוּ",
+      "translit": "vhachalifu",
+      "ref": "Gen.35.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "cause to pass, change",
+  "hiphil": "change; show newness (of a tree)"
+ },
+ "root": "חלף",
+ "search_match": [
+  "2498",
+  "h2498",
+  "pass on quickly",
+  "chalaf",
+  "חלף"
+ ],
+ "citation_translit": "chalaf",
+ "stem_coverage_checked": true
+}

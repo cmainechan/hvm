@@ -1,0 +1,200 @@
+{
+ "glosses": [
+  "retreat; flutter (wings)"
+ ],
+ "strong": "H5074",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נָדְדָה",
+      "translit": "naddah",
+      "ref": "Esth.6.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָדְדוּ",
+      "translit": "naddu",
+      "ref": "Hos.7.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּדַּד",
+      "translit": "vattiddad",
+      "ref": "Gen.31.40",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִדּוֹד",
+      "translit": "yiddod",
+      "ref": "Nah.3.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִדֹּדוּן",
+      "translit": "yiddodun",
+      "ref": "Ps.68.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֹדֵד",
+      "translit": "noded",
+      "ref": "Isa.10.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "נוֹדֶדֶת",
+      "translit": "nodedet",
+      "ref": "Prov.27.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נֹדְדִים",
+      "translit": "noddim",
+      "ref": "Hos.9.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "נְדֹד",
+      "translit": "ndod",
+      "ref": "Ps.55.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "poal": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנוֹדַד",
+      "translit": "vnodad",
+      "ref": "Nah.3.17",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְנִדֻּֽהוּ",
+      "translit": "ynidduhu",
+      "ref": "Job.18.18",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיֻדַּד",
+      "translit": "vyuddad",
+      "ref": "Job.20.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֻנָד",
+      "translit": "munad",
+      "ref": "2Sam.23.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתְנֹדֲדוּ",
+      "translit": "yitnodadu",
+      "ref": "Ps.64.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "poal": "flee away",
+  "hiphil": "chase away",
+  "hophal": "be chased away",
+  "hithpolel": "flee away"
+ },
+ "root": "נדד",
+ "search_match": [
+  "5074",
+  "h5074",
+  "retreat",
+  "nadad",
+  "נדד"
+ ],
+ "citation_translit": "nadad",
+ "stem_coverage_checked": true
+}

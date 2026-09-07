@@ -1,0 +1,204 @@
+{
+ "glosses": [
+  "suck (at the breast)"
+ ],
+ "strong": "H3243",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִינָק",
+      "translit": "yinaq",
+      "ref": "Job.20.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִּינָקִי",
+      "translit": "tinaqi",
+      "ref": "Isa.60.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אִינָֽק",
+      "translit": "inaq",
+      "ref": "Job.3.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִינָקוּ",
+      "translit": "yinaqu",
+      "ref": "Deut.33.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּֽינְקוּ",
+      "translit": "tinqu",
+      "ref": "Isa.66.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְיָנַקְתְּ",
+      "translit": "vyanaqt",
+      "ref": "Isa.60.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וִֽינַקְתֶּם",
+      "translit": "vinaqtem",
+      "ref": "Isa.66.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "יוֹנֵק",
+      "translit": "yoneq",
+      "ref": "1Sam.15.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "וְֽיֹנְקִים",
+      "translit": "vyonqim",
+      "ref": "Ps.8.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הֵינִיקָה",
+      "translit": "heniqah",
+      "ref": "Gen.21.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֵינִיקוּ",
+      "translit": "heniqu",
+      "ref": "Lam.4.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֵּנִקֵהֽוּ",
+      "translit": "vayyeniqehu",
+      "ref": "Deut.32.13",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתֵּינֶק",
+      "translit": "vatteneq",
+      "ref": "1Sam.1.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְתֵינִק",
+      "translit": "vteniq",
+      "ref": "Exod.2.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְהֵינִקִהוּ",
+      "translit": "vheniqihu",
+      "ref": "Exod.2.9",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "מֵינִיקוֹת",
+      "translit": "meniqot",
+      "ref": "Gen.32.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהֵינִיק",
+      "translit": "lheniq",
+      "ref": "1Kgs.3.21",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "nurse"
+ },
+ "root": "ינק",
+ "search_match": [
+  "3243",
+  "h3243",
+  "suck (at the breast)",
+  "yanaq",
+  "ינק"
+ ],
+ "citation_translit": "yanaq",
+ "stem_coverage_checked": true
+}

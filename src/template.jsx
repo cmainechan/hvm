@@ -68,6 +68,7 @@ const DEFAULT_STEM_OVERRIDE = {
   "נצל": "hiphil",
   "נשג": "hiphil",
   "סתר": "niphal",
+  "עלם": "hiphil",
   "עלף": "hitpael",
   "פלא": "niphal",
   "פלל": "hitpael",

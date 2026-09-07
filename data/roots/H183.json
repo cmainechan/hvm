@@ -1,0 +1,170 @@
+{
+ "glosses": [
+  "desire"
+ ],
+ "strong": "H183",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "אִוָּהּ",
+      "translit": "ivvahh",
+      "ref": "Ps.132.13",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "אִוְּתָה",
+      "translit": "iutah",
+      "ref": "Job.23.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אִוִּיתִיךָ",
+      "translit": "ivvitikha",
+      "ref": "Isa.26.9",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּאַוֶּה",
+      "translit": "t'avveh",
+      "ref": "1Kgs.11.37",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִתְאַוָּה",
+      "translit": "hit'avvah",
+      "ref": "Prov.21.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הִתְאַוֵּיתִי",
+      "translit": "hit'avveti",
+      "ref": "Jer.17.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִתְאַוּוּ",
+      "translit": "hit'auu",
+      "ref": "Num.11.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּתְאָיו",
+      "translit": "vayyit'ayv",
+      "ref": "1Chr.11.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּתְאַוּוּ",
+      "translit": "vayyit'auu",
+      "ref": "Ps.106.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְאַוֶּה",
+      "translit": "yit'avveh",
+      "ref": "Eccl.6.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִתְאַוֶּה",
+      "translit": "tit'avveh",
+      "ref": "Deut.5.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּתְאָו",
+      "translit": "tit'av",
+      "ref": "Prov.23.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מִתְאַוָּה",
+      "translit": "mit'avvah",
+      "ref": "Prov.13.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַמִּתְאַוִּים",
+      "translit": "hammit'avvim",
+      "ref": "Amos.5.18",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "אוה",
+ "search_match": [
+  "183",
+  "h183",
+  "desire",
+  "avah",
+  "אוה"
+ ],
+ "citation_translit": "avah",
+ "stem_coverage_checked": true
+}

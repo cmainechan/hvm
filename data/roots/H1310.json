@@ -1,0 +1,251 @@
+{
+ "glosses": [
+  "boil; ripen"
+ ],
+ "strong": "H1310",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "בָשַׁל",
+      "translit": "vashal",
+      "ref": "Joel.4.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "בָּשְׁלוּ",
+      "translit": "bashlu",
+      "ref": "Ezek.24.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "בִּשְּׁלָם",
+      "translit": "bisshlam",
+      "ref": "1Kgs.19.21",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "בִּשְּׁלוּ",
+      "translit": "bisshlu",
+      "ref": "2Chr.35.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתְּבַשֵּׁל",
+      "translit": "vattvasshel",
+      "ref": "2Sam.13.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיְבַשְּׁלוּ",
+      "translit": "vayvasshlu",
+      "ref": "2Chr.35.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וַנְּבַשֵּׁל",
+      "translit": "vannvasshel",
+      "ref": "2Kgs.6.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְבַשֵּׁל",
+      "translit": "tvasshel",
+      "ref": "Deut.14.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְבַשְּׁלוּ",
+      "translit": "yvasshlu",
+      "ref": "Ezek.46.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּבַשְּׁלוּ",
+      "translit": "tvasshlu",
+      "ref": "Exod.16.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּבִשַּׁלְתָּ",
+      "translit": "uvisshalta",
+      "ref": "Deut.16.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וּבִשְּׁלוּ",
+      "translit": "uvisshlu",
+      "ref": "Num.11.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּבַשֵּׁל",
+      "translit": "uvasshel",
+      "ref": "2Kgs.4.38",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "בַּשֵּׁלוּ",
+      "translit": "basshelu",
+      "ref": "Exod.16.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַֽמְבַשְּׁלִים",
+      "translit": "hamvasshlim",
+      "ref": "Ezek.46.24",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כְּבַשֵּׁל",
+      "translit": "kvasshel",
+      "ref": "1Sam.2.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "בֻּשָּׁלָה",
+      "translit": "busshalah",
+      "ref": "Lev.6.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּבֻשַּׁל",
+      "translit": "tvusshal",
+      "ref": "Lev.6.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְבֻשָּׁל",
+      "translit": "mvusshal",
+      "ref": "1Sam.2.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִבְשִׁילוּ",
+      "translit": "hivshilu",
+      "ref": "Gen.40.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "boil; cook",
+  "pual": "be boiled",
+  "hiphil": "ripen"
+ },
+ "root": "בשל",
+ "search_match": [
+  "1310",
+  "h1310",
+  "boil",
+  "bashal",
+  "בשל"
+ ],
+ "citation_translit": "bashal",
+ "stem_coverage_checked": true
+}

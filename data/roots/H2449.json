@@ -1,0 +1,218 @@
+{
+ "glosses": [
+  "be wise"
+ ],
+ "strong": "H2449",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חָכַם",
+      "translit": "chakham",
+      "ref": "Prov.23.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "חָֽכְמָה",
+      "translit": "chakhmah",
+      "ref": "Zech.9.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חָכַמְתָּ",
+      "translit": "chakhamta",
+      "ref": "Prov.9.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "חָכַמְתִּי",
+      "translit": "chakhamti",
+      "ref": "Eccl.2.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חָכְמוּ",
+      "translit": "chakhmu",
+      "ref": "Deut.32.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֶּחְכַּם",
+      "translit": "vayyechkam",
+      "ref": "1Kgs.5.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶחְכָּם",
+      "translit": "yechkam",
+      "ref": "Prov.13.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֶּחְכַּם",
+      "translit": "techkam",
+      "ref": "Prov.19.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֶחְכָּמוּ",
+      "translit": "yechkamu",
+      "ref": "Job.32.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חֲכַם",
+      "translit": "chakham",
+      "ref": "Prov.27.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַחֲכָמוּ",
+      "translit": "vachakhamu",
+      "ref": "Prov.8.33",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶחְכָּמָה",
+      "translit": "echkamah",
+      "ref": "Eccl.7.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְחַכֵּֽם",
+      "translit": "ychakkem",
+      "ref": "Ps.105.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּחַכְּמֵנִי",
+      "translit": "tchakkmeni",
+      "ref": "Ps.119.98",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְחֻכָּמִֽים",
+      "translit": "mchukkamim",
+      "ref": "Prov.30.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּתְחַכַּם",
+      "translit": "titchakkam",
+      "ref": "Eccl.7.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִֽתְחַכְּמָה",
+      "translit": "nitchakkmah",
+      "ref": "Exod.1.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "make wise",
+  "pual": "be made wise",
+  "hitpael": "show oneself wise; deceive"
+ },
+ "root": "חכם",
+ "search_match": [
+  "2449",
+  "h2449",
+  "be wise (chakham)",
+  "chakham",
+  "חכם"
+ ],
+ "citation_translit": "chakham",
+ "stem_coverage_checked": true
+}

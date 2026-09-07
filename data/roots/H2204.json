@@ -1,0 +1,93 @@
+{
+ "glosses": [
+  "be old"
+ ],
+ "strong": "H2204",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "זָקֵן",
+      "translit": "zaqen",
+      "ref": "1Chr.23.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "זָקְנָה",
+      "translit": "zaqnah",
+      "ref": "Prov.23.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "זָקַנְתָּ",
+      "translit": "zaqanta",
+      "ref": "1Sam.8.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "זָקַנְתִּי",
+      "translit": "zaqanti",
+      "ref": "1Sam.12.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּזְקַן",
+      "translit": "vayyizqan",
+      "ref": "2Chr.24.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַזְקִין",
+      "translit": "yazqin",
+      "ref": "Job.14.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "grow old"
+ },
+ "root": "זקן",
+ "search_match": [
+  "2204",
+  "h2204",
+  "be old",
+  "zaqen",
+  "זקן"
+ ],
+ "citation_translit": "zaqen",
+ "stem_coverage_checked": true
+}

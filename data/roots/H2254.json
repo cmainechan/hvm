@@ -1,0 +1,257 @@
+{
+ "glosses": [
+  "bind; take/hold in pledge; spoil"
+ ],
+ "strong": "H2254",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חָבָל",
+      "translit": "chaval",
+      "ref": "Ezek.18.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "חָבַלְנוּ",
+      "translit": "chavalnu",
+      "ref": "Neh.1.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחֲבֹל",
+      "translit": "yachavol",
+      "ref": "Deut.24.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַחֲבֹל",
+      "translit": "tachavol",
+      "ref": "Deut.24.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶחְבֹּֽל",
+      "translit": "echbol",
+      "ref": "Job.34.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַחְבְּלוּ",
+      "translit": "yachblu",
+      "ref": "Job.24.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חַבְלֵֽהוּ",
+      "translit": "chavlehu",
+      "ref": "Prov.20.16",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חֹבֵֽל",
+      "translit": "chovel",
+      "ref": "Deut.24.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "חֲבֻלִים",
+      "translit": "chavulim",
+      "ref": "Amos.2.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "חֲבֹל",
+      "translit": "chavol",
+      "ref": "Neh.1.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "חָבֹל",
+      "translit": "chavol",
+      "ref": "Exod.22.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵחָבֶל",
+      "translit": "yechavel",
+      "ref": "Prov.13.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "חִבְּלָה",
+      "translit": "chibblah",
+      "ref": "Song.8.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְחַבֶּל",
+      "translit": "ychabbel",
+      "ref": "Ps.7.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּחַבֵּל",
+      "translit": "tchabbel",
+      "ref": "Mic.2.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְחִבֵּל",
+      "translit": "vchibbel",
+      "ref": "Eccl.5.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְחַבְּלִים",
+      "translit": "mchabblim",
+      "ref": "Song.2.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְחַבֵּל",
+      "translit": "lchabbel",
+      "ref": "Isa.13.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "חֻבָּלָה",
+      "translit": "chubbalah",
+      "ref": "Job.17.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְחֻבַּל",
+      "translit": "vchubbal",
+      "ref": "Isa.10.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "give a pledge; be ruined",
+  "piel": "destroy; writhe",
+  "pual": "be ruined, be broken"
+ },
+ "root": "חבל",
+ "search_match": [
+  "2254",
+  "h2254",
+  "bind",
+  "chaval",
+  "חבל"
+ ],
+ "citation_translit": "chaval",
+ "stem_coverage_checked": true
+}

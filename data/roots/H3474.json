@@ -1,0 +1,222 @@
+{
+ "glosses": [
+  "go straight; be pleasing; be upright"
+ ],
+ "strong": "H3474",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָשַׁר",
+      "translit": "yashar",
+      "ref": "1Chr.13.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "יָשְׁרָה",
+      "translit": "yashrah",
+      "ref": "Hab.2.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "יָשְׁרוּ",
+      "translit": "yashru",
+      "ref": "1Kgs.9.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּשַׁר",
+      "translit": "vayyishar",
+      "ref": "1Sam.18.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּישַׁר",
+      "translit": "vattishar",
+      "ref": "Judg.14.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וַיִשַּׁרְנָה",
+      "translit": "vayissharnah",
+      "ref": "1Sam.6.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִישַׁר",
+      "translit": "yishar",
+      "ref": "Num.23.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "יִשָּׁרְתִּי",
+      "translit": "yissharti",
+      "ref": "Ps.119.128",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַֽיַּישְּׁרֵם",
+      "translit": "vayyayshrem",
+      "ref": "2Chr.32.30",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְיַשֶׁר",
+      "translit": "yyasher",
+      "ref": "Prov.15.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּיַשֵּׁר",
+      "translit": "tyassher",
+      "ref": "Prov.11.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲיַשֵּׁר",
+      "translit": "ayassher",
+      "ref": "Isa.45.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "יַשְּׁרוּ",
+      "translit": "yasshru",
+      "ref": "Isa.40.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַֽמְיַשְּׁרִים",
+      "translit": "hamyasshrim",
+      "ref": "Prov.9.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְיֻשָּׁר",
+      "translit": "myusshar",
+      "ref": "1Kgs.6.35",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַיְשַׁר",
+      "translit": "hayshar",
+      "ref": "Ps.5.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַיְשִׁרוּ",
+      "translit": "yayshiru",
+      "ref": "Prov.4.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "make right; lead; approve",
+  "pual": "be made level",
+  "hiphil": "make straight"
+ },
+ "root": "ישר",
+ "search_match": [
+  "3474",
+  "h3474",
+  "go straight",
+  "yashar",
+  "ישר"
+ ],
+ "citation_translit": "yashar",
+ "stem_coverage_checked": true
+}

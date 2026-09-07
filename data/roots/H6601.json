@@ -1,0 +1,231 @@
+{
+ "glosses": [
+  "be naive; be deceived"
+ ],
+ "strong": "H6601",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּפְתְּ",
+      "translit": "vayyift",
+      "ref": "Job.31.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִפְתֶּה",
+      "translit": "yifteh",
+      "ref": "Deut.11.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּפֹתֶה",
+      "translit": "ufoteh",
+      "ref": "Job.5.2",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "פוֹתָה",
+      "translit": "fotah",
+      "ref": "Hos.7.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִפְתָּה",
+      "translit": "niftah",
+      "ref": "Job.31.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָֽאֶפָּת",
+      "translit": "va'eppat",
+      "ref": "Jer.20.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "פִּתִּיתַנִי",
+      "translit": "pittitani",
+      "ref": "Jer.20.7",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "פִּתֵּיתִי",
+      "translit": "pitteti",
+      "ref": "Ezek.14.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיְפַתּוּהוּ",
+      "translit": "vayfattuhu",
+      "ref": "Ps.78.36",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְפַתֶּה",
+      "translit": "yfatteh",
+      "ref": "1Kgs.22.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּפַתֶּה",
+      "translit": "tfatteh",
+      "ref": "1Kgs.22.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲפַתֶּנּוּ",
+      "translit": "afattennu",
+      "ref": "1Kgs.22.21",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְפַתּוּךָ",
+      "translit": "yfattukha",
+      "ref": "Prov.1.10",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "פַּתִּי",
+      "translit": "patti",
+      "ref": "Judg.14.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְפַתֹּתְךָ",
+      "translit": "lfattotkha",
+      "ref": "2Sam.3.25",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְפֻתֶּה",
+      "translit": "yfutteh",
+      "ref": "Ezek.14.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַפְתְּ",
+      "translit": "yaft",
+      "ref": "Gen.9.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be deceived; be persuaded",
+  "piel": "persuade; deceive",
+  "pual": "be persuaded; be deceived",
+  "hiphil": "enlarge"
+ },
+ "root": "פתה",
+ "search_match": [
+  "6601",
+  "h6601",
+  "be naive",
+  "patah",
+  "פתה"
+ ],
+ "citation_translit": "patah",
+ "stem_coverage_checked": true
+}

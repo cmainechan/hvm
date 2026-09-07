@@ -1,0 +1,237 @@
+{
+ "glosses": [
+  "hide"
+ ],
+ "strong": "H5956",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נֶעְלַם",
+      "translit": "nelam",
+      "ref": "2Chr.9.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְֽנֶעֶלְמָה",
+      "translit": "vne'elmah",
+      "ref": "Job.28.21",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנֶעְלַם",
+      "translit": "vnelam",
+      "ref": "Lev.4.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֶעְלָם",
+      "translit": "nelam",
+      "ref": "1Kgs.10.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נַעֲלָמִים",
+      "translit": "na'alamim",
+      "ref": "Ps.26.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "נַֽעֲלָמָה",
+      "translit": "na'alamah",
+      "ref": "Nah.3.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֶעְלִים",
+      "translit": "helim",
+      "ref": "2Kgs.4.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֶעְלִימוּ",
+      "translit": "helimu",
+      "ref": "Ezek.22.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּעְלִים",
+      "translit": "talim",
+      "ref": "Ps.10.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַעְלִים",
+      "translit": "alim",
+      "ref": "Isa.1.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַעְלִימֽוּ",
+      "translit": "yalimu",
+      "ref": "Lev.20.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּעְלֵם",
+      "translit": "talem",
+      "ref": "Lam.3.56",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּמַעְלִים",
+      "translit": "umalim",
+      "ref": "Prov.28.27",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַעְלֵם",
+      "translit": "halem",
+      "ref": "Lev.20.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְעַלֶּם",
+      "translit": "yit'allem",
+      "ref": "Job.6.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִתְעַלָּֽם",
+      "translit": "tit'allam",
+      "ref": "Isa.58.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהִתְעַלַּמְתָּ",
+      "translit": "vhit'allamta",
+      "ref": "Deut.22.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּתְעַלַּם",
+      "translit": "tit'allam",
+      "ref": "Ps.55.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִתְעַלֵּֽם",
+      "translit": "lhit'allem",
+      "ref": "Deut.22.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be concealed; be a dissembler",
+  "hitpael": "hide oneself"
+ },
+ "root": "עלם",
+ "search_match": [
+  "5956",
+  "h5956",
+  "hide (alam)",
+  "alam",
+  "עלם"
+ ],
+ "citation_translit": "alam",
+ "stem_coverage_checked": true
+}

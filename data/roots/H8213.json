@@ -1,0 +1,235 @@
+{
+ "glosses": [
+  "be abased"
+ ],
+ "strong": "H8213",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שָׁפֵל",
+      "translit": "shafel",
+      "ref": "Isa.2.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּשְׁפַּל",
+      "translit": "vayyishpal",
+      "ref": "Isa.2.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּשְׁפַּל",
+      "translit": "tishpal",
+      "ref": "Isa.32.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשְׁפָּֽלוּ",
+      "translit": "yishpalu",
+      "ref": "Isa.10.33",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תִּשְׁפַּֽלְנָה",
+      "translit": "tishpalnah",
+      "ref": "Isa.5.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְשָׁפֵֽל",
+      "translit": "vshafel",
+      "ref": "Isa.2.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְשָׁפַלְתְּ",
+      "translit": "vshafalt",
+      "ref": "Isa.29.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִשְׁפִּיל",
+      "translit": "hishpil",
+      "ref": "Isa.25.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הִשְׁפַּלְתִּי",
+      "translit": "hishpalti",
+      "ref": "Ezek.17.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִשְׁפִּילוּ",
+      "translit": "hishpilu",
+      "ref": "Job.22.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַתַּשְׁפִּילִי",
+      "translit": "vattashpili",
+      "ref": "Isa.57.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַשְׁפִּיל",
+      "translit": "yashpil",
+      "ref": "Ps.75.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תַּשְׁפִּילֶנּוּ",
+      "translit": "tashpilennu",
+      "ref": "Prov.29.23",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּשְׁפִּֽיל",
+      "translit": "tashpil",
+      "ref": "2Sam.22.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַשְׁפִּֽיל",
+      "translit": "ashpil",
+      "ref": "Isa.13.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהִשְׁפִּיל",
+      "translit": "vhishpil",
+      "ref": "Isa.25.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהַשְׁפִּילֵֽהוּ",
+      "translit": "vhashpilehu",
+      "ref": "Job.40.11",
+      "has_suffix": true,
+      "has_prefix": true
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הַשְׁפִּילוּ",
+      "translit": "hashpilu",
+      "ref": "Jer.13.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַשְׁפִּיל",
+      "translit": "mashpil",
+      "ref": "1Sam.2.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַשְׁפִּֽיל",
+      "translit": "hashpil",
+      "ref": "Ezek.21.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "abase"
+ },
+ "root": "שפל",
+ "search_match": [
+  "8213",
+  "h8213",
+  "be abased",
+  "shafel",
+  "שפל"
+ ],
+ "citation_translit": "shafel",
+ "stem_coverage_checked": true
+}
