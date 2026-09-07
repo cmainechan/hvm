@@ -291,10 +291,13 @@ def scan_all(target_numbers, verbose=True):
 
 
 # A root's stored stem label doesn't always match the corpus's own
-# stem-letter tag -- e.g. כול's pilpel forms are labeled "piel" for
-# simplicity, per an explicit earlier decision. Extend this if future roots
-# make the same substitution.
-STEM_ALIASES = {'piel': ['piel', 'pilpel']}
+# stem-letter tag. This was previously used for כול (H3557), whose pilpel
+# forms were stored under a "piel" key for simplicity, back before the UI
+# supported showing rarer stems distinctly -- that root has since been
+# corrected to store them under "pilpel" directly, so this map is currently
+# empty. Kept as a mechanism in case a future root needs the same kind of
+# substitution.
+STEM_ALIASES = {}
 
 # (strong, stem, category, code) rows that are deliberately kept even though
 # they fail the normal extraction filters -- documented exceptions, not bugs.
