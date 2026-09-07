@@ -6,6 +6,7 @@
  "stems": {
   "hiphil": {
    "sense_hint": "causative",
+   "gloss_verified": true,
    "forms": {
     "participle_active": [
      {
@@ -169,6 +170,7 @@
   },
   "qal": {
    "sense_hint": "simple",
+   "gloss_verified": true,
    "forms": {
     "participle_active": [
      {
@@ -269,6 +271,7 @@
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
    "forms": {
     "yiqtol": [
      {
@@ -285,6 +288,7 @@
   },
   "hophal": {
    "sense_hint": "passive-causative",
+   "gloss_verified": true,
    "forms": {
     "yiqtol": [
      {
@@ -302,7 +306,7 @@
  },
  "stem_glosses": {
   "niphal": "be shot (with arrows)",
-  "hiphil": "teach",
+  "hiphil": "teach; shoot",
   "hophal": "be watered"
  },
  "root": "ירה",

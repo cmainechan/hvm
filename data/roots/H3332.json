@@ -6,6 +6,7 @@
  "stems": {
   "qal": {
    "sense_hint": "simple",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -151,6 +152,7 @@
   },
   "hiphil": {
    "sense_hint": "causative",
+   "gloss_verified": true,
    "forms": {
     "wayyiqtol": [
      {
@@ -178,6 +180,7 @@
   },
   "hophal": {
    "sense_hint": "passive-causative",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -216,7 +219,7 @@
   }
  },
  "stem_glosses": {
-  "hiphil": "pour; cast",
+  "hiphil": "pour; cast; set down",
   "hophal": "be poured out"
  },
  "root": "יצק",
