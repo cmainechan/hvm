@@ -1,0 +1,214 @@
+{
+ "glosses": [
+  "be wroth"
+ ],
+ "strong": "H7107",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "קָצַף",
+      "translit": "qatzaf",
+      "ref": "Deut.9.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "קָצַפְתָּ",
+      "translit": "qatzafta",
+      "ref": "Isa.64.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "קָצַפְתִּי",
+      "translit": "qatzafti",
+      "ref": "Isa.47.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּקְצֹף",
+      "translit": "vayyiqtzof",
+      "ref": "2Kgs.13.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּקְצְפוּ",
+      "translit": "vayyiqtzfu",
+      "ref": "1Sam.29.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִקְצֹף",
+      "translit": "yiqtzof",
+      "ref": "Eccl.5.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּקְצֹֽף",
+      "translit": "tiqtzof",
+      "ref": "Num.16.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶקְּצוֹף",
+      "translit": "eqqtzof",
+      "ref": "Isa.57.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּקְצֹף",
+      "translit": "tiqtzof",
+      "ref": "Isa.64.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "קֹצֵף",
+      "translit": "qotzef",
+      "ref": "Zech.1.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מִקְּצֹף",
+      "translit": "miqqtzof",
+      "ref": "Isa.54.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִקְצַפְתָּ",
+      "translit": "hiqtzafta",
+      "ref": "Deut.9.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הִקְצַפְתֶּם",
+      "translit": "hiqtzaftem",
+      "ref": "Deut.9.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּקְצִיפוּ",
+      "translit": "vayyaqtzifu",
+      "ref": "Ps.106.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַקְצִפִים",
+      "translit": "maqtzifim",
+      "ref": "Deut.9.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְּהַקְצִיף",
+      "translit": "bhaqtzif",
+      "ref": "Zech.8.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהִתְקַצַּף",
+      "translit": "vhitqatztzaf",
+      "ref": "Isa.8.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "provoke to wrath",
+  "hitpael": "put oneself in a rage"
+ },
+ "root": "קצף",
+ "search_match": [
+  "7107",
+  "h7107",
+  "be wroth",
+  "qatzaf",
+  "קצף"
+ ],
+ "citation_translit": "qatzaf"
+}

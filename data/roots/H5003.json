@@ -1,0 +1,180 @@
+{
+ "glosses": [
+  "commit adultery; practice idolatry"
+ ],
+ "strong": "H5003",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּנְאַף",
+      "translit": "vattin'af",
+      "ref": "Jer.3.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּנְאָפוּ",
+      "translit": "vayyin'afu",
+      "ref": "Jer.5.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִנְאַף",
+      "translit": "yin'af",
+      "ref": "Lev.20.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּנְאָֽף",
+      "translit": "tin'af",
+      "ref": "Deut.5.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֹאֵף",
+      "translit": "no'ef",
+      "ref": "Job.24.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "וְהַנֹּאָֽפֶת",
+      "translit": "vhanno'afet",
+      "ref": "Lev.20.10",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "נֹאֲפוֹת",
+      "translit": "no'afot",
+      "ref": "Ezek.16.38",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "נָאוֹף",
+      "translit": "naof",
+      "ref": "Jer.23.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נִֽאֲפָה",
+      "translit": "ni'afah",
+      "ref": "Jer.3.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִאֵפוּ",
+      "translit": "ni'efu",
+      "ref": "Ezek.23.37",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיְנַֽאֲפוּ",
+      "translit": "vayna'afu",
+      "ref": "Jer.29.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תְּנָאַֽפְנָה",
+      "translit": "tna'afnah",
+      "ref": "Hos.4.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְנָאֵף",
+      "translit": "mna'ef",
+      "ref": "Isa.57.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מְנָאָפֶת",
+      "translit": "mna'afet",
+      "ref": "Prov.30.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְנָאֲפִים",
+      "translit": "mna'afim",
+      "ref": "Hos.7.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "נאף",
+ "search_match": [
+  "5003",
+  "h5003",
+  "commit adultery",
+  "na'af",
+  "נאף"
+ ],
+ "citation_translit": "na'af"
+}

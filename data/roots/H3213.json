@@ -1,0 +1,132 @@
+{
+ "glosses": [
+  "howl"
+ ],
+ "strong": "H3213",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֵילִילוּ",
+      "translit": "helilu",
+      "ref": "Jer.48.39",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְיֵלִיל",
+      "translit": "yyelil",
+      "ref": "Isa.15.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲיֵלִיל",
+      "translit": "ayelil",
+      "ref": "Jer.48.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְיֵלִילוּ",
+      "translit": "yyelilu",
+      "ref": "Hos.7.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּיֵלִֽילוּ",
+      "translit": "tyelilu",
+      "ref": "Isa.65.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהֵילִל",
+      "translit": "vhelil",
+      "ref": "Jer.47.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהֵילִילוּ",
+      "translit": "vhelilu",
+      "ref": "Amos.8.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הֵילֵל",
+      "translit": "helel",
+      "ref": "Zech.11.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הֵילִילִֽי",
+      "translit": "helili",
+      "ref": "Isa.14.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הֵילִילוּ",
+      "translit": "helilu",
+      "ref": "Ezek.30.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאֵילִילָה",
+      "translit": "v'elilah",
+      "ref": "Mic.1.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "ילל",
+ "search_match": [
+  "3213",
+  "h3213",
+  "howl",
+  "yalal",
+  "ילל"
+ ],
+ "citation_translit": "yalal"
+}

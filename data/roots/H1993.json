@@ -1,0 +1,154 @@
+{
+ "glosses": [
+  "growl; murmur; be in commotion"
+ ],
+ "strong": "H1993",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הָמוּ",
+      "translit": "hamu",
+      "ref": "Jer.31.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַתֶּהֱמִי",
+      "translit": "vattehemi",
+      "ref": "Ps.42.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיֶּהֱמוּ",
+      "translit": "vayyehemu",
+      "ref": "Isa.51.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶהֱמֶה",
+      "translit": "yehemeh",
+      "ref": "Jer.48.36",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תֶּהֱמִי",
+      "translit": "tehemi",
+      "ref": "Ps.42.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֶֽהֱמוּ",
+      "translit": "yehemu",
+      "ref": "Isa.16.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נֶהֱמֶה",
+      "translit": "nehemeh",
+      "ref": "Isa.59.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהָמוּ",
+      "translit": "vhamu",
+      "ref": "Jer.5.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאֶהֱמֶה",
+      "translit": "v'ehemeh",
+      "ref": "Ps.55.18",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הֹֽמֶה",
+      "translit": "homeh",
+      "ref": "Jer.4.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "הוֹמָֽה",
+      "translit": "homah",
+      "ref": "1Kgs.1.41",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "הֹמוֹת",
+      "translit": "homot",
+      "ref": "Ezek.7.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כַּהֲמוֹת",
+      "translit": "kahamot",
+      "ref": "Isa.17.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "המה",
+ "search_match": [
+  "1993",
+  "h1993",
+  "growl",
+  "hamah",
+  "המה"
+ ],
+ "citation_translit": "hamah"
+}

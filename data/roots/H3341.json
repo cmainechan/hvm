@@ -1,0 +1,184 @@
+{
+ "glosses": [
+  "kindle"
+ ],
+ "strong": "H3341",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּצַּת",
+      "translit": "vattitztzat",
+      "ref": "Isa.9.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִצַּֽתּוּ",
+      "translit": "yitztzattu",
+      "ref": "Isa.33.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תִּצַּתְנָה",
+      "translit": "titztzatnah",
+      "ref": "Jer.49.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נִצְּתָה",
+      "translit": "nitztztah",
+      "ref": "2Kgs.22.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִצְּתוּ",
+      "translit": "nitztztu",
+      "ref": "Jer.2.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְנִצְּתָה",
+      "translit": "vnitztztah",
+      "ref": "2Kgs.22.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִצִּית",
+      "translit": "hitztzit",
+      "ref": "Jer.11.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִצִּיתוּ",
+      "translit": "hitztzitu",
+      "ref": "2Sam.14.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּצֶּת",
+      "translit": "vayyatztzet",
+      "ref": "Lam.4.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּצִּתוּ",
+      "translit": "vayyatztzitu",
+      "ref": "2Sam.14.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּצִּיתוּ",
+      "translit": "tatztzitu",
+      "ref": "Josh.8.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִצַּתִּי",
+      "translit": "vhitztzatti",
+      "ref": "Amos.1.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהַצִּיתוּהָ",
+      "translit": "vhatztzituha",
+      "ref": "2Sam.14.30",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַֽצִּית",
+      "translit": "matztzit",
+      "ref": "Ezek.21.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be kindled"
+ },
+ "root": "יצת",
+ "search_match": [
+  "3341",
+  "h3341",
+  "kindle",
+  "yatzat",
+  "יצת"
+ ],
+ "citation_translit": "yatzat"
+}

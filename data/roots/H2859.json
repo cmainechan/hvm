@@ -1,0 +1,98 @@
+{
+ "glosses": [
+  "make oneself a son-in-law, intermarry"
+ ],
+ "strong": "H2859",
+ "stems": {
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּתְחַתֵּן",
+      "translit": "titchatten",
+      "ref": "1Sam.18.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּתְחַתֵּן",
+      "translit": "vayyitchatten",
+      "ref": "1Kgs.3.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִתְחַתֵּן",
+      "translit": "titchatten",
+      "ref": "Deut.7.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהִֽתְחַתַּנְתֶּם",
+      "translit": "vhitchattantem",
+      "ref": "Josh.23.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִתְחַתֵּן",
+      "translit": "hitchatten",
+      "ref": "1Sam.18.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהִֽתְחַתְּנוּ",
+      "translit": "vhitchattnu",
+      "ref": "Gen.34.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִתְחַתֵּן",
+      "translit": "hitchatten",
+      "ref": "1Sam.18.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "חתן",
+ "search_match": [
+  "2859",
+  "h2859",
+  "make oneself a son-in-law, intermarry",
+  "chatan",
+  "חתן"
+ ],
+ "citation_translit": "chatan"
+}

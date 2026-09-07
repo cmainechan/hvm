@@ -1,0 +1,270 @@
+{
+ "glosses": [
+  "hide"
+ ],
+ "strong": "H3582",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִכְחַד",
+      "translit": "nikhchad",
+      "ref": "Hos.5.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִכְחָֽדוּ",
+      "translit": "nikhchadu",
+      "ref": "Job.4.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתִּכָּחֵד",
+      "translit": "vattikkached",
+      "ref": "Exod.9.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִכָּחֵד",
+      "translit": "yikkached",
+      "ref": "2Sam.18.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּכָּחֵד",
+      "translit": "tikkached",
+      "ref": "Zech.11.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "נִכְחָדוֹת",
+      "translit": "nikhchadot",
+      "ref": "Job.15.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "וְהַנִּכְחֶדֶת",
+      "translit": "vhannikhchedet",
+      "ref": "Zech.11.9",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "הַנִּכְחָדוֹת",
+      "translit": "hannikhchadot",
+      "ref": "Zech.11.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "כִחֵד",
+      "translit": "khiched",
+      "ref": "1Sam.3.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "כִחַדְתִּי",
+      "translit": "khichadti",
+      "ref": "Job.6.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "כִחֵדוּ",
+      "translit": "khichedu",
+      "ref": "Isa.3.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּכַחֵד",
+      "translit": "tkhached",
+      "ref": "1Sam.3.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲכַחֵֽד",
+      "translit": "akhached",
+      "ref": "Job.27.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נְכַחֵד",
+      "translit": "nkhached",
+      "ref": "Gen.47.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְכַחֵד",
+      "translit": "tkhached",
+      "ref": "1Sam.3.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תְכַחֲדִי",
+      "translit": "tkhachadi",
+      "ref": "2Sam.14.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּכַחֵדוּ",
+      "translit": "tkhachedu",
+      "ref": "Jer.50.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּכְחֵד",
+      "translit": "vayyakhched",
+      "ref": "2Chr.32.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאַכְחִד",
+      "translit": "va'akhchid",
+      "ref": "Zech.11.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַכְחִידֶנָּה",
+      "translit": "yakhchidennah",
+      "ref": "Job.20.12",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְנַכְחִידֵם",
+      "translit": "vnakhchidem",
+      "ref": "Ps.83.5",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִכְחַדְתִּֽיו",
+      "translit": "vhikhchadtiv",
+      "ref": "Exod.23.23",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּלְהַכְחִיד",
+      "translit": "ulhakhchid",
+      "ref": "1Kgs.13.34",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be hidden; be destroyed",
+  "hiphil": "hide; annihilate"
+ },
+ "root": "כחד",
+ "search_match": [
+  "3582",
+  "h3582",
+  "hide (kachad)",
+  "kachad",
+  "כחד"
+ ],
+ "citation_translit": "kachad"
+}

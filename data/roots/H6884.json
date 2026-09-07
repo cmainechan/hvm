@@ -1,0 +1,194 @@
+{
+ "glosses": [
+  "refine; test"
+ ],
+ "strong": "H6884",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "צָרַף",
+      "translit": "tzaraf",
+      "ref": "Jer.6.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "צְרָפָֽתְהוּ",
+      "translit": "tzrafathu",
+      "ref": "Ps.105.19",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "צְרַפְתַּנִי",
+      "translit": "tzraftani",
+      "ref": "Ps.17.3",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "צְרַפְתִּיךָ",
+      "translit": "tzraftikha",
+      "ref": "Isa.48.10",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאֶצְרֹף",
+      "translit": "v'etzrof",
+      "ref": "Isa.1.25",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וּצְרַפְתִּים",
+      "translit": "utzraftim",
+      "ref": "Zech.13.9",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "צָרְפָה",
+      "translit": "tzarfah",
+      "ref": "Ps.26.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "צוֹרֵֽף",
+      "translit": "tzoref",
+      "ref": "Isa.40.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "צֽוֹרְפִים",
+      "translit": "tzorfim",
+      "ref": "Neh.3.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "צָרוּף",
+      "translit": "tzaruf",
+      "ref": "Ps.12.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "צְרוּפָה",
+      "translit": "tzrufah",
+      "ref": "2Sam.22.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִצְרוֹף",
+      "translit": "litzrof",
+      "ref": "Dan.11.35",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "צָרוֹף",
+      "translit": "tzarof",
+      "ref": "Jer.6.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיִצָּֽרְפוּ",
+      "translit": "vyitztzarfu",
+      "ref": "Dan.12.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְצָרֵף",
+      "translit": "mtzaref",
+      "ref": "Mal.3.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be refined",
+  "piel": "be a refiner"
+ },
+ "root": "צרף",
+ "search_match": [
+  "6884",
+  "h6884",
+  "refine",
+  "tzaraf",
+  "צרף"
+ ],
+ "citation_translit": "tzaraf"
+}

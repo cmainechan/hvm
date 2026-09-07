@@ -1,0 +1,55 @@
+{
+ "glosses": [
+  "give; ascribe (glory)"
+ ],
+ "strong": "H3051",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הָבָה",
+      "translit": "havah",
+      "ref": "Gen.29.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הָבִי",
+      "translit": "havi",
+      "ref": "Ruth.3.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הָבוּ",
+      "translit": "havu",
+      "ref": "1Chr.16.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Only attested in the imperative -- no perfect, prefixed, or participial forms occur in the Hebrew Bible for this root. This is a real gap, not an extraction error."
+ ],
+ "root": "יהב",
+ "search_match": [
+  "3051",
+  "h3051",
+  "give",
+  "yahav",
+  "יהב"
+ ],
+ "citation_translit": "yahav"
+}

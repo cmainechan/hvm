@@ -1,0 +1,180 @@
+{
+ "glosses": [
+  "hide"
+ ],
+ "strong": "H2934",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "טָמַן",
+      "translit": "taman",
+      "ref": "Prov.19.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "טָמָנְתִּי",
+      "translit": "tamanti",
+      "ref": "Jer.43.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "טָמְנוּ",
+      "translit": "tamnu",
+      "ref": "Jer.18.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּטְמֹן",
+      "translit": "vayyitmon",
+      "ref": "Gen.35.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַֽתִּטְמְנֵם",
+      "translit": "vattitmnem",
+      "ref": "Josh.2.6",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶטְמְנֵהוּ",
+      "translit": "va'etmnehu",
+      "ref": "Jer.13.5",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּטְמַנְתָּם",
+      "translit": "utmantam",
+      "ref": "Jer.43.9",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "טָמְנֵם",
+      "translit": "tamnem",
+      "ref": "Job.40.13",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "טָמוּן",
+      "translit": "tamun",
+      "ref": "Job.18.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "טְמוּנָה",
+      "translit": "tmunah",
+      "ref": "Josh.7.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "טְמוּנִים",
+      "translit": "tmunim",
+      "ref": "Josh.7.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִטְמוֹן",
+      "translit": "litmon",
+      "ref": "Job.31.33",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהִטָּמֵן",
+      "translit": "vhittamen",
+      "ref": "Isa.2.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּטְמִנוּ",
+      "translit": "vayyatminu",
+      "ref": "2Kgs.7.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "hide oneself"
+ },
+ "root": "טמן",
+ "search_match": [
+  "2934",
+  "h2934",
+  "hide (taman)",
+  "taman",
+  "טמן"
+ ],
+ "citation_translit": "taman"
+}

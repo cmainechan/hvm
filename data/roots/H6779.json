@@ -1,0 +1,236 @@
+{
+ "glosses": [
+  "sprout"
+ ],
+ "strong": "H6779",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "צָֽמַח",
+      "translit": "tzamach",
+      "ref": "Lev.13.37",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּצְמַח",
+      "translit": "vayyitzmach",
+      "ref": "Ezek.17.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִצְמָח",
+      "translit": "yitzmach",
+      "ref": "Gen.2.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִצְמָח",
+      "translit": "titzmach",
+      "ref": "Isa.43.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִצְמָֽחוּ",
+      "translit": "yitzmachu",
+      "ref": "Job.8.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תִּצְמַחְנָה",
+      "translit": "titzmachnah",
+      "ref": "Isa.42.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְצָמְחוּ",
+      "translit": "vtzamchu",
+      "ref": "Isa.44.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַצֹּמֵחַ",
+      "translit": "hatztzomecha",
+      "ref": "Exod.10.5",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "צֹמְחוֹת",
+      "translit": "tzomchot",
+      "ref": "Gen.41.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "צִמֵּחַ",
+      "translit": "tzimmecha",
+      "ref": "Ezek.16.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְצַמַּח",
+      "translit": "ytzammach",
+      "ref": "1Chr.19.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְצַמֵּחַ",
+      "translit": "ltzammecha",
+      "ref": "Judg.16.22",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּצְמַח",
+      "translit": "vayyatzmach",
+      "ref": "Gen.2.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַצְמִֽיחַ",
+      "translit": "yatzmicha",
+      "ref": "2Sam.23.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תַצְמִחַ",
+      "translit": "tatzmicha",
+      "ref": "Deut.29.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַצְמִיחַ",
+      "translit": "atzmicha",
+      "ref": "Ezek.29.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהִצְמִיחָהּ",
+      "translit": "vhitzmichahh",
+      "ref": "Isa.55.10",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַצְמִיחַ",
+      "translit": "matzmicha",
+      "ref": "Ps.104.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּלְהַצְמִיחַ",
+      "translit": "ulhatzmicha",
+      "ref": "Job.38.27",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "grow abundantly",
+  "hiphil": "cause to grow"
+ },
+ "root": "צמח",
+ "search_match": [
+  "6779",
+  "h6779",
+  "sprout",
+  "tzamach",
+  "צמח"
+ ],
+ "citation_translit": "tzamach"
+}

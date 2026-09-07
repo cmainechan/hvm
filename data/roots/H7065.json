@@ -1,0 +1,194 @@
+{
+ "glosses": [
+  "be jealous of"
+ ],
+ "strong": "H7065",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "קִנֵּא",
+      "translit": "qinne",
+      "ref": "Num.25.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "קִנֵּאתִי",
+      "translit": "qinneti",
+      "ref": "1Kgs.19.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "קִנְאוּנִי",
+      "translit": "qinuni",
+      "ref": "Deut.32.21",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְקַנֵּא",
+      "translit": "vayqanne",
+      "ref": "Joel.2.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתְּקַנֵּא",
+      "translit": "vattqanne",
+      "ref": "Gen.30.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיְקַנְאוּ",
+      "translit": "vayqanu",
+      "ref": "1Kgs.14.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְקַנֵּא",
+      "translit": "yqanne",
+      "ref": "Isa.11.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְקִנֵּא",
+      "translit": "vqinne",
+      "ref": "Num.5.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְקִנֵּאתִי",
+      "translit": "vqinneti",
+      "ref": "Ezek.39.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְקַנֵּא",
+      "translit": "yqanne",
+      "ref": "Prov.23.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּקַנֵּא",
+      "translit": "tqanne",
+      "ref": "Prov.24.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַֽמְקַנֵּא",
+      "translit": "hamqanne",
+      "ref": "Num.11.29",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְּקַנֹּאתוֹ",
+      "translit": "bqannoto",
+      "ref": "2Sam.21.2",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "קַנֹּא",
+      "translit": "qanno",
+      "ref": "1Kgs.19.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַקְנִיאֵם",
+      "translit": "aqni'em",
+      "ref": "Deut.32.21",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַקְנִאֻהוּ",
+      "translit": "yaqni'uhu",
+      "ref": "Deut.32.16",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "provoke to jealous anger"
+ },
+ "root": "קנא",
+ "search_match": [
+  "7065",
+  "h7065",
+  "be jealous of",
+  "qana",
+  "קנא"
+ ],
+ "citation_translit": "qana"
+}
