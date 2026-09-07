@@ -208,11 +208,201 @@
      }
     ]
    }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּחֶל",
+      "translit": "vayyachel",
+      "ref": "Gen.8.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִתְחוֹלֵל",
+      "translit": "mitcholel",
+      "ref": "Jer.23.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהִתְחוֹלֵל",
+      "translit": "vhitcholel",
+      "ref": "Ps.37.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "polal": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "חוֹלָלְתִּי",
+      "translit": "cholalti",
+      "ref": "Prov.8.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חוֹלָֽלְתָּ",
+      "translit": "cholalta",
+      "ref": "Job.15.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְחוֹלָלוּ",
+      "translit": "ycholalu",
+      "ref": "Job.26.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "poel": {
+   "sense_hint": "intensive (causative)",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְחֽוֹלֵֽל",
+      "translit": "mcholel",
+      "ref": "Prov.26.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpalpel": {
+   "sense_hint": "reflexive/reciprocal (reduplicated intensive)",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּתְחַלְחַל",
+      "translit": "vattitchalchal",
+      "ref": "Esth.4.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "polel": {
+   "sense_hint": "intensive (causative)",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "חֹלֵל",
+      "translit": "cholel",
+      "ref": "Job.39.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "הַמְּחֹלְלוֹת",
+      "translit": "hamchollot",
+      "ref": "Judg.21.23",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתְּחוֹלֵֽל",
+      "translit": "vattcholel",
+      "ref": "Ps.90.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּתְחוֹלֵֽל",
+      "translit": "utcholel",
+      "ref": "Job.35.14",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּחוֹלֵֽל",
+      "translit": "tcholel",
+      "ref": "Prov.25.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְחוֹלֵל",
+      "translit": "ycholel",
+      "ref": "Ps.29.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "hiphil": "shake",
-  "hophal": "be brought forth (in labor)"
+  "hophal": "be brought forth (in labor)",
+  "piel": "wait",
+  "hithpolel": "whirl; writhe; wait",
+  "polal": "be brought forth (born)",
+  "poel": "form, fashion",
+  "hithpalpel": "writhe in anguish",
+  "polel": "bring forth; dance"
  },
  "root": "חיל",
  "search_match": [

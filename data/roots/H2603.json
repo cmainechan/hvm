@@ -319,13 +319,42 @@
      }
     ]
    }
+  },
+  "poel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּמְחוֹנֵן",
+      "translit": "umchonen",
+      "ref": "Prov.14.21",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְחֹנֵֽנוּ",
+      "translit": "ychonenu",
+      "ref": "Ps.102.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "hitpael": "seek favor",
   "niphal": "be shown favor",
   "piel": "make gracious (of the voice)",
-  "hophal": "be shown favor"
+  "hophal": "be shown favor",
+  "poel": "show favor; have pity"
  },
  "root": "חנן",
  "search_match": [

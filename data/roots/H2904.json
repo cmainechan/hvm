@@ -90,10 +90,39 @@
      }
     ]
    }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֽוּטֲלוּ",
+      "translit": "hutalu",
+      "ref": "Jer.22.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֻטָֽל",
+      "translit": "yutal",
+      "ref": "Job.41.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
-  "pilpel": "hurl violently"
+  "pilpel": "hurl violently",
+  "hophal": "be hurled, cast down"
  },
  "root": "טול",
  "search_match": [

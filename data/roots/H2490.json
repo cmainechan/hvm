@@ -544,6 +544,40 @@
      }
     ]
    }
+  },
+  "polal": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְחֹלָל",
+      "translit": "mcholal",
+      "ref": "Isa.53.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "poel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "חֹֽלֲלָה",
+      "translit": "cholalah",
+      "ref": "Job.26.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
@@ -551,7 +585,9 @@
   "hiphil": "begin ",
   "niphal": "be profaned",
   "pual": "be profaned",
-  "hophal": "be begun"
+  "hophal": "be begun",
+  "polal": "be pierced",
+  "poel": "pierce"
  },
  "root": "חלל",
  "search_match": [

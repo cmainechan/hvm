@@ -832,6 +832,23 @@
      }
     ]
    }
+  },
+  "poel": {
+   "sense_hint": "intensive (causative)",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "יוֹדַעְתִּי",
+      "translit": "yoda'ti",
+      "ref": "1Sam.21.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
@@ -839,7 +856,8 @@
   "niphal": "be known",
   "piel": "cause to know; appoint",
   "hophal": "be made known",
-  "hitpael": "make oneself known"
+  "hitpael": "make oneself known",
+  "poel": "appoint, direct"
  },
  "root": "ידע",
  "search_match": [

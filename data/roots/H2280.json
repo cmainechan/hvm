@@ -177,10 +177,39 @@
      }
     ]
    }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חִבֵּשׁ",
+      "translit": "chibbesh",
+      "ref": "Job.28.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּמְחַבֵּשׁ",
+      "translit": "umchabbesh",
+      "ref": "Ps.147.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
-  "pual": "be bound up"
+  "pual": "be bound up",
+  "piel": "bind up"
  },
  "root": "חבש",
  "search_match": [

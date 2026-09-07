@@ -449,13 +449,31 @@
      }
     ]
    }
+  },
+  "hothpaal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הֻטַּמָּאָה",
+      "translit": "huttamma'ah",
+      "ref": "Deut.24.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "niphal": "defile oneself",
   "hitpael": "defile oneself",
   "piel": "defile",
-  "pual": "be defiled"
+  "pual": "be defiled",
+  "hothpaal": "be defiled"
  },
  "root": "טמא",
  "search_match": [
