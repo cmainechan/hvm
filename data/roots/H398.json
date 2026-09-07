@@ -685,12 +685,52 @@
      }
     ]
    }
+  },
+  "qal_passive": {
+   "sense_hint": "passive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "אֻכְּלוּ",
+      "translit": "ukkelu",
+      "ref": "Nah.1.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּאֻכְּלוּ",
+      "translit": "te'ukkelu",
+      "ref": "Isa.1.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "אֻכָּֽל",
+      "translit": "ukkal",
+      "ref": "Exod.3.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "hiphil": "feed",
   "niphal": "be eaten",
-  "piel": "devour"
+  "piel": "devour",
+  "qal_passive": "be eaten"
  },
  "root": "אכל",
  "search_match": [

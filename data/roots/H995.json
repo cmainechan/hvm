@@ -396,12 +396,146 @@
     ]
    },
    "gloss_verified": true
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶתְבּוֹנֵן",
+      "translit": "va'etbonen",
+      "ref": "1Kgs.3.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתִּתְבֹּנֶן",
+      "translit": "vattitbonen",
+      "ref": "Job.30.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִתְבּוֹנָֽן",
+      "translit": "hitbonan",
+      "ref": "Isa.1.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִתְבּוֹנָֽנוּ",
+      "translit": "hitbonanu",
+      "ref": "Isa.52.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִתְבֹּנַנְתָּ",
+      "translit": "hitbonanta",
+      "ref": "Job.38.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתְבּוֹנָנוּ",
+      "translit": "yitbonanu",
+      "ref": "Isa.14.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּתְבּוֹנְנוּ",
+      "translit": "titbonenu",
+      "ref": "Jer.23.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶתְבּוֹנֵן",
+      "translit": "etbonen",
+      "ref": "Job.23.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְבּוֹנָֽן",
+      "translit": "yitbonan",
+      "ref": "Job.26.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּתְבֹּנָֽנוּ",
+      "translit": "titbonanu",
+      "ref": "Isa.43.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיִתְבּֽוֹנְנוּ",
+      "translit": "vyitbonenu",
+      "ref": "Ps.107.43",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הִתְבּֽוֹנְנוּ",
+      "translit": "hitbonenu",
+      "ref": "Jer.9.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהִתְבּוֹנֵן",
+      "translit": "vhitbonen",
+      "ref": "Job.37.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "hiphil": "teach; understand, perceive",
   "niphal": "be discerning",
-  "hitpael": "consider attentively"
+  "hitpael": "consider attentively",
+  "hithpolel": "consider attentively"
  },
  "root": "בין",
  "search_match": [
@@ -412,5 +546,8 @@
   "בין"
  ],
  "citation_translit": "bin",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "hitpael and hithpolel are kept as separate stems even though the corpus tags one form (Job.11.11, יִתְבּוֹנָן, yiqtol 3ms) as hitpael and an identically-spelled form in the same slot (Job.26.14) as hithpolel -- a likely corpus-tagging inconsistency for this hollow root, flagged during the stem-coverage audit. Kept separate per explicit decision rather than merged via STEM_ALIASES."
+ ]
 }

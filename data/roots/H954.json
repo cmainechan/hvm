@@ -324,10 +324,28 @@
     ]
    },
    "gloss_verified": true
+  },
+  "polel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "בֹשֵׁשׁ",
+      "translit": "boshesh",
+      "ref": "Exod.32.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
-  "hiphil": "put to shame; be ashamed"
+  "hiphil": "put to shame; be ashamed",
+  "polel": "delay, tarry"
  },
  "root": "בוש",
  "search_match": [
