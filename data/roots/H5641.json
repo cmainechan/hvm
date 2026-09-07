@@ -6,6 +6,7 @@
  "stems": {
   "niphal": {
    "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -198,6 +199,7 @@
   },
   "piel": {
    "sense_hint": "intensive",
+   "gloss_verified": true,
    "forms": {
     "imperative": [
      {
@@ -214,6 +216,7 @@
   },
   "pual": {
    "sense_hint": "passive-intensive",
+   "gloss_verified": true,
    "forms": {
     "participle_passive": [
      {
@@ -230,6 +233,7 @@
   },
   "hiphil": {
    "sense_hint": "causative",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -417,6 +421,7 @@
   },
   "hitpael": {
    "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
    "forms": {
     "participle_active": [
      {
