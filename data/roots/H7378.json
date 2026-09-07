@@ -185,7 +185,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_verified": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -201,7 +202,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_verified": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -217,13 +219,17 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_verified": true
   }
  },
  "stem_glosses": {
   "niphal": "strive",
   "hiphil": "strive"
  },
+ "notes": [
+  "The sole hiphil attestation (1Sam.15.5, 'וַיָּרֶב בַּנָּחַל') is almost universally translated 'and he laid wait/set an ambush in the valley' (from ארב, H693), since Saul is positioning for battle, not disputing with anyone. The WLC's own morphological tagging (not a pipeline error) nonetheless lemmatizes this form as hiphil of ריב (H7378), so it's kept here under the root's normal 'strive' gloss despite the contextual mismatch -- there is no second hiphil attestation to substitute as citation."
+ ],
  "root": "ריב",
  "search_match": [
   "7378",

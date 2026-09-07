@@ -18,7 +18,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_verified": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -154,7 +155,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_verified": true
   },
   "pual": {
    "sense_hint": "passive-intensive",
@@ -181,10 +183,12 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_verified": true
   }
  },
  "stem_glosses": {
+  "qal": "love",
   "piel": "have compassion",
   "pual": "be shown compassion"
  },

@@ -107,7 +107,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_verified": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -123,7 +124,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_verified": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -188,7 +190,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_verified": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -235,7 +238,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_verified": true
   },
   "hitpael": {
    "sense_hint": "reflexive/reciprocal",
@@ -271,11 +275,12 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_verified": true
   }
  },
  "stem_glosses": {
-  "niphal": "grow weak",
+  "niphal": "be idle, slack",
   "hiphil": "let drop",
   "piel": "let drop",
   "hitpael": "be idle; be negligent"
