@@ -165,11 +165,29 @@
      }
     ]
    }
+  },
+  "polpal": {
+   "sense_hint": "passive-intensive (reduplicated)",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְכָלְכְּלוּ",
+      "translit": "vkhalklu",
+      "ref": "1Kgs.20.27",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "piel": "sustain",
-  "hiphil": "contain; endure"
+  "hiphil": "contain; endure",
+  "polpal": "be provisioned, sustained"
  },
  "root": "כול",
  "search_match": [

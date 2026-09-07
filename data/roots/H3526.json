@@ -154,11 +154,29 @@
      }
     ]
    }
+  },
+  "hothpaal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הֻכַּבֵּס",
+      "translit": "hukkabbes",
+      "ref": "Lev.13.55",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "piel": "wash",
-  "pual": "be washed"
+  "pual": "be washed",
+  "hothpaal": "be washed"
  },
  "root": "כבס",
  "search_match": [

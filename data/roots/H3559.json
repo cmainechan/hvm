@@ -372,12 +372,201 @@
      }
     ]
    }
+  },
+  "polel": {
+   "sense_hint": "intensive (causative)",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "כּוֹנְנָה",
+      "translit": "konnah",
+      "ref": "Ps.90.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "כּוֹנַנְתָּ",
+      "translit": "konanta",
+      "ref": "Ps.119.90",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "כּוֹנְנוּ",
+      "translit": "konnu",
+      "ref": "Exod.15.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "כּוֹנֵן",
+      "translit": "konen",
+      "ref": "Isa.51.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְכֹנַנְתִּי",
+      "translit": "vkhonanti",
+      "ref": "1Chr.17.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְכוֹנֵן",
+      "translit": "vkhonen",
+      "ref": "Hab.2.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתְּכוֹנֵֽן",
+      "translit": "vattkhonen",
+      "ref": "2Sam.7.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיְכוֹנְנוּ",
+      "translit": "vaykhonnu",
+      "ref": "Ps.107.36",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַֽיְכֹנְנֶֽךָ",
+      "translit": "vaykhonnekha",
+      "ref": "Deut.32.6",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּכוֹנֵן",
+      "translit": "tkhonen",
+      "ref": "Ps.21.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיְכוֹנְנוּנִי",
+      "translit": "vaykhonnuni",
+      "ref": "Ps.119.73",
+      "has_suffix": true,
+      "has_prefix": true
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְכוֹנֵן",
+      "translit": "ykhonen",
+      "ref": "Isa.62.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "polal": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "כּוֹנָֽנוּ",
+      "translit": "konanu",
+      "ref": "Ezek.28.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "jussive": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְתִכּוֹנֵן",
+      "translit": "vtikkonen",
+      "ref": "Num.21.27",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִּכּוֹנָנִי",
+      "translit": "tikkonani",
+      "ref": "Isa.54.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיִכּוֹנָנוּ",
+      "translit": "vyikkonanu",
+      "ref": "Ps.59.5",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְכּוֹנָֽן",
+      "translit": "yitkonan",
+      "ref": "Prov.24.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "niphal": "be established",
   "hiphil": "establish",
-  "hophal": "be prepared; be established"
+  "hophal": "be prepared; be established",
+  "polal": "be prepared; be established",
+  "hithpolel": "be established"
  },
  "root": "כון",
  "search_match": [

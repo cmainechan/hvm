@@ -213,12 +213,30 @@
      }
     ]
    }
+  },
+  "nithpael": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִכַּפֵּר",
+      "translit": "vnikkapper",
+      "ref": "Deut.21.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "piel": "cover; atone",
   "pual": "be atoned for",
-  "hitpael": "be atoned for"
+  "hitpael": "be atoned for",
+  "nithpael": "be atoned for"
  },
  "root": "כפר",
  "search_match": [

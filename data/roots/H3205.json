@@ -688,6 +688,34 @@
      }
     ]
    }
+  },
+  "qal_passive": {
+   "sense_hint": "passive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "יֻלַּדְתִּי",
+      "translit": "yulladti",
+      "ref": "Jer.20.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַיּוּלָּֽד",
+      "translit": "hayyullad",
+      "ref": "Judg.13.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
@@ -696,7 +724,8 @@
   "piel": "act as midwife",
   "pual": "be born",
   "hophal": "be born",
-  "hitpael": "declare one's genealogy"
+  "hitpael": "declare one's genealogy",
+  "qal_passive": "be born"
  },
  "root": "ילד",
  "search_match": [

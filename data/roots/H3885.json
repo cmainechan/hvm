@@ -283,11 +283,29 @@
      }
     ]
    }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְלוֹנָֽן",
+      "translit": "yitlonan",
+      "ref": "Ps.91.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "niphal": "murmur",
-  "hiphil": "murmur"
+  "hiphil": "murmur",
+  "hithpolel": "lodge, abide"
  },
  "root": "לין",
  "search_match": [
