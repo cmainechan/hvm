@@ -6,6 +6,7 @@
  "stems": {
   "qal": {
    "sense_hint": "simple",
+   "gloss_verified": true,
    "forms": {
     "yiqtol": [
      {
@@ -75,6 +76,7 @@
   },
   "piel": {
    "sense_hint": "intensive",
+   "gloss_verified": true,
    "forms": {
     "infinitive_construct": [
      {
@@ -113,6 +115,7 @@
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -169,6 +172,7 @@
   },
   "hiphil": {
    "sense_hint": "causative",
+   "gloss_verified": true,
    "forms": {
     "imperative": [
      {
@@ -207,7 +211,8 @@
   }
  },
  "stem_glosses": {
-  "hiphil": "cause to meet"
+  "hiphil": "cause to meet",
+  "piel": "lay beams, frame (a roof)"
  },
  "root": "קרה",
  "search_match": [

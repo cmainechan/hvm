@@ -6,6 +6,7 @@
  "stems": {
   "hiphil": {
    "sense_hint": "causative",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -144,6 +145,7 @@
   },
   "polal": {
    "sense_hint": "passive-intensive",
+   "gloss_verified": true,
    "forms": {
     "yiqtol": [
      {
@@ -160,6 +162,7 @@
   },
   "hithpolel": {
    "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
    "forms": {
     "yiqtol": [
      {
