@@ -6,6 +6,7 @@
  "stems": {
   "niphal": {
    "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -104,6 +105,7 @@
   },
   "piel": {
    "sense_hint": "intensive",
+   "gloss_verified": true,
    "forms": {
     "wayyiqtol": [
      {
@@ -142,6 +144,7 @@
   },
   "hiphil": {
    "sense_hint": "causative",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -381,6 +384,7 @@
   },
   "hophal": {
    "sense_hint": "passive-causative",
+   "gloss_verified": true,
    "forms": {
     "participle_passive": [
      {
@@ -397,6 +401,7 @@
   },
   "hitpael": {
    "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
    "forms": {
     "wayyiqtol": [
      {
@@ -417,7 +422,7 @@
   "hitpael": "strip oneself",
   "niphal": "be delivered",
   "hiphil": "deliver",
-  "hophal": "deliver"
+  "hophal": "be delivered"
  },
  "root": "נצל",
  "search_match": [

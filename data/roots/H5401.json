@@ -6,6 +6,7 @@
  "stems": {
   "qal": {
    "sense_hint": "simple",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -133,6 +134,7 @@
   },
   "piel": {
    "sense_hint": "intensive",
+   "gloss_verified": true,
    "forms": {
     "wayyiqtol": [
      {
@@ -171,6 +173,7 @@
   },
   "hiphil": {
    "sense_hint": "causative",
+   "gloss_verified": true,
    "forms": {
     "participle_active": [
      {
@@ -187,7 +190,7 @@
   }
  },
  "stem_glosses": {
-  "hiphil": "equip",
+  "hiphil": "touch",
   "piel": "kiss"
  },
  "root": "נשק",

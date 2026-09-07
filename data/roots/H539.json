@@ -6,6 +6,7 @@
  "stems": {
   "qal": {
    "sense_hint": "simple",
+   "gloss_verified": true,
    "forms": {
     "participle_active": [
      {
@@ -51,6 +52,7 @@
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -185,6 +187,7 @@
   },
   "hiphil": {
    "sense_hint": "causative",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -366,6 +369,7 @@
   }
  },
  "stem_glosses": {
+  "qal": "foster, nurse (a child)",
   "niphal": "be faithful",
   "hiphil": "believe"
  },
@@ -374,6 +378,8 @@
   "539",
   "aman",
   "believe",
+  "foster",
+  "nurse",
   "h539",
   "אמן"
  ],
