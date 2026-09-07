@@ -222,12 +222,30 @@
     ]
    },
    "gloss_verified": true
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִתְרוֹנֵן",
+      "translit": "mitronen",
+      "ref": "Ps.78.65",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "piel": "sing for joy",
   "pual": "be shouted for joy",
-  "hiphil": "cause to sing for joy"
+  "hiphil": "cause to sing for joy",
+  "hithpolel": "shout for joy"
  },
  "root": "רנן",
  "search_match": [

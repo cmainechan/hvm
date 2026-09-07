@@ -193,12 +193,57 @@
      }
     ]
    }
+  },
+  "poel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְשֹׁדֵד",
+      "translit": "yshoded",
+      "ref": "Hos.10.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "qal_passive": {
+   "sense_hint": "passive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תּוּשַּׁד",
+      "translit": "tushad",
+      "ref": "Isa.33.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יוּשַּׁד",
+      "translit": "yushad",
+      "ref": "Hos.10.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "niphal": "be devastated",
   "piel": "devastate",
-  "pual": "be devastated"
+  "pual": "be devastated",
+  "poel": "devastate",
+  "qal_passive": "be devastated"
  },
  "root": "שדד",
  "search_match": [

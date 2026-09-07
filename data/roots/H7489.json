@@ -350,11 +350,40 @@
     ]
    },
    "gloss_verified": true
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִתְרֹעֵעַ",
+      "translit": "lhitro'ea",
+      "ref": "Prov.18.24",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הִֽתְרֹעֲעָה",
+      "translit": "hitroa'ah",
+      "ref": "Isa.24.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "niphal": "suffer harm",
-  "hiphil": "do evil"
+  "hiphil": "do evil",
+  "hithpolel": "be broken, come to ruin"
  },
  "root": "רעע",
  "search_match": [

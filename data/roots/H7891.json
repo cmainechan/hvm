@@ -157,6 +157,63 @@
     ]
    },
    "gloss_verified": true
+  },
+  "polel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "וּֽמְשֹׁרְרוֹת",
+      "translit": "umshorrot",
+      "ref": "Ezra.2.65",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְשֹֽׁרֲרִים",
+      "translit": "mshorarim",
+      "ref": "2Chr.20.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְשׁוֹרֵר",
+      "translit": "mshorer",
+      "ref": "2Chr.29.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שֹׁרְרוּ",
+      "translit": "shorru",
+      "ref": "Job.36.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְשׁוֹרֵר",
+      "translit": "yshorer",
+      "ref": "Zeph.2.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
