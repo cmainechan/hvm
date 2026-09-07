@@ -426,11 +426,212 @@
      }
     ]
    }
+  },
+  "polal": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּמְרוֹמַם",
+      "translit": "umromam",
+      "ref": "Neh.9.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תְּרוֹמַמְנָה",
+      "translit": "tromamnah",
+      "ref": "Ps.75.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "polel": {
+   "sense_hint": "intensive (causative)",
+   "gloss_verified": true,
+   "forms": {
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וּנְרוֹמְמָה",
+      "translit": "unrommah",
+      "ref": "Ps.34.4",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲרוֹמִמְךָ",
+      "translit": "aromimkha",
+      "ref": "Ps.145.1",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "רֽוֹמְמוּ",
+      "translit": "rommu",
+      "ref": "Ps.99.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְרוֹמֵֽם",
+      "translit": "mromem",
+      "ref": "1Sam.2.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "רוֹמַמְתִּי",
+      "translit": "romamti",
+      "ref": "Isa.23.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "רֹֽמְמָתְהוּ",
+      "translit": "romamthu",
+      "ref": "Ezek.31.4",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתְּרוֹמֵם",
+      "translit": "vattromem",
+      "ref": "Ps.107.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲרֽוֹמִמְךָ",
+      "translit": "aromimkha",
+      "ref": "Isa.25.1",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְרֹמֵֽם",
+      "translit": "tromem",
+      "ref": "Job.17.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְרֽוֹמֵֽם",
+      "translit": "tromem",
+      "ref": "Prov.14.34",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וִֽירֹמְמוּהוּ",
+      "translit": "virommuhu",
+      "ref": "Ps.107.32",
+      "has_suffix": true,
+      "has_prefix": true
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְרוֹמֵם",
+      "translit": "yromem",
+      "ref": "Hos.11.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֵֽרוֹמָם",
+      "translit": "eromam",
+      "ref": "Isa.33.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיִתְרוֹמֵם",
+      "translit": "vyitromem",
+      "ref": "Dan.11.36",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "poel": {
+   "sense_hint": "intensive (causative)",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְרוֹמֵם",
+      "translit": "lromem",
+      "ref": "Ezra.9.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "hiphil": "exalt",
-  "hophal": "be taken away"
+  "hophal": "be taken away",
+  "polal": "be exalted",
+  "polel": "exalt, lift up",
+  "hithpolel": "exalt oneself",
+  "poel": "exalt"
  },
  "root": "רום",
  "search_match": [

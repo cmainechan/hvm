@@ -169,6 +169,23 @@
      }
     ]
    }
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תִּקְשַֽׁבְנָה",
+      "translit": "tiqshavnah",
+      "ref": "Isa.32.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "root": "קשב",
@@ -180,5 +197,8 @@
   "קשב"
  ],
  "citation_translit": "qashav",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "stem_glosses": {
+  "qal": "hearken"
+ }
 }

@@ -884,13 +884,31 @@
      }
     ]
    }
+  },
+  "qal_passive": {
+   "sense_hint": "passive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "רֻאּֽוּ",
+      "translit": "ru'u",
+      "ref": "Job.33.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "niphal": "appear",
   "hiphil": "show",
   "hitpael": "face off",
-  "hophal": "be shown"
+  "hophal": "be shown",
+  "qal_passive": "be seen"
  },
  "root": "ראה",
  "search_match": [

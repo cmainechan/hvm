@@ -235,10 +235,28 @@
      }
     ]
    }
+  },
+  "polel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְרוֹצֵֽצוּ",
+      "translit": "yrotzetzu",
+      "ref": "Nah.2.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
-  "hiphil": "run"
+  "hiphil": "run",
+  "polel": "rush about, jostle"
  },
  "root": "רוץ",
  "search_match": [

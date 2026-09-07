@@ -60,6 +60,23 @@
      }
     ]
    }
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "קָאָה",
+      "translit": "qa'ah",
+      "ref": "Lev.18.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "root": "קוא",
@@ -71,5 +88,8 @@
   "קוא"
  ],
  "citation_translit": "qo",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "stem_glosses": {
+  "qal": "vomit"
+ }
 }

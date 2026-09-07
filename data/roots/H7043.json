@@ -390,13 +390,31 @@
      }
     ]
    }
+  },
+  "hithpalpel": {
+   "sense_hint": "reflexive/reciprocal (reduplicated intensive)",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִתְקַלְקָֽלוּ",
+      "translit": "hitqalqalu",
+      "ref": "Jer.4.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "hiphil": "treat with contempt",
   "niphal": "be a trifling thing",
   "piel": "curse",
-  "pual": "be cursed"
+  "pual": "be cursed",
+  "hithpalpel": "shake, tremble"
  },
  "root": "קלל",
  "search_match": [

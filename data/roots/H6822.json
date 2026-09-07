@@ -78,6 +78,76 @@
       "has_suffix": false,
       "has_prefix": false
      }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "צָפֹה",
+      "translit": "tzafoh",
+      "ref": "Isa.21.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְצַפִּי",
+      "translit": "vtzappi",
+      "ref": "Jer.48.19",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "צַפֵּה",
+      "translit": "tzappeh",
+      "ref": "Nah.2.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְצַפֶּה",
+      "translit": "mtzappeh",
+      "ref": "1Sam.4.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "צִפִּינוּ",
+      "translit": "tzippinu",
+      "ref": "Lam.4.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲצַפֶּה",
+      "translit": "atzappeh",
+      "ref": "Mic.7.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
     ]
    }
   }
@@ -91,5 +161,11 @@
   "tzafah",
   "צפה¹"
  ],
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "strong_alt": [
+  "H6823"
+ ],
+ "notes": [
+  "The infinitive absolute צָפֹה (Isa.21.5, \"watch in the watchtower\") is lemma-tagged H6823 (צפה², \"overlay\") in the corpus, not H6822. Included here instead, per explicit decision during the stem-coverage audit: H6823's own lexicon entry states it is \"probably identical\" with H6822, and this verse's context (paired with הַצָּפִית \"the watchtower,\" H6844, itself derived from H6822) clearly means \"watch,\" not \"overlay with metal\" -- H6823's actual sense would not fit here at all. strong_alt is used narrowly to pull in this one form, not as a general suppletion link between the two roots, which otherwise remain distinct entries with their own separate stems."
+ ]
 }

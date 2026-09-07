@@ -678,12 +678,84 @@
      }
     ]
    }
+  },
+  "polel": {
+   "sense_hint": "intensive (causative)",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲקוֹמֵֽם",
+      "translit": "aqomem",
+      "ref": "Isa.44.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּקוֹמֵם",
+      "translit": "tqomem",
+      "ref": "Isa.58.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְקוֹמֵמוּ",
+      "translit": "yqomemu",
+      "ref": "Isa.61.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְקוֹמֵם",
+      "translit": "yqomem",
+      "ref": "Mic.2.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מִתְקוֹמָמָה",
+      "translit": "mitqomamah",
+      "ref": "Job.20.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מִמִּתְקוֹמְמִים",
+      "translit": "mimmitqommim",
+      "ref": "Ps.17.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "hiphil": "raise",
   "piel": "confirm",
-  "hophal": "be raised up"
+  "hophal": "be raised up",
+  "polel": "confirm",
+  "hithpolel": "rise up (against), oppose"
  },
  "root": "קום",
  "search_match": [
