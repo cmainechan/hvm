@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "blow"
+  "blow (a trumpet); fasten, drive, thrust"
  ],
  "strong": "H8628",
  "stems": {
@@ -187,7 +187,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_verified": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -203,11 +204,12 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_verified": true
   }
  },
  "stem_glosses": {
-  "niphal": "be pledged"
+  "niphal": "be blown (of a trumpet)"
  },
  "root": "תקע",
  "search_match": [
