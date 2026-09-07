@@ -48,8 +48,36 @@ stem. For each root:
    dataset were off-by-one/adjacent-entry mixups caught this way.
 3. **Extract attested forms** for the requested stems using
    `pipeline/pipeline.py`'s `scan_root` (single root) or `scan_all` (many
-   roots at once — much faster, use this for batches). Only include stems
-   the person actually asked for, even if others are attested.
+   roots at once — much faster, use this for batches).
+   Also search for *every* stem attested for this Strong's number (and any
+   `strong_alt` partners) while you're at it — not just the ones the
+   person requested. This is the same check the retrospective stem-coverage
+   audit runs; doing it now, at creation time, means this root never joins
+   that backlog.
+   **Build a full paradigm entry for every attested stem, not only the
+   ones the person named.** For any stem beyond what was requested, draft
+   its gloss yourself the same way the retrospective audit does: read the
+   Strong's/lexicon meaning text and a sample of the actual attested verses
+   in context, and write a gloss that reflects what those verses actually
+   say (it may differ from the primary gloss — treat it as its own sense,
+   the same way `stem_glosses` already works for requested stems whose
+   sense differs from the root's primary one). Then verify that drafted
+   gloss against its citation the same way step 10 requires for every
+   stem, requested or not.
+   Report clearly what you added beyond the original request: which
+   stem(s), the gloss you drafted, and the same one-line
+   reference-plus-paraphrase check as step 10 — so it's visible and
+   reviewable, not silent, even though it wasn't held back for
+   confirmation first.
+   The only reason to leave an attested stem out is genuine ambiguity worth
+   a person's judgment — e.g. a single rare occurrence where the sense
+   doesn't clearly separate from an already-included stem, or where you
+   suspect the occurrence might actually belong to an unrelated homonym.
+   In that case, flag it explicitly and explain the doubt, rather than
+   quietly including or quietly dropping it.
+   Once this search has been done, mark the root `"stem_coverage_checked":
+   true` (a root-level field, a peer of `"strong"`) so a later audit pass
+   knows this root has already been checked and skips it.
 4. **Check for suppletion.** If a stem/category combination you'd expect to
    find has zero attestation under the resolved number, don't assume it's
    simply unattested — search the lexicon for a cross-referenced or
@@ -67,7 +95,8 @@ stem. For each root:
    (only when a stem's sense differs from the primary gloss), `strong_alt`
    (array of additional Strong's numbers for suppletive paradigms — see
    הלך/נוח for the pattern), `notes` (free-text array, used sparingly, e.g.
-   to document a suppletion or a deliberate exception to normal rules).
+   to document a suppletion or a deliberate exception to normal rules),
+   `stem_coverage_checked` (boolean, set per step 3 above).
 7. **Never hand-type Hebrew text into a JSON file.** Always copy the `heb`
    value directly from the pipeline's extraction output. Hand-typed Hebrew
    naturally comes out Unicode-NFC-normalized, which can byte-mismatch the
