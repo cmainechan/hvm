@@ -6,6 +6,7 @@
  "stems": {
   "qal": {
    "sense_hint": "simple",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -73,6 +74,7 @@
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -111,6 +113,7 @@
   },
   "piel": {
    "sense_hint": "intensive",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -167,6 +170,7 @@
   },
   "pual": {
    "sense_hint": "passive-intensive",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -203,6 +207,7 @@
   },
   "hophal": {
    "sense_hint": "passive-causative",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -230,7 +235,7 @@
   }
  },
  "stem_glosses": {
-  "niphal": "be founded",
+  "niphal": "be founded; take counsel together, conspire",
   "pual": "be founded",
   "hophal": "be founded"
  },
