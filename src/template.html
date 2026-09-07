@@ -148,6 +148,7 @@ const STEM_COLOR = {
   polel: { color: "#2F6B8B", soft: "#D6E6EE", name: "Polel" },
   poel: { color: "#5C8B2F", soft: "#E1EBD6", name: "Poel" },
   pual: { color: "#5C4A8B", soft: "#E1DAEF", name: "Pual" },
+  poal: { color: "#8B5C2F", soft: "#EFE0D0", name: "Poal" },
   polal: { color: "#6B8B2F", soft: "#E6EBD6", name: "Polal" },
   hiphil: { color: "#2F6B3A", soft: "#D9E8DC", name: "Hiphil" },
   hophal: { color: "#6B4A2F", soft: "#E6DAD0", name: "Hophal" },
@@ -156,12 +157,11 @@ const STEM_COLOR = {
   nithpael: { color: "#8B2F8B", soft: "#EBD6EB", name: "Nithpael" },
   hishtaphel: { color: "#3A4A8B", soft: "#DADFF0", name: "Hishtaphel" },
 };
-const STEM_ORDER = ["qal", "qal_passive", "niphal", "piel", "pilpel", "polel", "poel", "pual", "polal", "hiphil", "hophal", "hitpael", "hithpolel", "nithpael", "hishtaphel"];
+const STEM_ORDER = ["qal", "qal_passive", "niphal", "piel", "pilpel", "polel", "poel", "pual", "poal", "polal", "hiphil", "hophal", "hitpael", "hithpolel", "nithpael", "hishtaphel"];
 const DEFAULT_STEM_OVERRIDE = {
   "אזן": "hiphil",
   "בדל": "hiphil",
   "בקש": "piel",
-  "גרש": "piel",
   "זמר": "piel",
   "חתן": "hitpael",
   "יחל": "piel",
@@ -274,8 +274,14 @@ function firstAvailableForm(stemEntry) {
 function pickRepresentativeRow(rows) {
   return rows.find((r) => r.code === "3ms") || rows.find((r) => r.code === "ms") || rows[0];
 }
-function stemGloss(rootEntry, stem) {
-  return (rootEntry.stem_glosses && rootEntry.stem_glosses[stem]) || rootEntry.glosses[0];
+function stemGloss(rootEntry, stem, category) {
+  // form_glosses[category] takes priority over stem_glosses when the
+  // currently displayed form's category has its own override (e.g. גרש
+  // Qal: 'drive out' generally, but the passive participle is the fixed
+  // legal term 'divorced (woman)'). Kept in sync with template.jsx.
+  const stemEntry = rootEntry.stems[stem];
+  const formOverride = category && stemEntry && stemEntry.form_glosses && stemEntry.form_glosses[category];
+  return formOverride || (rootEntry.stem_glosses && rootEntry.stem_glosses[stem]) || rootEntry.glosses[0];
 }
 
 /* ---------------------------------------------------------------
@@ -451,7 +457,7 @@ function render() {
     const csl = el("span", { ...styles.centerStemLabel, color: stemColor.color }); csl.textContent = stemColor.name;
     const cheb = el("span", styles.centerHeb); cheb.textContent = repRow.heb;
     const ctr = el("span", styles.centerTranslit); ctr.textContent = repRow.translit;
-    const ceng = el("span", styles.centerEng); ceng.textContent = stemGloss(rootEntry, state.activeStem);
+    const ceng = el("span", styles.centerEng); ceng.textContent = stemGloss(rootEntry, state.activeStem, repFormKey);
     const csense = el("span", styles.centerSense); csense.textContent = stemEntry.sense_hint;
     centerCard.append(csl, cheb, ctr, ceng, csense);
     wheelWrap.appendChild(centerCard);
@@ -520,19 +526,19 @@ function render() {
     const split = splitForm(state.activeForm, stemEntry.forms[state.activeForm]);
     if (split.invariant) {
       const iw = el("div", styles.invariantWrap);
-      split.invariant.forEach((row) => iw.appendChild(wordCard(row, stemColor.color, stemGloss(rootEntry, state.activeStem))));
+      split.invariant.forEach((row) => iw.appendChild(wordCard(row, stemColor.color, stemGloss(rootEntry, state.activeStem, state.activeForm))));
       columnsWrap.appendChild(iw);
     } else {
       const colS = el("div", styles.column);
       const colSTitle = el("span", { ...styles.columnTitle, color: stemColor.color }); colSTitle.textContent = "Singular";
       const colSCards = el("div", styles.columnCards);
-      split.singular.forEach((row) => colSCards.appendChild(wordCard(row, stemColor.color, stemGloss(rootEntry, state.activeStem))));
+      split.singular.forEach((row) => colSCards.appendChild(wordCard(row, stemColor.color, stemGloss(rootEntry, state.activeStem, state.activeForm))));
       colS.append(colSTitle, colSCards);
 
       const colP = el("div", styles.column);
       const colPTitle = el("span", { ...styles.columnTitle, color: stemColor.color }); colPTitle.textContent = "Plural";
       const colPCards = el("div", styles.columnCards);
-      split.plural.forEach((row) => colPCards.appendChild(wordCard(row, stemColor.color, stemGloss(rootEntry, state.activeStem))));
+      split.plural.forEach((row) => colPCards.appendChild(wordCard(row, stemColor.color, stemGloss(rootEntry, state.activeStem, state.activeForm))));
       colP.append(colPTitle, colPCards);
 
       columnsWrap.append(colS, colP);

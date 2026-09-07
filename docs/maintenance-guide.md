@@ -35,6 +35,7 @@ Four JS data structures, all embedded in both output files:
     stems: {
       "qal": {
         sense_hint: "simple",
+        form_glosses: { "participle_passive": "divorced (woman)" }, // optional, category-specific override
         forms: {
           "perfect": [ { code, label, heb, translit, ref, has_suffix, has_prefix }, ... ]
         }
@@ -77,6 +78,26 @@ common), a `DEFAULT_STEM_OVERRIDE` map in the component code controls which
 stem the wheel opens to by default, since the ordinary priority order would
 otherwise land on a passive stem (Niphal/Hophal) when the label implies an
 active sense. Any new no-Qal root needs an entry here.
+
+### Per-category gloss precision (`form_glosses`)
+Occasionally a single stem itself spans more than one sense depending on
+which grammatical category is attested — not different enough to warrant
+a whole extra stem entry, but different enough that showing one blended
+gloss for every form is actively misleading. The clearest case so far:
+גרש (H1644) Qal covers "drive out" generally (participle_active,
+wayyiqtol) but its participle_passive is `גְּרוּשָׁה`, a fixed legal term
+meaning "divorced (woman)" (Lev.21.7, 21.14, 22.13, Num.30.10) — not "a
+woman who has been driven out" read literally.
+
+`form_glosses` is an optional object on a stem entry, keyed by grammatical
+**category** (`perfect`, `participle_passive`, etc., same keys as `forms`),
+each value an override gloss string. `stemGloss()` in both `template.jsx`
+and `template.html` checks the currently-displayed form's category against
+`form_glosses` first, then falls back to `stem_glosses[stem]`, then
+`glosses[0]` — same override-chain pattern as `stem_glosses`, just one
+level more specific. Only add an entry for the category(ies) that actually
+need a different gloss; every other category in that stem keeps using the
+stem-level (or root-level) gloss as before.
 
 ---
 

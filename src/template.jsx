@@ -21,6 +21,7 @@ const STEM_COLOR = {
   polel: { color: "#2F6B8B", soft: "#D6E6EE", name: "Polel" },
   poel: { color: "#5C8B2F", soft: "#E1EBD6", name: "Poel" },
   pual: { color: "#5C4A8B", soft: "#E1DAEF", name: "Pual" },
+  poal: { color: "#8B5C2F", soft: "#EFE0D0", name: "Poal" },
   polal: { color: "#6B8B2F", soft: "#E6EBD6", name: "Polal" },
   hiphil: { color: "#2F6B3A", soft: "#D9E8DC", name: "Hiphil" },
   hophal: { color: "#6B4A2F", soft: "#E6DAD0", name: "Hophal" },
@@ -29,7 +30,7 @@ const STEM_COLOR = {
   nithpael: { color: "#8B2F8B", soft: "#EBD6EB", name: "Nithpael" },
   hishtaphel: { color: "#3A4A8B", soft: "#DADFF0", name: "Hishtaphel" },
 };
-const STEM_ORDER = ["qal", "qal_passive", "niphal", "piel", "pilpel", "polel", "poel", "pual", "polal", "hiphil", "hophal", "hitpael", "hithpolel", "nithpael", "hishtaphel"];
+const STEM_ORDER = ["qal", "qal_passive", "niphal", "piel", "pilpel", "polel", "poel", "pual", "poal", "polal", "hiphil", "hophal", "hitpael", "hithpolel", "nithpael", "hishtaphel"];
 
 // a handful of roots default to a stem other than the first-available one in
 // STEM_ORDER, because that stem is overwhelmingly the dominant/expected form
@@ -39,7 +40,6 @@ const DEFAULT_STEM_OVERRIDE = {
   "אזן": "hiphil",
   "בדל": "hiphil",
   "בקש": "piel",
-  "גרש": "piel",
   "זמר": "piel",
   "חתן": "hitpael",
   "יחל": "piel",
@@ -167,12 +167,18 @@ function pickRepresentativeRow(rows) {
   // neither is attested for this stem/form.
   return rows.find((r) => r.code === "3ms") || rows.find((r) => r.code === "ms") || rows[0];
 }
-function stemGloss(rootEntry, stem) {
+function stemGloss(rootEntry, stem, category) {
   // for roots with a different sense per stem (e.g. עלה: Qal 'go up' vs Hiphil
   // 'bring up'), show the sense that actually applies to the currently selected
   // stem, falling back to the root's primary (Qal-based) gloss for any stem
   // that doesn't have its own explicit override.
-  return (rootEntry.stem_glosses && rootEntry.stem_glosses[stem]) || rootEntry.glosses[0];
+  // A stem can further vary by grammatical category (e.g. גרש Qal: 'drive out'
+  // generally, but the passive participle is the fixed legal term 'divorced
+  // (woman)') -- form_glosses[category] takes priority over stem_glosses when
+  // the currently displayed form's category has its own override.
+  const stemEntry = rootEntry.stems[stem];
+  const formOverride = category && stemEntry && stemEntry.form_glosses && stemEntry.form_glosses[category];
+  return formOverride || (rootEntry.stem_glosses && rootEntry.stem_glosses[stem]) || rootEntry.glosses[0];
 }
 function rootCitationTranslit(root) {
   const entry = VERB_DATA[root];
@@ -407,7 +413,7 @@ export default function HebrewVerbMap() {
               <span style={{ ...styles.centerStemLabel, color: stemColor.color }}>{stemColor.name}</span>
               <span style={styles.centerHeb}>{repRow.heb}</span>
               <span style={styles.centerTranslit}>{repRow.translit}</span>
-              <span style={styles.centerEng}>{stemGloss(rootEntry, activeStem)}</span>
+              <span style={styles.centerEng}>{stemGloss(rootEntry, activeStem, repFormKey)}</span>
               <span style={styles.centerSense}>{stemEntry.sense_hint}</span>
             </div>
 
@@ -482,7 +488,7 @@ export default function HebrewVerbMap() {
               {split.invariant ? (
                 <div style={styles.invariantWrap}>
                   {split.invariant.map((row) => (
-                    <WordCard key={row.code + row.heb} row={row} color={stemColor.color} gloss={stemGloss(rootEntry, activeStem)} />
+                    <WordCard key={row.code + row.heb} row={row} color={stemColor.color} gloss={stemGloss(rootEntry, activeStem, activeForm)} />
                   ))}
                 </div>
               ) : (
@@ -490,13 +496,13 @@ export default function HebrewVerbMap() {
                   <div style={styles.column}>
                     <span style={{ ...styles.columnTitle, color: stemColor.color }}>Singular</span>
                     <div style={styles.columnCards}>
-                      {split.singular.map((row) => <WordCard key={row.code + row.heb} row={row} color={stemColor.color} gloss={stemGloss(rootEntry, activeStem)} />)}
+                      {split.singular.map((row) => <WordCard key={row.code + row.heb} row={row} color={stemColor.color} gloss={stemGloss(rootEntry, activeStem, activeForm)} />)}
                     </div>
                   </div>
                   <div style={styles.column}>
                     <span style={{ ...styles.columnTitle, color: stemColor.color }}>Plural</span>
                     <div style={styles.columnCards}>
-                      {split.plural.map((row) => <WordCard key={row.code + row.heb} row={row} color={stemColor.color} gloss={stemGloss(rootEntry, activeStem)} />)}
+                      {split.plural.map((row) => <WordCard key={row.code + row.heb} row={row} color={stemColor.color} gloss={stemGloss(rootEntry, activeStem, activeForm)} />)}
                     </div>
                   </div>
                 </>

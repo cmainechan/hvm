@@ -94,6 +94,27 @@ def test_form_categories_are_known(strong, data):
 
 
 @pytest.mark.parametrize("strong,data", ALL_ROOTS.items())
+def test_form_glosses_reference_known_categories(strong, data):
+    """form_glosses is an optional per-stem override keyed by grammatical
+    category (e.g. גרש Qal's participle_passive being the fixed legal term
+    "divorced (woman)" rather than the stem's general "drive out"). Every
+    key must be a real category, and must actually have forms in that stem
+    -- an override for a category with nothing to show is dead data."""
+    for stem, stem_obj in data["stems"].items():
+        form_glosses = stem_obj.get("form_glosses")
+        if not form_glosses:
+            continue
+        for category in form_glosses:
+            assert category in VALID_CATEGORIES, (
+                f"{strong} stem {stem!r} form_glosses references unknown category {category!r}"
+            )
+            assert category in stem_obj["forms"], (
+                f"{strong} stem {stem!r} form_glosses has an override for "
+                f"{category!r} but that category has no forms in this stem"
+            )
+
+
+@pytest.mark.parametrize("strong,data", ALL_ROOTS.items())
 def test_form_rows_have_required_fields(strong, data):
     for stem, stem_obj in data["stems"].items():
         for category, rows in stem_obj["forms"].items():
