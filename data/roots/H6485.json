@@ -605,6 +605,23 @@
      }
     ]
    }
+  },
+  "hothpaal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הָתְפָּקְדוּ",
+      "translit": "hatpaqdu",
+      "ref": "1Kgs.20.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
@@ -613,7 +630,8 @@
   "hiphil": "appoint",
   "hophal": "be appointed",
   "pual": "be mustered; be numbered",
-  "hitpael": "muster themselves"
+  "hitpael": "muster themselves",
+  "hothpaal": "be mustered, numbered"
  },
  "root": "פקד",
  "search_match": [

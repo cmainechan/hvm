@@ -90,10 +90,46 @@
      }
     ]
    }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּבְהַעֲטִיף",
+      "translit": "uvha'atif",
+      "ref": "Gen.30.42",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בֵּֽעָטֵף",
+      "translit": "be'atef",
+      "ref": "Lam.2.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
-  "hitpael": "grow faint/feeble"
+  "hitpael": "grow faint/feeble",
+  "hiphil": "be feeble",
+  "niphal": "faint"
  },
  "root": "עטף",
  "search_match": [

@@ -216,11 +216,65 @@
      }
     ]
    }
+  },
+  "pilpel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַֽיְפַרְפְּרֵנִי",
+      "translit": "vayfarpreni",
+      "ref": "Job.16.12",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "poel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "פוֹרַרְתָּ",
+      "translit": "forarta",
+      "ref": "Ps.74.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הִֽתְפּוֹרְרָה",
+      "translit": "hitporrah",
+      "ref": "Isa.24.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "hiphil": "break",
-  "hophal": "be broken"
+  "hophal": "be broken",
+  "pilpel": "break apart",
+  "poel": "break",
+  "hithpolel": "be broken down"
  },
  "root": "פרר",
  "search_match": [

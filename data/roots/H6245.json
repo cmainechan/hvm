@@ -20,6 +20,23 @@
      }
     ]
    }
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "עָשְׁתוּ",
+      "translit": "ashtu",
+      "ref": "Jer.5.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "root": "עשת",
@@ -31,5 +48,8 @@
   "עשת"
  ],
  "citation_translit": "ashat",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "stem_glosses": {
+  "qal": "think"
+ }
 }
