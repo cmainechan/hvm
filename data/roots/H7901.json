@@ -286,7 +286,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_verified": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -302,7 +303,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_verified": true
   },
   "pual": {
    "sense_hint": "passive-intensive",
@@ -318,7 +320,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_verified": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -396,7 +399,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_verified": true
   },
   "hophal": {
    "sense_hint": "passive-causative",
@@ -434,13 +438,14 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_verified": true
   }
  },
  "stem_glosses": {
   "hiphil": "make lie down",
   "niphal": "be lain with (violated)",
-  "pual": "be lain with (violated)",
+  "pual": "be lain with",
   "hophal": "be laid down"
  },
  "root": "שכב",

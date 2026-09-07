@@ -18,7 +18,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_verified": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -34,7 +35,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_verified": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -199,11 +201,12 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_verified": true
   }
  },
  "stem_glosses": {
-  "hiphil": "act wisely",
+  "hiphil": "act wisely; give understanding, instruct",
   "piel": "cross (the hands)"
  },
  "root": "שכל²",
