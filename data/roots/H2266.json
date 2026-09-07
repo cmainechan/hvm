@@ -1,0 +1,225 @@
+{
+ "glosses": [
+  "unite"
+ ],
+ "strong": "H2266",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חָֽבְרוּ",
+      "translit": "chavru",
+      "ref": "Gen.14.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הַֽיְחָבְרְךָ",
+      "translit": "haychavrkha",
+      "ref": "Ps.94.20",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְחֹבֵר",
+      "translit": "vchover",
+      "ref": "Deut.18.11",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "חֹֽבְרֹת",
+      "translit": "chovrot",
+      "ref": "Exod.26.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חִבַּר",
+      "translit": "chibbar",
+      "ref": "Exod.36.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְחַבֵּר",
+      "translit": "vaychabber",
+      "ref": "Exod.36.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְחִבַּרְתָּ",
+      "translit": "vchibbarta",
+      "ref": "Exod.26.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְחַבֵּר",
+      "translit": "lchabber",
+      "ref": "Exod.36.18",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חֻבָּֽר",
+      "translit": "chubbar",
+      "ref": "Exod.39.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "שֶׁחֻבְּרָה",
+      "translit": "shechubbrah",
+      "ref": "Ps.122.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְחֻבַּר",
+      "translit": "ychubbar",
+      "ref": "Eccl.9.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְחֻבָּֽר",
+      "translit": "vchubbar",
+      "ref": "Exod.28.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַחְבִּירָה",
+      "translit": "achbirah",
+      "ref": "Job.16.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "אֶתְחַבַּר",
+      "translit": "etchabbar",
+      "ref": "2Chr.20.35",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתְחַבָּרוּ",
+      "translit": "yitchabbaru",
+      "ref": "Dan.11.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִֽתְחַבְּרוּת",
+      "translit": "hitchabbrut",
+      "ref": "Dan.11.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "unite with",
+  "pual": "be joined together",
+  "hiphil": "join together",
+  "hitpael": "join oneself to"
+ },
+ "root": "חבר",
+ "search_match": [
+  "2266",
+  "h2266",
+  "unite",
+  "chavar",
+  "חבר"
+ ],
+ "citation_translit": "chavar"
+}

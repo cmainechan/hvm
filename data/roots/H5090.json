@@ -1,0 +1,157 @@
+{
+ "glosses": [
+  "carry away"
+ ],
+ "strong": "H5090",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נָהַג",
+      "translit": "nahag",
+      "ref": "Lam.3.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָהֲגוּ",
+      "translit": "nahagu",
+      "ref": "1Sam.30.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּנְהַג",
+      "translit": "vayyinhag",
+      "ref": "1Chr.20.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּֽנְהֲגוּ",
+      "translit": "vayyinhagu",
+      "ref": "1Sam.30.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִנְהָֽג",
+      "translit": "yinhag",
+      "ref": "2Kgs.9.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶנְהָֽגֲךָ",
+      "translit": "enhagakha",
+      "ref": "Song.8.2",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִנְהָגוּ",
+      "translit": "yinhagu",
+      "ref": "Job.24.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נְהַג",
+      "translit": "nhag",
+      "ref": "2Kgs.4.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֹהֵג",
+      "translit": "noheg",
+      "ref": "Eccl.2.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נֹהֲגִים",
+      "translit": "nohagim",
+      "ref": "1Chr.13.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נְהוּגִֽים",
+      "translit": "nhugim",
+      "ref": "Isa.60.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "מְנַֽהֲגוֹת",
+      "translit": "mnahagot",
+      "ref": "Nah.2.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "moan"
+ },
+ "notes": [
+  "Strong's H5090 covers two senses OSHB's own morphology tags distinguish by letter: \"5090 a\" (drive/lead/carry away -- attested in both Qal and Piel) and \"5090 b\" (a single Piel participle, מְנַהֲגוֹת, Nah.2.8, \"moan\", of doves). Since both share one Strong's number they can't be split into separate root entries (would violate the one-Strong's-number-per-file rule), so this file's Piel stem ships only the letter-b \"moan\" form. Piel also has extensive letter-a \"drive/lead\" attestations (e.g. Deut.4.27, Exod.10.13) not included here since they'd conflict with the \"moan\" gloss on this same stem slot -- flagged in case a \"drive/lead\" Piel sense is wanted added separately."
+ ],
+ "root": "נהג",
+ "search_match": [
+  "5090",
+  "h5090",
+  "carry away",
+  "nahag",
+  "נהג"
+ ],
+ "citation_translit": "nahag"
+}

@@ -1,0 +1,145 @@
+{
+ "glosses": [
+  "cease; destroy"
+ ],
+ "strong": "H1820",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "דָּמִיתִי",
+      "translit": "damiti",
+      "ref": "Jer.6.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִדְמֶה",
+      "translit": "tidmeh",
+      "ref": "Lam.3.49",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְדָמִיתִי",
+      "translit": "vdamiti",
+      "ref": "Hos.4.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תִּדְמֶינָה",
+      "translit": "tidmenah",
+      "ref": "Jer.14.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִדְמָה",
+      "translit": "nidmah",
+      "ref": "Hos.10.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נִדְמְתָה",
+      "translit": "nidmtah",
+      "ref": "Jer.47.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נִדְמֵיתָה",
+      "translit": "nidmetah",
+      "ref": "Obad.1.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נִדְמֵיתִי",
+      "translit": "nidmeti",
+      "ref": "Isa.6.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִדְמוּ",
+      "translit": "nidmu",
+      "ref": "Hos.4.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִדְמֶה",
+      "translit": "nidmeh",
+      "ref": "Hos.10.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "נִדְמֹה",
+      "translit": "nidmoh",
+      "ref": "Hos.10.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be destroyed; be cut off"
+ },
+ "root": "דמה²",
+ "search_match": [
+  "1820",
+  "h1820",
+  "cease",
+  "damah",
+  "דמה²"
+ ],
+ "citation_translit": "damah"
+}

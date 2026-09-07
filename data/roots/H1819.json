@@ -1,0 +1,253 @@
+{
+ "glosses": [
+  "be like"
+ ],
+ "strong": "H1819",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "דָמָה",
+      "translit": "damah",
+      "ref": "Ezek.31.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "דָּֽמְתָה",
+      "translit": "damtah",
+      "ref": "Song.7.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "דָמִיתָ",
+      "translit": "damita",
+      "ref": "Ezek.31.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "דָּמִיתִי",
+      "translit": "damiti",
+      "ref": "Ps.102.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "דָמוּ",
+      "translit": "damu",
+      "ref": "Ezek.31.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "דָּמִֽינוּ",
+      "translit": "daminu",
+      "ref": "Isa.1.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִדְמֶה",
+      "translit": "yidmeh",
+      "ref": "Ps.89.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְנִדְמֶֽה",
+      "translit": "vnidmeh",
+      "ref": "Isa.46.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "דְּמֵה",
+      "translit": "dmeh",
+      "ref": "Song.2.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "דּוֹמֶה",
+      "translit": "domeh",
+      "ref": "Song.2.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "דִּמָּה",
+      "translit": "dimmah",
+      "ref": "2Sam.21.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "דִּמִּיתָ",
+      "translit": "dimmita",
+      "ref": "Ps.50.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "דִּמִּיתִי",
+      "translit": "dimmiti",
+      "ref": "Isa.14.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "דִּמּוּ",
+      "translit": "dimmu",
+      "ref": "Judg.20.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "דִּמִּינוּ",
+      "translit": "dimminu",
+      "ref": "Ps.48.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְדַמֶּה",
+      "translit": "ydammeh",
+      "ref": "Isa.10.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲדַמֶּֽה",
+      "translit": "adammeh",
+      "ref": "Hos.12.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּדַמְּיוּן",
+      "translit": "tdammyun",
+      "ref": "Isa.40.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תְּדַמִּי",
+      "translit": "tdammi",
+      "ref": "Esth.4.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶדַּמֶּה",
+      "translit": "eddammeh",
+      "ref": "Isa.14.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נִדְמֵיתָ",
+      "translit": "nidmeta",
+      "ref": "Ezek.32.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "liken; imagine",
+  "hitpael": "make oneself like",
+  "niphal": "be likened"
+ },
+ "root": "דמה¹",
+ "search_match": [
+  "1819",
+  "h1819",
+  "be like",
+  "damah",
+  "דמה¹"
+ ],
+ "citation_translit": "damah"
+}

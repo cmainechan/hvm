@@ -1,0 +1,176 @@
+{
+ "glosses": [
+  "tear away"
+ ],
+ "strong": "H1497",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "גָּזָל",
+      "translit": "gazal",
+      "ref": "Ezek.18.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "גָזַלְתִּי",
+      "translit": "gazalti",
+      "ref": "Ps.69.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "גָּזְלוּ",
+      "translit": "gazlu",
+      "ref": "Gen.21.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּגְזֹל",
+      "translit": "vayyigzol",
+      "ref": "1Chr.11.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּגְזְלוּ",
+      "translit": "vayyigzlu",
+      "ref": "Judg.9.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִגְזֹל",
+      "translit": "yigzol",
+      "ref": "Ezek.18.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּגְזֹל",
+      "translit": "tigzol",
+      "ref": "Gen.31.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִגְזְלוּ",
+      "translit": "yigzlu",
+      "ref": "Job.24.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְגָזָלוּ",
+      "translit": "vgazalu",
+      "ref": "Mic.2.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּגְזָל",
+      "translit": "tigzal",
+      "ref": "Prov.22.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "גּוֹזֵל",
+      "translit": "gozel",
+      "ref": "Prov.28.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "גָּזוּל",
+      "translit": "gazul",
+      "ref": "Deut.28.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְלִגְזֹל",
+      "translit": "vligzol",
+      "ref": "Isa.10.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְֽנִגְזְלָה",
+      "translit": "vnigzlah",
+      "ref": "Prov.4.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be robbed"
+ },
+ "root": "גזל",
+ "search_match": [
+  "1497",
+  "h1497",
+  "tear away",
+  "gazal",
+  "גזל"
+ ],
+ "citation_translit": "gazal"
+}

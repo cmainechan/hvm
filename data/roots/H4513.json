@@ -1,0 +1,196 @@
+{
+ "glosses": [
+  "withhold"
+ ],
+ "strong": "H4513",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "מָנַע",
+      "translit": "mana",
+      "ref": "Gen.30.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "מָנַעְתָּ",
+      "translit": "manata",
+      "ref": "Neh.9.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "מָנַעְתִּי",
+      "translit": "manati",
+      "ref": "1Kgs.20.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "מָנְעוּ",
+      "translit": "manu",
+      "ref": "Jer.5.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָֽאֶמְנַע",
+      "translit": "va'emna",
+      "ref": "Ezek.31.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִמְנַע",
+      "translit": "yimna",
+      "ref": "Ps.84.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּֽמְנַֽע",
+      "translit": "timna",
+      "ref": "Job.22.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶמְנַע",
+      "translit": "emna",
+      "ref": "Jer.42.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "מְנַע",
+      "translit": "mna",
+      "ref": "Prov.1.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "מִנְעִי",
+      "translit": "min'i",
+      "ref": "Jer.2.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּמְנַע",
+      "translit": "timna",
+      "ref": "Prov.23.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֹנֵעַ",
+      "translit": "monea",
+      "ref": "Jer.48.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִמְנַע",
+      "translit": "nimna",
+      "ref": "Joel.1.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּמָּנְעוּ",
+      "translit": "vayyimmanu",
+      "ref": "Jer.3.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיִמָּנַע",
+      "translit": "vyimmana",
+      "ref": "Job.38.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִמָּנַע",
+      "translit": "timmana",
+      "ref": "Num.22.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be withheld"
+ },
+ "root": "מנע",
+ "search_match": [
+  "4513",
+  "h4513",
+  "withhold",
+  "mana",
+  "מנע"
+ ],
+ "citation_translit": "mana"
+}

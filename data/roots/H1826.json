@@ -1,0 +1,221 @@
+{
+ "glosses": [
+  "be silent; be struck dumb"
+ ],
+ "strong": "H1826",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "דָמּוּ",
+      "translit": "dammu",
+      "ref": "Job.30.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּדֹּם",
+      "translit": "vayyiddom",
+      "ref": "Josh.10.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶדֹּם",
+      "translit": "va'eddom",
+      "ref": "Job.31.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִדֹּם",
+      "translit": "yiddom",
+      "ref": "Amos.5.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִּדֹּמִּי",
+      "translit": "tiddommi",
+      "ref": "Jer.48.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִדְּמוּ",
+      "translit": "yiddmu",
+      "ref": "Exod.15.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "דֹּם",
+      "translit": "dom",
+      "ref": "Ezek.24.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "דּוֹמִּי",
+      "translit": "dommi",
+      "ref": "Ps.62.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "דֹּמּוּ",
+      "translit": "dommu",
+      "ref": "1Sam.14.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיִדֹּם",
+      "translit": "vyiddom",
+      "ref": "Lam.3.28",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּדֹּם",
+      "translit": "tiddom",
+      "ref": "Lam.2.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְנִדְּמָה",
+      "translit": "vniddmah",
+      "ref": "Jer.8.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִדָּמּוּ",
+      "translit": "yiddammu",
+      "ref": "1Sam.2.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנָדַמּוּ",
+      "translit": "vnadammu",
+      "ref": "Jer.25.37",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּדַּמּוּ",
+      "translit": "tiddammu",
+      "ref": "Jer.51.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֲדִמָּנוּ",
+      "translit": "hadimmanu",
+      "ref": "Jer.8.14",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "polel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְדוֹמַמְתִּי",
+      "translit": "vdomamti",
+      "ref": "Ps.131.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be silenced; be destroyed",
+  "hiphil": "make silent; cause to perish",
+  "polel": "make quiet, compose (oneself)"
+ },
+ "root": "דמם",
+ "search_match": [
+  "1826",
+  "h1826",
+  "be silent",
+  "damam",
+  "דמם"
+ ],
+ "citation_translit": "damam"
+}

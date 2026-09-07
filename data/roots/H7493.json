@@ -1,0 +1,192 @@
+{
+ "glosses": [
+  "quake"
+ ],
+ "strong": "H7493",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "רָעֲשָׁה",
+      "translit": "ra'ashah",
+      "ref": "Jer.49.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "רָעֲשׁוּ",
+      "translit": "ra'ashu",
+      "ref": "Joel.2.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּרְעַשׁ",
+      "translit": "vattir'ash",
+      "ref": "2Sam.22.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּרְעֲשׁוּ",
+      "translit": "vayyir'ashu",
+      "ref": "Isa.24.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִרְעַשׁ",
+      "translit": "yir'ash",
+      "ref": "Ps.72.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּרְעַשׁ",
+      "translit": "tir'ash",
+      "ref": "Jer.10.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִרְעֲשׁוּ",
+      "translit": "yir'ashu",
+      "ref": "Ezek.26.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תִּרְעַשְׁנָה",
+      "translit": "tir'ashnah",
+      "ref": "Ezek.26.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְרָעֲשׁוּ",
+      "translit": "vra'ashu",
+      "ref": "Ezek.38.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "רֹעֲשִׁים",
+      "translit": "ro'ashim",
+      "ref": "Jer.4.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נִרְעֲשָׁה",
+      "translit": "nir'ashah",
+      "ref": "Jer.50.46",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִרְעַשְׁתָּה",
+      "translit": "hir'ashtah",
+      "ref": "Ps.60.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הִרְעַשְׁתִּי",
+      "translit": "hir'ashti",
+      "ref": "Ezek.31.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הְֽתַרְעִישֶׁנּוּ",
+      "translit": "htar'ishennu",
+      "ref": "Job.39.20",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַרְעִישׁ",
+      "translit": "mar'ish",
+      "ref": "Hag.2.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be made to quake",
+  "hiphil": "cause to quake; cause to leap"
+ },
+ "root": "רעש",
+ "search_match": [
+  "7493",
+  "h7493",
+  "quake",
+  "ra'ash",
+  "רעש"
+ ],
+ "citation_translit": "ra'ash"
+}

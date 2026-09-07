@@ -1,0 +1,190 @@
+{
+ "glosses": [
+  "overflow; wash off"
+ ],
+ "strong": "H7857",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שָׁטַף",
+      "translit": "shataf",
+      "ref": "Isa.8.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "שְׁטָפָֽתְנִי",
+      "translit": "shtafatni",
+      "ref": "Ps.69.3",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שְׁטָפוּנוּ",
+      "translit": "shtafunu",
+      "ref": "Ps.124.4",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּשְׁטֹף",
+      "translit": "vayyishtof",
+      "ref": "1Kgs.22.38",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶשְׁטֹף",
+      "translit": "va'eshtof",
+      "ref": "Ezek.16.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשְׁטוֹף",
+      "translit": "yishtof",
+      "ref": "Dan.11.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּשְׁטֹֽף",
+      "translit": "tishtof",
+      "ref": "Job.14.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשְׁטֹֽפוּ",
+      "translit": "yishtofu",
+      "ref": "Isa.28.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְשָׁטַף",
+      "translit": "vshataf",
+      "ref": "Dan.11.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּשְׁטְפֵנִי",
+      "translit": "tishtfeni",
+      "ref": "Ps.69.16",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "שׁוֹטֵף",
+      "translit": "shotef",
+      "ref": "Ezek.13.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "שֹׁטְפִים",
+      "translit": "shotfim",
+      "ref": "Isa.28.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשָּׁטֵף",
+      "translit": "yisshatef",
+      "ref": "Lev.15.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשָּׁטְפוּ",
+      "translit": "yisshatfu",
+      "ref": "Dan.11.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְשֻׁטַּף",
+      "translit": "vshuttaf",
+      "ref": "Lev.6.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be swept away",
+  "pual": "be rinsed"
+ },
+ "root": "שטף",
+ "search_match": [
+  "7857",
+  "h7857",
+  "overflow",
+  "shataf",
+  "שטף"
+ ],
+ "citation_translit": "shataf"
+}

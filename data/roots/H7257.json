@@ -1,0 +1,208 @@
+{
+ "glosses": [
+  "lie down"
+ ],
+ "strong": "H7257",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "רָבַץ",
+      "translit": "ravatz",
+      "ref": "Gen.49.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "רָבָצָה",
+      "translit": "ravatzah",
+      "ref": "Ezek.19.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּרְבַּץ",
+      "translit": "vattirbatz",
+      "ref": "Num.22.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִרְבָּץ",
+      "translit": "yirbatz",
+      "ref": "Isa.11.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִרְבְּצוּ",
+      "translit": "yirbtzu",
+      "ref": "Isa.11.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תִּרְבַּצְנָה",
+      "translit": "tirbatznah",
+      "ref": "Ezek.34.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְרָבְצָה",
+      "translit": "vravtzah",
+      "ref": "Deut.29.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְֽרָבַצְתָּ",
+      "translit": "vravatzta",
+      "ref": "Job.11.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְרָבְצוּ",
+      "translit": "vravtzu",
+      "ref": "Isa.13.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "רֹבֵץ",
+      "translit": "rovetz",
+      "ref": "Exod.23.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "רֹבֶצֶת",
+      "translit": "rovetzet",
+      "ref": "Deut.22.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "רֹבְצִים",
+      "translit": "rovtzim",
+      "ref": "Gen.29.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַרְבִּיצֵנִי",
+      "translit": "yarbitzeni",
+      "ref": "Ps.23.2",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּרְבִּיץ",
+      "translit": "tarbitz",
+      "ref": "Song.1.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַרְבִּיצֵם",
+      "translit": "arbitzem",
+      "ref": "Ezek.34.15",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַרְבִּצוּ",
+      "translit": "yarbitzu",
+      "ref": "Isa.13.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַרְבִּיץ",
+      "translit": "marbitz",
+      "ref": "Isa.54.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַרְבִּצִים",
+      "translit": "marbitzim",
+      "ref": "Jer.33.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "cause to lie down"
+ },
+ "root": "רבץ",
+ "search_match": [
+  "7257",
+  "h7257",
+  "lie down (ravatz)",
+  "ravatz",
+  "רבץ"
+ ],
+ "citation_translit": "ravatz"
+}
