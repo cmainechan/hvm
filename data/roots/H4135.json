@@ -6,6 +6,7 @@
  "stems": {
   "qal": {
    "sense_hint": "simple",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -93,6 +94,7 @@
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -184,6 +186,7 @@
   },
   "hiphil": {
    "sense_hint": "causative",
+   "gloss_verified": true,
    "forms": {
     "yiqtol": [
      {
@@ -200,6 +203,7 @@
   },
   "hitpael": {
    "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
    "forms": {
     "yiqtol": [
      {
@@ -216,6 +220,7 @@
   },
   "poel": {
    "sense_hint": "intensive",
+   "gloss_verified": true,
    "forms": {
     "yiqtol": [
      {
@@ -233,7 +238,7 @@
  },
  "stem_glosses": {
   "niphal": "be circumcised",
-  "hiphil": "cause to be circumcised",
+  "hiphil": "cut off, destroy",
   "hitpael": "be cut off",
   "poel": "wither"
  },
