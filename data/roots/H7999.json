@@ -49,7 +49,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_verified": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -252,7 +253,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_verified": true
   },
   "pual": {
    "sense_hint": "passive-intensive",
@@ -279,7 +281,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_verified": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -353,7 +356,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_verified": true
   },
   "hophal": {
    "sense_hint": "passive-causative",
@@ -369,11 +373,12 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_verified": true
   }
  },
  "stem_glosses": {
-  "piel": "repay",
+  "piel": "repay; complete, finish",
   "pual": "be made whole; be devoted",
   "hiphil": "make peace",
   "hophal": "be at peace"
