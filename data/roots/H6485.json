@@ -6,6 +6,7 @@
  "stems": {
   "qal": {
    "sense_hint": "simple",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -263,6 +264,7 @@
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -372,6 +374,7 @@
   },
   "piel": {
    "sense_hint": "intensive",
+   "gloss_verified": true,
    "forms": {
     "participle_active": [
      {
@@ -388,6 +391,7 @@
   },
   "pual": {
    "sense_hint": "passive-intensive",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -413,6 +417,7 @@
   },
   "hiphil": {
    "sense_hint": "causative",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -538,6 +543,7 @@
   },
   "hophal": {
    "sense_hint": "passive-causative",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -565,6 +571,7 @@
   },
   "hitpael": {
    "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -602,7 +609,7 @@
  },
  "stem_glosses": {
   "niphal": "be missing; be mustered",
-  "piel": "appoint",
+  "piel": "muster",
   "hiphil": "appoint",
   "hophal": "be appointed",
   "pual": "be mustered; be numbered",
