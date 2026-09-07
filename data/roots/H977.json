@@ -275,10 +275,28 @@
     ]
    },
    "gloss_verified": true
+  },
+  "qal_passive": {
+   "sense_hint": "passive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "בָחוּר",
+      "translit": "vachur",
+      "ref": "Jer.49.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
-  "niphal": "be chosen"
+  "niphal": "be chosen",
+  "qal_passive": "chosen"
  },
  "root": "בחר",
  "search_match": [

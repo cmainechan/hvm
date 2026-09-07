@@ -276,11 +276,56 @@
      }
     ]
    }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִבְלַע",
+      "translit": "nivla",
+      "ref": "Hos.8.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִבְלְעוּ",
+      "translit": "nivle'u",
+      "ref": "Isa.28.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּתְבַּלָּֽע",
+      "translit": "titballa",
+      "ref": "Ps.107.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "piel": "swallow up",
-  "pual": "be swallowed up"
+  "pual": "be swallowed up",
+  "niphal": "be swallowed up",
+  "hitpael": "be swallowed up"
  },
  "root": "בלע",
  "search_match": [

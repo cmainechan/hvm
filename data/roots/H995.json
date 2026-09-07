@@ -529,13 +529,31 @@
      }
     ]
    }
+  },
+  "polel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְבוֹנְנֵהוּ",
+      "translit": "yvonnehu",
+      "ref": "Deut.32.10",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "hiphil": "teach; understand, perceive",
   "niphal": "be discerning",
   "hitpael": "consider attentively",
-  "hithpolel": "consider attentively"
+  "hithpolel": "consider attentively",
+  "polel": "instruct"
  },
  "root": "בין",
  "search_match": [
