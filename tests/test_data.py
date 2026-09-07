@@ -25,7 +25,7 @@ sys.path.insert(0, str(ROOT / "pipeline"))
 sys.path.insert(0, str(ROOT / "scripts"))
 
 REQUIRED_ROOT_FIELDS = {"glosses", "strong", "stems", "root", "search_match", "citation_translit"}
-OPTIONAL_ROOT_FIELDS = {"stem_glosses", "strong_alt", "notes"}
+OPTIONAL_ROOT_FIELDS = {"stem_glosses", "strong_alt", "notes", "stem_coverage_checked"}
 REQUIRED_FORM_ROW_FIELDS = {"code", "label", "heb", "translit", "ref", "has_suffix", "has_prefix"}
 VALID_CATEGORIES = {
     "perfect", "wayyiqtol", "veqatal", "yiqtol", "imperative",
