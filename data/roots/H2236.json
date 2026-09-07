@@ -1,11 +1,12 @@
 {
  "glosses": [
-  "scatter"
+  "sprinkle, dash, throw; scatter"
  ],
  "strong": "H2236",
  "stems": {
   "qal": {
    "sense_hint": "simple",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -151,6 +152,7 @@
   },
   "qal_passive": {
    "sense_hint": "passive",
+   "gloss_verified": true,
    "forms": {
     "perfect": [
      {
@@ -174,6 +176,9 @@
   "2236",
   "h2236",
   "scatter (zaraq)",
+  "sprinkle",
+  "dash",
+  "throw",
   "zaraq",
   "זרק"
  ],
