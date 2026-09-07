@@ -132,10 +132,77 @@
      }
     ]
    }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְמֻנִּים",
+      "translit": "mmunnim",
+      "ref": "1Chr.9.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִמָּנֽוֹת",
+      "translit": "lhimmanot",
+      "ref": "Eccl.1.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִמְנָה",
+      "translit": "nimnah",
+      "ref": "Isa.53.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִמָּנוּ",
+      "translit": "yimmanu",
+      "ref": "1Kgs.8.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִמָּנֶה",
+      "translit": "yimmaneh",
+      "ref": "1Kgs.3.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
-  "piel": "appoint"
+  "piel": "appoint",
+  "pual": "be appointed",
+  "niphal": "be counted, numbered"
  },
  "root": "מנה",
  "search_match": [

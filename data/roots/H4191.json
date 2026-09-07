@@ -703,11 +703,102 @@
      }
     ]
    }
+  },
+  "polel": {
+   "sense_hint": "intensive (causative)",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּמֹתְתֵנִי",
+      "translit": "umotteni",
+      "ref": "2Sam.1.9",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְמוֹתֵֽת",
+      "translit": "lmotet",
+      "ref": "Ps.109.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְמוֹתֵת",
+      "translit": "mmotet",
+      "ref": "1Sam.14.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "מֹתַתִּי",
+      "translit": "motati",
+      "ref": "2Sam.1.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "מוֹתְתַנִי",
+      "translit": "mottani",
+      "ref": "Jer.20.17",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וַאֲמֹתְתֵהוּ",
+      "translit": "va'amottehu",
+      "ref": "2Sam.1.10",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְמֹתְתֵהוּ",
+      "translit": "vaymottehu",
+      "ref": "1Sam.17.51",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּמוֹתֵת",
+      "translit": "tmotet",
+      "ref": "Ps.34.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "hiphil": "kill",
-  "hophal": "be put to death"
+  "hophal": "be put to death",
+  "polel": "kill"
  },
  "root": "מות",
  "search_match": [

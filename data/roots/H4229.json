@@ -258,11 +258,29 @@
      }
     ]
    }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְמֻחָיִם",
+      "translit": "mmuchayim",
+      "ref": "Isa.25.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "niphal": "be blotted out",
-  "hiphil": "blot out (from memory)"
+  "hiphil": "blot out (from memory)",
+  "pual": "be full of marrow"
  },
  "root": "מחה",
  "search_match": [

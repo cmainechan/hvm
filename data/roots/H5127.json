@@ -311,10 +311,46 @@
      }
     ]
    }
+  },
+  "polel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נֹסְסָה",
+      "translit": "nossah",
+      "ref": "Isa.59.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִתְנוֹסֵס",
+      "translit": "lhitnoses",
+      "ref": "Ps.60.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
-  "hiphil": "put to flight"
+  "hiphil": "put to flight",
+  "polel": "raise (a standard)",
+  "hithpolel": "be displayed (as a banner)"
  },
  "root": "נוס",
  "search_match": [

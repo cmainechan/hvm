@@ -174,11 +174,29 @@
      }
     ]
    }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּתְמֹדֵד",
+      "translit": "vayyitmoded",
+      "ref": "1Kgs.17.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "niphal": "be measured",
-  "piel": "measure"
+  "piel": "measure",
+  "hithpolel": "stretch oneself"
  },
  "root": "מדד",
  "search_match": [

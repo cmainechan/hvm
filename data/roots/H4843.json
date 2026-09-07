@@ -118,11 +118,40 @@
      }
     ]
    }
+  },
+  "hithpalpel": {
+   "sense_hint": "reflexive/reciprocal (reduplicated intensive)",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּתְמַרְמַר",
+      "translit": "vayyitmarmar",
+      "ref": "Dan.8.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיִתְמַרְמַר",
+      "translit": "vyitmarmar",
+      "ref": "Dan.11.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "piel": "make bitter",
-  "hiphil": "deal bitterly (with)"
+  "hiphil": "deal bitterly (with)",
+  "hithpalpel": "be embittered, enraged"
  },
  "root": "מרר",
  "search_match": [

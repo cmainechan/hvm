@@ -578,12 +578,63 @@
      }
     ]
    }
+  },
+  "qal_passive": {
+   "sense_hint": "passive",
+   "gloss_verified": true,
+   "forms": {
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֻקַּֽח",
+      "translit": "yuqqach",
+      "ref": "Gen.18.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "לֻקָּח",
+      "translit": "luqqach",
+      "ref": "2Kgs.2.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתֻּקַּח",
+      "translit": "vattuqqach",
+      "ref": "Gen.12.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֻקָּח",
+      "translit": "yuqqach",
+      "ref": "Job.28.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "hitpael": "catch fire",
   "niphal": "be taken",
-  "pual": "be taken"
+  "pual": "be taken",
+  "qal_passive": "be taken"
  },
  "root": "לקח",
  "search_match": [
