@@ -47,7 +47,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_verified": true
   },
   "qal": {
    "sense_hint": "simple",
@@ -63,8 +64,12 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_verified": true
   }
+ },
+ "stem_glosses": {
+  "qal": "scrutinize, view, inspect"
  },
  "root": "שבר³",
  "search_match": [
