@@ -233,10 +233,81 @@
      }
     ]
    }
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "גֹרֵשׁ",
+      "translit": "goresh",
+      "ref": "Exod.34.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "גְּרוּשָׁה",
+      "translit": "grushah",
+      "ref": "Lev.21.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּגְרְשׁוּ",
+      "translit": "vayyigrshu",
+      "ref": "Isa.57.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "form_glosses": {
+    "participle_passive": "divorced (woman)"
+   }
+  },
+  "pual": {
+   "sense_hint": "passive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "גֹרְשׁוּ",
+      "translit": "gorshu",
+      "ref": "Exod.12.39",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְגֹרָשׁוּ",
+      "translit": "ygorashu",
+      "ref": "Job.30.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
-  "niphal": "be driven out; be tossed"
+  "niphal": "be driven out; be tossed",
+  "pual": "be driven out"
  },
  "root": "גרש",
  "search_match": [

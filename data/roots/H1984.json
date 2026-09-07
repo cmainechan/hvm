@@ -464,13 +464,100 @@
      }
     ]
    }
+  },
+  "poel": {
+   "sense_hint": "intensive (causative)",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְהוֹלֵל",
+      "translit": "yholel",
+      "ref": "Eccl.7.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּתְהֹלֵל",
+      "translit": "vayyitholel",
+      "ref": "1Sam.21.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִתְהֹלָלוּ",
+      "translit": "vhitholalu",
+      "ref": "Jer.25.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהִתְהֹלְלוּ",
+      "translit": "vhitholelu",
+      "ref": "Jer.46.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתְהוֹלְלוּ",
+      "translit": "yitholelu",
+      "ref": "Nah.2.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "poal": {
+   "sense_hint": "passive (intensive)",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְהוֹלָל",
+      "translit": "mholal",
+      "ref": "Eccl.2.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "hiphil": "shine, give light",
   "hitpael": "boast",
   "piel": "praise",
-  "pual": "be praised"
+  "pual": "be praised",
+  "poel": "make mad; make foolish",
+  "hithpolel": "act like a madman; rage",
+  "poal": "be foolish, mad"
  },
  "root": "הלל",
  "search_match": [

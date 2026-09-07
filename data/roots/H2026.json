@@ -382,11 +382,29 @@
      }
     ]
    }
+  },
+  "qal_passive": {
+   "sense_hint": "passive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "הֹרַגְנוּ",
+      "translit": "horagnu",
+      "ref": "Ps.44.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
   "niphal": "be killed",
-  "pual": "be killed"
+  "pual": "be killed",
+  "qal_passive": "be killed"
  },
  "root": "הרג",
  "search_match": [

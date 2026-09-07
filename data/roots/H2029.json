@@ -117,10 +117,28 @@
      }
     ]
    }
+  },
+  "poel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הֹרוֹ",
+      "translit": "horo",
+      "ref": "Isa.59.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
-  "pual": "be conceived"
+  "pual": "be conceived",
+  "poel": "conceive"
  },
  "root": "הרה",
  "search_match": [
