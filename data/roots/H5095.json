@@ -1,0 +1,88 @@
+{
+ "glosses": [
+  "guide (to water); sustain"
+ ],
+ "strong": "H5095",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נֵהַלְתָּ",
+      "translit": "nehalta",
+      "ref": "Exod.15.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְנַהֵֽל",
+      "translit": "ynahel",
+      "ref": "Isa.40.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיְנַהֲלוּם",
+      "translit": "vaynahalum",
+      "ref": "2Chr.28.15",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְנַהֵל",
+      "translit": "mnahel",
+      "ref": "Isa.51.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶֽתְנָהֲלָה",
+      "translit": "etnahalah",
+      "ref": "Gen.33.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hitpael": "go on; journey by stages"
+ },
+ "root": "נהל",
+ "search_match": [
+  "5095",
+  "h5095",
+  "guide (to water); sustain",
+  "nahal",
+  "נהל"
+ ],
+ "citation_translit": "nahal",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,99 @@
+{
+ "glosses": [
+  "be in a hurry; be alarmed"
+ ],
+ "strong": "H2648",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחְפּוֹז",
+      "translit": "yachpoz",
+      "ref": "Job.40.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּחְפְּזוּ",
+      "translit": "tachpzu",
+      "ref": "Deut.20.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְּחָפְזָם",
+      "translit": "bchafzam",
+      "ref": "2Kgs.7.15",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נֶחְפָּֽזוּ",
+      "translit": "nechpazu",
+      "ref": "Ps.48.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֵחָפֵזֽוּן",
+      "translit": "yechafezun",
+      "ref": "Ps.104.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֶחְפָּז",
+      "translit": "nechpaz",
+      "ref": "1Sam.23.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "hurry away in alarm"
+ },
+ "root": "חפז",
+ "search_match": [
+  "2648",
+  "h2648",
+  "be in a hurry; be alarmed",
+  "chafaz",
+  "חפז"
+ ],
+ "citation_translit": "chafaz",
+ "stem_coverage_checked": true
+}

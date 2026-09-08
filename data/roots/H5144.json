@@ -1,0 +1,99 @@
+{
+ "glosses": [
+  "dedicate oneself"
+ ],
+ "strong": "H5144",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיִנָּזֵר",
+      "translit": "vyinnazer",
+      "ref": "Ezek.14.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּנָּֽזְרוּ",
+      "translit": "vayyinnazru",
+      "ref": "Hos.9.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִנָּזֵר",
+      "translit": "hinnazer",
+      "ref": "Zech.7.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהִזַּרְתֶּם",
+      "translit": "vhizzartem",
+      "ref": "Lev.15.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַזִּיר",
+      "translit": "yazzir",
+      "ref": "Num.6.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַזִּיר",
+      "translit": "lhazzir",
+      "ref": "Num.6.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "keep sacredly separate; be a Nazirite"
+ },
+ "root": "נזר",
+ "search_match": [
+  "5144",
+  "h5144",
+  "dedicate oneself",
+  "nazar",
+  "נזר"
+ ],
+ "citation_translit": "nazar",
+ "stem_coverage_checked": true
+}

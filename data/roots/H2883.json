@@ -1,0 +1,98 @@
+{
+ "glosses": [
+  "sink down"
+ ],
+ "strong": "H2883",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "טָבְעוּ",
+      "translit": "tavu",
+      "ref": "Lam.2.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּטְבַּע",
+      "translit": "vattitba",
+      "ref": "1Sam.17.49",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶטְבָּעָה",
+      "translit": "etba'ah",
+      "ref": "Ps.69.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "טֻבְּעוּ",
+      "translit": "tubbu",
+      "ref": "Exod.15.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הָטְבְּעוּ",
+      "translit": "hatbu",
+      "ref": "Jer.38.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be sunk",
+  "hophal": "be sunk; be settled"
+ },
+ "notes": [
+  "Requested stem \"hiphil\" (gloss \"be sunk; be settled\") is passive in meaning, which doesn't fit an active hiphil -- the actually-attested stem for this sense is hophal (3 forms, e.g. Jer.38.22 \"thy feet are sunk in the mire\"; Prov.8.25 \"before the mountains were settled\"). Shipped as hophal."
+ ],
+ "root": "טבע",
+ "search_match": [
+  "2883",
+  "h2883",
+  "sink down (tava)",
+  "tava",
+  "טבע"
+ ],
+ "citation_translit": "tava",
+ "stem_coverage_checked": true
+}

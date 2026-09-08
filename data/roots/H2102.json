@@ -1,0 +1,77 @@
+{
+ "glosses": [
+  "act presumptuously"
+ ],
+ "strong": "H2102",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "זָדוּ",
+      "translit": "zadu",
+      "ref": "Exod.18.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֵזִידוּ",
+      "translit": "hezidu",
+      "ref": "Neh.9.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְזִידוּן",
+      "translit": "yzidun",
+      "ref": "Deut.17.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַתָּזִדוּ",
+      "translit": "vattazidu",
+      "ref": "Deut.1.43",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "seethe; act presumptuously"
+ },
+ "root": "זוד",
+ "search_match": [
+  "2102",
+  "h2102",
+  "act presumptuously",
+  "zud",
+  "זוד"
+ ],
+ "citation_translit": "zud",
+ "stem_coverage_checked": true
+}

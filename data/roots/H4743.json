@@ -1,0 +1,88 @@
+{
+ "glosses": [
+  "fester (of wounds); rot"
+ ],
+ "strong": "H4743",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָמַקּוּ",
+      "translit": "namaqqu",
+      "ref": "Ps.38.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּנְמַקֹּתֶם",
+      "translit": "unmaqqotem",
+      "ref": "Ezek.24.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִמַּקּוּ",
+      "translit": "yimmaqqu",
+      "ref": "Lev.26.39",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נְמַקִּים",
+      "translit": "nmaqqim",
+      "ref": "Ezek.33.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הָמֵק",
+      "translit": "hameq",
+      "ref": "Zech.14.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "cause to rot"
+ },
+ "root": "מקק",
+ "search_match": [
+  "4743",
+  "h4743",
+  "fester (of wounds); rot",
+  "maqaq",
+  "מקק"
+ ],
+ "citation_translit": "maqaq",
+ "stem_coverage_checked": true
+}

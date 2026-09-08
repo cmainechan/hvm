@@ -1,0 +1,124 @@
+{
+ "glosses": [
+  "go down"
+ ],
+ "strong": "H5181",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵחַת",
+      "translit": "yechat",
+      "ref": "Jer.21.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּנְחַת",
+      "translit": "vattinchat",
+      "ref": "Ps.38.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִחֲתוּ",
+      "translit": "nichatu",
+      "ref": "Ps.38.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֵחַתּוּ",
+      "translit": "yechattu",
+      "ref": "1Sam.2.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִחַת",
+      "translit": "vnichat",
+      "ref": "2Sam.22.35",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "נַחֵת",
+      "translit": "nachet",
+      "ref": "Ps.65.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַֽנְחַת",
+      "translit": "hanchat",
+      "ref": "Joel.4.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "come down into; penetrate (arrows)",
+  "piel": "press down; stretch (a bow)",
+  "hiphil": "bring down; prostrate"
+ },
+ "root": "נחת",
+ "search_match": [
+  "5181",
+  "h5181",
+  "go down (nachat)",
+  "nachat",
+  "נחת"
+ ],
+ "citation_translit": "nachat",
+ "stem_coverage_checked": true
+}

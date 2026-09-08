@@ -1,0 +1,46 @@
+{
+ "glosses": [
+  "awake; be aroused"
+ ],
+ "strong": "H3364",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיִקָֽץ",
+      "translit": "vyiqatz",
+      "ref": "1Kgs.18.27",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּקַץ",
+      "translit": "vayyiqatz",
+      "ref": "1Kgs.3.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "יקץ",
+ "search_match": [
+  "3364",
+  "h3364",
+  "awake; be aroused",
+  "yaqatz",
+  "יקץ"
+ ],
+ "citation_translit": "yaqatz",
+ "stem_coverage_checked": true
+}

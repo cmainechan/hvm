@@ -1,0 +1,80 @@
+{
+ "glosses": [
+  "be hot; be warm; conceive (of livestock)"
+ ],
+ "strong": "H3179",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִחַם",
+      "translit": "yicham",
+      "ref": "1Kgs.1.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וַיֵּחַמְנָה",
+      "translit": "vayyechamnah",
+      "ref": "Gen.30.38",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "יֶֽחֱמַתְנִי",
+      "translit": "yechematni",
+      "ref": "Ps.51.7",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "יַחֵם",
+      "translit": "yachem",
+      "ref": "Gen.30.41",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "conceive (of livestock)"
+ },
+ "notes": [
+  "Qal is an attested-but-unrequested stem beyond the requested piel -- its 6 citations split between a general \"be hot; be warm\" sense (1Kgs.1.1, \"he gat no heat\"; Deut.19.6; Eccl.4.11; Ezek.24.11) and the same \"conceive/be in heat (of livestock)\" sense already requested for piel (Gen.30.38-39, the flocks conceiving before Jacob's rods -- the same narrative piel also describes from Jacob's active-breeding angle). Matches the lexicon (\"probably to be hot; figuratively, to conceive\"). Included."
+ ],
+ "root": "יחם",
+ "search_match": [
+  "3179",
+  "h3179",
+  "be hot; be warm; conceive (of livestock)",
+  "yacham",
+  "יחם"
+ ],
+ "citation_translit": "yacham",
+ "stem_coverage_checked": true
+}

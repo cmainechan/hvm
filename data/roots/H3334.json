@@ -1,0 +1,70 @@
+{
+ "glosses": [
+  "be in straits"
+ ],
+ "strong": "H3334",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תֵּצְרִי",
+      "translit": "tetzri",
+      "ref": "Isa.49.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתֵּצֶר",
+      "translit": "vattetzer",
+      "ref": "1Sam.30.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּצֵרוּ",
+      "translit": "vayyatzeru",
+      "ref": "Neh.9.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "cause distress; oppress"
+ },
+ "notes": [
+  "Root-key split: this root (יצר, \"to press (intransitive), i.e. be narrow; figuratively, be in distress\") is spelled identically to the existing יצר \"to form\" (H3335, \"to mould into a form; especially as a potter\") but is a wholly separate historical root/meaning, same convention as חפר¹/² and גאל¹/². This root (the lower Strong's number) is יצר¹; H3335 has been retroactively relabeled יצר² (no other field touched).",
+  "Hiphil is an attested-but-unrequested stem beyond the requested qal -- its sole citation (Neh.9.27, \"and thou gavest them into the hand of their enemies, who distressed them\") is the natural causative of qal's \"be in distress\" (cause distress = oppress). Included."
+ ],
+ "root": "יצר¹",
+ "search_match": [
+  "3334",
+  "h3334",
+  "be in straits",
+  "yatzar",
+  "יצר¹"
+ ],
+ "citation_translit": "yatzar",
+ "stem_coverage_checked": true
+}
