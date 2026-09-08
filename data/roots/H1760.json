@@ -1,0 +1,117 @@
+{
+ "glosses": [
+  "push; thrust (violently)"
+ ],
+ "strong": "H1760",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "דְחִיתַנִי",
+      "translit": "dchitani",
+      "ref": "Ps.118.13",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "דּוֹחֶֽה",
+      "translit": "docheh",
+      "ref": "Ps.35.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "הַדְּחוּיָֽה",
+      "translit": "haddchuyah",
+      "ref": "Ps.62.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "דַּחֹה",
+      "translit": "dachoh",
+      "ref": "Ps.118.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִדְחוֹת",
+      "translit": "lidchot",
+      "ref": "Ps.140.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִדַּחוּ",
+      "translit": "yiddachu",
+      "ref": "Jer.23.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "דֹּחוּ",
+      "translit": "dochu",
+      "ref": "Ps.36.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be thrust; cast down",
+  "pual": "be thrust down"
+ },
+ "root": "דחה",
+ "search_match": [
+  "1760",
+  "h1760",
+  "push; thrust (violently)",
+  "dachah",
+  "דחה"
+ ],
+ "citation_translit": "dachah",
+ "stem_coverage_checked": true
+}

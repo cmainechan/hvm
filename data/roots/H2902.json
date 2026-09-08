@@ -1,0 +1,88 @@
+{
+ "glosses": [
+  "coat; overlay (with clay/gold)"
+ ],
+ "strong": "H2902",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "טַחְתֶּֽם",
+      "translit": "tachtem",
+      "ref": "Ezek.13.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְטָח",
+      "translit": "vtach",
+      "ref": "Lev.14.42",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "טָחִים",
+      "translit": "tachim",
+      "ref": "Ezek.13.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לָטוּחַ",
+      "translit": "latucha",
+      "ref": "1Chr.29.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִטּֽוֹחַ",
+      "translit": "hittocha",
+      "ref": "Lev.14.43",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be coated"
+ },
+ "root": "טוח",
+ "search_match": [
+  "2902",
+  "h2902",
+  "coat; overlay (with clay/gold)",
+  "tuach",
+  "טוח"
+ ],
+ "citation_translit": "tuach",
+ "stem_coverage_checked": true
+}

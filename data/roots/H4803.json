@@ -1,0 +1,120 @@
+{
+ "glosses": [
+  "make bare, pluck (hair); scour"
+ ],
+ "strong": "H4803",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶמְרְטָה",
+      "translit": "va'emrtah",
+      "ref": "Ezra.9.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "לְמֹֽרְטִים",
+      "translit": "lmortim",
+      "ref": "Isa.50.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מְרוּטָֽה",
+      "translit": "mrutah",
+      "ref": "Ezek.21.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְמָרְטָה",
+      "translit": "lmartah",
+      "ref": "Ezek.21.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִמָּרֵט",
+      "translit": "yimmaret",
+      "ref": "Lev.13.40",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "מֹרָטָּה",
+      "translit": "morattah",
+      "ref": "Ezek.21.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְמֹרָֽט",
+      "translit": "mmorat",
+      "ref": "1Kgs.7.45",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be made bald",
+  "pual": "be polished; be burnished"
+ },
+ "notes": [
+  "A pual is genuinely attested directly under H4803 itself -- Ezek.21.15/21.16 (\"מֹרָטָּה\", of a sword: \"it is furbished/polished\") and 1Kgs.7.45 (\"מְמֹרָט\", of temple bronzeware: \"burnished\") -- contrary to the supplied note that the pual belongs only to a separate number H4178. H4178 is real and does have its own, textually distinct pual attestation (Isa.18.2/18.7, \"מוֹרָט\"), but the lexicon there classifies it as an unrelated adjective (\"obstinate, independent\", derived from H3399, not from מרט) that OSHB's morphological layer nonetheless tags as a pual participle by surface form -- a separate case from H4803's own genuine pual. Included H4803's pual per the standing rule of always including attested-but-unrequested stems; flagging since it contradicts the supplied note."
+ ],
+ "root": "מרט",
+ "search_match": [
+  "4803",
+  "h4803",
+  "make bare, pluck (hair); scour",
+  "marat",
+  "מרט"
+ ],
+ "citation_translit": "marat",
+ "stem_coverage_checked": true
+}

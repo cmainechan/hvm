@@ -1,0 +1,106 @@
+{
+ "glosses": [
+  "pierce"
+ ],
+ "strong": "H1856",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "דָּקָרוּ",
+      "translit": "daqaru",
+      "ref": "Zech.12.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וּדְקָרֻהוּ",
+      "translit": "udqaruhu",
+      "ref": "Zech.13.3",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּדְקֹר",
+      "translit": "vayyidqor",
+      "ref": "Num.25.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְדָקְרֵנִי",
+      "translit": "vdaqreni",
+      "ref": "1Chr.10.4",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִדָּקֵר",
+      "translit": "yiddaqer",
+      "ref": "Isa.13.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְדֻקָּרִים",
+      "translit": "mduqqarim",
+      "ref": "Jer.37.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be pierced through",
+  "pual": "pierced"
+ },
+ "root": "דקר",
+ "search_match": [
+  "1856",
+  "h1856",
+  "pierce (daqar)",
+  "daqar",
+  "דקר"
+ ],
+ "citation_translit": "daqar",
+ "stem_coverage_checked": true
+}

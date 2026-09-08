@@ -1,0 +1,98 @@
+{
+ "glosses": [
+  "cast up a highway; lift up (a song)"
+ ],
+ "strong": "H5549",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּסֹלּוּ",
+      "translit": "vayyasollu",
+      "ref": "Job.19.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "סֹֽלּוּ",
+      "translit": "sollu",
+      "ref": "Isa.57.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "סְלוּלָֽה",
+      "translit": "slulah",
+      "ref": "Jer.18.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pilpel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "סַלְסְלֶהָ",
+      "translit": "salsleha",
+      "ref": "Prov.4.8",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִסְתּוֹלֵל",
+      "translit": "mistolel",
+      "ref": "Exod.9.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pilpel": "exalt",
+  "hithpolel": "exalt oneself"
+ },
+ "notes": [
+  "Requested stem \"hithpoel\" is not what OSHB tags this root's sole matching form (Exod.9.17, מִסְתּוֹלֵל) as -- its morph code is hithpolel (stem letter 'r'), not hithpoel (stem letter 'z'). Shipped as hithpolel, the same typo-adjacent rare-stem substitution pattern used previously for pilel/pilpel; the gloss \"exalt oneself\" fits the citation (\"as yet exaltest thou thyself against my people?\") regardless of the label."
+ ],
+ "root": "סלל",
+ "search_match": [
+  "5549",
+  "h5549",
+  "cast up a highway; lift up (a song)",
+  "salal",
+  "סלל"
+ ],
+ "citation_translit": "salal",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,153 @@
+{
+ "glosses": [
+  "breathe; blow"
+ ],
+ "strong": "H5301",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נָפְחָה",
+      "translit": "nafchah",
+      "ref": "Jer.15.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְנָפַחְתִּי",
+      "translit": "vnafachti",
+      "ref": "Ezek.22.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּפַּח",
+      "translit": "vayyippach",
+      "ref": "Gen.2.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וּפְחִי",
+      "translit": "ufchi",
+      "ref": "Ezek.37.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֹפֵחַ",
+      "translit": "nofecha",
+      "ref": "Isa.54.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נָפוּחַ",
+      "translit": "nafucha",
+      "ref": "Jer.1.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לָפַֽחַת",
+      "translit": "lafachat",
+      "ref": "Ezek.22.20",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נֻפָּח",
+      "translit": "nuppach",
+      "ref": "Job.20.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הִפָּֽחְתִּי",
+      "translit": "hippachti",
+      "ref": "Job.31.39",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהִפַּחְתֶּם",
+      "translit": "vhippachtem",
+      "ref": "Mal.1.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be blown (of a fire)",
+  "hiphil": "cause to breathe out; cause to lose (life); puff/sniff (contemptuously)"
+ },
+ "notes": [
+  "Hiphil has a third attested nuance beyond the two requested: Mal.1.13 וְהִפַּחְתֶּם (\"and ye have snuffed at it\", i.e. sniffed/puffed in contempt), distinct from the causative-death sense of Job.31.39 (הִפָּֽחְתִּי, \"caused the life... to be given up\"). Included alongside the requested senses."
+ ],
+ "root": "נפח",
+ "search_match": [
+  "5301",
+  "h5301",
+  "breathe; blow",
+  "nafach",
+  "נפח"
+ ],
+ "citation_translit": "nafach",
+ "stem_coverage_checked": true
+}

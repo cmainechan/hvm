@@ -1,0 +1,90 @@
+{
+ "glosses": [
+  "keep watch"
+ ],
+ "strong": "H8245",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "שָׁקַדְתִּי",
+      "translit": "shaqadti",
+      "ref": "Jer.31.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶשְׁקֹד",
+      "translit": "eshqod",
+      "ref": "Jer.31.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּשְׁקֹד",
+      "translit": "vayyishqod",
+      "ref": "Dan.9.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "שִׁקְדוּ",
+      "translit": "shiqdu",
+      "ref": "Ezra.8.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "שֹׁקֵד",
+      "translit": "shoqed",
+      "ref": "Jer.1.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִשְׁקֹד",
+      "translit": "lishqod",
+      "ref": "Prov.8.34",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "שקד",
+ "search_match": [
+  "8245",
+  "h8245",
+  "keep watch (shaqad)",
+  "shaqad",
+  "שקד"
+ ],
+ "citation_translit": "shaqad",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,91 @@
+{
+ "glosses": [
+  "diligently seek for good"
+ ],
+ "strong": "H7836",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "שֹׁחֵֽר",
+      "translit": "shocher",
+      "ref": "Prov.11.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שִֽׁחֲרוֹ",
+      "translit": "shicharo",
+      "ref": "Prov.13.24",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְשִֽׁחֲרוּ",
+      "translit": "vshicharu",
+      "ref": "Ps.78.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּשַׁחֵר",
+      "translit": "tshacher",
+      "ref": "Job.8.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְשַׁחֵר",
+      "translit": "lshacher",
+      "ref": "Prov.7.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "seek earnestly"
+ },
+ "notes": [
+  "The lexicon's core meaning is \"properly, to dawn, i.e. be up early at any task (with the implication of earnestness); by extension, to search for\" -- most piel citations render literally \"seek early\" (Job.7.21, Ps.78.34, Isa.26.9, Hos.5.15, Prov.1.28, Job.8.5), and one (Prov.13.24, \"chasteneth him betimes\") leans on the \"be up early\" branch rather than \"seek\" as such. \"Seek earnestly\" is kept as the umbrella gloss since \"early\" and \"earnestly\" are the same idiom in this root."
+ ],
+ "root": "שחר",
+ "search_match": [
+  "7836",
+  "h7836",
+  "diligently seek for good",
+  "shachar",
+  "שחר"
+ ],
+ "citation_translit": "shachar",
+ "stem_coverage_checked": true
+}

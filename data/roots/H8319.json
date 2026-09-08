@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "hiss (as signal or in derision)"
+ ],
+ "strong": "H8319",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שָׁרְקוּ",
+      "translit": "sharqu",
+      "ref": "Ezek.27.36",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְשָׁרַק",
+      "translit": "vsharaq",
+      "ref": "Isa.5.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשְׁרֹק",
+      "translit": "yishroq",
+      "ref": "Isa.7.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "שרק",
+ "search_match": [
+  "8319",
+  "h8319",
+  "hiss (as signal or in derision)",
+  "sharaq",
+  "שרק"
+ ],
+ "citation_translit": "sharaq",
+ "stem_coverage_checked": true
+}

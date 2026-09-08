@@ -1,0 +1,88 @@
+{
+ "glosses": [
+  "be of use; minister to; cherish"
+ ],
+ "strong": "H5532",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִסְכּוֹן",
+      "translit": "yiskon",
+      "ref": "Job.15.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "סֹכֶנֶת",
+      "translit": "sokhenet",
+      "ref": "1Kgs.1.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative/experiential",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הִסְכַּנְתִּי",
+      "translit": "hiskanti",
+      "ref": "Num.22.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַסְכֶּן",
+      "translit": "hasken",
+      "ref": "Job.22.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַֽהַסְכֵּן",
+      "translit": "hahasken",
+      "ref": "Num.22.30",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "be used [to]; be familiar with"
+ },
+ "root": "סכן",
+ "search_match": [
+  "5532",
+  "h5532",
+  "be of use; minister to; cherish",
+  "sakan",
+  "סכן"
+ ],
+ "citation_translit": "sakan",
+ "stem_coverage_checked": true
+}

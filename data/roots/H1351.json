@@ -1,0 +1,134 @@
+{
+ "glosses": [
+  "pollute; desecrate"
+ ],
+ "strong": "H1351",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נְגֹאֲלוּ",
+      "translit": "ngo'alu",
+      "ref": "Isa.59.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "וְנִגְאָלָה",
+      "translit": "vnig'alah",
+      "ref": "Zeph.3.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "גֵֽאַלְנוּךָ",
+      "translit": "ge'alnukha",
+      "ref": "Mal.1.7",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיְגֹאֲלוּ",
+      "translit": "vaygo'alu",
+      "ref": "Ezra.2.62",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְגֹאָל",
+      "translit": "mgo'al",
+      "ref": "Mal.1.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶגְאָֽלְתִּי",
+      "translit": "eg'alti",
+      "ref": "Isa.63.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְגָּאַל",
+      "translit": "yitga'al",
+      "ref": "Dan.1.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be defiled; be polluted",
+  "pual": "be desecrated",
+  "hiphil": "pollute",
+  "hitpael": "defile oneself"
+ },
+ "notes": [
+  "Root-key split from H1350 (redeem): both are spelled גאל, but BDB/HALOT and this lexicon (\"rather identified with H1350, through the idea of freeing, i.e. repudiating\") treat H1350 \"redeem\" and H1351 \"soil/desecrate\" as two distinct historical roots, the same convention already applied to חפר¹/². H1350's file has been retroactively relabeled גאל¹; this root is גאל². No qal is attested for this number (matching the lexicon's own citation form being the theoretical/unattested base); piel set as the default/citation stem via DEFAULT_STEM_OVERRIDE, since it carries the dictionary's own primary active sense (\"soil, desecrate\") versus niphal's passive, which STEM_ORDER would otherwise pick first."
+ ],
+ "root": "גאל²",
+ "search_match": [
+  "1351",
+  "h1351",
+  "pollute; desecrate",
+  "ga'al",
+  "גאל²"
+ ],
+ "citation_translit": "ga'al",
+ "stem_coverage_checked": true
+}

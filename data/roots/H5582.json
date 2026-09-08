@@ -1,0 +1,68 @@
+{
+ "glosses": [
+  "support; refresh (the heart)"
+ ],
+ "strong": "H5582",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְסָעַד",
+      "translit": "vsa'ad",
+      "ref": "Prov.20.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִסְעָֽד",
+      "translit": "yis'ad",
+      "ref": "Ps.104.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "סְעָד",
+      "translit": "s'ad",
+      "ref": "Judg.19.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּֽלְסַעֲדָהּ",
+      "translit": "ulsa'adahh",
+      "ref": "Isa.9.6",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "סעד",
+ "search_match": [
+  "5582",
+  "h5582",
+  "support; refresh (the heart)",
+  "sa'ad",
+  "סעד"
+ ],
+ "citation_translit": "sa'ad",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,99 @@
+{
+ "glosses": [
+  "be strong; prevail"
+ ],
+ "strong": "H5810",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָעֽוֹז",
+      "translit": "yaoz",
+      "ref": "Dan.11.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתָּעָז",
+      "translit": "vatta'az",
+      "ref": "Judg.3.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָעֹז",
+      "translit": "ya'oz",
+      "ref": "Ps.9.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "עוּזָּה",
+      "translit": "uzzah",
+      "ref": "Ps.68.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לָעוֹז",
+      "translit": "laoz",
+      "ref": "Isa.30.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֵעֵז",
+      "translit": "he'ez",
+      "ref": "Prov.21.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "make firm; strengthen"
+ },
+ "root": "עזז",
+ "search_match": [
+  "5810",
+  "h5810",
+  "be strong; prevail",
+  "azaz",
+  "עזז"
+ ],
+ "citation_translit": "azaz",
+ "stem_coverage_checked": true
+}

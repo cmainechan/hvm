@@ -1,0 +1,58 @@
+{
+ "glosses": [
+  "squared"
+ ],
+ "strong": "H7251",
+ "stems": {
+  "qal": {
+   "sense_hint": "stative (participle only)",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "רְבֻעִים",
+      "translit": "rvu'im",
+      "ref": "1Kgs.7.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive (participle only)",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "מְרֻבָּעוֹת",
+      "translit": "mrubbaot",
+      "ref": "1Kgs.7.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "squared"
+ },
+ "notes": [
+  "Both qal and pual are attested only as the passive/adjectival participle (\"foursquare\", of architectural features in Exodus/1Kings/Ezekiel) -- no finite forms of either stem occur in the corpus. Both included as attested; gloss \"squared\" fits every citation checked."
+ ],
+ "root": "רבע",
+ "search_match": [
+  "7251",
+  "h7251",
+  "squared",
+  "rava",
+  "רבע"
+ ],
+ "citation_translit": "rava",
+ "stem_coverage_checked": true
+}
