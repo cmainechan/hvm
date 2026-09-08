@@ -1,0 +1,97 @@
+{
+ "glosses": [
+  "practice divination"
+ ],
+ "strong": "H7080",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּקְסְמוּ",
+      "translit": "vayyiqsmu",
+      "ref": "2Kgs.17.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִקְסֹמוּ",
+      "translit": "yiqsomu",
+      "ref": "Mic.3.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fp",
+      "label": "2nd fem. pl.",
+      "heb": "תִקְסַמְנָה",
+      "translit": "tiqsamnah",
+      "ref": "Ezek.13.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "קָֽסֳמִי",
+      "translit": "qasomi",
+      "ref": "1Sam.28.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְקֹסֵם",
+      "translit": "vqosem",
+      "ref": "Isa.3.2",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "קֹסְמִים",
+      "translit": "qosmim",
+      "ref": "Deut.18.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִקְסָם",
+      "translit": "liqsam",
+      "ref": "Ezek.21.26",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "קסם",
+ "search_match": [
+  "7080",
+  "h7080",
+  "practice divination",
+  "qasam",
+  "קסם"
+ ],
+ "citation_translit": "qasam",
+ "stem_coverage_checked": true
+}

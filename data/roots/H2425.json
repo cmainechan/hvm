@@ -1,0 +1,55 @@
+{
+ "glosses": [
+  "live, have life"
+ ],
+ "strong": "H2425",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חַי",
+      "translit": "chay",
+      "ref": "1Sam.20.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וָחָי",
+      "translit": "vachay",
+      "ref": "Deut.19.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וָחָֽיָה",
+      "translit": "vachayah",
+      "ref": "Exod.1.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "חיי",
+ "search_match": [
+  "2425",
+  "h2425",
+  "live, have life",
+  "chayay",
+  "חיי"
+ ],
+ "citation_translit": "chayay",
+ "stem_coverage_checked": true
+}

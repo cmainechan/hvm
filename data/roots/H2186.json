@@ -1,0 +1,137 @@
+{
+ "glosses": [
+  "reject, spurn"
+ ],
+ "strong": "H2186",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "זָנַח",
+      "translit": "zanach",
+      "ref": "Hos.8.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "זָנַחְתָּ",
+      "translit": "zanachta",
+      "ref": "Ps.44.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "זְנַחְתִּים",
+      "translit": "znachtim",
+      "ref": "Zech.10.6",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּזְנַח",
+      "translit": "vattiznach",
+      "ref": "Lam.3.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִזְנַח",
+      "translit": "yiznach",
+      "ref": "Lam.3.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּזְנַח",
+      "translit": "tiznach",
+      "ref": "Ps.88.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּזְנַח",
+      "translit": "tiznach",
+      "ref": "Ps.44.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִזְנִיחַ",
+      "translit": "hiznicha",
+      "ref": "2Chr.29.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַזְנִיחֲךָ",
+      "translit": "yaznichakha",
+      "ref": "1Chr.28.9",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהֶאֶזְנִיחוּ",
+      "translit": "vhe'eznichu",
+      "ref": "Isa.19.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "forcefully reject; become foul"
+ },
+ "root": "זנח",
+ "search_match": [
+  "2186",
+  "h2186",
+  "reject, spurn",
+  "zanach",
+  "זנח"
+ ],
+ "citation_translit": "zanach",
+ "stem_coverage_checked": true
+}

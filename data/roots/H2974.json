@@ -1,0 +1,104 @@
+{
+ "glosses": [
+  "be willing; be pleased"
+ ],
+ "strong": "H2974",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הוֹאִיל",
+      "translit": "ho'il",
+      "ref": "1Sam.12.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הוֹאַלְתָּ",
+      "translit": "ho'alta",
+      "ref": "1Chr.17.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הוֹאַלְתִּי",
+      "translit": "ho'alti",
+      "ref": "Gen.18.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "הוֹאַלְנוּ",
+      "translit": "ho'alnu",
+      "ref": "Josh.7.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֹּאֶל",
+      "translit": "vayyo'el",
+      "ref": "1Sam.17.39",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הוֹאֵל",
+      "translit": "ho'el",
+      "ref": "2Kgs.5.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הוֹאִילוּ",
+      "translit": "ho'ilu",
+      "ref": "Job.6.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיֹאֵל",
+      "translit": "vyo'el",
+      "ref": "Job.6.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "יאל²",
+ "search_match": [
+  "2974",
+  "h2974",
+  "be willing",
+  "ya'al",
+  "יאל²"
+ ],
+ "citation_translit": "ya'al",
+ "stem_coverage_checked": true
+}

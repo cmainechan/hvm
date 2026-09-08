@@ -1,0 +1,73 @@
+{
+ "glosses": [
+  "be leprous"
+ ],
+ "strong": "H6879",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "צָרוּעַ",
+      "translit": "tzarua",
+      "ref": "Lev.13.44",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְצֹרָע",
+      "translit": "mtzora",
+      "ref": "2Chr.26.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מְצֹרַעַת",
+      "translit": "mtzora'at",
+      "ref": "Exod.4.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְצֹרָעִים",
+      "translit": "mtzora'im",
+      "ref": "2Kgs.7.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be stricken with leprosy"
+ },
+ "root": "צרע",
+ "search_match": [
+  "6879",
+  "h6879",
+  "be leprous",
+  "tzara",
+  "צרע"
+ ],
+ "citation_translit": "tzara",
+ "stem_coverage_checked": true
+}

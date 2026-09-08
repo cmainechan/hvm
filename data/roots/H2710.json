@@ -1,0 +1,166 @@
+{
+ "glosses": [
+  "inscribe; trace"
+ ],
+ "strong": "H2710",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "חַקֹּתִיךְ",
+      "translit": "chaqqotikh",
+      "ref": "Isa.49.16",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְחַקּוֹתָ",
+      "translit": "vchaqqota",
+      "ref": "Ezek.4.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חֻקָּהּ",
+      "translit": "chuqqahh",
+      "ref": "Isa.30.8",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַחֹֽקְקִים",
+      "translit": "hachoqqim",
+      "ref": "Isa.10.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "חֲקֻקִים",
+      "translit": "chaquqim",
+      "ref": "Ezek.23.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְּחוּקוֹ",
+      "translit": "bchuqo",
+      "ref": "Prov.8.27",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "poel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְחֹקְקוּ",
+      "translit": "ychoqqu",
+      "ref": "Prov.8.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְחֹקֵק",
+      "translit": "mchoqeq",
+      "ref": "Deut.33.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְחֹקְקִים",
+      "translit": "mchoqqim",
+      "ref": "Judg.5.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְחֻקָּק",
+      "translit": "mchuqqaq",
+      "ref": "Prov.31.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיֻחָֽקוּ",
+      "translit": "vyuchaqu",
+      "ref": "Job.19.23",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "poel": "inscribe (a law)",
+  "pual": "something decreed",
+  "hophal": "be inscribed"
+ },
+ "root": "חקק",
+ "search_match": [
+  "2710",
+  "h2710",
+  "inscribe",
+  "chaqaq",
+  "חקק"
+ ],
+ "citation_translit": "chaqaq",
+ "stem_coverage_checked": true
+}

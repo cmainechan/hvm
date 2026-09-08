@@ -1,0 +1,222 @@
+{
+ "glosses": [
+  "act severely; glean; act the child"
+ ],
+ "strong": "H5953",
+ "stems": {
+  "poel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "עֽוֹלְלָה",
+      "translit": "ollah",
+      "ref": "Lam.3.51",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "עוֹלַלְתָּ",
+      "translit": "olalta",
+      "ref": "Lam.1.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְעֹלַלְתִּי",
+      "translit": "v'olalti",
+      "ref": "Job.16.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיְעֹֽלְלֻהוּ",
+      "translit": "vay'olluhu",
+      "ref": "Judg.20.45",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְעוֹלֵל",
+      "translit": "tolel",
+      "ref": "Deut.24.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְעוֹלְלוּ",
+      "translit": "yollu",
+      "ref": "Jer.6.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְעוֹלֵל",
+      "translit": "volel",
+      "ref": "Lam.1.22",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְעוֹלֵל",
+      "translit": "molel",
+      "ref": "Isa.3.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "עוֹלֵל",
+      "translit": "olel",
+      "ref": "Jer.6.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "poal": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "עוֹלַל",
+      "translit": "olal",
+      "ref": "Lam.1.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִתְעַלֵּל",
+      "translit": "hit'allel",
+      "ref": "1Sam.6.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הִתְעַלַּלְתְּ",
+      "translit": "hit'allalt",
+      "ref": "Num.22.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הִתְעַלַּלְתִּי",
+      "translit": "hit'allalti",
+      "ref": "Exod.10.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִתְעַלְּלוּ",
+      "translit": "vhit'alllu",
+      "ref": "1Sam.31.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּֽתְעַלְּלוּ",
+      "translit": "vayyit'alllu",
+      "ref": "Judg.19.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִתְעַלְּלוּ",
+      "translit": "vhit'alllu",
+      "ref": "1Chr.10.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִתְעוֹלֵל",
+      "translit": "lhitolel",
+      "ref": "Ps.141.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "poal": "be severely dealt with",
+  "hitpael": "busy oneself; act ruthlessly",
+  "hithpolel": "busy oneself; act ruthlessly"
+ },
+ "root": "עלל",
+ "search_match": [
+  "5953",
+  "h5953",
+  "act severely",
+  "alal",
+  "עלל"
+ ],
+ "citation_translit": "alal",
+ "stem_coverage_checked": true
+}

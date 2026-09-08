@@ -1,0 +1,148 @@
+{
+ "glosses": [
+  "pray"
+ ],
+ "strong": "H6279",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֶּעְתַּר",
+      "translit": "vayyetar",
+      "ref": "Exod.10.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶעְתַּר",
+      "translit": "yetar",
+      "ref": "Job.33.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֵּעָתֶר",
+      "translit": "vayye'ater",
+      "ref": "2Chr.33.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנֶעְתַּר",
+      "translit": "vnetar",
+      "ref": "Isa.19.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְהֵֽעָתֶר",
+      "translit": "vhe'ater",
+      "ref": "2Chr.33.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְנַעְתּוֹר",
+      "translit": "vnator",
+      "ref": "1Chr.5.20",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּעְתִּיר",
+      "translit": "tatir",
+      "ref": "Job.22.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַעְתִּיר",
+      "translit": "atir",
+      "ref": "Exod.8.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהַעְתַּרְתִּי",
+      "translit": "vhatarti",
+      "ref": "Exod.8.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הַעְתִּירוּ",
+      "translit": "hatiru",
+      "ref": "Exod.8.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be entreated",
+  "hiphil": "make supplication"
+ },
+ "root": "עתר",
+ "search_match": [
+  "6279",
+  "h6279",
+  "pray",
+  "atar",
+  "עתר"
+ ],
+ "citation_translit": "atar",
+ "stem_coverage_checked": true
+}

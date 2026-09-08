@@ -1,0 +1,176 @@
+{
+ "glosses": [
+  "be high"
+ ],
+ "strong": "H7682",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "שָׂגְבָה",
+      "translit": "sagvah",
+      "ref": "Deut.2.36",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שָׂגְבוּ",
+      "translit": "sagvu",
+      "ref": "Job.5.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִשְׂגַּב",
+      "translit": "vnisgav",
+      "ref": "Isa.2.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִשְׂגָּב",
+      "translit": "nisgav",
+      "ref": "Isa.12.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "נִשְׂגָּבָה",
+      "translit": "nisgavah",
+      "ref": "Isa.26.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְשַׂגֵּב",
+      "translit": "vaysaggev",
+      "ref": "Isa.9.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְשַׂגֶּבְךָ",
+      "translit": "ysaggevkha",
+      "ref": "Ps.20.2",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּשַׂגְּבֵֽנִי",
+      "translit": "tsaggveni",
+      "ref": "Ps.69.30",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּשַׂגְּבֵֽנִי",
+      "translit": "tsaggveni",
+      "ref": "Ps.59.2",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲשַׂגְּבֵהוּ",
+      "translit": "asaggvehu",
+      "ref": "Ps.91.14",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְשֻׂגָּֽב",
+      "translit": "ysuggav",
+      "ref": "Prov.29.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַשְׂגִּיב",
+      "translit": "yasgiv",
+      "ref": "Job.36.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be set securely on high; be exalted",
+  "piel": "set securely on high; exalt (in hostility)",
+  "pual": "be set securely on high",
+  "hiphil": "act exaltedly"
+ },
+ "root": "שגב",
+ "search_match": [
+  "7682",
+  "h7682",
+  "be high (sagav)",
+  "sagav",
+  "שגב"
+ ],
+ "citation_translit": "sagav",
+ "stem_coverage_checked": true
+}

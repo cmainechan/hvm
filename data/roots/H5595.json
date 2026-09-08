@@ -1,0 +1,155 @@
+{
+ "glosses": [
+  "sweep away; be snatched away"
+ ],
+ "strong": "H5595",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "סָפְתָה",
+      "translit": "saftah",
+      "ref": "Jer.12.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּסְפֶּֽה",
+      "translit": "tispeh",
+      "ref": "Isa.7.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּסְפֶּה",
+      "translit": "tispeh",
+      "ref": "Gen.18.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "סְפוּ",
+      "translit": "sfu",
+      "ref": "Isa.29.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "סְפוֹת",
+      "translit": "sfot",
+      "ref": "Deut.29.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִסְפָּֽה",
+      "translit": "vnispah",
+      "ref": "1Sam.26.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּסָּפֶה",
+      "translit": "tissafeh",
+      "ref": "Gen.19.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶסָּפֶה",
+      "translit": "essafeh",
+      "ref": "1Sam.27.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּסָּפֽוּ",
+      "translit": "tissafu",
+      "ref": "1Sam.12.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִסְפֶּה",
+      "translit": "nispeh",
+      "ref": "1Chr.21.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַסְפֶּה",
+      "translit": "aspeh",
+      "ref": "Deut.32.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be swept away",
+  "hiphil": "sweep away"
+ },
+ "root": "ספה",
+ "search_match": [
+  "5595",
+  "h5595",
+  "sweep away",
+  "safah",
+  "ספה"
+ ],
+ "citation_translit": "safah",
+ "stem_coverage_checked": true
+}

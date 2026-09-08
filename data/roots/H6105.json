@@ -1,0 +1,137 @@
+{
+ "glosses": [
+  "be mighty, be numerous"
+ ],
+ "strong": "H6105",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "עָצַֽמְתָּ",
+      "translit": "atzamta",
+      "ref": "Gen.26.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "עָצְמוּ",
+      "translit": "atzmu",
+      "ref": "Isa.31.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּֽעַצְמוּ",
+      "translit": "vayya'atzmu",
+      "ref": "Exod.1.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְעָצַם",
+      "translit": "v'atzam",
+      "ref": "Dan.11.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְעֹצֵם",
+      "translit": "v'otzem",
+      "ref": "Isa.33.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּכְעָצְמוֹ",
+      "translit": "ukh'atzmo",
+      "ref": "Dan.8.8",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "עִצְּמוֹ",
+      "translit": "itztzmo",
+      "ref": "Jer.50.17",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְעַצֵּם",
+      "translit": "vay'atztzem",
+      "ref": "Isa.29.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּֽעֲצִמֵהוּ",
+      "translit": "vayya'atzimehu",
+      "ref": "Ps.105.24",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "close (the eyes); break (the bones)",
+  "hiphil": "make strong; close (the eyes); break (the bones)"
+ },
+ "root": "עצם",
+ "search_match": [
+  "6105",
+  "h6105",
+  "be mighty, be numerous",
+  "atzam",
+  "עצם"
+ ],
+ "citation_translit": "atzam",
+ "stem_coverage_checked": true
+}

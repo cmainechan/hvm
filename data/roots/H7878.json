@@ -1,0 +1,142 @@
+{
+ "glosses": [
+  "complain; ponder; talk"
+ ],
+ "strong": "H7878",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָשִׂיחַ",
+      "translit": "yasicha",
+      "ref": "Ps.119.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְשִׂיחֶֽךָ",
+      "translit": "tsichekha",
+      "ref": "Prov.6.22",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָשִׂיחָה",
+      "translit": "asichah",
+      "ref": "Job.7.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָשִׂיחוּ",
+      "translit": "yasichu",
+      "ref": "Ps.69.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "שִׂיחַ",
+      "translit": "sicha",
+      "ref": "Job.12.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "שִׂיחוּ",
+      "translit": "sichu",
+      "ref": "1Chr.16.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָשִׂיחָה",
+      "translit": "asichah",
+      "ref": "Ps.119.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לָשִׂיחַ",
+      "translit": "lasicha",
+      "ref": "Ps.119.148",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְשׂוֹחֵחַ",
+      "translit": "ysochecha",
+      "ref": "Isa.53.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "polel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲשׂוֹחֵֽחַ",
+      "translit": "asochecha",
+      "ref": "Ps.143.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "talk",
+  "polel": "meditate"
+ },
+ "root": "שיח",
+ "search_match": [
+  "7878",
+  "h7878",
+  "complain",
+  "sicha",
+  "שיח"
+ ],
+ "citation_translit": "sicha",
+ "stem_coverage_checked": true
+}

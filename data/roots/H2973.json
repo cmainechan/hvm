@@ -1,0 +1,55 @@
+{
+ "glosses": [
+  "act foolishly"
+ ],
+ "strong": "H2973",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נֽוֹאֲלוּ",
+      "translit": "no'alu",
+      "ref": "Isa.19.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נוֹאַלְנוּ",
+      "translit": "no'alnu",
+      "ref": "Num.12.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנֹאָלוּ",
+      "translit": "vno'alu",
+      "ref": "Jer.50.36",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "יאל¹",
+ "search_match": [
+  "2973",
+  "h2973",
+  "act foolishly",
+  "ya'al",
+  "יאל¹"
+ ],
+ "citation_translit": "ya'al",
+ "stem_coverage_checked": true
+}

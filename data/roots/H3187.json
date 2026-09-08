@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "be reckoned by genealogies"
+ ],
+ "strong": "H3187",
+ "stems": {
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִתְיַחְשׂוּ",
+      "translit": "hityachsu",
+      "ref": "1Chr.5.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַמִּתְיַחְשִׂים",
+      "translit": "hammityachsim",
+      "ref": "Ezra.2.62",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִתְיַחֵשׂ",
+      "translit": "hityaches",
+      "ref": "2Chr.31.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "יחש",
+ "search_match": [
+  "3187",
+  "h3187",
+  "be reckoned by genealogies",
+  "yachas",
+  "יחש"
+ ],
+ "citation_translit": "yachas",
+ "stem_coverage_checked": true
+}
