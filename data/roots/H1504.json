@@ -1,0 +1,124 @@
+{
+ "glosses": [
+  "divide; cut down; destroy; decree"
+ ],
+ "strong": "H1504",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "גָּזַר",
+      "translit": "gazar",
+      "ref": "Hab.3.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּגְזְרוּ",
+      "translit": "vayyigzru",
+      "ref": "2Kgs.6.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּגְזֹר",
+      "translit": "vayyigzor",
+      "ref": "Isa.9.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְֽתִגְזַר",
+      "translit": "vtigzar",
+      "ref": "Job.22.28",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "גִּזְרוּ",
+      "translit": "gizru",
+      "ref": "1Kgs.3.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִגְזַרְנוּ",
+      "translit": "nigzarnu",
+      "ref": "Ezek.37.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נִגְזָֽרְתִּי",
+      "translit": "nigzarti",
+      "ref": "Lam.3.54",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִגְזָֽרוּ",
+      "translit": "nigzaru",
+      "ref": "Ps.88.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִגְזַר",
+      "translit": "nigzar",
+      "ref": "2Chr.26.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be cut off; be decreed"
+ },
+ "root": "גזר",
+ "search_match": [
+  "1504",
+  "h1504",
+  "divide; cut down; destroy; decree",
+  "gazar",
+  "גזר"
+ ],
+ "citation_translit": "gazar",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,84 @@
+{
+ "glosses": [
+  "breathe; grow cool"
+ ],
+ "strong": "H6315",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שֶׁיָּפוּחַ",
+      "translit": "sheyyafucha",
+      "ref": "Song.2.17",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָפִיחַ",
+      "translit": "aficha",
+      "ref": "Ezek.21.36",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָפִיחוּ",
+      "translit": "yafichu",
+      "ref": "Prov.29.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָפִיחַ",
+      "translit": "yaficha",
+      "ref": "Prov.12.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הָפִיחִי",
+      "translit": "hafichi",
+      "ref": "Song.4.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "breathe out; utter; puff"
+ },
+ "root": "פוח",
+ "search_match": [
+  "6315",
+  "h6315",
+  "breathe; grow cool",
+  "pucha",
+  "פוח"
+ ],
+ "citation_translit": "pucha",
+ "stem_coverage_checked": true
+}

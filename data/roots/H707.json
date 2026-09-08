@@ -1,0 +1,73 @@
+{
+ "glosses": [
+  "weave; (figurative) intrigue"
+ ],
+ "strong": "H707",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תַּאַרְגִי",
+      "translit": "ta'argi",
+      "ref": "Judg.16.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֶאֱרֹגוּ",
+      "translit": "ye'erogu",
+      "ref": "Isa.59.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "אֹרְגוֹת",
+      "translit": "orgot",
+      "ref": "2Kgs.23.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "אֹרְגִים",
+      "translit": "orgim",
+      "ref": "1Chr.11.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "אֹרֵג",
+      "translit": "oreg",
+      "ref": "Exod.28.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "ארג",
+ "search_match": [
+  "707",
+  "h707",
+  "weave; (figurative) intrigue",
+  "arag",
+  "ארג"
+ ],
+ "citation_translit": "arag",
+ "stem_coverage_checked": true
+}

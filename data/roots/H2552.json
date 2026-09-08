@@ -1,0 +1,153 @@
+{
+ "glosses": [
+  "become warm/hot"
+ ],
+ "strong": "H2552",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "חַמּוֹתִי",
+      "translit": "chammoti",
+      "ref": "Isa.44.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חַם",
+      "translit": "cham",
+      "ref": "Ps.39.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּחָם",
+      "translit": "vayyacham",
+      "ref": "2Kgs.4.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְחַם",
+      "translit": "vcham",
+      "ref": "1Kgs.1.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֵחַמּוּ",
+      "translit": "yechammu",
+      "ref": "Hos.7.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָחֹם",
+      "translit": "yachom",
+      "ref": "Isa.44.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַחְמָם",
+      "translit": "lachmam",
+      "ref": "Isa.47.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַנֵּֽחָמִים",
+      "translit": "hannechamim",
+      "ref": "Isa.57.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּחַמֵּֽם",
+      "translit": "tchammem",
+      "ref": "Job.39.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְחַמָּֽם",
+      "translit": "yitchammam",
+      "ref": "Job.31.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be warmed (figurative, of conceiving)",
+  "piel": "warm (something)",
+  "hitpael": "enflame oneself"
+ },
+ "root": "חמם",
+ "search_match": [
+  "2552",
+  "h2552",
+  "become warm/hot",
+  "chamam",
+  "חמם"
+ ],
+ "citation_translit": "chamam",
+ "stem_coverage_checked": true
+}

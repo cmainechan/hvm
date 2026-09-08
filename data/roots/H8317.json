@@ -1,0 +1,126 @@
+{
+ "glosses": [
+  "swarm"
+ ],
+ "strong": "H8317",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שָׁרְצוּ",
+      "translit": "shartzu",
+      "ref": "Gen.1.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שָׁרַץ",
+      "translit": "sharatz",
+      "ref": "Ps.105.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּשְׁרְצוּ",
+      "translit": "vayyishrtzu",
+      "ref": "Exod.1.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְשָֽׁרְצוּ",
+      "translit": "vshartzu",
+      "ref": "Gen.8.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְשָׁרַץ",
+      "translit": "vsharatz",
+      "ref": "Exod.7.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשְׁרְצוּ",
+      "translit": "yishrtzu",
+      "ref": "Gen.1.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשְׁרֹץ",
+      "translit": "yishrotz",
+      "ref": "Ezek.47.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "שִׁרְצוּ",
+      "translit": "shirtzu",
+      "ref": "Gen.9.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "הַשֹּׁרֶצֶת",
+      "translit": "hasshoretzet",
+      "ref": "Lev.11.46",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַשֹּׁרֵץ",
+      "translit": "hasshoretz",
+      "ref": "Gen.7.21",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "שרץ",
+ "search_match": [
+  "8317",
+  "h8317",
+  "swarm",
+  "sharatz",
+  "שרץ"
+ ],
+ "citation_translit": "sharatz",
+ "stem_coverage_checked": true
+}

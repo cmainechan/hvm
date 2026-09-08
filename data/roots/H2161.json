@@ -1,0 +1,93 @@
+{
+ "glosses": [
+  "devise (usually in a bad sense)"
+ ],
+ "strong": "H2161",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "זַמֹּתִי",
+      "translit": "zammoti",
+      "ref": "Jer.4.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "זַמּוֹתָ",
+      "translit": "zammota",
+      "ref": "Prov.30.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "זָמָֽמוּ",
+      "translit": "zamamu",
+      "ref": "Ps.31.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "זָמְמָה",
+      "translit": "zammah",
+      "ref": "Prov.31.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "זָמַם",
+      "translit": "zamam",
+      "ref": "Deut.19.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָזְמוּ",
+      "translit": "yazmu",
+      "ref": "Gen.11.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "זֹמֵם",
+      "translit": "zomem",
+      "ref": "Ps.37.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "זמם",
+ "search_match": [
+  "2161",
+  "h2161",
+  "devise (usually in a bad sense)",
+  "zamam",
+  "זמם"
+ ],
+ "citation_translit": "zamam",
+ "stem_coverage_checked": true
+}

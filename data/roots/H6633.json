@@ -1,0 +1,97 @@
+{
+ "glosses": [
+  "wage war; serve (at the sacred tent)"
+ ],
+ "strong": "H6633",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "צָֽבְאוּ",
+      "translit": "tzavu",
+      "ref": "Exod.38.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּצְבְּאוּ",
+      "translit": "vayyitzbu",
+      "ref": "Num.31.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִצְבֹּא",
+      "translit": "litzbo",
+      "ref": "Isa.31.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "הַצֹּבְאוֹת",
+      "translit": "hatztzovot",
+      "ref": "1Sam.2.22",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַצֹּבְאִים",
+      "translit": "hatztzov'im",
+      "ref": "Isa.29.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַמַּצְבִּא",
+      "translit": "hammatzbi",
+      "ref": "2Kgs.25.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "cause to go forth"
+ },
+ "root": "צבא",
+ "search_match": [
+  "6633",
+  "h6633",
+  "wage war; serve (at the sacred tent)",
+  "tzava",
+  "צבא"
+ ],
+ "citation_translit": "tzava",
+ "stem_coverage_checked": true
+}

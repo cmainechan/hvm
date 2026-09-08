@@ -1,0 +1,163 @@
+{
+ "glosses": [
+  "backslide"
+ ],
+ "strong": "H5472",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "סָג",
+      "translit": "sag",
+      "ref": "Ps.53.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נָסוֹג",
+      "translit": "nasog",
+      "ref": "Ps.80.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נְסוּגֹֽתִי",
+      "translit": "nsugoti",
+      "ref": "Isa.50.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָסֹגוּ",
+      "translit": "nasogu",
+      "ref": "Isa.42.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נָסוֹג",
+      "translit": "nasog",
+      "ref": "Ps.44.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּסֹּגוּ",
+      "translit": "vayyissogu",
+      "ref": "Ps.78.57",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִסֹּגוּ",
+      "translit": "yissogu",
+      "ref": "Ps.35.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נְסֹגִים",
+      "translit": "nsogim",
+      "ref": "Jer.46.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַסִּיג",
+      "translit": "tassig",
+      "ref": "Deut.19.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּסֵּג",
+      "translit": "tasseg",
+      "ref": "Prov.22.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַסִּיג",
+      "translit": "massig",
+      "ref": "Deut.27.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "strong_alt": [
+  "H5253"
+ ],
+ "stem_glosses": {
+  "niphal": "turn oneself away; be turned back",
+  "hiphil": "displace; carry away"
+ },
+ "notes": [
+  "Requested hiphil (\"displace; carry away\") has zero attestation under H5472 itself -- this root's own corpus attestations are only qal and niphal. Checked for suppletion per the standard step: H5253 (נָסַג, \"to retreat\" -- the same root's Nun-prefixed by-form) supplies exactly the missing hiphil paradigm (Deut.19.14 תַסִּיג/Deut.27.17 מַסִּיג \"moves a boundary marker\" for \"displace\"; Mic.6.14 וְתַסֵּג \"you will carry away\" for \"carry away\"), the same suppletion pattern already used for הלך/ילך and נוח/ינח. Modeled as strong_alt: [\"H5253\"], with the hiphil forms drawn from that number."
+ ],
+ "root": "סוג",
+ "search_match": [
+  "5472",
+  "h5472",
+  "backslide",
+  "sug",
+  "סוג"
+ ],
+ "citation_translit": "sug",
+ "stem_coverage_checked": true
+}

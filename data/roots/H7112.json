@@ -1,0 +1,104 @@
+{
+ "glosses": [
+  "cut off"
+ ],
+ "strong": "H7112",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְקַצֹּתָה",
+      "translit": "vqatztzotah",
+      "ref": "Deut.25.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "קִצַּץ",
+      "translit": "qitztzatz",
+      "ref": "2Kgs.18.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיְקַצְּצוּ",
+      "translit": "vayqatztztzu",
+      "ref": "2Sam.4.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְקַצֵּץ",
+      "translit": "vayqatztzetz",
+      "ref": "2Chr.28.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְקִצֵּץ",
+      "translit": "vqitztzetz",
+      "ref": "Ps.46.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְקֻצָּצִים",
+      "translit": "mqutztzatzim",
+      "ref": "Judg.1.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "cut off",
+  "pual": "be cut off"
+ },
+ "root": "קצץ",
+ "search_match": [
+  "7112",
+  "h7112",
+  "cut off",
+  "qatzatz",
+  "קצץ"
+ ],
+ "citation_translit": "qatzatz",
+ "stem_coverage_checked": true
+}

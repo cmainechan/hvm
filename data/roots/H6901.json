@@ -1,0 +1,106 @@
+{
+ "glosses": [
+  "take; receive"
+ ],
+ "strong": "H6901",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְקִבְּלוּ",
+      "translit": "vqibblu",
+      "ref": "Esth.9.27",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "קִבֵּֽל",
+      "translit": "qibbel",
+      "ref": "Esth.4.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיְקַבְּלוּ",
+      "translit": "vayqabblu",
+      "ref": "2Chr.29.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְקַבְּלֵם",
+      "translit": "vayqabblem",
+      "ref": "1Chr.12.19",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נְקַבֵּל",
+      "translit": "nqabbel",
+      "ref": "Job.2.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "קַבֶּל",
+      "translit": "qabbel",
+      "ref": "1Chr.21.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "מַקְבִּילֹת",
+      "translit": "maqbilot",
+      "ref": "Exod.26.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "correspond"
+ },
+ "root": "קבל",
+ "search_match": [
+  "6901",
+  "h6901",
+  "take; receive",
+  "qaval",
+  "קבל"
+ ],
+ "citation_translit": "qaval",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,106 @@
+{
+ "glosses": [
+  "break; deal (bread)"
+ ],
+ "strong": "H6536",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִפְרְסוּ",
+      "translit": "yifrsu",
+      "ref": "Jer.16.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "פָרֹס",
+      "translit": "faros",
+      "ref": "Isa.58.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִפְרִיסוּ",
+      "translit": "hifrisu",
+      "ref": "Deut.14.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הִפְרִיסָה",
+      "translit": "hifrisah",
+      "ref": "Lev.11.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַפְרִיס",
+      "translit": "yafris",
+      "ref": "Lev.11.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מַפְרֶסֶת",
+      "translit": "mafreset",
+      "ref": "Lev.11.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַפְרִיס",
+      "translit": "mafris",
+      "ref": "Lev.11.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "divide; have cloven hoofs"
+ },
+ "root": "פרס",
+ "search_match": [
+  "6536",
+  "h6536",
+  "break; deal (bread)",
+  "paras",
+  "פרס"
+ ],
+ "citation_translit": "paras",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,177 @@
+{
+ "glosses": [
+  "be satiated"
+ ],
+ "strong": "H7301",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְרָוְתָה",
+      "translit": "vravtah",
+      "ref": "Jer.46.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִרְוְיֻן",
+      "translit": "yirvyun",
+      "ref": "Ps.36.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִרְוֶה",
+      "translit": "nirveh",
+      "ref": "Prov.7.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "רִוְּתָה",
+      "translit": "riutah",
+      "ref": "Isa.34.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְרִוֵּיתִי",
+      "translit": "vrivveti",
+      "ref": "Jer.31.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְרִוְּתָה",
+      "translit": "vriutah",
+      "ref": "Isa.34.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲרַיָּוֶךְ",
+      "translit": "arayyavekh",
+      "ref": "Isa.16.9",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "רַוֵּה",
+      "translit": "ravveh",
+      "ref": "Ps.65.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְרַוֻּךָ",
+      "translit": "yravvukha",
+      "ref": "Prov.5.19",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הִרְוֵיתִי",
+      "translit": "hirveti",
+      "ref": "Jer.31.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִרְוִיתָנִי",
+      "translit": "hirvitani",
+      "ref": "Isa.43.24",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִרְוָה",
+      "translit": "hirvah",
+      "ref": "Isa.55.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּמַרְוֶה",
+      "translit": "umarveh",
+      "ref": "Prov.11.25",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "be drunk; drench",
+  "hiphil": "water; cause to drink"
+ },
+ "root": "רוה",
+ "search_match": [
+  "7301",
+  "h7301",
+  "be satiated",
+  "ravah",
+  "רוה"
+ ],
+ "citation_translit": "ravah",
+ "stem_coverage_checked": true
+}

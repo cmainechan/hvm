@@ -1,0 +1,148 @@
+{
+ "glosses": [
+  "crush; be fine"
+ ],
+ "strong": "H1854",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "דַּק",
+      "translit": "daq",
+      "ref": "Deut.9.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְתָדֹק",
+      "translit": "vtadoq",
+      "ref": "Isa.41.15",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְדֻקֶּֽנּוּ",
+      "translit": "yduqqennu",
+      "ref": "Isa.28.28",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֵדַק",
+      "translit": "hedaq",
+      "ref": "2Kgs.23.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּדֶק",
+      "translit": "vayyadeq",
+      "ref": "2Chr.15.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַהֲדִקּוֹת",
+      "translit": "vahadiqqot",
+      "ref": "Mic.4.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲדִקֵּם",
+      "translit": "adiqqem",
+      "ref": "2Sam.22.43",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהֵדַק",
+      "translit": "lhedaq",
+      "ref": "2Chr.34.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הָדֵק",
+      "translit": "hadeq",
+      "ref": "Exod.30.36",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יוּדָק",
+      "translit": "yudaq",
+      "ref": "Isa.28.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "pulverize; make dust of",
+  "hophal": "be crushed; be beaten small"
+ },
+ "root": "דקק",
+ "search_match": [
+  "1854",
+  "h1854",
+  "crush; be fine",
+  "daqaq",
+  "דקק"
+ ],
+ "citation_translit": "daqaq",
+ "stem_coverage_checked": true
+}
