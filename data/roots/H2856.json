@@ -1,0 +1,193 @@
+{
+ "glosses": [
+  "seal"
+ ],
+ "strong": "H2856",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּחְתֹּם",
+      "translit": "vayyachtom",
+      "ref": "Esth.8.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתַּחְתֹּם",
+      "translit": "vattachtom",
+      "ref": "1Kgs.21.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָֽאֶחְתֹּם",
+      "translit": "va'echtom",
+      "ref": "Jer.32.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחְתֹּֽם",
+      "translit": "yachtom",
+      "ref": "Job.33.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חֲתוֹם",
+      "translit": "chatom",
+      "ref": "Isa.8.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְחִתְמוּ",
+      "translit": "vchitmu",
+      "ref": "Esth.8.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חָתֻם",
+      "translit": "chatum",
+      "ref": "Deut.32.34",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "וַחֲתֻמִים",
+      "translit": "vachatumim",
+      "ref": "Dan.12.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְלַחְתֹּם",
+      "translit": "vlachtom",
+      "ref": "Dan.9.24",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְחָתוֹם",
+      "translit": "vchatom",
+      "ref": "Jer.32.44",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְנֶחְתָּם",
+      "translit": "vnechtam",
+      "ref": "Esth.3.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְנַחְתּוֹם",
+      "translit": "vnachtom",
+      "ref": "Esth.8.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חִתְּמוּ",
+      "translit": "chittmu",
+      "ref": "Job.24.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֶחְתִּים",
+      "translit": "hechtim",
+      "ref": "Lev.15.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "seal (of a decree)",
+  "piel": "lock up",
+  "hiphil": "be stopped"
+ },
+ "root": "חתם",
+ "search_match": [
+  "2856",
+  "h2856",
+  "seal",
+  "chatam",
+  "חתם"
+ ],
+ "citation_translit": "chatam",
+ "stem_coverage_checked": true
+}

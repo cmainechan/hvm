@@ -1,0 +1,182 @@
+{
+ "glosses": [
+  "bake"
+ ],
+ "strong": "H644",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "אָפָה",
+      "translit": "afah",
+      "ref": "Gen.19.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָפִיתִי",
+      "translit": "afiti",
+      "ref": "Isa.44.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתֹּפֵהוּ",
+      "translit": "vattofehu",
+      "ref": "1Sam.28.24",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיֹּאפוּ",
+      "translit": "vayyofu",
+      "ref": "Exod.12.39",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֹאפוּ",
+      "translit": "yofu",
+      "ref": "Ezek.46.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תֹּאפוּ",
+      "translit": "tofu",
+      "ref": "Exod.16.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְאָפָה",
+      "translit": "v'afah",
+      "ref": "Isa.44.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְאָפִיתָ",
+      "translit": "v'afita",
+      "ref": "Lev.24.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְאָפוּ",
+      "translit": "v'afu",
+      "ref": "Lev.26.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "אֵפוּ",
+      "translit": "efu",
+      "ref": "Exod.16.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "אֹפֶה",
+      "translit": "ofeh",
+      "ref": "Gen.40.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הָאֹפִים",
+      "translit": "ha'ofim",
+      "ref": "Gen.40.16",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "וּלְאֹפֽוֹת",
+      "translit": "ul'ofot",
+      "ref": "1Sam.8.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֵאָפֶה",
+      "translit": "te'afeh",
+      "ref": "Lev.6.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תֵּאָפֶינָה",
+      "translit": "te'afenah",
+      "ref": "Lev.23.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be baked"
+ },
+ "root": "אפה",
+ "search_match": [
+  "644",
+  "h644",
+  "bake",
+  "afah",
+  "אפה"
+ ],
+ "citation_translit": "afah",
+ "stem_coverage_checked": true
+}

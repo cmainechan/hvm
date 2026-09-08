@@ -1,0 +1,187 @@
+{
+ "glosses": [
+  "toil; be weary"
+ ],
+ "strong": "H3021",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "יָגְעָה",
+      "translit": "yag'ah",
+      "ref": "2Sam.23.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "יָגַעְתָּ",
+      "translit": "yagata",
+      "ref": "Isa.43.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "יָגַעַתְּ",
+      "translit": "yaga'att",
+      "ref": "Isa.47.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "יָגַעְתִּי",
+      "translit": "yagati",
+      "ref": "Isa.49.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "יָגַעְנוּ",
+      "translit": "yaganu",
+      "ref": "Lam.5.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִיגָע",
+      "translit": "yiga",
+      "ref": "Isa.40.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אִיגָֽע",
+      "translit": "iga",
+      "ref": "Job.9.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִיגָעוּ",
+      "translit": "yigau",
+      "ref": "Isa.40.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּיגַע",
+      "translit": "tiga",
+      "ref": "Prov.23.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּיַגְּעֶנּוּ",
+      "translit": "tyagg'ennu",
+      "ref": "Eccl.10.15",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּיַגַּע",
+      "translit": "tyagga",
+      "ref": "Josh.7.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הוֹגַעְתַּנִי",
+      "translit": "hogatani",
+      "ref": "Isa.43.24",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הוֹגַעְתִּיךָ",
+      "translit": "hogatikha",
+      "ref": "Isa.43.23",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הוֹגַעְתֶּם",
+      "translit": "hogatem",
+      "ref": "Mal.2.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "הוֹגָעְנוּ",
+      "translit": "hoganu",
+      "ref": "Mal.2.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "make weary",
+  "hiphil": "make to toil, make weary"
+ },
+ "root": "יגע",
+ "search_match": [
+  "3021",
+  "h3021",
+  "toil",
+  "yaga",
+  "יגע"
+ ],
+ "citation_translit": "yaga",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,184 @@
+{
+ "glosses": [
+  "spurn"
+ ],
+ "strong": "H5006",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נָאַץ",
+      "translit": "na'atz",
+      "ref": "Prov.5.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָאֲצוּ",
+      "translit": "na'atzu",
+      "ref": "Prov.1.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּנְאָץ",
+      "translit": "vayyin'atz",
+      "ref": "Deut.32.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִנְאַץ",
+      "translit": "yin'atz",
+      "ref": "Prov.15.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִנְאָצוּן",
+      "translit": "yin'atzun",
+      "ref": "Jer.33.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּנְאַץ",
+      "translit": "tin'atz",
+      "ref": "Jer.14.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִאֵץ",
+      "translit": "ni'etz",
+      "ref": "Ps.10.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נִאַצְתָּ",
+      "translit": "ni'atzta",
+      "ref": "2Sam.12.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִֽאֲצוּ",
+      "translit": "ni'atzu",
+      "ref": "1Sam.2.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְנָאֵץ",
+      "translit": "yna'etz",
+      "ref": "Ps.74.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְנַאֲצֻנִי",
+      "translit": "yna'atzuni",
+      "ref": "Num.14.11",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנִאֲצוּנִי",
+      "translit": "vni'atzuni",
+      "ref": "Deut.31.20",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "נִאֵץ",
+      "translit": "ni'etz",
+      "ref": "2Sam.12.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִנֹּאָֽץ",
+      "translit": "minno'atz",
+      "ref": "Isa.52.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "spurn; cause to blaspheme",
+  "hithpolel": "be reviled"
+ },
+ "root": "נאץ",
+ "search_match": [
+  "5006",
+  "h5006",
+  "spurn",
+  "na'atz",
+  "נאץ"
+ ],
+ "citation_translit": "na'atz",
+ "stem_coverage_checked": true
+}

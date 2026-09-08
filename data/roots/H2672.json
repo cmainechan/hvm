@@ -1,0 +1,182 @@
+{
+ "glosses": [
+  "hew out; divide"
+ ],
+ "strong": "H2672",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חָצֵב",
+      "translit": "chatzev",
+      "ref": "Isa.5.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "חָצְבָה",
+      "translit": "chatzvah",
+      "ref": "Prov.9.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חָצַבְתָּ",
+      "translit": "chatzavta",
+      "ref": "Deut.6.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "חָצַבְתִּי",
+      "translit": "chatzavti",
+      "ref": "Hos.6.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּחְצֹב",
+      "translit": "vayyachtzov",
+      "ref": "2Chr.26.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּחְצֹב",
+      "translit": "tachtzov",
+      "ref": "Deut.8.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חֹצֵב",
+      "translit": "chotzev",
+      "ref": "1Kgs.5.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "חֹצְבִים",
+      "translit": "chotzvim",
+      "ref": "1Chr.22.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "חֲצוּבִים",
+      "translit": "chatzuvim",
+      "ref": "Deut.6.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַחְצוֹב",
+      "translit": "lachtzov",
+      "ref": "1Chr.22.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֵחָצְבֽוּן",
+      "translit": "yechatzvun",
+      "ref": "Job.19.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "חֻצַּבְתֶּם",
+      "translit": "chutztzavtem",
+      "ref": "Isa.51.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "הַמַּחְצֶבֶת",
+      "translit": "hammachtzevet",
+      "ref": "Isa.51.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be hewn",
+  "pual": "be hewn out",
+  "hiphil": "hew in pieces"
+ },
+ "root": "חצב",
+ "search_match": [
+  "2672",
+  "h2672",
+  "hew out",
+  "chatzav",
+  "חצב"
+ ],
+ "citation_translit": "chatzav",
+ "stem_coverage_checked": true
+}

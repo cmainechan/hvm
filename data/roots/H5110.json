@@ -1,0 +1,210 @@
+{
+ "glosses": [
+  "move to and fro; flutter; show grief"
+ ],
+ "strong": "H5110",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָדוּ",
+      "translit": "nadu",
+      "ref": "Jer.50.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּנֻדוּ",
+      "translit": "vayyanudu",
+      "ref": "Job.42.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָנוּד",
+      "translit": "yanud",
+      "ref": "1Kgs.14.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָנֽוּד",
+      "translit": "tanud",
+      "ref": "Jer.4.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "נוּדִי",
+      "translit": "nudi",
+      "ref": "Ps.11.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "נֻדוּ",
+      "translit": "nudu",
+      "ref": "Jer.48.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּנֹד",
+      "translit": "tanod",
+      "ref": "Jer.16.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תָּנֻדוּ",
+      "translit": "tanudu",
+      "ref": "Jer.22.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וָנָד",
+      "translit": "vanad",
+      "ref": "Gen.4.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לָנֽוּד",
+      "translit": "lanud",
+      "ref": "Job.2.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיָנִיד",
+      "translit": "vyanid",
+      "ref": "Jer.18.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּנִדֵֽנִי",
+      "translit": "tnideni",
+      "ref": "Ps.36.12",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהָנִיד",
+      "translit": "lhanid",
+      "ref": "2Kgs.21.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּתְנוֹדָֽד",
+      "translit": "titnodad",
+      "ref": "Jer.48.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְהִֽתְנוֹדְדָה",
+      "translit": "vhitnoddah",
+      "ref": "Isa.24.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִתְנוֹדֵד",
+      "translit": "mitnoded",
+      "ref": "Jer.31.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "cause to wander; make a wagging motion",
+  "hithpolel": "move to and fro; shake oneself; bemoan oneself"
+ },
+ "root": "נוד",
+ "search_match": [
+  "5110",
+  "h5110",
+  "move to and fro",
+  "nud",
+  "נוד"
+ ],
+ "citation_translit": "nud",
+ "stem_coverage_checked": true
+}

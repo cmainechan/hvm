@@ -1,0 +1,174 @@
+{
+ "glosses": [
+  "exult"
+ ],
+ "strong": "H7797",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שָׂשׂ",
+      "translit": "sas",
+      "ref": "Deut.28.63",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "שַׂשְׂתִּי",
+      "translit": "sasti",
+      "ref": "Ps.119.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שָׂשׂוּ",
+      "translit": "sasu",
+      "ref": "Lam.1.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָשִׂישׂ",
+      "translit": "yasis",
+      "ref": "Deut.28.63",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָּשִׂישׂ",
+      "translit": "tasis",
+      "ref": "Ps.35.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָשִׂישׂ",
+      "translit": "asis",
+      "ref": "Isa.61.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָשִׂישׂוּ",
+      "translit": "yasisu",
+      "ref": "Job.3.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נָשִׂישׂ",
+      "translit": "nasis",
+      "ref": "Ezek.21.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְשָׂשׂ",
+      "translit": "vsas",
+      "ref": "Isa.66.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְשַׂשְׂתִּי",
+      "translit": "vsasti",
+      "ref": "Isa.65.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "שִׂישִׂי",
+      "translit": "sisi",
+      "ref": "Lam.4.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "שִׂישׂוּ",
+      "translit": "sisu",
+      "ref": "Isa.65.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "שָׂשׂ",
+      "translit": "sas",
+      "ref": "Isa.64.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לָשׂוּשׂ",
+      "translit": "lasus",
+      "ref": "Deut.30.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "שׂוֹשׂ",
+      "translit": "sos",
+      "ref": "Isa.61.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "שוש",
+ "search_match": [
+  "7797",
+  "h7797",
+  "exult",
+  "sus",
+  "שוש",
+  "שיש"
+ ],
+ "citation_translit": "sus",
+ "stem_coverage_checked": true
+}

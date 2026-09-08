@@ -1,0 +1,195 @@
+{
+ "glosses": [
+  "have dominion; scrape out"
+ ],
+ "strong": "H7287",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "רָדָה",
+      "translit": "radah",
+      "ref": "Judg.14.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "רְדִיתֶם",
+      "translit": "rditem",
+      "ref": "Ezek.34.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּרְדֵּהוּ",
+      "translit": "vayyirdehu",
+      "ref": "Judg.14.9",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּרְדּוּ",
+      "translit": "vayyirdu",
+      "ref": "Neh.9.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִרְדֶּנּֽוּ",
+      "translit": "yirdennu",
+      "ref": "Lev.25.53",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִרְדֶּה",
+      "translit": "tirdeh",
+      "ref": "Lev.25.43",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִרְדּוּ",
+      "translit": "yirdu",
+      "ref": "Jer.5.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְרָדוּ",
+      "translit": "vradu",
+      "ref": "Isa.14.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "רְדֵה",
+      "translit": "rdeh",
+      "ref": "Ps.110.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּרְדוּ",
+      "translit": "urdu",
+      "ref": "Gen.1.28",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיֵרְדְּ",
+      "translit": "vyerd",
+      "ref": "Num.24.19",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיִרְדּוּ",
+      "translit": "vyirdu",
+      "ref": "Gen.1.26",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "רֹדֶה",
+      "translit": "rodeh",
+      "ref": "1Kgs.5.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הָרֹדִים",
+      "translit": "harodim",
+      "ref": "1Kgs.5.30",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "רְדוֹת",
+      "translit": "rdot",
+      "ref": "Ezek.29.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַרְדְּ",
+      "translit": "yard",
+      "ref": "Isa.41.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "have dominion"
+ },
+ "root": "רדה",
+ "search_match": [
+  "7287",
+  "h7287",
+  "have dominion",
+  "radah",
+  "רדה"
+ ],
+ "citation_translit": "radah",
+ "stem_coverage_checked": true
+}

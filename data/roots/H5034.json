@@ -1,0 +1,188 @@
+{
+ "glosses": [
+  "be senseless; sink down"
+ ],
+ "strong": "H5034",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נָבֵֽל",
+      "translit": "navel",
+      "ref": "Isa.40.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נָֽבְלָה",
+      "translit": "navlah",
+      "ref": "Isa.24.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נָבַלְתָּ",
+      "translit": "navalta",
+      "ref": "Prov.30.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וַנָּבֶל",
+      "translit": "vannavel",
+      "ref": "Isa.64.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִבּוֹל",
+      "translit": "yibbol",
+      "ref": "Ezek.47.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּבֹּל",
+      "translit": "tibbol",
+      "ref": "Exod.18.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִבֹּלוּ",
+      "translit": "yibbolu",
+      "ref": "2Sam.22.46",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֹבֵל",
+      "translit": "novel",
+      "ref": "Isa.28.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "וּכְנֹבֶלֶת",
+      "translit": "ukhnovelet",
+      "ref": "Isa.34.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כִּנְבֹל",
+      "translit": "kinvol",
+      "ref": "Isa.34.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "נָבֹל",
+      "translit": "navol",
+      "ref": "Exod.18.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְנִבַּלְתִּיךְ",
+      "translit": "vnibbaltikh",
+      "ref": "Nah.3.6",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְנַבֵּל",
+      "translit": "vaynabbel",
+      "ref": "Deut.32.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּנַבֵּל",
+      "translit": "tnabbel",
+      "ref": "Jer.14.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְנַבֵּל",
+      "translit": "mnabbel",
+      "ref": "Mic.7.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "regard as foolish; treat with contempt"
+ },
+ "root": "נבל",
+ "search_match": [
+  "5034",
+  "h5034",
+  "be senseless",
+  "navel",
+  "נבל"
+ ],
+ "citation_translit": "navel",
+ "stem_coverage_checked": true
+}

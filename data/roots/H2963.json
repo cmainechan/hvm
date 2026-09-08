@@ -1,0 +1,184 @@
+{
+ "glosses": [
+  "tear"
+ ],
+ "strong": "H2963",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "טָרָף",
+      "translit": "taraf",
+      "ref": "Hos.6.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּטְרֹף",
+      "translit": "vayyitrof",
+      "ref": "Amos.1.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִטְרָף",
+      "translit": "yitraf",
+      "ref": "Gen.49.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶטְרֹף",
+      "translit": "etrof",
+      "ref": "Hos.5.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְטָרַף",
+      "translit": "vtaraf",
+      "ref": "Deut.33.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "טֹרֵֽף",
+      "translit": "toref",
+      "ref": "Ezek.22.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִטְרָף",
+      "translit": "litraf",
+      "ref": "Ezek.19.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "טָרֹף",
+      "translit": "tarof",
+      "ref": "Exod.22.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִטָּרֵף",
+      "translit": "yittaref",
+      "ref": "Exod.22.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "טֹרַף",
+      "translit": "toraf",
+      "ref": "Gen.37.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַטְרִיפֵנִי",
+      "translit": "hatrifeni",
+      "ref": "Prov.30.8",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "qal_passive": {
+   "sense_hint": "passive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "טֹרָף",
+      "translit": "toraf",
+      "ref": "Gen.44.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be torn in pieces",
+  "pual": "be torn in pieces",
+  "hiphil": "provide food",
+  "qal_passive": "be torn in pieces"
+ },
+ "root": "טרף",
+ "search_match": [
+  "2963",
+  "h2963",
+  "tear (taraf)",
+  "taraf",
+  "טרף"
+ ],
+ "citation_translit": "taraf",
+ "stem_coverage_checked": true
+}

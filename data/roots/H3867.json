@@ -1,0 +1,186 @@
+{
+ "glosses": [
+  "join; attend; borrow"
+ ],
+ "strong": "H3867",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "לָוִינוּ",
+      "translit": "lavinu",
+      "ref": "Neh.5.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִלְוֶנּוּ",
+      "translit": "yilvennu",
+      "ref": "Eccl.8.15",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִלְוֶֽה",
+      "translit": "tilveh",
+      "ref": "Deut.28.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "לֹוֶה",
+      "translit": "loveh",
+      "ref": "Prov.22.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִלְוָה",
+      "translit": "nilvah",
+      "ref": "Ps.83.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִלָּוֶה",
+      "translit": "yillaveh",
+      "ref": "Gen.29.34",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיִלָּווּ",
+      "translit": "vyillavu",
+      "ref": "Num.18.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִלְוָה",
+      "translit": "vnilvah",
+      "ref": "Isa.14.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנִלְווּ",
+      "translit": "vnilvu",
+      "ref": "Dan.11.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַנִּלְוִים",
+      "translit": "hannilvim",
+      "ref": "Esth.9.27",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַלְוְךָ",
+      "translit": "yalvkha",
+      "ref": "Deut.28.44",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּלְוֶה",
+      "translit": "talveh",
+      "ref": "Exod.22.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהִלְוִיתָ",
+      "translit": "vhilvita",
+      "ref": "Deut.28.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַלְוֶֽה",
+      "translit": "malveh",
+      "ref": "Prov.22.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "join oneself to",
+  "hiphil": "lend to"
+ },
+ "root": "לוה",
+ "search_match": [
+  "3867",
+  "h3867",
+  "join",
+  "lavah",
+  "לוה"
+ ],
+ "citation_translit": "lavah",
+ "stem_coverage_checked": true
+}

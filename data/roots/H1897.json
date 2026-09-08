@@ -1,0 +1,160 @@
+{
+ "glosses": [
+  "roar; utter; meditate"
+ ],
+ "strong": "H1897",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הָגִיתִי",
+      "translit": "hagiti",
+      "ref": "Ps.143.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶהְגֶּה",
+      "translit": "yehgeh",
+      "ref": "Isa.31.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֶהְגֶּֽה",
+      "translit": "tehgeh",
+      "ref": "Isa.59.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶהְגֶּה",
+      "translit": "ehgeh",
+      "ref": "Isa.38.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֶהְגּוּ",
+      "translit": "yehgu",
+      "ref": "Ps.115.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תֶּהְגּוּ",
+      "translit": "tehgu",
+      "ref": "Isa.16.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נֶהְגֶּה",
+      "translit": "nehgeh",
+      "ref": "Isa.59.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהָגִיתָ",
+      "translit": "vhagita",
+      "ref": "Josh.1.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהָגִיתִי",
+      "translit": "vhagiti",
+      "ref": "Ps.77.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הָגֹה",
+      "translit": "hagoh",
+      "ref": "Isa.59.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "poel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְהֹגוֹ",
+      "translit": "vhogo",
+      "ref": "Isa.59.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "וְהַמַּהְגִּים",
+      "translit": "vhammahgim",
+      "ref": "Isa.8.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "poel": "utter",
+  "hiphil": "mutter"
+ },
+ "root": "הגה",
+ "search_match": [
+  "1897",
+  "h1897",
+  "roar",
+  "hagah",
+  "הגה"
+ ],
+ "citation_translit": "hagah",
+ "stem_coverage_checked": true
+}
