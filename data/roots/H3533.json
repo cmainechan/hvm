@@ -1,0 +1,162 @@
+{
+ "glosses": [
+  "bring into bondage; subdue"
+ ],
+ "strong": "H3533",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְכָֽבְשׁוּ",
+      "translit": "vkhavshu",
+      "ref": "Zech.9.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַתִּכְבְּשׁוּ",
+      "translit": "vattikhbshu",
+      "ref": "Jer.34.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּכְבְּשׁוּם",
+      "translit": "vayyikhbshum",
+      "ref": "Jer.34.11",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִכְבֹּשׁ",
+      "translit": "yikhbosh",
+      "ref": "Mic.7.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְכִבְשֻׁהָ",
+      "translit": "vkhivshuha",
+      "ref": "Gen.1.28",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִכְבֹּשׁ",
+      "translit": "likhbosh",
+      "ref": "2Chr.28.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "כֹבְשִׁים",
+      "translit": "khovshim",
+      "ref": "Neh.5.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נִכְבְּשָׁה",
+      "translit": "nikhbshah",
+      "ref": "Josh.18.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְנִכְבְּשָׁה",
+      "translit": "vnikhbshah",
+      "ref": "1Chr.22.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "נִכְבָּשׁוֹת",
+      "translit": "nikhbashot",
+      "ref": "Neh.5.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "כִּבֵּֽשׁ",
+      "translit": "kibbesh",
+      "ref": "2Sam.8.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be subdued",
+  "piel": "subdue (of conquest)"
+ },
+ "notes": [
+  "Requested hiphil (\"bring into bondage\") is not attested under H3533 in the corpus -- no hophal or cross-referenced suppletive form found either (lexicon entry has no \"compare\" note). Excluded rather than shipped unattested; qal's own \"bring into bondage\" already covers the same sense."
+ ],
+ "root": "כבש",
+ "search_match": [
+  "3533",
+  "h3533",
+  "bring into bondage; subdue",
+  "kavash",
+  "כבש"
+ ],
+ "citation_translit": "kavash",
+ "stem_coverage_checked": true
+}

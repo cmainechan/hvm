@@ -1,0 +1,181 @@
+{
+ "glosses": [
+  "let go; let alone; uncover"
+ ],
+ "strong": "H6544",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "פְרָעֹה",
+      "translit": "fra'oh",
+      "ref": "Exod.32.25",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַתִּפְרְעוּ",
+      "translit": "vattifru",
+      "ref": "Prov.1.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּפָרַע",
+      "translit": "ufara",
+      "ref": "Num.5.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶפְרַע",
+      "translit": "efra",
+      "ref": "Ezek.24.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִפְרָע",
+      "translit": "yifra",
+      "ref": "Lev.21.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "פְּרָעֵהוּ",
+      "translit": "pra'ehu",
+      "ref": "Prov.4.15",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בִּפְרֹעַ",
+      "translit": "bifroa",
+      "ref": "Judg.5.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּפְרָעוּ",
+      "translit": "tifrau",
+      "ref": "Lev.10.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "פּוֹרֵעַ",
+      "translit": "porea",
+      "ref": "Prov.13.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "פָרֻעַ",
+      "translit": "farua",
+      "ref": "Exod.32.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִפָּרַֽע",
+      "translit": "yippara",
+      "ref": "Prov.29.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִפְרִיעַ",
+      "translit": "hifria",
+      "ref": "2Chr.28.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּפְרִיעוּ",
+      "translit": "tafriu",
+      "ref": "Exod.5.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be let loose; be unrestrained",
+  "hiphil": "cause to refrain; loose restraints"
+ },
+ "root": "פרע",
+ "search_match": [
+  "6544",
+  "h6544",
+  "let go; let alone; uncover",
+  "para",
+  "פרע"
+ ],
+ "citation_translit": "para",
+ "stem_coverage_checked": true
+}

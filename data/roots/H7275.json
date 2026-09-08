@@ -1,0 +1,90 @@
+{
+ "glosses": [
+  "stone"
+ ],
+ "strong": "H7275",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְרָגְמוּ",
+      "translit": "vragmu",
+      "ref": "Lev.24.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּרְגְּמוּ",
+      "translit": "vayyirgmu",
+      "ref": "1Kgs.12.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְרָגְמוּ",
+      "translit": "vragmu",
+      "ref": "Ezek.16.40",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִרְגְּמוּ",
+      "translit": "yirgmu",
+      "ref": "Lev.20.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִרְגּוֹם",
+      "translit": "lirgom",
+      "ref": "Num.14.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "רָגוֹם",
+      "translit": "ragom",
+      "ref": "Lev.24.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "רגם",
+ "search_match": [
+  "7275",
+  "h7275",
+  "stone",
+  "ragam",
+  "רגם"
+ ],
+ "citation_translit": "ragam",
+ "stem_coverage_checked": true
+}

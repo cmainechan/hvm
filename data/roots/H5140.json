@@ -1,0 +1,106 @@
+{
+ "glosses": [
+  "flow; gush"
+ ],
+ "strong": "H5140",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָזְלוּ",
+      "translit": "nazlu",
+      "ref": "Judg.5.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּזַּל",
+      "translit": "tizzal",
+      "ref": "Deut.32.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִזְּלוּ",
+      "translit": "yizzlu",
+      "ref": "Isa.45.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִֽזַּל",
+      "translit": "yizzal",
+      "ref": "Num.24.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִזְּלוּ",
+      "translit": "yizzlu",
+      "ref": "Song.4.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נֹזְלִים",
+      "translit": "nozlim",
+      "ref": "Exod.15.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִזִּיל",
+      "translit": "hizzil",
+      "ref": "Isa.48.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "cause to flow"
+ },
+ "root": "נזל",
+ "search_match": [
+  "5140",
+  "h5140",
+  "flow; gush",
+  "nazal",
+  "נזל"
+ ],
+ "citation_translit": "nazal",
+ "stem_coverage_checked": true
+}

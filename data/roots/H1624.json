@@ -1,0 +1,115 @@
+{
+ "glosses": [
+  "stir up strife"
+ ],
+ "strong": "H1624",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְגָרֶה",
+      "translit": "ygareh",
+      "ref": "Prov.15.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הִתְגָּרִֽית",
+      "translit": "hitgarit",
+      "ref": "Jer.50.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִתְגָּרֶה",
+      "translit": "titgareh",
+      "ref": "2Chr.25.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתְגָּרוּ",
+      "translit": "yitgaru",
+      "ref": "Dan.11.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְגָּרֶה",
+      "translit": "yitgareh",
+      "ref": "Dan.11.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהִתְגָּר",
+      "translit": "vhitgar",
+      "ref": "Deut.2.24",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּתְגָּרוּ",
+      "translit": "titgaru",
+      "ref": "Deut.2.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּתְגָּר",
+      "translit": "titgar",
+      "ref": "Deut.2.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hitpael": "contend; wage war"
+ },
+ "root": "גרה",
+ "search_match": [
+  "1624",
+  "h1624",
+  "stir up strife",
+  "garah",
+  "גרה"
+ ],
+ "citation_translit": "garah",
+ "stem_coverage_checked": true
+}

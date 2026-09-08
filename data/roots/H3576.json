@@ -1,0 +1,162 @@
+{
+ "glosses": [
+  "liar"
+ ],
+ "strong": "H3576",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "כֹּזֵֽב",
+      "translit": "kozev",
+      "ref": "Ps.116.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נִכְזָבָה",
+      "translit": "nikhzavah",
+      "ref": "Job.41.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְנִכְזָֽבְתָּ",
+      "translit": "vnikhzavta",
+      "ref": "Prov.30.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "כִּזֵּב",
+      "translit": "kizzev",
+      "ref": "Mic.2.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲכַזֵּב",
+      "translit": "akhazzev",
+      "ref": "Job.34.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תְכַזֵּבִי",
+      "translit": "tkhazzevi",
+      "ref": "Isa.57.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְכַזְּבוּ",
+      "translit": "ykhazzvu",
+      "ref": "Isa.58.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְכַזֵּב",
+      "translit": "ykhazzev",
+      "ref": "Hab.2.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְּכַזֶּבְכֶם",
+      "translit": "bkhazzevkhem",
+      "ref": "Ezek.13.19",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּכַזֵּב",
+      "translit": "tkhazzev",
+      "ref": "2Kgs.4.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַכְזִיבֵנִי",
+      "translit": "yakhziveni",
+      "ref": "Job.24.25",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be proven a liar",
+  "piel": "lie; disappoint",
+  "hiphil": "prove someone a liar"
+ },
+ "root": "כזב",
+ "search_match": [
+  "3576",
+  "h3576",
+  "liar",
+  "kazav",
+  "כזב"
+ ],
+ "citation_translit": "kazav",
+ "stem_coverage_checked": true
+}

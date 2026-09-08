@@ -1,0 +1,119 @@
+{
+ "glosses": [
+  "exchange; barter"
+ ],
+ "strong": "H4171",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נָמָֽר",
+      "translit": "namar",
+      "ref": "Jer.48.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֵמִיר",
+      "translit": "hemir",
+      "ref": "Jer.2.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּמִירוּ",
+      "translit": "vayyamiru",
+      "ref": "Ps.106.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָמִֽיר",
+      "translit": "amir",
+      "ref": "Hos.4.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָמִיר",
+      "translit": "yamir",
+      "ref": "Lev.27.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְּהָמִיר",
+      "translit": "bhamir",
+      "ref": "Ps.46.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הָמֵר",
+      "translit": "hamer",
+      "ref": "Lev.27.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָמֵר",
+      "translit": "yamer",
+      "ref": "Ezek.48.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be changed"
+ },
+ "root": "מור",
+ "search_match": [
+  "4171",
+  "h4171",
+  "exchange; barter",
+  "mur",
+  "מור"
+ ],
+ "citation_translit": "mur",
+ "stem_coverage_checked": true
+}

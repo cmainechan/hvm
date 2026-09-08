@@ -1,0 +1,106 @@
+{
+ "glosses": [
+  "celebrate; reel"
+ ],
+ "strong": "H2287",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְחַגֹּתֶם",
+      "translit": "vchaggotem",
+      "ref": "Exod.12.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תָּחֹגּוּ",
+      "translit": "tachoggu",
+      "ref": "Lev.23.39",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּחֹג",
+      "translit": "tachog",
+      "ref": "Deut.16.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָחוֹגּוּ",
+      "translit": "yachoggu",
+      "ref": "Ps.107.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "חָגִּי",
+      "translit": "chaggi",
+      "ref": "Nah.2.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְלָחֹג",
+      "translit": "vlachog",
+      "ref": "Zech.14.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "וְחֹגְגִים",
+      "translit": "vchoggim",
+      "ref": "1Sam.30.16",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חוֹגֵֽג",
+      "translit": "chogeg",
+      "ref": "Ps.42.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "חגג",
+ "search_match": [
+  "2287",
+  "h2287",
+  "celebrate; reel",
+  "chagag",
+  "חגג"
+ ],
+ "citation_translit": "chagag",
+ "stem_coverage_checked": true
+}

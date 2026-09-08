@@ -1,0 +1,128 @@
+{
+ "glosses": [
+  "divide; halve"
+ ],
+ "strong": "H2673",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חָצָה",
+      "translit": "chatzah",
+      "ref": "Num.31.42",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּחַץ",
+      "translit": "vayyachatz",
+      "ref": "Gen.32.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְחָצִיתָ",
+      "translit": "vchatzita",
+      "ref": "Num.31.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְחָצוּ",
+      "translit": "vchatzu",
+      "ref": "Exod.21.35",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֶֽחֱצֽוּן",
+      "translit": "yechetzun",
+      "ref": "Exod.21.35",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶֽחֱצֶה",
+      "translit": "yechetzeh",
+      "ref": "Isa.30.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיֵּֽחָצוּ",
+      "translit": "vayyechatzu",
+      "ref": "2Kgs.2.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֵחָצוּ",
+      "translit": "yechatzu",
+      "ref": "Ezek.37.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְתֵחָץ",
+      "translit": "vtechatz",
+      "ref": "Dan.11.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be divided"
+ },
+ "root": "חצה",
+ "search_match": [
+  "2673",
+  "h2673",
+  "divide; halve",
+  "chatzah",
+  "חצה"
+ ],
+ "citation_translit": "chatzah",
+ "stem_coverage_checked": true
+}

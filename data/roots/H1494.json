@@ -1,0 +1,108 @@
+{
+ "glosses": [
+  "shear (a flock); cut off"
+ ],
+ "strong": "H1494",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּגָז",
+      "translit": "vayyagaz",
+      "ref": "Job.1.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָגֹז",
+      "translit": "tagoz",
+      "ref": "Deut.15.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "גָּזִּי",
+      "translit": "gazzi",
+      "ref": "Jer.7.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בִּגְזֹז",
+      "translit": "bigzoz",
+      "ref": "1Sam.25.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "גֹזְזִים",
+      "translit": "gozzim",
+      "ref": "1Sam.25.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "גֹזֵז",
+      "translit": "gozez",
+      "ref": "1Sam.25.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָגֹזּוּ",
+      "translit": "nagozzu",
+      "ref": "Nah.1.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be shorn"
+ },
+ "root": "גזז",
+ "search_match": [
+  "1494",
+  "h1494",
+  "shear (a flock); cut off",
+  "gazaz",
+  "גזז"
+ ],
+ "citation_translit": "gazaz",
+ "stem_coverage_checked": true
+}

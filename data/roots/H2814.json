@@ -1,0 +1,126 @@
+{
+ "glosses": [
+  "be silent"
+ ],
+ "strong": "H2814",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיֶּחֱשׁוּ",
+      "translit": "vayyecheshu",
+      "ref": "Ps.107.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶחֱשֶׁה",
+      "translit": "echesheh",
+      "ref": "Isa.62.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֶּחֱשֶׁה",
+      "translit": "techesheh",
+      "ref": "Isa.64.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֶחֱשׁוּ",
+      "translit": "yecheshu",
+      "ref": "Isa.62.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַחֲשׁוֹת",
+      "translit": "lachashot",
+      "ref": "Eccl.3.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הֶחֱשֵׁיתִי",
+      "translit": "hechesheti",
+      "ref": "Isa.42.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הֶחֱשֽׁוּ",
+      "translit": "hecheshu",
+      "ref": "2Kgs.2.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַחְשִׁים",
+      "translit": "machshim",
+      "ref": "1Kgs.22.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַחְשֶׁה",
+      "translit": "machsheh",
+      "ref": "Isa.57.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "be silent; make silent"
+ },
+ "root": "חשה",
+ "search_match": [
+  "2814",
+  "h2814",
+  "be silent",
+  "chashah",
+  "חשה"
+ ],
+ "citation_translit": "chashah",
+ "stem_coverage_checked": true
+}

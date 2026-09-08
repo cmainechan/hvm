@@ -1,0 +1,119 @@
+{
+ "glosses": [
+  "be pleasant; be glad; be well with"
+ ],
+ "strong": "H2895",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "טֹּבוּ",
+      "translit": "tovu",
+      "ref": "Num.24.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "טוֹב",
+      "translit": "tov",
+      "ref": "Deut.15.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְטוֹב",
+      "translit": "vtov",
+      "ref": "1Sam.16.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הֱטִיבֹתָ",
+      "translit": "hetivota",
+      "ref": "1Kgs.8.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהֵטִֽבֹתִי",
+      "translit": "vhetivoti",
+      "ref": "Ezek.36.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הֵיטִיבָה",
+      "translit": "hetivah",
+      "ref": "Ps.125.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהֵטִיב",
+      "translit": "lhetiv",
+      "ref": "Jer.32.41",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּמֵטִב",
+      "translit": "umetiv",
+      "ref": "Ezek.33.32",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "do well"
+ },
+ "root": "טוב",
+ "search_match": [
+  "2895",
+  "h2895",
+  "be pleasant; be glad; be well with",
+  "tov",
+  "טוב"
+ ],
+ "citation_translit": "tov",
+ "stem_coverage_checked": true
+}

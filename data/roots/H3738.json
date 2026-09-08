@@ -1,0 +1,136 @@
+{
+ "glosses": [
+  "dig; buy"
+ ],
+ "strong": "H3738",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "כָּרִיתִי",
+      "translit": "kariti",
+      "ref": "Gen.50.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "כָּרִיתָ",
+      "translit": "karita",
+      "ref": "Ps.40.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "כָרוּ",
+      "translit": "kharu",
+      "ref": "Jer.18.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "כָּֽרָה",
+      "translit": "karah",
+      "ref": "2Chr.16.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּכְרוּ",
+      "translit": "vayyikhru",
+      "ref": "Gen.26.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְתִכְרוּ",
+      "translit": "vtikhru",
+      "ref": "Job.6.27",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִכְרוּ",
+      "translit": "yikhru",
+      "ref": "Job.40.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִכְרֶה",
+      "translit": "yikhreh",
+      "ref": "Exod.21.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "כֹּרֶה",
+      "translit": "koreh",
+      "ref": "Prov.16.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִכָּרֶה",
+      "translit": "yikkareh",
+      "ref": "Ps.94.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be dug"
+ },
+ "notes": [
+  "Requested qal sense \"give a feast\" is not attested under H3738 in the corpus. Its only textual support (2Kgs.6.23, וַיִּכְרֶה לָהֶם כֵּרָה גְדוֹלָה, \"he prepared them a great feast\") is tagged by OSHB under a separate Strong's number, H3739 -- which Strong's own cross-reference calls \"probably only a special application of 3738\" (same historical root, split number). Left out of glosses pending a decision on whether to model H3739 separately; \"buy\" is retained since its own citation (Job.6.27, וְתִכְרוּ עַל רֵיעֲכֶם, \"bargain over your friend\") is tagged '3738 b' -- a homonym-letter sub-sense of this same number, not a different one."
+ ],
+ "root": "כרה",
+ "search_match": [
+  "3738",
+  "h3738",
+  "dig; buy",
+  "karah",
+  "כרה"
+ ],
+ "citation_translit": "karah",
+ "stem_coverage_checked": true
+}
