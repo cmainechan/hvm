@@ -1,0 +1,166 @@
+{
+ "glosses": [
+  "root out"
+ ],
+ "strong": "H5428",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנָתַשׁ",
+      "translit": "vnatash",
+      "ref": "1Kgs.14.15",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נָתַשְׁתָּ",
+      "translit": "natashta",
+      "ref": "Ps.9.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּתְּשֵׁם",
+      "translit": "vayyittshem",
+      "ref": "Deut.29.27",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶתּוֹשׁ",
+      "translit": "ettosh",
+      "ref": "Jer.12.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְנָתַשְׁתִּי",
+      "translit": "vnatashti",
+      "ref": "Jer.12.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֹתֵשׁ",
+      "translit": "notesh",
+      "ref": "Jer.45.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִנְתוֹשׁ",
+      "translit": "lintosh",
+      "ref": "Jer.1.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "נָתוֹשׁ",
+      "translit": "natosh",
+      "ref": "Jer.12.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִנָּתֵשׁ",
+      "translit": "yinnatesh",
+      "ref": "Jer.31.40",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִנָּתֵשׁ",
+      "translit": "tinnatesh",
+      "ref": "Dan.11.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִנָּתְשׁוּ",
+      "translit": "yinnatshu",
+      "ref": "Amos.9.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתֻּתַּשׁ",
+      "translit": "vattuttash",
+      "ref": "Ezek.19.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be rooted up",
+  "hophal": "be rooted up"
+ },
+ "root": "נתש",
+ "search_match": [
+  "5428",
+  "h5428",
+  "root out",
+  "natash",
+  "נתש"
+ ],
+ "citation_translit": "natash",
+ "stem_coverage_checked": true
+}

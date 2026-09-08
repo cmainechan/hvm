@@ -1,0 +1,195 @@
+{
+ "glosses": [
+  "pour forth (of wrath, groans)"
+ ],
+ "strong": "H5413",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּתַּךְ",
+      "translit": "vattittakh",
+      "ref": "Dan.9.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּתְּכוּ",
+      "translit": "vayyittkhu",
+      "ref": "Job.3.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִתַּךְ",
+      "translit": "tittakh",
+      "ref": "2Chr.12.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִתַּךְ",
+      "translit": "nittakh",
+      "ref": "2Sam.21.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נִתְּכָה",
+      "translit": "nittkhah",
+      "ref": "2Chr.34.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְנִתְּכָה",
+      "translit": "vnittkhah",
+      "ref": "Ezek.24.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְנִתַּכְתֶּם",
+      "translit": "vnittakhtem",
+      "ref": "Ezek.22.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "נִתֶּכֶת",
+      "translit": "nittekhet",
+      "ref": "Jer.7.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִתִּיכוּ",
+      "translit": "hittikhu",
+      "ref": "2Kgs.22.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּתִּיכוּ",
+      "translit": "vayyattikhu",
+      "ref": "2Chr.34.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּתִּיכֵנִי",
+      "translit": "tattikheni",
+      "ref": "Job.10.10",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִתַּכְתִּי",
+      "translit": "vhittakhti",
+      "ref": "Ezek.22.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַנְתִּיךְ",
+      "translit": "lhantikh",
+      "ref": "Ezek.22.20",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תֻּתְּכוּ",
+      "translit": "tuttkhu",
+      "ref": "Ezek.22.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "flow",
+  "hiphil": "melt",
+  "hophal": "be poured out; be molten"
+ },
+ "root": "נתך",
+ "search_match": [
+  "5413",
+  "h5413",
+  "pour forth (of wrath, groans)",
+  "natakh",
+  "נתך"
+ ],
+ "citation_translit": "natakh",
+ "stem_coverage_checked": true
+}

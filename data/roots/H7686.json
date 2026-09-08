@@ -1,0 +1,155 @@
+{
+ "glosses": [
+  "go astray; reel"
+ ],
+ "strong": "H7686",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "שָׁגִיתִי",
+      "translit": "shagiti",
+      "ref": "Job.19.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שָׁגוּ",
+      "translit": "shagu",
+      "ref": "Isa.28.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶשְׁגֶּה",
+      "translit": "va'eshgeh",
+      "ref": "1Sam.26.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשְׁגֶּֽה",
+      "translit": "yishgeh",
+      "ref": "Prov.5.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּשְׁגֶּה",
+      "translit": "tishgeh",
+      "ref": "Prov.5.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשְׁגּוּ",
+      "translit": "yishgu",
+      "ref": "Ezek.34.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִשְׁגּוּ",
+      "translit": "tishgu",
+      "ref": "Num.15.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "שֹׁגֶה",
+      "translit": "shogeh",
+      "ref": "Ezek.45.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "שׁוֹגִים",
+      "translit": "shogim",
+      "ref": "Ps.119.118",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִשְׁגוֹת",
+      "translit": "lishgot",
+      "ref": "Prov.19.27",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּשְׁגֵּנִי",
+      "translit": "tashgeni",
+      "ref": "Ps.119.10",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַשְׁגֶּה",
+      "translit": "mashgeh",
+      "ref": "Deut.27.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "cause to go astray"
+ },
+ "root": "שגה",
+ "search_match": [
+  "7686",
+  "h7686",
+  "go astray",
+  "shagah",
+  "שגה"
+ ],
+ "citation_translit": "shagah",
+ "stem_coverage_checked": true
+}

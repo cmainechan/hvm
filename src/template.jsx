@@ -20,6 +20,7 @@ const STEM_COLOR = {
   pilpel: { color: "#C77D2F", soft: "#F5E3D0", name: "Pilpel" },
   polel: { color: "#2F6B8B", soft: "#D6E6EE", name: "Polel" },
   poel: { color: "#5C8B2F", soft: "#E1EBD6", name: "Poel" },
+  pealal: { color: "#4A6B2F", soft: "#DEE6D6", name: "Pealal" },
   pual: { color: "#5C4A8B", soft: "#E1DAEF", name: "Pual" },
   poal: { color: "#8B5C2F", soft: "#EFE0D0", name: "Poal" },
   polal: { color: "#6B8B2F", soft: "#E6EBD6", name: "Polal" },
@@ -33,7 +34,7 @@ const STEM_COLOR = {
   nithpael: { color: "#8B2F8B", soft: "#EBD6EB", name: "Nithpael" },
   hishtaphel: { color: "#3A4A8B", soft: "#DADFF0", name: "Hishtaphel" },
 };
-const STEM_ORDER = ["qal", "qal_passive", "niphal", "piel", "pilpel", "polel", "poel", "pual", "poal", "polal", "polpal", "hiphil", "hophal", "hitpael", "hithpolel", "hithpalpel", "hothpaal", "nithpael", "hishtaphel"];
+const STEM_ORDER = ["qal", "qal_passive", "niphal", "piel", "pilpel", "polel", "poel", "pealal", "pual", "poal", "polal", "polpal", "hiphil", "hophal", "hitpael", "hithpolel", "hithpalpel", "hothpaal", "nithpael", "hishtaphel"];
 
 // a handful of roots default to a stem other than the first-available one in
 // STEM_ORDER, because that stem is overwhelmingly the dominant/expected form
@@ -92,6 +93,8 @@ const DEFAULT_STEM_OVERRIDE = {
   "נשא²": "hiphil",
   "הום": "niphal",
   "כלם": "niphal",
+  "שזר": "hophal",
+  "תעב": "piel",
 };
 
 const CATEGORY_ORDER = {

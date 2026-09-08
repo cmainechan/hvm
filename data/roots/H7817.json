@@ -1,0 +1,191 @@
+{
+ "glosses": [
+  "be bowed down; crouch"
+ ],
+ "strong": "H7817",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְשַׁח",
+      "translit": "vshach",
+      "ref": "Isa.2.11",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "שַׁחֽוֹתִי",
+      "translit": "shachoti",
+      "ref": "Ps.35.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שַׁחוּ",
+      "translit": "shachu",
+      "ref": "Hab.3.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּשֹׁחוּ",
+      "translit": "vayyashochu",
+      "ref": "Ps.107.39",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָשֹׁחַ",
+      "translit": "yashocha",
+      "ref": "Ps.10.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָשֹׁחוּ",
+      "translit": "yashochu",
+      "ref": "Job.38.40",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְשַׁח",
+      "translit": "vshach",
+      "ref": "Isa.2.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "שְׁחוֹחַ",
+      "translit": "shchocha",
+      "ref": "Isa.60.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּשַּׁח",
+      "translit": "vayyisshach",
+      "ref": "Isa.2.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּשַּׁח",
+      "translit": "tisshach",
+      "ref": "Isa.29.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיִשַּׁחוּ",
+      "translit": "vyisshachu",
+      "ref": "Eccl.12.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֵשַׁח",
+      "translit": "heshach",
+      "ref": "Isa.25.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִשְׁתּוֹחָח",
+      "translit": "tishtochach",
+      "ref": "Ps.42.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִּשְׁתּוֹחֲחִי",
+      "translit": "tishtochachi",
+      "ref": "Ps.42.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be prostrated; be reduced",
+  "hiphil": "prostrate",
+  "hithpolel": "be cast down"
+ },
+ "root": "שחח",
+ "search_match": [
+  "7817",
+  "h7817",
+  "be bowed down",
+  "shachach",
+  "שחח"
+ ],
+ "citation_translit": "shachach",
+ "stem_coverage_checked": true
+}

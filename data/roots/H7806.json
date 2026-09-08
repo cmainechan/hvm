@@ -1,0 +1,35 @@
+{
+ "glosses": [
+  "be twisted (of fine linen thread)"
+ ],
+ "strong": "H7806",
+ "stems": {
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מָשְׁזָר",
+      "translit": "mashzar",
+      "ref": "Exod.26.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "שזר",
+ "search_match": [
+  "7806",
+  "h7806",
+  "be twisted (of fine linen thread)",
+  "shazar",
+  "שזר"
+ ],
+ "citation_translit": "shazar",
+ "stem_coverage_checked": true
+}

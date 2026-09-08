@@ -1,0 +1,162 @@
+{
+ "glosses": [
+  "desire; covet"
+ ],
+ "strong": "H2530",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חָמַד",
+      "translit": "chamad",
+      "ref": "Prov.12.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חָמְדוּ",
+      "translit": "chamdu",
+      "ref": "Prov.1.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "חֲמַדְתֶּם",
+      "translit": "chamadtem",
+      "ref": "Isa.1.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָֽאֶחְמְדֵם",
+      "translit": "va'echmdem",
+      "ref": "Josh.7.21",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחְמֹד",
+      "translit": "yachmod",
+      "ref": "Exod.34.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַחְמֹד",
+      "translit": "tachmod",
+      "ref": "Deut.5.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְנֶחְמְדֵֽהוּ",
+      "translit": "vnechmdehu",
+      "ref": "Isa.53.2",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְחָמְדוּ",
+      "translit": "vchamdu",
+      "ref": "Mic.2.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּחְמֹד",
+      "translit": "tachmod",
+      "ref": "Prov.6.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֶחְמָד",
+      "translit": "nechmad",
+      "ref": "Gen.2.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַֽנֶּחֱמָדִים",
+      "translit": "hannechemadim",
+      "ref": "Ps.19.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "חִמַּדְתִּי",
+      "translit": "chimmadti",
+      "ref": "Song.2.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be desirable",
+  "piel": "desire greatly"
+ },
+ "root": "חמד",
+ "search_match": [
+  "2530",
+  "h2530",
+  "desire",
+  "chamad",
+  "חמד"
+ ],
+ "citation_translit": "chamad",
+ "stem_coverage_checked": true
+}

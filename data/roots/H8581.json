@@ -1,0 +1,206 @@
+{
+ "glosses": [
+  "abhor; cause to be an abomination"
+ ],
+ "strong": "H8581",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִתְעַב",
+      "translit": "nit'av",
+      "ref": "1Chr.21.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִתְעָב",
+      "translit": "nit'av",
+      "ref": "Isa.14.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "תִּֽעֲבוּנִי",
+      "translit": "ti'avuni",
+      "ref": "Job.19.19",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְתָעֵב",
+      "translit": "vayta'ev",
+      "ref": "Ps.106.40",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַתְּתַֽעֲבִי",
+      "translit": "vattta'avi",
+      "ref": "Ezek.16.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְתָעֵב",
+      "translit": "yta'ev",
+      "ref": "Ps.5.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּתַעֵב",
+      "translit": "tta'ev",
+      "ref": "Ps.107.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְתַעֵב",
+      "translit": "tta'ev",
+      "ref": "Deut.23.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְתָעֵֽבוּ",
+      "translit": "yta'evu",
+      "ref": "Amos.5.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְתִֽעֲבוּנִי",
+      "translit": "vti'avuni",
+      "ref": "Job.9.31",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וַאֲתַעֵבָה",
+      "translit": "va'ata'evah",
+      "ref": "Ps.119.163",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַֽמֲתַעֲבִים",
+      "translit": "hamata'avim",
+      "ref": "Mic.3.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְתַעֵב",
+      "translit": "vta'ev",
+      "ref": "Deut.7.26",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הִתְעַבְתְּ",
+      "translit": "hit'avt",
+      "ref": "Ezek.16.52",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִֽתְעִיבוּ",
+      "translit": "hit'ivu",
+      "ref": "Ps.14.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּתְעֵב",
+      "translit": "vayyat'ev",
+      "ref": "1Kgs.21.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be abhorred",
+  "hiphil": "make abominable, do abominably"
+ },
+ "root": "תעב",
+ "search_match": [
+  "8581",
+  "h8581",
+  "abhor",
+  "ta'av",
+  "תעב"
+ ],
+ "citation_translit": "ta'av",
+ "stem_coverage_checked": true
+}

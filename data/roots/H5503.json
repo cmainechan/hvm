@@ -1,0 +1,106 @@
+{
+ "glosses": [
+  "go around; trade"
+ ],
+ "strong": "H5503",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "סָחֲרוּ",
+      "translit": "sacharu",
+      "ref": "Jer.14.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיִסְחֲרוּ",
+      "translit": "vyischaru",
+      "ref": "Gen.34.21",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּסְחָֽרוּ",
+      "translit": "tischaru",
+      "ref": "Gen.42.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּסְחָרוּהָ",
+      "translit": "uscharuha",
+      "ref": "Gen.34.10",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "סוֹחֵר",
+      "translit": "socher",
+      "ref": "Prov.31.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "סֹֽחֲרִים",
+      "translit": "socharim",
+      "ref": "Ezek.27.36",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pealal": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "סְחַרְחַר",
+      "translit": "scharchar",
+      "ref": "Ps.38.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pealal": "palpitate"
+ },
+ "root": "סחר",
+ "search_match": [
+  "5503",
+  "h5503",
+  "go around",
+  "sachar",
+  "סחר"
+ ],
+ "citation_translit": "sachar",
+ "stem_coverage_checked": true
+}

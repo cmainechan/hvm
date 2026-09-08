@@ -1,0 +1,104 @@
+{
+ "glosses": [
+  "roar"
+ ],
+ "strong": "H7580",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שָׁאָג",
+      "translit": "sha'ag",
+      "ref": "Amos.3.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "שָׁאַגְתִּי",
+      "translit": "sha'agti",
+      "ref": "Ps.38.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שָׁאֲגוּ",
+      "translit": "sha'agu",
+      "ref": "Ps.74.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשְׁאָג",
+      "translit": "yish'ag",
+      "ref": "Amos.1.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשְׁאֲגוּ",
+      "translit": "yish'agu",
+      "ref": "Jer.2.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "שׁוֹאֵג",
+      "translit": "sho'eg",
+      "ref": "Ezek.22.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "שֹׁאֲגִים",
+      "translit": "sho'agim",
+      "ref": "Ps.104.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "שָׁאֹג",
+      "translit": "sha'og",
+      "ref": "Jer.25.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "שאג",
+ "search_match": [
+  "7580",
+  "h7580",
+  "roar",
+  "sha'ag",
+  "שאג"
+ ],
+ "citation_translit": "sha'ag",
+ "stem_coverage_checked": true
+}

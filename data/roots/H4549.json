@@ -1,0 +1,166 @@
+{
+ "glosses": [
+  "waste away"
+ ],
+ "strong": "H4549",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כִּמְסֹס",
+      "translit": "kimsos",
+      "ref": "Isa.10.18",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נָמֵס",
+      "translit": "names",
+      "ref": "Nah.2.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָמַסּוּ",
+      "translit": "namassu",
+      "ref": "Ps.97.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּמַּס",
+      "translit": "vayyimmas",
+      "ref": "Josh.2.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּמַּסּוּ",
+      "translit": "vayyimmassu",
+      "ref": "Judg.15.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִמָּס",
+      "translit": "yimmas",
+      "ref": "2Sam.17.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנָמֵס",
+      "translit": "vnames",
+      "ref": "Ezek.21.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנָמַסּוּ",
+      "translit": "vnamassu",
+      "ref": "Isa.34.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְנָמֵס",
+      "translit": "vnames",
+      "ref": "1Sam.15.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כְּהִמֵּס",
+      "translit": "khimmes",
+      "ref": "Ps.68.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִמֵּס",
+      "translit": "himmes",
+      "ref": "2Sam.17.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֵמַסּוּ",
+      "translit": "hemassu",
+      "ref": "Deut.1.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "melt; faint",
+  "hiphil": "cause to melt; make fearful"
+ },
+ "root": "מסס",
+ "search_match": [
+  "4549",
+  "h4549",
+  "waste away (masas)",
+  "masas",
+  "מסס"
+ ],
+ "citation_translit": "masas",
+ "stem_coverage_checked": true
+}

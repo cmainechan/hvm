@@ -1,0 +1,146 @@
+{
+ "glosses": [
+  "come; arrive"
+ ],
+ "strong": "H857",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "אָתָה",
+      "translit": "atah",
+      "ref": "Isa.21.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "אָתָנוּ",
+      "translit": "atanu",
+      "ref": "Jer.3.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֵּתֵא",
+      "translit": "vayyete",
+      "ref": "Deut.33.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיֶּאֱתָיֽוּן",
+      "translit": "vayye'etayun",
+      "ref": "Isa.41.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶֽאֱתֶה",
+      "translit": "ye'eteh",
+      "ref": "Job.37.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֵּאתֶה",
+      "translit": "teteh",
+      "ref": "Mic.4.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֶאֱתָיוּ",
+      "translit": "ye'etayu",
+      "ref": "Job.16.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְאָתָה",
+      "translit": "v'atah",
+      "ref": "Deut.33.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "אֵתָֽיוּ",
+      "translit": "etayu",
+      "ref": "Isa.21.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "הָאֹתִיּוֹת",
+      "translit": "ha'otiyot",
+      "ref": "Isa.41.23",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הֵתָיוּ",
+      "translit": "hetayu",
+      "ref": "Isa.21.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "bring"
+ },
+ "root": "אתה",
+ "search_match": [
+  "857",
+  "h857",
+  "come",
+  "atah",
+  "אתה"
+ ],
+ "citation_translit": "atah",
+ "stem_coverage_checked": true
+}

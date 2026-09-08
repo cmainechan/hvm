@@ -1,0 +1,144 @@
+{
+ "glosses": [
+  "overhang, look out and down"
+ ],
+ "strong": "H8259",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִשְׁקָֽף",
+      "translit": "nishqaf",
+      "ref": "Ps.85.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נִשְׁקְפָה",
+      "translit": "nishqfah",
+      "ref": "1Chr.15.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נִשְׁקָֽפְתִּי",
+      "translit": "nishqafti",
+      "ref": "Prov.7.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַנִּשְׁקָף",
+      "translit": "hannishqaf",
+      "ref": "1Sam.13.18",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "וְנִשְׁקָפָה",
+      "translit": "vnishqafah",
+      "ref": "Num.21.20",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִשְׁקִיף",
+      "translit": "hishqif",
+      "ref": "Ps.102.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּשְׁקֵף",
+      "translit": "vayyashqef",
+      "ref": "2Sam.24.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתַּשְׁקֵף",
+      "translit": "vattashqef",
+      "ref": "2Kgs.9.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּשְׁקִיפוּ",
+      "translit": "vayyashqifu",
+      "ref": "2Kgs.9.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַשְׁקִיף",
+      "translit": "yashqif",
+      "ref": "Lam.3.50",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַשְׁקִיפָה",
+      "translit": "hashqifah",
+      "ref": "Deut.26.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "look out and down"
+ },
+ "root": "שקף",
+ "search_match": [
+  "8259",
+  "h8259",
+  "overhang, look out and down",
+  "shaqaf",
+  "שקף"
+ ],
+ "citation_translit": "shaqaf",
+ "stem_coverage_checked": true
+}
