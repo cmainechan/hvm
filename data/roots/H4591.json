@@ -1,0 +1,184 @@
+{
+ "glosses": [
+  "be diminished"
+ ],
+ "strong": "H4591",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּמְעֲטוּ",
+      "translit": "vayyim'atu",
+      "ref": "Ps.107.39",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִמְעַט",
+      "translit": "yim'at",
+      "ref": "Exod.12.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִמְעָטוּ",
+      "translit": "yim'atu",
+      "ref": "Isa.21.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִמְעַט",
+      "translit": "yim'at",
+      "ref": "Neh.9.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּמְעָֽטוּ",
+      "translit": "tim'atu",
+      "ref": "Jer.29.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מְעֹט",
+      "translit": "m'ot",
+      "ref": "Lev.25.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "מִעֵטוּ",
+      "translit": "mi'etu",
+      "ref": "Eccl.12.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַמְעִיט",
+      "translit": "yam'it",
+      "ref": "Exod.30.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּמְעִיט",
+      "translit": "tam'it",
+      "ref": "Lev.25.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּמְעִיטוּ",
+      "translit": "tam'itu",
+      "ref": "Num.35.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְהִמְעִיטָה",
+      "translit": "vhim'itah",
+      "ref": "Lev.26.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִמְעַטְתִּים",
+      "translit": "vhim'attim",
+      "ref": "Ezek.29.15",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תַּמְעִֽיטִי",
+      "translit": "tam'iti",
+      "ref": "2Kgs.4.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְהַמַּמְעִֽיט",
+      "translit": "vhammam'it",
+      "ref": "Exod.16.17",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "diminish",
+  "hiphil": "diminish"
+ },
+ "root": "מעט",
+ "search_match": [
+  "4591",
+  "h4591",
+  "be diminished",
+  "ma'at",
+  "מעט"
+ ],
+ "citation_translit": "ma'at",
+ "stem_coverage_checked": true
+}

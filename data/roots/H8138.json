@@ -1,0 +1,233 @@
+{
+ "glosses": [
+  "repeat"
+ ],
+ "strong": "H8138",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שָׁנָה",
+      "translit": "shanah",
+      "ref": "2Sam.20.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "שָׁנִיתִי",
+      "translit": "shaniti",
+      "ref": "Mal.3.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּשְׁנוּ",
+      "translit": "vayyishnu",
+      "ref": "1Kgs.18.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶשְׁנֶה",
+      "translit": "eshneh",
+      "ref": "1Sam.26.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשְׁנוּ",
+      "translit": "yishnu",
+      "ref": "Job.29.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּשְׁנוּ",
+      "translit": "tishnu",
+      "ref": "Neh.13.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "שְׁנוּ",
+      "translit": "shnu",
+      "ref": "1Kgs.18.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "שׁוֹנֶה",
+      "translit": "shoneh",
+      "ref": "Prov.26.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "שׁוֹנִים",
+      "translit": "shonim",
+      "ref": "Esth.1.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "שֹׁנוֹת",
+      "translit": "shonot",
+      "ref": "Esth.3.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִשָּׁנוֹת",
+      "translit": "hisshanot",
+      "ref": "Gen.41.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְשַׁנּוֹ",
+      "translit": "vayshanno",
+      "ref": "1Sam.21.14",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וִֽישַׁנֶּה",
+      "translit": "vishanneh",
+      "ref": "Prov.31.5",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲשַׁנֶּֽה",
+      "translit": "ashanneh",
+      "ref": "Ps.89.35",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְשִׁנָּה",
+      "translit": "vshinnah",
+      "ref": "Jer.52.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְשַׁנֶּה",
+      "translit": "mshanneh",
+      "ref": "Job.14.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְשַׁנּוֹת",
+      "translit": "lshannot",
+      "ref": "Jer.2.36",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְהִשְׁתַּנִּית",
+      "translit": "vhishtannit",
+      "ref": "1Kgs.14.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be repeated (of a dream)",
+  "piel": "change",
+  "hitpael": "disguise oneself"
+ },
+ "root": "שנה",
+ "search_match": [
+  "8138",
+  "h8138",
+  "repeat",
+  "shanah",
+  "שנה"
+ ],
+ "citation_translit": "shanah",
+ "stem_coverage_checked": true
+}

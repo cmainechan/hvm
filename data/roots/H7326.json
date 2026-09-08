@@ -1,0 +1,75 @@
+{
+ "glosses": [
+  "be poor"
+ ],
+ "strong": "H7326",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "רָשׁוּ",
+      "translit": "rashu",
+      "ref": "Ps.34.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "רָשׁ",
+      "translit": "rash",
+      "ref": "1Sam.18.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "רָאשִׁים",
+      "translit": "rashim",
+      "ref": "Prov.13.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִתְרוֹשֵׁשׁ",
+      "translit": "mitroshesh",
+      "ref": "Prov.13.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hithpolel": "pretend to be poor"
+ },
+ "root": "רוש",
+ "search_match": [
+  "7326",
+  "h7326",
+  "be poor",
+  "rush",
+  "רוש"
+ ],
+ "citation_translit": "rush",
+ "stem_coverage_checked": true
+}

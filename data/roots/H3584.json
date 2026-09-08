@@ -1,0 +1,191 @@
+{
+ "glosses": [
+  "waste away"
+ ],
+ "strong": "H3584",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "כָּחַשׁ",
+      "translit": "kachash",
+      "ref": "Ps.109.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיִכָּֽחֲשׁוּ",
+      "translit": "vyikkachashu",
+      "ref": "Deut.33.29",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "כִּחֵשׁ",
+      "translit": "kichesh",
+      "ref": "1Kgs.13.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "כִחַשְׁתִּי",
+      "translit": "khichashti",
+      "ref": "Job.31.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "כִּֽחֲשׁוּ",
+      "translit": "kichashu",
+      "ref": "Jer.5.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתְּכַחֵשׁ",
+      "translit": "vattkhachesh",
+      "ref": "Gen.18.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְכַחֶשׁ",
+      "translit": "ykhachesh",
+      "ref": "Hos.9.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְכַחֲשׁוּ",
+      "translit": "ykhachashu",
+      "ref": "Ps.18.45",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּכַחֲשׁוּן",
+      "translit": "tkhachashun",
+      "ref": "Josh.24.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְכִחֶשׁ",
+      "translit": "vkhichesh",
+      "ref": "Job.8.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְכִחַשְׁתִּי",
+      "translit": "vkhichashti",
+      "ref": "Prov.30.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כַּחֵֽשׁ",
+      "translit": "kachesh",
+      "ref": "Zech.13.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְכַחֵשׁ",
+      "translit": "vkhachesh",
+      "ref": "Hos.4.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתְכַּֽחֲשׁוּ",
+      "translit": "yitkachashu",
+      "ref": "2Sam.22.45",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "cringe; feign obedience",
+  "piel": "deceive; cringe; disappoint; fail",
+  "hitpael": "cringe; feign obedience"
+ },
+ "root": "כחש",
+ "search_match": [
+  "3584",
+  "h3584",
+  "waste away",
+  "kachash",
+  "כחש"
+ ],
+ "citation_translit": "kachash",
+ "stem_coverage_checked": true
+}

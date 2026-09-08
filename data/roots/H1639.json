@@ -1,0 +1,184 @@
+{
+ "glosses": [
+  "diminish; restrain; withdraw"
+ ],
+ "strong": "H1639",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶגְרַע",
+      "translit": "va'egra",
+      "ref": "Ezek.16.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִגְרָֽע",
+      "translit": "yigra",
+      "ref": "Exod.21.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִגְרַע",
+      "translit": "tigra",
+      "ref": "Deut.13.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶגְרַע",
+      "translit": "egra",
+      "ref": "Ezek.5.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִגְרְעוּ",
+      "translit": "tigru",
+      "ref": "Deut.4.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּגְרַע",
+      "translit": "tigra",
+      "ref": "Jer.26.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "גְּרוּעָֽה",
+      "translit": "gru'ah",
+      "ref": "Isa.15.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִגְרֹעַ",
+      "translit": "ligroa",
+      "ref": "Eccl.3.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִגָּרַע",
+      "translit": "yiggara",
+      "ref": "Num.27.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִגָּרַע",
+      "translit": "niggara",
+      "ref": "Num.9.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִגְרַע",
+      "translit": "vnigra",
+      "ref": "Lev.27.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְנִגְרְעָה",
+      "translit": "vnigr'ah",
+      "ref": "Num.36.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִגְרָע",
+      "translit": "nigra",
+      "ref": "Exod.5.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְגָרַע",
+      "translit": "ygara",
+      "ref": "Job.36.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be withdrawn; be restrained",
+  "piel": "withdraw, draw up"
+ },
+ "root": "גרע",
+ "search_match": [
+  "1639",
+  "h1639",
+  "diminish",
+  "gara",
+  "גרע"
+ ],
+ "citation_translit": "gara",
+ "stem_coverage_checked": true
+}

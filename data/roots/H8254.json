@@ -1,0 +1,175 @@
+{
+ "glosses": [
+  "weigh"
+ ],
+ "strong": "H8254",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּשְׁקֹל",
+      "translit": "vayyishqol",
+      "ref": "Gen.23.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶשְׁקֳלָה",
+      "translit": "va'eshqolah",
+      "ref": "Ezra.8.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּשְׁקְלוּ",
+      "translit": "vayyishqlu",
+      "ref": "Zech.11.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשְׁקֹל",
+      "translit": "yishqol",
+      "ref": "Exod.22.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּשְׁקֽוֹל",
+      "translit": "tishqol",
+      "ref": "1Kgs.20.39",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶשְׁקוֹל",
+      "translit": "eshqol",
+      "ref": "Esth.3.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשְׁקֹלוּ",
+      "translit": "yishqolu",
+      "ref": "Isa.46.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּשְׁקְלוּ",
+      "translit": "tishqlu",
+      "ref": "Ezra.8.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְשָׁקַל",
+      "translit": "vshaqal",
+      "ref": "2Sam.14.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "שֹׁקֵל",
+      "translit": "shoqel",
+      "ref": "2Sam.18.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִשְׁקוֹל",
+      "translit": "lishqol",
+      "ref": "Esth.4.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "שָׁקוֹל",
+      "translit": "shaqol",
+      "ref": "Job.6.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִשְׁקַל",
+      "translit": "nishqal",
+      "ref": "Ezra.8.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשָּׁקֵל",
+      "translit": "yisshaqel",
+      "ref": "Job.28.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be weighed"
+ },
+ "root": "שקל",
+ "search_match": [
+  "8254",
+  "h8254",
+  "weigh",
+  "shaqal",
+  "שקל"
+ ],
+ "citation_translit": "shaqal",
+ "stem_coverage_checked": true
+}

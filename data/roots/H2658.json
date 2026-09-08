@@ -1,0 +1,126 @@
+{
+ "glosses": [
+  "dig; search out"
+ ],
+ "strong": "H2658",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חָֽפַר",
+      "translit": "chafar",
+      "ref": "Job.39.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "חָפַרְתִּי",
+      "translit": "chafarti",
+      "ref": "Gen.21.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חָֽפְרוּ",
+      "translit": "chafru",
+      "ref": "Gen.26.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּחְפֹּר",
+      "translit": "vayyachpor",
+      "ref": "Gen.26.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶחְפֹּר",
+      "translit": "va'echpor",
+      "ref": "Jer.13.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּחְפְּרוּ",
+      "translit": "vayyachpru",
+      "ref": "Exod.7.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַחְפְּרוּ",
+      "translit": "yachpru",
+      "ref": "Job.39.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְחָפַרְתָּה",
+      "translit": "vchafartah",
+      "ref": "Deut.23.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חֹפֵר",
+      "translit": "chofer",
+      "ref": "Eccl.10.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַחְפֹּר",
+      "translit": "lachpor",
+      "ref": "Josh.2.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "חפר",
+ "search_match": [
+  "2658",
+  "h2658",
+  "dig",
+  "chafar",
+  "חפר"
+ ],
+ "citation_translit": "chafar",
+ "stem_coverage_checked": true
+}

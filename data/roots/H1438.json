@@ -1,0 +1,202 @@
+{
+ "glosses": [
+  "hew; chop in two"
+ ],
+ "strong": "H1438",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "גָּדַע",
+      "translit": "gada",
+      "ref": "Lam.2.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶגְדַּע",
+      "translit": "va'egda",
+      "ref": "Zech.11.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְגָֽדַעְתִּי",
+      "translit": "vgadati",
+      "ref": "1Sam.2.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "גְּדוּעִים",
+      "translit": "gdu'im",
+      "ref": "Isa.10.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִגְדַּע",
+      "translit": "nigda",
+      "ref": "Jer.50.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נִגְדְּעָה",
+      "translit": "nigd'ah",
+      "ref": "Jer.48.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נִגְדַּעְתָּ",
+      "translit": "nigdata",
+      "ref": "Isa.14.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְנִגְדְּעָה",
+      "translit": "vnigd'ah",
+      "ref": "Isa.22.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנִגְדְּעוּ",
+      "translit": "vnigdu",
+      "ref": "Amos.3.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "גִּדֵּעַ",
+      "translit": "giddea",
+      "ref": "2Chr.34.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְגַדַּע",
+      "translit": "vaygadda",
+      "ref": "2Chr.14.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיְגַדְּעוּ",
+      "translit": "vaygaddu",
+      "ref": "2Chr.31.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲגַדֵּֽעַ",
+      "translit": "agaddea",
+      "ref": "Isa.45.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּגַדֵּעוּן",
+      "translit": "tgaddeun",
+      "ref": "Deut.12.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "גֻּדָּעוּ",
+      "translit": "guddau",
+      "ref": "Isa.9.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be chopped off",
+  "piel": "cut down in two",
+  "pual": "be hewn down"
+ },
+ "root": "גדע",
+ "search_match": [
+  "1438",
+  "h1438",
+  "hew",
+  "gada",
+  "גדע"
+ ],
+ "citation_translit": "gada",
+ "stem_coverage_checked": true
+}

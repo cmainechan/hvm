@@ -1,0 +1,75 @@
+{
+ "glosses": [
+  "spread (of a skin disease/leprosy)"
+ ],
+ "strong": "H6581",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "פָשָׂה",
+      "translit": "fasah",
+      "ref": "Lev.13.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "פָשָׂתָה",
+      "translit": "fasatah",
+      "ref": "Lev.13.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִפְשֶׂה",
+      "translit": "yifseh",
+      "ref": "Lev.13.35",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִפְשֶׂה",
+      "translit": "tifseh",
+      "ref": "Lev.13.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "פָּשֹׂה",
+      "translit": "pasoh",
+      "ref": "Lev.13.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "פשה",
+ "search_match": [
+  "6581",
+  "h6581",
+  "spread (of a skin disease/leprosy)",
+  "pasah",
+  "פשה"
+ ],
+ "citation_translit": "pasah",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,215 @@
+{
+ "glosses": [
+  "screen; weave together; hedge"
+ ],
+ "strong": "H5526",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "סַכֹּתָה",
+      "translit": "sakkotah",
+      "ref": "Lam.3.43",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּסֹכּוּ",
+      "translit": "vayyasokku",
+      "ref": "1Kgs.8.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּסֻכֵּנִי",
+      "translit": "tsukkeni",
+      "ref": "Ps.139.13",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְסֻכֻּהוּ",
+      "translit": "ysukkuhu",
+      "ref": "Job.40.22",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְסַכֹּתָ",
+      "translit": "vsakkota",
+      "ref": "Exod.40.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְשַׂכֹּתִי",
+      "translit": "vsakkoti",
+      "ref": "Exod.33.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַסּוֹכֵךְ",
+      "translit": "hassokhekh",
+      "ref": "Ezek.28.14",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "סֹכְכִים",
+      "translit": "sokhkhim",
+      "ref": "Exod.25.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּסֶךְ",
+      "translit": "vayyasekh",
+      "ref": "Exod.40.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָסֶךְ",
+      "translit": "yasekh",
+      "ref": "Ps.91.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְתָסֵךְ",
+      "translit": "vtasekh",
+      "ref": "Ps.5.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֵסִיךְ",
+      "translit": "mesikh",
+      "ref": "Judg.3.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהָסֵךְ",
+      "translit": "lhasekh",
+      "ref": "1Sam.24.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pilpel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְסַכְסֵֽךְ",
+      "translit": "ysakhsekh",
+      "ref": "Isa.9.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְסִכְסַכְתִּי",
+      "translit": "vsikhsakhti",
+      "ref": "Isa.19.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "poel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּסֹכְכֵֽנִי",
+      "translit": "tsokhkheni",
+      "ref": "Job.10.11",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "screen",
+  "pilpel": "stir up (strife)",
+  "poel": "weave together"
+ },
+ "root": "סכך",
+ "search_match": [
+  "5526",
+  "h5526",
+  "screen",
+  "sakhakh",
+  "סכך"
+ ],
+ "citation_translit": "sakhakh",
+ "stem_coverage_checked": true
+}

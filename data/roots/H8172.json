@@ -1,0 +1,148 @@
+{
+ "glosses": [
+  "lean; trust"
+ ],
+ "strong": "H8172",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נִשְׁעַנְתָּ",
+      "translit": "nish'anta",
+      "ref": "2Chr.16.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִשְׁעֲנוּ",
+      "translit": "nish'anu",
+      "ref": "2Chr.13.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִשְׁעַנּוּ",
+      "translit": "nish'annu",
+      "ref": "2Chr.14.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַתִּֽשָּׁעֲנוּ",
+      "translit": "vattissha'anu",
+      "ref": "Isa.30.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשָּׁעֵן",
+      "translit": "yissha'en",
+      "ref": "Job.8.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאֶשָּׁעֵן",
+      "translit": "v'essha'en",
+      "ref": "Judg.16.26",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשָּׁעֵנוּ",
+      "translit": "yissha'enu",
+      "ref": "Isa.31.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִשְׁעַן",
+      "translit": "vnish'an",
+      "ref": "Isa.10.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהִֽשָּׁעֲנוּ",
+      "translit": "vhissha'anu",
+      "ref": "Gen.18.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּשָּׁעֵֽן",
+      "translit": "tissha'en",
+      "ref": "Prov.3.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִשְׁעָן",
+      "translit": "nish'an",
+      "ref": "2Kgs.5.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִשָּׁעֵן",
+      "translit": "lhissha'en",
+      "ref": "Isa.10.20",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "שען",
+ "search_match": [
+  "8172",
+  "h8172",
+  "lean",
+  "sha'an",
+  "שען"
+ ],
+ "citation_translit": "sha'an",
+ "stem_coverage_checked": true
+}

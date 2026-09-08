@@ -1,0 +1,153 @@
+{
+ "glosses": [
+  "shatter; disperse"
+ ],
+ "strong": "H5310",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נָפַץ",
+      "translit": "nafatz",
+      "ref": "1Sam.13.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נָֽפְצָה",
+      "translit": "naftzah",
+      "ref": "Gen.9.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָפְצוּ",
+      "translit": "naftzu",
+      "ref": "Isa.33.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נָפוּץ",
+      "translit": "nafutz",
+      "ref": "Jer.22.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְנָפוֹץ",
+      "translit": "vnafotz",
+      "ref": "Judg.7.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּנַפְּצֵֽם",
+      "translit": "tnapptzem",
+      "ref": "Ps.2.9",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְנַפֵּֽצוּ",
+      "translit": "ynappetzu",
+      "ref": "Jer.48.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִפֵּץ",
+      "translit": "vnippetz",
+      "ref": "Ps.137.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְנִפַּצְתִּי",
+      "translit": "vnippatzti",
+      "ref": "Jer.51.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "נַפֵּץ",
+      "translit": "nappetz",
+      "ref": "Dan.12.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "מְנֻפָּצוֹת",
+      "translit": "mnuppatzot",
+      "ref": "Isa.27.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "dash to pieces",
+  "pual": "be pulverized"
+ },
+ "root": "נפץ",
+ "search_match": [
+  "5310",
+  "h5310",
+  "shatter",
+  "nafatz",
+  "נפץ"
+ ],
+ "citation_translit": "nafatz",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,137 @@
+{
+ "glosses": [
+  "spy out"
+ ],
+ "strong": "H8446",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "תַּרְתִּי",
+      "translit": "tarti",
+      "ref": "Eccl.2.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "תָּרוּ",
+      "translit": "taru",
+      "ref": "Num.13.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּרְתֶּם",
+      "translit": "tartem",
+      "ref": "Num.14.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּתֻרוּ",
+      "translit": "vayyaturu",
+      "ref": "Num.13.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיָתֻרוּ",
+      "translit": "vyaturu",
+      "ref": "Num.13.2",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תָתֻרוּ",
+      "translit": "taturu",
+      "ref": "Num.15.39",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַתָּרִים",
+      "translit": "hattarim",
+      "ref": "1Kgs.10.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לָתוּר",
+      "translit": "latur",
+      "ref": "Deut.1.33",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּתִירוּ",
+      "translit": "vayyatiru",
+      "ref": "Judg.1.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָתֵר",
+      "translit": "yater",
+      "ref": "Prov.12.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "make a search"
+ },
+ "root": "תור",
+ "search_match": [
+  "8446",
+  "h8446",
+  "spy out",
+  "tur",
+  "תור"
+ ],
+ "citation_translit": "tur",
+ "stem_coverage_checked": true
+}

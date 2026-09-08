@@ -1,0 +1,146 @@
+{
+ "glosses": [
+  "awake"
+ ],
+ "strong": "H6974",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיִקְצוּ",
+      "translit": "vyiqtzu",
+      "ref": "Hab.2.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֵקִיץ",
+      "translit": "heqitz",
+      "ref": "2Kgs.4.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הֱקִיצֹתִי",
+      "translit": "heqitzoti",
+      "ref": "Jer.31.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָקִיץ",
+      "translit": "aqitz",
+      "ref": "Prov.23.35",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָקִיצוּ",
+      "translit": "yaqitzu",
+      "ref": "Dan.12.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהֵקִיץ",
+      "translit": "vheqitz",
+      "ref": "Isa.29.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַהֲקִיצוֹתָ",
+      "translit": "vahaqitzota",
+      "ref": "Prov.6.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הָקִיצָה",
+      "translit": "haqitzah",
+      "ref": "Hab.2.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הָקִיצוּ",
+      "translit": "haqitzu",
+      "ref": "Isa.26.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֵקִיץ",
+      "translit": "meqitz",
+      "ref": "1Sam.26.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְהָקִיץ",
+      "translit": "vhaqitz",
+      "ref": "Ps.17.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "be aroused"
+ },
+ "root": "קוץ",
+ "search_match": [
+  "6974",
+  "h6974",
+  "awake",
+  "qutz",
+  "קוץ"
+ ],
+ "citation_translit": "qutz",
+ "stem_coverage_checked": true
+}
