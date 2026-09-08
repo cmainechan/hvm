@@ -1,0 +1,128 @@
+{
+ "glosses": [
+  "cut off; get unjust gain"
+ ],
+ "strong": "H1214",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִבְצָֽעוּ",
+      "translit": "yivtzau",
+      "ref": "Joel.2.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִבְצָע",
+      "translit": "yivtza",
+      "ref": "Job.27.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּבְצַעַם",
+      "translit": "uvtza'am",
+      "ref": "Amos.9.1",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְּצֹעַ",
+      "translit": "btzoa",
+      "ref": "Ezek.22.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "בֹּצֵעַ",
+      "translit": "botzea",
+      "ref": "Hab.2.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "בִּצַּע",
+      "translit": "bitztza",
+      "ref": "Lam.2.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַתְּבַצְּעִי",
+      "translit": "vattvatztz'i",
+      "ref": "Ezek.22.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תְּבַצַּעְנָה",
+      "translit": "tvatztzanah",
+      "ref": "Zech.4.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְבַצַּע",
+      "translit": "yvatztza",
+      "ref": "Isa.10.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "cut off; tear in pieces; fulfill"
+ },
+ "root": "בצע",
+ "search_match": [
+  "1214",
+  "h1214",
+  "cut off; get unjust gain",
+  "batza",
+  "בצע"
+ ],
+ "citation_translit": "batza",
+ "stem_coverage_checked": true
+}

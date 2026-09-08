@@ -1,0 +1,168 @@
+{
+ "glosses": [
+  "go straight on, make progress"
+ ],
+ "strong": "H833",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְאִשְׁרוּ",
+      "translit": "v'ishru",
+      "ref": "Prov.9.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "אִשְּׁרוּנִי",
+      "translit": "isshruni",
+      "ref": "Gen.30.13",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַֽתְּאַשְּׁרֵנִי",
+      "translit": "vatt'asshreni",
+      "ref": "Job.29.11",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיְאַשְּׁרוּהָ",
+      "translit": "vay'asshruha",
+      "ref": "Prov.31.28",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְאִשְּׁרוּ",
+      "translit": "v'isshru",
+      "ref": "Mal.3.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְאַשְּׁרֽוּהוּ",
+      "translit": "y'asshruhu",
+      "ref": "Ps.72.17",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "אַשְּׁרוּ",
+      "translit": "asshru",
+      "ref": "Isa.1.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְאַשֵּׁר",
+      "translit": "v'assher",
+      "ref": "Prov.23.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּאַשֵּׁר",
+      "translit": "t'assher",
+      "ref": "Prov.4.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְאַשְּׁרִים",
+      "translit": "m'asshrim",
+      "ref": "Mal.3.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְאֻשַּׁר",
+      "translit": "v'usshar",
+      "ref": "Ps.41.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְאֻשָּֽׁר",
+      "translit": "m'usshar",
+      "ref": "Prov.3.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "advance; lead on; set right; call blessed",
+  "pual": "be advanced; be blessed"
+ },
+ "root": "אשר",
+ "search_match": [
+  "833",
+  "h833",
+  "go straight on, make progress",
+  "ashar",
+  "אשר"
+ ],
+ "citation_translit": "ashar",
+ "stem_coverage_checked": true
+}

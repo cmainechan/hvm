@@ -1,0 +1,184 @@
+{
+ "glosses": [
+  "hurt"
+ ],
+ "strong": "H6087",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "עֲצָבוֹ",
+      "translit": "atzavo",
+      "ref": "1Kgs.1.6",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "עָצְבִּי",
+      "translit": "atzbi",
+      "ref": "1Chr.4.10",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נֶעְצַב",
+      "translit": "netzav",
+      "ref": "1Sam.20.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵֽעָצֵב",
+      "translit": "ye'atzev",
+      "ref": "1Sam.20.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תֵּעָצְבוּ",
+      "translit": "te'atzvu",
+      "ref": "Gen.45.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "עִצְּבוּנִי",
+      "translit": "itztzvuni",
+      "ref": "Job.10.8",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְעִצְּבוּ",
+      "translit": "v'itztzvu",
+      "ref": "Isa.63.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְעַצֵּבוּ",
+      "translit": "y'atztzevu",
+      "ref": "Ps.56.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַעֲצִיבוּהוּ",
+      "translit": "ya'atzivuhu",
+      "ref": "Ps.78.40",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַעֲצִבָה",
+      "translit": "lha'atzivah",
+      "ref": "Jer.44.19",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּֽתְעַצְּבוּ",
+      "translit": "vayyit'atztzvu",
+      "ref": "Gen.34.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּתְעַצֵּב",
+      "translit": "vayyit'atztzev",
+      "ref": "Gen.6.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be pained",
+  "piel": "vex; shape",
+  "hiphil": "cause pain; shape",
+  "hitpael": "feel grieved; be vexed"
+ },
+ "root": "עצב",
+ "search_match": [
+  "6087",
+  "h6087",
+  "hurt",
+  "atzav",
+  "עצב"
+ ],
+ "citation_translit": "atzav",
+ "stem_coverage_checked": true
+}

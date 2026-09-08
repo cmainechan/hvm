@@ -1,0 +1,113 @@
+{
+ "glosses": [
+  "be terrified"
+ ],
+ "strong": "H1204",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (this root has no attested qal; niphal serves as its basic/citation stem)",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נִבְעַתִּי",
+      "translit": "niv'atti",
+      "ref": "Dan.8.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִבְעַת",
+      "translit": "niv'at",
+      "ref": "1Chr.21.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "בִּֽעֲתֻהוּ",
+      "translit": "bi'atuhu",
+      "ref": "Job.18.11",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "בִּֽעֲתָתְנִי",
+      "translit": "bi'atatni",
+      "ref": "Isa.21.4",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּבַעֲתַֽנִּי",
+      "translit": "tva'atanni",
+      "ref": "Job.7.14",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּבַעֵת",
+      "translit": "tva'et",
+      "ref": "Job.13.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְבַעֲתֻֽנִי",
+      "translit": "yva'atuni",
+      "ref": "2Sam.22.5",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּבַעֲתַֽנִּי",
+      "translit": "tva'atanni",
+      "ref": "Job.13.21",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "fall upon; terrify"
+ },
+ "root": "בעת",
+ "search_match": [
+  "1204",
+  "h1204",
+  "be terrified",
+  "ba'at",
+  "בעת"
+ ],
+ "citation_translit": "ba'at",
+ "stem_coverage_checked": true
+}

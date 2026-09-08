@@ -1,0 +1,84 @@
+{
+ "glosses": [
+  "be weak"
+ ],
+ "strong": "H535",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "אֲמֻלָה",
+      "translit": "amulah",
+      "ref": "Ezek.16.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pulal": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "אֻמְלָֽלוּ",
+      "translit": "umlalu",
+      "ref": "Isa.19.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "אֻמְלָֽלָה",
+      "translit": "umlalah",
+      "ref": "1Sam.2.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "אֻמְלָל",
+      "translit": "umlal",
+      "ref": "Isa.16.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְאֻמְלַל",
+      "translit": "v'umlal",
+      "ref": "Hos.4.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pulal": "be feeble"
+ },
+ "root": "אמל",
+ "search_match": [
+  "535",
+  "h535",
+  "be weak",
+  "amal",
+  "אמל"
+ ],
+ "citation_translit": "amal",
+ "stem_coverage_checked": true
+}

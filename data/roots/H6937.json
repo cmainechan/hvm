@@ -1,0 +1,144 @@
+{
+ "glosses": [
+  "be dark; be dull-colored"
+ ],
+ "strong": "H6937",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "קָדַרְתִּי",
+      "translit": "qadarti",
+      "ref": "Jer.8.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "קָדְרוּ",
+      "translit": "qadru",
+      "ref": "Jer.14.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְקָדְרוּ",
+      "translit": "vqadru",
+      "ref": "Jer.4.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְקָדַר",
+      "translit": "vqadar",
+      "ref": "Mic.3.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "וְקֹדְרִים",
+      "translit": "vqodrim",
+      "ref": "Job.5.11",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "קֹדֵר",
+      "translit": "qoder",
+      "ref": "Job.30.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאַקְדִּר",
+      "translit": "va'aqdir",
+      "ref": "Ezek.31.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִקְדַּרְתִּי",
+      "translit": "vhiqdarti",
+      "ref": "Ezek.32.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַקְדִּירֵם",
+      "translit": "aqdirem",
+      "ref": "Ezek.32.8",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִֽתְקַדְּרוּ",
+      "translit": "hitqaddru",
+      "ref": "1Kgs.18.45",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "darken; cause to mourn",
+  "hitpael": "grow dark"
+ },
+ "root": "קדר",
+ "search_match": [
+  "6937",
+  "h6937",
+  "be dark; be dull-colored",
+  "qadar",
+  "קדר"
+ ],
+ "citation_translit": "qadar",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,124 @@
+{
+ "glosses": [
+  "marry; rule over"
+ ],
+ "strong": "H1166",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "בָּעַלְתִּי",
+      "translit": "ba'alti",
+      "ref": "Jer.3.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "בָּעֲלוּ",
+      "translit": "ba'alu",
+      "ref": "1Chr.4.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּבָעַל",
+      "translit": "uva'al",
+      "ref": "Mal.2.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּבְעַלְתָּהּ",
+      "translit": "uv'altahh",
+      "ref": "Deut.21.13",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּבְעָלָהּ",
+      "translit": "uv'alahh",
+      "ref": "Deut.24.1",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִבְעָלוּךְ",
+      "translit": "yiv'alukh",
+      "ref": "Isa.62.5",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִבְעַל",
+      "translit": "yiv'al",
+      "ref": "Isa.62.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "בְעוּלָה",
+      "translit": "vulah",
+      "ref": "Isa.54.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּבָּעֵֽל",
+      "translit": "tibba'el",
+      "ref": "Isa.62.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be married"
+ },
+ "root": "בעל",
+ "search_match": [
+  "1166",
+  "h1166",
+  "marry; rule over",
+  "ba'al",
+  "בעל"
+ ],
+ "citation_translit": "ba'al",
+ "stem_coverage_checked": true
+}

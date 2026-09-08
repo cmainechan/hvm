@@ -1,0 +1,155 @@
+{
+ "glosses": [
+  "gird on (of strength)"
+ ],
+ "strong": "H247",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "אָזְרוּ",
+      "translit": "azru",
+      "ref": "1Sam.2.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֶּאְזֹר",
+      "translit": "tezor",
+      "ref": "Jer.1.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַֽאַזְרֵֽנִי",
+      "translit": "ya'azreni",
+      "ref": "Job.30.18",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "אֱזָר",
+      "translit": "ezar",
+      "ref": "Job.38.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "אָזוּר",
+      "translit": "azur",
+      "ref": "2Kgs.1.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֶאְזָר",
+      "translit": "nezar",
+      "ref": "Ps.65.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתַּזְרֵנִי",
+      "translit": "vattazreni",
+      "ref": "2Sam.22.40",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲאַזֶּרְךָ",
+      "translit": "a'azzerkha",
+      "ref": "Isa.45.5",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִתְאַזָּר",
+      "translit": "hit'azzar",
+      "ref": "Ps.93.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הִתְאַזְּרוּ",
+      "translit": "hit'azzru",
+      "ref": "Isa.8.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be girded",
+  "piel": "gird",
+  "hitpael": "gird oneself"
+ },
+ "root": "אזר",
+ "search_match": [
+  "247",
+  "h247",
+  "gird on (of strength)",
+  "azar",
+  "אזר"
+ ],
+ "citation_translit": "azar",
+ "stem_coverage_checked": true
+}

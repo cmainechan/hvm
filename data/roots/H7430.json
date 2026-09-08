@@ -1,0 +1,55 @@
+{
+ "glosses": [
+  "creep; swarm"
+ ],
+ "strong": "H7430",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּרְמֹשׂ",
+      "translit": "tirmos",
+      "ref": "Gen.9.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "הָֽרֹמֶשֶׂת",
+      "translit": "haromeset",
+      "ref": "Gen.1.21",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "רֹמֵשׂ",
+      "translit": "romes",
+      "ref": "Deut.4.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "רמש",
+ "search_match": [
+  "7430",
+  "h7430",
+  "creep; swarm",
+  "ramas",
+  "רמש"
+ ],
+ "citation_translit": "ramas",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,191 @@
+{
+ "glosses": [
+  "purge; choose; polish; test"
+ ],
+ "strong": "H1305",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וּבָרוֹתִי",
+      "translit": "uvaroti",
+      "ref": "Ezek.20.38",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְבָרָם",
+      "translit": "lvaram",
+      "ref": "Eccl.3.18",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "בְּרֻרוֹת",
+      "translit": "brurot",
+      "ref": "Neh.5.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "בְּרוּרִים",
+      "translit": "brurim",
+      "ref": "1Chr.7.40",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "בָּרוּר",
+      "translit": "barur",
+      "ref": "Isa.49.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּתָּבָר",
+      "translit": "tittavar",
+      "ref": "2Sam.22.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הִבָּרוּ",
+      "translit": "hibbaru",
+      "ref": "Isa.52.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נָבָר",
+      "translit": "navar",
+      "ref": "2Sam.22.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּלְבָרֵר",
+      "translit": "ulvarer",
+      "ref": "Dan.11.35",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הָבֵרוּ",
+      "translit": "haveru",
+      "ref": "Jer.51.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהָבַֽר",
+      "translit": "lhavar",
+      "ref": "Jer.4.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּתְבָּרָר",
+      "translit": "titbarar",
+      "ref": "Ps.18.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתְבָּֽרֲרוּ",
+      "translit": "yitbararu",
+      "ref": "Dan.12.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "purify oneself",
+  "piel": "purify",
+  "hiphil": "purify; polish (arrows)",
+  "hitpael": "purify oneself; show oneself pure"
+ },
+ "root": "ברר",
+ "search_match": [
+  "1305",
+  "h1305",
+  "purge; choose; polish; test",
+  "barar",
+  "ברר"
+ ],
+ "citation_translit": "barar",
+ "stem_coverage_checked": true
+}

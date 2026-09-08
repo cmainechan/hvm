@@ -1,0 +1,133 @@
+{
+ "glosses": [
+  "exult"
+ ],
+ "strong": "H5937",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָֽאֶעְלֹז",
+      "translit": "va'eloz",
+      "ref": "Jer.15.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּעֲלֹז",
+      "translit": "vayya'aloz",
+      "ref": "Ps.28.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תַּעֲלֹֽזִי",
+      "translit": "ta'alozi",
+      "ref": "Jer.11.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַֽעֲלְזוּ",
+      "translit": "ta'alzu",
+      "ref": "Jer.50.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תַּעֲלֹזְנָה",
+      "translit": "ta'aloznah",
+      "ref": "2Sam.1.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַעֲלֹזוּ",
+      "translit": "ya'alozu",
+      "ref": "Jer.51.39",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַעֲלֹז",
+      "translit": "ya'aloz",
+      "ref": "Ps.96.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְעָלְזִי",
+      "translit": "v'alzi",
+      "ref": "Zeph.3.14",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְעִלְזוּ",
+      "translit": "v'ilzu",
+      "ref": "Ps.68.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַעְלוֹז",
+      "translit": "laloz",
+      "ref": "Isa.23.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶעְלוֹזָה",
+      "translit": "elozah",
+      "ref": "Hab.3.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "עלז",
+ "search_match": [
+  "5937",
+  "h5937",
+  "exult (alaz)",
+  "alaz",
+  "עלז"
+ ],
+ "citation_translit": "alaz",
+ "stem_coverage_checked": true
+}

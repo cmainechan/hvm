@@ -1,0 +1,164 @@
+{
+ "glosses": [
+  "become rich"
+ ],
+ "strong": "H6238",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "עָשַׁרְתִּי",
+      "translit": "asharti",
+      "ref": "Hos.12.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶעְשַׁר",
+      "translit": "yeshar",
+      "ref": "Job.15.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הֶעֱשַׁרְתִּי",
+      "translit": "he'esharti",
+      "ref": "Gen.14.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הֶעֱשַׁרְתְּ",
+      "translit": "he'eshart",
+      "ref": "Ezek.27.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיַּעֲשִֽׁירוּ",
+      "translit": "vayya'ashiru",
+      "ref": "Jer.5.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וַאעְשִׁר",
+      "translit": "vashir",
+      "ref": "Zech.11.5",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּעְשְׁרֶנָּה",
+      "translit": "tashrennah",
+      "ref": "Ps.65.10",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תַעֲשִׁיר",
+      "translit": "ta'ashir",
+      "ref": "Prov.10.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַעֲשִׁיר",
+      "translit": "ya'ashir",
+      "ref": "Dan.11.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְֽהַעֲשִׁיר",
+      "translit": "lha'ashir",
+      "ref": "Prov.23.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּמַעֲשִׁיר",
+      "translit": "uma'ashir",
+      "ref": "1Sam.2.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִתְעַשֵּׁר",
+      "translit": "mit'assher",
+      "ref": "Prov.13.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "make rich",
+  "hitpael": "pretend to be rich"
+ },
+ "root": "עשר",
+ "search_match": [
+  "6238",
+  "h6238",
+  "become rich",
+  "ashar",
+  "עשר"
+ ],
+ "citation_translit": "ashar",
+ "stem_coverage_checked": true
+}

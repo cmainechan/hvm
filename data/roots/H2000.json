@@ -1,0 +1,91 @@
+{
+ "glosses": [
+  "move noisily; throw into panic; destroy"
+ ],
+ "strong": "H2000",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֲמָמָם",
+      "translit": "hamamam",
+      "ref": "2Chr.15.6",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּהָם",
+      "translit": "vayyaham",
+      "ref": "Exod.14.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהַמֹּתִי",
+      "translit": "vhammoti",
+      "ref": "Exod.23.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהָמַם",
+      "translit": "vhamam",
+      "ref": "Isa.28.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּתְהֻמֵּֽם",
+      "translit": "uthummem",
+      "ref": "Ps.144.6",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהֻמָּם",
+      "translit": "lhummam",
+      "ref": "Deut.2.15",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "2Sam.22.15's qere (וַיָּהֹם) is tagged hiphil by OSHB, but the synoptic parallel Ps.18.15 (same historical event, near-identical wording, וַיְהֻמֵּם) tags the same verb qal -- most likely Masoretic pointing variation between the two exemplars of the same poem rather than a genuine independent hiphil paradigm for this root. Also a ketiv/qere case (ketiv includes a 3mp object suffix). Treated as qal-only pending confirmation; the lone hiphil-tagged form was excluded rather than shipped as a second stem."
+ ],
+ "root": "המם",
+ "search_match": [
+  "2000",
+  "h2000",
+  "move noisily; throw into panic; destroy",
+  "hamam",
+  "המם"
+ ],
+ "citation_translit": "hamam",
+ "stem_coverage_checked": true
+}
