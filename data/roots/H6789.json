@@ -1,0 +1,172 @@
+{
+ "glosses": [
+  "put an end to"
+ ],
+ "strong": "H6789",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "צָֽמְתוּ",
+      "translit": "tzamtu",
+      "ref": "Lam.3.53",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נִצְמַתִּי",
+      "translit": "nitzmatti",
+      "ref": "Job.23.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִצְמָתוּ",
+      "translit": "nitzmatu",
+      "ref": "Job.6.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "צִמְּתַתְנִי",
+      "translit": "tzimmtatni",
+      "ref": "Ps.119.139",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pilpel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "צִמְּתוּתֻֽנִי",
+      "translit": "tzimmtutuni",
+      "ref": "Ps.88.17",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִצְמַתָּה",
+      "translit": "hitzmattah",
+      "ref": "Ps.73.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאַצְמִיתֵֽם",
+      "translit": "va'atzmitem",
+      "ref": "2Sam.22.41",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַצְמִית",
+      "translit": "atzmit",
+      "ref": "Ps.101.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּצְמִית",
+      "translit": "tatzmit",
+      "ref": "Ps.143.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַצְמִיתֵם",
+      "translit": "yatzmitem",
+      "ref": "Ps.94.23",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַצְמִיתֵֽם",
+      "translit": "hatzmitem",
+      "ref": "Ps.54.7",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be annihilated",
+  "piel": "put an end to",
+  "pilpel": "exterminate; annihilate",
+  "hiphil": "exterminate"
+ },
+ "notes": [
+  "Requested \"pilel\" for the fourth stem, but the only attestation (Ps.88.17, צִמְּתוּתֻנִי) is tagged pilpel by OSHB (stem letter 'l', not pilel's 'i') -- shipped as pilpel to match the corpus. Gloss also adjusted: the citation (\"your terrors have annihilated me\") is grammatically active, not the passive \"be exterminated\" that was requested, so it's shipped as \"exterminate; annihilate\" instead."
+ ],
+ "root": "צמת",
+ "search_match": [
+  "6789",
+  "h6789",
+  "put an end to",
+  "tzamat",
+  "צמת"
+ ],
+ "citation_translit": "tzamat",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,62 @@
+{
+ "glosses": [
+  "bow down; bow the head (in worship)"
+ ],
+ "strong": "H6915",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶקֹּד",
+      "translit": "va'eqqod",
+      "ref": "Gen.24.48",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּקֹּד",
+      "translit": "vattiqqod",
+      "ref": "1Kgs.1.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּקְּדוּ",
+      "translit": "vayyiqqdu",
+      "ref": "1Chr.29.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּקֹּד",
+      "translit": "vayyiqqod",
+      "ref": "1Sam.24.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "קדד",
+ "search_match": [
+  "6915",
+  "h6915",
+  "bow down; bow the head (in worship)",
+  "qadad",
+  "קדד"
+ ],
+ "citation_translit": "qadad",
+ "stem_coverage_checked": true
+}

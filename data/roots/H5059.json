@@ -1,0 +1,99 @@
+{
+ "glosses": [
+  "player (of an instrument)"
+ ],
+ "strong": "H5059",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נֹגְנִים",
+      "translit": "nognim",
+      "ref": "Ps.68.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִגֵּן",
+      "translit": "vniggen",
+      "ref": "1Sam.16.23",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִגֵּן",
+      "translit": "vniggen",
+      "ref": "1Sam.16.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נְנַגֵּן",
+      "translit": "nnaggen",
+      "ref": "Isa.38.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "נַגֵּן",
+      "translit": "naggen",
+      "ref": "1Sam.16.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְנַגֵּן",
+      "translit": "mnaggen",
+      "ref": "1Sam.16.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "play (a stringed instrument); make music"
+ },
+ "root": "נגן",
+ "search_match": [
+  "5059",
+  "h5059",
+  "player (of an instrument)",
+  "nagan",
+  "נגן"
+ ],
+ "citation_translit": "nagan",
+ "stem_coverage_checked": true
+}

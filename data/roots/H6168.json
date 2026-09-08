@@ -1,0 +1,166 @@
+{
+ "glosses": [
+  "lay bare; empty out"
+ ],
+ "strong": "H6168",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵעָרֶה",
+      "translit": "ye'areh",
+      "ref": "Isa.32.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "עֵרָה",
+      "translit": "erah",
+      "ref": "Isa.22.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתְּעַר",
+      "translit": "vatt'ar",
+      "ref": "Gen.24.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וִיעָרוּ",
+      "translit": "vi'aru",
+      "ref": "2Chr.24.11",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְעָרֶֽה",
+      "translit": "y'areh",
+      "ref": "Isa.3.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "עָרוּ",
+      "translit": "aru",
+      "ref": "Ps.137.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "עָרוֹת",
+      "translit": "arot",
+      "ref": "Hab.3.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּעַר",
+      "translit": "t'ar",
+      "ref": "Ps.141.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֶעֱרָה",
+      "translit": "he'erah",
+      "ref": "Isa.53.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְתִתְעָרִֽי",
+      "translit": "vtit'ari",
+      "ref": "Lam.4.21",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּמִתְעָרֶה",
+      "translit": "umit'areh",
+      "ref": "Ps.37.35",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be poured out; be exposed",
+  "hiphil": "strip bare (of sexual offenses); pour out",
+  "hitpael": "expose oneself"
+ },
+ "root": "ערה",
+ "search_match": [
+  "6168",
+  "h6168",
+  "lay bare; empty out",
+  "arah",
+  "ערה"
+ ],
+ "citation_translit": "arah",
+ "stem_coverage_checked": true
+}

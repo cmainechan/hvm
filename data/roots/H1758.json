@@ -1,0 +1,146 @@
+{
+ "glosses": [
+  "tread on; thresh"
+ ],
+ "strong": "H1758",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְדַשְׁתִּי",
+      "translit": "vdashti",
+      "ref": "Judg.8.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּדוּשׁ",
+      "translit": "tadush",
+      "ref": "Hab.3.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּדוּשֶֽׁהָ",
+      "translit": "tdusheha",
+      "ref": "Job.39.15",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְדוּשֶׁנּוּ",
+      "translit": "ydushennu",
+      "ref": "Isa.28.28",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וָדוֹשִׁי",
+      "translit": "vadoshi",
+      "ref": "Mic.4.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לָדֻֽשׁ",
+      "translit": "ladush",
+      "ref": "2Kgs.13.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "דָּשׁ",
+      "translit": "dash",
+      "ref": "1Chr.21.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנָדוֹשׁ",
+      "translit": "vnadosh",
+      "ref": "Isa.25.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כְּהִדּוּשׁ",
+      "translit": "khiddush",
+      "ref": "Isa.25.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יוּדַשׁ",
+      "translit": "yudash",
+      "ref": "Isa.28.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be trampled down",
+  "hophal": "be threshed"
+ },
+ "root": "דוש",
+ "search_match": [
+  "1758",
+  "h1758",
+  "tread on; thresh",
+  "dush",
+  "דוש"
+ ],
+ "citation_translit": "dush",
+ "stem_coverage_checked": true
+}

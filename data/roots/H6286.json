@@ -1,0 +1,126 @@
+{
+ "glosses": [
+  "glorify; glean"
+ ],
+ "strong": "H6286",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "פֵאֲרָֽךְ",
+      "translit": "fe'arakh",
+      "ref": "Isa.55.5",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲפָאֵֽר",
+      "translit": "afa'er",
+      "ref": "Isa.60.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְפָאֵר",
+      "translit": "tfa'er",
+      "ref": "Deut.24.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְפָאֵר",
+      "translit": "yfa'er",
+      "ref": "Ps.149.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְפָאֵר",
+      "translit": "lfa'er",
+      "ref": "Ezra.7.27",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶתְפָּאָֽר",
+      "translit": "etpa'ar",
+      "ref": "Isa.49.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְפָּאָֽר",
+      "translit": "yitpa'ar",
+      "ref": "Isa.44.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִתְפָּאֵר",
+      "translit": "hitpa'er",
+      "ref": "Exod.8.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִתְפָּאֵֽר",
+      "translit": "lhitpa'er",
+      "ref": "Isa.60.21",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hitpael": "glorify oneself; be glorified"
+ },
+ "root": "פאר",
+ "search_match": [
+  "6286",
+  "h6286",
+  "glorify; glean",
+  "pa'ar",
+  "פאר"
+ ],
+ "citation_translit": "pa'ar",
+ "stem_coverage_checked": true
+}

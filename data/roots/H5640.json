@@ -1,0 +1,157 @@
+{
+ "glosses": [
+  "stop up"
+ ],
+ "strong": "H5640",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "סָתַם",
+      "translit": "satam",
+      "ref": "2Chr.32.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּסְתְּמוּ",
+      "translit": "vayyistmu",
+      "ref": "2Chr.32.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּסְתֹּמוּ",
+      "translit": "tistomu",
+      "ref": "2Kgs.3.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִסְתֹּמוּ",
+      "translit": "yistomu",
+      "ref": "2Kgs.3.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "סְתֹם",
+      "translit": "stom",
+      "ref": "Dan.12.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִסְתּוֹם",
+      "translit": "listom",
+      "ref": "2Chr.32.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "סְתֻמִים",
+      "translit": "stumim",
+      "ref": "Dan.12.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "סָתוּם",
+      "translit": "satum",
+      "ref": "Ezek.28.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִסָּתֵם",
+      "translit": "lhissatem",
+      "ref": "Neh.4.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "סִתְּמוּם",
+      "translit": "sittmum",
+      "ref": "Gen.26.15",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיְסַתְּמוּם",
+      "translit": "vaysattmum",
+      "ref": "Gen.26.18",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be stopped up",
+  "piel": "stop up"
+ },
+ "root": "סתם",
+ "search_match": [
+  "5640",
+  "h5640",
+  "stop up",
+  "satam",
+  "סתם"
+ ],
+ "citation_translit": "satam",
+ "stem_coverage_checked": true
+}

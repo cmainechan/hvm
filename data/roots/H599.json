@@ -1,0 +1,94 @@
+{
+ "glosses": [
+  "be angry (of God)"
+ ],
+ "strong": "H599",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "אָנַפְתָּ",
+      "translit": "anafta",
+      "ref": "Isa.12.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְאָנַפְתָּ",
+      "translit": "v'anafta",
+      "ref": "1Kgs.8.46",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֶֽאֱנַף",
+      "translit": "te'enaf",
+      "ref": "Ezra.9.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶאֱנַף",
+      "translit": "ye'enaf",
+      "ref": "Ps.2.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִתְאַנַּף",
+      "translit": "hit'annaf",
+      "ref": "Deut.1.37",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּתְאַנַּף",
+      "translit": "vayyit'annaf",
+      "ref": "1Kgs.11.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "אנף",
+ "search_match": [
+  "599",
+  "h599",
+  "be angry (of God)",
+  "anaf",
+  "אנף"
+ ],
+ "citation_translit": "anaf",
+ "stem_coverage_checked": true
+}

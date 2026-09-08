@@ -1,0 +1,124 @@
+{
+ "glosses": [
+  "smite"
+ ],
+ "strong": "H4272",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "מָחַצְתִּי",
+      "translit": "machatzti",
+      "ref": "Deut.32.39",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "מָחַצְתָּ",
+      "translit": "machatzta",
+      "ref": "Hab.3.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וּמָחֲצָה",
+      "translit": "umachatzah",
+      "ref": "Judg.5.26",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "מָחַץ",
+      "translit": "machatz",
+      "ref": "Job.26.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶמְחָצֵם",
+      "translit": "va'emchatzem",
+      "ref": "2Sam.22.39",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּמָחַץ",
+      "translit": "umachatz",
+      "ref": "Num.24.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶמְחָצֵם",
+      "translit": "emchatzem",
+      "ref": "Ps.18.39",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּֽמְחַץ",
+      "translit": "timchatz",
+      "ref": "Ps.68.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִמְחַץ",
+      "translit": "yimchatz",
+      "ref": "Job.5.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "מְחַץ",
+      "translit": "mchatz",
+      "ref": "Deut.33.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "מחץ",
+ "search_match": [
+  "4272",
+  "h4272",
+  "smite",
+  "machatz",
+  "מחץ"
+ ],
+ "citation_translit": "machatz",
+ "stem_coverage_checked": true
+}

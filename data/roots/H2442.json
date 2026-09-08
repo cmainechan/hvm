@@ -1,0 +1,150 @@
+{
+ "glosses": [
+  "wait"
+ ],
+ "strong": "H2442",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חִכּוּ",
+      "translit": "chikku",
+      "ref": "Ps.106.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "חִכְּתָה",
+      "translit": "chikktah",
+      "ref": "Ps.33.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חִכָּה",
+      "translit": "chikkah",
+      "ref": "Job.32.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְחִכִּינוּ",
+      "translit": "vchikkinu",
+      "ref": "2Kgs.7.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְחִכִּיתִי",
+      "translit": "vchikkiti",
+      "ref": "Isa.8.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְחַכֶּֽה",
+      "translit": "tchakkeh",
+      "ref": "2Kgs.9.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְחַכֶּה",
+      "translit": "ychakkeh",
+      "ref": "Isa.30.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "חַכּוּ",
+      "translit": "chakku",
+      "ref": "Zeph.3.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חַכֵּה",
+      "translit": "chakkeh",
+      "ref": "Hab.2.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּכְחַכֵּי",
+      "translit": "ukhchakke",
+      "ref": "Hos.6.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַֽמְחַכִּים",
+      "translit": "hamchakkim",
+      "ref": "Job.3.21",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַֽמְחַכֶּה",
+      "translit": "hamchakkeh",
+      "ref": "Dan.12.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "wait; wait in ambush"
+ },
+ "notes": [
+  "Requested qal (\"wait\") has zero attestation in the corpus -- every one of this root's 12 occurrences is tagged piel by OSHB. Excluded; piel alone (which already covers plain \"wait\" as well as \"wait in ambush\") serves as this root's default/citation stem."
+ ],
+ "root": "חכה",
+ "search_match": [
+  "2442",
+  "h2442",
+  "wait (chakah)",
+  "chakah",
+  "חכה"
+ ],
+ "citation_translit": "chakah",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,93 @@
+{
+ "glosses": [
+  "lend"
+ ],
+ "strong": "H5383",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נָשִׁיתִי",
+      "translit": "nashiti",
+      "ref": "Jer.15.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָֽשׁוּ",
+      "translit": "nashu",
+      "ref": "Jer.15.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נֹשִׁים",
+      "translit": "noshim",
+      "ref": "Neh.5.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֹשֶׁה",
+      "translit": "nosheh",
+      "ref": "Deut.24.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַשֶּׁה",
+      "translit": "tassheh",
+      "ref": "Deut.24.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַשֶּׁה",
+      "translit": "yassheh",
+      "ref": "Deut.15.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "act as a creditor"
+ },
+ "root": "נשה",
+ "search_match": [
+  "5383",
+  "h5383",
+  "lend",
+  "nashah",
+  "נשה"
+ ],
+ "citation_translit": "nashah",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,140 @@
+{
+ "glosses": [
+  "terrify; tremble"
+ ],
+ "strong": "H6206",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶֽעֱרוֹץ",
+      "translit": "e'erotz",
+      "ref": "Job.31.34",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תַּעֲרֽוֹצִי",
+      "translit": "ta'arotzi",
+      "ref": "Isa.47.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַֽעַרְצוּן",
+      "translit": "ta'artzun",
+      "ref": "Deut.1.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַעֲרֹץ",
+      "translit": "ta'arotz",
+      "ref": "Deut.7.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַעֲרֹץ",
+      "translit": "la'arotz",
+      "ref": "Isa.2.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּֽעַרְצוּ",
+      "translit": "ta'artzu",
+      "ref": "Deut.20.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּעֲרֹץ",
+      "translit": "ta'arotz",
+      "ref": "Josh.1.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נַעֲרָץ",
+      "translit": "na'aratz",
+      "ref": "Ps.89.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַעֲרִֽיצוּ",
+      "translit": "ta'aritzu",
+      "ref": "Isa.8.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַעֲרִֽיצוּ",
+      "translit": "ya'aritzu",
+      "ref": "Isa.29.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be awesome",
+  "hiphil": "regard with awe; terrify"
+ },
+ "root": "ערץ",
+ "search_match": [
+  "6206",
+  "h6206",
+  "terrify; tremble",
+  "aratz",
+  "ערץ"
+ ],
+ "citation_translit": "aratz",
+ "stem_coverage_checked": true
+}
