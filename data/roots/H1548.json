@@ -1,0 +1,153 @@
+{
+ "glosses": [
+  "shave; lay waste"
+ ],
+ "strong": "H1548",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְגַלַּח",
+      "translit": "vaygallach",
+      "ref": "2Sam.10.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתְּגַלַּח",
+      "translit": "vattgallach",
+      "ref": "Judg.16.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְגַלֵּחַ",
+      "translit": "ygallecha",
+      "ref": "2Sam.14.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְגַלֵּחוּ",
+      "translit": "ygallechu",
+      "ref": "Ezek.44.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְגִלַּח",
+      "translit": "vgillach",
+      "ref": "Lev.14.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְגִלְּחָה",
+      "translit": "vgillchah",
+      "ref": "Deut.21.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּֽבְגַלְּחוֹ",
+      "translit": "uvgallcho",
+      "ref": "2Sam.14.26",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "גֻּלָּֽח",
+      "translit": "gullach",
+      "ref": "Judg.16.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "גֻּלַּחְתִּי",
+      "translit": "gullachti",
+      "ref": "Judg.16.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהִתְגַּלָּח",
+      "translit": "vhitgallach",
+      "ref": "Lev.13.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִֽתְגַּלְּחוֹ",
+      "translit": "hitgallcho",
+      "ref": "Num.6.19",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be shaven",
+  "hitpael": "shave oneself"
+ },
+ "root": "גלח",
+ "search_match": [
+  "1548",
+  "h1548",
+  "shave",
+  "galach",
+  "גלח"
+ ],
+ "citation_translit": "galach",
+ "stem_coverage_checked": true
+}

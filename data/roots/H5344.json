@@ -1,0 +1,159 @@
+{
+ "glosses": [
+  "pierce; designate; curse"
+ ],
+ "strong": "H5344",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נָקַבְתָּ",
+      "translit": "naqavta",
+      "ref": "Hab.3.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּקֹּב",
+      "translit": "vayyiqqov",
+      "ref": "2Kgs.12.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִנְקָב",
+      "translit": "yinqav",
+      "ref": "Job.40.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּקּוֹב",
+      "translit": "tiqqov",
+      "ref": "Job.40.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶקֹּב",
+      "translit": "eqqov",
+      "ref": "Num.23.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִקְּבֻהוּ",
+      "translit": "yiqqvuhu",
+      "ref": "Job.3.8",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּנְקָבָהּ",
+      "translit": "unqavahh",
+      "ref": "2Kgs.18.21",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נָקְבָה",
+      "translit": "naqvah",
+      "ref": "Gen.30.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְנֹקֵב",
+      "translit": "vnoqev",
+      "ref": "Lev.24.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נָקֽוּב",
+      "translit": "naquv",
+      "ref": "Hag.1.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְּנָקְבוֹ",
+      "translit": "bnaqvo",
+      "ref": "Lev.24.16",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִקְּבוּ",
+      "translit": "niqqvu",
+      "ref": "1Chr.12.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be pricked off, be designated"
+ },
+ "root": "נקב",
+ "search_match": [
+  "5344",
+  "h5344",
+  "pierce",
+  "naqav",
+  "נקב"
+ ],
+ "citation_translit": "naqav",
+ "stem_coverage_checked": true
+}

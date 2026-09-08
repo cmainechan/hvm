@@ -1,0 +1,106 @@
+{
+ "glosses": [
+  "profit"
+ ],
+ "strong": "H3276",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הוֹעִיל",
+      "translit": "ho'il",
+      "ref": "Hab.2.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יוֹעִֽיל",
+      "translit": "yo'il",
+      "ref": "Jer.2.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֹעִיל",
+      "translit": "o'il",
+      "ref": "Job.35.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יוֹעִילוּ",
+      "translit": "yo'ilu",
+      "ref": "1Sam.12.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נּוֹעִיל",
+      "translit": "no'il",
+      "ref": "Job.21.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מוֹעִֽיל",
+      "translit": "mo'il",
+      "ref": "Jer.16.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הוֹעִֽיל",
+      "translit": "ho'il",
+      "ref": "Isa.44.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְהוֹעֵיל",
+      "translit": "vho'el",
+      "ref": "Jer.23.32",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "יעל",
+ "search_match": [
+  "3276",
+  "h3276",
+  "profit",
+  "ya'al",
+  "יעל"
+ ],
+ "citation_translit": "ya'al",
+ "stem_coverage_checked": true
+}

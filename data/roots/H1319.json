@@ -1,0 +1,159 @@
+{
+ "glosses": [
+  "gladden with good news"
+ ],
+ "strong": "H1319",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "בִּשַּׂר",
+      "translit": "bissar",
+      "ref": "Jer.20.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "בִּשַּׂרְתִּי",
+      "translit": "bissarti",
+      "ref": "Ps.40.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּבַשֵּֽׂר",
+      "translit": "tvasser",
+      "ref": "1Kgs.1.42",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְבַשֵּֽׂרוּ",
+      "translit": "yvasseru",
+      "ref": "Isa.60.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּבִשַּׂרְתָּ",
+      "translit": "uvissarta",
+      "ref": "2Sam.18.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "בַּשְּׂרוּ",
+      "translit": "bassru",
+      "ref": "1Chr.16.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּבַשְּׂרוּ",
+      "translit": "tvassru",
+      "ref": "2Sam.1.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וַאֲבַשְּׂרָה",
+      "translit": "va'avassrah",
+      "ref": "2Sam.18.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְבַשֵּֽׂר",
+      "translit": "mvasser",
+      "ref": "2Sam.18.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "הַֽמְבַשְּׂרוֹת",
+      "translit": "hamvassrot",
+      "ref": "Ps.68.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְבַשֵּׂר",
+      "translit": "lvasser",
+      "ref": "1Chr.10.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְבַּשֵּׂר",
+      "translit": "yitbasser",
+      "ref": "2Sam.18.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hitpael": "receive good news"
+ },
+ "root": "בשר",
+ "search_match": [
+  "1319",
+  "h1319",
+  "gladden with good news",
+  "basar",
+  "בשר"
+ ],
+ "citation_translit": "basar",
+ "stem_coverage_checked": true
+}

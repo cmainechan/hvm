@@ -1,0 +1,226 @@
+{
+ "glosses": [
+  "search for; think out; test"
+ ],
+ "strong": "H2664",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּחְפְּשֶֽׂנָּה",
+      "translit": "tachpsennah",
+      "ref": "Prov.2.4",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַֽחְפְּֽשׂוּ",
+      "translit": "yachpsu",
+      "ref": "Ps.64.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נַחְפְּשָׂה",
+      "translit": "nachpsah",
+      "ref": "Lam.3.40",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חֹפֵשׂ",
+      "translit": "chofes",
+      "ref": "Prov.20.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נֶחְפְּשׂוּ",
+      "translit": "nechpsu",
+      "ref": "Obad.1.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְחִפַּשְׂתִּי",
+      "translit": "vchippasti",
+      "ref": "1Sam.23.23",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְחִפְּשׂוּ",
+      "translit": "vchippsu",
+      "ref": "1Kgs.20.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְחַפֵּשׂ",
+      "translit": "vaychappes",
+      "ref": "Gen.31.35",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲחַפֵּשׂ",
+      "translit": "achappes",
+      "ref": "Amos.9.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "חַפְּשׂוּ",
+      "translit": "chappsu",
+      "ref": "2Kgs.10.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְחֻפַּשׂ",
+      "translit": "ychuppas",
+      "ref": "Prov.28.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְחֻפָּשׂ",
+      "translit": "mchuppas",
+      "ref": "Ps.64.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִתְחַפֵּשׂ",
+      "translit": "hitchappes",
+      "ref": "2Chr.35.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּתְחַפֵּשׂ",
+      "translit": "vayyitchappes",
+      "ref": "1Kgs.20.38",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְחַפֵּשׂ",
+      "translit": "yitchappes",
+      "ref": "Job.30.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִתְחַפֵּשׂ",
+      "translit": "hitchappes",
+      "ref": "1Kgs.22.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be searched out",
+  "piel": "search through",
+  "pual": "be searched for",
+  "hitpael": "disguise oneself"
+ },
+ "root": "חפש",
+ "search_match": [
+  "2664",
+  "h2664",
+  "search for",
+  "chafas",
+  "חפש"
+ ],
+ "citation_translit": "chafas",
+ "stem_coverage_checked": true
+}

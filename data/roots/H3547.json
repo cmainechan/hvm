@@ -1,0 +1,97 @@
+{
+ "glosses": [
+  "act as priest"
+ ],
+ "strong": "H3547",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "כִּהֵן",
+      "translit": "kihen",
+      "ref": "1Chr.5.36",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְכַהֵן",
+      "translit": "vaykhahen",
+      "ref": "Deut.10.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיְכַהֲנוּ",
+      "translit": "vaykhahanu",
+      "ref": "1Chr.24.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְכַהֵן",
+      "translit": "ykhahen",
+      "ref": "Isa.61.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְכִהֵן",
+      "translit": "vkhihen",
+      "ref": "Exod.40.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְכִהֲנוּ",
+      "translit": "vkhihanu",
+      "ref": "Exod.28.41",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מִכַּהֵן",
+      "translit": "mikkahen",
+      "ref": "2Chr.11.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "כהן",
+ "search_match": [
+  "3547",
+  "h3547",
+  "act as priest",
+  "kahan",
+  "כהן"
+ ],
+ "citation_translit": "kahan",
+ "stem_coverage_checked": true
+}

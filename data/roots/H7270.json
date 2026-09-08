@@ -1,0 +1,97 @@
+{
+ "glosses": [
+  "slander"
+ ],
+ "strong": "H7270",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "רָגַל",
+      "translit": "ragal",
+      "ref": "Ps.15.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְרַגֵּל",
+      "translit": "vayraggel",
+      "ref": "2Sam.19.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיְרַגְּלוּ",
+      "translit": "vayragglu",
+      "ref": "Deut.1.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְרַגְּלוּ",
+      "translit": "vragglu",
+      "ref": "Josh.7.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְרַגְּלִים",
+      "translit": "mragglim",
+      "ref": "1Sam.26.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּלְרַגֵּל",
+      "translit": "ulraggel",
+      "ref": "1Chr.19.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "slander; spy"
+ },
+ "root": "רגל",
+ "search_match": [
+  "7270",
+  "h7270",
+  "slander",
+  "ragal",
+  "רגל"
+ ],
+ "citation_translit": "ragal",
+ "stem_coverage_checked": true
+}

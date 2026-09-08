@@ -1,0 +1,180 @@
+{
+ "glosses": [
+  "be in dread"
+ ],
+ "strong": "H6342",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "פָּחַד",
+      "translit": "pachad",
+      "ref": "Ps.119.161",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "פָּחַדְתִּי",
+      "translit": "pachadti",
+      "ref": "Job.3.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "פָּחֲדוּ",
+      "translit": "pachadu",
+      "ref": "Isa.33.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִפְחָד",
+      "translit": "yifchad",
+      "ref": "Isa.19.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּפְחָד",
+      "translit": "tifchad",
+      "ref": "Deut.28.67",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶפְחָד",
+      "translit": "efchad",
+      "ref": "Isa.12.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִפְחֲדוּ",
+      "translit": "yifchadu",
+      "ref": "Isa.44.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּפָחַד",
+      "translit": "ufachad",
+      "ref": "Isa.19.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּפָֽחַדְתָּ",
+      "translit": "ufachadta",
+      "ref": "Deut.28.66",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וּפָחֲדוּ",
+      "translit": "ufachadu",
+      "ref": "Hos.3.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּפְחֲדוּ",
+      "translit": "tifchadu",
+      "ref": "Isa.44.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתְּפַחֵד",
+      "translit": "vattfached",
+      "ref": "Isa.51.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְפַחֵד",
+      "translit": "mfached",
+      "ref": "Prov.28.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִפְחִֽיד",
+      "translit": "hifchid",
+      "ref": "Job.4.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "be in great dread",
+  "hiphil": "cause to dread"
+ },
+ "root": "פחד",
+ "search_match": [
+  "6342",
+  "h6342",
+  "be in dread",
+  "pachad",
+  "פחד"
+ ],
+ "citation_translit": "pachad",
+ "stem_coverage_checked": true
+}

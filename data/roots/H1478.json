@@ -1,0 +1,115 @@
+{
+ "glosses": [
+  "die"
+ ],
+ "strong": "H1478",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "גָוַע",
+      "translit": "gava",
+      "ref": "Josh.22.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "גָּוָעוּ",
+      "translit": "gavau",
+      "ref": "Lam.1.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "גָּוַעְנוּ",
+      "translit": "gavanu",
+      "ref": "Num.17.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּגְוַע",
+      "translit": "vayyigva",
+      "ref": "Gen.25.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִגְוָֽע",
+      "translit": "yigva",
+      "ref": "Gen.6.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶגְוַע",
+      "translit": "egva",
+      "ref": "Job.10.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִגְוָעוּן",
+      "translit": "yigvaun",
+      "ref": "Ps.104.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְגֹוֵעַ",
+      "translit": "vgovea",
+      "ref": "Ps.88.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִגְוֺֽעַ",
+      "translit": "ligoa",
+      "ref": "Num.17.28",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "גוע",
+ "search_match": [
+  "1478",
+  "h1478",
+  "die (gava)",
+  "gava",
+  "גוע"
+ ],
+ "citation_translit": "gava",
+ "stem_coverage_checked": true
+}

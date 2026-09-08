@@ -1,0 +1,126 @@
+{
+ "glosses": [
+  "act as judge; plead a cause; contend"
+ ],
+ "strong": "H1777",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "דָּן",
+      "translit": "dan",
+      "ref": "Jer.22.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "דָנוּ",
+      "translit": "danu",
+      "ref": "Jer.5.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָדִין",
+      "translit": "yadin",
+      "ref": "1Sam.2.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּדִין",
+      "translit": "tadin",
+      "ref": "Zech.3.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְדִין",
+      "translit": "vdin",
+      "ref": "Prov.31.9",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "דִּינוּ",
+      "translit": "dinu",
+      "ref": "Jer.21.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "דָּן",
+      "translit": "dan",
+      "ref": "Gen.15.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לָדִין",
+      "translit": "ladin",
+      "ref": "Eccl.6.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נָדוֹן",
+      "translit": "nadon",
+      "ref": "2Sam.19.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "quarrel"
+ },
+ "root": "דין",
+ "search_match": [
+  "1777",
+  "h1777",
+  "act as judge",
+  "din",
+  "דין"
+ ],
+ "citation_translit": "din",
+ "stem_coverage_checked": true
+}

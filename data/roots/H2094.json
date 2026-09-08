@@ -1,0 +1,148 @@
+{
+ "glosses": [
+  "warn; shine"
+ ],
+ "strong": "H2094",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהִזְהִירוֹ",
+      "translit": "vhizhiro",
+      "ref": "2Kgs.6.10",
+      "has_suffix": true,
+      "has_prefix": true
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִזְהַרְתָּ",
+      "translit": "hizharta",
+      "ref": "Ezek.3.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַזְהִרוּ",
+      "translit": "yazhiru",
+      "ref": "Dan.12.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהִזְהִיר",
+      "translit": "vhizhir",
+      "ref": "Ezek.33.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהִזְהַרְתָּה",
+      "translit": "vhizhartah",
+      "ref": "Exod.18.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהִזְהַרְתֶּם",
+      "translit": "vhizhartem",
+      "ref": "2Chr.19.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַזְהִיר",
+      "translit": "lhazhir",
+      "ref": "Ezek.3.18",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִזְהָר",
+      "translit": "nizhar",
+      "ref": "Ezek.33.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִזָּהֵר",
+      "translit": "hizzaher",
+      "ref": "Eccl.12.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִזְהָר",
+      "translit": "nizhar",
+      "ref": "Ezek.3.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִזָּהֵר",
+      "translit": "lhizzaher",
+      "ref": "Eccl.4.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be warned"
+ },
+ "root": "זהר",
+ "search_match": [
+  "2094",
+  "h2094",
+  "warn",
+  "zahar",
+  "זהר"
+ ],
+ "citation_translit": "zahar",
+ "stem_coverage_checked": true
+}

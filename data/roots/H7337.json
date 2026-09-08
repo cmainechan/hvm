@@ -1,0 +1,211 @@
+{
+ "glosses": [
+  "be enlarged"
+ ],
+ "strong": "H7337",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "רָחַב",
+      "translit": "rachav",
+      "ref": "1Sam.2.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְֽרָחֲבָה",
+      "translit": "vrachavah",
+      "ref": "Ezek.41.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְרָחַב",
+      "translit": "vrachav",
+      "ref": "Isa.60.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִרְחָֽב",
+      "translit": "nirchav",
+      "ref": "Isa.30.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִרְחִיב",
+      "translit": "hirchiv",
+      "ref": "Gen.26.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הִרְחִיבָה",
+      "translit": "hirchivah",
+      "ref": "Isa.5.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִרְחַבְתָּ",
+      "translit": "hirchavta",
+      "ref": "Ps.4.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הִרְחַבְתְּ",
+      "translit": "hirchavt",
+      "ref": "Isa.57.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִרְחִיבוּ",
+      "translit": "hirchivu",
+      "ref": "Ps.25.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּרְחִיבוּ",
+      "translit": "vayyarchivu",
+      "ref": "Ps.35.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַרְחִיב",
+      "translit": "yarchiv",
+      "ref": "Deut.12.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּרְחִיב",
+      "translit": "tarchiv",
+      "ref": "2Sam.22.37",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּרְחִיבוּ",
+      "translit": "tarchivu",
+      "ref": "Isa.57.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִרְחַבְתִּי",
+      "translit": "vhirchavti",
+      "ref": "Exod.34.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַרְחֶב",
+      "translit": "harchev",
+      "ref": "Ps.81.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הַרְחִיבִי",
+      "translit": "harchivi",
+      "ref": "Isa.54.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַרְחִיב",
+      "translit": "harchiv",
+      "ref": "Amos.1.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "broad (participle, of pasture)",
+  "hiphil": "enlarge"
+ },
+ "root": "רחב",
+ "search_match": [
+  "7337",
+  "h7337",
+  "be enlarged",
+  "rachav",
+  "רחב"
+ ],
+ "citation_translit": "rachav",
+ "stem_coverage_checked": true
+}
