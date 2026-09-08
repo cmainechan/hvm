@@ -1,0 +1,90 @@
+{
+ "glosses": [
+  "lay bare; draw out"
+ ],
+ "strong": "H2834",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חָשַׂף",
+      "translit": "chasaf",
+      "ref": "Isa.52.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַֽיֶּחֱשֹׂף",
+      "translit": "vayyechesof",
+      "ref": "Ps.29.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "חֶשְׂפִּי",
+      "translit": "chespi",
+      "ref": "Isa.47.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "חֲשׂוּפָה",
+      "translit": "chasufah",
+      "ref": "Ezek.4.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "חָשֹׂף",
+      "translit": "chasof",
+      "ref": "Joel.1.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַחְשֹׂף",
+      "translit": "lachsof",
+      "ref": "Hag.2.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "חשף",
+ "search_match": [
+  "2834",
+  "h2834",
+  "lay bare; draw out",
+  "chasaf",
+  "חשף"
+ ],
+ "citation_translit": "chasaf",
+ "stem_coverage_checked": true
+}

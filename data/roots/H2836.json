@@ -1,0 +1,84 @@
+{
+ "glosses": [
+  "be attached to; love"
+ ],
+ "strong": "H2836",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חָשַׁק",
+      "translit": "chashaq",
+      "ref": "1Kgs.9.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְחָשַׁקְתָּ",
+      "translit": "vchashaqta",
+      "ref": "Deut.21.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְחִשַּׁק",
+      "translit": "vchisshaq",
+      "ref": "Exod.38.28",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְחֻשָּׁקִים",
+      "translit": "mchusshaqim",
+      "ref": "Exod.27.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "join",
+  "pual": "be joined"
+ },
+ "root": "חשק",
+ "search_match": [
+  "2836",
+  "h2836",
+  "be attached to; love",
+  "chashaq",
+  "חשק"
+ ],
+ "citation_translit": "chashaq",
+ "stem_coverage_checked": true
+}

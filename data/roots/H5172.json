@@ -1,0 +1,90 @@
+{
+ "glosses": [
+  "practice divination"
+ ],
+ "strong": "H5172",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נִחַשְׁתִּי",
+      "translit": "nichashti",
+      "ref": "Gen.30.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִחֵשׁ",
+      "translit": "vnichesh",
+      "ref": "2Kgs.21.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְנַחֲשׁוּ",
+      "translit": "ynachashu",
+      "ref": "1Kgs.20.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיְנַחֵשׁוּ",
+      "translit": "vaynacheshu",
+      "ref": "2Kgs.17.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּמְנַחֵשׁ",
+      "translit": "umnachesh",
+      "ref": "Deut.18.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "נַחֵשׁ",
+      "translit": "nachesh",
+      "ref": "Gen.44.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "נחש",
+ "search_match": [
+  "5172",
+  "h5172",
+  "practice divination (nichesh)",
+  "nachash",
+  "נחש"
+ ],
+ "citation_translit": "nachash",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,68 @@
+{
+ "glosses": [
+  "thrust; drive out; depose"
+ ],
+ "strong": "H1920",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֲדָפֽוֹ",
+      "translit": "hadafo",
+      "ref": "Jer.46.15",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וַהֲדַפְתִּיךָ",
+      "translit": "vahadaftikha",
+      "ref": "Isa.22.19",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תֶּהְדֹּפוּ",
+      "translit": "tehdofu",
+      "ref": "Ezek.34.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַהֲדֹף",
+      "translit": "lahadof",
+      "ref": "Deut.6.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "הדף",
+ "search_match": [
+  "1920",
+  "h1920",
+  "thrust; drive out; depose",
+  "hadaf",
+  "הדף"
+ ],
+ "citation_translit": "hadaf",
+ "stem_coverage_checked": true
+}

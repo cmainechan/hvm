@@ -1,0 +1,66 @@
+{
+ "glosses": [
+  "flow"
+ ],
+ "strong": "H5042",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֹבֵעַ",
+      "translit": "novea",
+      "ref": "Prov.18.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַבִּיעַ",
+      "translit": "yabbia",
+      "ref": "Eccl.10.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַבִּיעָה",
+      "translit": "abbi'ah",
+      "ref": "Prov.1.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "pour out; cause to bubble; belch forth (mainly of speech)"
+ },
+ "root": "נבע",
+ "search_match": [
+  "5042",
+  "h5042",
+  "flow (nava)",
+  "nava",
+  "נבע"
+ ],
+ "citation_translit": "nava",
+ "stem_coverage_checked": true
+}

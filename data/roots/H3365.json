@@ -1,0 +1,102 @@
+{
+ "glosses": [
+  "be precious"
+ ],
+ "strong": "H3365",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "יָקְרָה",
+      "translit": "yaqrah",
+      "ref": "1Sam.26.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּיקַר",
+      "translit": "tiqar",
+      "ref": "2Kgs.1.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּיקַר",
+      "translit": "vayyiqar",
+      "ref": "1Sam.18.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּֽיקַר",
+      "translit": "tiqar",
+      "ref": "2Kgs.1.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אוֹקִיר",
+      "translit": "oqir",
+      "ref": "Isa.13.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הֹקַר",
+      "translit": "hoqar",
+      "ref": "Prov.25.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "make precious; cause to withhold"
+ },
+ "notes": [
+  "Requested niphal \"be valued\" has zero attestation -- all 11 occurrences of this lemma are qal or hiphil; checked the lexicon for a suppletion partner (per the standard step) and found none -- the only cross-references (H3357 יַקִּיר, H3366 יְקָר, H3368 יָקָר) are derived nouns/adjectives, not a suppletive verb. Excluded."
+ ],
+ "root": "יקר",
+ "search_match": [
+  "3365",
+  "h3365",
+  "be precious",
+  "yaqar",
+  "יקר"
+ ],
+ "citation_translit": "yaqar",
+ "stem_coverage_checked": true
+}

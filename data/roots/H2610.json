@@ -1,0 +1,99 @@
+{
+ "glosses": [
+  "be polluted; be godless"
+ ],
+ "strong": "H2610",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "חָנְפָה",
+      "translit": "chanfah",
+      "ref": "Isa.24.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֶּחֱנַף",
+      "translit": "techenaf",
+      "ref": "Jer.3.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתֶּחֱנַף",
+      "translit": "vattechenaf",
+      "ref": "Jer.3.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "חָנוֹף",
+      "translit": "chanof",
+      "ref": "Jer.3.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחֲנִיף",
+      "translit": "yachanif",
+      "ref": "Dan.11.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַתַּחֲנִיפִי",
+      "translit": "vattachanifi",
+      "ref": "Jer.3.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "pollute (the land); make profane"
+ },
+ "root": "חנף",
+ "search_match": [
+  "2610",
+  "h2610",
+  "be polluted; be godless",
+  "chanef",
+  "חנף"
+ ],
+ "citation_translit": "chanef",
+ "stem_coverage_checked": true
+}

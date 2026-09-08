@@ -1,0 +1,146 @@
+{
+ "glosses": [
+  "shake out"
+ ],
+ "strong": "H5287",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נָעַרְתִּי",
+      "translit": "na'arti",
+      "ref": "Neh.5.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֹעֵר",
+      "translit": "no'er",
+      "ref": "Isa.33.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נָעוּר",
+      "translit": "naur",
+      "ref": "Neh.5.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נִנְעַרְתִּי",
+      "translit": "nin'arti",
+      "ref": "Ps.109.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיִנָּעֲרוּ",
+      "translit": "vyinna'aru",
+      "ref": "Job.38.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִעֵר",
+      "translit": "vni'er",
+      "ref": "Ps.136.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְנַעֵר",
+      "translit": "yna'er",
+      "ref": "Neh.5.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְנַעֵר",
+      "translit": "vayna'er",
+      "ref": "Exod.14.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הִתְנַעֲרִי",
+      "translit": "hitna'ari",
+      "ref": "Isa.52.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be shaken out",
+  "piel": "shake off",
+  "hitpael": "shake oneself"
+ },
+ "root": "נער",
+ "search_match": [
+  "5287",
+  "h5287",
+  "shake out",
+  "na'ar",
+  "נער"
+ ],
+ "citation_translit": "na'ar",
+ "stem_coverage_checked": true
+}

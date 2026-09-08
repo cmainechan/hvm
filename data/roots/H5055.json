@@ -1,0 +1,84 @@
+{
+ "glosses": [
+  "gore (of an ox)"
+ ],
+ "strong": "H5055",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִגַּח",
+      "translit": "yiggach",
+      "ref": "Exod.21.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּנַגַּח",
+      "translit": "tnaggach",
+      "ref": "1Kgs.22.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְנַגֵּחַ",
+      "translit": "mnaggecha",
+      "ref": "Dan.8.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְנַגַּח",
+      "translit": "yitnaggach",
+      "ref": "Dan.11.40",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "thrust at (of conquest)",
+  "hitpael": "wage war"
+ },
+ "root": "נגח",
+ "search_match": [
+  "5055",
+  "h5055",
+  "gore (of an ox)",
+  "nagach",
+  "נגח"
+ ],
+ "citation_translit": "nagach",
+ "stem_coverage_checked": true
+}

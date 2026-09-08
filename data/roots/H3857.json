@@ -1,0 +1,77 @@
+{
+ "glosses": [
+  "blaze"
+ ],
+ "strong": "H3857",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "לֹהֵֽט",
+      "translit": "lohet",
+      "ref": "Ps.104.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "לִהֲטָה",
+      "translit": "lihatah",
+      "ref": "Joel.1.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּלַהֵט",
+      "translit": "tlahet",
+      "ref": "Job.41.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתְּלַהֵט",
+      "translit": "vattlahet",
+      "ref": "Deut.32.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "set ablaze; consume with flame"
+ },
+ "root": "להט",
+ "search_match": [
+  "3857",
+  "h3857",
+  "blaze",
+  "lahat",
+  "להט"
+ ],
+ "citation_translit": "lahat",
+ "stem_coverage_checked": true
+}

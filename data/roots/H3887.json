@@ -1,0 +1,99 @@
+{
+ "glosses": [
+  "scorn"
+ ],
+ "strong": "H3887",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְלַצְתָּ",
+      "translit": "vlatzta",
+      "ref": "Prov.9.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֱלִיצֻנִי",
+      "translit": "helitzuni",
+      "ref": "Ps.119.51",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָלִיץ",
+      "translit": "yalitz",
+      "ref": "Prov.14.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֵלִיץ",
+      "translit": "melitz",
+      "ref": "Job.33.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּתְלוֹצָצוּ",
+      "translit": "titlotzatzu",
+      "ref": "Isa.28.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "mock; interpret (a foreign language)",
+  "hithpolel": "act as a scorner"
+ },
+ "notes": [
+  "Requested qal sense \"boast\" isn't supported by the sole qal citation (Prov.9.12, \"if thou scornest, thou alone shalt bear it\") or by the lexicon (meaning: \"to make mouths at, i.e. to scoff\"; usage: derision, mock(-er), scorn(-er/-ful), teacher, interpreter, ambassador -- no \"boast\"). Trimmed qal to \"scorn\".",
+  "Requested stem \"hithpalpel\" is tagged by OSHB as hithpolel (stem letter 'r', not 'f') for its sole matching form (Isa.28.22) -- shipped as hithpolel, the same typo-adjacent substitution used previously for pilel/pilpel and hithpoel/hithpolel."
+ ],
+ "root": "לוץ",
+ "search_match": [
+  "3887",
+  "h3887",
+  "scorn",
+  "luts",
+  "לוץ"
+ ],
+ "citation_translit": "luts",
+ "stem_coverage_checked": true
+}

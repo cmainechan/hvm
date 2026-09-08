@@ -1,0 +1,120 @@
+{
+ "glosses": [
+  "gather; collect (people, wealth, stones)"
+ ],
+ "strong": "H3664",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "כָּנַסְתִּי",
+      "translit": "kanasti",
+      "ref": "Eccl.2.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "כְּנוֹס",
+      "translit": "knos",
+      "ref": "Esth.4.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "כֹּנֵס",
+      "translit": "kones",
+      "ref": "Ps.33.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כְּנוֹס",
+      "translit": "knos",
+      "ref": "Eccl.3.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְכִנַּסְתִּי",
+      "translit": "vkhinnasti",
+      "ref": "Ezek.22.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְכַנֵּֽס",
+      "translit": "ykhannes",
+      "ref": "Ps.147.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כְּהִתְכַּנֵּֽס",
+      "translit": "khitkannes",
+      "ref": "Isa.28.20",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "gather together (persons)",
+  "hitpael": "wrap oneself; curl up (to fit under a covering)"
+ },
+ "notes": [
+  "Requested hitpael gloss \"hide oneself away\" doesn't match its sole citation, Isa.28.20 (\"כְּהִתְכַּנֵּס\", of a blanket too narrow \"to wrap oneself in\" -- about not fitting, not concealment), which instead matches the lexicon's own secondary sense \"to enfold... wrap self\". Corrected."
+ ],
+ "root": "כנס",
+ "search_match": [
+  "3664",
+  "h3664",
+  "gather; collect (people, wealth, stones)",
+  "kanas",
+  "כנס"
+ ],
+ "citation_translit": "kanas",
+ "stem_coverage_checked": true
+}

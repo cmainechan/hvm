@@ -1,0 +1,79 @@
+{
+ "glosses": [
+  "slaughter"
+ ],
+ "strong": "H2873",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "טָבַחְתִּי",
+      "translit": "tavachti",
+      "ref": "1Sam.25.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּטְבָחוֹ",
+      "translit": "utvacho",
+      "ref": "Exod.21.37",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּטְבֹחַ",
+      "translit": "utvocha",
+      "ref": "Gen.43.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "טָבוּחַ",
+      "translit": "tavucha",
+      "ref": "Deut.28.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "טְבֹחַ",
+      "translit": "tvocha",
+      "ref": "Ezek.21.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "טבח",
+ "search_match": [
+  "2873",
+  "h2873",
+  "slaughter",
+  "tavach",
+  "טבח"
+ ],
+ "citation_translit": "tavach",
+ "stem_coverage_checked": true
+}
