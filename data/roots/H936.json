@@ -1,0 +1,79 @@
+{
+ "glosses": [
+  "despise"
+ ],
+ "strong": "H936",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "בָּֽזוּ",
+      "translit": "bazu",
+      "ref": "Prov.1.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָבוּז",
+      "translit": "yavuz",
+      "ref": "Prov.23.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּבוּז",
+      "translit": "tavuz",
+      "ref": "Prov.23.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "בָּז",
+      "translit": "baz",
+      "ref": "Prov.11.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בּוֹז",
+      "translit": "boz",
+      "ref": "Song.8.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "בוז",
+ "search_match": [
+  "936",
+  "h936",
+  "despise (buz)",
+  "buz",
+  "בוז"
+ ],
+ "citation_translit": "buz",
+ "stem_coverage_checked": true
+}

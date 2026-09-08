@@ -1,0 +1,102 @@
+{
+ "glosses": [
+  "tread down; reject"
+ ],
+ "strong": "H947",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָּבוּס",
+      "translit": "tavus",
+      "ref": "Prov.27.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "בּוֹסִים",
+      "translit": "bosim",
+      "ref": "Zech.10.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "polel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "בּוֹסְסוּ",
+      "translit": "bossu",
+      "ref": "Isa.63.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive causative",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מוּבָֽס",
+      "translit": "muvas",
+      "ref": "Isa.14.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מִתְבּוֹסֶסֶת",
+      "translit": "mitboseset",
+      "ref": "Ezek.16.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "polel": "tread down; desecrate",
+  "hithpolel": "kick out",
+  "hophal": "be trodden down"
+ },
+ "root": "בוס",
+ "search_match": [
+  "947",
+  "h947",
+  "tread down; reject",
+  "bus",
+  "בוס"
+ ],
+ "citation_translit": "bus",
+ "stem_coverage_checked": true
+}

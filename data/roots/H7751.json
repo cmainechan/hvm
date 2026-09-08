@@ -1,0 +1,142 @@
+{
+ "glosses": [
+  "go; rove about; row"
+ ],
+ "strong": "H7751",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שָׁטוּ",
+      "translit": "shatu",
+      "ref": "Num.11.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּשֻׁטוּ",
+      "translit": "vayyashutu",
+      "ref": "2Sam.24.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "שֽׁוּט",
+      "translit": "shut",
+      "ref": "2Sam.24.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "שָׁטִים",
+      "translit": "shatim",
+      "ref": "Ezek.27.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מִשּׁוּט",
+      "translit": "misshut",
+      "ref": "Job.1.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "polel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְשֽׁוֹטְטוּ",
+      "translit": "yshottu",
+      "ref": "Amos.8.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "שׁוֹטְטוּ",
+      "translit": "shottu",
+      "ref": "Jer.5.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "מְשֹׁטְטוֹת",
+      "translit": "mshottot",
+      "ref": "2Chr.16.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2fp",
+      "label": "2nd fem. pl.",
+      "heb": "וְהִתְשׁוֹטַטְנָה",
+      "translit": "vhitshotatnah",
+      "ref": "Jer.49.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "polel": "go eagerly to and fro",
+  "hithpolel": "run to and fro"
+ },
+ "notes": [
+  "Qal also has an attested but unrequested nautical sense \"row\" (Ezek.27.8 שָׁטִים \"your rowers\", 27.26 הַשָּׁטִים), matching the lexicon's core meaning (\"to lash, i.e. (the sea with oars) to row; by implication, to travel\"). Included alongside the requested \"go; rove about\"."
+ ],
+ "root": "שוט",
+ "search_match": [
+  "7751",
+  "h7751",
+  "go; rove about; row",
+  "shut",
+  "שוט"
+ ],
+ "citation_translit": "shut",
+ "stem_coverage_checked": true
+}

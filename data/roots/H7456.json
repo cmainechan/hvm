@@ -1,0 +1,99 @@
+{
+ "glosses": [
+  "be hungry"
+ ],
+ "strong": "H7456",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "רָעֵב",
+      "translit": "ra'ev",
+      "ref": "Isa.44.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְרָעֵב",
+      "translit": "vra'ev",
+      "ref": "Isa.9.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִרְעָבוּ",
+      "translit": "yir'avu",
+      "ref": "Isa.49.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּרְעַב",
+      "translit": "vattir'av",
+      "ref": "Gen.41.55",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַרְעִיב",
+      "translit": "yar'iv",
+      "ref": "Prov.10.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּרְעִבֶךָ",
+      "translit": "vayyar'ivekha",
+      "ref": "Deut.8.3",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "cause to be hungry"
+ },
+ "root": "רעב",
+ "search_match": [
+  "7456",
+  "h7456",
+  "be hungry",
+  "ra'av",
+  "רעב"
+ ],
+ "citation_translit": "ra'av",
+ "stem_coverage_checked": true
+}

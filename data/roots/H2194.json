@@ -1,0 +1,110 @@
+{
+ "glosses": [
+  "be indignant; denounce"
+ ],
+ "strong": "H2194",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "זָעַם",
+      "translit": "za'am",
+      "ref": "Mal.1.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְזָעַם",
+      "translit": "vza'am",
+      "ref": "Dan.11.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶזְעֹם",
+      "translit": "ez'om",
+      "ref": "Num.23.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "זֹעֲמָה",
+      "translit": "zo'amah",
+      "ref": "Num.23.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "זֹעֵם",
+      "translit": "zo'em",
+      "ref": "Ps.7.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "זְעוּמָֽה",
+      "translit": "zumah",
+      "ref": "Mic.6.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נִזְעָמִים",
+      "translit": "niz'amim",
+      "ref": "Prov.25.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "show indignation"
+ },
+ "root": "זעם",
+ "search_match": [
+  "2194",
+  "h2194",
+  "be indignant; denounce",
+  "za'am",
+  "זעם"
+ ],
+ "citation_translit": "za'am",
+ "stem_coverage_checked": true
+}

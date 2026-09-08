@@ -1,0 +1,109 @@
+{
+ "glosses": [
+  "cut off; gather grapes"
+ ],
+ "strong": "H1219",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִבְצֹר",
+      "translit": "tivtzor",
+      "ref": "Deut.24.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּבְצְרוּ",
+      "translit": "vayyivtzru",
+      "ref": "Judg.9.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "בֹּֽצְרִים",
+      "translit": "botzrim",
+      "ref": "Jer.49.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִבָּצֵר",
+      "translit": "yibbatzer",
+      "ref": "Gen.11.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְבַצֵּר",
+      "translit": "tvatztzer",
+      "ref": "Jer.51.53",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְבַצֵּר",
+      "translit": "lvatztzer",
+      "ref": "Isa.22.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be withheld",
+  "piel": "fortify"
+ },
+ "notes": [
+  "Requested qal sense \"be fortified\" has zero verbal attestation -- every occurrence of the Aafpa/Aafsa (\"fortified [cities]\") form is tagged as an adjective (lemma 1219), not a verb, and the only verbal expression of \"fortify\" in this root is the piel (Isa.22.10, Jer.51.53). Excluded from qal. \"Cut off\" is attested once, distinctly from the many \"gather grapes\" forms: Ps.76.13 יִבְצֹר \"he shall cut off/cut short the spirit of princes\"."
+ ],
+ "root": "בצר",
+ "search_match": [
+  "1219",
+  "h1219",
+  "cut off; gather grapes",
+  "batzar",
+  "בצר"
+ ],
+ "citation_translit": "batzar",
+ "stem_coverage_checked": true
+}

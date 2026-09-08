@@ -1,0 +1,55 @@
+{
+ "glosses": [
+  "players on clarions"
+ ],
+ "strong": "H2690",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "לַמְחַצְּרִים",
+      "translit": "lamchatztzrim",
+      "ref": "2Chr.5.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַחְצְרִים",
+      "translit": "machtzrim",
+      "ref": "1Chr.15.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "sound with clarions"
+ },
+ "root": "חצר",
+ "search_match": [
+  "2690",
+  "h2690",
+  "players on clarions",
+  "chatzar",
+  "חצר"
+ ],
+ "citation_translit": "chatzar",
+ "stem_coverage_checked": true
+}

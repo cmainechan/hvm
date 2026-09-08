@@ -1,0 +1,80 @@
+{
+ "glosses": [
+  "become many; become great"
+ ],
+ "strong": "H7231",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "רַבּוּ",
+      "translit": "rabbu",
+      "ref": "Jer.14.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְרַבּוּ",
+      "translit": "vrabbu",
+      "ref": "Isa.66.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לָרֹב",
+      "translit": "larov",
+      "ref": "Gen.6.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "מְרֻבָּבוֹת",
+      "translit": "mrubbavot",
+      "ref": "Ps.144.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be multiplied ten-thousandfold"
+ },
+ "notes": [
+  "Requested qal sense \"be long (of a journey)\" has zero attestation -- every qal occurrence (10 perfect/veqatal forms plus the infinitive) means \"become many/numerous,\" matching the lexicon's own usage list (increase, be many(-fold), be more, multiply, ten thousands), which likewise has no \"be long\" sense. Excluded; qal gloss trimmed to \"become many; become great\" (Ps.104.24 \"how great are thy works\" supports the \"great\" nuance)."
+ ],
+ "root": "רבב",
+ "search_match": [
+  "7231",
+  "h7231",
+  "become many; become great",
+  "ravav",
+  "רבב"
+ ],
+ "citation_translit": "ravav",
+ "stem_coverage_checked": true
+}

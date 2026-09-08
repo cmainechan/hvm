@@ -1,0 +1,95 @@
+{
+ "glosses": [
+  "cover (the head, in grief)"
+ ],
+ "strong": "H2645",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חָפוּ",
+      "translit": "chafu",
+      "ref": "2Sam.15.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חָפוּי",
+      "translit": "chafuy",
+      "ref": "2Sam.15.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "נֶחְפָּה",
+      "translit": "nechpah",
+      "ref": "Ps.68.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חִפָּה",
+      "translit": "chippah",
+      "ref": "2Chr.3.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְחַף",
+      "translit": "vaychaf",
+      "ref": "2Chr.3.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be covered",
+  "piel": "overlay"
+ },
+ "root": "חפה",
+ "search_match": [
+  "2645",
+  "h2645",
+  "cover (the head, in grief)",
+  "chafah",
+  "חפה"
+ ],
+ "citation_translit": "chafah",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,120 @@
+{
+ "glosses": [
+  "stir up; disturb"
+ ],
+ "strong": "H7280",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "רָגַע",
+      "translit": "raga",
+      "ref": "Job.26.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "רֹגַע",
+      "translit": "roga",
+      "ref": "Jer.31.35",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הֵרָגְעִי",
+      "translit": "herag'i",
+      "ref": "Jer.47.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הִרְגִּיעָה",
+      "translit": "hirgi'ah",
+      "ref": "Isa.34.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַרְגִּיעַ",
+      "translit": "targia",
+      "ref": "Deut.28.65",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַרְגִּיעָה",
+      "translit": "argi'ah",
+      "ref": "Jer.49.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִרְגִּיעַ",
+      "translit": "hirgia",
+      "ref": "Jer.50.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be still (of a sword)",
+  "hiphil": "give rest; act suddenly"
+ },
+ "notes": [
+  "Requested niphal sense \"wink\" and hiphil senses \"make a twinkling (of an eye); harden\" have zero verbal attestation. The lexicon's meaning field mentions \"wink (from the motion of the eye-lids)\" only as an etymological aside tied to the cognate noun רֶגַע (\"a wink of the eyes, i.e. a very short space of time\", H7281) -- its own usage list for the verb (break, divide, find ease, be a moment, (cause/give/make to) rest, make suddenly) has no \"wink\" or \"harden\" gloss, and none of the actual niphal/hiphil citations support them. Niphal's sole attestation (Jer.47.6, imperative to a sword) is \"be still\"; excluded \"wink\". Hiphil's 8 attestations split between \"give rest\" (Jer.31.2, Isa.34.14, Deut.28.65, Isa.51.4) and an idiomatic \"in/for a moment, suddenly\" (Jer.49.19, Jer.50.44, Prov.12.19); excluded \"make a twinkling of an eye\" and \"harden\"."
+ ],
+ "root": "רגע",
+ "search_match": [
+  "7280",
+  "h7280",
+  "stir up; disturb",
+  "raga",
+  "רגע"
+ ],
+ "citation_translit": "raga",
+ "stem_coverage_checked": true
+}

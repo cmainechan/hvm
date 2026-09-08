@@ -1,0 +1,80 @@
+{
+ "glosses": [
+  "cast; shoot"
+ ],
+ "strong": "H7411",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "רָמָה",
+      "translit": "ramah",
+      "ref": "Exod.15.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "רָמָה",
+      "translit": "ramah",
+      "ref": "Num.15.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "רִמִּיתֶם",
+      "translit": "rimmitem",
+      "ref": "Josh.9.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְרַמּוֹתַנִי",
+      "translit": "lrammotani",
+      "ref": "1Chr.12.18",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "beguile; deceive"
+ },
+ "notes": [
+  "Qal's only usable (absolute-state) participle_active attestation, Num.15.30 (\"בְּיָד רָמָה\", \"with a high/defiant hand\"), is tagged by OSHB under the homonym-letter sub-sense \"7411 b\" alongside the piel \"deceive\" forms, rather than sub-sense \"a\" (literal cast/throw/shoot, e.g. Exod.15.1/21, Ps.19 construct participle). Included per the standing rule of keeping same-number homonym-letter sub-senses together; the qal perfect forms (Exod.15.1, 15.21, \"hath thrown the horse and rider into the sea\") independently confirm the literal \"cast\" sense."
+ ],
+ "root": "רמה",
+ "search_match": [
+  "7411",
+  "h7411",
+  "cast; shoot",
+  "ramah",
+  "רמה"
+ ],
+ "citation_translit": "ramah",
+ "stem_coverage_checked": true
+}

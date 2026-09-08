@@ -1,0 +1,90 @@
+{
+ "glosses": [
+  "sigh"
+ ],
+ "strong": "H584",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (niphal-only root)",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נֶאֶנְחוּ",
+      "translit": "ne'enchu",
+      "ref": "Isa.24.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֵּֽאָנַח",
+      "translit": "te'anach",
+      "ref": "Ezek.21.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיֵּאָנְחוּ",
+      "translit": "vayye'anchu",
+      "ref": "Exod.2.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הֵֽאָנַח",
+      "translit": "he'anach",
+      "ref": "Ezek.21.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֶאֱנָח",
+      "translit": "ne'enach",
+      "ref": "Ezek.21.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נֶאֱנָחִים",
+      "translit": "ne'enachim",
+      "ref": "Lam.1.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "אנח",
+ "search_match": [
+  "584",
+  "h584",
+  "sigh",
+  "anach",
+  "אנח"
+ ],
+ "citation_translit": "anach",
+ "stem_coverage_checked": true
+}

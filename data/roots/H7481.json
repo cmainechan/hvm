@@ -1,0 +1,99 @@
+{
+ "glosses": [
+  "thunder"
+ ],
+ "strong": "H7481",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "רָעֲמוּ",
+      "translit": "ra'amu",
+      "ref": "Ezek.27.35",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִרְעַם",
+      "translit": "yir'am",
+      "ref": "1Chr.16.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִרְעִים",
+      "translit": "hir'im",
+      "ref": "Ps.29.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַרְעֵם",
+      "translit": "yar'em",
+      "ref": "1Sam.2.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּרְעֵם",
+      "translit": "vayyar'em",
+      "ref": "1Sam.7.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַרְּעִמָהּ",
+      "translit": "harr'imahh",
+      "ref": "1Sam.1.6",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "cause to thunder"
+ },
+ "root": "רעם",
+ "search_match": [
+  "7481",
+  "h7481",
+  "thunder",
+  "ra'am",
+  "רעם"
+ ],
+ "citation_translit": "ra'am",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,88 @@
+{
+ "glosses": [
+  "mutilate; sharpen; decide"
+ ],
+ "strong": "H2782",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חָרָֽצְתָּ",
+      "translit": "charatzta",
+      "ref": "1Kgs.20.40",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֶּחֱרָץ",
+      "translit": "techeratz",
+      "ref": "2Sam.5.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חָרוּץ",
+      "translit": "charutz",
+      "ref": "Isa.10.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "וְנֶחֱרָצָה",
+      "translit": "vnecheratzah",
+      "ref": "Dan.9.27",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "נֶחֱרָצָה",
+      "translit": "necheratzah",
+      "ref": "Dan.11.36",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be decisive; be decreed"
+ },
+ "root": "חרץ",
+ "search_match": [
+  "2782",
+  "h2782",
+  "mutilate; sharpen; decide",
+  "charatz",
+  "חרץ"
+ ],
+ "citation_translit": "charatz",
+ "stem_coverage_checked": true
+}
