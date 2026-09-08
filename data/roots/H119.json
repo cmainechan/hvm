@@ -1,0 +1,94 @@
+{
+ "glosses": [
+  "be ruddy (of Nazirites)"
+ ],
+ "strong": "H119",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "אָדְמוּ",
+      "translit": "admu",
+      "ref": "Lam.4.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְאָדָּמִים",
+      "translit": "m'addamim",
+      "ref": "Exod.25.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַאְדִּימוּ",
+      "translit": "yadimu",
+      "ref": "Isa.1.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְאַדָּם",
+      "translit": "yit'addam",
+      "ref": "Prov.23.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "reddened",
+  "hiphil": "cause to show red",
+  "hitpael": "redden"
+ },
+ "notes": [
+  "Requested hiphil sense \"glare\" is unsupported -- the lexicon's meaning (\"to show blood (in the face), i.e. flush or turn rosy\") and usage (be (dyed, made) red (ruddy)) have no \"glare\", and the sole hiphil citation (Isa.1.18, \"though they be red like crimson\") matches \"cause to show red\" only. Excluded."
+ ],
+ "root": "אדם",
+ "search_match": [
+  "119",
+  "h119",
+  "be ruddy (of Nazirites)",
+  "adam",
+  "אדם"
+ ],
+ "citation_translit": "adam",
+ "stem_coverage_checked": true
+}

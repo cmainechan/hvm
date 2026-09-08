@@ -1,0 +1,109 @@
+{
+ "glosses": [
+  "still (waves, temper); praise (God)"
+ ],
+ "strong": "H7623",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְשִׁבַּחְתִּֽי",
+      "translit": "vshibbachti",
+      "ref": "Eccl.8.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְשַׁבַּח",
+      "translit": "yshabbach",
+      "ref": "Ps.145.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "שַׁבְּחִי",
+      "translit": "shabbchi",
+      "ref": "Ps.147.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְשַׁבֵּחַ",
+      "translit": "vshabbecha",
+      "ref": "Eccl.4.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַשְׁבִּיחַ",
+      "translit": "mashbicha",
+      "ref": "Ps.65.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִשְׁתַּבֵּחַ",
+      "translit": "lhishtabbecha",
+      "ref": "1Chr.16.35",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "still (the sea/waves)",
+  "hitpael": "boast"
+ },
+ "notes": [
+  "Hiphil is an attested-but-unrequested stem beyond the two requested -- its sole citation, Ps.65.8 (מַשְׁבִּיחַ, \"who stilleth the noise of the seas\"), matches the same \"still\" sense already independently confirmed for piel (Ps.89.10, \"thou stillest [the waves]\"; Prov.29.11, a wise man \"stilleth\" his temper). Included. Piel's \"praise\" citations aren't all specifically of God (Eccl.4.2 praises the dead, Eccl.8.15 commends mirth), but the majority (Ps.117.1, 147.12, 63.4, 145.4) are, so the requested \"praise (God)\" wording is kept as the dominant sense."
+ ],
+ "root": "שבח",
+ "search_match": [
+  "7623",
+  "h7623",
+  "still (waves, temper); praise (God)",
+  "shavach",
+  "שבח"
+ ],
+ "citation_translit": "shavach",
+ "stem_coverage_checked": true
+}

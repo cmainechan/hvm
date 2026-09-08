@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "smell; accept (with delight)"
+ ],
+ "strong": "H7306",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָרַח",
+      "translit": "yarach",
+      "ref": "1Sam.26.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּרַח",
+      "translit": "vayyarach",
+      "ref": "Gen.27.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהָרִיחַ",
+      "translit": "lharicha",
+      "ref": "Exod.30.38",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "ריח",
+ "search_match": [
+  "7306",
+  "h7306",
+  "smell; accept (with delight)",
+  "riach",
+  "ריח"
+ ],
+ "citation_translit": "riach",
+ "stem_coverage_checked": true
+}

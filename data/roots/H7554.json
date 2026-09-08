@@ -1,0 +1,124 @@
+{
+ "glosses": [
+  "stamp; beat out"
+ ],
+ "strong": "H7554",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶרְקָעֵֽם",
+      "translit": "erqa'em",
+      "ref": "2Sam.22.43",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּרְקַע",
+      "translit": "urqa",
+      "ref": "Ezek.6.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְרַקְעֲךָ",
+      "translit": "vraq'akha",
+      "ref": "Ezek.25.6",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְרַקְּעֶנּוּ",
+      "translit": "yraqq'ennu",
+      "ref": "Isa.40.19",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיְרַקְּעוּ",
+      "translit": "vayraqqu",
+      "ref": "Exod.39.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְרֻקָּע",
+      "translit": "mruqqa",
+      "ref": "Jer.10.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּרְקִיעַ",
+      "translit": "tarqia",
+      "ref": "Job.37.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "beat out",
+  "pual": "(participle) beaten out",
+  "hiphil": "spread (of the clouds/heavens)"
+ },
+ "root": "רקע",
+ "search_match": [
+  "7554",
+  "h7554",
+  "stamp; beat out",
+  "raqa",
+  "רקע"
+ ],
+ "citation_translit": "raqa",
+ "stem_coverage_checked": true
+}

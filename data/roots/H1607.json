@@ -1,0 +1,116 @@
+{
+ "glosses": [
+  "shake; quake (of earth)"
+ ],
+ "strong": "H1607",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּגְעַשׁ",
+      "translit": "vattig'ash",
+      "ref": "Ps.18.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְגֹעֲשׁוּ",
+      "translit": "ygo'ashu",
+      "ref": "Job.34.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִֽתְגָּעֲשׁוּ",
+      "translit": "yitga'ashu",
+      "ref": "Jer.46.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּתְגָּעַשׁ",
+      "translit": "vayyitga'ash",
+      "ref": "2Sam.22.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִֽתְגֹּֽעֲשׁוּ",
+      "translit": "vhitgo'ashu",
+      "ref": "Jer.25.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתְגֹּעֲשׁוּ",
+      "translit": "yitgo'ashu",
+      "ref": "Jer.46.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be shaken up",
+  "hitpael": "reel to and fro",
+  "hithpolel": "reel to and fro"
+ },
+ "notes": [
+  "Hithpolel is an attested-but-unrequested stem beyond the three requested -- Jer.25.16 and Jer.46.8 carry the identical \"reel to and fro\" sense already covered by hitpael's 4 attestations (e.g. 2Sam.22.8, Ps.18.8), the same kind of paradigm-variant doubling seen this batch in ענן's poel/polel. Included alongside hitpael with the same gloss."
+ ],
+ "root": "געש",
+ "search_match": [
+  "1607",
+  "h1607",
+  "shake; quake (of earth)",
+  "ga'ash",
+  "געש"
+ ],
+ "citation_translit": "ga'ash",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,110 @@
+{
+ "glosses": [
+  "fall in ruins"
+ ],
+ "strong": "H5327",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תִּצֶּינָה",
+      "translit": "titztzenah",
+      "ref": "Jer.4.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִנָּצוּ",
+      "translit": "yinnatzu",
+      "ref": "Deut.25.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּנָּצוּ",
+      "translit": "vayyinnatzu",
+      "ref": "2Sam.14.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נִצִּים",
+      "translit": "nitztzim",
+      "ref": "2Kgs.19.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִצּוּ",
+      "translit": "hitztzu",
+      "ref": "Num.26.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְּהַצֹּתָם",
+      "translit": "bhatztzotam",
+      "ref": "Num.26.9",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "struggle",
+  "hiphil": "engage in a struggle against"
+ },
+ "notes": [
+  "Requested qal sense \"fly\" is unsupported -- the lexicon's meaning (\"properly, to go forth, i.e. (by implication) to be expelled, and (consequently) desolate; causatively, to lay waste; also (specifically), to quarrel\") and usage list (be laid waste, ruinous, strive (together)) have no \"fly\" sense, and the sole qal citation (Jer.4.7, \"thy cities shall be laid waste\") matches \"fall in ruins\" only. Excluded.",
+  "Requested niphal sense \"desolated\" is likewise unsupported -- all 7 niphal citations mean \"strive/struggle (together)\" (e.g. Exod.2.13, two Hebrews striving), matching the lexicon's \"strive\" usage; \"desolate\" belongs to the qal/causative branch instead. Excluded from niphal."
+ ],
+ "root": "נצה",
+ "search_match": [
+  "5327",
+  "h5327",
+  "fall in ruins",
+  "natzah",
+  "נצה"
+ ],
+ "citation_translit": "natzah",
+ "stem_coverage_checked": true
+}

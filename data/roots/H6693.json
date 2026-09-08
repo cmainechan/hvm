@@ -1,0 +1,68 @@
+{
+ "glosses": [
+  "constrain; oppress"
+ ],
+ "strong": "H6693",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הֵצִיקָה",
+      "translit": "hetziqah",
+      "ref": "Judg.16.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וַהֲצִיקוֹתִי",
+      "translit": "vahatziqoti",
+      "ref": "Isa.29.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָצִיק",
+      "translit": "yatziq",
+      "ref": "Deut.28.53",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "וְהַמְּצִיקִים",
+      "translit": "vhammtziqim",
+      "ref": "Isa.29.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "צוק",
+ "search_match": [
+  "6693",
+  "h6693",
+  "constrain; oppress",
+  "tzuq",
+  "צוק"
+ ],
+ "citation_translit": "tzuq",
+ "stem_coverage_checked": true
+}

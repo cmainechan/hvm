@@ -1,0 +1,95 @@
+{
+ "glosses": [
+  "make crooked; subvert justice"
+ ],
+ "strong": "H5791",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "עִוְּתֽוֹ",
+      "translit": "iuto",
+      "ref": "Eccl.7.13",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְעַוֵּת",
+      "translit": "y'avvet",
+      "ref": "Job.34.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּלְעַוֵּת",
+      "translit": "ul'avvet",
+      "ref": "Amos.8.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְעֻוָּת",
+      "translit": "m'uvvat",
+      "ref": "Eccl.1.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִֽתְעַוְּתוּ",
+      "translit": "vhit'autu",
+      "ref": "Eccl.12.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "thing bent",
+  "hitpael": "bend oneself"
+ },
+ "root": "עות",
+ "search_match": [
+  "5791",
+  "h5791",
+  "make crooked; subvert justice",
+  "avat",
+  "עות"
+ ],
+ "citation_translit": "avat",
+ "stem_coverage_checked": true
+}

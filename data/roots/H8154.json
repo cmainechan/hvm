@@ -1,0 +1,88 @@
+{
+ "glosses": [
+  "plunder; plunderers"
+ ],
+ "strong": "H8154",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שָׁסוּ",
+      "translit": "shasu",
+      "ref": "Ps.44.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשְׁסֶה",
+      "translit": "yishseh",
+      "ref": "Hos.13.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "שֹׁסִים",
+      "translit": "shosim",
+      "ref": "1Sam.23.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְשָׁסוּי",
+      "translit": "vshasuy",
+      "ref": "Isa.42.22",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "poel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "שׁוֹשֵׂתִי",
+      "translit": "shoseti",
+      "ref": "Isa.10.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "poel": "plunder"
+ },
+ "root": "שסה",
+ "search_match": [
+  "8154",
+  "h8154",
+  "plunder; plunderers",
+  "shasah",
+  "שסה"
+ ],
+ "citation_translit": "shasah",
+ "stem_coverage_checked": true
+}

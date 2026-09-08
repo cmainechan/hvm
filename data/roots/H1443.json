@@ -1,0 +1,68 @@
+{
+ "glosses": [
+  "wall up; masons"
+ ],
+ "strong": "H1443",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "גָדַר",
+      "translit": "gadar",
+      "ref": "Job.19.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְגָדַרְתִּי",
+      "translit": "vgadarti",
+      "ref": "Amos.9.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַתִּגְדְּרוּ",
+      "translit": "vattigdru",
+      "ref": "Ezek.13.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "גֹּֽדֵר",
+      "translit": "goder",
+      "ref": "Ezek.22.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "גדר",
+ "search_match": [
+  "1443",
+  "h1443",
+  "wall up; masons",
+  "gadar",
+  "גדר"
+ ],
+ "citation_translit": "gadar",
+ "stem_coverage_checked": true
+}

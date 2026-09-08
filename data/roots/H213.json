@@ -1,0 +1,77 @@
+{
+ "glosses": [
+  "press; hasten; be pressed"
+ ],
+ "strong": "H213",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַצְתִּי",
+      "translit": "atzti",
+      "ref": "Jer.17.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "אָצִים",
+      "translit": "atzim",
+      "ref": "Exod.5.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּאִיצוּ",
+      "translit": "vayya'itzu",
+      "ref": "Gen.19.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תָּאִיצוּ",
+      "translit": "ta'itzu",
+      "ref": "Isa.22.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "urge; hasten"
+ },
+ "root": "אוץ",
+ "search_match": [
+  "213",
+  "h213",
+  "press; hasten; be pressed",
+  "utz",
+  "אוץ"
+ ],
+ "citation_translit": "utz",
+ "stem_coverage_checked": true
+}

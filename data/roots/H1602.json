@@ -1,0 +1,106 @@
+{
+ "glosses": [
+  "abhor"
+ ],
+ "strong": "H1602",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "גָּֽעֲלוּ",
+      "translit": "ga'alu",
+      "ref": "Ezek.16.45",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְגָעֲלָה",
+      "translit": "vga'alah",
+      "ref": "Lev.26.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִגְעַל",
+      "translit": "tig'al",
+      "ref": "Lev.26.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "גֹּעֶלֶת",
+      "translit": "go'elet",
+      "ref": "Ezek.16.45",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִגְעַל",
+      "translit": "nig'al",
+      "ref": "2Sam.1.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַגְעִל",
+      "translit": "yag'il",
+      "ref": "Job.21.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be cast away",
+  "hiphil": "reject as loathsome"
+ },
+ "root": "געל",
+ "search_match": [
+  "1602",
+  "h1602",
+  "abhor (ga'al)",
+  "ga'al",
+  "געל"
+ ],
+ "citation_translit": "ga'al",
+ "stem_coverage_checked": true
+}
