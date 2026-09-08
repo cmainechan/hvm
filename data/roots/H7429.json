@@ -1,0 +1,164 @@
+{
+ "glosses": [
+  "trample"
+ ],
+ "strong": "H7429",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַֽיִּרְמְסֶֽנָּה",
+      "translit": "vayyirmsennah",
+      "ref": "2Kgs.9.33",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּרְמֹס",
+      "translit": "vattirmos",
+      "ref": "2Chr.25.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּרְמְסוּ",
+      "translit": "vayyirmsu",
+      "ref": "2Kgs.7.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִרְמֹס",
+      "translit": "yirmos",
+      "ref": "Ezek.26.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּרְמְסֶנָּה",
+      "translit": "tirmsennah",
+      "ref": "Isa.26.6",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּרְמֹס",
+      "translit": "tirmos",
+      "ref": "Ps.91.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאֶרְמְסֵם",
+      "translit": "v'ermsem",
+      "ref": "Isa.63.3",
+      "has_suffix": true,
+      "has_prefix": true
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּרְמְסוּ",
+      "translit": "tirmsu",
+      "ref": "Ezek.34.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְרָמַס",
+      "translit": "vramas",
+      "ref": "Mic.5.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְרִמְסִי",
+      "translit": "vrimsi",
+      "ref": "Nah.3.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "רֹמֵס",
+      "translit": "romes",
+      "ref": "Isa.16.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "רְמֹס",
+      "translit": "rmos",
+      "ref": "Isa.1.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תֵּֽרָמַסְנָה",
+      "translit": "teramasnah",
+      "ref": "Isa.28.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be trampled"
+ },
+ "root": "רמס",
+ "search_match": [
+  "7429",
+  "h7429",
+  "trample",
+  "ramas",
+  "רמס"
+ ],
+ "citation_translit": "ramas",
+ "stem_coverage_checked": true
+}

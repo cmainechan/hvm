@@ -1,0 +1,104 @@
+{
+ "glosses": [
+  "treat violently; defraud"
+ ],
+ "strong": "H3238",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הוֹנָה",
+      "translit": "honah",
+      "ref": "Ezek.18.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הוֹנוּ",
+      "translit": "honu",
+      "ref": "Ezek.22.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יוֹנֶה",
+      "translit": "yoneh",
+      "ref": "Ezek.18.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תוֹנֶה",
+      "translit": "toneh",
+      "ref": "Exod.22.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יוֹנוּ",
+      "translit": "yonu",
+      "ref": "Ezek.45.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תוֹנוּ",
+      "translit": "tonu",
+      "ref": "Lev.19.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תֹּנוּ",
+      "translit": "tonu",
+      "ref": "Jer.22.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהֽוֹנֹתָם",
+      "translit": "lhonotam",
+      "ref": "Ezek.46.18",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "ינה",
+ "search_match": [
+  "3238",
+  "h3238",
+  "treat violently",
+  "yanah",
+  "ינה"
+ ],
+ "citation_translit": "yanah",
+ "stem_coverage_checked": true
+}

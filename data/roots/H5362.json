@@ -1,0 +1,195 @@
+{
+ "glosses": [
+  "go around"
+ ],
+ "strong": "H5362",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "jussive": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִנְקֹֽפוּ",
+      "translit": "yinqofu",
+      "ref": "Isa.29.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִקְּפוּ",
+      "translit": "niqqfu",
+      "ref": "Job.19.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִקַּף",
+      "translit": "vniqqaf",
+      "ref": "Isa.10.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִקִּֽיף",
+      "translit": "hiqqif",
+      "ref": "Job.19.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הִקִּיפָה",
+      "translit": "hiqqifah",
+      "ref": "Isa.15.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִקִּיפֽוּ",
+      "translit": "hiqqifu",
+      "ref": "Job.1.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּקַּף",
+      "translit": "vayyaqqaf",
+      "ref": "Lam.3.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּקִּפוּ",
+      "translit": "vayyaqqifu",
+      "ref": "2Kgs.6.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַקִּיפוּ",
+      "translit": "yaqqifu",
+      "ref": "Ps.17.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַקִּפוּ",
+      "translit": "taqqifu",
+      "ref": "Lev.19.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִקִּיפוּ",
+      "translit": "vhiqqifu",
+      "ref": "2Chr.23.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהִקַּפְתֶּם",
+      "translit": "vhiqqaftem",
+      "ref": "2Kgs.11.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהַקִּיפוּהָ",
+      "translit": "vhaqqifuha",
+      "ref": "Ps.48.13",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַקִּפִים",
+      "translit": "maqqifim",
+      "ref": "1Kgs.7.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַקֵּף",
+      "translit": "haqqef",
+      "ref": "Josh.6.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "strike off (skin)",
+  "hiphil": "surround; round off"
+ },
+ "root": "נקף",
+ "search_match": [
+  "5362",
+  "h5362",
+  "go around (naqaf)",
+  "naqaf",
+  "נקף"
+ ],
+ "citation_translit": "naqaf",
+ "stem_coverage_checked": true
+}

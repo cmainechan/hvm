@@ -1,0 +1,44 @@
+{
+ "glosses": [
+  "officer"
+ ],
+ "strong": "H7860",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "שֹׁטֵר",
+      "translit": "shoter",
+      "ref": "Prov.6.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "וְשֹׁטְרִים",
+      "translit": "vshotrim",
+      "ref": "1Chr.23.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "שטר",
+ "search_match": [
+  "7860",
+  "h7860",
+  "officer",
+  "shoter",
+  "שטר"
+ ],
+ "citation_translit": "shoter",
+ "stem_coverage_checked": true
+}

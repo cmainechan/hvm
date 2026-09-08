@@ -1,0 +1,175 @@
+{
+ "glosses": [
+  "sleep"
+ ],
+ "strong": "H3462",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "יָשַׁנְתִּי",
+      "translit": "yashanti",
+      "ref": "Job.3.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּישַׁן",
+      "translit": "vayyishan",
+      "ref": "1Kgs.19.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָֽאִישָׁנָה",
+      "translit": "va'ishanah",
+      "ref": "Ps.3.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִישָׁן",
+      "translit": "yishan",
+      "ref": "Isa.5.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִישַׁן",
+      "translit": "tishan",
+      "ref": "Ps.44.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אִישַׁן",
+      "translit": "ishan",
+      "ref": "Ps.13.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִֽשְׁנוּ",
+      "translit": "yishnu",
+      "ref": "Prov.4.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְיָשְׁנוּ",
+      "translit": "vyashnu",
+      "ref": "Ezek.34.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִישֽׁוֹן",
+      "translit": "lishon",
+      "ref": "Eccl.5.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְנוֹשַׁנְתֶּם",
+      "translit": "vnoshantem",
+      "ref": "Deut.4.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "נוֹשֶׁנֶת",
+      "translit": "noshenet",
+      "ref": "Lev.13.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נוֹשָׁן",
+      "translit": "noshan",
+      "ref": "Lev.26.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתְּיַשְּׁנֵהוּ",
+      "translit": "vattyasshnehu",
+      "ref": "Judg.16.19",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "remain a long time",
+  "piel": "cause to sleep"
+ },
+ "root": "ישן",
+ "search_match": [
+  "3462",
+  "h3462",
+  "sleep",
+  "yashen",
+  "ישן"
+ ],
+ "citation_translit": "yashen",
+ "stem_coverage_checked": true
+}

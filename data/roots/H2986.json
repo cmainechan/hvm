@@ -1,0 +1,118 @@
+{
+ "glosses": [
+  "bear along; lead away"
+ ],
+ "strong": "H2986",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֹבִלֵנִי",
+      "translit": "yovileni",
+      "ref": "Ps.108.11",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֽוֹבִילֵם",
+      "translit": "ovilem",
+      "ref": "Jer.31.9",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יוֹבִילוּ",
+      "translit": "yovilu",
+      "ref": "Ps.68.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יוּבָל",
+      "translit": "yuval",
+      "ref": "Hos.10.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תּוּבַל",
+      "translit": "tuval",
+      "ref": "Ps.45.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אוּבָֽל",
+      "translit": "uval",
+      "ref": "Job.10.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יוּבָֽלוּ",
+      "translit": "yuvalu",
+      "ref": "Job.21.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תּוּבַלְנָה",
+      "translit": "tuvalnah",
+      "ref": "Ps.45.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תּֽוּבָלוּן",
+      "translit": "tuvalun",
+      "ref": "Isa.55.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hophal": "be led; be borne (to the grave)"
+ },
+ "root": "יבל",
+ "search_match": [
+  "2986",
+  "h2986",
+  "bear along",
+  "yaval",
+  "יבל"
+ ],
+ "citation_translit": "yaval",
+ "stem_coverage_checked": true
+}

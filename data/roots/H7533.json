@@ -1,0 +1,218 @@
+{
+ "glosses": [
+  "crush; oppress"
+ ],
+ "strong": "H7533",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "רַצּוֹתָנוּ",
+      "translit": "ratztzotanu",
+      "ref": "1Sam.12.4",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "רַצּוֹתִי",
+      "translit": "ratztzoti",
+      "ref": "1Sam.12.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָרוּץ",
+      "translit": "yarutz",
+      "ref": "Isa.42.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְתָרֻץ",
+      "translit": "vtarutz",
+      "ref": "Eccl.12.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "הָרֹצְצוֹת",
+      "translit": "harotztzot",
+      "ref": "Amos.4.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "רָצוּץ",
+      "translit": "ratzutz",
+      "ref": "Isa.42.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "רְצוּצִים",
+      "translit": "rtzutzim",
+      "ref": "Isa.58.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֵּרוֹץ",
+      "translit": "terotz",
+      "ref": "Ezek.29.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנָרֹץ",
+      "translit": "vnarotz",
+      "ref": "Eccl.12.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "רִצַּץ",
+      "translit": "ritztzatz",
+      "ref": "Job.20.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "רִצַּצְתָּ",
+      "translit": "ritztzatzta",
+      "ref": "Ps.74.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְרַצֵּץ",
+      "translit": "vayratztzetz",
+      "ref": "2Chr.16.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "poel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיְרֹֽצְצוּ",
+      "translit": "vayrotztzu",
+      "ref": "Judg.10.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּתְרֹֽצֲצוּ",
+      "translit": "vayyitrotzatzu",
+      "ref": "Gen.25.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתָּרִץ",
+      "translit": "vattaritz",
+      "ref": "Judg.9.53",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be crushed",
+  "piel": "crush in pieces; grievously oppress",
+  "poel": "oppress",
+  "hithpolel": "struggle with one another",
+  "hiphil": "crush"
+ },
+ "root": "רצץ",
+ "search_match": [
+  "7533",
+  "h7533",
+  "crush",
+  "ratzatz",
+  "רצץ"
+ ],
+ "citation_translit": "ratzatz",
+ "stem_coverage_checked": true
+}

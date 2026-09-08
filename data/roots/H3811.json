@@ -1,0 +1,202 @@
+{
+ "glosses": [
+  "be weary; be impatient"
+ ],
+ "strong": "H3811",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתֵּלֶא",
+      "translit": "vattele",
+      "ref": "Job.4.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּלְאוּ",
+      "translit": "vayyilu",
+      "ref": "Gen.19.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּלְאֶה",
+      "translit": "til'eh",
+      "ref": "Job.4.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִלְאָה",
+      "translit": "nil'ah",
+      "ref": "Isa.16.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "נִלְאֵית",
+      "translit": "nil'et",
+      "ref": "Isa.47.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נִלְאֵיתִי",
+      "translit": "nil'eti",
+      "ref": "Isa.1.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִלְאֽוּ",
+      "translit": "nilu",
+      "ref": "Jer.9.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְנִלְאֵיתִי",
+      "translit": "vnil'eti",
+      "ref": "Jer.20.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנִלְאוּ",
+      "translit": "vnilu",
+      "ref": "Exod.7.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "וְנִלְאָה",
+      "translit": "vnil'ah",
+      "ref": "Ps.68.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֶלְאָנִי",
+      "translit": "hel'ani",
+      "ref": "Job.16.7",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הֶלְאָת",
+      "translit": "hel'at",
+      "ref": "Ezek.24.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הֶלְאֵתִיךָ",
+      "translit": "hel'etikha",
+      "ref": "Mic.6.3",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּלְאוּךָ",
+      "translit": "vayyalukha",
+      "ref": "Jer.12.5",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַלְאוּ",
+      "translit": "talu",
+      "ref": "Isa.7.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַלְאוֹת",
+      "translit": "halot",
+      "ref": "Isa.7.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "weary oneself",
+  "hiphil": "make weary"
+ },
+ "root": "לאה",
+ "search_match": [
+  "3811",
+  "h3811",
+  "be weary",
+  "la'ah",
+  "לאה"
+ ],
+ "citation_translit": "la'ah",
+ "stem_coverage_checked": true
+}

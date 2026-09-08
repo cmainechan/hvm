@@ -1,0 +1,229 @@
+{
+ "glosses": [
+  "roll (a stone)"
+ ],
+ "strong": "H1556",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "גַּלּוֹתִי",
+      "translit": "galloti",
+      "ref": "Josh.5.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְגָלֲלוּ",
+      "translit": "vgalalu",
+      "ref": "Gen.29.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּגֶל",
+      "translit": "vayyagel",
+      "ref": "Gen.29.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְגָֽלֲלוּ",
+      "translit": "vgalalu",
+      "ref": "Gen.29.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "גֹּל",
+      "translit": "gol",
+      "ref": "Prov.16.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "גֹּֽלּוּ",
+      "translit": "gollu",
+      "ref": "1Sam.14.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְגֹלֵל",
+      "translit": "vgolel",
+      "ref": "Prov.26.27",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיִגַּל",
+      "translit": "vyiggal",
+      "ref": "Amos.5.24",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנָגֹלּוּ",
+      "translit": "vnagollu",
+      "ref": "Isa.34.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pilpel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְגִלְגַּלְתִּיךָ",
+      "translit": "vgilgaltikha",
+      "ref": "Jer.51.25",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "poal": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מְגוֹלָלָה",
+      "translit": "mgolalah",
+      "ref": "Isa.9.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִתְגֹּלֵל",
+      "translit": "mitgolel",
+      "ref": "2Sam.20.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִתְגֹּלֵל",
+      "translit": "lhitgolel",
+      "ref": "Gen.43.18",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hithpalpel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִתְגַּלְגָּֽלוּ",
+      "translit": "hitgalgalu",
+      "ref": "Job.30.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "גַּל",
+      "translit": "gal",
+      "ref": "Ps.119.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "roll up; flow down",
+  "pilpel": "roll",
+  "poal": "be rolled",
+  "hithpolel": "roll oneself; wallow",
+  "hithpalpel": "roll oneself",
+  "piel": "roll away"
+ },
+ "root": "גלל",
+ "search_match": [
+  "1556",
+  "h1556",
+  "roll (a stone)",
+  "galal",
+  "גלל"
+ ],
+ "citation_translit": "galal",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,182 @@
+{
+ "glosses": [
+  "crush"
+ ],
+ "strong": "H1792",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נִדְכָּאִֽים",
+      "translit": "nidka'im",
+      "ref": "Isa.57.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "דִּכָּא",
+      "translit": "dikka",
+      "ref": "Ps.143.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "דִכִּאתָ",
+      "translit": "dikkita",
+      "ref": "Ps.89.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וִֽידַכֵּא",
+      "translit": "vidakke",
+      "ref": "Ps.72.4",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְדַכְּאוּ",
+      "translit": "ydakku",
+      "ref": "Ps.94.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּדַכְּאוּ",
+      "translit": "tdakku",
+      "ref": "Isa.3.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּדַכֵּא",
+      "translit": "tdakke",
+      "ref": "Prov.22.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "דַּכְּאוֹ",
+      "translit": "dakko",
+      "ref": "Isa.53.10",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "דֻכְּאוּ",
+      "translit": "dukku",
+      "ref": "Jer.44.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְדֻכָּֽא",
+      "translit": "ydukka",
+      "ref": "Job.22.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְדֻכָּא",
+      "translit": "mdukka",
+      "ref": "Isa.53.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְדֻכָּאִים",
+      "translit": "mdukka'im",
+      "ref": "Isa.19.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיִדַּכָּֽאוּ",
+      "translit": "vyiddakkau",
+      "ref": "Job.34.25",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be crushed; be contrite",
+  "pual": "be crushed; be made contrite",
+  "hitpael": "allow oneself to be crushed"
+ },
+ "root": "דכא",
+ "search_match": [
+  "1792",
+  "h1792",
+  "crush",
+  "dakha",
+  "דכא"
+ ],
+ "citation_translit": "dakha",
+ "stem_coverage_checked": true
+}

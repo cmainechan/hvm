@@ -1,0 +1,135 @@
+{
+ "glosses": [
+  "squeeze; oppress"
+ ],
+ "strong": "H3905",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "לָחַץ",
+      "translit": "lachatz",
+      "ref": "2Kgs.13.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "לָחֲצוּ",
+      "translit": "lachatzu",
+      "ref": "Judg.10.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּלְחַץ",
+      "translit": "vattilchatz",
+      "ref": "Num.22.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּלְחֲצוּ",
+      "translit": "vayyilchatzu",
+      "ref": "Judg.1.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִלְחָצֵֽנִי",
+      "translit": "yilchatzeni",
+      "ref": "Ps.56.2",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִלְחָץ",
+      "translit": "tilchatz",
+      "ref": "Exod.23.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְלָחֲצוּ",
+      "translit": "vlachatzu",
+      "ref": "Amos.6.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּלְחַצְתֶּם",
+      "translit": "ulchatztem",
+      "ref": "2Kgs.6.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "לֹחֲצִים",
+      "translit": "lochatzim",
+      "ref": "Exod.3.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּלָּחֵץ",
+      "translit": "vattillachetz",
+      "ref": "Num.22.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be oppressed"
+ },
+ "root": "לחץ",
+ "search_match": [
+  "3905",
+  "h3905",
+  "squeeze",
+  "lachatz",
+  "לחץ"
+ ],
+ "citation_translit": "lachatz",
+ "stem_coverage_checked": true
+}

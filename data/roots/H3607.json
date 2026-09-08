@@ -1,0 +1,191 @@
+{
+ "glosses": [
+  "restrain; withhold"
+ ],
+ "strong": "H3607",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "כְּלָאוֹ",
+      "translit": "klao",
+      "ref": "Jer.32.3",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "כָּלְאָה",
+      "translit": "kal'ah",
+      "ref": "Hag.1.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "כְּלִתִנִי",
+      "translit": "klitini",
+      "ref": "1Sam.25.33",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "כָּלִאתִי",
+      "translit": "kaliti",
+      "ref": "Ps.119.101",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "כָּלוּ",
+      "translit": "kalu",
+      "ref": "1Sam.6.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִכְלֶה",
+      "translit": "yikhleh",
+      "ref": "Gen.23.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִכְלָא",
+      "translit": "tikhla",
+      "ref": "Ps.40.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶכְלָא",
+      "translit": "ekhla",
+      "ref": "Ps.40.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "כְּלָאֵֽם",
+      "translit": "kla'em",
+      "ref": "Num.11.28",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִּכְלָאִי",
+      "translit": "tikhla'i",
+      "ref": "Isa.43.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "כָלוּא",
+      "translit": "khalu",
+      "ref": "Jer.32.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִכְלוֹא",
+      "translit": "likhlo",
+      "ref": "Eccl.8.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּכָּלֵא",
+      "translit": "vayyikkale",
+      "ref": "Exod.36.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּכָּלְאוּ",
+      "translit": "vayyikkalu",
+      "ref": "Ezek.31.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְכַלֵּא",
+      "translit": "lkhalle",
+      "ref": "Dan.9.24",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be restrained",
+  "piel": "finish"
+ },
+ "root": "כלא",
+ "search_match": [
+  "3607",
+  "h3607",
+  "restrain",
+  "kala",
+  "כלא"
+ ],
+ "citation_translit": "kala",
+ "stem_coverage_checked": true
+}
