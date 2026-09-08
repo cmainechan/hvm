@@ -1,0 +1,88 @@
+{
+ "glosses": [
+  "advance; adorn oneself"
+ ],
+ "strong": "H5710",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "עָדָה",
+      "translit": "adah",
+      "ref": "Job.28.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תַּעְדֶּה",
+      "translit": "tadeh",
+      "ref": "Isa.61.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַתַּעְדִּי",
+      "translit": "vattadi",
+      "ref": "Ezek.16.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "עֲדֵה",
+      "translit": "adeh",
+      "ref": "Job.40.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַעֲדֶה",
+      "translit": "ma'adeh",
+      "ref": "Prov.25.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "remove (a garment)"
+ },
+ "root": "עדה",
+ "search_match": [
+  "5710",
+  "h5710",
+  "advance; adorn oneself",
+  "adah",
+  "עדה"
+ ],
+ "citation_translit": "adah",
+ "stem_coverage_checked": true
+}

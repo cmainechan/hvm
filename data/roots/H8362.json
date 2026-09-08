@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "transplant; plant"
+ ],
+ "strong": "H8362",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְשָׁתַלְתִּי",
+      "translit": "vshatalti",
+      "ref": "Ezek.17.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶשְׁתֳּלֶנּוּ",
+      "translit": "eshtolennu",
+      "ref": "Ezek.17.23",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "שְׁתוּלָה",
+      "translit": "shtulah",
+      "ref": "Ezek.17.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "שתל",
+ "search_match": [
+  "8362",
+  "h8362",
+  "transplant; plant",
+  "shatal",
+  "שתל"
+ ],
+ "citation_translit": "shatal",
+ "stem_coverage_checked": true
+}

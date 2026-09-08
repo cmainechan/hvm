@@ -1,0 +1,139 @@
+{
+ "glosses": [
+  "tear away; rescue"
+ ],
+ "strong": "H6561",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּפָרַקְתָּ",
+      "translit": "ufaraqta",
+      "ref": "Gen.27.40",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּפְרְקֵנוּ",
+      "translit": "vayyifrqenu",
+      "ref": "Ps.136.24",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "פֹּרֵק",
+      "translit": "poreq",
+      "ref": "Lam.5.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְפָרֵֽק",
+      "translit": "yfareq",
+      "ref": "Zech.11.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "פָּֽרְקוּ",
+      "translit": "parqu",
+      "ref": "Exod.32.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְפָרֵק",
+      "translit": "mfareq",
+      "ref": "1Kgs.19.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִתְפָּרְקוּ",
+      "translit": "hitparqu",
+      "ref": "Ezek.19.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּתְפָּֽרְקוּ",
+      "translit": "vayyitparqu",
+      "ref": "Exod.32.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הִתְפָּרָקוּ",
+      "translit": "hitparaqu",
+      "ref": "Exod.32.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "tear off",
+  "hitpael": "tear off from oneself; be broken"
+ },
+ "root": "פרק",
+ "search_match": [
+  "6561",
+  "h6561",
+  "tear away; rescue",
+  "paraq",
+  "פרק"
+ ],
+ "citation_translit": "paraq",
+ "stem_coverage_checked": true
+}

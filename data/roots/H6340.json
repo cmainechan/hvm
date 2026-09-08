@@ -1,0 +1,124 @@
+{
+ "glosses": [
+  "scatter; scattered"
+ ],
+ "strong": "H6340",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple (participle only)",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "פְזוּרָה",
+      "translit": "fzurah",
+      "ref": "Jer.50.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִפְזְרוּ",
+      "translit": "nifzru",
+      "ref": "Ps.141.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "פִּזְּרוּ",
+      "translit": "pizzru",
+      "ref": "Joel.4.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְפַזֵּֽר",
+      "translit": "yfazzer",
+      "ref": "Ps.147.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַתְּפַזְּרִי",
+      "translit": "vattfazzri",
+      "ref": "Jer.3.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְפַזֵּר",
+      "translit": "mfazzer",
+      "ref": "Prov.11.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְפֻזָּר",
+      "translit": "mfuzzar",
+      "ref": "Esth.3.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be scattered",
+  "piel": "scatter",
+  "pual": "be scattered"
+ },
+ "root": "פזר",
+ "search_match": [
+  "6340",
+  "h6340",
+  "scatter; scattered",
+  "pazar",
+  "פזר"
+ ],
+ "citation_translit": "pazar",
+ "stem_coverage_checked": true
+}

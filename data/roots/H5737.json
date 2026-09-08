@@ -1,0 +1,99 @@
+{
+ "glosses": [
+  "help; keep rank (in battle)"
+ ],
+ "strong": "H5737",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְלַעֲדֹר",
+      "translit": "vla'ador",
+      "ref": "1Chr.12.34",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נֶעְדַּר",
+      "translit": "nedar",
+      "ref": "1Sam.30.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵעָדֵר",
+      "translit": "ye'ader",
+      "ref": "Isa.5.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "נֶעְדֶּרֶת",
+      "translit": "nederet",
+      "ref": "Isa.59.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְעַדְּרוּ",
+      "translit": "y'addru",
+      "ref": "1Kgs.5.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be lacking; be hoed/tilled",
+  "piel": "leave (nothing) lacking"
+ },
+ "notes": [
+  "Qal's sole citation (1Chr.12.34, of Zebulun's troops) is OSHB's homonym-letter sub-sense \"a\" (\"to arrange, as a battle... hence, to muster\"), matching the lexicon's \"keep (rank)\" usage more precisely than \"help\" alone -- broadened the gloss to keep both.",
+  "Niphal has a second, attested-but-unrequested sub-sense beyond \"be lacking\": OSHB tags Isa.5.6 and Isa.7.25 (\"it shall not be pruned nor hoed\"; \"which shall be hoed with the mattock\") as sub-sense \"b\" (\"to arrange... a vineyard, to hoe\"), distinct from sub-sense \"c\" (the \"be lacking/fail\" forms actually requested, e.g. Isa.34.16, 40.26, Zeph.3.5). Included alongside \"be lacking\" per the standing rule of keeping same-number homonym-letter sub-senses together."
+ ],
+ "root": "עדר",
+ "search_match": [
+  "5737",
+  "h5737",
+  "help; keep rank (in battle)",
+  "adar",
+  "עדר"
+ ],
+ "citation_translit": "adar",
+ "stem_coverage_checked": true
+}

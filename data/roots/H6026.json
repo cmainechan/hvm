@@ -1,0 +1,88 @@
+{
+ "glosses": [
+  "be delicate"
+ ],
+ "strong": "H6026",
+ "stems": {
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "וְהַמְּעֻנָּגָה",
+      "translit": "vhamm'unnagah",
+      "ref": "Jer.6.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהִתְעַנַּגְתֶּם",
+      "translit": "vhit'annagtem",
+      "ref": "Isa.66.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּתְעַנָּגוּ",
+      "translit": "tit'annagu",
+      "ref": "Isa.57.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהִתְעַנַּג",
+      "translit": "vhit'annag",
+      "ref": "Ps.37.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מֵהִתְעַנֵּג",
+      "translit": "mehit'anneg",
+      "ref": "Deut.28.56",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hitpael": "be pampered; delight oneself; make sport of"
+ },
+ "root": "ענג",
+ "search_match": [
+  "6026",
+  "h6026",
+  "be delicate",
+  "anag",
+  "ענג"
+ ],
+ "citation_translit": "anag",
+ "stem_coverage_checked": true
+}

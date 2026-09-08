@@ -1,0 +1,80 @@
+{
+ "glosses": [
+  "cry aloud; shout for joy"
+ ],
+ "strong": "H6670",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "צָהֲלָה",
+      "translit": "tzahalah",
+      "ref": "Esth.8.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִצְהָֽלוּ",
+      "translit": "yitzhalu",
+      "ref": "Jer.5.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "צַהֲלִי",
+      "translit": "tzahali",
+      "ref": "Isa.10.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַצְהִיל",
+      "translit": "lhatzhil",
+      "ref": "Ps.104.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "make shining"
+ },
+ "notes": [
+  "Requested piel \"cry shrilly (in distress)\" has zero attestation -- every occurrence of this lemma in the corpus is qal (homonym-letter sub-sense \"a\", \"cry aloud/rejoice/neigh\") or hiphil (sub-sense \"b\", \"make shining\"); the lexicon's own meaning (\"to gleam, i.e. be cheerful; by transference to sound clear\") and usage list (bellow, cry aloud (out), lift up, neigh, rejoice, make to shine, shout) have no \"distress\" sense at all -- every listed sound is a positive/celebratory or neutral one. Excluded; possibly confused with a different root (e.g. צרח, \"shriek\")."
+ ],
+ "root": "צהל",
+ "search_match": [
+  "6670",
+  "h6670",
+  "cry aloud; shout for joy",
+  "tzahal",
+  "צהל"
+ ],
+ "citation_translit": "tzahal",
+ "stem_coverage_checked": true
+}
