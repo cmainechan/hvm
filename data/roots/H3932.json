@@ -1,0 +1,161 @@
+{
+ "glosses": [
+  "mock"
+ ],
+ "strong": "H3932",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "לָעֲגָה",
+      "translit": "la'agah",
+      "ref": "2Kgs.19.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתִּלְעַג",
+      "translit": "vattil'ag",
+      "ref": "Job.11.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִלְעַג",
+      "translit": "yil'ag",
+      "ref": "Job.22.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּֽלְעַג",
+      "translit": "til'ag",
+      "ref": "Prov.30.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּלְעַג",
+      "translit": "til'ag",
+      "ref": "Ps.59.9",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶלְעַג",
+      "translit": "el'ag",
+      "ref": "Prov.1.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִלְעֲגוּ",
+      "translit": "yil'agu",
+      "ref": "Ps.80.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "לֹעֵג",
+      "translit": "lo'eg",
+      "ref": "Jer.20.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּלְעֵג",
+      "translit": "vayyal'eg",
+      "ref": "Neh.3.33",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּלְעִגוּ",
+      "translit": "vayyal'igu",
+      "ref": "Neh.2.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַלְעִֽיג",
+      "translit": "tal'ig",
+      "ref": "Job.21.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַלְעִגוּ",
+      "translit": "yal'igu",
+      "ref": "Ps.22.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "וּמַלְעִגִים",
+      "translit": "umal'igim",
+      "ref": "2Chr.30.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "לעג",
+ "search_match": [
+  "3932",
+  "h3932",
+  "mock",
+  "la'ag",
+  "לעג"
+ ],
+ "citation_translit": "la'ag",
+ "stem_coverage_checked": true
+}

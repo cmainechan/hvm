@@ -1,0 +1,141 @@
+{
+ "glosses": [
+  "delay; stay behind"
+ ],
+ "strong": "H309",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֵחַר",
+      "translit": "va'echar",
+      "ref": "Gen.32.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "אֵחַר",
+      "translit": "echar",
+      "ref": "Gen.34.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "אֶֽחֱרוּ",
+      "translit": "echeru",
+      "ref": "Judg.5.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְאַחֵר",
+      "translit": "y'acher",
+      "ref": "Deut.7.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְאַחֵר",
+      "translit": "t'acher",
+      "ref": "Isa.46.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְאַחֵר",
+      "translit": "t'acher",
+      "ref": "Deut.23.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּאַחַר",
+      "translit": "t'achar",
+      "ref": "Dan.9.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּאַחֲרוּ",
+      "translit": "t'acharu",
+      "ref": "Gen.24.56",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "לַֽמְאַחֲרִים",
+      "translit": "lam'acharim",
+      "ref": "Prov.23.30",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיּוֹחֶר",
+      "translit": "vayocher",
+      "ref": "2Sam.20.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "hinder; keep back"
+ },
+ "root": "אחר",
+ "search_match": [
+  "309",
+  "h309",
+  "delay",
+  "achar",
+  "אחר"
+ ],
+ "citation_translit": "achar",
+ "stem_coverage_checked": true
+}

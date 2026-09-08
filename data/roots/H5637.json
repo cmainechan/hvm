@@ -1,0 +1,64 @@
+{
+ "glosses": [
+  "be stubborn"
+ ],
+ "strong": "H5637",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "סָרַר",
+      "translit": "sarar",
+      "ref": "Hos.4.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "סוֹרֵר",
+      "translit": "sorer",
+      "ref": "Deut.21.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "סֹֽרֵרָה",
+      "translit": "sorerah",
+      "ref": "Hos.4.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "סֹרְרִֽים",
+      "translit": "sorrim",
+      "ref": "Hos.9.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "סרר",
+ "search_match": [
+  "5637",
+  "h5637",
+  "be stubborn",
+  "sarar",
+  "סרר"
+ ],
+ "citation_translit": "sarar",
+ "stem_coverage_checked": true
+}

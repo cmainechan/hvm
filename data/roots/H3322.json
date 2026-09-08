@@ -1,0 +1,141 @@
+{
+ "glosses": [
+  "set; exhibit"
+ ],
+ "strong": "H3322",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִצִּיגַנִי",
+      "translit": "hitztzigani",
+      "ref": "Jer.51.34",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּצֵּג",
+      "translit": "vayyatztzeg",
+      "ref": "Gen.30.38",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּצִּיגוּ",
+      "translit": "vayyatztzigu",
+      "ref": "1Chr.16.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּצִּיג",
+      "translit": "tatztzig",
+      "ref": "Judg.7.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִצַּגְתִּיו",
+      "translit": "vhitztzagtiv",
+      "ref": "Gen.43.9",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהַצִּיגוּ",
+      "translit": "vhatztzigu",
+      "ref": "Amos.5.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַצִּֽיגָה",
+      "translit": "atztzigah",
+      "ref": "Gen.33.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַצִּיג",
+      "translit": "matztzig",
+      "ref": "Judg.6.37",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַצֵּג",
+      "translit": "hatztzeg",
+      "ref": "Deut.28.56",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֻצָּג",
+      "translit": "yutztzag",
+      "ref": "Exod.10.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hophal": "be stopped"
+ },
+ "root": "יצג",
+ "search_match": [
+  "3322",
+  "h3322",
+  "set",
+  "yatzag",
+  "יצג"
+ ],
+ "citation_translit": "yatzag",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,199 @@
+{
+ "glosses": [
+  "hunt"
+ ],
+ "strong": "H6679",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "צָדוּ",
+      "translit": "tzadu",
+      "ref": "Lam.4.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָצוּד",
+      "translit": "yatzud",
+      "ref": "Lev.17.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָצֽוּד",
+      "translit": "tatzud",
+      "ref": "Prov.6.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּצוּדֵנִי",
+      "translit": "ttzudeni",
+      "ref": "Job.10.16",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָצוּדוּ",
+      "translit": "yatzudu",
+      "ref": "Mic.7.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְצָדוּם",
+      "translit": "vtzadum",
+      "ref": "Jer.16.16",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְצוּדָה",
+      "translit": "vtzudah",
+      "ref": "Gen.27.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְצוּדֶנּוּ",
+      "translit": "ytzudennu",
+      "ref": "Ps.140.12",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַצָּֽד",
+      "translit": "hatztzad",
+      "ref": "Gen.27.33",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לָצוּד",
+      "translit": "latzud",
+      "ref": "Gen.27.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "צוֹד",
+      "translit": "tzod",
+      "ref": "Lam.3.52",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "polel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2fp",
+      "label": "2nd fem. pl.",
+      "heb": "תְּצוֹדֵדְנָה",
+      "translit": "ttzodednah",
+      "ref": "Ezek.13.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "מְצֹדְדוֹת",
+      "translit": "mtzoddot",
+      "ref": "Ezek.13.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְצוֹדֵד",
+      "translit": "ltzoded",
+      "ref": "Ezek.13.18",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "הִצְטַיַּדְנוּ",
+      "translit": "hitztayyadnu",
+      "ref": "Josh.9.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "polel": "hunt eagerly",
+  "hitpael": "take provision"
+ },
+ "root": "צוד",
+ "search_match": [
+  "6679",
+  "h6679",
+  "hunt",
+  "tzud",
+  "צוד"
+ ],
+ "citation_translit": "tzud",
+ "stem_coverage_checked": true
+}

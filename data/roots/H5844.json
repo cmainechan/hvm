@@ -1,0 +1,155 @@
+{
+ "glosses": [
+  "wrap oneself"
+ ],
+ "strong": "H5844",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּעַט",
+      "translit": "vayya'at",
+      "ref": "Isa.59.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַעְטֶה",
+      "translit": "yateh",
+      "ref": "Jer.43.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַעְטֶה",
+      "translit": "tateh",
+      "ref": "Ezek.24.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַֽעֲטוּ",
+      "translit": "ya'atu",
+      "ref": "Ps.71.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַעְטוּ",
+      "translit": "tatu",
+      "ref": "Ezek.24.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְעָטָה",
+      "translit": "v'atah",
+      "ref": "Jer.43.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְעָטוּ",
+      "translit": "v'atu",
+      "ref": "Mic.3.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "עֹטֶה",
+      "translit": "oteh",
+      "ref": "1Sam.28.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "כְּעֹטְיָה",
+      "translit": "k'otyah",
+      "ref": "Song.1.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "עָטֹֽה",
+      "translit": "atoh",
+      "ref": "Isa.22.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הֶֽעֱטִיתָ",
+      "translit": "he'etita",
+      "ref": "Ps.89.46",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַעְטֶה",
+      "translit": "yateh",
+      "ref": "Ps.84.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "cover; clothe"
+ },
+ "root": "עטה",
+ "search_match": [
+  "5844",
+  "h5844",
+  "wrap oneself",
+  "atah",
+  "עטה"
+ ],
+ "citation_translit": "atah",
+ "stem_coverage_checked": true
+}

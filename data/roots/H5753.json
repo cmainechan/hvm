@@ -1,0 +1,160 @@
+{
+ "glosses": [
+  "do wrong"
+ ],
+ "strong": "H5753",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "עָוְתָה",
+      "translit": "avtah",
+      "ref": "Esth.1.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְעָוִינוּ",
+      "translit": "v'avinu",
+      "ref": "Dan.9.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נַעֲוֵיתִי",
+      "translit": "na'aveti",
+      "ref": "Isa.21.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "עִוָּֽה",
+      "translit": "ivvah",
+      "ref": "Lam.3.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְעִוָּה",
+      "translit": "v'ivvah",
+      "ref": "Isa.24.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֶעֱוָה",
+      "translit": "he'evah",
+      "ref": "2Sam.19.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הֶעֱוֵיתִי",
+      "translit": "he'eveti",
+      "ref": "2Sam.24.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֶעֱוּוּ",
+      "translit": "he'euu",
+      "ref": "Jer.3.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "הֶעֱוִינוּ",
+      "translit": "he'evinu",
+      "ref": "2Chr.6.37",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְּהַעֲוֺתוֹ",
+      "translit": "bha'aoto",
+      "ref": "2Sam.7.14",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַעֲוֵה",
+      "translit": "ha'aveh",
+      "ref": "Jer.9.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be bent; twisted",
+  "piel": "twist; distort",
+  "hiphil": "do perversely"
+ },
+ "root": "עוה",
+ "search_match": [
+  "5753",
+  "h5753",
+  "do wrong (avah)",
+  "avah",
+  "עוה"
+ ],
+ "citation_translit": "avah",
+ "stem_coverage_checked": true
+}

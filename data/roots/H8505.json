@@ -1,0 +1,120 @@
+{
+ "glosses": [
+  "estimate"
+ ],
+ "strong": "H8505",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "תֹכֵן",
+      "translit": "tokhen",
+      "ref": "Prov.24.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִתְכְּנוּ",
+      "translit": "nitknu",
+      "ref": "1Sam.2.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתָּכֵן",
+      "translit": "yittakhen",
+      "ref": "Ezek.18.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתָּכֵֽנוּ",
+      "translit": "yittakhenu",
+      "ref": "Ezek.18.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "תִּכֵּן",
+      "translit": "tikken",
+      "ref": "Isa.40.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "תִכַּנְתִּי",
+      "translit": "tikkanti",
+      "ref": "Ps.75.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַֽמְתֻכָּן",
+      "translit": "hamtukkan",
+      "ref": "2Kgs.12.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be estimated; be adjusted to a standard",
+  "piel": "weigh out",
+  "pual": "be weighed out"
+ },
+ "root": "תכן",
+ "search_match": [
+  "8505",
+  "h8505",
+  "estimate",
+  "takhan",
+  "תכן"
+ ],
+ "citation_translit": "takhan",
+ "stem_coverage_checked": true
+}

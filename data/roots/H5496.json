@@ -1,0 +1,115 @@
+{
+ "glosses": [
+  "incite"
+ ],
+ "strong": "H5496",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֱסִֽיתְךָ",
+      "translit": "hesitkha",
+      "ref": "1Sam.26.19",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הֵסַתָּה",
+      "translit": "hesattah",
+      "ref": "1Kgs.21.25",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִסִּיתוּךָ",
+      "translit": "hissitukha",
+      "ref": "Jer.38.22",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּסֶת",
+      "translit": "vayyaset",
+      "ref": "1Chr.21.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתְּסִיתֵהוּ",
+      "translit": "vattsitehu",
+      "ref": "Josh.15.18",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתְּסִיתֵנִי",
+      "translit": "vattsiteni",
+      "ref": "Job.2.3",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַסִּית",
+      "translit": "yassit",
+      "ref": "2Kgs.18.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַסִּית",
+      "translit": "yassit",
+      "ref": "2Chr.32.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַסִּית",
+      "translit": "massit",
+      "ref": "2Chr.32.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "סות",
+ "search_match": [
+  "5496",
+  "h5496",
+  "incite",
+  "sut",
+  "סות"
+ ],
+ "citation_translit": "sut",
+ "stem_coverage_checked": true
+}

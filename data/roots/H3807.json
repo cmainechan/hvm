@@ -1,0 +1,161 @@
+{
+ "glosses": [
+  "beat fine; hammer"
+ ],
+ "strong": "H3807",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְכַתּוֹתִי",
+      "translit": "vkhattoti",
+      "ref": "Ps.89.24",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶכֹּת",
+      "translit": "va'ekkot",
+      "ref": "Deut.9.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "כֹּתּוּ",
+      "translit": "kottu",
+      "ref": "Joel.4.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "כָּתוּת",
+      "translit": "katut",
+      "ref": "Isa.30.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "כִּתַּת",
+      "translit": "kittat",
+      "ref": "2Chr.34.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְכִתְּתוּ",
+      "translit": "vkhitttu",
+      "ref": "Isa.2.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְכֻתְּתוּ",
+      "translit": "vkhutttu",
+      "ref": "2Chr.15.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיַּכְּתוּ",
+      "translit": "vayyakktu",
+      "ref": "Deut.1.44",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֻכַּת",
+      "translit": "yukkat",
+      "ref": "Isa.24.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֻכַּתּוּ",
+      "translit": "yukkattu",
+      "ref": "Jer.46.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be beaten",
+  "hiphil": "beat in pieces",
+  "hophal": "be beaten; be crushed"
+ },
+ "root": "כתת",
+ "search_match": [
+  "3807",
+  "h3807",
+  "beat fine",
+  "katat",
+  "כתת"
+ ],
+ "citation_translit": "katat",
+ "stem_coverage_checked": true
+}

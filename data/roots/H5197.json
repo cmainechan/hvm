@@ -1,0 +1,146 @@
+{
+ "glosses": [
+  "drop; drip"
+ ],
+ "strong": "H5197",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָטָפוּ",
+      "translit": "natafu",
+      "ref": "Judg.5.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּטֹּף",
+      "translit": "tittof",
+      "ref": "Job.29.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִטְּפוּ",
+      "translit": "yittfu",
+      "ref": "Joel.4.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תִּטֹּפְנָה",
+      "translit": "tittofnah",
+      "ref": "Prov.5.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "נֹטְפוֹת",
+      "translit": "notfot",
+      "ref": "Song.5.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִטִּיפוּ",
+      "translit": "vhittifu",
+      "ref": "Amos.9.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַטִּיף",
+      "translit": "tattif",
+      "ref": "Amos.7.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַטִּף",
+      "translit": "attif",
+      "ref": "Mic.2.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַטִּיפוּן",
+      "translit": "yattifun",
+      "ref": "Mic.2.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהַטֵּף",
+      "translit": "vhattef",
+      "ref": "Ezek.21.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּטִּפוּ",
+      "translit": "tattifu",
+      "ref": "Mic.2.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "drip; speak; prophesy"
+ },
+ "root": "נטף",
+ "search_match": [
+  "5197",
+  "h5197",
+  "drop",
+  "nataf",
+  "נטף"
+ ],
+ "citation_translit": "nataf",
+ "stem_coverage_checked": true
+}

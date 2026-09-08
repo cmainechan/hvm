@@ -1,0 +1,128 @@
+{
+ "glosses": [
+  "cause to rain"
+ ],
+ "strong": "H4305",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּמָּטֵר",
+      "translit": "timmater",
+      "ref": "Amos.4.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִמְטִיר",
+      "translit": "himtir",
+      "ref": "Gen.19.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּמְטֵר",
+      "translit": "vayyamter",
+      "ref": "Exod.9.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַמְטֵר",
+      "translit": "yamter",
+      "ref": "Ps.11.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תַמְטִיר",
+      "translit": "tamtir",
+      "ref": "Amos.4.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַמְטִיר",
+      "translit": "amtir",
+      "ref": "Amos.4.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִמְטַרְתִּי",
+      "translit": "vhimtarti",
+      "ref": "Amos.4.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַמְטִיר",
+      "translit": "mamtir",
+      "ref": "Exod.16.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מֵהַמְטִיר",
+      "translit": "mehamtir",
+      "ref": "Isa.5.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be rained upon"
+ },
+ "root": "מטר",
+ "search_match": [
+  "4305",
+  "h4305",
+  "cause to rain",
+  "matar",
+  "מטר"
+ ],
+ "citation_translit": "matar",
+ "stem_coverage_checked": true
+}
