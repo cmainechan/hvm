@@ -1,0 +1,77 @@
+{
+ "glosses": [
+  "be bound; be silent"
+ ],
+ "strong": "H481",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נֶאֱלַמְתִּי",
+      "translit": "ne'elamti",
+      "ref": "Ezek.33.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְנֶֽאֱלַמְתָּ",
+      "translit": "vne'elamta",
+      "ref": "Ezek.3.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֵֽאָלֵם",
+      "translit": "te'alem",
+      "ref": "Ezek.24.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְאַלְּמִים",
+      "translit": "m'allmim",
+      "ref": "Gen.37.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "bind together"
+ },
+ "root": "אלם",
+ "search_match": [
+  "481",
+  "h481",
+  "be bound; be silent",
+  "alam",
+  "אלם"
+ ],
+ "citation_translit": "alam",
+ "stem_coverage_checked": true
+}

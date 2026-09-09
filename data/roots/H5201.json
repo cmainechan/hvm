@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "keep; bear a grudge"
+ ],
+ "strong": "H5201",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נָטָֽרְתִּי",
+      "translit": "natarti",
+      "ref": "Song.1.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶטּוֹר",
+      "translit": "ettor",
+      "ref": "Jer.3.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "נֹטֵרָה",
+      "translit": "noterah",
+      "ref": "Song.1.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "נטר",
+ "search_match": [
+  "5201",
+  "h5201",
+  "keep; bear a grudge",
+  "natar",
+  "נטר"
+ ],
+ "citation_translit": "natar",
+ "stem_coverage_checked": true
+}

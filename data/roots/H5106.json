@@ -1,0 +1,68 @@
+{
+ "glosses": [
+  "restrain; frustrate (a device)"
+ ],
+ "strong": "H5106",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֵנִיא",
+      "translit": "heni",
+      "ref": "Num.30.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָנִיא",
+      "translit": "yani",
+      "ref": "Num.30.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּנִיאוּ",
+      "translit": "vayyaniu",
+      "ref": "Num.32.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָנִי",
+      "translit": "yani",
+      "ref": "Ps.141.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "נוא",
+ "search_match": [
+  "5106",
+  "h5106",
+  "restrain; frustrate (a device)",
+  "nu",
+  "נוא"
+ ],
+ "citation_translit": "nu",
+ "stem_coverage_checked": true
+}

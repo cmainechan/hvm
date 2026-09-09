@@ -1,0 +1,84 @@
+{
+ "glosses": [
+  "go out, be extinguished"
+ ],
+ "strong": "H1846",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "דָּעֲכוּ",
+      "translit": "da'akhu",
+      "ref": "Isa.43.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִדְעָךְ",
+      "translit": "yid'akh",
+      "ref": "Job.18.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִדְעֲכוּ",
+      "translit": "nid'akhu",
+      "ref": "Job.6.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "דֹּעֲכוּ",
+      "translit": "do'akhu",
+      "ref": "Ps.118.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be made extinct; dry up",
+  "pual": "be extinguished; be quenched"
+ },
+ "root": "דעך",
+ "search_match": [
+  "1846",
+  "h1846",
+  "go out, be extinguished",
+  "da'ach",
+  "דעך"
+ ],
+ "citation_translit": "da'ach",
+ "stem_coverage_checked": true
+}

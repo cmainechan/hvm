@@ -99,56 +99,16 @@
      }
     ]
    }
-  },
-  "hiphil": {
-   "sense_hint": "causative",
-   "gloss_verified": true,
-   "forms": {
-    "yiqtol": [
-     {
-      "code": "2ms",
-      "label": "2nd masc. sg.",
-      "heb": "תַסִּיג",
-      "translit": "tassig",
-      "ref": "Deut.19.14",
-      "has_suffix": false,
-      "has_prefix": false
-     }
-    ],
-    "jussive": [
-     {
-      "code": "2ms",
-      "label": "2nd masc. sg.",
-      "heb": "תַּסֵּג",
-      "translit": "tasseg",
-      "ref": "Prov.22.28",
-      "has_suffix": false,
-      "has_prefix": false
-     }
-    ],
-    "participle_active": [
-     {
-      "code": "ms",
-      "label": "masc. sg.",
-      "heb": "מַסִּיג",
-      "translit": "massig",
-      "ref": "Deut.27.17",
-      "has_suffix": false,
-      "has_prefix": false
-     }
-    ]
-   }
   }
  },
  "strong_alt": [
   "H5253"
  ],
  "stem_glosses": {
-  "niphal": "turn oneself away; be turned back",
-  "hiphil": "displace; carry away"
+  "niphal": "turn oneself away; be turned back"
  },
  "notes": [
-  "Requested hiphil (\"displace; carry away\") has zero attestation under H5472 itself -- this root's own corpus attestations are only qal and niphal. Checked for suppletion per the standard step: H5253 (נָסַג, \"to retreat\" -- the same root's Nun-prefixed by-form) supplies exactly the missing hiphil paradigm (Deut.19.14 תַסִּיג/Deut.27.17 מַסִּיג \"moves a boundary marker\" for \"displace\"; Mic.6.14 וְתַסֵּג \"you will carry away\" for \"carry away\"), the same suppletion pattern already used for הלך/ילך and נוח/ינח. Modeled as strong_alt: [\"H5253\"], with the hiphil forms drawn from that number."
+  "This root's own corpus attestations are only qal and niphal -- no hiphil. Per the standing suppletion pattern (see הלך/ילך, נוח/ינח), H5253 (נָסַג, the same root's Nun-prefixed by-form) supplies the missing hiphil (and its own hophal and niphal besides). H5253 now has its own root file rather than having its hiphil embedded here directly, since it turns out to carry a full independent attestation of its own under its own lemma number -- see H5253.json's notes for the fuller explanation. strong_alt is kept pointing to H5253 since the suppletion relationship (this root's hiphil gap, filled by H5253) is still real."
  ],
  "root": "סוג",
  "search_match": [

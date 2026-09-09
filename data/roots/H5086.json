@@ -1,0 +1,77 @@
+{
+ "glosses": [
+  "drive about; disperse (chaff, smoke)"
+ ],
+ "strong": "H5086",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּנְדֹּף",
+      "translit": "tindof",
+      "ref": "Ps.68.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִדַּף",
+      "translit": "niddaf",
+      "ref": "Isa.19.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִדָּף",
+      "translit": "niddaf",
+      "ref": "Isa.41.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כְּהִנְדֹּף",
+      "translit": "khindof",
+      "ref": "Ps.68.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be driven about"
+ },
+ "root": "נדף",
+ "search_match": [
+  "5086",
+  "h5086",
+  "drive about; disperse (chaff, smoke)",
+  "nadaf",
+  "נדף"
+ ],
+ "citation_translit": "nadaf",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,113 @@
+{
+ "glosses": [
+  "tarry"
+ ],
+ "strong": "H4102",
+ "stems": {
+  "hitpael": {
+   "sense_hint": "reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהִֽתְמַהְמְהוּ",
+      "translit": "vhitmahmhu",
+      "ref": "Judg.19.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hithpalpel": {
+   "sense_hint": "reflexive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "הִתְמַהְמָהְנוּ",
+      "translit": "hitmahmahnu",
+      "ref": "Gen.43.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְמַהְמָהּ",
+      "translit": "yitmahmahh",
+      "ref": "Hab.2.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַֽיִּתְמַהְמָהּ",
+      "translit": "vayyitmahmahh",
+      "ref": "Gen.19.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הִתְמַהְמְהוּ",
+      "translit": "hitmahmhu",
+      "ref": "Isa.29.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִתְמַהְמֵהַּ",
+      "translit": "mitmahmehha",
+      "ref": "2Sam.15.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִתְמַהְמֵהַּ",
+      "translit": "lhitmahmehha",
+      "ref": "Exod.12.39",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hitpael": "tarry"
+ },
+ "notes": [
+  "Hitpael is an attested-but-unrequested stem beyond the requested hithpalpel -- its sole citation (Judg.19.8, \"וְהִתְמַהְמְהוּ\", \"tarry ye\") carries the identical \"tarry\" sense already covered by hithpalpel's 7 attestations, the same kind of paradigm-variant doubling seen with ענן's poel/polel and געש's hitpael/hithpolel in earlier batches. Included alongside hithpalpel with the same gloss."
+ ],
+ "root": "מהה",
+ "search_match": [
+  "4102",
+  "h4102",
+  "tarry",
+  "mahah",
+  "מהה"
+ ],
+ "citation_translit": "mahah",
+ "stem_coverage_checked": true
+}

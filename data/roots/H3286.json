@@ -1,0 +1,80 @@
+{
+ "glosses": [
+  "be or grow weary"
+ ],
+ "strong": "H3286",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְיָעֵֽפוּ",
+      "translit": "vya'efu",
+      "ref": "Jer.51.58",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִעָֽפוּ",
+      "translit": "yi'afu",
+      "ref": "Hab.2.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּיעָֽף",
+      "translit": "vayyi'af",
+      "ref": "Isa.44.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive causative",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֻעָף",
+      "translit": "mu'af",
+      "ref": "Dan.9.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hophal": "caused to fly (swiftly)"
+ },
+ "notes": [
+  "Requested hophal gloss \"wearied\" doesn't match its sole citation, Dan.9.21 (\"מֻעָף\", of Gabriel \"caused to fly swiftly\"), which instead matches the lexicon's own secondary usage (\"to tire, as if from wearisome flight\"; usage includes \"cause to fly\"). Corrected to \"caused to fly (swiftly)\"."
+ ],
+ "root": "יעף",
+ "search_match": [
+  "3286",
+  "h3286",
+  "be or grow weary",
+  "ya'af",
+  "יעף"
+ ],
+ "citation_translit": "ya'af",
+ "stem_coverage_checked": true
+}

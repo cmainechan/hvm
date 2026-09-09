@@ -1,0 +1,117 @@
+{
+ "glosses": [
+  "feel; touch"
+ ],
+ "strong": "H4959",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְמֻשֵּׁנִי",
+      "translit": "ymussheni",
+      "ref": "Gen.27.12",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְמֻשֵּׁהוּ",
+      "translit": "vaymusshehu",
+      "ref": "Gen.27.22",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "מִשַּׁשְׁתָּ",
+      "translit": "misshashta",
+      "ref": "Gen.31.37",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְמַשֵּׁשׁ",
+      "translit": "ymasshesh",
+      "ref": "Deut.28.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְמַשֵּׁשׁ",
+      "translit": "vaymasshesh",
+      "ref": "Gen.31.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְמַשֵּׁשׁ",
+      "translit": "mmasshesh",
+      "ref": "Deut.28.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיָמֵשׁ",
+      "translit": "vyamesh",
+      "ref": "Exod.10.21",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "feel; grope",
+  "hiphil": "feel (darkness); touch"
+ },
+ "root": "משש",
+ "search_match": [
+  "4959",
+  "h4959",
+  "feel; touch",
+  "mashash",
+  "משש"
+ ],
+ "citation_translit": "mashash",
+ "stem_coverage_checked": true
+}

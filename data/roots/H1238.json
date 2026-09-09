@@ -1,0 +1,121 @@
+{
+ "glosses": [
+  "be luxuriant; lay waste"
+ ],
+ "strong": "H1238",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "בְקָקוּם",
+      "translit": "vqaqum",
+      "ref": "Nah.2.3",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וּבַקֹּתִי",
+      "translit": "uvaqqoti",
+      "ref": "Jer.19.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "בּוֹקֵק",
+      "translit": "boqeq",
+      "ref": "Hos.10.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְנָבְקָה",
+      "translit": "vnavqah",
+      "ref": "Isa.19.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּבּוֹק",
+      "translit": "tibboq",
+      "ref": "Isa.24.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִבּוֹק",
+      "translit": "hibboq",
+      "ref": "Isa.24.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "poel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וִיבֹקְקוּ",
+      "translit": "vivoqqu",
+      "ref": "Jer.51.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be emptied; be laid waste",
+  "poel": "empty out; devastate"
+ },
+ "notes": [
+  "Requested stem \"Polel\" is tagged by OSHB as poel (stem letter 'm', not 'o') for its sole matching form (Jer.51.2) -- shipped as poel, the same typo-adjacent rare-stem substitution used previously for other polel/poel, pilel/pilpel, hithpoel/hithpolel pairs.",
+  "Qal's \"be luxuriant\" (Hos.10.1, גֶּפֶן בּוֹקֵק יִשְׂרָאֵל) reflects a modern-scholarship reading of that verse (a spreading/luxuriant vine); KJV instead renders it \"an empty vine\" from the same root's \"empty out\" sense. Both nuances are compatible with the root's core meaning and are kept together per the request."
+ ],
+ "root": "בקק",
+ "search_match": [
+  "1238",
+  "h1238",
+  "be luxuriant; lay waste",
+  "baqaq",
+  "בקק"
+ ],
+ "citation_translit": "baqaq",
+ "stem_coverage_checked": true
+}

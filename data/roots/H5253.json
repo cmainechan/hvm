@@ -1,0 +1,112 @@
+{
+ "glosses": [
+  "displace (a boundary landmark); remove"
+ ],
+ "strong": "H5253",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִסַּג",
+      "translit": "yissag",
+      "ref": "Mic.2.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְנָסוֹג",
+      "translit": "vnasog",
+      "ref": "Isa.59.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַסִּיג",
+      "translit": "tassig",
+      "ref": "Deut.19.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּסֵּג",
+      "translit": "tasseg",
+      "ref": "Prov.22.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַסִּיג",
+      "translit": "massig",
+      "ref": "Deut.27.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive causative",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהֻסַּג",
+      "translit": "vhussag",
+      "ref": "Isa.59.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "strong_alt": [
+  "H5472"
+ ],
+ "stem_glosses": {
+  "niphal": "turn oneself away; be turned back",
+  "hophal": "be removed; be driven back"
+ },
+ "notes": [
+  "Previously this stem's paradigm was folded entirely into H5472 (סוג) via strong_alt, since H5472 itself has no attested hiphil. On review, H5253 turns out to carry its own full independent attestation directly under its own lemma number (not merely a hiphil supplied for H5472's benefit): hiphil (5 forms, e.g. Deut.19.14/27.17 \"moves a boundary marker\", Prov.22.28/23.10 \"remove not the ancient landmark\", Mic.6.14 \"carry away\"), hophal (Isa.59.14, \"וְהֻסַּג\", \"judgment is turned back\"), and niphal (Isa.59.13, Mic.2.6, \"turn away/be turned back\" -- the same sense as H5472's own independently-attested niphal). Given this, H5253 is now modeled as its own root file with all three of its attested stems, rather than having only its hiphil embedded in H5472. strong_alt still points both ways to keep the suppletion relationship documented, since סוג itself still has zero attested hiphil of its own and depends on this root's hiphil to complete its paradigm -- the same pattern as הלך/ילך and נוח/ינח, just now given its own file for clarity. This diverges from those two existing pairs (ילך/ינח have no separate file of their own); flagging in case the user wants those retrofitted the same way for consistency."
+ ],
+ "root": "נסג",
+ "search_match": [
+  "5253",
+  "h5253",
+  "displace (a boundary landmark); remove",
+  "nasag",
+  "נסג"
+ ],
+ "citation_translit": "nasag",
+ "stem_coverage_checked": true
+}

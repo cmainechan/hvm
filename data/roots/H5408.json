@@ -1,0 +1,79 @@
+{
+ "glosses": [
+  "cut in pieces; divide by joints"
+ ],
+ "strong": "H5408",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִתַּח",
+      "translit": "nittach",
+      "ref": "Lev.8.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִתַּח",
+      "translit": "vnittach",
+      "ref": "Lev.1.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּנַתֵּחַ",
+      "translit": "tnattecha",
+      "ref": "Exod.29.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְנַתַּח",
+      "translit": "vaynattach",
+      "ref": "1Kgs.18.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וִֽינַתְּחֻהוּ",
+      "translit": "vinattchuhu",
+      "ref": "1Kgs.18.23",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "נתח",
+ "search_match": [
+  "5408",
+  "h5408",
+  "cut in pieces; divide by joints",
+  "natach",
+  "נתח"
+ ],
+ "citation_translit": "natach",
+ "stem_coverage_checked": true
+}

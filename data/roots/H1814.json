@@ -1,0 +1,110 @@
+{
+ "glosses": [
+  "burn; hotly pursue"
+ ],
+ "strong": "H1814",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "דָלַקְתָּ",
+      "translit": "dalaqta",
+      "ref": "Gen.31.36",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְדָלְקוּ",
+      "translit": "vdalqu",
+      "ref": "Obad.1.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִדְלַק",
+      "translit": "yidlaq",
+      "ref": "Ps.10.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "דֹּלְקִים",
+      "translit": "dolqim",
+      "ref": "Prov.26.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מִדְּלֹק",
+      "translit": "middloq",
+      "ref": "1Sam.17.53",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַדְלִיקֵֽם",
+      "translit": "yadliqem",
+      "ref": "Isa.5.11",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַדְלֵק",
+      "translit": "hadleq",
+      "ref": "Ezek.24.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "kindle; inflame"
+ },
+ "root": "דלק",
+ "search_match": [
+  "1814",
+  "h1814",
+  "burn; hotly pursue",
+  "dalaq",
+  "דלק"
+ ],
+ "citation_translit": "dalaq",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,77 @@
+{
+ "glosses": [
+  "cut or gather wood"
+ ],
+ "strong": "H2404",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַחְטְבוּ",
+      "translit": "yachtvu",
+      "ref": "Ezek.39.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "לַֽחֹטְבִים",
+      "translit": "lachotvim",
+      "ref": "2Chr.2.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַחְטֹב",
+      "translit": "lachtov",
+      "ref": "Deut.19.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "מְחֻטָּבוֹת",
+      "translit": "mchuttavot",
+      "ref": "Ps.144.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "hewn; carved"
+ },
+ "root": "חטב",
+ "search_match": [
+  "2404",
+  "h2404",
+  "cut or gather wood",
+  "chatav",
+  "חטב"
+ ],
+ "citation_translit": "chatav",
+ "stem_coverage_checked": true
+}
