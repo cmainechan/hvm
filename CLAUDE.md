@@ -14,12 +14,20 @@ data over speed or coverage.** Read this file fully before making changes.
    `pipeline/fetch_corpus.sh` — it clones the source texts pinned to the
    exact commits this project has been verified against. Do not fetch from
    any other source or ref.
-3. Run the full test suite and confirm it's green *before* starting:
+3. Run the fast tests and confirm they're green:
    ```
-   pytest tests/test_data.py -q
+   pytest tests/test_data.py -q -k "not TestAgainstCorpus"
    ```
-   If it's not green at the start of a session, stop and figure out why
-   before adding anything new — don't build on top of a known-broken state.
+   Don't run the full corpus-verification tier here. That tier is
+   parametrized over every root in `data/roots/` (660+ and growing), so a
+   full run re-checks hundreds of roots that have nothing to do with this
+   session, on top of the ones actually being touched. It's not needed as
+   a startup check: CI (`.github/workflows/validate.yml`) already runs the
+   full sweep on every push, so if the last push to `main` was green,
+   `main` is known-good by construction — a fresh `git pull` plus the fast
+   tests above is enough confirmation to build on. (If you have any doubt
+   the last push actually passed CI, check the repo's Actions tab before
+   proceeding rather than re-running the full suite locally to find out.)
 
 ## The source of truth
 
@@ -104,9 +112,13 @@ stem. For each root:
    linguistically identical — this caused real false positives before.
    `clean_heb()` already NFC-normalizes its output, so copying from it is
    both correct and consistent.
-8. **Run `pipeline.verify_root()`** (or just run the test suite) on every
-   new file before considering it done. A new root should add zero
-   discrepancies.
+8. **Run `python3 scripts/verify_changed.py`** on every new or modified
+   file before considering it done. With no arguments it auto-detects
+   everything currently changed under `data/roots/` (via `git status`) and
+   verifies just those roots against a fresh corpus extraction — this is
+   the scoped equivalent of `pipeline.verify_root()`, without paying the
+   cost of re-checking the whole dataset. A new or edited root should come
+   back clean.
 9. **Flag, don't silently resolve:** any homonym risk and how you resolved
    it, any gloss collision with an existing root, any root with no attested
    qal (and what you used as the primary/citation stem instead), any
@@ -173,9 +185,24 @@ without checking in first.
 ## Before every commit
 
 ```bash
-pytest tests/test_data.py -q          # must be fully green
-python3 scripts/build.py              # must build without error
+pytest tests/test_data.py -q -k "not TestAgainstCorpus"   # fast tests, full run, always cheap
+python3 scripts/verify_changed.py                          # corpus check, scoped to what changed
+python3 scripts/build.py                                   # must build without error
 ```
+Don't run the full `pytest tests/test_data.py -q` (including
+`TestAgainstCorpus` over every root) locally as a matter of routine — it
+scales with total dataset size, not with what you actually changed, and
+CI runs that exact full sweep automatically on every push regardless.
+Nothing ever reaches `main` unverified; this just moves the redundant
+part of that verification off the local, token-metered path.
+
+If you ever want the full local sweep anyway (e.g. after editing
+`pipeline.py` itself, where the risk isn't confined to specific root
+files), it's still there and still correct to use:
+```bash
+pytest tests/test_data.py -q
+```
+
 Commit only `data/roots/` (and `pipeline/`, `scripts/`, `tests/`, `docs/` if
 you touched them). Never commit `dist/` or `pipeline/corpus/`.
 
