@@ -1,0 +1,99 @@
+{
+ "glosses": [
+  "fine; punish"
+ ],
+ "strong": "H6064",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְעָנְשׁוּ",
+      "translit": "v'anshu",
+      "ref": "Deut.22.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַֽיַּעֲנֹשׁ",
+      "translit": "vayya'anosh",
+      "ref": "2Chr.36.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "עָנוֹשׁ",
+      "translit": "anosh",
+      "ref": "Exod.21.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "עֲנוֹשׁ",
+      "translit": "anosh",
+      "ref": "Prov.17.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נֶעֱנָֽשׁוּ",
+      "translit": "ne'enashu",
+      "ref": "Prov.27.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵעָנֵשׁ",
+      "translit": "ye'anesh",
+      "ref": "Exod.21.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be fined; be punished"
+ },
+ "root": "ענש",
+ "search_match": [
+  "6064",
+  "h6064",
+  "fine; punish",
+  "anash",
+  "ענש"
+ ],
+ "citation_translit": "anash",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,99 @@
+{
+ "glosses": [
+  "gather (oneself) together"
+ ],
+ "strong": "H7197",
+ "stems": {
+  "qal": {
+   "sense_hint": "reflexive-adjacent",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וָקוֹשּׁוּ",
+      "translit": "vaqosshu",
+      "ref": "Zeph.2.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "poel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְקֹשְׁשׁוּ",
+      "translit": "vqoshshu",
+      "ref": "Exod.5.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מְקֹשֶׁשֶׁת",
+      "translit": "mqosheshet",
+      "ref": "1Kgs.17.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְקֹשֵׁשׁ",
+      "translit": "lqoshesh",
+      "ref": "Exod.5.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הִֽתְקוֹשְׁשׁוּ",
+      "translit": "hitqoshshu",
+      "ref": "Zeph.2.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "poel": "gather stubble/sticks",
+  "hithpolel": "gather oneself"
+ },
+ "notes": [
+  "Qal is an attested-but-unrequested stem beyond the requested poel/hithpoel -- its sole citation, Zeph.2.1 (\"וָקוֹשּׁוּ\"), appears in the same verse as, and paired with, the hithpolel form (\"הִתְקוֹשְׁשׁוּ וָקוֹשּׁוּ\", \"gather yourselves together, yea, gather together\"), an emphatic doubled construction with the identical \"gather oneself together\" meaning. Included as the new default/citation stem, distinct from poel's literal \"gather stubble/sticks\" (Exod.5.7/5.12, Num.15.32/33, 1Kgs.17.12).",
+  "Requested stem \"Hithpoel\" is tagged by OSHB as hithpolel (stem letter 'r', not 'z') for its sole matching form (Zeph.2.1) -- shipped as hithpolel, the same typo-adjacent substitution pattern used previously."
+ ],
+ "root": "קשש",
+ "search_match": [
+  "7197",
+  "h7197",
+  "gather (oneself) together",
+  "qashash",
+  "קשש"
+ ],
+ "citation_translit": "qashash",
+ "stem_coverage_checked": true
+}

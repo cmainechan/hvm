@@ -1,0 +1,84 @@
+{
+ "glosses": [
+  "mix; compound"
+ ],
+ "strong": "H7543",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִרְקַח",
+      "translit": "yirqach",
+      "ref": "Exod.30.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "רוֹקֵחַ",
+      "translit": "roqecha",
+      "ref": "Eccl.10.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְרֻקָּחִים",
+      "translit": "mruqqachim",
+      "ref": "2Chr.16.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהַרְקַח",
+      "translit": "vharqach",
+      "ref": "Ezek.24.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be mixed; be compounded",
+  "hiphil": "mix; season"
+ },
+ "root": "רקח",
+ "search_match": [
+  "7543",
+  "h7543",
+  "mix; compound",
+  "raqach",
+  "רקח"
+ ],
+ "citation_translit": "raqach",
+ "stem_coverage_checked": true
+}

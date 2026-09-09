@@ -1,0 +1,98 @@
+{
+ "glosses": [
+  "be tender; be timid (of heart); be soft (of words)"
+ ],
+ "strong": "H7401",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "רַךְ",
+      "translit": "rakh",
+      "ref": "2Chr.34.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵרַךְ",
+      "translit": "yerakh",
+      "ref": "Jer.51.46",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵרַךְ",
+      "translit": "yerakh",
+      "ref": "Deut.20.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "רֻכְּכָה",
+      "translit": "rukkkhah",
+      "ref": "Isa.1.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֵרַךְ",
+      "translit": "herakh",
+      "ref": "Job.23.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be softened",
+  "hiphil": "cause to be weak"
+ },
+ "notes": [
+  "Requested niphal has zero attestation -- all 8 occurrences of this lemma are qal, pual, or hiphil. No suppletion cross-reference found in the lexicon (no \"compare H####\" note). Excluded."
+ ],
+ "root": "רכך",
+ "search_match": [
+  "7401",
+  "h7401",
+  "be tender; be timid (of heart); be soft (of words)",
+  "rakak",
+  "רכך"
+ ],
+ "citation_translit": "rakak",
+ "stem_coverage_checked": true
+}

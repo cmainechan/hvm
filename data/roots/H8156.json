@@ -1,0 +1,88 @@
+{
+ "glosses": [
+  "cleft"
+ ],
+ "strong": "H8156",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple (participle only)",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "וְשֹׁסַעַת",
+      "translit": "vshosa'at",
+      "ref": "Lev.11.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "הַשְּׁסוּעָה",
+      "translit": "hasshsu'ah",
+      "ref": "Deut.14.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְשִׁסַּע",
+      "translit": "vshissa",
+      "ref": "Lev.1.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְשַׁסַּע",
+      "translit": "vayshassa",
+      "ref": "1Sam.24.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כְּשַׁסַּע",
+      "translit": "kshassa",
+      "ref": "Judg.14.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "tear in two; rend"
+ },
+ "root": "שסע",
+ "search_match": [
+  "8156",
+  "h8156",
+  "cleft",
+  "shasa",
+  "שסע"
+ ],
+ "citation_translit": "shasa",
+ "stem_coverage_checked": true
+}

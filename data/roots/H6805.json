@@ -1,0 +1,77 @@
+{
+ "glosses": [
+  "step; march"
+ ],
+ "strong": "H6805",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "צָעֲדוּ",
+      "translit": "tza'adu",
+      "ref": "2Sam.6.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּצְעַד",
+      "translit": "titz'ad",
+      "ref": "Hab.3.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְּצַעְדְּךָ",
+      "translit": "btzadkha",
+      "ref": "Judg.5.4",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְתַצְעִדֵהוּ",
+      "translit": "vtatz'idehu",
+      "ref": "Job.18.14",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "cause to march"
+ },
+ "root": "צעד",
+ "search_match": [
+  "6805",
+  "h6805",
+  "step; march",
+  "tza'ad",
+  "צעד"
+ ],
+ "citation_translit": "tza'ad",
+ "stem_coverage_checked": true
+}

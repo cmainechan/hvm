@@ -1,0 +1,91 @@
+{
+ "glosses": [
+  "bolt; furnish with sandals"
+ ],
+ "strong": "H5274",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנָעַל",
+      "translit": "vna'al",
+      "ref": "2Sam.13.18",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶנְעֲלֵךְ",
+      "translit": "va'en'alekh",
+      "ref": "Ezek.16.10",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּנְעֹל",
+      "translit": "un'ol",
+      "ref": "2Sam.13.17",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "נְעֻלוֹת",
+      "translit": "n'ulot",
+      "ref": "Judg.3.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּנְעִלוּם",
+      "translit": "vayyan'ilum",
+      "ref": "2Chr.28.15",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "cause to be shod (with sandals)"
+ },
+ "notes": [
+  "Requested hiphil gloss \"bolt\" doesn't match its sole citation, 2Chr.28.15 (\"וַיַּנְעִלוּם\", \"and shod them\", of clothing the captives), which instead is the causative of qal's OTHER sense (\"furnish with sandals\", e.g. Ezek.16.10). \"Bolt\" itself is attested only in qal (2Sam.13.17/18, Judg.3.23/24, Song.4.12), with no hiphil attestation at all. Corrected hiphil to \"cause to be shod (with sandals)\"."
+ ],
+ "root": "נעל",
+ "search_match": [
+  "5274",
+  "h5274",
+  "bolt; furnish with sandals",
+  "na'al",
+  "נעל"
+ ],
+ "citation_translit": "na'al",
+ "stem_coverage_checked": true
+}

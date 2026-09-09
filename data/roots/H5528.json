@@ -1,0 +1,87 @@
+{
+ "glosses": [
+  "do foolishly"
+ ],
+ "strong": "H5528",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (stative)",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נִסְכַּלְתִּי",
+      "translit": "niskalti",
+      "ref": "1Chr.21.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְשַׂכֵּֽל",
+      "translit": "ysakkel",
+      "ref": "Isa.44.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "סַכֶּל",
+      "translit": "sakkel",
+      "ref": "2Sam.15.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "simple (stative)",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הִסְכַּלְתִּי",
+      "translit": "hiskalti",
+      "ref": "1Sam.26.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "make foolish; turn into foolishness",
+  "hiphil": "do foolishly"
+ },
+ "notes": [
+  "Niphal and hiphil are both attested with the identical intransitive-stative sense \"do foolishly\" of the subject's own action (niphal: 1Chr.21.8, 1Sam.13.13, 2Chr.16.9, 2Sam.24.10; hiphil: 1Sam.26.21, Gen.31.28), while piel is the distinct transitive/causative \"make [someone/something] foolish\" (2Sam.15.31, Isa.44.25). Both niphal and hiphil kept, matching the request's own listing of \"do foolishly\" for both stems."
+ ],
+ "root": "סכל",
+ "search_match": [
+  "5528",
+  "h5528",
+  "do foolishly",
+  "sakal",
+  "סכל"
+ ],
+ "citation_translit": "sakal",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "lust after; dote on"
+ ],
+ "strong": "H5689",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "עָגָבָה",
+      "translit": "agavah",
+      "ref": "Ezek.23.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתַּעְגְּבָה",
+      "translit": "vattagvah",
+      "ref": "Ezek.23.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "עֹגְבִים",
+      "translit": "ogvim",
+      "ref": "Jer.4.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "עגב",
+ "search_match": [
+  "5689",
+  "h5689",
+  "lust after; dote on",
+  "agav",
+  "עגב"
+ ],
+ "citation_translit": "agav",
+ "stem_coverage_checked": true
+}

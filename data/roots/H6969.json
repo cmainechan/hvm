@@ -1,0 +1,68 @@
+{
+ "glosses": [
+  "lament, chant a dirge"
+ ],
+ "strong": "H6969",
+ "stems": {
+  "polel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְקוֹנְנוּ",
+      "translit": "vqonnu",
+      "ref": "Ezek.27.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תְּקוֹנֵנָּה",
+      "translit": "tqonennah",
+      "ref": "Ezek.32.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְקוֹנֵן",
+      "translit": "vayqonen",
+      "ref": "2Chr.35.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "לַמְקוֹנְנוֹת",
+      "translit": "lamqonnot",
+      "ref": "Jer.9.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "קונן",
+ "search_match": [
+  "6969",
+  "h6969",
+  "lament, chant a dirge",
+  "qonen",
+  "קונן"
+ ],
+ "citation_translit": "qonen",
+ "stem_coverage_checked": true
+}

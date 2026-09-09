@@ -1,0 +1,106 @@
+{
+ "glosses": [
+  "make bricks"
+ ],
+ "strong": "H3835",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִלְבְּנָה",
+      "translit": "nilbnah",
+      "ref": "Gen.11.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִלְבֹּן",
+      "translit": "lilbon",
+      "ref": "Exod.5.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִלְבִּינוּ",
+      "translit": "hilbinu",
+      "ref": "Joel.1.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַלְבִּינוּ",
+      "translit": "yalbinu",
+      "ref": "Isa.1.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְלַלְבֵּן",
+      "translit": "vlalben",
+      "ref": "Dan.11.35",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיִֽתְלַבְּנוּ",
+      "translit": "vyitlabbnu",
+      "ref": "Dan.12.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "make white; purify",
+  "hitpael": "become white; be purified"
+ },
+ "root": "לבן",
+ "search_match": [
+  "3835",
+  "h3835",
+  "make bricks",
+  "lavan",
+  "לבן"
+ ],
+ "citation_translit": "lavan",
+ "stem_coverage_checked": true
+}

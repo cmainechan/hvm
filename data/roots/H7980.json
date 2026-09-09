@@ -1,0 +1,99 @@
+{
+ "glosses": [
+  "domineer"
+ ],
+ "strong": "H7980",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שָׁלַט",
+      "translit": "shalat",
+      "ref": "Eccl.8.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשְׁלְטוּ",
+      "translit": "yishltu",
+      "ref": "Esth.9.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִשְׁלוֹט",
+      "translit": "lishlot",
+      "ref": "Esth.9.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהִשְׁלִיטוֹ",
+      "translit": "vhishlito",
+      "ref": "Eccl.5.18",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַשְׁלִיטֶנּוּ",
+      "translit": "yashlitennu",
+      "ref": "Eccl.6.2",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תַּשְׁלֶט",
+      "translit": "tashlet",
+      "ref": "Ps.119.133",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "give power over; get mastery of"
+ },
+ "root": "שלט",
+ "search_match": [
+  "7980",
+  "h7980",
+  "domineer",
+  "shalat",
+  "שלט"
+ ],
+ "citation_translit": "shalat",
+ "stem_coverage_checked": true
+}

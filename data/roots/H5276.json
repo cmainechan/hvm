@@ -1,0 +1,46 @@
+{
+ "glosses": [
+  "be pleasant"
+ ],
+ "strong": "H5276",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נָעַמְתָּ",
+      "translit": "na'amta",
+      "ref": "2Sam.1.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִנְעָֽם",
+      "translit": "yin'am",
+      "ref": "Prov.2.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "נעם",
+ "search_match": [
+  "5276",
+  "h5276",
+  "be pleasant",
+  "na'am",
+  "נעם"
+ ],
+ "citation_translit": "na'am",
+ "stem_coverage_checked": true
+}

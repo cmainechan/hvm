@@ -1,0 +1,79 @@
+{
+ "glosses": [
+  "exult; triumph"
+ ],
+ "strong": "H5970",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "עָלַץ",
+      "translit": "alatz",
+      "ref": "1Sam.2.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַעֲלֹץ",
+      "translit": "ya'alotz",
+      "ref": "1Chr.16.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאֶעֶלְצָה",
+      "translit": "v'e'eltzah",
+      "ref": "Ps.9.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַֽעַלְצוּ",
+      "translit": "ya'altzu",
+      "ref": "Ps.25.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בַּעֲלֹץ",
+      "translit": "ba'alotz",
+      "ref": "Prov.28.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "עלץ",
+ "search_match": [
+  "5970",
+  "h5970",
+  "exult; triumph",
+  "alatz",
+  "עלץ"
+ ],
+ "citation_translit": "alatz",
+ "stem_coverage_checked": true
+}
