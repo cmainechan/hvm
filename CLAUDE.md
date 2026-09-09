@@ -184,24 +184,38 @@ without checking in first.
 
 ## Before every commit
 
+First, check whether this session touched infrastructure rather than just
+data:
+```bash
+git diff --name-only HEAD -- pipeline/ scripts/ tests/
+```
+("Infrastructure" here means the code that processes data — `pipeline.py`,
+`scripts/build.py`, `tests/test_data.py` — not any particular data file.
+There's no separate "index" file to watch for: since the repo migration,
+`ROOT_ORDER` and the other derived structures are computed at build time
+from whatever's in `data/roots/`, not hand-maintained anywhere. A batch
+that only adds or edits files under `data/roots/*.json` can't affect roots
+it didn't touch, by construction, no matter how many roots it touches.)
+
+If that command prints nothing (a pure data batch — the common case):
 ```bash
 pytest tests/test_data.py -q -k "not TestAgainstCorpus"   # fast tests, full run, always cheap
 python3 scripts/verify_changed.py                          # corpus check, scoped to what changed
 python3 scripts/build.py                                   # must build without error
 ```
-Don't run the full `pytest tests/test_data.py -q` (including
-`TestAgainstCorpus` over every root) locally as a matter of routine — it
-scales with total dataset size, not with what you actually changed, and
-CI runs that exact full sweep automatically on every push regardless.
-Nothing ever reaches `main` unverified; this just moves the redundant
-part of that verification off the local, token-metered path.
 
-If you ever want the full local sweep anyway (e.g. after editing
-`pipeline.py` itself, where the risk isn't confined to specific root
-files), it's still there and still correct to use:
+If it prints any files (pipeline/build/test code changed this session),
+run the full suite instead before pushing, since the risk isn't confined
+to specific root files anymore:
 ```bash
 pytest tests/test_data.py -q
+python3 scripts/build.py
 ```
+
+Either way, CI (`.github/workflows/validate.yml`) also runs the full sweep
+on every push regardless — this check just decides whether it's worth also
+running locally first, so an infrastructure regression gets caught
+immediately rather than only on push.
 
 Commit only `data/roots/` (and `pipeline/`, `scripts/`, `tests/`, `docs/` if
 you touched them). Never commit `dist/` or `pipeline/corpus/`.
