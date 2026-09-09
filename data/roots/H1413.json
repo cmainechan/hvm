@@ -1,0 +1,70 @@
+{
+ "glosses": [
+  "attack; make inroads"
+ ],
+ "strong": "H1413",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָגוֹדּוּ",
+      "translit": "yagoddu",
+      "ref": "Ps.94.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִתְגֹּֽדְדוּ",
+      "translit": "titgoddu",
+      "ref": "Deut.14.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּתְגֹּֽדְדוּ",
+      "translit": "vayyitgoddu",
+      "ref": "1Kgs.18.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hithpoel": "cut oneself; gather in troops/crowds",
+  "hithpolel": "cut oneself; gather in troops/crowds"
+ },
+ "notes": [
+  "Both hithpoel (Jer.41.5, 1 form) and hithpolel (5 forms, e.g. 1Kgs.18.28, Deut.14.1) are genuinely attested with the identical \"cut oneself; gather in troops/crowds\" range -- the same kind of paradigm-variant doubling seen repeatedly this session (ענן's poel/polel, געש's hitpael/hithpolel, מהה's hitpael/hithpalpel). Included both, matching the request's own \"Hithpo(lel)\" notation flagging the ambiguity."
+ ],
+ "root": "גדד",
+ "search_match": [
+  "1413",
+  "h1413",
+  "attack; make inroads",
+  "gadad",
+  "גדד"
+ ],
+ "citation_translit": "gadad",
+ "stem_coverage_checked": true
+}

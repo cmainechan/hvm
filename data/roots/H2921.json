@@ -1,0 +1,55 @@
+{
+ "glosses": [
+  "spotted, variegated (sheep/goats)"
+ ],
+ "strong": "H2921",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple (participle only)",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "טְלֻאוֹת",
+      "translit": "tluot",
+      "ref": "Ezek.16.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive (participle only)",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "וּמְטֻלָּאוֹת",
+      "translit": "umtullaot",
+      "ref": "Josh.9.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "patched (sandals)"
+ },
+ "root": "טלא",
+ "search_match": [
+  "2921",
+  "h2921",
+  "spotted, variegated (sheep/goats)",
+  "tala",
+  "טלא"
+ ],
+ "citation_translit": "tala",
+ "stem_coverage_checked": true
+}

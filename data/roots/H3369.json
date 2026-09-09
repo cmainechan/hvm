@@ -1,0 +1,106 @@
+{
+ "glosses": [
+  "lay snares"
+ ],
+ "strong": "H3369",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "יָקֹשְׁתִּי",
+      "translit": "yaqoshti",
+      "ref": "Jer.50.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "יוֹקְשִׁים",
+      "translit": "yoqshim",
+      "ref": "Ps.124.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נוֹקַשְׁתָּ",
+      "translit": "noqashta",
+      "ref": "Prov.6.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנוֹקְשׁוּ",
+      "translit": "vnoqshu",
+      "ref": "Isa.28.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּוָּקֵשׁ",
+      "translit": "tivvaqesh",
+      "ref": "Deut.7.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "יֽוּקָשִׁים",
+      "translit": "yuqashim",
+      "ref": "Eccl.9.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be ensnared",
+  "pual": "be snared"
+ },
+ "root": "יקש",
+ "search_match": [
+  "3369",
+  "h3369",
+  "lay snares",
+  "yaqosh",
+  "יקש"
+ ],
+ "citation_translit": "yaqosh",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,60 @@
+{
+ "glosses": [
+  "shut; narrowed; stop up (ears)"
+ ],
+ "strong": "H331",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַאְטֵם",
+      "translit": "yatem",
+      "ref": "Ps.58.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "אֹטֵם",
+      "translit": "otem",
+      "ref": "Isa.33.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "אֲטֻמִֽים",
+      "translit": "atumim",
+      "ref": "1Kgs.6.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Requested hiphil \"stop up (ears)\" has zero attestation -- all 8 occurrences of this lemma are qal, and the \"stop up (ears)\" sense the request wanted for hiphil is in fact attested there (Isa.33.15, Prov.17.28/21.13, \"stoppeth his ears\"; Ps.58.5, \"the deaf adder that stoppeth her ear\"), alongside qal's \"narrowed\" sense (1Kgs.6.4, Ezek.40.16/41.16/41.26, of window construction). Merged into qal; excluded the unattested hiphil."
+ ],
+ "root": "אטם",
+ "search_match": [
+  "331",
+  "h331",
+  "shut; narrowed; stop up (ears)",
+  "atam",
+  "אטם"
+ ],
+ "citation_translit": "atam",
+ "stem_coverage_checked": true
+}

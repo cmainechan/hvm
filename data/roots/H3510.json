@@ -1,0 +1,88 @@
+{
+ "glosses": [
+  "be in pain"
+ ],
+ "strong": "H3510",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִכְאָב",
+      "translit": "yikh'av",
+      "ref": "Job.14.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "כֹּֽאֲבִים",
+      "translit": "ko'avim",
+      "ref": "Gen.34.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הִכְאַבְתִּיו",
+      "translit": "hikh'avtiv",
+      "ref": "Ezek.13.22",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּכְאִבוּ",
+      "translit": "takh'ivu",
+      "ref": "2Kgs.3.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַכְאִב",
+      "translit": "makh'iv",
+      "ref": "Ezek.28.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "cause pain; mar"
+ },
+ "root": "כאב",
+ "search_match": [
+  "3510",
+  "h3510",
+  "be in pain",
+  "ka'av",
+  "כאב"
+ ],
+ "citation_translit": "ka'av",
+ "stem_coverage_checked": true
+}

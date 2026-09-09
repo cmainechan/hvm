@@ -1,0 +1,99 @@
+{
+ "glosses": [
+  "treat violently; wrong"
+ ],
+ "strong": "H2554",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חָמְסוּ",
+      "translit": "chamsu",
+      "ref": "Ezek.22.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחְמֹס",
+      "translit": "yachmos",
+      "ref": "Job.15.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּחְמֹס",
+      "translit": "vayyachmos",
+      "ref": "Lam.2.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּחְמֹסוּ",
+      "translit": "tachmosu",
+      "ref": "Jer.22.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חֹמֵס",
+      "translit": "chomes",
+      "ref": "Prov.8.36",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נֶחְמְסוּ",
+      "translit": "nechmsu",
+      "ref": "Jer.13.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be treated with violence"
+ },
+ "root": "חמס",
+ "search_match": [
+  "2554",
+  "h2554",
+  "treat violently; wrong",
+  "chamas",
+  "חמס"
+ ],
+ "citation_translit": "chamas",
+ "stem_coverage_checked": true
+}

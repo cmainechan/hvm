@@ -1,0 +1,46 @@
+{
+ "glosses": [
+  "smite"
+ ],
+ "strong": "H1986",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הָלְמוּ",
+      "translit": "halmu",
+      "ref": "Isa.16.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַהֲלֹמֽוּן",
+      "translit": "yahalomun",
+      "ref": "Ps.74.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "הלם",
+ "search_match": [
+  "1986",
+  "h1986",
+  "smite (halam)",
+  "halam",
+  "הלם"
+ ],
+ "citation_translit": "halam",
+ "stem_coverage_checked": true
+}

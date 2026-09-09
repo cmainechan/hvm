@@ -1,0 +1,84 @@
+{
+ "glosses": [
+  "be grieved"
+ ],
+ "strong": "H3013",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "נּוּגוֹת",
+      "translit": "nugot",
+      "ref": "Lam.1.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּגֶּה",
+      "translit": "vayyaggeh",
+      "ref": "Lam.3.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הוֹגָה",
+      "translit": "hogah",
+      "ref": "Lam.1.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תּוֹגְיוּן",
+      "translit": "togyun",
+      "ref": "Job.19.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "grieve (someone); cause grief",
+  "hiphil": "cause grief; afflict"
+ },
+ "root": "יגה",
+ "search_match": [
+  "3013",
+  "h3013",
+  "be grieved",
+  "yagah",
+  "יגה"
+ ],
+ "citation_translit": "yagah",
+ "stem_coverage_checked": true
+}

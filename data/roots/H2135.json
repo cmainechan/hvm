@@ -1,0 +1,84 @@
+{
+ "glosses": [
+  "be clean; be justified"
+ ],
+ "strong": "H2135",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִזְכֶּה",
+      "translit": "yizkeh",
+      "ref": "Job.15.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "זִכִּיתִי",
+      "translit": "zikkiti",
+      "ref": "Prov.20.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְזַכֶּה",
+      "translit": "yzakkeh",
+      "ref": "Ps.119.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הִזַּכּוּ",
+      "translit": "hizzakku",
+      "ref": "Isa.1.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "make/keep clean",
+  "hitpael": "cleanse oneself"
+ },
+ "root": "זכה",
+ "search_match": [
+  "2135",
+  "h2135",
+  "be clean; be justified",
+  "zachah",
+  "זכה"
+ ],
+ "citation_translit": "zachah",
+ "stem_coverage_checked": true
+}

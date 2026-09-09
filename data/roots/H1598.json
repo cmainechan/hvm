@@ -1,0 +1,60 @@
+{
+ "glosses": [
+  "defend"
+ ],
+ "strong": "H1598",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְגַנּוֹתִי",
+      "translit": "vgannoti",
+      "ref": "2Kgs.19.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָגֵן",
+      "translit": "yagen",
+      "ref": "Isa.31.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "גָּנוֹן",
+      "translit": "ganon",
+      "ref": "Isa.31.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Requested hiphil \"defend\" (identical gloss to qal) has zero attestation -- all 8 occurrences of this lemma are qal (e.g. Isa.31.5, 2Kgs.19.34/20.6, Isa.37.35/38.6, Zech.9.15/12.8, all \"the LORD ... will defend\"). No suppletion cross-reference found in the lexicon. Excluded the unattested hiphil; qal alone covers \"defend\"."
+ ],
+ "root": "גנן",
+ "search_match": [
+  "1598",
+  "h1598",
+  "defend",
+  "ganan",
+  "גנן"
+ ],
+ "citation_translit": "ganan",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,68 @@
+{
+ "glosses": [
+  "shine forth; cause to shine"
+ ],
+ "strong": "H3313",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הוֹפִיעַ",
+      "translit": "hofia",
+      "ref": "Deut.33.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתֹּפַע",
+      "translit": "vattofa",
+      "ref": "Job.10.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תּוֹפַע",
+      "translit": "tofa",
+      "ref": "Job.3.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הוֹפִֽיעָה",
+      "translit": "hofi'ah",
+      "ref": "Ps.80.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "יפע",
+ "search_match": [
+  "3313",
+  "h3313",
+  "shine forth; cause to shine",
+  "yafa",
+  "יפע"
+ ],
+ "citation_translit": "yafa",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,106 @@
+{
+ "glosses": [
+  "be dislocated (of a joint); be torn away"
+ ],
+ "strong": "H3363",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֵּקַע",
+      "translit": "teqa",
+      "ref": "Jer.6.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתֵּקַע",
+      "translit": "vatteqa",
+      "ref": "Ezek.23.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְהוֹקַֽעֲנוּם",
+      "translit": "vhoqa'anum",
+      "ref": "2Sam.21.6",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיֹּקִיעֻם",
+      "translit": "vayyoqi'um",
+      "ref": "2Sam.21.9",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהוֹקַע",
+      "translit": "vhoqa",
+      "ref": "Num.25.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive causative",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַמּוּקָעִֽים",
+      "translit": "hammuqa'im",
+      "ref": "2Sam.21.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "execute",
+  "hophal": "be hanged"
+ },
+ "root": "יקע",
+ "search_match": [
+  "3363",
+  "h3363",
+  "be dislocated (of a joint); be torn away",
+  "yaqa",
+  "יקע"
+ ],
+ "citation_translit": "yaqa",
+ "stem_coverage_checked": true
+}

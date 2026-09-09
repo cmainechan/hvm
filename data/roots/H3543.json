@@ -1,0 +1,99 @@
+{
+ "glosses": [
+  "grow dim (of eye); grow faint"
+ ],
+ "strong": "H3543",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "כָהֲתָה",
+      "translit": "khahatah",
+      "ref": "Deut.34.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִכְהֶה",
+      "translit": "yikhheh",
+      "ref": "Isa.42.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וַתִּכְהֶיןָ",
+      "translit": "vattikhhena",
+      "ref": "Gen.27.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כָּהֹה",
+      "translit": "kahoh",
+      "ref": "Zech.11.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "כִהָה",
+      "translit": "khihah",
+      "ref": "1Sam.3.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְכִהֲתָה",
+      "translit": "vkhihatah",
+      "ref": "Ezek.21.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "rebuke; restrain"
+ },
+ "root": "כהה",
+ "search_match": [
+  "3543",
+  "h3543",
+  "grow dim (of eye); grow faint",
+  "kahah",
+  "כהה"
+ ],
+ "citation_translit": "kahah",
+ "stem_coverage_checked": true
+}
