@@ -1,0 +1,88 @@
+{
+ "glosses": [
+  "move; be removed; advance in years"
+ ],
+ "strong": "H6275",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "עָתְקוּ",
+      "translit": "atqu",
+      "ref": "Job.21.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶעְתַּק",
+      "translit": "yetaq",
+      "ref": "Job.14.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֶעְתִּיקוּ",
+      "translit": "hetiqu",
+      "ref": "Job.32.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּעְתֵּק",
+      "translit": "vayyateq",
+      "ref": "Gen.12.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַמַּעְתִּיק",
+      "translit": "hammatiq",
+      "ref": "Job.9.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "move forward; remove; transcribe"
+ },
+ "root": "עתק",
+ "search_match": [
+  "6275",
+  "h6275",
+  "move; be removed; advance in years",
+  "ataq",
+  "עתק"
+ ],
+ "citation_translit": "ataq",
+ "stem_coverage_checked": true
+}

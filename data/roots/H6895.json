@@ -1,0 +1,90 @@
+{
+ "glosses": [
+  "curse"
+ ],
+ "strong": "H6895",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "קַבֹּה",
+      "translit": "qabboh",
+      "ref": "Num.23.8",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְקַבֹּתוֹ",
+      "translit": "vqabboto",
+      "ref": "Num.23.27",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶקּוֹב",
+      "translit": "va'eqqov",
+      "ref": "Job.5.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "קָֽבָה",
+      "translit": "qavah",
+      "ref": "Num.22.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "קֹב",
+      "translit": "qov",
+      "ref": "Num.23.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לָקֹב",
+      "translit": "laqov",
+      "ref": "Num.23.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "קבב",
+ "search_match": [
+  "6895",
+  "h6895",
+  "curse",
+  "qavav",
+  "קבב"
+ ],
+ "citation_translit": "qavav",
+ "stem_coverage_checked": true
+}

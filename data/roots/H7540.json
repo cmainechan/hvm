@@ -1,0 +1,106 @@
+{
+ "glosses": [
+  "skip about"
+ ],
+ "strong": "H7540",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "רָקְדוּ",
+      "translit": "raqdu",
+      "ref": "Ps.114.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּרְקְדוּ",
+      "translit": "tirqdu",
+      "ref": "Ps.114.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "רְקֽוֹד",
+      "translit": "rqod",
+      "ref": "Eccl.3.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְרַקְּדוּ",
+      "translit": "yraqqdu",
+      "ref": "Isa.13.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְרַקֵּד",
+      "translit": "mraqqed",
+      "ref": "1Chr.15.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּרְקִידֵם",
+      "translit": "vayyarqidem",
+      "ref": "Ps.29.6",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "dance; leap",
+  "hiphil": "make to skip (tremble)"
+ },
+ "root": "רקד",
+ "search_match": [
+  "7540",
+  "h7540",
+  "skip about",
+  "raqad",
+  "רקד"
+ ],
+ "citation_translit": "raqad",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,80 @@
+{
+ "glosses": [
+  "blossom"
+ ],
+ "strong": "H6692",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "צָץ",
+      "translit": "tzatz",
+      "ref": "Ezek.7.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָצִיץ",
+      "translit": "yatzitz",
+      "ref": "Isa.27.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּצֵֽץ",
+      "translit": "vayyatzetz",
+      "ref": "Num.17.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֵצִיץ",
+      "translit": "metzitz",
+      "ref": "Song.2.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "put forth blossoms; gaze"
+ },
+ "notes": [
+  "Requested qal sense \"shine\" is unsupported -- the lexicon's \"twinkle, i.e. glance\" is only the etymological root of the word (before its analogical extension to \"blossom\"), not a usage-list sense (bloom, blossom, flourish, shew self), and the sole qal citation (Ezek.7.10, \"the rod hath blossomed\") means \"blossom\" only. The \"glance\" sense the etymology implies is in fact attested, but under hiphil (Song.2.9, \"gazing through the lattice\"), not qal. Excluded from qal."
+ ],
+ "root": "צוץ",
+ "search_match": [
+  "6692",
+  "h6692",
+  "blossom",
+  "tzutz",
+  "צוץ"
+ ],
+ "citation_translit": "tzutz",
+ "stem_coverage_checked": true
+}

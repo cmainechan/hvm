@@ -1,0 +1,77 @@
+{
+ "glosses": [
+  "do a third time; divide into three parts"
+ ],
+ "strong": "H8027",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְשִׁלַּשְׁתָּ",
+      "translit": "vshillashta",
+      "ref": "1Sam.20.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיְשַׁלֵּֽשׁוּ",
+      "translit": "vayshalleshu",
+      "ref": "1Kgs.18.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "שַׁלֵּשׁוּ",
+      "translit": "shalleshu",
+      "ref": "1Kgs.18.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "מְשֻׁלָּשׁוֹת",
+      "translit": "mshullashot",
+      "ref": "Ezek.42.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "threefold"
+ },
+ "root": "שלש",
+ "search_match": [
+  "8027",
+  "h8027",
+  "do a third time; divide into three parts",
+  "shalash",
+  "שלש"
+ ],
+ "citation_translit": "shalash",
+ "stem_coverage_checked": true
+}

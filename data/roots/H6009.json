@@ -1,0 +1,88 @@
+{
+ "glosses": [
+  "be deep; be profound"
+ ],
+ "strong": "H6009",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "עָמְקוּ",
+      "translit": "amqu",
+      "ref": "Ps.92.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֶעְמִיקוּ",
+      "translit": "hemiqu",
+      "ref": "Hos.5.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הֶעְמִיקוּ",
+      "translit": "hemiqu",
+      "ref": "Jer.49.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַמַּעֲמִיקִים",
+      "translit": "hamma'amiqim",
+      "ref": "Isa.29.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַעְמֵק",
+      "translit": "hameq",
+      "ref": "Isa.7.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "make deep"
+ },
+ "root": "עמק",
+ "search_match": [
+  "6009",
+  "h6009",
+  "be deep; be profound",
+  "amaq",
+  "עמק"
+ ],
+ "citation_translit": "amaq",
+ "stem_coverage_checked": true
+}

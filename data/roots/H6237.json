@@ -1,0 +1,92 @@
+{
+ "glosses": [
+  "tithe (take the tenth of)"
+ ],
+ "strong": "H6237",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַעְשֹׂר",
+      "translit": "yasor",
+      "ref": "1Sam.8.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּעַשֵּׂר",
+      "translit": "t'asser",
+      "ref": "Deut.14.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַֽמְעַשְּׂרִים",
+      "translit": "ham'assrim",
+      "ref": "Neh.10.38",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "עַשֵּׂר",
+      "translit": "asser",
+      "ref": "Deut.14.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַעְשֵׂר",
+      "translit": "laser",
+      "ref": "Deut.26.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "give a tithe; take a tithe (of the tithe, Levitical)"
+ },
+ "notes": [
+  "Requested hiphil \"take a tithe\" has zero attestation -- every occurrence of this lemma is qal or piel, and the lexicon (\"to tithe, i.e. to take or give a tenth\") doesn't stem-differentiate the two directions either. The \"take a tithe\" sense the request wanted for hiphil is actually attested under piel itself: Neh.10.38, \"בְּעֶשֵׂר הַלְוִיִּם\" (\"when the Levites take tithes\", the Levites' own collection of a tenth from the people's tithes), alongside piel's more common \"give a tithe\" sense (Deut.14.22, Gen.28.22). Excluded hiphil; broadened piel's gloss instead.",
+  "Root-key split: this root (עשר, \"to tithe\") is spelled identically to the existing עשר \"become rich\" (H6238) -- the lexicon itself notes H6237 is \"identical with H6238\" as a consonant skeleton but a separately-numbered, functionally distinct denominative (from עֶשֶׂר, \"ten\") -- same convention as חפר¹/², גאל¹/², יצר¹/², קוץ¹/². This root (the lower number) is עשר¹; H6238 has been retroactively relabeled עשר²."
+ ],
+ "root": "עשר¹",
+ "search_match": [
+  "6237",
+  "h6237",
+  "tithe (take the tenth of)",
+  "asar",
+  "עשר¹"
+ ],
+ "citation_translit": "asar",
+ "stem_coverage_checked": true
+}

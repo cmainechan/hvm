@@ -1,0 +1,91 @@
+{
+ "glosses": [
+  "load (upon an animal); (passive participle) borne; carried"
+ ],
+ "strong": "H6006",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַֽעֲמָס",
+      "translit": "ya'amas",
+      "ref": "Ps.68.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַֽיַּעֲמֹס",
+      "translit": "vayya'amos",
+      "ref": "Gen.44.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "עֹמְשִׂים",
+      "translit": "omsim",
+      "ref": "Neh.4.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "עֲמוּסוֹת",
+      "translit": "amusot",
+      "ref": "Isa.46.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֶעְמִיס",
+      "translit": "hemis",
+      "ref": "1Kgs.12.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "load a burden upon (someone)"
+ },
+ "notes": [
+  "Hiphil is an attested-but-unrequested stem beyond the requested qal -- its 2 citations (1Kgs.12.11, 2Chr.10.11, Rehoboam's \"my father laded you with a heavy yoke\") are the causative of qal's \"load\", i.e. \"load a burden upon someone\". Included."
+ ],
+ "root": "עמס",
+ "search_match": [
+  "6006",
+  "h6006",
+  "load (upon an animal); (passive participle) borne; carried",
+  "amas",
+  "עמס"
+ ],
+ "citation_translit": "amas",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,92 @@
+{
+ "glosses": [
+  "abhor; feel a sickening dread"
+ ],
+ "strong": "H6973",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "קַצְתִּי",
+      "translit": "qatzti",
+      "ref": "Gen.27.46",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּקָץ",
+      "translit": "vayyaqatz",
+      "ref": "1Kgs.11.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּקֹץ",
+      "translit": "taqotz",
+      "ref": "Prov.3.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "קָץ",
+      "translit": "qatz",
+      "ref": "Isa.7.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וּנְקִיצֶנָּה",
+      "translit": "unqitzennah",
+      "ref": "Isa.7.6",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "vex; cause dread"
+ },
+ "notes": [
+  "Hiphil is an attested-but-unrequested stem beyond the requested qal -- its sole citation (Isa.7.6, \"let us vex it\") matches the lexicon's own causative sense (\"to be (causatively, make) disgusted or anxious\"; usage includes \"vex\"). Included.",
+  "Root-key split: this root is spelled identically to the existing קוץ \"awake\" (H6974) but is a wholly unrelated root/meaning, same convention as חפר¹/², גאל¹/², יצר¹/², עשר¹/². This root (the lower number) is קוץ¹; H6974 has been retroactively relabeled קוץ²."
+ ],
+ "root": "קוץ¹",
+ "search_match": [
+  "6973",
+  "h6973",
+  "abhor; feel a sickening dread (quts)",
+  "quts",
+  "קוץ¹"
+ ],
+ "citation_translit": "quts",
+ "stem_coverage_checked": true
+}

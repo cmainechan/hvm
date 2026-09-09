@@ -1,0 +1,145 @@
+{
+ "glosses": [
+  "be blinded; smear the eyes shut"
+ ],
+ "strong": "H8173",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וָשֹׁעוּ",
+      "translit": "vashou",
+      "ref": "Isa.29.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pilpel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "שִֽׁעֲשָֽׁעְתִּי",
+      "translit": "shi'ashati",
+      "ref": "Ps.119.70",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְשִֽׁעֲשַׁע",
+      "translit": "vshi'asha",
+      "ref": "Isa.11.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְֽשַׁעַשְׁעוּ",
+      "translit": "ysha'ashu",
+      "ref": "Ps.94.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "polpal": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּשָׁעֳשָֽׁעוּ",
+      "translit": "tsha'oshau",
+      "ref": "Isa.66.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הָשַׁע",
+      "translit": "hasha",
+      "ref": "Isa.6.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpalpel": {
+   "sense_hint": "reflexive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶֽשְׁתַּעֲשָׁע",
+      "translit": "eshta'asha",
+      "ref": "Ps.119.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הִשְׁתַּֽעַשְׁעוּ",
+      "translit": "hishta'ashu",
+      "ref": "Isa.29.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "besmear the eyes",
+  "pilpel": "sport; take delight in; delight oneself",
+  "hithpalpel": "blind oneself; delight oneself",
+  "polpal": "be caressed"
+ },
+ "notes": [
+  "Requested stem \"Palpal\" isn't a standard binyan name in this schema -- its sole matching form (Isa.66.12, \"תְּשָׁעֳשָׁעוּ\", \"ye shall be dandled\") is tagged by OSHB as polpal (stem letter 'L'). Shipped as polpal, the same typo-adjacent substitution pattern used for Hophil/hophal and Polel/poel this session."
+ ],
+ "root": "שעע",
+ "search_match": [
+  "8173",
+  "h8173",
+  "be blinded; smear the eyes shut",
+  "sha'a",
+  "שעע"
+ ],
+ "citation_translit": "sha'a",
+ "stem_coverage_checked": true
+}

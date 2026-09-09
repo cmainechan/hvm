@@ -1,0 +1,55 @@
+{
+ "glosses": [
+  "worker in colors"
+ ],
+ "strong": "H7551",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "רֹקֵֽם",
+      "translit": "roqem",
+      "ref": "Exod.26.36",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "רֻקַּמְתִּי",
+      "translit": "ruqqamti",
+      "ref": "Ps.139.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be skillfully wrought"
+ },
+ "root": "רקם",
+ "search_match": [
+  "7551",
+  "h7551",
+  "worker in colors",
+  "raqam",
+  "רקם"
+ ],
+ "citation_translit": "raqam",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,95 @@
+{
+ "glosses": [
+  "bear a load"
+ ],
+ "strong": "H5445",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "סָבָֽלְנוּ",
+      "translit": "savalnu",
+      "ref": "Lam.5.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶסְבֹּל",
+      "translit": "esbol",
+      "ref": "Isa.46.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִסְבֹּל",
+      "translit": "lisbol",
+      "ref": "Gen.49.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְֽסֻבָּלִים",
+      "translit": "msubbalim",
+      "ref": "Ps.144.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיִסְתַּבֵּל",
+      "translit": "vyistabbel",
+      "ref": "Eccl.12.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "laden",
+  "hitpael": "make oneself a burden; drag oneself along"
+ },
+ "root": "סבל",
+ "search_match": [
+  "5445",
+  "h5445",
+  "bear a load",
+  "saval",
+  "סבל"
+ ],
+ "citation_translit": "saval",
+ "stem_coverage_checked": true
+}

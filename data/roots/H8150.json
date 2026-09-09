@@ -1,0 +1,87 @@
+{
+ "glosses": [
+  "whet; sharpen"
+ ],
+ "strong": "H8150",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "שַׁנּוֹתִי",
+      "translit": "shannoti",
+      "ref": "Deut.32.41",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "שְׁנוּנִים",
+      "translit": "shnunim",
+      "ref": "Isa.5.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְשִׁנַּנְתָּם",
+      "translit": "vshinnantam",
+      "ref": "Deut.6.7",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶשְׁתּוֹנָֽן",
+      "translit": "eshtonan",
+      "ref": "Ps.73.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "sharpen; teach incisively",
+  "hithpolel": "be pierced"
+ },
+ "notes": [
+  "Requested stem \"Hithpoel\" is tagged by OSHB as hithpolel (stem letter 'r', not 'z') for its sole matching form (Ps.73.21) -- shipped as hithpolel, the same typo-adjacent substitution pattern used previously."
+ ],
+ "root": "שנן",
+ "search_match": [
+  "8150",
+  "h8150",
+  "whet; sharpen",
+  "shanan",
+  "שנן"
+ ],
+ "citation_translit": "shanan",
+ "stem_coverage_checked": true
+}

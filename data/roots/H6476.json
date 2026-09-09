@@ -1,0 +1,77 @@
+{
+ "glosses": [
+  "break forth (into singing/joy)"
+ ],
+ "strong": "H6476",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "פָּצְחוּ",
+      "translit": "patzchu",
+      "ref": "Isa.14.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִפְצְחוּ",
+      "translit": "yiftzchu",
+      "ref": "Isa.55.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "פִּצְחוּ",
+      "translit": "pitzchu",
+      "ref": "Isa.44.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "פִּצֵּחוּ",
+      "translit": "pitztzechu",
+      "ref": "Mic.3.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "break in pieces"
+ },
+ "root": "פצח",
+ "search_match": [
+  "6476",
+  "h6476",
+  "break forth (into singing/joy)",
+  "patzach",
+  "פצח"
+ ],
+ "citation_translit": "patzach",
+ "stem_coverage_checked": true
+}

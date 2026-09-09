@@ -1,0 +1,55 @@
+{
+ "glosses": [
+  "be in excess"
+ ],
+ "strong": "H5736",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הָעֹדֵף",
+      "translit": "ha'odef",
+      "ref": "Exod.16.23",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֶעְדִּיף",
+      "translit": "hedif",
+      "ref": "Exod.16.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "have a surplus"
+ },
+ "root": "עדף",
+ "search_match": [
+  "5736",
+  "h5736",
+  "be in excess",
+  "adaf",
+  "עדף"
+ ],
+ "citation_translit": "adaf",
+ "stem_coverage_checked": true
+}
