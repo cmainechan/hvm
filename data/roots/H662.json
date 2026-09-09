@@ -1,0 +1,68 @@
+{
+ "glosses": [
+  "restrain oneself; force oneself"
+ ],
+ "strong": "H662",
+ "stems": {
+  "hitpael": {
+   "sense_hint": "reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִתְאַפָּֽקוּ",
+      "translit": "hit'appaqu",
+      "ref": "Isa.63.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶתְאַפָּק",
+      "translit": "et'appaq",
+      "ref": "Isa.42.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָֽאֶתְאַפַּק",
+      "translit": "va'et'appaq",
+      "ref": "1Sam.13.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִתְאַפֵּק",
+      "translit": "lhit'appeq",
+      "ref": "Gen.45.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "אפק",
+ "search_match": [
+  "662",
+  "h662",
+  "restrain oneself; force oneself",
+  "afaq",
+  "אפק"
+ ],
+ "citation_translit": "afaq",
+ "stem_coverage_checked": true
+}

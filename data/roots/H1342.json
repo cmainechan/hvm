@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "rise up; grow up; be exalted"
+ ],
+ "strong": "H1342",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "גָּאָה",
+      "translit": "ga'ah",
+      "ref": "Exod.15.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיִגְאֶה",
+      "translit": "vyig'eh",
+      "ref": "Job.10.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "גָאֹה",
+      "translit": "ga'oh",
+      "ref": "Exod.15.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "גאה",
+ "search_match": [
+  "1342",
+  "h1342",
+  "rise up; grow up; be exalted",
+  "ga'ah",
+  "גאה"
+ ],
+ "citation_translit": "ga'ah",
+ "stem_coverage_checked": true
+}

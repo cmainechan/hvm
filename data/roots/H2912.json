@@ -1,0 +1,90 @@
+{
+ "glosses": [
+  "grind"
+ ],
+ "strong": "H2912",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְטָחֲנוּ",
+      "translit": "vtachanu",
+      "ref": "Num.11.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּטְחָנוּ",
+      "translit": "titchanu",
+      "ref": "Isa.3.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּטְחַן",
+      "translit": "vayyitchan",
+      "ref": "Exod.32.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וְטַחֲנִי",
+      "translit": "vtachani",
+      "ref": "Isa.47.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "טוֹחֵן",
+      "translit": "tochen",
+      "ref": "Judg.16.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "טָחוֹן",
+      "translit": "tachon",
+      "ref": "Deut.9.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "טחן",
+ "search_match": [
+  "2912",
+  "h2912",
+  "grind",
+  "tachan",
+  "טחן"
+ ],
+ "citation_translit": "tachan",
+ "stem_coverage_checked": true
+}

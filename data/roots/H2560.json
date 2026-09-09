@@ -1,0 +1,77 @@
+{
+ "glosses": [
+  "ferment (of water, wine); smear with asphalt/pitch"
+ ],
+ "strong": "H2560",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חָמַר",
+      "translit": "chamar",
+      "ref": "Ps.75.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֶחְמְרוּ",
+      "translit": "yechmru",
+      "ref": "Ps.46.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתַּחְמְרָה",
+      "translit": "vattachmrah",
+      "ref": "Exod.2.3",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pealal": {
+   "sense_hint": "intensive/reduplicated",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חֳמַרְמְרוּ",
+      "translit": "chomarmru",
+      "ref": "Job.16.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pealal": "be in a turmoil; be reddened"
+ },
+ "root": "חמר",
+ "search_match": [
+  "2560",
+  "h2560",
+  "ferment (of water, wine); smear with asphalt/pitch",
+  "chamar",
+  "חמר"
+ ],
+ "citation_translit": "chamar",
+ "stem_coverage_checked": true
+}

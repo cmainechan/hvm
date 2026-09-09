@@ -1,0 +1,113 @@
+{
+ "glosses": [
+  "bristle with dread; sweep away; storm"
+ ],
+ "strong": "H8175",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שָׂעֲרוּ",
+      "translit": "sa'aru",
+      "ref": "Ezek.27.35",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשְׂעֲרוּ",
+      "translit": "yis'aru",
+      "ref": "Ezek.32.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְשַׂעֲרוּ",
+      "translit": "vsa'aru",
+      "ref": "Jer.2.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נִשְׂעֲרָה",
+      "translit": "nis'arah",
+      "ref": "Ps.50.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וִֽישָׂעֲרֵהוּ",
+      "translit": "visa'arehu",
+      "ref": "Job.27.21",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיִשְׂתָּעֵר",
+      "translit": "vyista'er",
+      "ref": "Dan.11.40",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be stormy",
+  "piel": "sweep away in a storm",
+  "hitpael": "storm against"
+ },
+ "root": "שער",
+ "search_match": [
+  "8175",
+  "h8175",
+  "bristle with dread; sweep away; storm",
+  "sa'ar",
+  "שער"
+ ],
+ "citation_translit": "sa'ar",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,46 @@
+{
+ "glosses": [
+  "revile; blaspheme"
+ ],
+ "strong": "H1442",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "גִּדְּפוּ",
+      "translit": "giddfu",
+      "ref": "2Kgs.19.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְגַדֵּף",
+      "translit": "mgaddef",
+      "ref": "Num.15.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "גדף",
+ "search_match": [
+  "1442",
+  "h1442",
+  "revile; blaspheme",
+  "gadaf",
+  "גדף"
+ ],
+ "citation_translit": "gadaf",
+ "stem_coverage_checked": true
+}

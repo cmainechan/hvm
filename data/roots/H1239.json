@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "seek; consider"
+ ],
+ "strong": "H1239",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וּבִקַּרְתִּֽים",
+      "translit": "uviqqartim",
+      "ref": "Ezek.34.11",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲבַקֵּר",
+      "translit": "avaqqer",
+      "ref": "Ezek.34.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְבַקֵּֽר",
+      "translit": "lvaqqer",
+      "ref": "2Kgs.16.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "בקר",
+ "search_match": [
+  "1239",
+  "h1239",
+  "seek; consider",
+  "baqar",
+  "בקר"
+ ],
+ "citation_translit": "baqar",
+ "stem_coverage_checked": true
+}

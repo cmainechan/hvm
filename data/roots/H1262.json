@@ -1,0 +1,109 @@
+{
+ "glosses": [
+  "eat (bread); choose"
+ ],
+ "strong": "H1262",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "בָרָא",
+      "translit": "vara",
+      "ref": "2Sam.12.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאֶבְרֶה",
+      "translit": "v'evreh",
+      "ref": "2Sam.13.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "בְּרוּ",
+      "translit": "bru",
+      "ref": "1Sam.17.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְבָרוֹת",
+      "translit": "lvarot",
+      "ref": "Lam.4.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "jussive": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְתַבְרֵנִי",
+      "translit": "vtavreni",
+      "ref": "2Sam.13.5",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַבְרוֹת",
+      "translit": "lhavrot",
+      "ref": "2Sam.3.35",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "devour",
+  "hiphil": "feed"
+ },
+ "notes": [
+  "Qal has an attested-but-unrequested second sense beyond \"eat (bread)\": 1Sam.17.8 (\"בְּרוּ\", Goliath's \"choose you a man for you\") matches the lexicon's own primary listed sense (\"a primitive root; to select; also ... to feed\"; usage: choose, (cause to) eat, manifest, (give) meat). Included; \"eat (bread)\" remains the majority sense (2Sam.12.17, 13.6, 13.10)."
+ ],
+ "root": "ברה",
+ "search_match": [
+  "1262",
+  "h1262",
+  "eat (bread); choose",
+  "barah",
+  "ברה"
+ ],
+ "citation_translit": "barah",
+ "stem_coverage_checked": true
+}

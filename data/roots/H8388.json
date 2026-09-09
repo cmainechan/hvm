@@ -1,0 +1,84 @@
+{
+ "glosses": [
+  "be drawn; mark out (of a border)"
+ ],
+ "strong": "H8388",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְתָאַר",
+      "translit": "vta'ar",
+      "ref": "Josh.15.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְתָאַר",
+      "translit": "vta'ar",
+      "ref": "Josh.18.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְתָאֲרֵהוּ",
+      "translit": "yta'arehu",
+      "ref": "Isa.44.13",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַמְּתֹאָר",
+      "translit": "hammto'ar",
+      "ref": "Josh.19.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "describe; delineate",
+  "pual": "be marked out"
+ },
+ "root": "תאר",
+ "search_match": [
+  "8388",
+  "h8388",
+  "be drawn; mark out (of a border)",
+  "ta'ar",
+  "תאר"
+ ],
+ "citation_translit": "ta'ar",
+ "stem_coverage_checked": true
+}

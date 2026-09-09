@@ -1,0 +1,73 @@
+{
+ "glosses": [
+  "become estranged"
+ ],
+ "strong": "H2114",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "זָרוּ",
+      "translit": "zaru",
+      "ref": "Job.19.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָזֹרוּ",
+      "translit": "nazoru",
+      "ref": "Ezek.14.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive causative",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מוּזָר",
+      "translit": "muzar",
+      "ref": "Ps.69.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be estranged",
+  "hophal": "be a stranger; be alienated"
+ },
+ "root": "זור",
+ "search_match": [
+  "2114",
+  "h2114",
+  "become estranged",
+  "zur",
+  "זור"
+ ],
+ "citation_translit": "zur",
+ "stem_coverage_checked": true
+}

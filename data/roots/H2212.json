@@ -1,0 +1,73 @@
+{
+ "glosses": [
+  "strain; distill; bubble up"
+ ],
+ "strong": "H2212",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָזֹֽקּוּ",
+      "translit": "yazoqqu",
+      "ref": "Job.28.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְזִקַּק",
+      "translit": "vziqqaq",
+      "ref": "Mal.3.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְזֻקָּק",
+      "translit": "mzuqqaq",
+      "ref": "1Chr.28.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "purge; refine",
+  "pual": "be refined"
+ },
+ "root": "זקק",
+ "search_match": [
+  "2212",
+  "h2212",
+  "strain; distill; bubble up",
+  "zaqaq",
+  "זקק"
+ ],
+ "citation_translit": "zaqaq",
+ "stem_coverage_checked": true
+}

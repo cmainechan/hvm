@@ -1,0 +1,77 @@
+{
+ "glosses": [
+  "lap up"
+ ],
+ "strong": "H3952",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "לָקְקוּ",
+      "translit": "laqqu",
+      "ref": "1Kgs.21.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָלֹקּוּ",
+      "translit": "yaloqqu",
+      "ref": "1Kgs.21.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּלֹקּוּ",
+      "translit": "vayyaloqqu",
+      "ref": "1Kgs.22.38",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַֽמֲלַקְקִים",
+      "translit": "hamalaqqim",
+      "ref": "Judg.7.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "lap up"
+ },
+ "root": "לקק",
+ "search_match": [
+  "3952",
+  "h3952",
+  "lap up",
+  "laqaq",
+  "לקק"
+ ],
+ "citation_translit": "laqaq",
+ "stem_coverage_checked": true
+}

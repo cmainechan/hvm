@@ -1,0 +1,105 @@
+{
+ "glosses": [
+  "be beautiful"
+ ],
+ "strong": "H3302",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "יָּפוּ",
+      "translit": "yafu",
+      "ref": "Song.4.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַתִּיפִי",
+      "translit": "vattifi",
+      "ref": "Ezek.16.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְיַפֵּהוּ",
+      "translit": "yyappehu",
+      "ref": "Jer.10.4",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pealal": {
+   "sense_hint": "intensive/reduplicated",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "יָפְיָפִיתָ",
+      "translit": "yafyafita",
+      "ref": "Ps.45.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִּתְיַפִּי",
+      "translit": "tityappi",
+      "ref": "Jer.4.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "beautify",
+  "pealal": "be exceedingly beautiful",
+  "hitpael": "beautify oneself"
+ },
+ "notes": [
+  "Requested pual \"be made beautiful\" has zero attestation -- every occurrence of this lemma is qal, piel, hitpael, or the sole reduplicated pealal form (Ps.45.3, \"יָפְיָפִיתָ\", \"thou art fairer than the children of men\"), which is a genuinely different rare stem (not pual) with an intensive/superlative-stative sense (\"be exceedingly beautiful\") rather than pual's simple passive (\"be made beautiful\"). Excluded pual; included pealal instead."
+ ],
+ "root": "יפה",
+ "search_match": [
+  "3302",
+  "h3302",
+  "be beautiful",
+  "yafah",
+  "יפה"
+ ],
+ "citation_translit": "yafah",
+ "stem_coverage_checked": true
+}
