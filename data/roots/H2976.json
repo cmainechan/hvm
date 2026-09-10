@@ -1,0 +1,66 @@
+{
+ "glosses": [
+  "despair"
+ ],
+ "strong": "H2976",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נוֹאָשׁ",
+      "translit": "no'ash",
+      "ref": "Isa.57.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנוֹאַשׁ",
+      "translit": "vno'ash",
+      "ref": "1Sam.27.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְיַאֵשׁ",
+      "translit": "lya'esh",
+      "ref": "Eccl.2.20",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "cause despair"
+ },
+ "root": "יאש",
+ "search_match": [
+  "2976",
+  "h2976",
+  "despair",
+  "ya'ash",
+  "יאש"
+ ],
+ "citation_translit": "ya'ash",
+ "stem_coverage_checked": true
+}

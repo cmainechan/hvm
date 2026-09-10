@@ -1,0 +1,66 @@
+{
+ "glosses": [
+  "shine"
+ ],
+ "strong": "H5050",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נָגַהּ",
+      "translit": "nagahh",
+      "ref": "Isa.9.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִגַּהּ",
+      "translit": "yiggahh",
+      "ref": "Job.18.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַגִּיהַּ",
+      "translit": "yaggihha",
+      "ref": "2Sam.22.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "enlighten; cause to shine"
+ },
+ "root": "נגה",
+ "search_match": [
+  "5050",
+  "h5050",
+  "shine",
+  "nagahh",
+  "נגה"
+ ],
+ "citation_translit": "nagahh",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,85 @@
+{
+ "glosses": [
+  "depart; turn aside"
+ ],
+ "strong": "H3868",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "jussive": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָלֻזוּ",
+      "translit": "yaluzu",
+      "ref": "Prov.3.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "וּנְלוֹזִים",
+      "translit": "unlozim",
+      "ref": "Prov.2.15",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נָלוֹז",
+      "translit": "naloz",
+      "ref": "Prov.3.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "jussive": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַלִּיזוּ",
+      "translit": "yallizu",
+      "ref": "Prov.4.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "go wrong; go crooked",
+  "hiphil": "be lost from view; become devious"
+ },
+ "notes": [
+  "Hiphil has a single attestation (Prov.4.21, יַלִּיזוּ, \"let them [my words] not depart from your eyes\"). BDB glosses this hiphil form essentially identically to the qal sense (\"depart from view\"), with a parenthetical alternative reading \"let them not practice/exhibit deviation\" -- the source of the requested \"become devious\" half of the gloss. Flagging as single-attestation with BDB's own dual reading, per usual practice."
+ ],
+ "root": "לוז",
+ "search_match": [
+  "3868",
+  "h3868",
+  "depart; turn aside",
+  "luz",
+  "לוז"
+ ],
+ "citation_translit": "luz",
+ "stem_coverage_checked": true
+}

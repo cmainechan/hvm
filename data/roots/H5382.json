@@ -1,0 +1,116 @@
+{
+ "glosses": [
+  "forget"
+ ],
+ "strong": "H5382",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נָשִׁיתִי",
+      "translit": "nashiti",
+      "ref": "Lam.3.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְנָשִׁיתִי",
+      "translit": "vnashiti",
+      "ref": "Jer.23.39",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִנָּשֵֽׁנִי",
+      "translit": "tinnasheni",
+      "ref": "Isa.44.21",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נַשַּׁנִי",
+      "translit": "nasshani",
+      "ref": "Gen.41.51",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִשָּׁהּ",
+      "translit": "hisshahh",
+      "ref": "Job.39.17",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַשֶּׁה",
+      "translit": "yassheh",
+      "ref": "Job.11.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be forgotten",
+  "piel": "cause to forget",
+  "hiphil": "cause to forget; allow to be forgotten"
+ },
+ "notes": [
+  "Homonym found: H5383 (also spelled נָשָׁה, identical pronunciation, \"a primitive root rather identical with H5382... to lend or borrow on security/interest\") already exists in the dataset under the same bare root spelling. Relabeled per the standard convention: this root (the lower Strong's number) is נשה¹, and H5383.json's root field was retroactively relabeled to נשה²."
+ ],
+ "root": "נשה¹",
+ "search_match": [
+  "5382",
+  "h5382",
+  "forget",
+  "nashah",
+  "נשה¹"
+ ],
+ "citation_translit": "nashah",
+ "stem_coverage_checked": true
+}

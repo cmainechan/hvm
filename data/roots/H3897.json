@@ -1,0 +1,69 @@
+{
+ "glosses": [
+  "lick up (of an ox)"
+ ],
+ "strong": "H3897",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כִּלְחֹךְ",
+      "translit": "kilchokh",
+      "ref": "Num.22.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "לִחֵֽכָה",
+      "translit": "lichekhah",
+      "ref": "1Kgs.18.38",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְלַחֵכוּ",
+      "translit": "ylachekhu",
+      "ref": "Isa.49.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "lick up (of fire, dust, water)"
+ },
+ "notes": [
+  "Qal has a single attestation (Num.22.4, כִּלְחֹךְ הַשּׁוֹר, \"as the ox licks up the grass of the field\", Balak's words about Israel); flagging as single-attestation per usual practice."
+ ],
+ "root": "לחך",
+ "search_match": [
+  "3897",
+  "h3897",
+  "lick up (of an ox)",
+  "lachakh",
+  "לחך"
+ ],
+ "citation_translit": "lachakh",
+ "stem_coverage_checked": true
+}

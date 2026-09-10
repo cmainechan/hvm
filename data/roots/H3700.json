@@ -1,0 +1,93 @@
+{
+ "glosses": [
+  "long for"
+ ],
+ "strong": "H3700",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִכְסֹֽף",
+      "translit": "tikhsof",
+      "ref": "Job.14.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִכְסוֹף",
+      "translit": "yikhsof",
+      "ref": "Ps.17.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "נִכְסֹף",
+      "translit": "nikhsof",
+      "ref": "Gen.31.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נִכְסַפְתָּה",
+      "translit": "nikhsaftah",
+      "ref": "Gen.31.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נִכְסְפָה",
+      "translit": "nikhsfah",
+      "ref": "Ps.84.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִכְסָֽף",
+      "translit": "nikhsaf",
+      "ref": "Zeph.2.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "long for deeply"
+ },
+ "root": "כסף",
+ "search_match": [
+  "3700",
+  "h3700",
+  "long for",
+  "kasaf",
+  "כסף"
+ ],
+ "citation_translit": "kasaf",
+ "stem_coverage_checked": true
+}

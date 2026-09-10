@@ -1,0 +1,91 @@
+{
+ "glosses": [
+  "be leavened; be red; be ruthless"
+ ],
+ "strong": "H2556",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "חֻמְצָתֽוֹ",
+      "translit": "chumtzato",
+      "ref": "Hos.7.4",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְחוֹמֵץ",
+      "translit": "vchometz",
+      "ref": "Ps.71.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חָמֵץ",
+      "translit": "chametz",
+      "ref": "Exod.12.39",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶחְמָץ",
+      "translit": "yechmatz",
+      "ref": "Exod.12.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְחַמֵּץ",
+      "translit": "yitchammetz",
+      "ref": "Ps.73.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hitpael": "be soured; be embittered"
+ },
+ "notes": [
+  "BDB actually treats חמץ as three separate homonymous roots (I \"be sour/leavened\", II \"be red\" -- no citation given at all, III \"be ruthless\", attested only Ps.71.4 qal participle), but Strong's own lexicon merges all three under this single number H2556 (\"to be pungent...in taste...or in color, dazzling\"). Kept as one file per Strong's grouping (the requested combined qal gloss), but flagging that \"be red\" has zero attestation anywhere in the corpus and no citation even in BDB -- included only because it's part of Strong's own definition text."
+ ],
+ "root": "חמץ",
+ "search_match": [
+  "2556",
+  "h2556",
+  "be leavened; be red; be ruthless",
+  "chametz",
+  "חמץ"
+ ],
+ "citation_translit": "chametz",
+ "stem_coverage_checked": true
+}

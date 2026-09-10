@@ -1,0 +1,68 @@
+{
+ "glosses": [
+  "slumber"
+ ],
+ "strong": "H5123",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לָנֽוּם",
+      "translit": "lanum",
+      "ref": "Isa.56.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָנוּם",
+      "translit": "yanum",
+      "ref": "Ps.121.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָמוּ",
+      "translit": "namu",
+      "ref": "Nah.3.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָנוּם",
+      "translit": "yanum",
+      "ref": "Isa.5.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "נום",
+ "search_match": [
+  "5123",
+  "h5123",
+  "slumber",
+  "num",
+  "נום"
+ ],
+ "citation_translit": "num",
+ "stem_coverage_checked": true
+}

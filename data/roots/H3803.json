@@ -1,0 +1,80 @@
+{
+ "glosses": [
+  "besiege; wait"
+ ],
+ "strong": "H3803",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "כַּתַּר",
+      "translit": "kattar",
+      "ref": "Job.36.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "כִּתְּרוּ",
+      "translit": "kittru",
+      "ref": "Judg.20.43",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַכְתִּיר",
+      "translit": "makhtir",
+      "ref": "Hab.1.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַכְתִּרוּ",
+      "translit": "yakhtiru",
+      "ref": "Prov.14.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "surround; crown"
+ },
+ "notes": [
+  "Requested piel sense \"crown\" is not attested for piel at all -- both piel forms mean \"besiege/surround\" (Judg.20.43, Ps.22.13) or \"wait\" (Job.36.2, Elihu asking Job's patience). \"crown\" is instead attested in an UNREQUESTED stem, hiphil (Prov.14.18, יַכְתִּירוּ דָעַת, \"the prudent are crowned with knowledge\"); hiphil also independently attests the \"surround\" sense (Hab.1.4, Ps.142.8). Moved \"crown\" from piel to hiphil accordingly, and added hiphil as a full paradigm entry since it's attested beyond the original request."
+ ],
+ "root": "כתר",
+ "search_match": [
+  "3803",
+  "h3803",
+  "besiege; wait",
+  "katar",
+  "כתר"
+ ],
+ "citation_translit": "katar",
+ "stem_coverage_checked": true
+}

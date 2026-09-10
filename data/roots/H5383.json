@@ -80,13 +80,16 @@
  "stem_glosses": {
   "hiphil": "act as a creditor"
  },
- "root": "נשה",
+ "notes": [
+  "Homonym split: H5382 (נשה¹, \"forget\") shares the same spelling and pronunciation with this root (Strong's own note: \"rather identical with H5382... in the sense of H5378\"). Relabeled per the standard convention: this root (the higher Strong's number) is now נשה², and H5382 is נשה¹."
+ ],
+ "root": "נשה²",
  "search_match": [
   "5383",
   "h5383",
   "lend",
   "nashah",
-  "נשה"
+  "נשה²"
  ],
  "citation_translit": "nashah",
  "stem_coverage_checked": true

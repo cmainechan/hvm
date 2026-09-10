@@ -1,0 +1,64 @@
+{
+ "glosses": [
+  "practice sorcery"
+ ],
+ "strong": "H3784",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מְכַשֵּׁפָה",
+      "translit": "mkhasshefah",
+      "ref": "Exod.22.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "וְלַֽמְכַשְּׁפִים",
+      "translit": "vlamkhasshfim",
+      "ref": "Dan.2.2",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּמְכַשֵּֽׁף",
+      "translit": "umkhasshef",
+      "ref": "Deut.18.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְֽכִשֵּׁף",
+      "translit": "vkhisshef",
+      "ref": "2Chr.33.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "כשף",
+ "search_match": [
+  "3784",
+  "h3784",
+  "practice sorcery",
+  "kashaf",
+  "כשף"
+ ],
+ "citation_translit": "kashaf",
+ "stem_coverage_checked": true
+}

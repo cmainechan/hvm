@@ -1,0 +1,78 @@
+{
+ "glosses": [
+  "slip (of feet, steps)"
+ ],
+ "strong": "H4571",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "מָעֲדוּ",
+      "translit": "ma'adu",
+      "ref": "2Sam.22.37",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶמְעָֽד",
+      "translit": "em'ad",
+      "ref": "Ps.26.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִמְעַד",
+      "translit": "tim'ad",
+      "ref": "Ps.37.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַמְעַֽד",
+      "translit": "ham'ad",
+      "ref": "Ps.69.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "cause to totter"
+ },
+ "notes": [
+  "Hiphil has a single attestation (Ps.69.24, הַמְעַד מָתְנֵיהֶם תָּמִיד, \"make their loins shake continually\"); flagging as single-attestation per usual practice."
+ ],
+ "root": "מעד",
+ "search_match": [
+  "4571",
+  "h4571",
+  "slip (of feet, steps)",
+  "ma'ad",
+  "מעד"
+ ],
+ "citation_translit": "ma'ad",
+ "stem_coverage_checked": true
+}

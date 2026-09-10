@@ -1,0 +1,106 @@
+{
+ "glosses": [
+  "bore; pick out; dig"
+ ],
+ "strong": "H5365",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בִּנְקוֹר",
+      "translit": "binqor",
+      "ref": "1Sam.11.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִקְּרוּהָ",
+      "translit": "yiqqruha",
+      "ref": "Prov.30.17",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִקַּר",
+      "translit": "niqqar",
+      "ref": "Job.30.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיְנַקְּרוּ",
+      "translit": "vaynaqqru",
+      "ref": "Judg.16.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּנַקֵּר",
+      "translit": "tnaqqer",
+      "ref": "Num.16.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "נֻקַּרְתֶּֽם",
+      "translit": "nuqqartem",
+      "ref": "Isa.51.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "pick out (especially the eyes)",
+  "pual": "be dug out"
+ },
+ "root": "נקר",
+ "search_match": [
+  "5365",
+  "h5365",
+  "bore; pick out; dig",
+  "naqar",
+  "נקר"
+ ],
+ "citation_translit": "naqar",
+ "stem_coverage_checked": true
+}
