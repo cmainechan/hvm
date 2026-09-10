@@ -1,0 +1,84 @@
+{
+ "glosses": [
+  "nest"
+ ],
+ "strong": "H7077",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "קִֽנְנוּ",
+      "translit": "qinnu",
+      "ref": "Ezek.31.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "קִנְּנָה",
+      "translit": "qinnnah",
+      "ref": "Isa.34.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּקַנֵּן",
+      "translit": "tqannen",
+      "ref": "Jer.48.28",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְקַנֵּנוּ",
+      "translit": "yqannenu",
+      "ref": "Ps.104.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מְקֻנַּנְתְּ",
+      "translit": "mqunnant",
+      "ref": "Jer.22.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be nested"
+ },
+ "root": "קנן",
+ "search_match": [
+  "7077",
+  "h7077",
+  "nest",
+  "qanan",
+  "קנן"
+ ],
+ "citation_translit": "qanan",
+ "stem_coverage_checked": true
+}

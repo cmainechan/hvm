@@ -1,0 +1,85 @@
+{
+ "glosses": [
+  "crash into ruins"
+ ],
+ "strong": "H7582",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שָׁאוּ",
+      "translit": "shau",
+      "ref": "Isa.6.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּשָּׁאֶה",
+      "translit": "tissha'eh",
+      "ref": "Isa.6.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשָּׁאֽוּן",
+      "translit": "yisshaun",
+      "ref": "Isa.17.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַהְשׁוֹת",
+      "translit": "lahshot",
+      "ref": "2Kgs.19.25",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be ruined into desolation; be in uproar",
+  "hiphil": "lay waste"
+ },
+ "notes": [
+  "Homonym check: shares consonants ש-א-ה with H7583 (\"to stun, i.e. [intransitively] be astonished\"), an unrelated root. Requested gloss matches H7582 precisely (\"to rush; by implication, to desolate\"); no cross-contamination found in the corpus tagging."
+ ],
+ "root": "שאה",
+ "search_match": [
+  "7582",
+  "h7582",
+  "crash into ruins",
+  "sha'ah",
+  "שאה"
+ ],
+ "citation_translit": "sha'ah",
+ "stem_coverage_checked": true
+}

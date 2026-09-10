@@ -1,0 +1,88 @@
+{
+ "glosses": [
+  "bore; dig"
+ ],
+ "strong": "H6979",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "קַרְתִּי",
+      "translit": "qarti",
+      "ref": "2Kgs.19.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כְּהָקִיר",
+      "translit": "khaqir",
+      "ref": "Jer.6.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הֵקֵרָה",
+      "translit": "heqerah",
+      "ref": "Jer.6.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pilpel": {
+   "sense_hint": "intensive (reduplicated)",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְקַרְקַר",
+      "translit": "vqarqar",
+      "ref": "Num.24.17",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "make/keep cool",
+  "pilpel": "tear down (dubious)"
+ },
+ "notes": [
+  "Qal has a single attestation (2Kgs.19.24, קַרְתִּי, Sennacherib's boast \"I dug wells and drank foreign waters\"); flagging as single-attestation per usual practice.",
+  "Pilpel has a single attestation (Num.24.17, וְקַרְקַר, Balaam's oracle) which the person's own request already flagged as \"(dubious)\" -- formalizing that as a single-attestation/contested flag per usual practice."
+ ],
+ "root": "קור",
+ "search_match": [
+  "6979",
+  "h6979",
+  "bore; dig",
+  "qur",
+  "קור"
+ ],
+ "citation_translit": "qur",
+ "stem_coverage_checked": true
+}

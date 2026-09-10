@@ -1,0 +1,70 @@
+{
+ "glosses": [
+  "treat with contempt"
+ ],
+ "strong": "H7034",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִקְלֶה",
+      "translit": "niqleh",
+      "ref": "Prov.12.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִקְלָה",
+      "translit": "vniqlah",
+      "ref": "Deut.25.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַקְלֶה",
+      "translit": "maqleh",
+      "ref": "Deut.27.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be lightly esteemed; be degraded"
+ },
+ "notes": [
+  "No qal attested for this root; hiphil (the causative \"treat with contempt\" sense) is used as the primary/citation stem, with niphal as its natural passive counterpart -- same pattern as H6395 פלה earlier in this project. DEFAULT_STEM_OVERRIDE added (\"קלה\": \"hiphil\") since niphal would otherwise be picked mechanically by STEM_ORDER.",
+  "Homonym check: shares consonants ק-ל-ה with H7033 (\"to toast, i.e. scorch partially or slowly\") and H7035 (\"to assemble\"), both unrelated roots. Requested gloss matches H7034 precisely (\"to be light...but figuratively, only [causatively, hold] in contempt\"); no cross-contamination found in the corpus tagging."
+ ],
+ "root": "קלה",
+ "search_match": [
+  "7034",
+  "h7034",
+  "treat with contempt",
+  "qalah",
+  "קלה"
+ ],
+ "citation_translit": "qalah",
+ "stem_coverage_checked": true
+}

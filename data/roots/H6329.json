@@ -1,0 +1,80 @@
+{
+ "glosses": [
+  "bring out; obtain"
+ ],
+ "strong": "H6329",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּפֵק",
+      "translit": "tafeq",
+      "ref": "Ps.140.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְפִיקִים",
+      "translit": "mfiqim",
+      "ref": "Ps.144.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּפֶק",
+      "translit": "vayyafeq",
+      "ref": "Prov.18.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְתָפֵק",
+      "translit": "vtafeq",
+      "ref": "Isa.58.10",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָפִיק",
+      "translit": "yafiq",
+      "ref": "Prov.12.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym check: shares consonants פ-ו-ק with H6328 (\"to waver\"), an unrelated root. Requested gloss matches H6329 precisely (\"to issue, i.e. furnish; causatively, to secure; figuratively, to succeed\"); no cross-contamination found in the corpus tagging."
+ ],
+ "root": "פוק",
+ "search_match": [
+  "6329",
+  "h6329",
+  "bring out; obtain",
+  "puq",
+  "פוק"
+ ],
+ "citation_translit": "puq",
+ "stem_coverage_checked": true
+}

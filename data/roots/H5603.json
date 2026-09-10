@@ -1,0 +1,55 @@
+{
+ "glosses": [
+  "cover"
+ ],
+ "strong": "H5603",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "סְפוּנִים",
+      "translit": "sfunim",
+      "ref": "Hag.1.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "סָפוּן",
+      "translit": "safun",
+      "ref": "Deut.33.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּסְפֹּן",
+      "translit": "vayyispon",
+      "ref": "1Kgs.6.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "ספן",
+ "search_match": [
+  "5603",
+  "h5603",
+  "cover",
+  "safan",
+  "ספן"
+ ],
+ "citation_translit": "safan",
+ "stem_coverage_checked": true
+}

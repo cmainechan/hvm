@@ -1,0 +1,38 @@
+{
+ "glosses": [
+  "be a ruler"
+ ],
+ "strong": "H7336",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "רוֹזְנִים",
+      "translit": "roznim",
+      "ref": "Isa.40.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Requested gloss \"be weighty\" was dropped: BDB lists it as the root's literal/etymological sense, but the sole attestation (Isa.40.23, רוֹזְנִים, \"rulers\") is only ever used in its developed figurative sense; no citation in this dataset supports the literal \"be weighty\" reading. Single-attestation overall; flagging per usual practice."
+ ],
+ "root": "רזן",
+ "search_match": [
+  "7336",
+  "h7336",
+  "be a ruler",
+  "razan",
+  "רזן"
+ ],
+ "citation_translit": "razan",
+ "stem_coverage_checked": true
+}

@@ -93,6 +93,7 @@ const DEFAULT_STEM_OVERRIDE = {
   "צוה": "piel",
   "קוה": "piel",
   "קטר": "hiphil",
+  "קלה": "hiphil",
   "קשב": "hiphil",
   "רוע": "hiphil",
   "שבע¹": "niphal",

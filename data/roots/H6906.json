@@ -1,0 +1,68 @@
+{
+ "glosses": [
+  "rob; spoil"
+ ],
+ "strong": "H6906",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "קֹבְעִים",
+      "translit": "qov'im",
+      "ref": "Mal.3.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "קְבַעֲנוּךָ",
+      "translit": "qva'anukha",
+      "ref": "Mal.3.8",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְקָבַע",
+      "translit": "vqava",
+      "ref": "Prov.22.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֲיִקְבַּע",
+      "translit": "hayiqba",
+      "ref": "Mal.3.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "קבע",
+ "search_match": [
+  "6906",
+  "h6906",
+  "rob; spoil",
+  "qava",
+  "קבע"
+ ],
+ "citation_translit": "qava",
+ "stem_coverage_checked": true
+}

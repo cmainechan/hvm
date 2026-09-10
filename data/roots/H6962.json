@@ -1,0 +1,96 @@
+{
+ "glosses": [
+  "feel loathing"
+ ],
+ "strong": "H6962",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָקוּט",
+      "translit": "aqut",
+      "ref": "Ps.95.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּנְקֹֽטֹתֶם",
+      "translit": "unqototem",
+      "ref": "Ezek.20.43",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנָקֹטּוּ",
+      "translit": "vnaqottu",
+      "ref": "Ezek.6.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָֽאֶתְקוֹטָטָה",
+      "translit": "va'etqotatah",
+      "ref": "Ps.119.158",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶתְקוֹטָֽט",
+      "translit": "etqotat",
+      "ref": "Ps.139.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "loathe oneself; detest",
+  "hithpolel": "loathe oneself"
+ },
+ "notes": [
+  "Qal has a single attestation (Ps.95.10, אָקוּט, \"forty years I loathed that generation\"); flagging as single-attestation per usual practice."
+ ],
+ "root": "קוט",
+ "search_match": [
+  "6962",
+  "h6962",
+  "feel loathing",
+  "qut",
+  "קוט"
+ ],
+ "citation_translit": "qut",
+ "stem_coverage_checked": true
+}

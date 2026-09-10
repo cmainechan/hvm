@@ -1,0 +1,64 @@
+{
+ "glosses": [
+  "smoke; be angry"
+ ],
+ "strong": "H6225",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "עָשַׁנְתָּ",
+      "translit": "ashanta",
+      "ref": "Ps.80.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "עָשַׁן",
+      "translit": "ashan",
+      "ref": "Exod.19.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְֽיֶעֱשָֽׁנוּ",
+      "translit": "vye'eshanu",
+      "ref": "Ps.104.32",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶעְשַׁן",
+      "translit": "yeshan",
+      "ref": "Deut.29.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "עשן",
+ "search_match": [
+  "6225",
+  "h6225",
+  "smoke; be angry",
+  "ashan",
+  "עשן"
+ ],
+ "citation_translit": "ashan",
+ "stem_coverage_checked": true
+}

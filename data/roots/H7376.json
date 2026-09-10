@@ -1,0 +1,75 @@
+{
+ "glosses": [
+  "dash in pieces"
+ ],
+ "strong": "H7376",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּרַטֵּשׁ",
+      "translit": "trattesh",
+      "ref": "2Kgs.8.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תְּרַטַּשְׁנָה",
+      "translit": "trattashnah",
+      "ref": "Isa.13.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "רֻטָּֽשָׁה",
+      "translit": "ruttashah",
+      "ref": "Hos.10.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְרֻטָּשׁוּ",
+      "translit": "yruttashu",
+      "ref": "Hos.14.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be dashed in pieces"
+ },
+ "root": "רטש",
+ "search_match": [
+  "7376",
+  "h7376",
+  "dash in pieces",
+  "ratash",
+  "רטש"
+ ],
+ "citation_translit": "ratash",
+ "stem_coverage_checked": true
+}

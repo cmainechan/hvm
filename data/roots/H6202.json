@@ -1,0 +1,80 @@
+{
+ "glosses": [
+  "break the neck; break down (altars)"
+ ],
+ "strong": "H6202",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "עֹרֵֽף",
+      "translit": "oref",
+      "ref": "Isa.66.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "הָעֲרוּפָה",
+      "translit": "ha'arufah",
+      "ref": "Deut.21.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַעֲרַפְתּוֹ",
+      "translit": "va'arafto",
+      "ref": "Exod.13.13",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְעָֽרְפוּ",
+      "translit": "v'arfu",
+      "ref": "Deut.21.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַעֲרֹף",
+      "translit": "ya'arof",
+      "ref": "Hos.10.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym check: shares consonants ע-ר-ף with H6201 (\"to droop, hence to drip\"), an unrelated root. Requested gloss matches H6202 precisely (\"to break the neck; hence figuratively to destroy\"); no cross-contamination found in the corpus tagging."
+ ],
+ "root": "ערף",
+ "search_match": [
+  "6202",
+  "h6202",
+  "break the neck; break down (altars)",
+  "araf",
+  "ערף"
+ ],
+ "citation_translit": "araf",
+ "stem_coverage_checked": true
+}

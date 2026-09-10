@@ -1,0 +1,92 @@
+{
+ "glosses": [
+  "borrow; take a pledge"
+ ],
+ "strong": "H5670",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַעֲבֹט",
+      "translit": "la'avot",
+      "ref": "Deut.24.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַעֲבֹט",
+      "translit": "ta'avot",
+      "ref": "Deut.15.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְהַעֲבֵט",
+      "translit": "vha'avet",
+      "ref": "Deut.15.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהַֽעֲבַטְתָּ",
+      "translit": "vha'avatta",
+      "ref": "Deut.15.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּעֲבִיטֶנּוּ",
+      "translit": "ta'avitennu",
+      "ref": "Deut.15.8",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "lend on security"
+ },
+ "notes": [
+  "Requested qal gloss was \"borrow\" alone, matching Deut.15.6 (\"you shall not borrow\") well, but the other qal citation (Deut.24.10, לַעֲבֹט עֲבֹטוֹ, \"to take his pledge\") describes the opposite direction -- a creditor exacting collateral, not a debtor borrowing. BDB's own (single) qal sense is actually \"to take possession of a thing pledged\", matching Deut.24.10 rather than the conventional \"borrow\" reading of Deut.15.6. Broadened the qal gloss to \"borrow; take a pledge\" to cover both attested citations honestly rather than force one citation under a gloss it doesn't support.",
+  "Requested piel sense was not included: the sole piel form (Joel.2.7, יְעַבְּטוּן) is textually obscure -- BDB calls it \"hardly makes sense\" and offers only a tentative guess (\"lend on pledge = interchange?\"). Given no confident gloss can be drawn from the citation, piel was left out of the paradigm; flagging for review rather than silently including or dropping it."
+ ],
+ "root": "עבט",
+ "search_match": [
+  "5670",
+  "h5670",
+  "borrow; take a pledge",
+  "avat",
+  "עבט"
+ ],
+ "citation_translit": "avat",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,86 @@
+{
+ "glosses": [
+  "come to an end"
+ ],
+ "strong": "H5486",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "סָפוּ",
+      "translit": "safu",
+      "ref": "Ps.73.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְסָפוּ",
+      "translit": "vsafu",
+      "ref": "Amos.3.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָסֻפוּ",
+      "translit": "yasufu",
+      "ref": "Isa.66.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָסוּף",
+      "translit": "yasuf",
+      "ref": "Esth.9.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָסֵף",
+      "translit": "asef",
+      "ref": "Zeph.1.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "make an end; utterly consume"
+ },
+ "root": "סוף",
+ "search_match": [
+  "5486",
+  "h5486",
+  "come to an end",
+  "suf",
+  "סוף"
+ ],
+ "citation_translit": "suf",
+ "stem_coverage_checked": true
+}

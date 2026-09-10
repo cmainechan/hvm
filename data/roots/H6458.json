@@ -1,0 +1,75 @@
+{
+ "glosses": [
+  "hew out"
+ ],
+ "strong": "H6458",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "פְּסָל",
+      "translit": "psal",
+      "ref": "Deut.10.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "פְסָלוֹ",
+      "translit": "fsalo",
+      "ref": "Hab.2.18",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶפְסֹל",
+      "translit": "va'efsol",
+      "ref": "Deut.10.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּפְסְלוּ",
+      "translit": "vayyifslu",
+      "ref": "1Kgs.5.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּפְסֹל",
+      "translit": "vayyifsol",
+      "ref": "Exod.34.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "פסל",
+ "search_match": [
+  "6458",
+  "h6458",
+  "hew out",
+  "pasal",
+  "פסל"
+ ],
+ "citation_translit": "pasal",
+ "stem_coverage_checked": true
+}

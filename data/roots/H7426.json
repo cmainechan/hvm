@@ -1,0 +1,98 @@
+{
+ "glosses": [
+  "be exalted"
+ ],
+ "strong": "H7426",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "רוֹמּוּ",
+      "translit": "rommu",
+      "ref": "Job.24.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הֵרֹמּוּ",
+      "translit": "herommu",
+      "ref": "Num.17.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיֵּרֹמּוּ",
+      "translit": "vayyerommu",
+      "ref": "Ezek.10.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֵרוֹמּוּ",
+      "translit": "yerommu",
+      "ref": "Ezek.10.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "polel": {
+   "sense_hint": "intensive (causative)",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "רוֹמֵמָה",
+      "translit": "romemah",
+      "ref": "Ps.118.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "lift oneself",
+  "polel": "be exalted"
+ },
+ "notes": [
+  "Polel is an extra, unrequested but attested stem (Ps.118.16, רוֹמֵמָה, \"the right hand of the LORD is exalted\"), the same intensive/emphatic sense as qal; added as a full paradigm entry per the extra-stem-coverage step."
+ ],
+ "root": "רמם",
+ "search_match": [
+  "7426",
+  "h7426",
+  "be exalted",
+  "ramam",
+  "רמם"
+ ],
+ "citation_translit": "ramam",
+ "stem_coverage_checked": true
+}

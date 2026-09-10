@@ -1,0 +1,123 @@
+{
+ "glosses": [
+  "join"
+ ],
+ "strong": "H5596",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "סְפָחֵנִי",
+      "translit": "sfacheni",
+      "ref": "1Sam.2.36",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנִסְפְּחוּ",
+      "translit": "vnispchu",
+      "ref": "Isa.14.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְסַפֵּחַ",
+      "translit": "msappecha",
+      "ref": "Hab.2.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְשִׂפַּח",
+      "translit": "vsippach",
+      "ref": "Isa.3.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְסֻפָּֽחוּ",
+      "translit": "ysuppachu",
+      "ref": "Job.30.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מֵהִסְתַּפֵּחַ",
+      "translit": "mehistappecha",
+      "ref": "1Sam.26.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be joined",
+  "piel": "join; cause a scab",
+  "pual": "be joined",
+  "hitpael": "join oneself"
+ },
+ "notes": [
+  "Strong's own entry for H5596 explicitly covers both spellings, סָפַח and שָׂפַח (\"or שָׂפַח; (Isaiah 3:17)\"), with \"smite with the scab\" listed in its usage -- confirming the piel Isa.3.17 form (spelled with שׂ) belongs under this same number and supports the \"cause a scab\" sense, not a tagging error."
+ ],
+ "root": "ספח",
+ "search_match": [
+  "5596",
+  "h5596",
+  "join",
+  "safach",
+  "ספח"
+ ],
+ "citation_translit": "safach",
+ "stem_coverage_checked": true
+}
