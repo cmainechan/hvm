@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "be leavened; be red; be ruthless"
+  "be leavened; be ruthless"
  ],
  "strong": "H2556",
  "stems": {
@@ -76,13 +76,13 @@
   "hitpael": "be soured; be embittered"
  },
  "notes": [
-  "BDB actually treats חמץ as three separate homonymous roots (I \"be sour/leavened\", II \"be red\" -- no citation given at all, III \"be ruthless\", attested only Ps.71.4 qal participle), but Strong's own lexicon merges all three under this single number H2556 (\"to be pungent...in taste...or in color, dazzling\"). Kept as one file per Strong's grouping (the requested combined qal gloss), but flagging that \"be red\" has zero attestation anywhere in the corpus and no citation even in BDB -- included only because it's part of Strong's own definition text."
+  "BDB actually treats חמץ as three separate homonymous roots (I \"be sour/leavened\", II \"be red\" -- no citation given at all, III \"be ruthless\", attested only Ps.71.4 qal participle), but Strong's own lexicon merges all three under this single number H2556 (\"to be pungent...in taste...or in color, dazzling\"). Kept as one file per Strong's grouping. Requested gloss \"be red\" was dropped: it has zero attestation anywhere in the corpus and no citation even in BDB, which lists it as a separate, uncited sense."
  ],
  "root": "חמץ",
  "search_match": [
   "2556",
   "h2556",
-  "be leavened; be red; be ruthless",
+  "be leavened; be ruthless",
   "chametz",
   "חמץ"
  ],

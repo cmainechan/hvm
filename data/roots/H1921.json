@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "swell (of hills); honor; adorn"
+  "honor; adorn"
  ],
  "strong": "H1921",
  "stems": {
@@ -83,13 +83,13 @@
   "hitpael": "honor oneself; claim honor"
  },
  "notes": [
-  "BDB lists qal in three senses: (1) \"swell\" -- marked with its own \"(?)\", i.e. uncertain -- (2) \"honour, pay honour to\" (3) \"adorn.\" The corpus's three qal attestations exemplify senses 2 (Exod.23.3, Lev.19.32, both \"honor\") and 3 (Isa.63.1, \"adorn\"/\"glorious in apparel\"); none is a citable example of sense 1 \"swell.\" Kept in the gloss since it's BDB's own listed sense, but flagging that it has no distinct supporting citation in this dataset."
+  "BDB lists qal in three senses: (1) \"swell\" -- marked with its own \"(?)\", i.e. uncertain -- (2) \"honour, pay honour to\" (3) \"adorn.\" The corpus's three qal attestations exemplify senses 2 (Exod.23.3, Lev.19.32, both \"honor\") and 3 (Isa.63.1, \"adorn\"/\"glorious in apparel\") only. Requested gloss \"swell (of hills)\" was dropped: it has no citable verse in this dataset, even though it's BDB's own listed sense for the root."
  ],
  "root": "הדר",
  "search_match": [
   "1921",
   "h1921",
-  "swell (of hills); honor; adorn",
+  "honor; adorn",
   "hadar",
   "הדר"
  ],
