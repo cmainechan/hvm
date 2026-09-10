@@ -1,0 +1,73 @@
+{
+ "glosses": [
+  "heap up; gather (grain, dust, silver)"
+ ],
+ "strong": "H6651",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּצְבָּר",
+      "translit": "vattitzbar",
+      "ref": "Zech.9.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּצְבְּרוּ",
+      "translit": "vayyitzbru",
+      "ref": "Exod.8.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּצְבֹּר",
+      "translit": "vayyitzbor",
+      "ref": "Gen.41.49",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וְיִצְבְּרוּ",
+      "translit": "vyitzbru",
+      "ref": "Gen.41.35",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִצְבֹּר",
+      "translit": "yitzbor",
+      "ref": "Job.27.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "צבר",
+ "search_match": [
+  "6651",
+  "h6651",
+  "heap up; gather (grain, dust, silver)",
+  "tzavar",
+  "צבר"
+ ],
+ "citation_translit": "tzavar",
+ "stem_coverage_checked": true
+}

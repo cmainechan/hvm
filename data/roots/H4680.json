@@ -1,0 +1,108 @@
+{
+ "glosses": [
+  "drain out"
+ ],
+ "strong": "H4680",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "מָצִֽית",
+      "translit": "matzit",
+      "ref": "Isa.51.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וּמָצִית",
+      "translit": "umatzit",
+      "ref": "Ezek.23.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּמֶץ",
+      "translit": "vayyimetz",
+      "ref": "Judg.6.38",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִמְצוּ",
+      "translit": "yimtzu",
+      "ref": "Ps.75.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִמְצָה",
+      "translit": "vnimtzah",
+      "ref": "Lev.1.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִמָּצוּ",
+      "translit": "yimmatzu",
+      "ref": "Ps.73.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִמָּצֵה",
+      "translit": "yimmatzeh",
+      "ref": "Lev.5.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be drained out"
+ },
+ "root": "מצה",
+ "search_match": [
+  "4680",
+  "h4680",
+  "drain out",
+  "matzah",
+  "מצה"
+ ],
+ "citation_translit": "matzah",
+ "stem_coverage_checked": true
+}

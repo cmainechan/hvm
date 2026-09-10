@@ -1,0 +1,78 @@
+{
+ "glosses": [
+  "be mad"
+ ],
+ "strong": "H7696",
+ "stems": {
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְשֻׁגָּעִים",
+      "translit": "mshugga'im",
+      "ref": "1Sam.21.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְשֻׁגָּע",
+      "translit": "mshugga",
+      "ref": "Deut.28.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִשְׁתַּגֵּעַ",
+      "translit": "lhishtaggea",
+      "ref": "1Sam.21.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִשְׁתַּגֵּעַ",
+      "translit": "mishtaggea",
+      "ref": "1Sam.21.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hitpael": "play the madman"
+ },
+ "notes": [
+  "No qal or piel attested for this root -- only pual (passive/stative \"be mad\") and hitpael (\"play the madman\"), both drawn from the same narrative (1Sam.21.15-16, David feigning madness before Achish). Pual used as the primary/citation stem per the existing precedent for pual+hitpael-only roots (H5968 עלף, H6026 ענג); no DEFAULT_STEM_OVERRIDE needed since pual already precedes hitpael in STEM_ORDER."
+ ],
+ "root": "שגע",
+ "search_match": [
+  "7696",
+  "h7696",
+  "be mad",
+  "shaga",
+  "שגע"
+ ],
+ "citation_translit": "shaga",
+ "stem_coverage_checked": true
+}

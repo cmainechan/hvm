@@ -1,0 +1,88 @@
+{
+ "glosses": [
+  "burst forth; bring forth"
+ ],
+ "strong": "H1518",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וָגֹחִי",
+      "translit": "vagochi",
+      "ref": "Mic.4.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְּגִיחוֹ",
+      "translit": "bgicho",
+      "ref": "Job.38.8",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָגִיחַ",
+      "translit": "yagicha",
+      "ref": "Job.40.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֵגִיחַ",
+      "translit": "megicha",
+      "ref": "Judg.20.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתָּגַח",
+      "translit": "vattagach",
+      "ref": "Ezek.32.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "break forth"
+ },
+ "root": "גיח",
+ "search_match": [
+  "1518",
+  "h1518",
+  "burst forth; bring forth",
+  "gicha",
+  "גיח"
+ ],
+ "citation_translit": "gicha",
+ "stem_coverage_checked": true
+}

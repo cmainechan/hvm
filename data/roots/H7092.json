@@ -1,0 +1,102 @@
+{
+ "glosses": [
+  "shut"
+ ],
+ "strong": "H7092",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "קָפְצָה",
+      "translit": "qaftzah",
+      "ref": "Job.5.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "קָפַץ",
+      "translit": "qafatz",
+      "ref": "Ps.77.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִקְפֹּץ",
+      "translit": "tiqpotz",
+      "ref": "Deut.15.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִקְפְּצוּ",
+      "translit": "yiqptzu",
+      "ref": "Isa.52.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִקָּפְצוּן",
+      "translit": "yiqqaftzun",
+      "ref": "Job.24.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְקַפֵּץ",
+      "translit": "mqappetz",
+      "ref": "Song.2.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "draw oneself together in death",
+  "piel": "leap; skip"
+ },
+ "root": "קפץ",
+ "search_match": [
+  "7092",
+  "h7092",
+  "shut",
+  "qafatz",
+  "קפץ"
+ ],
+ "citation_translit": "qafatz",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,87 @@
+{
+ "glosses": [
+  "be crushed; crouch"
+ ],
+ "strong": "H1794",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִדְכֶּה",
+      "translit": "yidkeh",
+      "ref": "Ps.10.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְנִדְכֶּה",
+      "translit": "vnidkeh",
+      "ref": "Ps.51.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְנִדְכֵּיתִי",
+      "translit": "vnidketi",
+      "ref": "Ps.38.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "דִּכִּֽיתָ",
+      "translit": "dikkita",
+      "ref": "Ps.51.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be crushed; be contrite",
+  "piel": "crush to pieces"
+ },
+ "notes": [
+  "Qal has a single attestation (Ps.10.10, יִדְכֶּה, of the wicked \"crouching\" like a predator over the helpless); flagging as single-attestation per usual practice."
+ ],
+ "root": "דכה",
+ "search_match": [
+  "1794",
+  "h1794",
+  "be crushed; crouch",
+  "dakhah",
+  "דכה"
+ ],
+ "citation_translit": "dakhah",
+ "stem_coverage_checked": true
+}

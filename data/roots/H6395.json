@@ -1,0 +1,112 @@
+{
+ "glosses": [
+  "set apart; make a distinction"
+ ],
+ "strong": "H6395",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נִפְלֵיתִי",
+      "translit": "nifleti",
+      "ref": "Ps.139.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְנִפְלֵינוּ",
+      "translit": "vniflenu",
+      "ref": "Exod.33.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַפְלֵה",
+      "translit": "hafleh",
+      "ref": "Ps.17.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִפְלָה",
+      "translit": "hiflah",
+      "ref": "Ps.4.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְהִפְלֵיתִי",
+      "translit": "vhifleti",
+      "ref": "Exod.8.18",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהִפְלָה",
+      "translit": "vhiflah",
+      "ref": "Exod.9.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַפְלֶה",
+      "translit": "yafleh",
+      "ref": "Exod.11.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be distinct; be wonderful"
+ },
+ "notes": [
+  "No qal attested for this root; hiphil (the causative \"set apart / make a distinction\" sense, well attested across the plagues narrative in Exodus and in Ps.4.4) is used as the primary/citation stem, with niphal as its natural passive/reflexive counterpart. DEFAULT_STEM_OVERRIDE added (\"פלה\": \"hiphil\") since niphal would otherwise be picked mechanically by STEM_ORDER.",
+  "One hiphil form (Ps.17.7, הַפְלֵה חֲסָדֶיךָ, \"show your steadfast love wondrously\") doesn't fit \"set apart; make a distinction\" -- it parallels niphal's \"be wonderful\" sense instead (i.e. hiphil \"make marvelous/show wondrously\"). Kept under hiphil since it's the same stem/root, but flagging the mismatch: 4 of 5 hiphil forms (the Exodus plague-distinction forms, Ps.4.4) support the stored gloss; Ps.17.7 alone supports a third, unlisted shade."
+ ],
+ "root": "פלה",
+ "search_match": [
+  "6395",
+  "h6395",
+  "set apart; make a distinction",
+  "palah",
+  "פלה"
+ ],
+ "citation_translit": "palah",
+ "stem_coverage_checked": true
+}

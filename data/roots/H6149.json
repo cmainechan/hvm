@@ -1,0 +1,88 @@
+{
+ "glosses": [
+  "be pleasing"
+ ],
+ "strong": "H6149",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "עָרַבְתְּ",
+      "translit": "aravt",
+      "ref": "Ezek.16.37",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "עָרְבוּ",
+      "translit": "arvu",
+      "ref": "Jer.6.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "עָרְבָה",
+      "translit": "arvah",
+      "ref": "Jer.31.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְעָֽרְבָה",
+      "translit": "v'arvah",
+      "ref": "Mal.3.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֶּעֱרַב",
+      "translit": "te'erav",
+      "ref": "Prov.13.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶעֱרַב",
+      "translit": "ye'erav",
+      "ref": "Ps.104.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym check: three Hebrew verb entries share the consonants ע-ר-ב -- H6148 (\"to braid/intermix; traffic; give security/pledge\"), H6149 (\"to be agreeable\", i.e. this root), and H6150 (\"to grow dusky at sundown\"). The requested gloss \"be pleasing\" matches H6149 precisely and is confirmed by all six attested qal forms; no cross-contamination with H6148 or H6150 found in the corpus tagging.",
+  "H6148 already exists in the dataset under the same bare root spelling ערב (a distinct, unrelated root -- \"pledge/mingle\" vs. this root's \"be pleasing\"). Relabeled per the standard homonym convention: this root (the higher Strong's number) is ערב², and H6148.json's root field was retroactively relabeled to ערב¹."
+ ],
+ "root": "ערב²",
+ "search_match": [
+  "6149",
+  "h6149",
+  "be pleasing",
+  "arev",
+  "ערב²"
+ ],
+ "citation_translit": "arev",
+ "stem_coverage_checked": true
+}

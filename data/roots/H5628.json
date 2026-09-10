@@ -1,0 +1,90 @@
+{
+ "glosses": [
+  "overhang; go free; sprawl"
+ ],
+ "strong": "H5628",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "סֹרַחַת",
+      "translit": "sorachat",
+      "ref": "Ezek.17.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "סְרוּחִֽים",
+      "translit": "sruchim",
+      "ref": "Amos.6.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "סָרוּחַ",
+      "translit": "sarucha",
+      "ref": "Exod.26.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּסְרַח",
+      "translit": "tisrach",
+      "ref": "Exod.26.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נִסְרְחָה",
+      "translit": "nisrchah",
+      "ref": "Jer.49.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be let loose; be dismissed"
+ },
+ "notes": [
+  "BDB lists qal in three senses: (1) \"go free, be unrestrained\" (2) of overhanging stuffs, i.e. overrunning/exceeding/extended beyond limits. The corpus's own qal attestations (Ezek.17.6 \"spreading\" vine branches, Exod.26.12-13 the tabernacle curtain that \"overhangs,\" Amos.6.4/6.7 those \"sprawled\" on their couches) all illustrate sense (2) -- none is independently a citable example of sense (1) \"go free\" on its own. \"go free\" is kept in the gloss because it is BDB's own primary listed sense for this root, but flagging that no distinct verse in this dataset exemplifies it apart from the overhang/sprawl sense.",
+  "Niphal has a single, textually contested attestation (Jer.49.7, נִסְרְחָה, of Edom's wisdom). BDB itself glosses it with a question mark: \"is their wisdom let loose (i.e. dismissed, gone)?; but is corrupt\" -- offering two competing readings. The gloss \"be let loose; be dismissed\" quotes BDB's primary offered reading verbatim; flagging as single-attestation/contested per usual practice."
+ ],
+ "root": "סרח",
+ "search_match": [
+  "5628",
+  "h5628",
+  "overhang; go free; sprawl",
+  "sarach",
+  "סרח"
+ ],
+ "citation_translit": "sarach",
+ "stem_coverage_checked": true
+}

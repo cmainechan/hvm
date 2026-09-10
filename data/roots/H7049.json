@@ -1,0 +1,80 @@
+{
+ "glosses": [
+  "sling (a stone)"
+ ],
+ "strong": "H7049",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "קוֹלֵעַ",
+      "translit": "qolea",
+      "ref": "Jer.10.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "קָלַע",
+      "translit": "qala",
+      "ref": "1Kgs.6.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְקַלַּע",
+      "translit": "vayqalla",
+      "ref": "1Sam.17.49",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְקַלְּעֶנָּה",
+      "translit": "yqall'ennah",
+      "ref": "1Sam.25.29",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "sling"
+ },
+ "notes": [
+  "Qal has a second, unrequested sense: the three qal perfect forms (1Kgs.6.29, 6.32, 6.35 -- וקלע) all come from the description of Solomon's temple and mean \"carve\" (of engraved cherubim/palm-tree/flower reliefs on the walls and doors), not \"sling.\" Strong's own entry for H7049 lists both senses (\"to sling; also to carve, as if a circular motion, or into light forms\") as one root. Only the qal participle forms (Judg.20.16, the famous \"sling a stone at a hair and not miss\"; Jer.10.18) support the requested \"sling (a stone)\" gloss and citation. Kept both under qal per the same stem, since they're the same Strong's number/root, but flagging the split so it's visible rather than silently mislabeling the temple-carving forms as \"sling.\""
+ ],
+ "root": "קלע",
+ "search_match": [
+  "7049",
+  "h7049",
+  "sling (a stone)",
+  "qala",
+  "קלע"
+ ],
+ "citation_translit": "qala",
+ "stem_coverage_checked": true
+}

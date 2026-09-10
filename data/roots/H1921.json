@@ -1,0 +1,98 @@
+{
+ "glosses": [
+  "swell (of hills); honor; adorn"
+ ],
+ "strong": "H1921",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הָדוּר",
+      "translit": "hadur",
+      "ref": "Isa.63.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהָדַרְתָּ",
+      "translit": "vhadarta",
+      "ref": "Lev.19.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֶהְדַּר",
+      "translit": "tehdar",
+      "ref": "Exod.23.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נֶהְדָּֽרוּ",
+      "translit": "nehdaru",
+      "ref": "Lam.5.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּתְהַדַּר",
+      "translit": "tithaddar",
+      "ref": "Prov.25.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be honored",
+  "hitpael": "honor oneself; claim honor"
+ },
+ "notes": [
+  "BDB lists qal in three senses: (1) \"swell\" -- marked with its own \"(?)\", i.e. uncertain -- (2) \"honour, pay honour to\" (3) \"adorn.\" The corpus's three qal attestations exemplify senses 2 (Exod.23.3, Lev.19.32, both \"honor\") and 3 (Isa.63.1, \"adorn\"/\"glorious in apparel\"); none is a citable example of sense 1 \"swell.\" Kept in the gloss since it's BDB's own listed sense, but flagging that it has no distinct supporting citation in this dataset."
+ ],
+ "root": "הדר",
+ "search_match": [
+  "1921",
+  "h1921",
+  "swell (of hills); honor; adorn",
+  "hadar",
+  "הדר"
+ ],
+ "citation_translit": "hadar",
+ "stem_coverage_checked": true
+}

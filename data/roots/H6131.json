@@ -1,0 +1,104 @@
+{
+ "glosses": [
+  "pluck up"
+ ],
+ "strong": "H6131",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַעֲקוֹר",
+      "translit": "la'aqor",
+      "ref": "Eccl.3.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֵּעָקֵֽר",
+      "translit": "te'aqer",
+      "ref": "Zeph.2.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "עִקְּרוּ",
+      "translit": "iqqru",
+      "ref": "Gen.49.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "עִקֵּר",
+      "translit": "iqqer",
+      "ref": "Josh.11.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְעַקֵּר",
+      "translit": "vay'aqqer",
+      "ref": "1Chr.18.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּעַקֵּר",
+      "translit": "t'aqqer",
+      "ref": "Josh.11.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be plucked up",
+  "piel": "hamstring (horses/oxen)"
+ },
+ "root": "עקר",
+ "search_match": [
+  "6131",
+  "h6131",
+  "pluck up",
+  "aqar",
+  "עקר"
+ ],
+ "citation_translit": "aqar",
+ "stem_coverage_checked": true
+}

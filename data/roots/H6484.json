@@ -1,0 +1,67 @@
+{
+ "glosses": [
+  "push; urge"
+ ],
+ "strong": "H6484",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּפְצְרוּ",
+      "translit": "vayyiftzru",
+      "ref": "2Kgs.2.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּפְצַר",
+      "translit": "vayyiftzar",
+      "ref": "2Kgs.5.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַפְצַר",
+      "translit": "haftzar",
+      "ref": "1Sam.15.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "display insolence/stubbornness"
+ },
+ "notes": [
+  "Hiphil has a single attestation (1Sam.15.23, an infinitive absolute used substantivally: \"stubbornness/insolence is as iniquity and idolatry\"); flagging as single-attestation per usual practice."
+ ],
+ "root": "פצר",
+ "search_match": [
+  "6484",
+  "h6484",
+  "push; urge",
+  "patzar",
+  "פצר"
+ ],
+ "citation_translit": "patzar",
+ "stem_coverage_checked": true
+}

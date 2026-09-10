@@ -1,0 +1,70 @@
+{
+ "glosses": [
+  "fall; be; come to pass"
+ ],
+ "strong": "H1933",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הֱוִי",
+      "translit": "hevi",
+      "ref": "Isa.16.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הֱוֵה",
+      "translit": "heveh",
+      "ref": "Gen.27.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הֹוֶה",
+      "translit": "hoveh",
+      "ref": "Eccl.2.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְהֽוּא",
+      "translit": "yhu",
+      "ref": "Eccl.11.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Strong's cross-references this root to H1961 (הָיָה, \"to be/become/come to pass\") -- \"compare H1961\" -- but the two have different consonants (ה-ו-א/ה-ו-ה vs ה-י-ה) and are not a suppletion pair; noting the cross-reference for visibility, not modeling it as strong_alt.",
+  "\"fall\" rests on a single form, Job.37.6 (הֱוֵא אָרֶץ, \"He says to the snow, 'Fall on the earth'\"), a well-attested but debated translation of this hollow root applied to snow; flagging as the one form supporting that sense specifically (the other three qal forms all mean \"be/become/come to pass\")."
+ ],
+ "root": "הוה",
+ "search_match": [
+  "1933",
+  "h1933",
+  "fall; be; come to pass",
+  "havah",
+  "הוה"
+ ],
+ "citation_translit": "havah",
+ "stem_coverage_checked": true
+}

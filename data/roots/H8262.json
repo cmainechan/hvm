@@ -1,0 +1,77 @@
+{
+ "glosses": [
+  "detest; make detestable"
+ ],
+ "strong": "H8262",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "שַׁקֵּץ",
+      "translit": "shaqqetz",
+      "ref": "Deut.7.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּשַׁקְּצוּ",
+      "translit": "tshaqqtzu",
+      "ref": "Lev.11.43",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שִׁקַּץ",
+      "translit": "shiqqatz",
+      "ref": "Ps.22.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּשַׁקֵּֽצוּ",
+      "translit": "tshaqqetzu",
+      "ref": "Lev.11.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּשַׁקְּצֶנּוּ",
+      "translit": "tshaqqtzennu",
+      "ref": "Deut.7.26",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "שקץ",
+ "search_match": [
+  "8262",
+  "h8262",
+  "detest; make detestable",
+  "shaqatz",
+  "שקץ"
+ ],
+ "citation_translit": "shaqatz",
+ "stem_coverage_checked": true
+}

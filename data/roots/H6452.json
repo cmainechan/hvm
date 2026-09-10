@@ -1,0 +1,115 @@
+{
+ "glosses": [
+  "spare; limp"
+ ],
+ "strong": "H6452",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "פָּסֹחַ",
+      "translit": "pasocha",
+      "ref": "Isa.31.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "פֹּסְחִים",
+      "translit": "poschim",
+      "ref": "1Kgs.18.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "פָּסַח",
+      "translit": "pasach",
+      "ref": "Exod.12.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וּפָסַחְתִּי",
+      "translit": "ufasachti",
+      "ref": "Exod.12.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּפָסַח",
+      "translit": "ufasach",
+      "ref": "Exod.12.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּפָּסֵחַ",
+      "translit": "vayyippasecha",
+      "ref": "2Sam.4.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיְפַסְּחוּ",
+      "translit": "vayfasschu",
+      "ref": "1Kgs.18.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be lame",
+  "piel": "limp"
+ },
+ "root": "פסח",
+ "search_match": [
+  "6452",
+  "h6452",
+  "spare; limp",
+  "pasach",
+  "פסח"
+ ],
+ "citation_translit": "pasach",
+ "stem_coverage_checked": true
+}

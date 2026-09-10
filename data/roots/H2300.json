@@ -1,0 +1,73 @@
+{
+ "glosses": [
+  "be sharp"
+ ],
+ "strong": "H2300",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְחַדּוּ",
+      "translit": "vchaddu",
+      "ref": "Hab.1.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָחַד",
+      "translit": "yachad",
+      "ref": "Prov.27.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "הוּחַדָּה",
+      "translit": "huchaddah",
+      "ref": "Ezek.21.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "sharpen",
+  "hophal": "be sharpened"
+ },
+ "root": "חדד",
+ "search_match": [
+  "2300",
+  "h2300",
+  "be sharp",
+  "chadad",
+  "חדד"
+ ],
+ "citation_translit": "chadad",
+ "stem_coverage_checked": true
+}

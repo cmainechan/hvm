@@ -1,0 +1,104 @@
+{
+ "glosses": [
+  "surround"
+ ],
+ "strong": "H5849",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "עֹֽטְרִים",
+      "translit": "otrim",
+      "ref": "1Sam.23.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּעְטְרֶֽנּוּ",
+      "translit": "tatrennu",
+      "ref": "Ps.5.13",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "עִטַּרְתָּ",
+      "translit": "ittarta",
+      "ref": "Ps.65.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "שֶׁעִטְּרָה",
+      "translit": "she'ittrah",
+      "ref": "Song.3.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּעַטְּרֵֽהוּ",
+      "translit": "t'attrehu",
+      "ref": "Ps.8.6",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "הַמַּֽעֲטִירָה",
+      "translit": "hamma'atirah",
+      "ref": "Isa.23.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "crown",
+  "hiphil": "bestow a crown"
+ },
+ "root": "עטר",
+ "search_match": [
+  "5849",
+  "h5849",
+  "surround",
+  "atar",
+  "עטר"
+ ],
+ "citation_translit": "atar",
+ "stem_coverage_checked": true
+}
