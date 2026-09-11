@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "drink heavily; be a drunkard"
+ ],
+ "strong": "H5433",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְנִסְבְּאָה",
+      "translit": "vnisb'ah",
+      "ref": "Isa.56.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "סֹבֵא",
+      "translit": "sove",
+      "ref": "Prov.23.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "סְבוּאִים",
+      "translit": "svu'im",
+      "ref": "Nah.1.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "סבא",
+ "search_match": [
+  "5433",
+  "h5433",
+  "drink heavily; be a drunkard",
+  "sava",
+  "סבא"
+ ],
+ "citation_translit": "sava",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,78 @@
+{
+ "glosses": [
+  "withdraw; hide"
+ ],
+ "strong": "H2247",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "חֲבִי",
+      "translit": "chavi",
+      "ref": "Isa.26.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהֵחָבֵֽה",
+      "translit": "lhechaveh",
+      "ref": "1Kgs.22.25",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְנַחְבֵּתֶם",
+      "translit": "vnachbetem",
+      "ref": "Josh.2.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנֶחְבָּה",
+      "translit": "vnechbah",
+      "ref": "Jer.49.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "withdraw; hide oneself"
+ },
+ "notes": [
+  "Qal has a single attestation (Isa.26.20, חֲבִי, \"hide yourself for a little while\"); flagging as single-attestation per usual practice."
+ ],
+ "root": "חבה",
+ "search_match": [
+  "2247",
+  "h2247",
+  "withdraw; hide",
+  "chavah",
+  "חבה"
+ ],
+ "citation_translit": "chavah",
+ "stem_coverage_checked": true
+}

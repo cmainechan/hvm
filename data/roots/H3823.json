@@ -1,0 +1,81 @@
+{
+ "glosses": [
+  "encourage the heart; make cakes"
+ ],
+ "strong": "H3823",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִלָּבֵב",
+      "translit": "yillavev",
+      "ref": "Job.11.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "לִבַּבְתִּנִי",
+      "translit": "libbavtini",
+      "ref": "Song.4.9",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתְּלַבֵּב",
+      "translit": "vattlabbev",
+      "ref": "2Sam.13.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וּתְלַבֵּב",
+      "translit": "utlabbev",
+      "ref": "2Sam.13.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "get understanding"
+ },
+ "notes": [
+  "No qal attested for this root; piel is used as the primary/citation stem (matching the established precedent for niphal+piel-only roots elsewhere in this dataset, e.g. H2976 יאש, H5254 נסה). DEFAULT_STEM_OVERRIDE added (\"לבב\": \"piel\") since niphal would otherwise be picked mechanically by STEM_ORDER.",
+  "Piel spans two clearly distinct, well-attested senses: \"encourage the heart\" (Song.4.9, of romantic captivation) and the denominative \"make [heart-shaped] cakes\" (2Sam.13.6, 13.8, Tamar's ruse) -- both kept in the combined gloss per the request."
+ ],
+ "root": "לבב",
+ "search_match": [
+  "3823",
+  "h3823",
+  "encourage the heart; make cakes",
+  "lavav",
+  "לבב"
+ ],
+ "citation_translit": "lavav",
+ "stem_coverage_checked": true
+}

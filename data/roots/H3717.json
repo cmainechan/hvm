@@ -1,0 +1,69 @@
+{
+ "glosses": [
+  "double"
+ ],
+ "strong": "H3717",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "כָּפוּל",
+      "translit": "kaful",
+      "ref": "Exod.28.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְכָפַלְתָּ",
+      "translit": "vkhafalta",
+      "ref": "Exod.26.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "jussive": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְתִכָּפֵל",
+      "translit": "vtikkafel",
+      "ref": "Ezek.21.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be doubled"
+ },
+ "notes": [
+  "Requested niphal (\"be doubled, check if attested\") is confirmed attested: Ezek.21.19 (21:14), וְתִכָּפֵל, \"let the sword be doubled a third time.\""
+ ],
+ "root": "כפל",
+ "search_match": [
+  "3717",
+  "h3717",
+  "double",
+  "kafal",
+  "כפל"
+ ],
+ "citation_translit": "kafal",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,105 @@
+{
+ "glosses": [
+  "salt; season"
+ ],
+ "strong": "H4414",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּמְלָח",
+      "translit": "timlach",
+      "ref": "Lev.2.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִמְלָחוּ",
+      "translit": "nimlachu",
+      "ref": "Isa.51.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְמֻלָּח",
+      "translit": "mmullach",
+      "ref": "Exod.30.35",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְהָמְלֵחַ",
+      "translit": "vhamlecha",
+      "ref": "Ezek.16.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הֻמְלַחַתְּ",
+      "translit": "humlachatt",
+      "ref": "Ezek.16.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be dispersed",
+  "pual": "be salted",
+  "hophal": "be rubbed/washed with salt"
+ },
+ "notes": [
+  "Qal has a single attestation (Lev.2.13, תִּמְלָח, \"you shall season every grain offering with salt\"); flagging as single-attestation per usual practice."
+ ],
+ "root": "מלח",
+ "search_match": [
+  "4414",
+  "h4414",
+  "salt; season",
+  "malach",
+  "מלח"
+ ],
+ "citation_translit": "malach",
+ "stem_coverage_checked": true
+}

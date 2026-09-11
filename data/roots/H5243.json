@@ -1,0 +1,79 @@
+{
+ "glosses": [
+  "wither; fade; be cut down"
+ ],
+ "strong": "H5243",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּמָּל",
+      "translit": "vayyimmal",
+      "ref": "Job.14.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִמָּֽלוּ",
+      "translit": "yimmalu",
+      "ref": "Job.24.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִמַּל",
+      "translit": "yimmal",
+      "ref": "Job.18.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּנְמַלְתֶּם",
+      "translit": "unmaltem",
+      "ref": "Gen.17.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be circumcised"
+ },
+ "notes": [
+  "Strong's own definition unifies this root's range as \"to become clipped or (specifically) circumcised\" -- qal \"wither/fade/be cut down\" (Job.14.2, 18.16, 24.24, Ps.37.2, of a flower/the wicked being cut off) and niphal \"be circumcised\" (Gen.17.11, the one form tagged under this exact number, 'c/5243 b') are both natively attested under H5243 itself, not borrowed from elsewhere.",
+  "Requested poel (\"wither\") and hithpoel (\"be cut off\") are NOT attested under H5243 -- the person's own \"check if covered by H4135\" instinct was right, but not quite in the way suggested: H4135 (מול, \"circumcise\") is a separate, unrelated-in-lemma root (not a suppletion partner needing strong_alt) that happens to independently carry both of these exact senses under its own numbers -- poel \"wither\" (Ps.90.6) and hitpael \"be cut off\" (Ps.58.8). Dropped from H5243 per \"no uncited glosses\"; cross-referenced here for visibility rather than modeled as strong_alt, since H5243 has its own complete-enough native paradigm and doesn't need forms supplied from H4135."
+ ],
+ "root": "נמל",
+ "search_match": [
+  "5243",
+  "h5243",
+  "wither; fade; be cut down",
+  "namal",
+  "נמל"
+ ],
+ "citation_translit": "namal",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,77 @@
+{
+ "glosses": [
+  "become empty; act foolishly"
+ ],
+ "strong": "H1891",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תֶּהְבָּלוּ",
+      "translit": "tehbalu",
+      "ref": "Ps.62.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיֶּהְבָּלוּ",
+      "translit": "vayyehbalu",
+      "ref": "2Kgs.17.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תֶּהְבָּֽלוּ",
+      "translit": "tehbalu",
+      "ref": "Job.27.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַהְבִּלִים",
+      "translit": "mahbilim",
+      "ref": "Jer.23.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "make vain; fill with vain hopes"
+ },
+ "root": "הבל",
+ "search_match": [
+  "1891",
+  "h1891",
+  "become empty; act foolishly",
+  "haval",
+  "הבל"
+ ],
+ "citation_translit": "haval",
+ "stem_coverage_checked": true
+}

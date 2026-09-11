@@ -1,0 +1,75 @@
+{
+ "glosses": [
+  "leap"
+ ],
+ "strong": "H1801",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַדּוֹלֵג",
+      "translit": "haddoleg",
+      "ref": "Zeph.1.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְדַלֵּג",
+      "translit": "mdalleg",
+      "ref": "Song.2.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲדַלֶּג",
+      "translit": "adalleg",
+      "ref": "2Sam.22.30",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְדַלֵּג",
+      "translit": "ydalleg",
+      "ref": "Isa.35.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "leap over"
+ },
+ "root": "דלג",
+ "search_match": [
+  "1801",
+  "h1801",
+  "leap",
+  "dalag",
+  "דלג"
+ ],
+ "citation_translit": "dalag",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,44 @@
+{
+ "glosses": [
+  "fear"
+ ],
+ "strong": "H3025",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "יָגֹרְתִּי",
+      "translit": "yagorti",
+      "ref": "Deut.9.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "יָגֹרְתָּ",
+      "translit": "yagorta",
+      "ref": "Deut.28.60",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "יגר",
+ "search_match": [
+  "3025",
+  "h3025",
+  "fear",
+  "yagor",
+  "יגר"
+ ],
+ "citation_translit": "yagor",
+ "stem_coverage_checked": true
+}

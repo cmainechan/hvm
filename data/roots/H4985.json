@@ -1,0 +1,86 @@
+{
+ "glosses": [
+  "be/become sweet or pleasant"
+ ],
+ "strong": "H4985",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "מָֽתְקוּ",
+      "translit": "matqu",
+      "ref": "Job.21.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּמְתְּקוּ",
+      "translit": "vayyimtqu",
+      "ref": "Exod.15.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִמְתָּקוּ",
+      "translit": "yimtaqu",
+      "ref": "Prov.9.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נַמְתִּיק",
+      "translit": "namtiq",
+      "ref": "Ps.55.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תַּמְתִּיק",
+      "translit": "tamtiq",
+      "ref": "Job.20.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "make sweet/pleasant"
+ },
+ "root": "מתק",
+ "search_match": [
+  "4985",
+  "h4985",
+  "be/become sweet or pleasant",
+  "mataq",
+  "מתק"
+ ],
+ "citation_translit": "mataq",
+ "stem_coverage_checked": true
+}

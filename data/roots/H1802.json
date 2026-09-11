@@ -1,0 +1,88 @@
+{
+ "glosses": [
+  "draw water; draw out"
+ ],
+ "strong": "H1802",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "דָּלֹה",
+      "translit": "daloh",
+      "ref": "Exod.2.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "דָלָה",
+      "translit": "dalah",
+      "ref": "Exod.2.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "וַתִּדְלֶנָה",
+      "translit": "vattidlenah",
+      "ref": "Exod.2.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִדְלֶֽנָּה",
+      "translit": "yidlennah",
+      "ref": "Prov.20.5",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "דִלִּיתָנִי",
+      "translit": "dillitani",
+      "ref": "Ps.30.2",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "draw up"
+ },
+ "root": "דלה",
+ "search_match": [
+  "1802",
+  "h1802",
+  "draw water; draw out",
+  "dalah",
+  "דלה"
+ ],
+ "citation_translit": "dalah",
+ "stem_coverage_checked": true
+}

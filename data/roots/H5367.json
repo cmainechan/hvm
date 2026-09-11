@@ -1,0 +1,105 @@
+{
+ "glosses": [
+  "strike; bring down"
+ ],
+ "strong": "H5367",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נוֹקֵשׁ",
+      "translit": "noqesh",
+      "ref": "Ps.9.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּנָּקֵשׁ",
+      "translit": "tinnaqesh",
+      "ref": "Deut.12.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיְנַקְשׁוּ",
+      "translit": "vaynaqshu",
+      "ref": "Ps.38.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְנַקֵּשׁ",
+      "translit": "ynaqqesh",
+      "ref": "Ps.109.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִתְנַקֵּשׁ",
+      "translit": "mitnaqqesh",
+      "ref": "1Sam.28.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be impelled",
+  "piel": "strike at",
+  "hitpael": "strike at"
+ },
+ "notes": [
+  "Qal has a single attestation (Ps.9.17, נוֹקֵשׁ, \"he striketh down the wicked\" per BDB's own gloss of this exact verse); flagging as single-attestation per usual practice."
+ ],
+ "root": "נקש",
+ "search_match": [
+  "5367",
+  "h5367",
+  "strike; bring down",
+  "naqash",
+  "נקש"
+ ],
+ "citation_translit": "naqash",
+ "stem_coverage_checked": true
+}

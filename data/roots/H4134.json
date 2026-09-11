@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "become poor; be impoverished"
+ ],
+ "strong": "H4134",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מָךְ",
+      "translit": "makh",
+      "ref": "Lev.27.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּמָךְ",
+      "translit": "umakh",
+      "ref": "Lev.25.47",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָמוּךְ",
+      "translit": "yamukh",
+      "ref": "Lev.25.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "מוך",
+ "search_match": [
+  "4134",
+  "h4134",
+  "become poor; be impoverished",
+  "mukh",
+  "מוך"
+ ],
+ "citation_translit": "mukh",
+ "stem_coverage_checked": true
+}

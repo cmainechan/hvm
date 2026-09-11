@@ -1,0 +1,66 @@
+{
+ "glosses": [
+  "growl; roar; groan"
+ ],
+ "strong": "H5098",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֹהֵם",
+      "translit": "nohem",
+      "ref": "Prov.28.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּנְהַמְתֶּם",
+      "translit": "unhamtem",
+      "ref": "Ezek.24.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְנָהַמְתָּ",
+      "translit": "vnahamta",
+      "ref": "Prov.5.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיִנְהֹם",
+      "translit": "vyinhom",
+      "ref": "Isa.5.29",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "נהם",
+ "search_match": [
+  "5098",
+  "h5098",
+  "growl; roar; groan",
+  "naham",
+  "נהם"
+ ],
+ "citation_translit": "naham",
+ "stem_coverage_checked": true
+}

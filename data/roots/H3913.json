@@ -1,0 +1,66 @@
+{
+ "glosses": [
+  "hammer; sharpen; whet"
+ ],
+ "strong": "H3913",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִלְטוֹשׁ",
+      "translit": "liltosh",
+      "ref": "1Sam.13.20",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִלְטוֹשׁ",
+      "translit": "yiltosh",
+      "ref": "Job.16.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְלֻטָּשׁ",
+      "translit": "mluttash",
+      "ref": "Ps.52.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be sharpened"
+ },
+ "root": "לטש",
+ "search_match": [
+  "3913",
+  "h3913",
+  "hammer; sharpen; whet",
+  "latash",
+  "לטש"
+ ],
+ "citation_translit": "latash",
+ "stem_coverage_checked": true
+}

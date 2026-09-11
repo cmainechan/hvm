@@ -1,0 +1,79 @@
+{
+ "glosses": [
+  "gnash the teeth"
+ ],
+ "strong": "H2786",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "חָרֹק",
+      "translit": "charoq",
+      "ref": "Ps.35.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְחֹרֵק",
+      "translit": "vchoreq",
+      "ref": "Ps.37.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חָרַק",
+      "translit": "charaq",
+      "ref": "Job.16.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּֽחַרְקוּ",
+      "translit": "vayyacharqu",
+      "ref": "Lam.2.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחֲרֹק",
+      "translit": "yacharoq",
+      "ref": "Ps.112.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "חרק",
+ "search_match": [
+  "2786",
+  "h2786",
+  "gnash the teeth",
+  "charaq",
+  "חרק"
+ ],
+ "citation_translit": "charaq",
+ "stem_coverage_checked": true
+}
