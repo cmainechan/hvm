@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "pose a riddle"
+ ],
+ "strong": "H2330",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חוּד",
+      "translit": "chud",
+      "ref": "Ezek.17.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָחֽוּדָה",
+      "translit": "achudah",
+      "ref": "Judg.14.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "חַדְתָּ",
+      "translit": "chadta",
+      "ref": "Judg.14.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "חוד",
+ "search_match": [
+  "2330",
+  "h2330",
+  "pose a riddle",
+  "chud",
+  "חוד"
+ ],
+ "citation_translit": "chud",
+ "stem_coverage_checked": true
+}

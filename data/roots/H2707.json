@@ -1,0 +1,59 @@
+{
+ "glosses": [
+  "engrave; mark a line; set a limit"
+ ],
+ "strong": "H2707",
+ "stems": {
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְחֻקֶּה",
+      "translit": "mchuqqeh",
+      "ref": "Ezek.23.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּתְחַקֶּֽה",
+      "translit": "titchaqqeh",
+      "ref": "Job.13.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be carved"
+ },
+ "notes": [
+  "No qal is attested for this root; hitpael (\"engrave/mark a line; set a limit\") is treated as the primary/citation sense rather than pual (\"be carved\"), which is passive -- DEFAULT_STEM_OVERRIDE set to hitpael in both UI templates."
+ ],
+ "root": "חקה",
+ "search_match": [
+  "2707",
+  "h2707",
+  "engrave; mark a line; set a limit",
+  "be carved",
+  "chaqah",
+  "חקה"
+ ],
+ "citation_translit": "chaqah",
+ "stem_coverage_checked": true
+}

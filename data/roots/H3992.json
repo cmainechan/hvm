@@ -1,0 +1,44 @@
+{
+ "glosses": [
+  "prick; cause pain; be malignant"
+ ],
+ "strong": "H3992",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַמְאִיר",
+      "translit": "mam'ir",
+      "ref": "Ezek.28.24",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מַמְאֶרֶת",
+      "translit": "mam'eret",
+      "ref": "Lev.13.51",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "מאר",
+ "search_match": [
+  "3992",
+  "h3992",
+  "prick; cause pain; be malignant",
+  "ma'ar",
+  "מאר"
+ ],
+ "citation_translit": "ma'ar",
+ "stem_coverage_checked": true
+}

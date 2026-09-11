@@ -1,0 +1,77 @@
+{
+ "glosses": [
+  "lift; bear; lay upon"
+ ],
+ "strong": "H5190",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נוֹטֵל",
+      "translit": "notel",
+      "ref": "2Sam.24.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִטּֽוֹל",
+      "translit": "yittol",
+      "ref": "Isa.40.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נָטַל",
+      "translit": "natal",
+      "ref": "Lam.3.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַֽיְנַטְּלֵם",
+      "translit": "vaynattlem",
+      "ref": "Isa.63.9",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "bear; carry"
+ },
+ "root": "נטל",
+ "search_match": [
+  "5190",
+  "h5190",
+  "lift; bear; lay upon",
+  "natal",
+  "נטל"
+ ],
+ "citation_translit": "natal",
+ "stem_coverage_checked": true
+}

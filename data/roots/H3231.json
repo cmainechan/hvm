@@ -1,0 +1,68 @@
+{
+ "glosses": [
+  "turn to the right; use the right hand"
+ ],
+ "strong": "H3231",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַיְמִינִים",
+      "translit": "mayminim",
+      "ref": "1Chr.12.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהֵמִין",
+      "translit": "lhemin",
+      "ref": "2Sam.14.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הֵימִנִי",
+      "translit": "hemini",
+      "ref": "Ezek.21.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאֵימִנָה",
+      "translit": "v'eminah",
+      "ref": "Gen.13.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "ימן",
+ "search_match": [
+  "3231",
+  "h3231",
+  "turn to the right; use the right hand",
+  "yaman",
+  "ימן"
+ ],
+ "citation_translit": "yaman",
+ "stem_coverage_checked": true
+}

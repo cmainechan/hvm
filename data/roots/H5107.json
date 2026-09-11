@@ -1,0 +1,67 @@
+{
+ "glosses": [
+  "bear fruit; flourish"
+ ],
+ "strong": "H5107",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָנוּב",
+      "translit": "yanuv",
+      "ref": "Prov.10.31",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְנוּבוּן",
+      "translit": "ynuvun",
+      "ref": "Ps.92.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "polel": {
+   "sense_hint": "intensive (causative)",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְנוֹבֵב",
+      "translit": "ynovev",
+      "ref": "Zech.9.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "polel": "cause to flourish"
+ },
+ "notes": [
+  "The requested \"poel\" causative sense is attested as polel (stem letter 'o'), not poel (stem letter 'm') -- stored as polel to match the corpus's own morphological tag, same naming nuance as שאן/palel in a previous batch."
+ ],
+ "root": "נוב",
+ "search_match": [
+  "5107",
+  "h5107",
+  "bear fruit; flourish (nuv)",
+  "nuv",
+  "נוב"
+ ],
+ "citation_translit": "nuv",
+ "stem_coverage_checked": true
+}

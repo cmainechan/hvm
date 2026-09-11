@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "tremble"
+ ],
+ "strong": "H3415",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "יָרְעָה",
+      "translit": "yar'ah",
+      "ref": "Isa.15.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Strong's own usage note on H3415 states \"only Isaiah 15:4; the rest belong to 7489\" (i.e. רעע, \"be evil/grievous\"). The corpus's own lemma tags do mark 4 forms as H3415 (Isa.15.4, 1Sam.1.8, 2Sam.20.6, Job.20.26), but the 3 yiqtol forms are surface-identical to רעע's common Qal yiqtol and their verse senses (\"why is thy heart grieved\", \"lest he do us harm\", \"it shall be ill with him\") read as רעע, not \"tremble\" -- confirmed with the person and excluded, keeping only the unambiguous Qal perfect Isa.15.4 (יָרְעָה).",
+  "Single-attestation root after the exclusion above -- only one citable form (Isa.15.4) supports \"tremble\"."
+ ],
+ "root": "ירע",
+ "search_match": [
+  "3415",
+  "h3415",
+  "tremble (yara)",
+  "yara",
+  "ירע"
+ ],
+ "citation_translit": "yara",
+ "stem_coverage_checked": true
+}

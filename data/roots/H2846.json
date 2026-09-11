@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "snatch up; take up fire/coals"
+ ],
+ "strong": "H2846",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַחְתּוֹת",
+      "translit": "lachtot",
+      "ref": "Isa.30.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֲיַחְתֶּה",
+      "translit": "hayachteh",
+      "ref": "Prov.6.27",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חֹתֶה",
+      "translit": "choteh",
+      "ref": "Prov.25.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "חתה",
+ "search_match": [
+  "2846",
+  "h2846",
+  "snatch up; take up fire/coals",
+  "chatah",
+  "חתה"
+ ],
+ "citation_translit": "chatah",
+ "stem_coverage_checked": true
+}

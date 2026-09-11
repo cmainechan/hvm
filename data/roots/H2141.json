@@ -1,0 +1,58 @@
+{
+ "glosses": [
+  "be bright; be pure"
+ ],
+ "strong": "H2141",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וַהֲזִכּוֹתִי",
+      "translit": "vahazikkoti",
+      "ref": "Job.9.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "זַכּוּ",
+      "translit": "zakku",
+      "ref": "Job.15.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "make clean; cleanse"
+ },
+ "notes": [
+  "Hiphil (\"and make my hands never so clean\", Job.9.30) is attested but wasn't part of the original request -- added per the full-stem-coverage check; qal (\"be bright/pure\") is the only requested stem."
+ ],
+ "root": "זכך",
+ "search_match": [
+  "2141",
+  "h2141",
+  "be bright; be pure",
+  "zakhakh",
+  "זכך"
+ ],
+ "citation_translit": "zakhakh",
+ "stem_coverage_checked": true
+}

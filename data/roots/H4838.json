@@ -1,0 +1,69 @@
+{
+ "glosses": [
+  "scour; polish"
+ ],
+ "strong": "H4838",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מָרֽוּק",
+      "translit": "maruq",
+      "ref": "2Chr.4.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "מִרְקוּ",
+      "translit": "mirqu",
+      "ref": "Jer.46.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּמֹרַק",
+      "translit": "umoraq",
+      "ref": "Lev.6.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be scoured; be polished"
+ },
+ "notes": [
+  "Hiphil (\"scour away\") was requested but has no attested form anywhere in the corpus under H4838 -- excluded per the no-uncited-glosses rule; only qal and pual (scour/polish; be scoured/polished) are attested."
+ ],
+ "root": "מרק",
+ "search_match": [
+  "4838",
+  "h4838",
+  "scour; polish (maraq)",
+  "maraq",
+  "מרק"
+ ],
+ "citation_translit": "maraq",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,66 @@
+{
+ "glosses": [
+  "cause to dissolve; consume; intimidate"
+ ],
+ "strong": "H4529",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִמְסִיו",
+      "translit": "himsi",
+      "ref": "Josh.14.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַמְסֶֽה",
+      "translit": "amseh",
+      "ref": "Ps.6.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיַמְסֵם",
+      "translit": "vyamsem",
+      "ref": "Ps.147.18",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתֶּמֶס",
+      "translit": "vattemes",
+      "ref": "Ps.39.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "מסה",
+ "search_match": [
+  "4529",
+  "h4529",
+  "cause to dissolve; consume; intimidate",
+  "masah",
+  "מסה"
+ ],
+ "citation_translit": "masah",
+ "stem_coverage_checked": true
+}

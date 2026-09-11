@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "spice; ripen; embalm"
+ ],
+ "strong": "H2590",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַחֲנֹט",
+      "translit": "lachanot",
+      "ref": "Gen.50.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּחַנְטוּ",
+      "translit": "vayyachantu",
+      "ref": "Gen.50.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "חָֽנְטָה",
+      "translit": "chantah",
+      "ref": "Song.2.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "חנט",
+ "search_match": [
+  "2590",
+  "h2590",
+  "spice; ripen; embalm",
+  "chanat",
+  "חנט"
+ ],
+ "citation_translit": "chanat",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,44 @@
+{
+ "glosses": [
+  "give a title; call by an epithet"
+ ],
+ "strong": "H3655",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְכַנֶּֽה",
+      "translit": "ykhanneh",
+      "ref": "Isa.44.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲכַנֶּֽה",
+      "translit": "akhanneh",
+      "ref": "Job.32.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "כנה",
+ "search_match": [
+  "3655",
+  "h3655",
+  "give a title; call by an epithet",
+  "kanah",
+  "כנה"
+ ],
+ "citation_translit": "kanah",
+ "stem_coverage_checked": true
+}
