@@ -60,23 +60,30 @@ stem. For each root:
    Also search for *every* stem attested for this Strong's number (and any
    `strong_alt` partners) while you're at it — not just the ones the
    person requested. This is the same check the retrospective stem-coverage
-   audit runs; doing it now, at creation time, means this root never joins
-   that backlog.
+   audit runs (see its own section below); doing it now, at creation time,
+   means this root never joins that backlog.
    **Build a full paradigm entry for every attested stem, not only the
-   ones the person named.** For any stem beyond what was requested, draft
-   its gloss yourself the same way the retrospective audit does: read the
-   Strong's/lexicon meaning text and a sample of the actual attested verses
-   in context, and write a gloss that reflects what those verses actually
-   say (it may differ from the primary gloss — treat it as its own sense,
-   the same way `stem_glosses` already works for requested stems whose
-   sense differs from the root's primary one). Then verify that drafted
-   gloss against its citation the same way step 10 requires for every
-   stem, requested or not.
+   ones the person named — include them, don't just flag them as
+   candidates for later.** For any stem beyond what was requested, draft
+   its gloss yourself the same way the retrospective gloss-context audit
+   does: read the Strong's/lexicon meaning text and a sample of the actual
+   attested verses in context, and write a gloss that reflects what those
+   verses actually say (it may differ from the primary gloss — treat it as
+   its own sense, the same way `stem_glosses` already works for requested
+   stems whose sense differs from the root's primary one). A drafted gloss
+   must clear the same bar as any other gloss in this dataset: if none of
+   the attested forms for that stem actually support the sense you'd
+   otherwise draft from the lexicon, don't draft it — see "No uncited
+   glosses" below. Then verify whatever gloss you do ship against its
+   citation the same way step 10 requires for every stem, requested or
+   not.
    Report clearly what you added beyond the original request: which
    stem(s), the gloss you drafted, and the same one-line
    reference-plus-paraphrase check as step 10 — so it's visible and
    reviewable, not silent, even though it wasn't held back for
-   confirmation first.
+   confirmation first. (This is a *creation-time* rule and is intentionally
+   more automatic than the retroactive stem-coverage audit's confirm-first
+   flow below — see that section for why they differ.)
    The only reason to leave an attested stem out is genuine ambiguity worth
    a person's judgment — e.g. a single rare occurrence where the sense
    doesn't clearly separate from an already-included stem, or where you
@@ -103,8 +110,9 @@ stem. For each root:
    (only when a stem's sense differs from the primary gloss), `strong_alt`
    (array of additional Strong's numbers for suppletive paradigms — see
    הלך/נוח for the pattern), `notes` (free-text array, used sparingly, e.g.
-   to document a suppletion or a deliberate exception to normal rules),
-   `stem_coverage_checked` (boolean, set per step 3 above).
+   to document a suppletion, a deliberate exception to normal rules, or an
+   excluded uncited lexicon sense — see below), `stem_coverage_checked`
+   (boolean, set per step 3 above).
 7. **Never hand-type Hebrew text into a JSON file.** Always copy the `heb`
    value directly from the pipeline's extraction output. Hand-typed Hebrew
    naturally comes out Unicode-NFC-normalized, which can byte-mismatch the
@@ -123,7 +131,9 @@ stem. For each root:
    it, any gloss collision with an existing root, any root with no attested
    qal (and what you used as the primary/citation stem instead), any
    single-attestation or textually contested form, any newly-discovered
-   suppletion pair, and any rare stem beyond the standard seven.
+   suppletion pair, any rare stem beyond the standard seven, and any
+   lexicon-listed sense you excluded for lack of an attested citation (see
+   below).
 10. **Verify the gloss against the cited verse's actual context, not just
     the lexicon's general definition.** A Strong's entry's definition can
     span a real semantic range (e.g. "judge; think; intercede"); the
@@ -136,18 +146,45 @@ stem. For each root:
     that matches the gloss given. Example:
     > piel "think; judge" — 1Sam.2.25 ("if a man sins... who will *judge*
     > for him"), matches.
-    If it doesn't clearly match, say so and pick a better citation (or flag
-    that none of the attested forms cite a verse that clearly supports the
-    given gloss) rather than silently shipping a mismatch.
+    If it doesn't clearly match, say so and pick a better citation. If
+    *no* attested form clearly supports the given gloss at all, don't fall
+    back to keeping it anyway — see "No uncited glosses" immediately
+    below, which takes priority over shipping a citation-anchored-only
+    sense.
     Once checked, mark the stem `"gloss_verified": true` (a peer of
     `sense_hint` inside that stem's object) so the check doesn't need
     repeating later.
+
+### No uncited glosses
+
+Never include a gloss or sense solely because a lexicon (Strong's or BDB)
+lists it as the word's primary or historical meaning. If no attested form
+in the corpus actually exemplifies that sense, leave it out of the gloss
+entirely, and add a note to the root's `notes` field explaining the
+exclusion and why (e.g. "BDB's own listed sense, but no citable verse in
+this dataset"). This applies equally to senses the person requested,
+senses you draft yourself for an unrequested stem (step 3 above), and
+senses already shipped that you encounter during the retroactive audit
+below — the source of the sense doesn't matter, only whether an attested
+form backs it. Real past cases that should have been excluded this way:
+H2556 חמץ "be red" (zero attestation anywhere), H5628 סרח qal "go free"
+(BDB's own primary sense, but only "overhang/sprawl" had a citable verse),
+H1921 הדר qal "swell (of hills)" (BDB's own listed sense, marked uncertain
+by BDB itself, no citable verse).
+
+This is a stricter, additional check on top of step 10's citation-mismatch
+check: step 10 is about a citation that doesn't clearly support an
+otherwise-fine sense (fix by picking a better citation); this rule is
+about a sense with *no* supporting citation at all (fix by dropping the
+sense, not by anchoring it to the lexicon definition alone).
 
 ## Retroactive gloss-context audit (in progress)
 
 The dataset predates the gloss-verification step above for most existing
 roots. There's an ongoing project to go back through every stem already in
-`data/roots/` and apply the same check retroactively.
+`data/roots/` and apply the same check retroactively — including the "no
+uncited glosses" rule above, which applies here just as much as to new
+roots.
 
 - To find what's left: any stem object *without* a `"gloss_verified": true`
   field hasn't been checked yet. A quick way to count remaining work:
@@ -163,21 +200,61 @@ roots. There's an ongoing project to go back through every stem already in
   ```
 - Work through it in batches of roughly **40 stems per session** (this is
   reading/judgment work, not extraction, so it moves faster than adding new
-  roots — no need to throttle to 15 the way new-root batches are).
+  roots — no need to throttle to 20 the way new-root batches are).
 - For each stem: read the cited verse in context, confirm the gloss holds,
   report it the same one-line way as step 10 above, and set
   `"gloss_verified": true`. If a mismatch turns up, fix the gloss or the
-  citation (whichever is actually wrong) and say so explicitly — don't
-  silently correct it without flagging what was found, same principle as
-  the "if something looks wrong" section below.
+  citation (whichever is actually wrong) and say so explicitly. If the
+  mismatch turns out to be "nothing attested actually supports this sense"
+  rather than "wrong verse picked," apply the "no uncited glosses" rule
+  (drop the sense, note why) instead of substituting a different citation.
+  Don't silently correct anything without flagging what was found, same
+  principle as the "if something looks wrong" section below.
 - Commit progress incrementally (e.g. one commit per session) rather than
   holding a huge uncommitted audit in progress — that way partial progress
   is never at risk of being lost.
 
+## Retroactive stem-coverage audit (in progress)
+
+Separately from the gloss-context audit above, there's an ongoing project
+to re-run the "search for every attested stem" check from step 3 against
+roots that were added before that check existed (tracked by the
+`stem_coverage_checked` root-level flag — any root without
+`"stem_coverage_checked": true` hasn't been swept yet).
+
+This audit's workflow is **confirm-first**, which is deliberately
+different from step 3's auto-include-and-report flow for brand-new roots:
+
+- Report **every** candidate stem you find for a root, including
+  low-confidence or single-attestation ones whose sense isn't obviously
+  distinct from a stem already shipped for that root — don't self-filter
+  by confidence before even showing the candidate. Still flag ambiguity
+  (single attestation, overlapping sense, possible homonym) in the report,
+  the same way step 9 asks for new roots.
+- Ask for gloss confirmation on the batch before adding anything.
+- Once confirmed, add **all** approved candidates, including the
+  low-confidence ones — completeness is the goal here, not a
+  confidence-filtered subset. (An earlier version of this workflow tried
+  skipping low-confidence candidates by default; that was tried and
+  explicitly reversed, so don't reintroduce it.)
+- Every added stem still has to clear "no uncited glosses" above — a
+  candidate can be low-confidence (rare, one attestation) and still be
+  included, but it can't be uncited (zero attestation supporting the
+  specific sense).
+- Mark `"stem_coverage_checked": true` once a root has been swept, same
+  field as step 3.
+
+Batch size for this audit isn't fixed yet — check with the person before
+the first batch. It plausibly resembles the 20-roots-per-batch cadence for
+new roots (it's the same kind of extraction-plus-homonym-judgment work)
+rather than the 40-stems-per-session cadence for the gloss-context audit
+(which is closer to pure reading/judgment), but confirm rather than assume.
+
 ## Batch size
 
-Default to **15 roots per batch**. This is a judgment-limited process, not a
-throughput-limited one — homonym disambiguation and catching things like
+Default to **20 roots per batch** for new-root work (see above for the two
+retroactive audits' own cadences). This is a judgment-limited process, not
+a throughput-limited one — homonym disambiguation and catching things like
 suppletion or conflated homonyms requires actually reading and thinking, and
 that doesn't get faster with more roots per batch. Don't increase batch size
 without checking in first.

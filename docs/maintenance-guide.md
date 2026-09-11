@@ -79,6 +79,18 @@ stem the wheel opens to by default, since the ordinary priority order would
 otherwise land on a passive stem (Niphal/Hophal) when the label implies an
 active sense. Any new no-Qal root needs an entry here.
 
+### No gloss without an attested citation
+A sense only belongs in `glosses`, `stem_glosses`, or `form_glosses` if an
+actual attested form in the corpus supports it — never because a lexicon
+(Strong's or BDB) lists it as the word's primary or historical meaning.
+This holds even when the lexicon's listed sense is the headline definition:
+if nothing citable in this dataset exemplifies it, it's excluded and the
+exclusion is recorded in the root's `notes` field with the reason (e.g.
+"BDB's own primary sense, but no citable verse in this dataset"). This is
+a stricter check than "does the citation match the gloss" (§4 below and
+CLAUDE.md step 10) — a sense can have a perfectly matched citation and
+still fail this check if no citation exists for it at all.
+
 ### Per-category gloss precision (`form_glosses`)
 Occasionally a single stem itself spans more than one sense depending on
 which grammatical category is attested — not different enough to warrant
@@ -198,4 +210,7 @@ Given a list of (root, binyan(s), gloss(es)):
   with a different root, or rests on a debatable lemma assignment) —
   recommend exclusion rather than silently keeping contested data.
 - Any rare/unusual stem discovered that isn't among the standard 7.
+- Any lexicon-listed sense excluded for lack of an attested citation (see
+  §2 "No gloss without an attested citation"), and which root/stem it
+  would otherwise have been attached to.
 - Total root count and form count before/after, so drift is visible.
