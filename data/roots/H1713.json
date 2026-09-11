@@ -1,0 +1,66 @@
+{
+ "glosses": [
+  "be conspicuous; set up a banner"
+ ],
+ "strong": "H1713",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִדְגֹּל",
+      "translit": "nidgol",
+      "ref": "Ps.20.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "דָּגוּל",
+      "translit": "dagul",
+      "ref": "Song.5.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "כַּנִּדְגָּלֽוֹת",
+      "translit": "kannidgalot",
+      "ref": "Song.6.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be furnished with standards"
+ },
+ "root": "דגל",
+ "search_match": [
+  "1713",
+  "h1713",
+  "be conspicuous; set up a banner",
+  "dagal",
+  "דגל"
+ ],
+ "citation_translit": "dagal",
+ "stem_coverage_checked": true
+}

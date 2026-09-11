@@ -1,0 +1,58 @@
+{
+ "glosses": [
+  "drip; distill"
+ ],
+ "strong": "H7491",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִרְעֲפוּ",
+      "translit": "yir'afu",
+      "ref": "Job.36.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הַרְעִיפוּ",
+      "translit": "har'ifu",
+      "ref": "Isa.45.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "cause to drip"
+ },
+ "notes": [
+  "Hiphil (Isa.45.8, הַרְעִיפוּ, \"drop down, ye heavens\") wasn't requested but is attested (BDB: Hiph. \"trickle\") -- added per the full-stem-coverage rule."
+ ],
+ "root": "רעף",
+ "search_match": [
+  "7491",
+  "h7491",
+  "drip; distill",
+  "ra'af",
+  "רעף"
+ ],
+ "citation_translit": "ra'af",
+ "stem_coverage_checked": true
+}

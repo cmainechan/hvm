@@ -1,0 +1,58 @@
+{
+ "glosses": [
+  "be at ease; be secure"
+ ],
+ "strong": "H7599",
+ "stems": {
+  "palel": {
+   "sense_hint": "intensive (reduplicated, geminate root)",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְשַׁאֲנַן",
+      "translit": "vsha'anan",
+      "ref": "Jer.30.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שַׁאֲנַן",
+      "translit": "sha'anan",
+      "ref": "Jer.48.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שַׁאֲנָנוּ",
+      "translit": "sha'ananu",
+      "ref": "Job.3.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "No qal is attested anywhere in the corpus -- all 5 occurrences (e.g. Jer.30.10, Job.3.18) are the palel-pattern שַׁאֲנַן, confirmed by BDB (\"Pa'l. be at ease or at peace, rest securely\") as the root's only attested stem. Requested as qal, but stored as palel, the genuinely attested stem -- same sense throughout. This is the first root in the dataset to use the palel stem; added \"palel\" to STEM_ORDER/STEM_COLOR in both UI templates."
+ ],
+ "root": "שאן",
+ "search_match": [
+  "7599",
+  "h7599",
+  "be at ease; be secure",
+  "sha'an",
+  "שאן"
+ ],
+ "citation_translit": "sha'an",
+ "stem_coverage_checked": true
+}

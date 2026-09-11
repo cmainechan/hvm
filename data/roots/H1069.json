@@ -1,0 +1,87 @@
+{
+ "glosses": [
+  "bear early fruit; make/constitute as firstborn"
+ ],
+ "strong": "H1069",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְבַכֵּר",
+      "translit": "lvakker",
+      "ref": "Deut.21.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְבַכֵּר",
+      "translit": "yvakker",
+      "ref": "Ezek.47.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְבֻכַּר",
+      "translit": "yvukkar",
+      "ref": "Lev.27.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "כְּמַבְכִּירָה",
+      "translit": "kmavkirah",
+      "ref": "Jer.4.31",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be born/made a firstling",
+  "hiphil": "bear one's first child"
+ },
+ "notes": [
+  "Piel is attested with two distinct senses per BDB: \"bear early, new fruit\" (Ezek.47.12, the requested sense) and \"make/constitute as firstborn\" (Deut.21.16, granting the legal birthright) -- both included since both are cited."
+ ],
+ "root": "בכר",
+ "search_match": [
+  "1069",
+  "h1069",
+  "bear early fruit; make/constitute as firstborn",
+  "bakhar",
+  "בכר"
+ ],
+ "citation_translit": "bakhar",
+ "stem_coverage_checked": true
+}

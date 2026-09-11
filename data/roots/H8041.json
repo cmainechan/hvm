@@ -1,0 +1,79 @@
+{
+ "glosses": [
+  "turn to the left"
+ ],
+ "strong": "H8041",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "וּמַשְׂמִאלִים",
+      "translit": "umasmi'lim",
+      "ref": "1Chr.12.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּלְהַשְׂמִיל",
+      "translit": "ulhasmil",
+      "ref": "2Sam.14.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הַשְׂמִילִי",
+      "translit": "hasmili",
+      "ref": "Ezek.21.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאַשְׂמְאִֽילָה",
+      "translit": "v'asm'ilah",
+      "ref": "Gen.13.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַשְׂמְאִֽילוּ",
+      "translit": "tasm'ilu",
+      "ref": "Isa.30.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "שמאל",
+ "search_match": [
+  "8041",
+  "h8041",
+  "turn to the left",
+  "sama'l",
+  "שמאל"
+ ],
+ "citation_translit": "sama'l",
+ "stem_coverage_checked": true
+}

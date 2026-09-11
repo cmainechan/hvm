@@ -1,0 +1,38 @@
+{
+ "glosses": [
+  "beat out metal"
+ ],
+ "strong": "H7820",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "שָׁחוּט",
+      "translit": "shachut",
+      "ref": "1Kgs.10.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym split: שחט also covers H7819 (\"slaughter, kill\" -- very common, already in the dataset as שחט¹) and H7818/שׂחט (\"tread out, squeeze grapes\", not yet in the dataset), all normalizing to the same bare root in this project's convention. H7820 is confirmed distinct by its own Strong's entry (\"identical with 7819 through the idea of striking\" but glossed separately as \"hammer out\") and by its corpus citations, which are all architectural (\"beaten gold,\" 1Kgs.10.16-17, 2Chr.9.15-16), not sacrificial. Split as שחט¹ (H7819) / שחט² (H7820, this root); a further split will be needed if H7818 is added later."
+ ],
+ "root": "שחט²",
+ "search_match": [
+  "7820",
+  "h7820",
+  "beat out metal",
+  "shachat",
+  "שחט²"
+ ],
+ "citation_translit": "shachat",
+ "stem_coverage_checked": true
+}

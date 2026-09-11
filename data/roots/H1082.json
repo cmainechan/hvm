@@ -1,0 +1,46 @@
+{
+ "glosses": [
+  "smile; cause to flash forth"
+ ],
+ "strong": "H1082",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַמַּבְלִיג",
+      "translit": "hammavlig",
+      "ref": "Amos.5.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאַבְלִיגָה",
+      "translit": "v'avligah",
+      "ref": "Job.10.20",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "בלג",
+ "search_match": [
+  "1082",
+  "h1082",
+  "smile; cause to flash forth",
+  "balag",
+  "בלג"
+ ],
+ "citation_translit": "balag",
+ "stem_coverage_checked": true
+}

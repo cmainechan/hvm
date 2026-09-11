@@ -1,0 +1,46 @@
+{
+ "glosses": [
+  "place; set on the fire"
+ ],
+ "strong": "H8239",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "שְׁפֹת",
+      "translit": "shfot",
+      "ref": "2Kgs.4.38",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּשְׁפֹּת",
+      "translit": "tishpot",
+      "ref": "Isa.26.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "שפת",
+ "search_match": [
+  "8239",
+  "h8239",
+  "place; set on the fire",
+  "shafat",
+  "שפת"
+ ],
+ "citation_translit": "shafat",
+ "stem_coverage_checked": true
+}

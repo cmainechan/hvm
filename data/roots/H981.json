@@ -1,0 +1,77 @@
+{
+ "glosses": [
+  "speak rashly; babble"
+ ],
+ "strong": "H981",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "בּוֹטֶה",
+      "translit": "boteh",
+      "ref": "Prov.12.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְבַטֵּא",
+      "translit": "lvatte",
+      "ref": "Lev.5.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְבַטֵּא",
+      "translit": "yvatte",
+      "ref": "Lev.5.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְבַטֵּא",
+      "translit": "vayvatte",
+      "ref": "Ps.106.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "speak rashly"
+ },
+ "root": "בטא",
+ "search_match": [
+  "981",
+  "h981",
+  "speak rashly; babble",
+  "bata",
+  "בטא"
+ ],
+ "citation_translit": "bata",
+ "stem_coverage_checked": true
+}

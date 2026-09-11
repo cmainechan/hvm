@@ -1,0 +1,66 @@
+{
+ "glosses": [
+  "agree"
+ ],
+ "strong": "H225",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיֵּאֹתוּ",
+      "translit": "vayye'otu",
+      "ref": "2Kgs.12.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נֵאוֹת",
+      "translit": "ne'ot",
+      "ref": "Gen.34.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יֵאֹתוּ",
+      "translit": "ye'otu",
+      "ref": "Gen.34.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נֵאוֹתָה",
+      "translit": "ne'otah",
+      "ref": "Gen.34.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "אות",
+ "search_match": [
+  "225",
+  "h225",
+  "agree",
+  "ut",
+  "אות"
+ ],
+ "citation_translit": "ut",
+ "stem_coverage_checked": true
+}

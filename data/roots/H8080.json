@@ -1,0 +1,86 @@
+{
+ "glosses": [
+  "grow/become fat"
+ ],
+ "strong": "H8080",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּשְׁמַן",
+      "translit": "vayyishman",
+      "ref": "Deut.32.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "שָׁמַנְתָּ",
+      "translit": "shamanta",
+      "ref": "Deut.32.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שָׁמְנוּ",
+      "translit": "shamnu",
+      "ref": "Jer.5.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַשְׁמֵן",
+      "translit": "hashmen",
+      "ref": "Isa.6.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּשְׁמִינוּ",
+      "translit": "vayyashminu",
+      "ref": "Neh.9.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "make fat; make dull"
+ },
+ "root": "שמן",
+ "search_match": [
+  "8080",
+  "h8080",
+  "grow/become fat",
+  "shaman",
+  "שמן"
+ ],
+ "citation_translit": "shaman",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,46 @@
+{
+ "glosses": [
+  "fly swiftly"
+ ],
+ "strong": "H1675",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִדְאֶה",
+      "translit": "yid'eh",
+      "ref": "Deut.28.49",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֵּדֶא",
+      "translit": "vayyede",
+      "ref": "Ps.18.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "דאה",
+ "search_match": [
+  "1675",
+  "h1675",
+  "fly swiftly",
+  "da'ah",
+  "דאה"
+ ],
+ "citation_translit": "da'ah",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,66 @@
+{
+ "glosses": [
+  "pinch; compress; wink"
+ ],
+ "strong": "H7169",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "קֹרֵֽץ",
+      "translit": "qoretz",
+      "ref": "Prov.10.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִקְרְצוּ",
+      "translit": "yiqrtzu",
+      "ref": "Ps.35.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "קֹרַצְתִּי",
+      "translit": "qoratzti",
+      "ref": "Job.33.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be formed from clay"
+ },
+ "root": "קרץ",
+ "search_match": [
+  "7169",
+  "h7169",
+  "pinch; compress; wink",
+  "qaratz",
+  "קרץ"
+ ],
+ "citation_translit": "qaratz",
+ "stem_coverage_checked": true
+}

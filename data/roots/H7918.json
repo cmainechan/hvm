@@ -1,0 +1,77 @@
+{
+ "glosses": [
+  "decrease; abate; subside"
+ ],
+ "strong": "H7918",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כְּשֹׁךְ",
+      "translit": "kshokh",
+      "ref": "Esth.2.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "שָׁכָֽכָה",
+      "translit": "shakhakhah",
+      "ref": "Esth.7.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּשֹׁכּוּ",
+      "translit": "vayyashokku",
+      "ref": "Gen.8.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וַהֲשִׁכֹּתִי",
+      "translit": "vahashikkoti",
+      "ref": "Num.17.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "cause to subside; allay"
+ },
+ "root": "שכך",
+ "search_match": [
+  "7918",
+  "h7918",
+  "decrease; abate; subside",
+  "shakhakh",
+  "שכך"
+ ],
+ "citation_translit": "shakhakh",
+ "stem_coverage_checked": true
+}

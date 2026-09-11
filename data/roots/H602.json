@@ -1,0 +1,77 @@
+{
+ "glosses": [
+  "cry; groan"
+ ],
+ "strong": "H602",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בֶּאֱנֹק",
+      "translit": "be'enoq",
+      "ref": "Ezek.26.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֶאֱנֹק",
+      "translit": "ye'enoq",
+      "ref": "Jer.51.52",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "וְהַנֶּאֱנָקִים",
+      "translit": "vhanne'enaqim",
+      "ref": "Ezek.9.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הֵאָנֵק",
+      "translit": "he'aneq",
+      "ref": "Ezek.24.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "groan; lament"
+ },
+ "root": "אנק",
+ "search_match": [
+  "602",
+  "h602",
+  "cry; groan",
+  "anaq",
+  "אנק"
+ ],
+ "citation_translit": "anaq",
+ "stem_coverage_checked": true
+}

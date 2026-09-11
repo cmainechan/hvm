@@ -1,0 +1,77 @@
+{
+ "glosses": [
+  "plunder; spoil"
+ ],
+ "strong": "H8155",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּשֹׁסּוּ",
+      "translit": "vayyashossu",
+      "ref": "1Sam.17.53",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שַׁסֻּהוּ",
+      "translit": "shassuhu",
+      "ref": "Ps.89.42",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשַּׁסּוּ",
+      "translit": "yisshassu",
+      "ref": "Isa.13.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנָשַׁסּוּ",
+      "translit": "vnashassu",
+      "ref": "Zech.14.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be plundered"
+ },
+ "root": "שסס",
+ "search_match": [
+  "8155",
+  "h8155",
+  "plunder; spoil",
+  "shasas",
+  "שסס"
+ ],
+ "citation_translit": "shasas",
+ "stem_coverage_checked": true
+}

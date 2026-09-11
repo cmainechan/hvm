@@ -1,0 +1,58 @@
+{
+ "glosses": [
+  "be negligent"
+ ],
+ "strong": "H7952",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּשָּׁלוּ",
+      "translit": "tisshalu",
+      "ref": "2Chr.29.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַשְׁלֶה",
+      "translit": "tashleh",
+      "ref": "2Kgs.4.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "mislead; deceive"
+ },
+ "notes": [
+  "See H7951's notes -- this is the Strong's-homonym half of שלה that BDB treats as one root with it. Only 2 total attestations (2Chr.29.11 niphal, 2Kgs.4.28 hiphil)."
+ ],
+ "root": "שלה²",
+ "search_match": [
+  "7952",
+  "h7952",
+  "be negligent",
+  "shalah",
+  "שלה²"
+ ],
+ "citation_translit": "shalah",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,82 @@
+{
+ "glosses": [
+  "cause/allow to meet; bring about"
+ ],
+ "strong": "H579",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "אִנָּה",
+      "translit": "innah",
+      "ref": "Exod.21.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְאֻנֶּה",
+      "translit": "y'unneh",
+      "ref": "Prov.12.21",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְאֻנֶּה",
+      "translit": "t'unneh",
+      "ref": "Ps.91.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִתְאַנֶּה",
+      "translit": "mit'anneh",
+      "ref": "2Kgs.5.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be allowed to meet; befall",
+  "hitpael": "seek occasion; pick a quarrel"
+ },
+ "root": "אנה",
+ "search_match": [
+  "579",
+  "h579",
+  "cause/allow to meet; bring about",
+  "anah",
+  "אנה"
+ ],
+ "citation_translit": "anah",
+ "stem_coverage_checked": true
+}

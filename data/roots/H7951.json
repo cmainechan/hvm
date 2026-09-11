@@ -1,0 +1,58 @@
+{
+ "glosses": [
+  "be quiet; be at ease; prosper"
+ ],
+ "strong": "H7951",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שָׁלוּ",
+      "translit": "shalu",
+      "ref": "Jer.12.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "שָׁלַוְתִּי",
+      "translit": "shalavti",
+      "ref": "Job.3.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשְׁלָיוּ",
+      "translit": "yishlau",
+      "ref": "Job.12.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym correction: the requested niphal \"be negligent\" and hiphil \"mislead; deceive\" senses are not attested under H7951 -- they belong to the separate Strong's homonym H7952 (same spelling שָׁלָה, distinct number), confirmed both by Strong's own entries and by the corpus (H7951 has 5 attestations, all qal; H7952 has 2, one niphal one hiphil). Added H7952 as its own root, שלה² (BDB actually treats both as one root with qal/niphal/hiphil together, but this project follows Strong's numbering, which splits them)."
+ ],
+ "root": "שלה¹",
+ "search_match": [
+  "7951",
+  "h7951",
+  "be quiet; be at ease; prosper",
+  "shalah",
+  "שלה¹"
+ ],
+ "citation_translit": "shalah",
+ "stem_coverage_checked": true
+}

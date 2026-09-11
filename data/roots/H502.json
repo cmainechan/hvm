@@ -1,0 +1,67 @@
+{
+ "glosses": [
+  "learn"
+ ],
+ "strong": "H502",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֶּאֱלַף",
+      "translit": "te'elaf",
+      "ref": "Prov.22.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְאַלֵּף",
+      "translit": "y'allef",
+      "ref": "Job.15.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וַאֲאַלֶּפְךָ",
+      "translit": "va'a'allefkha",
+      "ref": "Job.33.33",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "teach"
+ },
+ "notes": [
+  "Only 3 total attestations in the corpus (Job.15.5, Job.33.33 piel; Prov.22.25 qal) -- a thinly-attested root."
+ ],
+ "root": "אלף",
+ "search_match": [
+  "502",
+  "h502",
+  "learn",
+  "alaf",
+  "אלף"
+ ],
+ "citation_translit": "alaf",
+ "stem_coverage_checked": true
+}
