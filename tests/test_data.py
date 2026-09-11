@@ -213,6 +213,24 @@ def test_every_stem_is_known_to_the_ui():
         )
 
 
+def test_translit_engine_matches_its_regression_fixture():
+    """pipeline/translit.py is the tool used to generate every `translit`
+    and `citation_translit` value when adding new roots. It previously
+    lived only as a session scratchpad file and was lost once when that
+    directory got reset; it now lives here specifically so that can't
+    happen again. This test is the other half of that safety net -- it
+    fails loudly in CI (not just when someone remembers to run the file
+    by hand) if an edit ever changes its behavior against the known-good
+    pairs embedded in its own regression fixture."""
+    import translit
+    fails = [
+        (heb, expected, got)
+        for heb, expected in translit._REGRESSION_PAIRS
+        if (got := translit.transliterate(heb)) != expected
+    ]
+    assert not fails, f"translit.py regression mismatches: {fails}"
+
+
 def _corpus_available():
     return (ROOT / "pipeline" / "corpus" / "morphhb" / "wlc").exists()
 

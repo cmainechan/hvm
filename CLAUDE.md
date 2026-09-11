@@ -120,6 +120,21 @@ stem. For each root:
    linguistically identical — this caused real false positives before.
    `clean_heb()` already NFC-normalizes its output, so copying from it is
    both correct and consistent.
+   Generate every `translit` and `citation_translit` value with
+   `pipeline/translit.py`'s `transliterate()` — never hand-transliterate
+   either, for the same reason. Run `python3 pipeline/translit.py` any
+   time you're unsure the file is intact; it replays a small regression
+   fixture embedded in the file itself and should print `39/39 matched`
+   (also enforced by `test_translit_engine_matches_its_regression_fixture`
+   in the fast test suite). This file used to live only as a session
+   scratchpad and was lost once when that directory got reset — it now
+   lives in the repo specifically so that can't happen again; if you ever
+   do need to reconstruct it, validate whatever you write the same way
+   this one was: against a large set of (heb, translit) pairs already
+   shipped in the dataset from the *same, most-recent* working session
+   (older entries can reflect a since-superseded convention — see the
+   docstring's "known limitation" note for a real example of this before
+   trusting an older entry over a freshly-generated one).
 8. **Run `python3 scripts/verify_changed.py`** on every new or modified
    file before considering it done. With no arguments it auto-detects
    everything currently changed under `data/roots/` (via `git status`) and
