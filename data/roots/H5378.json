@@ -1,0 +1,71 @@
+{
+ "glosses": [
+  "lend on interest"
+ ],
+ "strong": "H5378",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנָֽשָׁא",
+      "translit": "vnasha",
+      "ref": "1Kgs.8.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֹשֶׁא",
+      "translit": "noshe",
+      "ref": "1Sam.22.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַשִּׁא",
+      "translit": "yasshi",
+      "ref": "Ps.89.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "act as a creditor; exact payment"
+ },
+ "notes": [
+  "Third homonym under these consonants: נשא¹ (H5375, \"lift\") and נשא² (H5377, \"delude\") already exist in the dataset; this root (H5378, \"lend on interest\") is added as נשא³ per the ascending-Strong's-number superscript convention.",
+  "Gloss collision: nearly identical to the existing נשה² (H5383, glosses \"lend\", hiphil \"act as a creditor\") -- a different but semantically twin root (final-heh vs. final-aleph); disambiguating search alias added."
+ ],
+ "root": "נשא³",
+ "search_match": [
+  "5378",
+  "h5378",
+  "lend on interest (nasha)",
+  "act as a creditor",
+  "nasha",
+  "נשא³"
+ ],
+ "citation_translit": "nasha",
+ "stem_coverage_checked": true
+}

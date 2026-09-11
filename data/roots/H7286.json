@@ -1,0 +1,77 @@
+{
+ "glosses": [
+  "beat down; subdue"
+ ],
+ "strong": "H7286",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּרֶד",
+      "translit": "vayyared",
+      "ref": "1Kgs.6.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְרַד",
+      "translit": "lrad",
+      "ref": "Isa.45.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "רַד",
+      "translit": "rad",
+      "ref": "Judg.19.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הָרוֹדֵד",
+      "translit": "haroded",
+      "ref": "Ps.144.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "beat out; spread"
+ },
+ "root": "רדד",
+ "search_match": [
+  "7286",
+  "h7286",
+  "beat down; subdue",
+  "radad",
+  "רדד"
+ ],
+ "citation_translit": "radad",
+ "stem_coverage_checked": true
+}

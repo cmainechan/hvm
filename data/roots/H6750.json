@@ -1,0 +1,70 @@
+{
+ "glosses": [
+  "tingle; quiver"
+ ],
+ "strong": "H6750",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תְּצִלֶּינָה",
+      "translit": "ttzillenah",
+      "ref": "1Sam.3.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תִּצַּלְנָה",
+      "translit": "tittzalnah",
+      "ref": "2Kgs.21.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "צָלֲלוּ",
+      "translit": "tzalalu",
+      "ref": "Hab.3.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "tingle"
+ },
+ "notes": [
+  "Triple-homonym consonant risk: צָלַל also covers H6749 (\"tumble down, sink\") and H6751 (\"shade, grow dark\"), both unrelated and not yet in this dataset. Every extracted form here was confirmed lemma-tagged H6750 specifically, with no cross-contamination -- flagged for anyone adding either of the other two later.",
+  "Hiphil (\"tingle\", 1Sam.3.11, תְּצִלֶּינָה) is attested but wasn't part of the original request -- added per the full-stem-coverage check; it carries the same sense as the requested qal, just in a different stem."
+ ],
+ "root": "צלל",
+ "search_match": [
+  "6750",
+  "h6750",
+  "tingle; quiver",
+  "tzalal",
+  "צלל"
+ ],
+ "citation_translit": "tzalal",
+ "stem_coverage_checked": true
+}

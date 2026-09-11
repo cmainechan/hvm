@@ -54,16 +54,17 @@
   "niphal": "be lightly esteemed; be degraded"
  },
  "notes": [
-  "No qal attested for this root; hiphil (the causative \"treat with contempt\" sense) is used as the primary/citation stem, with niphal as its natural passive counterpart -- same pattern as H6395 פלה earlier in this project. DEFAULT_STEM_OVERRIDE added (\"קלה\": \"hiphil\") since niphal would otherwise be picked mechanically by STEM_ORDER.",
-  "Homonym check: shares consonants ק-ל-ה with H7033 (\"to toast, i.e. scorch partially or slowly\") and H7035 (\"to assemble\"), both unrelated roots. Requested gloss matches H7034 precisely (\"to be light...but figuratively, only [causatively, hold] in contempt\"); no cross-contamination found in the corpus tagging."
+  "No qal attested for this root; hiphil (the causative \"treat with contempt\" sense) is used as the primary/citation stem, with niphal as its natural passive counterpart -- same pattern as H6395 פלה earlier in this project. DEFAULT_STEM_OVERRIDE added (\"קלה²\": \"hiphil\") since niphal would otherwise be picked mechanically by STEM_ORDER.",
+  "Homonym check: shares consonants ק-ל-ה with H7033 (\"to toast, i.e. scorch partially or slowly\") and H7035 (\"to assemble\"), both unrelated roots. Requested gloss matches H7034 precisely (\"to be light...but figuratively, only [causatively, hold] in contempt\"); no cross-contamination found in the corpus tagging.",
+  "Retroactively renamed from the plain key \"קלה\" to \"קלה²\" when H7033 (\"roast; parch; scorch\") was added to the dataset as \"קלה¹\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
  ],
- "root": "קלה",
+ "root": "קלה²",
  "search_match": [
   "7034",
   "h7034",
   "treat with contempt",
   "qalah",
-  "קלה"
+  "קלה²"
  ],
  "citation_translit": "qalah",
  "stem_coverage_checked": true

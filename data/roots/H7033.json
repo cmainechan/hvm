@@ -1,0 +1,70 @@
+{
+ "glosses": [
+  "roast; parch; scorch"
+ ],
+ "strong": "H7033",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "קָלָם",
+      "translit": "qalam",
+      "ref": "Jer.29.22",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "קָלוּי",
+      "translit": "qalu",
+      "ref": "Lev.2.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִקְלֶה",
+      "translit": "niqleh",
+      "ref": "Ps.38.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be inflamed (of a burning disease)"
+ },
+ "notes": [
+  "True homograph of the existing H7034 (\"treat with contempt\"), both spelled קלה -- added as קלה¹ per the ascending-Strong's-number superscript convention; H7034 was retroactively renamed to קלה² in this same batch. H7034's own notes already anticipated this exact collision.",
+  "Niphal (\"be inflamed\", Ps.38.8, נִקְלֶה, \"my loins are filled with burning\") is attested but wasn't part of the original request -- added per the full-stem-coverage check. Its surface form is identical to H7034's own niphal participle (also נִקְלֶה) but the corpus tags it H7033 specifically, and the verse's sense (a burning/inflamed affliction) matches H7033's \"scorch\" meaning, not H7034's \"be despised\" -- confirmed as correctly tagged, not cross-contamination."
+ ],
+ "root": "קלה¹",
+ "search_match": [
+  "7033",
+  "h7033",
+  "roast; parch; scorch",
+  "qalah",
+  "קלה¹"
+ ],
+ "citation_translit": "qalah",
+ "stem_coverage_checked": true
+}

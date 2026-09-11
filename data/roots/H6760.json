@@ -1,0 +1,48 @@
+{
+ "glosses": [
+  "limp; be lame"
+ ],
+ "strong": "H6760",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "צֹלֵעַ",
+      "translit": "tzolea",
+      "ref": "Gen.32.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "הַצֹּלֵעָה",
+      "translit": "hattzole'ah",
+      "ref": "Mic.4.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Niphal (\"be lame\") and piel (\"cause to limp\") were requested but have no attested form anywhere in the corpus -- excluded per the no-uncited-glosses rule, confirmed with the person. Only qal is attested.",
+  "Gloss collision: nearly identical to the existing פסח (H6452) \"spare; limp\" with stems \"be lame\"/\"limp\" -- distinct roots, disambiguating search alias added."
+ ],
+ "root": "צלע",
+ "search_match": [
+  "6760",
+  "h6760",
+  "limp; be lame (tzala)",
+  "tzala",
+  "צלע"
+ ],
+ "citation_translit": "tzala",
+ "stem_coverage_checked": true
+}

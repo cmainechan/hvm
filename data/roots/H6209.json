@@ -1,0 +1,95 @@
+{
+ "glosses": [
+  "strip oneself; make bare"
+ ],
+ "strong": "H6209",
+ "stems": {
+  "poel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "עֹרְרוּ",
+      "translit": "orru",
+      "ref": "Isa.23.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2fp",
+      "label": "2nd fem. pl.",
+      "heb": "וְעֹרָה",
+      "translit": "v'orah",
+      "ref": "Isa.32.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pilpel": {
+   "sense_hint": "intensive (reduplicated)",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "עַרְעֵר",
+      "translit": "ar'er",
+      "ref": "Jer.51.58",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpalpel": {
+   "sense_hint": "reflexive/reciprocal (reduplicated intensive)",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּתְעַרְעָר",
+      "translit": "tit'ar'ar",
+      "ref": "Jer.51.58",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "poel": "lay bare; destroy",
+  "pilpel": "lay utterly bare",
+  "hithpalpel": "be laid utterly bare"
+ },
+ "notes": [
+  "Poel (\"lay bare; destroy\", Isa.23.13, עֹרְרוּ) -- Strong's own usage note on this root flags this specific word as possibly a scribal error for a different word (\"raise up, perhaps by clerical error for raze\"); the \"destroy\" sense follows the proposed emendation rather than the plain text as it stands. Flagged as textually contested; shipped as requested."
+ ],
+ "root": "ערר",
+ "search_match": [
+  "6209",
+  "h6209",
+  "strip oneself; make bare",
+  "lay bare; destroy",
+  "arar",
+  "ערר"
+ ],
+ "citation_translit": "arar",
+ "stem_coverage_checked": true
+}

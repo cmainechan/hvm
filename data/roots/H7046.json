@@ -1,0 +1,79 @@
+{
+ "glosses": [
+  "mock"
+ ],
+ "strong": "H7046",
+ "stems": {
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּתְקַלְּסוּ",
+      "translit": "vayyitqallsu",
+      "ref": "2Kgs.2.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתְקַלְּסוּ",
+      "translit": "yitqallsu",
+      "ref": "Ezek.22.5",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְקַלָּס",
+      "translit": "yitqallas",
+      "ref": "Hab.1.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְקַלֵּס",
+      "translit": "lqalles",
+      "ref": "Ezek.16.31",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hitpael": "mock"
+ },
+ "notes": [
+  "No qal attested for this root; piel and hitpael are both attested with the same sense (\"mock\") -- piel treated as primary per usual convention (STEM_ORDER already defaults to piel here, no override needed).",
+  "Gloss collision: \"mock\" is an exact duplicate of the existing לעג (H3932) primary gloss, and overlaps loosely with several others (לוץ, התל, שחק, צחק) -- distinct roots, disambiguating search alias added."
+ ],
+ "root": "קלס",
+ "search_match": [
+  "7046",
+  "h7046",
+  "mock (qalas)",
+  "qalas",
+  "קלס"
+ ],
+ "citation_translit": "qalas",
+ "stem_coverage_checked": true
+}

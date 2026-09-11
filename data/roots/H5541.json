@@ -1,0 +1,73 @@
+{
+ "glosses": [
+  "make light of; reject"
+ ],
+ "strong": "H5541",
+ "stems": {
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְסֻלֶּה",
+      "translit": "tsulleh",
+      "ref": "Job.28.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "סִלָּה",
+      "translit": "sillah",
+      "ref": "Lam.1.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "סָלִיתָ",
+      "translit": "salita",
+      "ref": "Ps.119.118",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "flout; reject",
+  "pual": "be weighed; be valued"
+ },
+ "root": "סלה",
+ "search_match": [
+  "5541",
+  "h5541",
+  "make light of; reject",
+  "salah",
+  "סלה"
+ ],
+ "citation_translit": "salah",
+ "stem_coverage_checked": true
+}

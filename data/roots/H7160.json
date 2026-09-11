@@ -1,0 +1,56 @@
+{
+ "glosses": [
+  "shine"
+ ],
+ "strong": "H7160",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "קָרַן",
+      "translit": "qaran",
+      "ref": "Exod.34.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַקְרִן",
+      "translit": "maqrin",
+      "ref": "Ps.69.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "grow horns"
+ },
+ "root": "קרן",
+ "search_match": [
+  "7160",
+  "h7160",
+  "shine",
+  "grow horns",
+  "qaran",
+  "קרן"
+ ],
+ "citation_translit": "qaran",
+ "stem_coverage_checked": true
+}

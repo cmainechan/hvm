@@ -1,0 +1,77 @@
+{
+ "glosses": [
+  "act arrogantly; assail"
+ ],
+ "strong": "H7292",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִרְהֲבוּ",
+      "translit": "yirhavu",
+      "ref": "Isa.3.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּרְהַב",
+      "translit": "urhav",
+      "ref": "Prov.6.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּרְהִבֵנִי",
+      "translit": "tarhiveni",
+      "ref": "Ps.138.3",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִרְהִיבֻנִי",
+      "translit": "hirhivuni",
+      "ref": "Song.6.5",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "alarm; make bold"
+ },
+ "root": "רהב",
+ "search_match": [
+  "7292",
+  "h7292",
+  "act arrogantly; assail",
+  "rahav",
+  "רהב"
+ ],
+ "citation_translit": "rahav",
+ "stem_coverage_checked": true
+}

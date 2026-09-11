@@ -1,0 +1,67 @@
+{
+ "glosses": [
+  "chirp; peep; mutter"
+ ],
+ "strong": "H6850",
+ "stems": {
+  "pilpel": {
+   "sense_hint": "intensive (reduplicated)",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַֽמְצַפְצְפִים",
+      "translit": "hamtzaftzfim",
+      "ref": "Isa.8.19",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּמְצַפְצֵֽף",
+      "translit": "umtzaftzef",
+      "ref": "Isa.10.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּצַפְצֵֽף",
+      "translit": "ttzaftzef",
+      "ref": "Isa.29.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲצַפְצֵף",
+      "translit": "atzaftzef",
+      "ref": "Isa.38.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Requested as qal, but the only attested stem is pilpel (reduplicated intensive, common for bird/animal-sound roots) -- no qal is attested anywhere in the corpus. Stored as pilpel to match the corpus's own morphological tag, same naming nuance as שאן/palel and נוב/polel in earlier batches."
+ ],
+ "root": "צפף",
+ "search_match": [
+  "6850",
+  "h6850",
+  "chirp; peep; mutter",
+  "tzafaf",
+  "צפף"
+ ],
+ "citation_translit": "tzafaf",
+ "stem_coverage_checked": true
+}

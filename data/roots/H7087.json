@@ -1,0 +1,69 @@
+{
+ "glosses": [
+  "curdle; congeal"
+ ],
+ "strong": "H7087",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "קָֽפְאוּ",
+      "translit": "qaf'u",
+      "ref": "Exod.15.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַקֹּֽפְאִים",
+      "translit": "haqqof'im",
+      "ref": "Zeph.1.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּקְפִּיאֵֽנִי",
+      "translit": "taqpi'eni",
+      "ref": "Job.10.10",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "cause to curdle; cause to congeal"
+ },
+ "notes": [
+  "Hiphil (\"cause to curdle\", Job.10.10, תַּקְפִּיאֵנִי, \"hast thou not curdled me like cheese?\") is attested but wasn't part of the original request -- added per the full-stem-coverage check."
+ ],
+ "root": "קפא",
+ "search_match": [
+  "7087",
+  "h7087",
+  "curdle; congeal",
+  "qafa",
+  "קפא"
+ ],
+ "citation_translit": "qafa",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,89 @@
+{
+ "glosses": [
+  "be crafty"
+ ],
+ "strong": "H5230",
+ "stems": {
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּֽתְנַכְּלוּ",
+      "translit": "vayyitnakklu",
+      "ref": "Gen.37.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִתְנַכֵּל",
+      "translit": "lhitnakkel",
+      "ref": "Ps.105.25",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נוֹכֵל",
+      "translit": "nokhel",
+      "ref": "Mal.1.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִכְּלוּ",
+      "translit": "nikklu",
+      "ref": "Num.25.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "deceive",
+  "hitpael": "deal craftily"
+ },
+ "notes": [
+  "Gloss collision: \"be crafty\" is close to the existing ערם (H6191) \"be shrewd; act craftily\" -- distinct roots, both real, disambiguating search alias added."
+ ],
+ "root": "נכל",
+ "search_match": [
+  "5230",
+  "h5230",
+  "be crafty (nakhal)",
+  "deceive",
+  "deal craftily",
+  "nakhal",
+  "נכל"
+ ],
+ "citation_translit": "nakhal",
+ "stem_coverage_checked": true
+}

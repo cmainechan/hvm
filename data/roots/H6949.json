@@ -1,0 +1,55 @@
+{
+ "glosses": [
+  "be blunt; be dull"
+ ],
+ "strong": "H6949",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "קֵהָה",
+      "translit": "qehah",
+      "ref": "Eccl.10.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תִּקְהֶֽינָה",
+      "translit": "tiqhenah",
+      "ref": "Ezek.18.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "be/make blunt"
+ },
+ "root": "קהה",
+ "search_match": [
+  "6949",
+  "h6949",
+  "be blunt; be dull",
+  "qahah",
+  "קהה"
+ ],
+ "citation_translit": "qahah",
+ "stem_coverage_checked": true
+}

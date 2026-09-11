@@ -1,0 +1,64 @@
+{
+ "glosses": [
+  "tear away; uproot"
+ ],
+ "strong": "H5255",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְנִסַּחְתֶּם",
+      "translit": "vnissachtem",
+      "ref": "Deut.28.63",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִסְּחוּ",
+      "translit": "yisschu",
+      "ref": "Prov.2.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִסַּח",
+      "translit": "yissach",
+      "ref": "Prov.15.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be torn away; be uprooted"
+ },
+ "root": "נסח",
+ "search_match": [
+  "5255",
+  "h5255",
+  "tear away; uproot",
+  "nasach",
+  "נסח"
+ ],
+ "citation_translit": "nasach",
+ "stem_coverage_checked": true
+}

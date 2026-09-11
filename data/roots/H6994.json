@@ -1,0 +1,66 @@
+{
+ "glosses": [
+  "be insignificant; be unworthy"
+ ],
+ "strong": "H6994",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּקְטַן",
+      "translit": "vattiqtan",
+      "ref": "1Chr.17.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "קָטֹנְתִּי",
+      "translit": "qatonti",
+      "ref": "Gen.32.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַקְטִין",
+      "translit": "lhaqtin",
+      "ref": "Amos.8.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "make small; diminish"
+ },
+ "root": "קטן",
+ "search_match": [
+  "6994",
+  "h6994",
+  "be insignificant; be unworthy",
+  "qaton",
+  "קטן"
+ ],
+ "citation_translit": "qaton",
+ "stem_coverage_checked": true
+}

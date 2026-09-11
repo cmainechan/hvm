@@ -1,0 +1,66 @@
+{
+ "glosses": [
+  "grow numb; faint; become sluggish"
+ ],
+ "strong": "H6313",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּפָג",
+      "translit": "vayyafag",
+      "ref": "Gen.45.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָּפוּג",
+      "translit": "tafug",
+      "ref": "Hab.1.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נְפוּגוֹתִי",
+      "translit": "nfugoti",
+      "ref": "Ps.38.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be benumbed; grow faint"
+ },
+ "root": "פוג",
+ "search_match": [
+  "6313",
+  "h6313",
+  "grow numb; faint; become sluggish",
+  "pug",
+  "פוג"
+ ],
+ "citation_translit": "pug",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,58 @@
+{
+ "glosses": [
+  "bring into safety; cause to take refuge"
+ ],
+ "strong": "H5756",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הָעֵז",
+      "translit": "ha'ez",
+      "ref": "Exod.9.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "הָעִיזוּ",
+      "translit": "ha'izu",
+      "ref": "Jer.4.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֵעִֽיזוּ",
+      "translit": "he'izu",
+      "ref": "Isa.10.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Qal (\"take/seek refuge\") was requested but has no attested form anywhere in the corpus -- excluded per the no-uncited-glosses rule, confirmed with the person. Only hiphil is attested and now serves as the primary/citation stem; no DEFAULT_STEM_OVERRIDE entry is needed since hiphil is this root's only stem."
+ ],
+ "root": "עוז",
+ "search_match": [
+  "5756",
+  "h5756",
+  "bring into safety; cause to take refuge",
+  "uz",
+  "עוז"
+ ],
+ "citation_translit": "uz",
+ "stem_coverage_checked": true
+}

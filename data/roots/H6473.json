@@ -1,0 +1,56 @@
+{
+ "glosses": [
+  "open wide; gape"
+ ],
+ "strong": "H6473",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וּפָעֲרָה",
+      "translit": "ufa'arah",
+      "ref": "Isa.5.14",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "פָּעֲרוּ",
+      "translit": "pa'aru",
+      "ref": "Job.16.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "פָעַרְתִּי",
+      "translit": "fa'arti",
+      "ref": "Ps.119.131",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Gloss collision: shares \"open wide\" with the existing פטר (H6362) hiphil stem_gloss -- distinct roots, disambiguating search alias added."
+ ],
+ "root": "פער",
+ "search_match": [
+  "6473",
+  "h6473",
+  "open wide; gape (pa'ar)",
+  "pa'ar",
+  "פער"
+ ],
+ "citation_translit": "pa'ar",
+ "stem_coverage_checked": true
+}
