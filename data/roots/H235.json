@@ -1,0 +1,78 @@
+{
+ "glosses": [
+  "go away; be used up"
+ ],
+ "strong": "H235",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְאֹזֵל",
+      "translit": "v'ozel",
+      "ref": "Prov.20.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "אָֽזְלוּ",
+      "translit": "azlu",
+      "ref": "Job.14.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "אָזְלַת",
+      "translit": "azlat",
+      "ref": "Deut.32.36",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "אָזַל",
+      "translit": "azal",
+      "ref": "1Sam.9.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תֵּזְלִי",
+      "translit": "tezli",
+      "ref": "Jer.2.36",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Requested pual (\"go to and fro (check if attested)\") is not attested -- only qal is attested for this root in the corpus. Strong's own usage note for this sense (\"go to and fro\") flags it as resting on a single disputed verse, Ezek.27.19, \"rendered by many 'from Uzal,' by others 'yarn'\" -- and checking that verse directly, the word in question (מְאוּזָּל) is tagged in the corpus as a form of H187 (the place name Uzal), not as a verb at all, let alone this one. Dropped per \"no uncited glosses.\""
+ ],
+ "root": "אזל",
+ "search_match": [
+  "235",
+  "h235",
+  "go away; be used up",
+  "azal",
+  "אזל"
+ ],
+ "citation_translit": "azal",
+ "stem_coverage_checked": true
+}

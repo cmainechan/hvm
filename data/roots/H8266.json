@@ -1,0 +1,96 @@
+{
+ "glosses": [
+  "deal falsely"
+ ],
+ "strong": "H8266",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּשְׁקֹר",
+      "translit": "tishqor",
+      "ref": "Gen.21.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "שִׁקַּרְנוּ",
+      "translit": "shiqqarnu",
+      "ref": "Ps.44.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲשַׁקֵּר",
+      "translit": "ashaqqer",
+      "ref": "Ps.89.34",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְשַׁקְּרוּ",
+      "translit": "tshaqqru",
+      "ref": "Lev.19.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְשַׁקֵּרוּ",
+      "translit": "yshaqqeru",
+      "ref": "Isa.63.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְשַׁקֵּר",
+      "translit": "yshaqqer",
+      "ref": "1Sam.15.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "deal falsely; deceive"
+ },
+ "notes": [
+  "Homonym check: shares consonants ש-ק-ר with H8265 (\"to ogle, blink coquettishly\"), an unrelated root. Requested gloss matches H8266 precisely (\"to cheat, i.e. be untrue\"); no cross-contamination found in the corpus tagging."
+ ],
+ "root": "שקר",
+ "search_match": [
+  "8266",
+  "h8266",
+  "deal falsely",
+  "shaqar",
+  "שקר"
+ ],
+ "citation_translit": "shaqar",
+ "stem_coverage_checked": true
+}

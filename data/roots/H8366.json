@@ -1,0 +1,38 @@
+{
+ "glosses": [
+  "urinate"
+ ],
+ "strong": "H8366",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַשְׁתִּין",
+      "translit": "mashtin",
+      "ref": "1Kgs.14.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Only stem attested is hiphil, always in the fixed idiom \"one who urinates against a wall\" (מַשְׁתִּין בְּקִיר, a byword for \"any male\"); no qal or other stem is attested for this Strong's number."
+ ],
+ "root": "שתן",
+ "search_match": [
+  "8366",
+  "h8366",
+  "urinate",
+  "shatan",
+  "שתן"
+ ],
+ "citation_translit": "shatan",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,97 @@
+{
+ "glosses": [
+  "spread; expand"
+ ],
+ "strong": "H7849",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "שָׁטוֹחַ",
+      "translit": "shatocha",
+      "ref": "Num.11.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "שֹׁטֵחַ",
+      "translit": "shotecha",
+      "ref": "Job.12.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וּשְׁטָחוּם",
+      "translit": "ushtachum",
+      "ref": "Jer.8.2",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּשְׁטַח",
+      "translit": "vattishtach",
+      "ref": "2Sam.17.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּשְׁטְחוּ",
+      "translit": "vayyishtchu",
+      "ref": "Num.11.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "שִׁטַּחְתִּי",
+      "translit": "shittachti",
+      "ref": "Ps.88.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "spread out; stretch out"
+ },
+ "root": "שטח",
+ "search_match": [
+  "7849",
+  "h7849",
+  "spread; expand",
+  "shatach",
+  "שטח"
+ ],
+ "citation_translit": "shatach",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,40 @@
+{
+ "glosses": [
+  "be shaped like almond blossoms"
+ ],
+ "strong": "H8246",
+ "stems": {
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְֽשֻׁקָּדִים",
+      "translit": "mshuqqadim",
+      "ref": "Exod.25.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym check: shares consonants ש-ק-ד with H8244 (\"to fasten\") and H8245 (\"to be alert, sleepless\"), both unrelated roots. Requested gloss matches H8246 precisely (\"to be, intensively make, almond-shaped\"); no cross-contamination found in the corpus tagging.",
+  "Only stem attested is pual (Exod.25.33, describing the lampstand's cups \"made like almond blossoms\"); no qal, piel, or other stem is attested for this Strong's number.",
+  "H8245 already exists in the dataset under the same bare root spelling שקד (a distinct, unrelated root -- \"keep watch\" vs. this root's \"be shaped like almond blossoms\"). Relabeled per the standard homonym convention: this root (the higher Strong's number) is שקד², and H8245.json's root field was retroactively relabeled to שקד¹."
+ ],
+ "root": "שקד²",
+ "search_match": [
+  "8246",
+  "h8246",
+  "be shaped like almond blossoms",
+  "shaqad",
+  "שקד²"
+ ],
+ "citation_translit": "shaqad",
+ "stem_coverage_checked": true
+}

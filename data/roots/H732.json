@@ -1,0 +1,55 @@
+{
+ "glosses": [
+  "journey; wander; go"
+ ],
+ "strong": "H732",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "אֹֽרְחִים",
+      "translit": "orchim",
+      "ref": "Jer.9.1",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "לָאֹרֵחַ",
+      "translit": "la'orecha",
+      "ref": "2Sam.12.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְאָרַח",
+      "translit": "v'arach",
+      "ref": "Job.34.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "ארח",
+ "search_match": [
+  "732",
+  "h732",
+  "journey; wander; go",
+  "arach",
+  "ארח"
+ ],
+ "citation_translit": "arach",
+ "stem_coverage_checked": true
+}

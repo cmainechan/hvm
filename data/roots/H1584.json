@@ -1,0 +1,68 @@
+{
+ "glosses": [
+  "come to an end; complete"
+ ],
+ "strong": "H1584",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִגְמָר",
+      "translit": "yigmar",
+      "ref": "Ps.7.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "גֹּמֵר",
+      "translit": "gomer",
+      "ref": "Ps.57.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "גָמַר",
+      "translit": "gamar",
+      "ref": "Ps.12.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִגְמֹר",
+      "translit": "yigmor",
+      "ref": "Ps.138.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "גמר",
+ "search_match": [
+  "1584",
+  "h1584",
+  "come to an end; complete",
+  "gamar",
+  "גמר"
+ ],
+ "citation_translit": "gamar",
+ "stem_coverage_checked": true
+}

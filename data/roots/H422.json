@@ -1,0 +1,80 @@
+{
+ "glosses": [
+  "swear an oath; curse"
+ ],
+ "strong": "H422",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "אָלוֹת",
+      "translit": "alot",
+      "ref": "Hos.10.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "אָלִית",
+      "translit": "alit",
+      "ref": "Judg.17.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהַֽאֲלֹתוֹ",
+      "translit": "lha'aloto",
+      "ref": "1Kgs.8.31",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֹּאֶל",
+      "translit": "vayyo'el",
+      "ref": "1Sam.14.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "put under oath"
+ },
+ "notes": [
+  "Homonym check: shares consonants א-ל-ה with H421 (\"to bewail\"), an unrelated root. Requested gloss matches H422 precisely (\"to adjure, i.e. usually in a bad sense, imprecate\"); no cross-contamination found in the corpus tagging."
+ ],
+ "root": "אלה",
+ "search_match": [
+  "422",
+  "h422",
+  "swear an oath; curse",
+  "alah",
+  "אלה"
+ ],
+ "citation_translit": "alah",
+ "stem_coverage_checked": true
+}

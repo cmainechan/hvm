@@ -1,0 +1,86 @@
+{
+ "glosses": [
+  "seek; cause to boil up"
+ ],
+ "strong": "H1158",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "בְּעָיוּ",
+      "translit": "b'au",
+      "ref": "Isa.21.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּבְעָיוּן",
+      "translit": "tiv'aun",
+      "ref": "Isa.21.12",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּבְעֶה",
+      "translit": "tiv'eh",
+      "ref": "Isa.64.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִבְעֶה",
+      "translit": "niv'eh",
+      "ref": "Isa.30.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִבְעוּ",
+      "translit": "nivu",
+      "ref": "Obad.1.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be searched out; bulge out"
+ },
+ "root": "בעה",
+ "search_match": [
+  "1158",
+  "h1158",
+  "seek; cause to boil up",
+  "ba'ah",
+  "בעה"
+ ],
+ "citation_translit": "ba'ah",
+ "stem_coverage_checked": true
+}

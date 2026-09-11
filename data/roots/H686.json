@@ -1,0 +1,84 @@
+{
+ "glosses": [
+  "store up"
+ ],
+ "strong": "H686",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הָאֽוֹצְרִים",
+      "translit": "ha'otzrim",
+      "ref": "Amos.3.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "אָצְרוּ",
+      "translit": "atzru",
+      "ref": "2Kgs.20.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵֽאָצֵר",
+      "translit": "ye'atzer",
+      "ref": "Isa.23.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאוֹצְרָה",
+      "translit": "va'otzrah",
+      "ref": "Neh.13.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be stored up",
+  "hiphil": "appoint as treasurer"
+ },
+ "root": "אצר",
+ "search_match": [
+  "686",
+  "h686",
+  "store up",
+  "atzar",
+  "אצר"
+ ],
+ "citation_translit": "atzar",
+ "stem_coverage_checked": true
+}

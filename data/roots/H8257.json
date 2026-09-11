@@ -1,0 +1,104 @@
+{
+ "glosses": [
+  "sink; subside; die down"
+ ],
+ "strong": "H8257",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְשָׁקְעָה",
+      "translit": "vshaq'ah",
+      "ref": "Amos.9.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּשְׁקַע",
+      "translit": "vattishqa",
+      "ref": "Num.11.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּשְׁקַע",
+      "translit": "tishqa",
+      "ref": "Jer.51.64",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְנִשְׁקְעָה",
+      "translit": "vnishq'ah",
+      "ref": "Amos.8.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַשְׁקִיעַ",
+      "translit": "ashqia",
+      "ref": "Ezek.32.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּשְׁקִיעַ",
+      "translit": "tashqia",
+      "ref": "Job.40.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "sink; collapse",
+  "hiphil": "cause to sink; press down"
+ },
+ "root": "שקע",
+ "search_match": [
+  "8257",
+  "h8257",
+  "sink; subside; die down",
+  "shaqa",
+  "שקע"
+ ],
+ "citation_translit": "shaqa",
+ "stem_coverage_checked": true
+}

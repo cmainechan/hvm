@@ -1,0 +1,46 @@
+{
+ "glosses": [
+  "act as an adversary; accuse"
+ ],
+ "strong": "H7853",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְשִׂטְנֽוֹ",
+      "translit": "lsitno",
+      "ref": "Zech.3.1",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשְׂטְנוּנִי",
+      "translit": "yistnuni",
+      "ref": "Ps.109.4",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "שטן",
+ "search_match": [
+  "7853",
+  "h7853",
+  "act as an adversary; accuse",
+  "satan",
+  "שטן"
+ ],
+ "citation_translit": "satan",
+ "stem_coverage_checked": true
+}

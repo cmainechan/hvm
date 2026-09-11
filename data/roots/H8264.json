@@ -1,0 +1,75 @@
+{
+ "glosses": [
+  "rush; range about; long eagerly"
+ ],
+ "strong": "H8264",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "שׁוֹקֵקָה",
+      "translit": "shoqeqah",
+      "ref": "Isa.29.8",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "שׁוֹקֵק",
+      "translit": "shoqeq",
+      "ref": "Isa.33.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָשֹׁקּוּ",
+      "translit": "yashoqqu",
+      "ref": "Joel.2.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpalpel": {
+   "sense_hint": "reflexive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִֽשְׁתַּקְשְׁקוּן",
+      "translit": "yishtaqshqun",
+      "ref": "Nah.2.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hithpalpel": "rush to and fro"
+ },
+ "root": "שקק",
+ "search_match": [
+  "8264",
+  "h8264",
+  "rush; range about; long eagerly",
+  "shaqaq",
+  "שקק"
+ ],
+ "citation_translit": "shaqaq",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,95 @@
+{
+ "glosses": [
+  "drag; drag away"
+ ],
+ "strong": "H1641",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְגֹרֵהוּ",
+      "translit": "ygorehu",
+      "ref": "Hab.1.15",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִגָּר",
+      "translit": "yiggar",
+      "ref": "Lev.11.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "poal": {
+   "sense_hint": "passive (intensive)",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "מְגֹרָרוֹת",
+      "translit": "mgorarot",
+      "ref": "1Kgs.7.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִתְגּוֹרֵר",
+      "translit": "mitgorer",
+      "ref": "Jer.30.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "chew the cud",
+  "poal": "be sawn",
+  "hithpolel": "sweep/rage like a whirlwind"
+ },
+ "notes": [
+  "\"Chew the cud\" is niphal, not qal: its sole attestation (Lev.11.7, יִגָּר, of the pig, \"it does not chew the cud\") is tagged niphal in the corpus, resolving the requested check.",
+  "The requested \"hithpoel\" (מִתְגּוֹרֵר, Jer.30.23, \"the storm... whirls upon the head of the wicked\") is tagged hithpolel in the corpus (morph HVrrmsa, stem letter 'r' = hithpolel, not 'z' = hithpoel, which is a distinct stem letter in this pipeline's mapping) -- shipped under the correct stem name per usual practice."
+ ],
+ "root": "גרר",
+ "search_match": [
+  "1641",
+  "h1641",
+  "drag; drag away",
+  "garar",
+  "גרר"
+ ],
+ "citation_translit": "garar",
+ "stem_coverage_checked": true
+}

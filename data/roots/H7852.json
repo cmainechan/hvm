@@ -1,0 +1,73 @@
+{
+ "glosses": [
+  "bear a grudge"
+ ],
+ "strong": "H7852",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּשְׂטְמֻהוּ",
+      "translit": "vayyistmuhu",
+      "ref": "Gen.49.23",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּשְׂטֹם",
+      "translit": "vayyistom",
+      "ref": "Gen.27.41",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִשְׂטְמֵֽנִי",
+      "translit": "tistmeni",
+      "ref": "Job.30.21",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשְׂטְמֽוּנִי",
+      "translit": "yistmuni",
+      "ref": "Ps.55.4",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשְׂטְמֵנוּ",
+      "translit": "yistmenu",
+      "ref": "Gen.50.15",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "שטם",
+ "search_match": [
+  "7852",
+  "h7852",
+  "bear a grudge",
+  "satam",
+  "שטם"
+ ],
+ "citation_translit": "satam",
+ "stem_coverage_checked": true
+}

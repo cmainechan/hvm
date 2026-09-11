@@ -1,0 +1,86 @@
+{
+ "glosses": [
+  "set a boundary"
+ ],
+ "strong": "H1379",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "גָּבְלוּ",
+      "translit": "gavlu",
+      "ref": "Deut.19.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּגְבָּל",
+      "translit": "tigbal",
+      "ref": "Zech.9.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִגְבֹּל",
+      "translit": "yigbol",
+      "ref": "Josh.18.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַגְבֵּל",
+      "translit": "hagbel",
+      "ref": "Exod.19.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהִגְבַּלְתָּ",
+      "translit": "vhigbalta",
+      "ref": "Exod.19.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "set bounds for"
+ },
+ "root": "גבל",
+ "search_match": [
+  "1379",
+  "h1379",
+  "set a boundary",
+  "gaval",
+  "גבל"
+ ],
+ "citation_translit": "gaval",
+ "stem_coverage_checked": true
+}

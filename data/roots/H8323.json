@@ -1,0 +1,95 @@
+{
+ "glosses": [
+  "rule; act as prince/master"
+ ],
+ "strong": "H8323",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "שֹׂרֵר",
+      "translit": "sorer",
+      "ref": "Esth.1.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָשֹֽׂרוּ",
+      "translit": "yasoru",
+      "ref": "Isa.32.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֵשִׂירוּ",
+      "translit": "hesiru",
+      "ref": "Hos.8.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִשְׂתָּרֵֽר",
+      "translit": "histarer",
+      "ref": "Num.16.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִשְׂתָּרֵר",
+      "translit": "tistarer",
+      "ref": "Num.16.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "appoint/make princes",
+  "hitpael": "make oneself prince; lord over"
+ },
+ "root": "שרר",
+ "search_match": [
+  "8323",
+  "h8323",
+  "rule; act as prince/master",
+  "sarar",
+  "שרר"
+ ],
+ "citation_translit": "sarar",
+ "stem_coverage_checked": true
+}

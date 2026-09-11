@@ -1,0 +1,38 @@
+{
+ "glosses": [
+  "cease; fail; come to an end"
+ ],
+ "strong": "H656",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "אָפֵס",
+      "translit": "afes",
+      "ref": "Gen.47.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Single attestation overall (Gen.47.15, \"our money is at an end\"); flagging per usual practice. The three-part gloss is one blended sense (near-synonyms), not three separately-cited shades."
+ ],
+ "root": "אפס",
+ "search_match": [
+  "656",
+  "h656",
+  "cease; fail; come to an end",
+  "afes",
+  "אפס"
+ ],
+ "citation_translit": "afes",
+ "stem_coverage_checked": true
+}

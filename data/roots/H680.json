@@ -1,0 +1,89 @@
+{
+ "glosses": [
+  "set apart; withhold"
+ ],
+ "strong": "H680",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָצַלְתִּי",
+      "translit": "atzalti",
+      "ref": "Eccl.2.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "אָצַלְתָּ",
+      "translit": "atzalta",
+      "ref": "Gen.27.36",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאָצַלְתִּי",
+      "translit": "v'atzalti",
+      "ref": "Num.11.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּאצֶל",
+      "translit": "vayya'tzel",
+      "ref": "Num.11.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נֶאֱצַל",
+      "translit": "ne'etzal",
+      "ref": "Ezek.42.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be withdrawn; be shortened"
+ },
+ "notes": [
+  "Requested hiphil (\"set apart\") is not attested -- only qal and niphal are attested in the corpus for this Strong's number (4 qal forms, 1 niphal form). BDB's own entry gives no separate citation for hiphil, only the terse note \"Hiph. = Qal\" (i.e. BDB itself doesn't distinguish a separate hiphil sense or cite a hiphil-specific verse). Dropped per \"no uncited glosses.\""
+ ],
+ "root": "אצל",
+ "search_match": [
+  "680",
+  "h680",
+  "set apart; withhold",
+  "atzal",
+  "אצל"
+ ],
+ "citation_translit": "atzal",
+ "stem_coverage_checked": true
+}
