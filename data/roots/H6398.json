@@ -1,0 +1,75 @@
+{
+ "glosses": [
+  "cleave; plow"
+ ],
+ "strong": "H6398",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "פֹלֵחַ",
+      "translit": "folecha",
+      "ref": "Ps.141.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְפַלַּח",
+      "translit": "vayfallach",
+      "ref": "2Kgs.4.39",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְפַלַּח",
+      "translit": "yfallach",
+      "ref": "Job.16.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תְּפַלַּחְנָה",
+      "translit": "tfallachnah",
+      "ref": "Job.39.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "pierce open; cut up"
+ },
+ "root": "פלח",
+ "search_match": [
+  "6398",
+  "h6398",
+  "cleave; plow",
+  "palach",
+  "פלח"
+ ],
+ "citation_translit": "palach",
+ "stem_coverage_checked": true
+}

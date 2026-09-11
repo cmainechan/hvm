@@ -1,0 +1,75 @@
+{
+ "glosses": [
+  "twist oneself; wrestle; be tortuous"
+ ],
+ "strong": "H6617",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "נִפְתַּלְתִּי",
+      "translit": "niftalti",
+      "ref": "Gen.30.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נִפְתָּלִים",
+      "translit": "niftalim",
+      "ref": "Job.5.13",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִפְתָּל",
+      "translit": "niftal",
+      "ref": "Prov.8.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּתַּפָּֽל",
+      "translit": "tittappal",
+      "ref": "2Sam.22.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hitpael": "deal cunningly"
+ },
+ "root": "פתל",
+ "search_match": [
+  "6617",
+  "h6617",
+  "twist oneself; wrestle; be tortuous",
+  "patal",
+  "פתל"
+ ],
+ "citation_translit": "patal",
+ "stem_coverage_checked": true
+}

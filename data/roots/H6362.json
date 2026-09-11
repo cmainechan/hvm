@@ -1,0 +1,80 @@
+{
+ "glosses": [
+  "separate; escape; set free"
+ ],
+ "strong": "H6362",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "פְּטוּרִים",
+      "translit": "pturim",
+      "ref": "1Chr.9.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּפְטַר",
+      "translit": "vayyiftar",
+      "ref": "1Sam.19.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "פָטַר",
+      "translit": "fatar",
+      "ref": "2Chr.23.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַפְטִירוּ",
+      "translit": "yaftiru",
+      "ref": "Ps.22.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "open wide"
+ },
+ "notes": [
+  "Requested hiphil sense \"separate\" excluded -- the corpus's sole hiphil attestation (Ps.22.8, יַפְטִירוּ) is \"open wide\" (the lip), not \"separate\"; \"separate\" is already independently attested under qal, so no coverage is actually lost."
+ ],
+ "root": "פטר",
+ "search_match": [
+  "6362",
+  "h6362",
+  "separate; escape; set free",
+  "patar",
+  "פטר"
+ ],
+ "citation_translit": "patar",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,68 @@
+{
+ "glosses": [
+  "drag; drag away"
+ ],
+ "strong": "H5498",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וְסָחַבְנוּ",
+      "translit": "vsachavnu",
+      "ref": "2Sam.17.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִסְחֹב",
+      "translit": "lischov",
+      "ref": "Jer.15.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "סָחוֹב",
+      "translit": "sachov",
+      "ref": "Jer.22.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִסְחָבוּם",
+      "translit": "yischavum",
+      "ref": "Jer.49.20",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "סחב",
+ "search_match": [
+  "5498",
+  "h5498",
+  "drag; drag away",
+  "sachav",
+  "סחב"
+ ],
+ "citation_translit": "sachav",
+ "stem_coverage_checked": true
+}

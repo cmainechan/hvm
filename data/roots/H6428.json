@@ -1,0 +1,55 @@
+{
+ "glosses": [
+  "roll oneself in dust or ashes"
+ ],
+ "strong": "H6428",
+ "stems": {
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתְפַּלָּֽשׁוּ",
+      "translit": "yitpallashu",
+      "ref": "Ezek.27.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הִתְפַּלָּֽשִׁי",
+      "translit": "hitpallashi",
+      "ref": "Mic.1.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהִֽתְפַּלְּשׁוּ",
+      "translit": "vhitpallshu",
+      "ref": "Jer.25.34",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "פלש",
+ "search_match": [
+  "6428",
+  "h6428",
+  "roll oneself in dust or ashes",
+  "palash",
+  "פלש"
+ ],
+ "citation_translit": "palash",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,55 @@
+{
+ "glosses": [
+  "kindle; burn; be kindled"
+ ],
+ "strong": "H6919",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "קָדְחָה",
+      "translit": "qadchah",
+      "ref": "Deut.32.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "קְדַחְתֶּם",
+      "translit": "qdachtem",
+      "ref": "Jer.17.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כִּקְדֹחַ",
+      "translit": "kiqdocha",
+      "ref": "Isa.64.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "קדח",
+ "search_match": [
+  "6919",
+  "h6919",
+  "kindle; burn; be kindled",
+  "qadach",
+  "קדח"
+ ],
+ "citation_translit": "qadach",
+ "stem_coverage_checked": true
+}

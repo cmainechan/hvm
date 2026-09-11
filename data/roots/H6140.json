@@ -1,0 +1,98 @@
+{
+ "glosses": [
+  "twist; make crooked"
+ ],
+ "strong": "H6140",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "עִקְּשׁוּ",
+      "translit": "iqqshu",
+      "ref": "Isa.59.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְעַקֵּֽשׁוּ",
+      "translit": "y'aqqeshu",
+      "ref": "Mic.3.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּמְעַקֵּשׁ",
+      "translit": "um'aqqesh",
+      "ref": "Prov.10.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַֽיַּעְקְשֵֽׁנִי",
+      "translit": "vayyaqsheni",
+      "ref": "Job.9.20",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive (only biblical occurrence is a construct-state participle, not a free citation form -- shown here as an explicit exception to the absolute-state-only participle rule, since no other attestation exists)",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg. (construct, only attestation)",
+      "heb": "וְנֶעְקַשׁ",
+      "translit": "vneqash",
+      "ref": "Prov.28.18",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be crooked; be perverse",
+  "hiphil": "declare perverse"
+ },
+ "notes": [
+  "Niphal's sole attestation (Prov.28.18, וְנֶעְקַשׁ) is a construct-state participle, normally excluded by the absolute-state-only participle rule -- kept as an explicit exception (precedent: H2904's pilpel) since no other niphal attestation exists. Piel is set as the primary/wheel stem via DEFAULT_STEM_OVERRIDE despite niphal sorting first in STEM_ORDER and despite BDB and the source list both citing niphal first, because niphal here is a single marginal exception form while piel is the solidly-attested core sense (3 forms)."
+ ],
+ "root": "עקש",
+ "search_match": [
+  "6140",
+  "h6140",
+  "twist; make crooked",
+  "aqash",
+  "עקש"
+ ],
+ "citation_translit": "aqash",
+ "stem_coverage_checked": true
+}

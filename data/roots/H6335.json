@@ -1,0 +1,77 @@
+{
+ "glosses": [
+  "leap; frolic"
+ ],
+ "strong": "H6335",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וּפָשׁוּ",
+      "translit": "ufashu",
+      "ref": "Hab.1.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תָפוּשׁוּ",
+      "translit": "tafushu",
+      "ref": "Jer.50.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וּפִשְׁתֶּם",
+      "translit": "ufishtem",
+      "ref": "Mal.3.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָפֹשׁוּ",
+      "translit": "nafoshu",
+      "ref": "Nah.3.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be scattered"
+ },
+ "root": "פוש",
+ "search_match": [
+  "6335",
+  "h6335",
+  "leap; frolic",
+  "push",
+  "פוש"
+ ],
+ "citation_translit": "push",
+ "stem_coverage_checked": true
+}

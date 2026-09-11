@@ -1,0 +1,102 @@
+{
+ "glosses": [
+  "make distinct; declare clearly"
+ ],
+ "strong": "H6567",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִפְרֹשׁ",
+      "translit": "lifrosh",
+      "ref": "Lev.24.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "נִפְרָשׁוֹת",
+      "translit": "nifrashot",
+      "ref": "Ezek.34.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְפֹרָשׁ",
+      "translit": "mforash",
+      "ref": "Neh.8.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "פֹרַשׁ",
+      "translit": "forash",
+      "ref": "Num.15.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַפְרִֽשׁ",
+      "translit": "yafrish",
+      "ref": "Prov.23.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be separated",
+  "pual": "be distinctly declared; be made clear",
+  "hiphil": "pierce; sting"
+ },
+ "root": "פרש²",
+ "search_match": [
+  "6567",
+  "h6567",
+  "make distinct; declare clearly",
+  "parash",
+  "פרש²"
+ ],
+ "citation_translit": "parash",
+ "stem_coverage_checked": true
+}

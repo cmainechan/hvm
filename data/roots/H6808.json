@@ -1,0 +1,73 @@
+{
+ "glosses": [
+  "stoop; bend; incline; tip"
+ ],
+ "strong": "H6808",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "צֹעֶה",
+      "translit": "tzo'eh",
+      "ref": "Isa.51.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "צֹעָה",
+      "translit": "tzo'ah",
+      "ref": "Jer.2.20",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "צֹעִים",
+      "translit": "tzo'im",
+      "ref": "Jer.48.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְצֵעֻהוּ",
+      "translit": "vtze'uhu",
+      "ref": "Jer.48.12",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "tip over; empty out"
+ },
+ "root": "צעה",
+ "search_match": [
+  "6808",
+  "h6808",
+  "stoop; bend; incline; tip",
+  "tza'ah",
+  "צעה"
+ ],
+ "citation_translit": "tza'ah",
+ "stem_coverage_checked": true
+}

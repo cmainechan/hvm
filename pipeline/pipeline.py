@@ -305,6 +305,10 @@ KNOWN_EXCEPTIONS = {
     ('H2904', 'pilpel', 'participle_active', 'ms'),  # only attestation is a
     # construct-state participle with a suffix; kept anyway per an explicit
     # decision, since there is no alternative attestation at all.
+    ('H6140', 'niphal', 'participle_passive', 'ms'),  # only attestation
+    # (Prov.28.18, וְנֶעְקַשׁ) is a construct-state participle; kept anyway
+    # per the same explicit exception as H2904, since no other niphal
+    # attestation exists.
 }
 
 

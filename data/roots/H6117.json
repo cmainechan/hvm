@@ -1,0 +1,88 @@
+{
+ "glosses": [
+  "follow at the heel; supplant"
+ ],
+ "strong": "H6117",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַֽיַּעְקְבֵנִי",
+      "translit": "vayyaqveni",
+      "ref": "Gen.27.36",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "עָקַב",
+      "translit": "aqav",
+      "ref": "Hos.12.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "עָקוֹב",
+      "translit": "aqov",
+      "ref": "Jer.9.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַעְקֹב",
+      "translit": "yaqov",
+      "ref": "Jer.9.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְעַקְּבֵם",
+      "translit": "y'aqqvem",
+      "ref": "Job.37.4",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "hold back"
+ },
+ "root": "עקב",
+ "search_match": [
+  "6117",
+  "h6117",
+  "follow at the heel; supplant",
+  "aqav",
+  "עקב"
+ ],
+ "citation_translit": "aqav",
+ "stem_coverage_checked": true
+}

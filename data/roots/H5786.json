@@ -1,0 +1,46 @@
+{
+ "glosses": [
+  "blind"
+ ],
+ "strong": "H5786",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "עִוֵּר",
+      "translit": "ivver",
+      "ref": "2Kgs.25.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְעַוֵּר",
+      "translit": "y'avver",
+      "ref": "Deut.16.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "עור²",
+ "search_match": [
+  "5786",
+  "h5786",
+  "blind",
+  "avar",
+  "עור²"
+ ],
+ "citation_translit": "avar",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,88 @@
+{
+ "glosses": [
+  "pluck off/out"
+ ],
+ "strong": "H6998",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְקָטַפְתָּ",
+      "translit": "vqatafta",
+      "ref": "Deut.23.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "קָטָף",
+      "translit": "qataf",
+      "ref": "Ezek.17.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶקְטֹף",
+      "translit": "eqtof",
+      "ref": "Ezek.17.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַקֹּטְפִים",
+      "translit": "haqqotfim",
+      "ref": "Job.30.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִקָּטֵף",
+      "translit": "yiqqatef",
+      "ref": "Job.8.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be plucked off"
+ },
+ "root": "קטף",
+ "search_match": [
+  "6998",
+  "h6998",
+  "pluck off/out",
+  "qataf",
+  "קטף"
+ ],
+ "citation_translit": "qataf",
+ "stem_coverage_checked": true
+}

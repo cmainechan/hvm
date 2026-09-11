@@ -1,0 +1,64 @@
+{
+ "glosses": [
+  "bow down in worship"
+ ],
+ "strong": "H5456",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּסְגָּד",
+      "translit": "vayyisgad",
+      "ref": "Isa.44.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִסְגָּד",
+      "translit": "yisgad",
+      "ref": "Isa.44.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶסְגּֽוֹד",
+      "translit": "esgod",
+      "ref": "Isa.44.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִסְגְּדוּ",
+      "translit": "yisgdu",
+      "ref": "Isa.46.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "סגד",
+ "search_match": [
+  "5456",
+  "h5456",
+  "bow down in worship",
+  "sagad",
+  "סגד"
+ ],
+ "citation_translit": "sagad",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,94 @@
+{
+ "glosses": [
+  "cut off"
+ ],
+ "strong": "H7096",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "קְצוֹת",
+      "translit": "qtzot",
+      "ref": "Hab.2.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְקַצּוֹת",
+      "translit": "lqattzot",
+      "ref": "2Kgs.10.32",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְקַצֶּה",
+      "translit": "mqattzeh",
+      "ref": "Prov.26.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִקְצוּ",
+      "translit": "hiqtzu",
+      "ref": "Lev.14.41",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִקְצוֹת",
+      "translit": "hiqtzot",
+      "ref": "Lev.14.43",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "scrape off"
+ },
+ "root": "קצה",
+ "search_match": [
+  "7096",
+  "h7096",
+  "cut off",
+  "qatzah",
+  "קצה"
+ ],
+ "citation_translit": "qatzah",
+ "stem_coverage_checked": true
+}

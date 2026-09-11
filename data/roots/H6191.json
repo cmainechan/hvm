@@ -1,0 +1,66 @@
+{
+ "glosses": [
+  "be shrewd; act craftily"
+ ],
+ "strong": "H6191",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "עָרוֹם",
+      "translit": "arom",
+      "ref": "1Sam.23.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַעְרִם",
+      "translit": "yarim",
+      "ref": "1Sam.23.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַעֲרִימוּ",
+      "translit": "ya'arimu",
+      "ref": "Ps.83.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "be/become shrewd; make crafty"
+ },
+ "root": "ערם",
+ "search_match": [
+  "6191",
+  "h6191",
+  "be shrewd; act craftily",
+  "aram",
+  "ערם"
+ ],
+ "citation_translit": "aram",
+ "stem_coverage_checked": true
+}
