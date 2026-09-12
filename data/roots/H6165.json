@@ -1,0 +1,40 @@
+{
+ "glosses": [
+  "long for"
+ ],
+ "strong": "H6165",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תַּעֲרוֹג",
+      "translit": "ta'arog",
+      "ref": "Joel.1.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Qal's only slot (yiqtol 3fs) is attested identically in Joel.1.20 and twice within Ps.42.2 itself (the verse repeats the verb once for the hart and once for the soul); Joel.1.20 kept as citation per the usual duplicate-slot tie-break.",
+  "Gloss collision: \"long for\" (exact) matches the existing כסף (H3700) root gloss -- disambiguating search alias added."
+ ],
+ "root": "ערג",
+ "search_match": [
+  "6165",
+  "h6165",
+  "long for (arag)",
+  "arag",
+  "ערג"
+ ],
+ "citation_translit": "arag",
+ "stem_coverage_checked": true
+}

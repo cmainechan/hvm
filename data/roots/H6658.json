@@ -1,0 +1,71 @@
+{
+ "glosses": [
+  "lie in wait"
+ ],
+ "strong": "H6658",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "צֹדֶה",
+      "translit": "tzodeh",
+      "ref": "1Sam.24.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "צָדָה",
+      "translit": "tzadah",
+      "ref": "Exod.21.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִצְדּוּ",
+      "translit": "nitzdu",
+      "ref": "Zeph.3.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be laid waste"
+ },
+ "root": "צדה",
+ "search_match": [
+  "6658",
+  "h6658",
+  "lie in wait (tzadah)",
+  "tzadah",
+  "צדה"
+ ],
+ "citation_translit": "tzadah",
+ "stem_coverage_checked": true,
+ "notes": [
+  "Gloss collision: \"lie in wait\" (exact) matches the existing ארב (H693) root gloss and a clause of שור (H7789, \"behold; lie in wait\") -- disambiguating search alias added."
+ ]
+}

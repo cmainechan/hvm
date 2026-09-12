@@ -1,0 +1,54 @@
+{
+ "glosses": [
+  "fail"
+ ],
+ "strong": "H5405",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיָבֵֽשׁ",
+      "translit": "vyavesh",
+      "ref": "Isa.19.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נָשָׁתָּה",
+      "translit": "nashattah",
+      "ref": "Isa.41.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Requested qal clause \"be parched\" excluded per the no-uncited-glosses rule -- H5405's own lexicon <usage> note lists only \"fail.\" as its KJV rendering across every occurrence in the Bible; \"dry up\" is the dictionary's alternate definition text, not an attested translation, and neither citation (Isa.41.17 \"their tongue faileth for thirst\", Jer.51.30 \"their might hath failed\") is rendered as literal parching.",
+  "Requested niphal (\"be dried up\") checked and found unattested -- zero niphal occurrences anywhere in the corpus for this root. Only qal is attested.",
+  "A third apparent qal veqatal occurrence (Isa.19.5, וְיָבֵשׁ) is excluded as textually contested: this word is spelled and glossed exactly like יבש (H3001, \"be dry\"), and the immediately preceding word in the same verse (וְנִשְּׁתוּ, spelled like נשת itself) is tagged with lemma H3001 instead -- the two lemma tags look swapped between these adjacent words in the source corpus. Recommend exclusion rather than resolving the swap myself.",
+  "Qal's only slot (perfect 3fs) is attested in both Isa.41.17 and Jer.51.30 (different spellings, same sense); Isa.41.17 kept as citation per the usual duplicate-slot tie-break.",
+  "Gloss collision: \"fail\" (exact) matches the existing אפס (H656) root gloss -- disambiguating search alias added. Also overlaps the existing כחש (H3584) piel stem_gloss \"fail\", but that's stem-level on their side, so no alias needed for that one."
+ ],
+ "root": "נשת",
+ "search_match": [
+  "5405",
+  "h5405",
+  "fail (nashat)",
+  "nashat",
+  "נשת"
+ ],
+ "citation_translit": "nashat",
+ "stem_coverage_checked": true
+}

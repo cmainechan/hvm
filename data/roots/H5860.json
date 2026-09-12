@@ -1,0 +1,48 @@
+{
+ "glosses": [
+  "swoop upon"
+ ],
+ "strong": "H5860",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּעַט",
+      "translit": "vayya'at",
+      "ref": "1Sam.14.32",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתַּעַט",
+      "translit": "vatta'at",
+      "ref": "1Sam.15.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Requested clause \"scream\" excluded: its only candidate citation (1Sam.25.14, \"he railed at them\") competes for the exact same paradigm slot (qal wayyiqtol 3ms) as 1Sam.14.32's \"swoop upon the spoil\" -- the data model can only display one representative form per slot, and the usual tie-break (bare form, earliest ref) keeps 1Sam.14.32. With no independent citation elsewhere, \"scream\" has no citable form left in the shipped data once the collision resolves. \"Swoop upon\" is independently confirmed by 1Sam.15.19 (a different slot, 2ms), unaffected by the collision."
+ ],
+ "root": "עיט",
+ "search_match": [
+  "5860",
+  "h5860",
+  "swoop upon",
+  "it",
+  "עיט"
+ ],
+ "citation_translit": "it",
+ "stem_coverage_checked": true
+}

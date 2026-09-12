@@ -1,0 +1,72 @@
+{
+ "glosses": [
+  "be shut up"
+ ],
+ "strong": "H5534",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּסָּֽכְרוּ",
+      "translit": "vayyissakhru",
+      "ref": "Gen.8.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִסָּכֵר",
+      "translit": "yissakher",
+      "ref": "Ps.63.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְסִכַּרְתִּי",
+      "translit": "vsikkarti",
+      "ref": "Isa.19.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "deliver over"
+ },
+ "notes": [
+  "Requested piel gloss \"shut up; deliver over\" trimmed to \"deliver over\" per the compound-gloss standard: the only piel citation (Isa.19.4, \"I will deliver over the Egyptians into the hand of a cruel lord\") shows the figurative \"surrender/hand over\" sense; literal \"shut up\" is independently attested but only in niphal (Gen.8.2, Ps.63.12), not piel.",
+  "Gloss overlap (stem-level, not a search-index collision): \"be shut up\" matches the existing סגר (H5462) pual stem_gloss, whose own root-level gloss is \"shut\" -- no alias needed."
+ ],
+ "root": "סכר",
+ "search_match": [
+  "5534",
+  "h5534",
+  "be shut up",
+  "sakhar",
+  "סכר"
+ ],
+ "citation_translit": "sakhar",
+ "stem_coverage_checked": true
+}

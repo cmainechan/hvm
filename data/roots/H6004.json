@@ -1,0 +1,61 @@
+{
+ "glosses": [
+  "darken"
+ ],
+ "strong": "H6004",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "עֲמָמֽוּךָ",
+      "translit": "amamukha",
+      "ref": "Ezek.28.3",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יוּעַם",
+      "translit": "u'am",
+      "ref": "Lam.4.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hophal": "grow dark"
+ },
+ "notes": [
+  "Qal's perfect 3cp slot is attested identically (same clause, \"no secret is hidden/darkened from you\") in both Ezek.28.3 and Ezek.31.8; Ezek.28.3 kept as citation per the usual duplicate-slot tie-break.",
+  "Gloss overlap (stem-level, not a search-index collision): \"grow dark\" (hophal) matches the existing קדר (H6937) hitpael stem_gloss, whose own root-level gloss is \"be dark\" -- no alias needed."
+ ],
+ "root": "עמם",
+ "search_match": [
+  "6004",
+  "h6004",
+  "darken",
+  "amam",
+  "עמם"
+ ],
+ "citation_translit": "amam",
+ "stem_coverage_checked": true
+}

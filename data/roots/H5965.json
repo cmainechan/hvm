@@ -1,0 +1,79 @@
+{
+ "glosses": [
+  "rejoice"
+ ],
+ "strong": "H5965",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַעֲלֹֽס",
+      "translit": "ya'alos",
+      "ref": "Job.20.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נֶעֱלָסָה",
+      "translit": "ne'elasah",
+      "ref": "Job.39.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "cohortative": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "נִתְעַלְּסָה",
+      "translit": "nit'allsah",
+      "ref": "Prov.7.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "exult",
+  "hitpael": "delight oneself"
+ },
+ "root": "עלס",
+ "search_match": [
+  "5965",
+  "h5965",
+  "rejoice (alas)",
+  "alas",
+  "עלס"
+ ],
+ "citation_translit": "alas",
+ "stem_coverage_checked": true,
+ "notes": [
+  "Gloss collision: \"rejoice\" (exact) matches THREE existing root-level glosses -- שמח (H8055), חדה (H2302), and גיל (H1523) -- disambiguating search alias added. \"exult\" (niphal) and \"delight oneself\" (hitpael) also overlap existing root/stem glosses (עלז, עלץ, שוש for \"exult\"; ענג, שעע for \"delight oneself\"), but those are stem-level on our side, so no alias needed for our own search index."
+ ]
+}

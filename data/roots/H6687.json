@@ -1,0 +1,72 @@
+{
+ "glosses": [
+  "overflow"
+ ],
+ "strong": "H6687",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "צָֽפוּ",
+      "translit": "tzafu",
+      "ref": "Lam.3.54",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּצֶף",
+      "translit": "vayyatzef",
+      "ref": "2Kgs.6.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֵצִיף",
+      "translit": "hetzif",
+      "ref": "Deut.11.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "cause to overflow; cause to float"
+ },
+ "notes": [
+  "Hiphil gloss kept as the requested compound: Deut.11.4 (\"made the water of the Red sea to overflow them\") and 2Kgs.6.6 (\"the iron did swim/float\") are two genuinely distinct actions -- overflowing water versus a solid object floating -- each independently cited in its own paradigm slot.",
+  "Gloss collision: \"overflow\" matches a clause of the existing שטף (H7857, \"overflow; wash off\") root gloss -- disambiguating search alias added."
+ ],
+ "root": "צוף",
+ "search_match": [
+  "6687",
+  "h6687",
+  "overflow (tzuf)",
+  "tzuf",
+  "צוף"
+ ],
+ "citation_translit": "tzuf",
+ "stem_coverage_checked": true
+}

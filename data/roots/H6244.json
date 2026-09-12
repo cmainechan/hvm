@@ -1,0 +1,49 @@
+{
+ "glosses": [
+  "waste away"
+ ],
+ "strong": "H6244",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "עָשְׁשָׁה",
+      "translit": "ashshah",
+      "ref": "Ps.31.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "עָשֵֽׁשׁוּ",
+      "translit": "asheshu",
+      "ref": "Ps.31.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Qal's perfect 3fs slot is attested identically (same clause, \"mine eye is consumed/wasted with grief\") in both Ps.6.8 and Ps.31.10; Ps.6.8 kept as citation per the usual duplicate-slot tie-break. Ps.31.11 (3cp, \"my bones are wasted away\") is a separate slot and is kept independently.",
+  "Gloss collision: \"waste away\" (exact) matches the existing מסס (H4549) root gloss and a clause of זוב (H2100, \"flow; waste away\") -- disambiguating search alias added. Also overlaps כחש (H3584)'s piel stem_gloss \"waste away\", stem-level on their side, no alias needed for that one."
+ ],
+ "root": "עשש",
+ "search_match": [
+  "6244",
+  "h6244",
+  "waste away (ashesh)",
+  "ashesh",
+  "עשש"
+ ],
+ "citation_translit": "ashesh",
+ "stem_coverage_checked": true
+}

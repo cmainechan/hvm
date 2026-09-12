@@ -1,0 +1,68 @@
+{
+ "glosses": [
+  "become evening; grow dark"
+ ],
+ "strong": "H6150",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "עָֽרְבָה",
+      "translit": "arvah",
+      "ref": "Isa.24.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַעֲרֹב",
+      "translit": "la'arov",
+      "ref": "Judg.19.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְהַעֲרֵב",
+      "translit": "vha'arev",
+      "ref": "1Sam.17.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym risk: three Hebrew verbs share the consonants ערב -- H6148 (\"pledge\", already in the dataset as ערב¹), H6149 (\"be pleasing\", already ערב²), and this root H6150 (\"grow dusky at sundown\"). Resolved by meaning against the person's given gloss; added as ערב³, the next-ascending Strong's number after the two already tracked."
+ ],
+ "root": "ערב³",
+ "search_match": [
+  "6150",
+  "h6150",
+  "become evening; grow dark",
+  "arav",
+  "ערב³"
+ ],
+ "citation_translit": "arav",
+ "stem_coverage_checked": true
+}

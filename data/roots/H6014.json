@@ -1,0 +1,71 @@
+{
+ "glosses": [
+  "bind sheaves"
+ ],
+ "strong": "H6014",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְעַמֵּֽר",
+      "translit": "m'ammer",
+      "ref": "Ps.129.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִתְעַמֵּר",
+      "translit": "tit'ammer",
+      "ref": "Deut.21.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהִתְעַמֶּר",
+      "translit": "vhit'ammer",
+      "ref": "Deut.24.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hitpael": "mistreat"
+ },
+ "notes": [
+  "Requested hitpael gloss \"deal tyrannically; mistreat\" trimmed to \"mistreat\" per the compound-gloss standard: both citations (Deut.24.7, of a kidnapped Israelite \"made merchandise of\"; Deut.21.14, of a captive wife not to be sold or mistreated) describe the identical evidenced sense -- \"deal tyrannically\" and \"mistreat\" are two English words for the same act, not two distinct senses."
+ ],
+ "root": "עמר",
+ "search_match": [
+  "6014",
+  "h6014",
+  "bind sheaves",
+  "amar",
+  "עמר"
+ ],
+ "citation_translit": "amar",
+ "stem_coverage_checked": true
+}

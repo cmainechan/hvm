@@ -56,13 +56,16 @@
    "gloss_trim_checked": true
   }
  },
- "root": "צוק",
+ "notes": [
+  "Retroactively renamed from the plain key \"צוק\" to \"צוק¹\" when H6694 (\"pour out; melt/smelt\") was added to the dataset as \"צוק²\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
+ ],
+ "root": "צוק¹",
  "search_match": [
   "6693",
   "h6693",
   "constrain; oppress",
   "tzuq",
-  "צוק"
+  "צוק¹"
  ],
  "citation_translit": "tzuq",
  "stem_coverage_checked": true

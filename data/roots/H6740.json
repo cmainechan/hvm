@@ -1,0 +1,59 @@
+{
+ "glosses": [
+  "roast"
+ ],
+ "strong": "H6740",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִצְלוֹת",
+      "translit": "litzlot",
+      "ref": "1Sam.2.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִצְלֶה",
+      "translit": "yitzleh",
+      "ref": "Isa.44.16",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶצְלֶה",
+      "translit": "etzleh",
+      "ref": "Isa.44.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "צלה",
+ "search_match": [
+  "6740",
+  "h6740",
+  "roast (tzalah)",
+  "tzalah",
+  "צלה"
+ ],
+ "citation_translit": "tzalah",
+ "stem_coverage_checked": true,
+ "notes": [
+  "Gloss collision: \"roast\" matches a clause of the existing קלה¹ (H7033, \"roast; parch\") root gloss -- disambiguating search alias added."
+ ]
+}

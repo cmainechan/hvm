@@ -1,0 +1,48 @@
+{
+ "glosses": [
+  "be thick; grow fat"
+ ],
+ "strong": "H5666",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "עָבָה",
+      "translit": "avah",
+      "ref": "1Kgs.12.10",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "עָבִיתָ",
+      "translit": "avita",
+      "ref": "Deut.32.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Qal's perfect 3ms slot is attested identically (same clause, \"my little finger is thicker than my father's loins\") in both 1Kgs.12.10 and 2Chr.10.10 (Rehoboam's reply, told twice); 1Kgs.12.10 kept as citation per the usual duplicate-slot tie-break."
+ ],
+ "root": "עבה",
+ "search_match": [
+  "5666",
+  "h5666",
+  "be thick; grow fat",
+  "avah",
+  "עבה"
+ ],
+ "citation_translit": "avah",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,40 @@
+{
+ "glosses": [
+  "alight"
+ ],
+ "strong": "H6795",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּצְנַח",
+      "translit": "vattitznach",
+      "ref": "Josh.15.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Requested clause \"descend\" excluded: its only candidate citation (Judg.4.21, of Jael's tent-peg \"going down\" into the ground) competes for the exact same paradigm slot (qal wayyiqtol 3fs) as Josh.15.18/Judg.1.14's \"alight\" (Achsah dismounting her donkey) -- the data model can only display one representative form per slot, and the usual tie-break (bare form, earliest ref) keeps Josh.15.18. \"Alight\" is independently attested twice (Josh.15.18 and its doublet Judg.1.14) even before the collision, so it is the safer sense to keep; \"descend\" has no citation left once the collision resolves.",
+  "Qal's wayyiqtol 3fs slot is attested identically in Josh.15.18 and its doublet Judg.1.14 (Achsah's story is told in both books); Josh.15.18 kept as citation per the usual duplicate-slot tie-break."
+ ],
+ "root": "צנח",
+ "search_match": [
+  "6795",
+  "h6795",
+  "alight",
+  "tzanach",
+  "צנח"
+ ],
+ "citation_translit": "tzanach",
+ "stem_coverage_checked": true
+}

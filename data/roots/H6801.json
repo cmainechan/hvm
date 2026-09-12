@@ -1,0 +1,50 @@
+{
+ "glosses": [
+  "wrap"
+ ],
+ "strong": "H6801",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "צָנוֹף",
+      "translit": "tzanof",
+      "ref": "Isa.22.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִצְנֹף",
+      "translit": "yitznof",
+      "ref": "Lev.16.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "צנף",
+ "search_match": [
+  "6801",
+  "h6801",
+  "wrap (tzanaf)",
+  "tzanaf",
+  "צנף"
+ ],
+ "citation_translit": "tzanaf",
+ "stem_coverage_checked": true,
+ "notes": [
+  "Gloss collision: \"wrap\" (exact) matches the existing לוט (H3874) root gloss -- distinct roots, disambiguating search alias added."
+ ]
+}

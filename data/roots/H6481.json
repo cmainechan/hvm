@@ -1,0 +1,50 @@
+{
+ "glosses": [
+  "wound"
+ ],
+ "strong": "H6481",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וּפָצֹֽעַ",
+      "translit": "ufatzoa",
+      "ref": "1Kgs.20.37",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "פְצָעוּנִי",
+      "translit": "ftzauni",
+      "ref": "Song.5.7",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Requested clause \"crush\" excluded per the no-uncited-glosses rule: both attestations (1Kgs.20.37, \"in smiting he wounded him\"; Song.5.7, \"they smote me, they wounded me\") show injury from a blow (\"wound\"), not crushing -- neither citation, nor Strong's own definition (\"to split, i.e. wound\"), supports \"crush\" as a sense of this root."
+ ],
+ "root": "פצע",
+ "search_match": [
+  "6481",
+  "h6481",
+  "wound",
+  "patza",
+  "פצע"
+ ],
+ "citation_translit": "patza",
+ "stem_coverage_checked": true
+}

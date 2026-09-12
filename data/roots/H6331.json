@@ -1,0 +1,51 @@
+{
+ "glosses": [
+  "bring to nothing"
+ ],
+ "strong": "H6331",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֵפִיר",
+      "translit": "hefir",
+      "ref": "Ezek.17.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָפִיר",
+      "translit": "afir",
+      "ref": "Ps.89.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Requested clause \"crush\" excluded per the no-uncited-glosses rule: all three attestations (Ezek.17.19 \"my covenant that he hath broken\"; Ps.33.10 \"the LORD bringeth the counsel of the heathen to nought\"; Ps.89.34 \"my lovingkindness will I not utterly take from him\") show the abstract \"annul/frustrate/thwart\" sense, not literal crushing -- H6331's lexicon definition (\"to crush\") is not attested anywhere in this corpus in its literal sense.",
+  "Hiphil's perfect 3ms slot is attested identically in Ezek.17.19 and Ps.33.10; Ezek.17.19 kept as citation per the usual duplicate-slot tie-break. Ps.89.34 (1cs) is a separate slot and is kept independently."
+ ],
+ "root": "פור",
+ "search_match": [
+  "6331",
+  "h6331",
+  "bring to nothing",
+  "pur",
+  "פור"
+ ],
+ "citation_translit": "pur",
+ "stem_coverage_checked": true
+}

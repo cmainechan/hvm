@@ -1,0 +1,51 @@
+{
+ "glosses": [
+  "pour out; melt/smelt"
+ ],
+ "strong": "H6694",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "צָקוּן",
+      "translit": "tzaqun",
+      "ref": "Isa.26.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָצוּק",
+      "translit": "yatzuq",
+      "ref": "Job.28.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "True homograph of the existing H6693 (צוק¹, \"constrain; oppress\"), both spelled צוק -- added as צוק² per the ascending-Strong's-number superscript convention; H6693 is retroactively renamed צוק¹ in this same batch.",
+  "Gloss kept as the requested compound: Job.28.2 (\"brass is molten out of the stone\") shows the metallurgical \"melt/smelt\" sense, while Isa.26.16 (\"they poured out a prayer\") and Job.29.6 (\"the rock poured me out rivers of oil\") show the general \"pour out\" sense -- genuinely distinct, each independently cited. Job.28.2 and Job.29.6 compete for the same yiqtol/3ms slot (Job.28.2 wins the usual tie-break), but \"pour out\" stays fully supported regardless via Isa.26.16's own separate slot (perfect/3cp)."
+ ],
+ "root": "צוק²",
+ "search_match": [
+  "6694",
+  "h6694",
+  "pour out; melt/smelt (2)",
+  "tzuq",
+  "צוק²"
+ ],
+ "citation_translit": "tzuq",
+ "stem_coverage_checked": true
+}

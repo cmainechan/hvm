@@ -1,0 +1,59 @@
+{
+ "glosses": [
+  "rend garments"
+ ],
+ "strong": "H6533",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִפְרֹמוּ",
+      "translit": "tifromu",
+      "ref": "Lev.10.6",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִפְרֹֽם",
+      "translit": "yifrom",
+      "ref": "Lev.21.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "פְרֻמִים",
+      "translit": "frumim",
+      "ref": "Lev.13.45",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Requested gloss \"tear; rend garments\" trimmed to \"rend garments\" per the compound-gloss standard: all three attestations (Lev.13.45, a leper's torn clothes; Lev.10.6 and Lev.21.10, priests forbidden to rend their garments in mourning) are specifically about tearing garments -- no citation shows a general \"tear\" of anything else, so \"tear\" and \"rend garments\" name the same one evidenced sense rather than two."
+ ],
+ "root": "פרם",
+ "search_match": [
+  "6533",
+  "h6533",
+  "rend garments",
+  "param",
+  "פרם"
+ ],
+ "citation_translit": "param",
+ "stem_coverage_checked": true
+}
