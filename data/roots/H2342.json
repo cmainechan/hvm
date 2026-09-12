@@ -263,7 +263,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "polal": {
    "sense_hint": "passive-intensive",
@@ -300,7 +301,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "poel": {
    "sense_hint": "intensive (causative)",
@@ -402,14 +404,15 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
   "hiphil": "shake",
   "hophal": "be brought forth (in labor)",
   "piel": "wait",
-  "hithpolel": "whirl; writhe; wait",
+  "hithpolel": "whirl; wait",
   "polal": "be brought forth (born); writhe, tremble",
   "poel": "form, fashion",
   "hithpalpel": "writhe in anguish",

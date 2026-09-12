@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "withdraw; hide"
+  "hide"
  ],
  "strong": "H2247",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -56,11 +57,12 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "niphal": "withdraw; hide oneself"
+  "niphal": "hide oneself"
  },
  "notes": [
   "Qal has a single attestation (Isa.26.20, חֲבִי, \"hide yourself for a little while\"); flagging as single-attestation per usual practice."

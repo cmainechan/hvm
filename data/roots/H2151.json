@@ -36,7 +36,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -53,15 +54,16 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "strong_alt": [
   "H2107"
  ],
  "stem_glosses": {
-  "niphal": "shake; quake (mountains)",
-  "hiphil": "make light of; despise"
+  "niphal": "shake",
+  "hiphil": "despise"
  },
  "notes": [
   "Requested hiphil \"make light of; despise\" has zero attestation under H2151 itself -- this root's own corpus attestations are only qal and niphal. The lexicon cross-references H2107 (זוּל, \"probably to shake out ... figuratively, to treat lightly\" -- explicitly \"compare H2151\"), which supplies exactly the missing hiphil (Lam.1.8, \"הִזִּילוּהָ\", \"all that honoured her despise her\"), the same suppletion pattern used for הלך/ילך, נוח/ינח, and סוג/נסג. Modeled as strong_alt: [\"H2107\"], with the hiphil form drawn from that number. Unlike the recent סוג/נסג restructuring, H2107 was not given its own file here, since (unlike H5253) it has only 2 sparse forms total (1 hiphil, 1 qal) rather than a full independent paradigm -- folded directly into this file instead, matching the original הלך/נוח convention."

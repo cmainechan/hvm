@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "be clean; be justified"
+  "be clean"
  ],
  "strong": "H2135",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -47,7 +48,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hitpael": {
    "sense_hint": "reflexive",
@@ -68,7 +70,7 @@
   }
  },
  "stem_glosses": {
-  "piel": "make/keep clean",
+  "piel": "make clean",
   "hitpael": "cleanse oneself"
  },
  "root": "זכה",

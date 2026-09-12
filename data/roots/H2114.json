@@ -53,12 +53,13 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
   "niphal": "be estranged",
-  "hophal": "be a stranger; be alienated"
+  "hophal": "be alienated"
  },
  "notes": [
   "Retroactively renamed from the plain key \"זור\" to \"זור¹\" when H2115 (\"press; squeeze; crush\") was added to the dataset as \"זור²\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."

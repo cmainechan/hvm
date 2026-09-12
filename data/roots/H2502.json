@@ -70,7 +70,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -127,7 +128,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -215,7 +217,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -237,7 +240,7 @@
  },
  "stem_glosses": {
   "niphal": "be saved; be equipped",
-  "piel": "pull out; plunder",
+  "piel": "pull out",
   "hiphil": "make strong"
  },
  "root": "חלץ",
@@ -249,5 +252,8 @@
   "חלץ"
  ],
  "citation_translit": "chalatz",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Piel's citations overwhelmingly (6 of 8) show a \"deliver/rescue\" sense (Ps.116.8, Ps.34.8, Ps.7.5, Job.36.15, Ps.50.15, Ps.6.5) not captured by either clause of the shipped gloss; only Lev.14.43/14.40 support \"pull out\" (removing stones from a leprous house), and none support \"plunder\" (dropped as unattested). Worth adding \"deliver\" as this stem's primary clause if the gloss is revisited."
+ ]
 }

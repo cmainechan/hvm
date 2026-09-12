@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "strain; distill; bubble up"
+  "strain"
  ],
  "strong": "H2212",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -36,7 +37,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pual": {
    "sense_hint": "passive/intensive",
@@ -57,7 +59,7 @@
   }
  },
  "stem_glosses": {
-  "piel": "purge; refine",
+  "piel": "refine",
   "pual": "be refined"
  },
  "root": "זקק",

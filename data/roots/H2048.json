@@ -59,7 +59,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hophal": {
    "sense_hint": "passive causative",
@@ -81,7 +82,7 @@
  },
  "stem_glosses": {
   "piel": "mock",
-  "hiphil": "deceive; mock",
+  "hiphil": "deceive",
   "hophal": "be deceived"
  },
  "notes": [

@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "bind; take/hold in pledge; spoil"
+  "take/hold in pledge; spoil"
  ],
  "strong": "H2254",
  "stems": {
@@ -121,7 +121,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -138,7 +139,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -208,7 +210,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pual": {
    "sense_hint": "passive-intensive",
@@ -240,7 +243,7 @@
   }
  },
  "stem_glosses": {
-  "niphal": "give a pledge; be ruined",
+  "niphal": "be ruined",
   "piel": "destroy; writhe",
   "pual": "be ruined, be broken"
  },
