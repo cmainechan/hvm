@@ -364,7 +364,8 @@
      }
     ]
    },
-   "gloss_verified": true
+   "gloss_verified": true,
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -420,12 +421,13 @@
      }
     ]
    },
-   "gloss_verified": true
+   "gloss_verified": true,
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "niphal": "ask leave for oneself; borrow",
-  "hiphil": "lend; grant a request",
+  "niphal": "ask leave for oneself",
+  "hiphil": "lend",
   "piel": "ask"
  },
  "root": "שאל",

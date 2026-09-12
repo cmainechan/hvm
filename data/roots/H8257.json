@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "sink; subside; die down"
+  "sink; die down"
  ],
  "strong": "H8257",
  "stems": {
@@ -41,7 +41,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -58,7 +59,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -84,11 +86,12 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "niphal": "sink; collapse",
+  "niphal": "sink",
   "hiphil": "cause to sink; press down"
  },
  "root": "שקע",

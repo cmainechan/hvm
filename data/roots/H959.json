@@ -163,7 +163,8 @@
      }
     ]
    },
-   "gloss_verified": true
+   "gloss_verified": true,
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -184,7 +185,7 @@
   }
  },
  "stem_glosses": {
-  "niphal": "be despised; be worthless",
+  "niphal": "be despised",
   "hiphil": "cause to despise"
  },
  "root": "בזה",

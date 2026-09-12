@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "go; rove about; row"
+  "rove about; row"
  ],
  "strong": "H7751",
  "stems": {
@@ -63,7 +63,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "polel": {
    "sense_hint": "intensive",

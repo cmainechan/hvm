@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "be blinded; smear the eyes shut"
+  "be blinded"
  ],
  "strong": "H8173",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pilpel": {
    "sense_hint": "intensive",
@@ -58,7 +59,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "polpal": {
    "sense_hint": "passive/intensive",
@@ -120,12 +122,13 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
   "hiphil": "besmear the eyes",
-  "pilpel": "sport; take delight in; delight oneself",
+  "pilpel": "sport; delight oneself",
   "hithpalpel": "blind oneself; delight oneself",
   "polpal": "be caressed"
  },

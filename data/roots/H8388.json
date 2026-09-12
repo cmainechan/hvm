@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "be drawn; mark out (of a border)"
+  "be drawn (of a border)"
  ],
  "strong": "H8388",
  "stems": {
@@ -30,7 +30,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -47,7 +48,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pual": {
    "sense_hint": "passive/intensive",
@@ -68,7 +70,7 @@
   }
  },
  "stem_glosses": {
-  "piel": "describe; delineate",
+  "piel": "delineate",
   "pual": "be marked out"
  },
  "root": "תאר",

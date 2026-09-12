@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "hang; hang up"
+  "hang"
  ],
  "strong": "H8518",
  "stems": {
@@ -150,7 +150,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -195,7 +196,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {

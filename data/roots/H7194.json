@@ -148,7 +148,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -202,7 +203,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pual": {
    "sense_hint": "passive-intensive",
@@ -263,7 +265,7 @@
  },
  "stem_glosses": {
   "niphal": "be bound (to)",
-  "piel": "bind; conspire",
+  "piel": "bind",
   "pual": "be bound",
   "hitpael": "conspire (against)"
  },

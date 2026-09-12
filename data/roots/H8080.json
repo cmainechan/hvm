@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "grow/become fat"
+  "become fat"
  ],
  "strong": "H8080",
  "stems": {
@@ -39,7 +39,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -67,7 +68,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
