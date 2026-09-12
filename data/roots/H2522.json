@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "be weak; weaken; overpower"
+  "be weak; overpower"
  ],
  "strong": "H2522",
  "stems": {
@@ -38,10 +38,13 @@
  "search_match": [
   "2522",
   "h2522",
-  "be weak; weaken; overpower",
+  "be weak; overpower",
   "chalash",
   "חלש"
  ],
  "citation_translit": "chalash",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Trimmed \"weaken\" from the \"weaken; overpower\" pairing per the tightened compound-gloss standard: Isa.14.12/Exod.17.13 both show military defeat -- \"weaken\" and \"overpower\" are synonyms of that; \"be weak\" (Job.14.10, intransitive wasting-away) is genuinely distinct and stays."
+ ]
 }

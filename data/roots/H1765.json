@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "drive; hasten"
+  "hasten"
  ],
  "strong": "H1765",
  "stems": {
@@ -48,11 +48,14 @@
  "search_match": [
   "1765",
   "h1765",
-  "drive; hasten",
+  "hasten",
   "hurry",
   "dachaf",
   "דחף"
  ],
  "citation_translit": "dachaf",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Trimmed \"drive; hasten\" to \"hasten\" per the tightened compound-gloss standard: both citations (Esth.3.15, Esth.8.14, \"hastened [by the king's command]\") show one passive sense; \"drive\" isn't a second, distinct sense, just another word for the same one -- redundant, not just unattested."
+ ]
 }

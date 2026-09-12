@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "give a title; call by an epithet"
+  "give a title"
  ],
  "strong": "H3655",
  "stems": {
@@ -36,10 +36,13 @@
  "search_match": [
   "3655",
   "h3655",
-  "give a title; call by an epithet",
+  "give a title",
   "kanah",
   "כנה"
  ],
  "citation_translit": "kanah",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Trimmed \"give a title; call by an epithet\" to \"give a title\" per the tightened compound-gloss standard: both phrases describe the one surnaming sense shown by Isa.44.5/Job.32.21-22 -- synonyms, not two senses."
+ ]
 }

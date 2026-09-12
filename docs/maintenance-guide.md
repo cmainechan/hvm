@@ -96,9 +96,22 @@ sense as a whole — a gloss like "spice; ripen; embalm" is three separate
 claims, and each one needs its own citation, not just the gloss in
 aggregate. A clause survives only when some citation's actual content
 demonstrates it, not merely when it's a plausible inference from a
-citation that demonstrates a different clause. See CLAUDE.md's "No uncited
-glosses" section and its "Compound-gloss trim audit" for the worked
-example (H2590 חנט), the two-flag tracking (`gloss_verified` vs.
+citation that demonstrates a different clause.
+
+That alone isn't sufficient, though: a compound gloss should only stay
+compound when its clauses are genuinely different senses, each
+independently cited — not when they're synonyms or near-synonyms of one
+evidenced sense. Two independently-attestable words for the same idea
+still collapse to one (e.g. "drive; hasten," both just naming the one
+"hastened" sense two citations show) — a gloss doesn't earn a second
+clause just because a second word for the same meaning happens to have
+its own citation too. When it's unclear whether two clauses name the same
+sense or different ones, ask whether dropping one would lose real
+information about what the citations show, or only shorten the sentence.
+
+See CLAUDE.md's "No uncited glosses" section and its "Compound-gloss trim
+audit" for the worked examples (H2590 חנט for an unattested clause, H1765
+דחף for a redundant one), the two-flag tracking (`gloss_verified` vs.
 `gloss_trim_checked`), and the retroactive backlog this created.
 
 ### Per-category gloss precision (`form_glosses`)

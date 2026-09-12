@@ -60,11 +60,12 @@
   }
  },
  "stem_glosses": {
-  "hiphil": "be stronger; prevail"
+  "hiphil": "be stronger"
  },
  "notes": [
   "Hiphil (infinitive construct used substantively, \"the one who is stronger\", Eccl.6.10) is attested but wasn't part of the original request -- added per the full-stem-coverage check. It's attested only via a ketiv/qere textual variant: the ketiv reads שהתקיף (this root, a verb), while the qere reads a completely different word, שֶׁתַּקִּיף (H8623, an adjective \"strong\") -- kept since the ketiv is lemma-tagged to this root specifically and represents a genuinely distinct reading, not a spelling variant of the qere. As with H7693 above, this form was only extractable after this session's ketiv-handling pipeline fix.",
-  "Gloss collision: \"prevail\" is shared verbatim by the existing עזז (H5810) and גבר (H1396), both \"be strong; prevail\" -- distinct roots, disambiguating search alias added."
+  "Gloss collision: \"prevail\" is shared verbatim by the existing עזז (H5810) and גבר (H1396), both \"be strong; prevail\" -- distinct roots, disambiguating search alias added.",
+  "Trimmed hiphil's \"be stronger; prevail\" to \"be stronger\" per the tightened compound-gloss standard: the ketiv citation itself (\"the one who is stronger\") shows only the comparative-strength sense; \"prevail\" was an inferential extension, not what the citation names."
  ],
  "root": "תקף",
  "search_match": [

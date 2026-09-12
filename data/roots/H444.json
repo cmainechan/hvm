@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "be corrupt; become tainted"
+  "be corrupt"
  ],
  "strong": "H444",
  "stems": {
@@ -38,10 +38,13 @@
  "search_match": [
   "444",
   "h444",
-  "be corrupt; become tainted",
+  "be corrupt",
   "alach",
   "אלח"
  ],
  "citation_translit": "alach",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Trimmed \"be corrupt; become tainted\" to \"be corrupt\" per the tightened compound-gloss standard: all citations show the same \"become filthy\" sense -- synonyms, not two senses."
+ ]
 }

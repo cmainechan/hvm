@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "catch; seize"
+  "catch"
  ],
  "strong": "H2414",
  "stems": {
@@ -46,13 +46,14 @@
   }
  },
  "notes": [
-  "Gloss collision: shares \"seize\" with the existing תפש (H8610, primary gloss exactly \"seize\") and overlaps with גזל (H1497, \"rob, seize by force\") -- distinct roots, disambiguating search alias added."
+  "Gloss collision: shares \"seize\" with the existing תפש (H8610, primary gloss exactly \"seize\") and overlaps with גזל (H1497, \"rob, seize by force\") -- distinct roots, disambiguating search alias added.",
+  "Trimmed \"catch; seize\" to \"catch\" per the tightened compound-gloss standard: all citations literally say \"catch\" -- synonyms, not two senses."
  ],
  "root": "חטף",
  "search_match": [
   "2414",
   "h2414",
-  "catch; seize (chataf)",
+  "catch (chataf)",
   "chataf",
   "חטף"
  ],

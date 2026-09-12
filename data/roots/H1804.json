@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "make turbid; stir up water"
+  "stir up water"
  ],
  "strong": "H1804",
  "stems": {
@@ -38,10 +38,13 @@
  "search_match": [
   "1804",
   "h1804",
-  "make turbid; stir up water",
+  "stir up water",
   "dalach",
   "דלח"
  ],
  "citation_translit": "dalach",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Trimmed \"make turbid; stir up water\" to \"stir up water\" per the tightened compound-gloss standard: both citations show the same water-troubling action -- synonyms, not two senses."
+ ]
 }

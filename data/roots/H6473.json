@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "open wide; gape"
+  "open wide"
  ],
  "strong": "H6473",
  "stems": {
@@ -42,13 +42,14 @@
   }
  },
  "notes": [
-  "Gloss collision: shares \"open wide\" with the existing פטר (H6362) hiphil stem_gloss -- distinct roots, disambiguating search alias added."
+  "Gloss collision: shares \"open wide\" with the existing פטר (H6362) hiphil stem_gloss -- distinct roots, disambiguating search alias added.",
+  "Trimmed \"open wide; gape\" to \"open wide\" per the tightened compound-gloss standard: all citations describe the same mouth-opening action -- synonyms, not two senses."
  ],
  "root": "פער",
  "search_match": [
   "6473",
   "h6473",
-  "open wide; gape (pa'ar)",
+  "open wide (pa'ar)",
   "pa'ar",
   "פער"
  ],

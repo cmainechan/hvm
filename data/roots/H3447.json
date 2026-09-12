@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "extend; hold out"
+  "hold out"
  ],
  "strong": "H3447",
  "stems": {
@@ -38,10 +38,13 @@
  "search_match": [
   "3447",
   "h3447",
-  "extend; hold out",
+  "hold out",
   "yashat",
   "ישט"
  ],
  "citation_translit": "yashat",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Trimmed \"extend; hold out\" to \"hold out\" per the tightened compound-gloss standard: all citations show the same sceptre-extending action -- synonyms, not two senses."
+ ]
 }

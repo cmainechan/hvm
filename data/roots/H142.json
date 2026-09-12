@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "make glorious; magnify"
+  "make glorious"
  ],
  "strong": "H142",
  "stems": {
@@ -46,13 +46,14 @@
  },
  "notes": [
   "No qal is attested for this root; hiphil (\"make glorious; magnify\") is the more active sense and is treated as the primary/citation stem rather than niphal's passive \"be glorious\" -- DEFAULT_STEM_OVERRIDE set to hiphil in both UI templates.",
-  "Thinly attested: only one form each for niphal and hiphil."
+  "Thinly attested: only one form each for niphal and hiphil.",
+  "Trimmed \"magnify\" -- re-examining the citation (Isa.42.21, \"he will magnify the law, and make it honourable\"), \"magnify\" actually translates a DIFFERENT Hebrew verb in the same verse (H1431 גדל), not this root; only \"make it honourable/glorious\" corresponds to H142 itself. This is a citation-misattribution catch from the tightened compound-gloss audit, not just a redundant synonym."
  ],
  "root": "אדר",
  "search_match": [
   "142",
   "h142",
-  "make glorious; magnify",
+  "make glorious",
   "be glorious",
   "adar",
   "אדר"

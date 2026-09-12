@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "reproach; put to shame"
+  "put to shame"
  ],
  "strong": "H2616",
  "stems": {
@@ -45,13 +45,14 @@
   "hitpael": "show oneself kind"
  },
  "notes": [
-  "No qal attested for this root; piel is treated as primary (STEM_ORDER already defaults to piel over hitpael here, no override needed)."
+  "No qal attested for this root; piel is treated as primary (STEM_ORDER already defaults to piel over hitpael here, no override needed).",
+  "Trimmed \"reproach; put to shame\" to \"put to shame\" per the tightened compound-gloss standard: both describe the one Prov.25.10 citation -- synonyms, not two senses."
  ],
  "root": "חסד",
  "search_match": [
   "2616",
   "h2616",
-  "reproach; put to shame",
+  "put to shame",
   "show oneself kind",
   "chasad",
   "חסד"

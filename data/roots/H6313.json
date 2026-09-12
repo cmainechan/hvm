@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "grow numb; faint; become sluggish"
+  "faint; become sluggish"
  ],
  "strong": "H6313",
  "stems": {
@@ -53,16 +53,20 @@
   }
  },
  "stem_glosses": {
-  "niphal": "be benumbed; grow faint"
+  "niphal": "be benumbed"
  },
  "root": "פוג",
  "search_match": [
   "6313",
   "h6313",
-  "grow numb; faint; become sluggish",
+  "faint; become sluggish",
   "pug",
   "פוג"
  ],
  "citation_translit": "pug",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Trimmed \"grow numb\" from the \"grow numb; faint\" pairing per the tightened compound-gloss standard: Gen.45.26 shows fainting, not numbness specifically -- \"grow numb\" was a synonym gloss for the same sense, not a distinct one; \"become sluggish\" (Hab.1.4) is genuinely distinct and stays.",
+  "Trimmed niphal's \"be benumbed; grow faint\" to \"be benumbed\" per the tightened compound-gloss standard: both describe the one Ps.38.9 citation (\"feeble and sore broken\") -- synonyms, not two senses."
+ ]
 }

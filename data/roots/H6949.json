@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "be blunt; be dull"
+  "be blunt"
  ],
  "strong": "H6949",
  "stems": {
@@ -42,16 +42,20 @@
   }
  },
  "stem_glosses": {
-  "piel": "be/make blunt"
+  "piel": "be blunt"
  },
  "root": "קהה",
  "search_match": [
   "6949",
   "h6949",
-  "be blunt; be dull",
+  "be blunt",
   "qahah",
   "קהה"
  ],
  "citation_translit": "qahah",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Trimmed piel's \"be/make blunt\" to \"be blunt\" per the tightened compound-gloss standard: picking the one reading the English citation text itself shows (\"if the iron be blunt\") rather than carrying both the stative and causative readings as if they were two senses.",
+  "Trimmed \"be blunt; be dull\" to \"be blunt\" per the tightened compound-gloss standard: both describe the one \"teeth set on edge\" citation -- synonyms, not two senses."
+ ]
 }

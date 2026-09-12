@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "sink down; be depressed"
+  "sink down"
  ],
  "strong": "H7743",
  "stems": {
@@ -35,13 +35,14 @@
   }
  },
  "notes": [
-  "Hiphil (\"cause/declare to sink; depress\") was requested but has no attested form anywhere in the corpus -- excluded per the no-uncited-glosses rule, confirmed with the person. Only qal is attested."
+  "Hiphil (\"cause/declare to sink; depress\") was requested but has no attested form anywhere in the corpus -- excluded per the no-uncited-glosses rule, confirmed with the person. Only qal is attested.",
+  "Trimmed \"sink down; be depressed\" to \"sink down\" per the tightened compound-gloss standard: all citations describe the same lowering/sinking sense (physical or emotional) -- synonyms, not two senses."
  ],
  "root": "שוח",
  "search_match": [
   "7743",
   "h7743",
-  "sink down; be depressed",
+  "sink down",
   "shucha",
   "שוח"
  ],

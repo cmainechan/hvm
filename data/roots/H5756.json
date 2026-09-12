@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "bring into safety; cause to take refuge"
+  "bring into safety"
  ],
  "strong": "H5756",
  "stems": {
@@ -44,13 +44,14 @@
   }
  },
  "notes": [
-  "Qal (\"take/seek refuge\") was requested but has no attested form anywhere in the corpus -- excluded per the no-uncited-glosses rule, confirmed with the person. Only hiphil is attested and now serves as the primary/citation stem; no DEFAULT_STEM_OVERRIDE entry is needed since hiphil is this root's only stem."
+  "Qal (\"take/seek refuge\") was requested but has no attested form anywhere in the corpus -- excluded per the no-uncited-glosses rule, confirmed with the person. Only hiphil is attested and now serves as the primary/citation stem; no DEFAULT_STEM_OVERRIDE entry is needed since hiphil is this root's only stem.",
+  "Trimmed \"bring into safety; cause to take refuge\" to \"bring into safety\" per the tightened compound-gloss standard: all four citations describe the same fleeing-to-safety action -- the two clauses are synonyms of it, not distinct senses."
  ],
  "root": "עוז",
  "search_match": [
   "5756",
   "h5756",
-  "bring into safety; cause to take refuge",
+  "bring into safety",
   "uz",
   "עוז"
  ],

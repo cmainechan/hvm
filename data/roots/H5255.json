@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "tear away; uproot"
+  "uproot"
  ],
  "strong": "H5255",
  "stems": {
@@ -51,16 +51,20 @@
   }
  },
  "stem_glosses": {
-  "niphal": "be torn away; be uprooted"
+  "niphal": "be uprooted"
  },
  "root": "נסח",
  "search_match": [
   "5255",
   "h5255",
-  "tear away; uproot",
+  "uproot",
   "nasach",
   "נסח"
  ],
  "citation_translit": "nasach",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Trimmed niphal's \"be torn away; be uprooted\" to \"be uprooted\" per the tightened compound-gloss standard: both describe the one Deut.28.63 citation (\"plucked\") -- synonyms, not two senses.",
+  "Trimmed \"tear away; uproot\" to \"uproot\" per the tightened compound-gloss standard: Prov.2.22/Prov.15.25 both show the same \"violently remove\" sense -- \"tear away\" and \"uproot\" name the same evidenced action, not two distinct ones."
+ ]
 }

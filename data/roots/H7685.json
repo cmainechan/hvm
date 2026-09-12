@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "increase; become great"
+  "increase"
  ],
  "strong": "H7685",
  "stems": {
@@ -42,17 +42,19 @@
   }
  },
  "stem_glosses": {
-  "hiphil": "increase; grow great"
+  "hiphil": "increase"
  },
  "notes": [
   "True homograph of the existing H7686 (\"go astray; reel\"), distinguished by sin vs. shin (both render bare as שגה) -- added as שגה¹ per the ascending-Strong's-number superscript convention; H7686 is retroactively renamed שגה² in this same batch.",
-  "Hiphil (\"increase; grow great\", Ps.73.12, הִשְׂגּוּ, \"these are the ungodly... they increase in riches\") is attested but wasn't part of the original request -- added per the full-stem-coverage check; same sense as the requested qal."
+  "Hiphil (\"increase; grow great\", Ps.73.12, הִשְׂגּוּ, \"these are the ungodly... they increase in riches\") is attested but wasn't part of the original request -- added per the full-stem-coverage check; same sense as the requested qal.",
+  "Trimmed \"increase; become great\" to \"increase\" per the tightened compound-gloss standard: all citations describe the same growth sense -- synonyms, not two senses.",
+  "Trimmed hiphil's \"increase; grow great\" to \"increase\" per the tightened compound-gloss standard: both describe the one Ps.73.12 citation -- synonyms, not two senses."
  ],
  "root": "שגה¹",
  "search_match": [
   "7685",
   "h7685",
-  "increase; become great",
+  "increase",
   "sagah",
   "שגה¹"
  ],

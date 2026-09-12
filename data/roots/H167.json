@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "move/pitch a tent"
+  "pitch a tent"
  ],
  "strong": "H167",
  "stems": {
@@ -45,13 +45,14 @@
   "piel": "pitch one's tent"
  },
  "notes": [
-  "Same-spelling homonym risk: H166 אָהַל (\"to be clear; shine\") shares these exact consonants and vowels but is a separate, unrelated Strong's entry, not yet in this dataset. If it's ever added, both roots will need the superscript convention (אהל¹/אהל²) -- flagging now the way H7034's notes flagged the קלה¹/קלה² collision before it happened."
+  "Same-spelling homonym risk: H166 אָהַל (\"to be clear; shine\") shares these exact consonants and vowels but is a separate, unrelated Strong's entry, not yet in this dataset. If it's ever added, both roots will need the superscript convention (אהל¹/אהל²) -- flagging now the way H7034's notes flagged the קלה¹/קלה² collision before it happened.",
+  "Trimmed \"move/pitch a tent\" to \"pitch a tent\" per the tightened compound-gloss standard: both citations (Gen.13.12, 13.18) show pitching a tent specifically; \"move\" is implied context, not an independently-shown distinct action."
  ],
  "root": "אהל",
  "search_match": [
   "167",
   "h167",
-  "move/pitch a tent",
+  "pitch a tent",
   "ahal",
   "אהל"
  ],

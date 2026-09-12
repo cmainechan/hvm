@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "grow warm/tender; yearn"
+  "grow warm; yearn"
  ],
  "strong": "H3648",
  "stems": {
@@ -27,10 +27,13 @@
  "search_match": [
   "3648",
   "h3648",
-  "grow warm/tender; yearn",
+  "grow warm; yearn",
   "kamar",
   "כמר"
  ],
  "citation_translit": "kamar",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Trimmed \"grow warm/tender\" pairing to \"grow warm\" per the tightened compound-gloss standard: Hos.11.8/Lam.5.10 show physical/emotional warming, and \"tender\" is a synonym of that, not a separate sense; \"yearn\" (1Kgs.3.26/Gen.43.30) is a genuinely different, independently-cited sense and stays."
+ ]
 }

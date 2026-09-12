@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "scour; polish"
+  "polish"
  ],
  "strong": "H4838",
  "stems": {
@@ -76,13 +76,14 @@
  },
  "notes": [
   "Hiphil (\"scour away\") was originally requested but excluded for lack of any attested form (see prior note, now superseded). The pipeline's ketiv-extraction fix reveals a genuine attestation invisible before: Prov.20.30 hiphil yiqtol תמריק (ketiv, unvocalized, \"[stripes/wounds] scour away [evil]\"), a direct citation for the exact sense originally requested. Its qere, תַּמְרוּק (a noun, H8562, \"purification/scouring\"), is a different Strong's number -- a genuine textual variant, not a spelling difference -- so the ketiv is kept per the fix's rule.",
-  "Trimmed pual's \"be scoured; be polished\" to \"be scoured\" per the compound-gloss trim audit: Lev.6.21 explicitly says \"scoured\", not \"polished\" -- qal's own citations (Jer.46.4 \"furbish\", which inherently covers both cleaning and brightening) still support \"scour; polish\" together, but pual's own separate citation only demonstrates the scouring side."
+  "Trimmed pual's \"be scoured; be polished\" to \"be scoured\" per the compound-gloss trim audit: Lev.6.21 explicitly says \"scoured\", not \"polished\" -- qal's own citations (Jer.46.4 \"furbish\", which inherently covers both cleaning and brightening) still support \"scour; polish\" together, but pual's own separate citation only demonstrates the scouring side.",
+  "Trimmed \"scour; polish\" to \"polish\" per the tightened compound-gloss standard: 2Chr.4.16 (\"bright\") and Jer.46.4 (\"furbish\") both describe brightening metal -- \"scour\" and \"polish\" name the same evidenced action, not two distinct ones."
  ],
  "root": "מרק",
  "search_match": [
   "4838",
   "h4838",
-  "scour; polish (maraq)",
+  "polish (maraq)",
   "maraq",
   "מרק"
  ],

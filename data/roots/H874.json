@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "make plain; explain"
+  "explain"
  ],
  "strong": "H874",
  "stems": {
@@ -49,10 +49,13 @@
  "search_match": [
   "874",
   "h874",
-  "make plain; explain",
+  "explain",
   "ba'ar",
   "באר"
  ],
  "citation_translit": "ba'ar",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Trimmed \"make plain; explain\" to \"explain\" per the tightened compound-gloss standard: all citations (Hab.2.2, Deut.27.8, Deut.1.5) describe the same elucidating action -- synonyms, not two senses."
+ ]
 }

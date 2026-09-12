@@ -53,10 +53,11 @@
   }
  },
  "stem_glosses": {
-  "hiphil": "cause to curdle; cause to congeal"
+  "hiphil": "cause to curdle"
  },
  "notes": [
-  "Hiphil (\"cause to curdle\", Job.10.10, תַּקְפִּיאֵנִי, \"hast thou not curdled me like cheese?\") is attested but wasn't part of the original request -- added per the full-stem-coverage check."
+  "Hiphil (\"cause to curdle\", Job.10.10, תַּקְפִּיאֵנִי, \"hast thou not curdled me like cheese?\") is attested but wasn't part of the original request -- added per the full-stem-coverage check.",
+  "Trimmed hiphil's \"cause to curdle; cause to congeal\" to \"cause to curdle\" per the tightened compound-gloss standard: both describe the one Job.10.10 citation (\"curdled like cheese\") -- synonyms, not two senses."
  ],
  "root": "קפא",
  "search_match": [

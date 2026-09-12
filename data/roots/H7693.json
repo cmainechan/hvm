@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "violate; ravish"
+  "ravish"
  ],
  "strong": "H7693",
  "stems": {
@@ -65,13 +65,14 @@
  },
  "notes": [
   "One of the Bible's well-known scribal euphemism roots: all 4 of this root's occurrences are ketiv-only (the manuscript's actual written text), each paired with a qere (the traditional read-aloud substitute) pointing to a DIFFERENT, milder root -- שכב \"lie with\" (H7901) at Deut.28.30, and the same שכב-family substitution pattern at the other three. Because the ketiv text carries no vowel points in the source corpus (only the qere side is fully vocalized, and it's a different word), every heb/translit value here is bare consonants -- not a data-entry gap, but the actual state of the source text for a ketiv-only word.",
-  "This root was originally unextractable due to a pipeline bug (ketiv words were silently invisible to the extraction regex) discovered and fixed this session -- see pipeline/pipeline.py's module docstring, requirement 11."
+  "This root was originally unextractable due to a pipeline bug (ketiv words were silently invisible to the extraction regex) discovered and fixed this session -- see pipeline/pipeline.py's module docstring, requirement 11.",
+  "Trimmed \"violate; ravish\" to \"ravish\" per the tightened compound-gloss standard: both words name the one evidenced act -- synonyms, not two senses."
  ],
  "root": "שגל",
  "search_match": [
   "7693",
   "h7693",
-  "violate; ravish",
+  "ravish",
   "shagal",
   "שגל"
  ],

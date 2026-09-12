@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "press; squeeze; crush"
+  "squeeze; crush"
  ],
  "strong": "H2115",
  "stems": {
@@ -59,13 +59,14 @@
   "True homograph of the existing H2114 (\"become estranged\"), both spelled זור -- added as זור² per the ascending-Strong's-number superscript convention; H2114 is retroactively renamed זור¹ in this same batch.",
   "Qal passive (Isa.1.6, זֹרוּ, \"[wounds] have not been closed\") is attested but wasn't part of the original request -- added per the full-stem-coverage check. This is a rare stem (internal passive of qal, letter 'Q') -- flagged per the maintenance guide's \"capture rare stems\" requirement.",
   "Gloss collision: shares \"squeeze\" with the existing לחץ (H3905, \"squeeze; oppress\") -- distinct roots, disambiguating search alias added.",
-  "Trimmed qal_passive's \"be pressed out; be closed (of a wound)\" to \"be closed (of a wound)\" per the compound-gloss trim audit: Isa.1.6 says the wounds \"have not been closed\" -- \"be pressed out\" is an inference from the root's general \"press\" meaning, not something this citation itself states."
+  "Trimmed qal_passive's \"be pressed out; be closed (of a wound)\" to \"be closed (of a wound)\" per the compound-gloss trim audit: Isa.1.6 says the wounds \"have not been closed\" -- \"be pressed out\" is an inference from the root's general \"press\" meaning, not something this citation itself states.",
+  "Trimmed \"press\" from the \"press; squeeze\" pairing per the tightened compound-gloss standard: Judg.6.38 (\"wringed the dew\") shows one action -- \"press\" and \"squeeze\" are synonyms of it; \"crush\" (Job.39.15) is genuinely distinct and stays."
  ],
  "root": "זור²",
  "search_match": [
   "2115",
   "h2115",
-  "press; squeeze; crush (zur)",
+  "squeeze; crush (zur)",
   "zur",
   "זור²"
  ],

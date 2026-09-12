@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "strip oneself; make bare"
+  "strip oneself"
  ],
  "strong": "H6209",
  "stems": {
@@ -78,19 +78,21 @@
   }
  },
  "stem_glosses": {
-  "poel": "lay bare; destroy",
+  "poel": "destroy",
   "pilpel": "lay utterly bare",
   "hithpalpel": "be laid utterly bare"
  },
  "notes": [
-  "Poel (\"lay bare; destroy\", Isa.23.13, עֹרְרוּ) -- Strong's own usage note on this root flags this specific word as possibly a scribal error for a different word (\"raise up, perhaps by clerical error for raze\"); the \"destroy\" sense follows the proposed emendation rather than the plain text as it stands. Flagged as textually contested; shipped as requested."
+  "Poel (\"lay bare; destroy\", Isa.23.13, עֹרְרוּ) -- Strong's own usage note on this root flags this specific word as possibly a scribal error for a different word (\"raise up, perhaps by clerical error for raze\"); the \"destroy\" sense follows the proposed emendation rather than the plain text as it stands. Flagged as textually contested; shipped as requested.",
+  "Trimmed poel's \"lay bare; destroy\" to \"destroy\" per the tightened compound-gloss standard: the (already-flagged, textually contested) citation reads as one act of razing/destroying -- \"lay bare\" isn't a second, distinct sense.",
+  "Trimmed \"strip oneself; make bare\" to \"strip oneself\" per the tightened compound-gloss standard: both describe the one Isa.32.11 citation (\"strip yourselves\") -- synonyms, not two senses."
  ],
  "root": "ערר",
  "search_match": [
   "6209",
   "h6209",
-  "strip oneself; make bare",
-  "lay bare; destroy",
+  "strip oneself",
+  "destroy",
   "arar",
   "ערר"
  ],

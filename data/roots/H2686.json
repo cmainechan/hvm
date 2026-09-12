@@ -61,7 +61,7 @@
  },
  "stem_glosses": {
   "piel": "shoot arrows",
-  "pual": "be divided; be curtailed"
+  "pual": "be curtailed"
  },
  "root": "חצץ",
  "search_match": [
@@ -73,5 +73,8 @@
   "חצץ"
  ],
  "citation_translit": "chatzatz",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Trimmed pual's \"be divided; be curtailed\" to \"be curtailed\" per the tightened compound-gloss standard: the one Job.21.21 citation (\"cut off in the midst\") shows curtailment specifically -- \"be divided\" was the root's general sense, not independently shown for pual."
+ ]
 }

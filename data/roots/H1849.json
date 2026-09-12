@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "beat; knock; drive severely"
+  "knock; drive severely"
  ],
  "strong": "H1849",
  "stems": {
@@ -53,16 +53,20 @@
   }
  },
  "stem_glosses": {
-  "hitpael": "beat/knock violently"
+  "hitpael": "knock violently"
  },
  "root": "דפק",
  "search_match": [
   "1849",
   "h1849",
-  "beat; knock; drive severely",
+  "knock; drive severely",
   "dafaq",
   "דפק"
  ],
  "citation_translit": "dafaq",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Trimmed \"beat\" from the \"beat; knock\" pairing per the tightened compound-gloss standard: Song.5.2 (\"knocketh\") shows one action -- \"beat\" and \"knock\" are synonyms of it; \"drive severely\" (Gen.33.13, \"overdrive\") is genuinely distinct and stays.",
+  "Trimmed hitpael's \"beat/knock violently\" to \"knock violently\" per the tightened compound-gloss standard: both name the one Judg.19.22 citation -- synonyms, not two senses."
+ ]
 }

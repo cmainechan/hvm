@@ -64,7 +64,7 @@
   }
  },
  "stem_glosses": {
-  "piel": "sew repeatedly/together"
+  "piel": "sew repeatedly"
  },
  "root": "תפר",
  "search_match": [
@@ -75,5 +75,8 @@
   "תפר"
  ],
  "citation_translit": "tafar",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Trimmed piel's \"sew repeatedly/together\" to \"sew repeatedly\" per the tightened compound-gloss standard: \"together\" is already the plain qal sense (\"sew together\"); piel's distinctive, citation-shown nuance (Ezek.13.18, professional seamstresses) is the repeated/habitual action."
+ ]
 }

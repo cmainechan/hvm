@@ -53,7 +53,7 @@
   }
  },
  "stem_glosses": {
-  "hiphil": "give success; make effective"
+  "hiphil": "make effective"
  },
  "root": "כשר",
  "search_match": [
@@ -64,5 +64,8 @@
   "כשר"
  ],
  "citation_translit": "kasher",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Trimmed hiphil's \"give success; make effective\" to \"make effective\" per the tightened compound-gloss standard: both describe the one Eccl.10.10 citation -- synonyms, not two senses."
+ ]
 }

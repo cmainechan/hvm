@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "limp; be lame"
+  "limp"
  ],
  "strong": "H6760",
  "stems": {
@@ -34,13 +34,14 @@
  },
  "notes": [
   "Niphal (\"be lame\") and piel (\"cause to limp\") were requested but have no attested form anywhere in the corpus -- excluded per the no-uncited-glosses rule, confirmed with the person. Only qal is attested.",
-  "Gloss collision: nearly identical to the existing פסח (H6452) \"spare; limp\" with stems \"be lame\"/\"limp\" -- distinct roots, disambiguating search alias added."
+  "Gloss collision: nearly identical to the existing פסח (H6452) \"spare; limp\" with stems \"be lame\"/\"limp\" -- distinct roots, disambiguating search alias added.",
+  "Trimmed \"limp; be lame\" to \"limp\" per the tightened compound-gloss standard: all citations describe the same halting gait -- synonyms, not two senses."
  ],
  "root": "צלע",
  "search_match": [
   "6760",
   "h6760",
-  "limp; be lame (tzala)",
+  "limp (tzala)",
   "tzala",
   "צלע"
  ],

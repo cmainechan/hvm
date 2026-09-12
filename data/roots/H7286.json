@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "beat down; subdue"
+  "subdue"
  ],
  "strong": "H7286",
  "stems": {
@@ -64,16 +64,20 @@
   }
  },
  "stem_glosses": {
-  "hiphil": "beat out; spread"
+  "hiphil": "spread"
  },
  "root": "רדד",
  "search_match": [
   "7286",
   "h7286",
-  "beat down; subdue",
+  "subdue",
   "radad",
   "רדד"
  ],
  "citation_translit": "radad",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Trimmed hiphil's \"beat out; spread\" to \"spread\" per the tightened compound-gloss standard: the one 1Kgs.6.32 citation (\"spread gold\") shows one overlay action -- \"beat out\" was the etymological/goldsmithing background, not an independently shown second sense.",
+  "Trimmed \"beat down; subdue\" to \"subdue\" per the tightened compound-gloss standard: the citations (Isa.45.1, Ps.144.2) show subjugation, not a separately-attested literal beating -- synonyms of one sense."
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "be grievous/painful; be severe"
+  "be grievous; be severe"
  ],
  "strong": "H4834",
  "stems": {
@@ -64,16 +64,18 @@
   }
  },
  "stem_glosses": {
-  "hiphil": "embolden; spur on"
+  "hiphil": "embolden"
  },
  "notes": [
-  "Hiphil was requested as \"make sick; vex; irritate\", but the only attested hiphil form (Job.16.3, יַּמְרִיצְךָ, \"what emboldeneth thee that thou answerest?\") means \"embolden\", matching the lexicon's own \"embolden\" sense rather than \"vex/irritate\" -- confirmed with the person and shipped as \"embolden; spur on\" instead."
+  "Hiphil was requested as \"make sick; vex; irritate\", but the only attested hiphil form (Job.16.3, יַּמְרִיצְךָ, \"what emboldeneth thee that thou answerest?\") means \"embolden\", matching the lexicon's own \"embolden\" sense rather than \"vex/irritate\" -- confirmed with the person and shipped as \"embolden; spur on\" instead.",
+  "Trimmed \"be grievous/painful\" pairing to \"be grievous\" per the tightened compound-gloss standard: 1Kgs.2.8/Mic.2.10 show a grievous/painful curse and destruction -- \"grievous\" and \"painful\" are synonyms of that one sense; \"be severe\" (Job.6.25, \"forcible words\") is genuinely distinct and stays.",
+  "Trimmed hiphil's \"embolden; spur on\" to \"embolden\" per the tightened compound-gloss standard: both describe the one Job.16.3 citation -- synonyms, not two senses."
  ],
  "root": "מרץ",
  "search_match": [
   "4834",
   "h4834",
-  "be grievous/painful; be severe",
+  "be grievous; be severe",
   "embolden",
   "maratz",
   "מרץ"

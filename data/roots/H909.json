@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "be separate; be isolated"
+  "be isolated"
  ],
  "strong": "H909",
  "stems": {
@@ -27,10 +27,13 @@
  "search_match": [
   "909",
   "h909",
-  "be separate; be isolated",
+  "be isolated",
   "badad",
   "בדד"
  ],
  "citation_translit": "badad",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Trimmed \"be separate; be isolated\" to \"be isolated\" per the tightened compound-gloss standard: all citations show the same solitary state -- synonyms, not two senses."
+ ]
 }

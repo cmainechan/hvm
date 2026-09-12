@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "be fixed; be appointed"
+  "be appointed"
  ],
  "strong": "H2163",
  "stems": {
@@ -36,10 +36,13 @@
  "search_match": [
   "2163",
   "h2163",
-  "be fixed; be appointed",
+  "be appointed",
   "zaman",
   "זמן"
  ],
  "citation_translit": "zaman",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Trimmed \"be fixed; be appointed\" to \"be appointed\" per the tightened compound-gloss standard: all citations show the same \"appointed [time]\" sense -- synonyms, not two senses."
+ ]
 }

@@ -64,7 +64,7 @@
   }
  },
  "stem_glosses": {
-  "piel": "bear; carry"
+  "piel": "carry"
  },
  "root": "נטל",
  "search_match": [
@@ -75,5 +75,8 @@
   "נטל"
  ],
  "citation_translit": "natal",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Trimmed piel's \"bear; carry\" to \"carry\" per the tightened compound-gloss standard: both words translate the one Isa.63.9 citation -- synonyms, not two senses."
+ ]
 }

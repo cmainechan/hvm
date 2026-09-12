@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "make light of; reject"
+  "reject"
  ],
  "strong": "H5541",
  "stems": {
@@ -60,20 +60,22 @@
   }
  },
  "stem_glosses": {
-  "piel": "flout; reject",
+  "piel": "reject",
   "pual": "be valued"
  },
  "root": "סלה",
  "search_match": [
   "5541",
   "h5541",
-  "make light of; reject",
+  "reject",
   "salah",
   "סלה"
  ],
  "citation_translit": "salah",
  "stem_coverage_checked": true,
  "notes": [
-  "Trimmed pual's \"be weighed; be valued\" to \"be valued\" per the compound-gloss trim audit: Job.28.16/28.19 (\"cannot be valued with the gold of Ophir\") show the figurative \"be valued\" sense; \"be weighed\" is the root's literal etymological sense (BDB: \"to hang up, i.e. weigh\") but no citation shows an actual weighing."
+  "Trimmed pual's \"be weighed; be valued\" to \"be valued\" per the compound-gloss trim audit: Job.28.16/28.19 (\"cannot be valued with the gold of Ophir\") show the figurative \"be valued\" sense; \"be weighed\" is the root's literal etymological sense (BDB: \"to hang up, i.e. weigh\") but no citation shows an actual weighing.",
+  "Trimmed \"make light of; reject\" to \"reject\" per the tightened compound-gloss standard: both describe the one Ps.119.118 citation (\"trodden down\") -- synonyms, not two senses.",
+  "Trimmed piel's \"flout; reject\" to \"reject\" per the tightened compound-gloss standard: both describe the one Lam.1.15 citation (\"trodden under foot\") -- synonyms, not two senses."
  ]
 }

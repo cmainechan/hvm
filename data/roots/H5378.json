@@ -53,11 +53,12 @@
   }
  },
  "stem_glosses": {
-  "hiphil": "act as a creditor; exact payment"
+  "hiphil": "exact payment"
  },
  "notes": [
   "Third homonym under these consonants: נשא¹ (H5375, \"lift\") and נשא² (H5377, \"delude\") already exist in the dataset; this root (H5378, \"lend on interest\") is added as נשא³ per the ascending-Strong's-number superscript convention.",
-  "Gloss collision: nearly identical to the existing נשה² (H5383, glosses \"lend\", hiphil \"act as a creditor\") -- a different but semantically twin root (final-heh vs. final-aleph); disambiguating search alias added."
+  "Gloss collision: nearly identical to the existing נשה² (H5383, glosses \"lend\", hiphil \"act as a creditor\") -- a different but semantically twin root (final-heh vs. final-aleph); disambiguating search alias added.",
+  "Trimmed hiphil's \"act as a creditor; exact payment\" to \"exact payment\" per the tightened compound-gloss standard: both describe the one Ps.89.23 citation (\"exact\") -- synonyms, not two senses."
  ],
  "root": "נשא³",
  "search_match": [

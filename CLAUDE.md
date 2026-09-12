@@ -166,22 +166,41 @@ stem. For each root:
     back to keeping it anyway — see "No uncited glosses" immediately
     below, which takes priority over shipping a citation-anchored-only
     sense.
-    **This check runs per clause, not just per stem.** A gloss with
-    several semicolon-separated senses (e.g. "spice; ripen; embalm") isn't
-    one indivisible unit that passes as soon as *some* citation loosely
-    fits it — check each clause against the stem's citation(s) on its own,
-    and trim any clause that no citation actually demonstrates, even when
-    a neighboring clause in the same gloss is well attested. A real case
-    from this dataset: H2590 חנט was shipped as qal "spice; ripen; embalm"
-    with Gen.50.2/50.26 ("embalmed") and Song.2.13 ("ripeneth") as
-    citations — "ripen" and "embalm" both hold, but "spice" doesn't; no
-    citation shows the act of seasoning something with spice, only
-    embalming and fruit-ripening. Trimmed, this becomes qal "ripen; embalm".
-    A clause survives only when some citation's actual content demonstrates
-    it, not when it's a plausible inference from a citation that directly
-    demonstrates a *different* clause (a pricking brier and malignant
-    leprosy each plausibly "cause pain," but neither citation is about pain
-    as such — that clause gets trimmed too, same rule).
+    **This check runs per clause, not just per stem, and the target is
+    ONE clause per evidenced sense — not a list of near-synonyms for it.**
+    A gloss with several semicolon-separated clauses (e.g. "spice; ripen;
+    embalm") isn't one indivisible unit that passes as soon as *some*
+    citation loosely fits it, and a compound gloss doesn't get to stay
+    compound just because every clause is individually defensible. Two
+    different things can make a clause not belong:
+    - **Unattested**: no citation demonstrates it at all, or it's only a
+      plausible inference from a citation that actually demonstrates a
+      *different* clause (a pricking brier and malignant leprosy both
+      plausibly "cause pain," but neither citation is about pain as such
+      — trim it).
+    - **Redundant**: it's a synonym or near-synonym of a sense some other
+      clause already covers — even when that clause *is* independently
+      attested, restating the same evidenced sense twice adds nothing and
+      gets cut to whichever single wording fits best (H1765 דחף's qal
+      "drive; hasten" — Esth.3.15/8.14 show one passive sense, "hastened
+      [by the king's order]"; "drive" isn't a second sense, it's another
+      word for the same one — trim to "hasten").
+    A gloss stays compound only when it has two or more clauses that are
+    each independently attested *and* genuinely distinct in meaning from
+    each other — not "different English words for the same idea," but
+    different real-world senses. H4529 מסה hiphil "cause to dissolve;
+    consume; intimidate" is a real one: Josh.14.8 shows fear/intimidation,
+    Ps.39.12 shows wasting away/consumption, and Ps.6.7/147.18 show
+    literal melting — three different things, each with its own citation,
+    so all three stay. A real trimmed case: H2590 חנט's qal "spice; ripen;
+    embalm" (Gen.50.2/50.26 show "embalm," Song.2.13 shows "ripen," nothing
+    shows the distinct act of seasoning with spice) becomes "ripen; embalm"
+    — genuinely distinct, each cited, so both of those survive; "spice"
+    was cut for being unattested, not for being redundant.
+    When in doubt whether two clauses are "genuinely distinct" or "the same
+    sense worded twice," ask whether dropping one of them would lose real
+    information about what the citation shows, or just shorten the
+    sentence — if only the latter, cut it.
     Once checked, mark the stem `"gloss_verified": true` **and**
     `"gloss_trim_checked": true` (both peers of `sense_hint` inside that
     stem's object) so the check doesn't need repeating later. The two flags
@@ -208,12 +227,15 @@ H1921 הדר qal "swell (of hills)" (BDB's own listed sense, marked uncertain
 by BDB itself, no citable verse).
 
 **This rule applies per clause of a compound gloss, not just to whole
-senses.** A gloss like "spice; ripen; embalm" is three clauses, each
-needing its own citation support — it isn't cleared just because *a*
-citation exists somewhere for the stem. Trim any clause nothing citable
-demonstrates, the same as dropping a whole uncited sense; see step 10
-above for the worked example (H2590 חנט) and the boundary between "an
-inference from a citation" and "what the citation actually shows." This
+senses — and it isn't satisfied just because every remaining clause has
+*some* citation.** A gloss like "spice; ripen; embalm" is three clauses,
+each needing its own citation support; trim any that nothing citable
+demonstrates, the same as dropping a whole uncited sense. But two
+independently-cited clauses can *still* need trimming to one if they're
+just synonyms of the same evidenced sense rather than genuinely different
+senses — see step 10 above for the full worked examples (H2590 חנט for an
+unattested clause, H1765 דחף for a redundant one) and the test for telling
+"the same sense worded twice" from "two different senses." This
 finer-grained standard was introduced after roughly 935 roots were already
 in the dataset — see "Compound-gloss trim audit" below for the backlog
 this created and how it's tracked separately from the original
@@ -264,13 +286,14 @@ than holding a huge uncommitted audit in progress.
 
 A stricter version of the check above was introduced after the original
 audit finished and roughly 935 roots were already in the dataset: every
-*clause* of a compound gloss needs its own citation support, not just the
-gloss as a whole (see "No uncited glosses" and step 10 above for the exact
-standard and a worked example). Every stem checked before this stricter
-standard existed has `"gloss_verified": true` but not necessarily
-`"gloss_trim_checked": true` — the second, separate flag is what this
-audit tracks, so it doesn't get confused with the (now complete) original
-pass or force-recheck stems that have nothing to trim.
+*clause* of a compound gloss needs its own citation support, AND a
+compound gloss only stays compound when its clauses are genuinely
+distinct senses, not synonyms of each other (see "No uncited glosses" and
+step 10 above for the exact standard and the worked examples). Every stem
+checked before this stricter standard existed has `"gloss_verified": true`
+but not necessarily `"gloss_trim_checked": true` — the second, separate
+flag is what this audit tracks, so it doesn't get confused with the (now
+complete) original pass or force-recheck stems that have nothing to trim.
 
 - Only stems with a **compound gloss** (more than one clause — in
   practice, containing `;` or `/`) are actually at risk here; a one-clause
@@ -292,16 +315,23 @@ pass or force-recheck stems that have nothing to trim.
               todo.append((d["strong"], d.get("root"), stem, text))
   print(len(todo), "compound-gloss stems still need a trim check")
   ```
-  715 stems matched this as of the session that introduced the rule.
-- Workflow is the same auto-fix-and-report shape as the original
-  gloss-context audit above (not confirm-first): for each stem, check
-  every clause of its gloss against its citation(s) per the per-clause
-  standard, trim whatever isn't independently demonstrated, report what
-  changed (or that nothing needed to change), and set
-  `"gloss_trim_checked": true`. A stem whose gloss turns out fully
-  supported as-is still gets the flag — it means "checked," not "changed."
-- Same batch size as the original audit (roughly 40 stems per session)
-  unless the person says otherwise, and same incremental-commit guidance.
+- **No confirmation needed before trimming** — this audit is auto-fix-
+  and-report, the same shape as the original gloss-context audit: for
+  each stem, check every clause of its gloss against the stem's own
+  shipped citation(s), trim whatever's unattested or redundant, report
+  what changed (or that nothing needed to change — still set the flag
+  either way, it means "checked," not "changed"), and move on. Don't pause
+  to ask before applying a trim; flag something in the report only when
+  it's genuinely ambiguous whether two clauses are distinct senses or the
+  same one worded twice, not as a routine check-in.
+- **Batch size: 45 stems per session.** A modest bump from the original
+  gloss-context audit's 40 — a fair number of stems here are single-clause
+  and pass on sight, which offsets the fact that a compound gloss now
+  needs an extra judgment call per stem (are these clauses actually
+  distinct, not just whether each has a citation). Adjust up or down if
+  that balance doesn't hold in practice; it's a starting estimate, not a
+  hard constraint.
+- Commit incrementally, same as the original audit.
 - **Every stem added from now on gets both flags set together at creation
   time** (step 10 above already says this) — this audit's backlog is a
   fixed, closed set from the day the rule was introduced, not something

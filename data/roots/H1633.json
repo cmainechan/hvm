@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "leave; reserve"
+  "reserve"
  ],
  "strong": "H1633",
  "stems": {
@@ -54,13 +54,14 @@
   "piel": "break bones"
  },
  "notes": [
-  "Qal citation (Zeph.3.3, גָרְמוּ, \"her judges are evening wolves; they [do not] leave [any bones] till the morning\") supports the requested \"leave; reserve\" sense, but the lexicon's own primary/etymological sense for this root is \"to bone, i.e. gnaw the bones\" -- the same verse is also commonly read that way (\"they gnaw not the bones till the morrow\"). Both readings are attested interpretive traditions of the same citation; shipping the requested sense per the person's gloss, flagging the alternate reading rather than silently picking one."
+  "Qal citation (Zeph.3.3, גָרְמוּ, \"her judges are evening wolves; they [do not] leave [any bones] till the morning\") supports the requested \"leave; reserve\" sense, but the lexicon's own primary/etymological sense for this root is \"to bone, i.e. gnaw the bones\" -- the same verse is also commonly read that way (\"they gnaw not the bones till the morrow\"). Both readings are attested interpretive traditions of the same citation; shipping the requested sense per the person's gloss, flagging the alternate reading rather than silently picking one.",
+  "Trimmed \"leave; reserve\" to \"reserve\" per the tightened compound-gloss standard: both words describe the one (already-flagged, contested) Zeph.3.3 citation -- synonyms, not two senses."
  ],
  "root": "גרם",
  "search_match": [
   "1633",
   "h1633",
-  "leave; reserve",
+  "reserve",
   "garam",
   "גרם"
  ],

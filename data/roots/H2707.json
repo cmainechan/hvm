@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "mark a line; set a limit"
+  "set a limit"
  ],
  "strong": "H2707",
  "stems": {
@@ -45,14 +45,15 @@
   "pual": "be carved"
  },
  "notes": [
-  "No qal is attested for this root; hitpael (\"mark a line; set a limit\") is treated as the primary/citation sense rather than pual (\"be carved\"), which is passive -- DEFAULT_STEM_OVERRIDE set to hitpael in both UI templates.",
-  "Trimmed \"engrave; mark a line; set a limit\" to \"mark a line; set a limit\" per the compound-gloss trim audit: the only citation (Job.13.27, \"thou settest a print upon the heels of my feet\") shows marking/bounding a boundary, not the literal act of engraving into a hard surface -- that clause was carried over from the pual sense (\"be carved\") without its own support."
+  "No qal is attested for this root; hitpael (\"set a limit\") is treated as the primary/citation sense rather than pual (\"be carved\"), which is passive -- DEFAULT_STEM_OVERRIDE set to hitpael in both UI templates.",
+  "Trimmed \"engrave; mark a line; set a limit\" to \"mark a line; set a limit\" per the compound-gloss trim audit: the only citation (Job.13.27, \"thou settest a print upon the heels of my feet\") shows marking/bounding a boundary, not the literal act of engraving into a hard surface -- that clause was carried over from the pual sense (\"be carved\") without its own support.",
+  "Trimmed \"mark a line; set a limit\" further to \"set a limit\": both phrases describe the same one Job.13.27 citation (bounding foot movement) -- synonyms of one sense, not two."
  ],
  "root": "חקה",
  "search_match": [
   "2707",
   "h2707",
-  "mark a line; set a limit",
+  "set a limit",
   "be carved",
   "chaqah",
   "חקה"

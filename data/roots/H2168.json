@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "prune; trim"
+  "prune"
  ],
  "strong": "H2168",
  "stems": {
@@ -45,13 +45,14 @@
   "niphal": "be pruned"
  },
  "notes": [
-  "True homograph of the existing H2167 (\"make music\"), both spelled זמר -- added as זמר² per the ascending-Strong's-number superscript convention; H2167 is retroactively renamed זמר¹ in this same batch (including its DEFAULT_STEM_OVERRIDE entry in both UI templates)."
+  "True homograph of the existing H2167 (\"make music\"), both spelled זמר -- added as זמר² per the ascending-Strong's-number superscript convention; H2167 is retroactively renamed זמר¹ in this same batch (including its DEFAULT_STEM_OVERRIDE entry in both UI templates).",
+  "Trimmed \"prune; trim\" to \"prune\" per the tightened compound-gloss standard: both citations show the same vine-pruning action -- pure synonyms."
  ],
  "root": "זמר²",
  "search_match": [
   "2168",
   "h2168",
-  "prune; trim",
+  "prune",
   "zamar",
   "זמר²"
  ],

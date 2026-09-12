@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "divide; split; cleave a channel"
+  "divide; cleave a channel"
  ],
  "strong": "H6385",
  "stems": {
@@ -56,13 +56,14 @@
   "niphal": "be divided"
  },
  "notes": [
-  "No qal is attested for this root; piel (\"divide; split; cleave a channel\") is the more active sense and is treated as the primary/citation stem rather than niphal's passive \"be divided\" -- DEFAULT_STEM_OVERRIDE set to piel in both UI templates, since niphal precedes piel in STEM_ORDER and would otherwise be picked by default."
+  "No qal is attested for this root; piel (\"divide; split; cleave a channel\") is the more active sense and is treated as the primary/citation stem rather than niphal's passive \"be divided\" -- DEFAULT_STEM_OVERRIDE set to piel in both UI templates, since niphal precedes piel in STEM_ORDER and would otherwise be picked by default.",
+  "Trimmed \"divide; split\" pairing to \"divide\" per the tightened compound-gloss standard: both describe the one Ps.55.10 citation -- synonyms of the same sense; \"cleave a channel\" (Job.38.25) is genuinely distinct and stays."
  ],
  "root": "פלג",
  "search_match": [
   "6385",
   "h6385",
-  "divide; split; cleave a channel",
+  "divide; cleave a channel",
   "be divided",
   "palag",
   "פלג"

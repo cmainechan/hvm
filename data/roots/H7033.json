@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "roast; parch; scorch"
+  "roast; parch"
  ],
  "strong": "H7033",
  "stems": {
@@ -57,13 +57,14 @@
  },
  "notes": [
   "True homograph of the existing H7034 (\"treat with contempt\"), both spelled קלה -- added as קלה¹ per the ascending-Strong's-number superscript convention; H7034 was retroactively renamed to קלה² in this same batch. H7034's own notes already anticipated this exact collision.",
-  "Niphal (\"be inflamed\", Ps.38.8, נִקְלֶה, \"my loins are filled with burning\") is attested but wasn't part of the original request -- added per the full-stem-coverage check. Its surface form is identical to H7034's own niphal participle (also נִקְלֶה) but the corpus tags it H7033 specifically, and the verse's sense (a burning/inflamed affliction) matches H7033's \"scorch\" meaning, not H7034's \"be despised\" -- confirmed as correctly tagged, not cross-contamination."
+  "Niphal (\"be inflamed\", Ps.38.8, נִקְלֶה, \"my loins are filled with burning\") is attested but wasn't part of the original request -- added per the full-stem-coverage check. Its surface form is identical to H7034's own niphal participle (also נִקְלֶה) but the corpus tags it H7033 specifically, and the verse's sense (a burning/inflamed affliction) matches H7033's \"scorch\" meaning, not H7034's \"be despised\" -- confirmed as correctly tagged, not cross-contamination.",
+  "Trimmed \"scorch\" per the tightened compound-gloss standard: it's the lexicon's general connecting term for this heat-semantic family, not an independently-cited action distinct from \"roast\" (Jer.29.22) and \"parch\" (Josh.5.11/Lev.2.14), which stay as genuinely different, each-cited processes."
  ],
  "root": "קלה¹",
  "search_match": [
   "7033",
   "h7033",
-  "roast; parch; scorch",
+  "roast; parch",
   "qalah",
   "קלה¹"
  ],
