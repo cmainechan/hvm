@@ -1,0 +1,61 @@
+{
+ "glosses": [
+  "fly"
+ ],
+ "strong": "H5132",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָצוּ",
+      "translit": "natzu",
+      "ref": "Lam.4.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֵנֵצוּ",
+      "translit": "henetzu",
+      "ref": "Song.6.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "blossom"
+ },
+ "notes": [
+  "Hiphil (\"blossom\", Song.6.11/7.13 הֵנֵצוּ, \"the vines/pomegranates budded\") is attested but wasn't part of the original request -- added per the full-stem-coverage check, with its own drafted gloss (genuinely distinct from qal's \"fly\", both from the same root idea of \"flashing/bursting forth quickly\"). Hiphil's only slot (perfect 3cp) is attested identically in both verses; Song.6.11 kept as citation.",
+  "Gloss collision: \"fly\" (exact) matches the existing עוף (H5774) root gloss -- disambiguating search alias added. \"blossom\" (hiphil) also overlaps the existing צוץ (H6692) root gloss exactly (an etymologically related root), but that's a stem-level gloss on our side, so no alias needed for our own search index."
+ ],
+ "root": "נוץ",
+ "search_match": [
+  "5132",
+  "h5132",
+  "fly (nutz)",
+  "nutz",
+  "נוץ"
+ ],
+ "citation_translit": "nutz",
+ "stem_coverage_checked": true
+}

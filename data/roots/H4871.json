@@ -1,0 +1,58 @@
+{
+ "glosses": [
+  "draw out"
+ ],
+ "strong": "H4871",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "מְשִׁיתִֽהוּ",
+      "translit": "mshitihu",
+      "ref": "Exod.2.10",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַֽמְשֵׁנִי",
+      "translit": "yamsheni",
+      "ref": "2Sam.22.17",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Hiphil's only slot (yiqtol 3ms) is attested twice, identically, in 2Sam.22.17 and its parallel Ps.18.17 -- 2Sam.22.17 kept as citation per the usual duplicate-slot tie-break.",
+  "Gloss collision: \"draw out\" is a very common clause, already shared by three existing roots -- דלה (H1802, \"draw water; draw out\"), רוק (H7324, \"empty out; draw out\"), and חשף (H2834, \"lay bare; draw out\") -- disambiguating search alias added."
+ ],
+ "root": "משה",
+ "search_match": [
+  "4871",
+  "h4871",
+  "draw out (mashah)",
+  "mashah",
+  "משה"
+ ],
+ "citation_translit": "mashah",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,65 @@
+{
+ "glosses": [
+  "wrap"
+ ],
+ "strong": "H3874",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "לוּטָה",
+      "translit": "lutah",
+      "ref": "1Sam.21.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַלּוֹט",
+      "translit": "hallot",
+      "ref": "Isa.25.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּלֶט",
+      "translit": "vayyalet",
+      "ref": "1Kgs.19.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "לוט",
+ "search_match": [
+  "3874",
+  "h3874",
+  "wrap",
+  "lut",
+  "לוט"
+ ],
+ "citation_translit": "lut",
+ "stem_coverage_checked": true
+}

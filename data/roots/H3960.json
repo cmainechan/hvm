@@ -1,0 +1,58 @@
+{
+ "glosses": [
+  "slander"
+ ],
+ "strong": "H3960",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "jussive": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּלְשֵׁן",
+      "translit": "talshen",
+      "ref": "Prov.30.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "poel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְלָשְׁנִי",
+      "translit": "mlashni",
+      "ref": "Ps.101.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Poel's only attestation in the corpus (Ps.101.5, מְלָשְׁנִי, \"[whoever] slandereth his neighbour [secretly]\") is a construct-state participle, which the pipeline's extraction normally excludes per requirement 6 (absolute state only). Kept as a documented exception -- same precedent as the existing (H2904, pilpel) and (H6140, niphal) exceptions in pipeline.py's KNOWN_EXCEPTIONS: no alternative attestation of poel exists at all for this root. Added (H3960, poel, participle_active, ms) to KNOWN_EXCEPTIONS.",
+  "Gloss collision: shares \"slander\" (exact) with the existing רגל (H7270, piel \"slander; spy\") -- distinct roots, disambiguating search alias added."
+ ],
+ "root": "לשן",
+ "search_match": [
+  "3960",
+  "h3960",
+  "slander (lashan)",
+  "lashan",
+  "לשן"
+ ],
+ "citation_translit": "lashan",
+ "stem_coverage_checked": true
+}

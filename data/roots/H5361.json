@@ -1,0 +1,40 @@
+{
+ "glosses": [
+  "be alienated"
+ ],
+ "strong": "H5361",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נָקְעָה",
+      "translit": "naq'ah",
+      "ref": "Ezek.23.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Qal's only slot (perfect 3fs) is attested identically in Ezek.23.18, 23.22 and 23.28 (a repeated formula); Ezek.23.18 kept as citation per the usual duplicate-slot tie-break.",
+  "Gloss overlap (stem-level, not a search-index collision): \"be alienated\" matches the existing זור¹ (H2114) hophal stem_gloss, whose own root-level gloss is \"become estranged\" -- no alias needed."
+ ],
+ "root": "נקע",
+ "search_match": [
+  "5361",
+  "h5361",
+  "be alienated",
+  "naqa",
+  "נקע"
+ ],
+ "citation_translit": "naqa",
+ "stem_coverage_checked": true
+}

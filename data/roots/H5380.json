@@ -1,0 +1,72 @@
+{
+ "glosses": [
+  "blow"
+ ],
+ "strong": "H5380",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נָשְׁבָה",
+      "translit": "nashvah",
+      "ref": "Isa.40.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּשֵּׁב",
+      "translit": "vayyasshev",
+      "ref": "Gen.15.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַשֵּׁב",
+      "translit": "yasshev",
+      "ref": "Ps.147.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "drive away; cause to blow"
+ },
+ "notes": [
+  "Hiphil gloss expanded beyond the requested \"drive away\": Ps.147.18 (יַשֵּׁב רוּחוֹ, \"he causeth his wind to blow\") attests a second, genuinely distinct hiphil sense alongside Gen.15.11's \"drive away\" (Abram driving off birds of prey) -- not a synonym of it, so both clauses are kept per the compound-gloss standard (each independently cited, each a different real action). This goes beyond what was asked and is flagged per usual practice.",
+  "Gloss collision: \"blow\" (qal) matches a clause of the existing נפח (H5301, \"breathe; blow\") root gloss -- disambiguating search alias added."
+ ],
+ "root": "נשב",
+ "search_match": [
+  "5380",
+  "h5380",
+  "blow (nashav)",
+  "nashav",
+  "נשב"
+ ],
+ "citation_translit": "nashav",
+ "stem_coverage_checked": true
+}

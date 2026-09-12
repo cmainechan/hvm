@@ -1,0 +1,72 @@
+{
+ "glosses": [
+  "touch"
+ ],
+ "strong": "H4184",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וַאֲמֻֽשְׁךָ",
+      "translit": "va'amushkha",
+      "ref": "Gen.27.21",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַהֲמִשֵׁנִי",
+      "translit": "vahamisheni",
+      "ref": "Judg.16.26",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְמִישׁוּן",
+      "translit": "ymishun",
+      "ref": "Ps.115.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "handle"
+ },
+ "notes": [
+  "True homograph of the existing H4185 (\"depart, mostly of inanimate things\"), both spelled מוש -- added as מוש¹ (lower Strong's number) per the ascending-Strong's-number superscript convention; H4185 is retroactively renamed מוש² in this same batch.",
+  "Gloss collision: \"touch\" (qal) matches the existing נגע (H5060) root gloss exactly -- disambiguating search alias added. \"handle\" (hiphil) also overlaps the existing תפש (H8610) piel stem_gloss, and \"touch\" overlaps H4185/מוש²'s own sibling hiphil stem_gloss \"touch\" -- both stem-level only, no alias needed for those."
+ ],
+ "root": "מוש¹",
+ "search_match": [
+  "4184",
+  "h4184",
+  "touch (mush)",
+  "mush",
+  "מוש¹"
+ ],
+ "citation_translit": "mush",
+ "stem_coverage_checked": true
+}

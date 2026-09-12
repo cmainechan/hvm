@@ -1,0 +1,62 @@
+{
+ "glosses": [
+  "drive away"
+ ],
+ "strong": "H5077",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וידא",
+      "translit": "d",
+      "ref": "2Kgs.17.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַֽמְנַדִּים",
+      "translit": "hamnaddim",
+      "ref": "Amos.6.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "postpone"
+ },
+ "notes": [
+  "Hiphil's only attestation (2Kgs.17.21) is a ketiv (וידא) whose qere reads a different root entirely (וַיַּדַּח, H5080 נדח, \"he drove away\") -- kept per the pipeline's ketiv/qere rule, since the ketiv's own lemma (H5077) differs from the qere's (H5080), making it a genuine textual variant rather than a mere spelling difference. Like H7693 שגל's ketiv-only forms, the ketiv carries no niqqud in the source text (only the qere side, a different word, is vocalized), so heb/translit here are the bare consonants -- not a data-entry gap. Single-attestation and textually contested; flagging per the maintenance guide.",
+  "Requested hiphil gloss \"drive away; thrust aside\" trimmed to \"drive away\" per the compound-gloss standard: the sole citation (Jeroboam \"drove Israel away from following the LORD\") shows one action, and \"thrust aside\" is a synonym for it, not a second sense.",
+  "Piel (\"postpone\", Amos.6.3, \"ye that put far away the evil day\") is attested but wasn't part of the original request -- added per the full-stem-coverage check."
+ ],
+ "root": "נדה",
+ "search_match": [
+  "5077",
+  "h5077",
+  "drive away (nadah)",
+  "nadah",
+  "נדה"
+ ],
+ "citation_translit": "nadah",
+ "stem_coverage_checked": true
+}

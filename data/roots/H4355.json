@@ -1,0 +1,79 @@
+{
+ "glosses": [
+  "be humiliated"
+ ],
+ "strong": "H4355",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּמֹכּוּ",
+      "translit": "vayyamokku",
+      "ref": "Ps.106.43",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִמַּךְ",
+      "translit": "yimmakh",
+      "ref": "Eccl.10.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְֽהֻמְּכוּ",
+      "translit": "vhummkhu",
+      "ref": "Job.24.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "fall into decay",
+  "hophal": "be brought low"
+ },
+ "root": "מכך",
+ "search_match": [
+  "4355",
+  "h4355",
+  "be humiliated",
+  "makhakh",
+  "מכך"
+ ],
+ "citation_translit": "makhakh",
+ "stem_coverage_checked": true,
+ "notes": [
+  "Gloss overlap (stem-level, not a search-index collision): \"be brought low\" (hophal) matches the existing דלל (H1809) root-level gloss exactly -- no alias added to this root's own search index since our root-level gloss is \"be humiliated\", not \"be brought low\"."
+ ]
+}

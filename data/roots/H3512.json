@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "be disheartened"
+ ],
+ "strong": "H3512",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (this root has no attested qal; niphal serves as its basic/citation stem)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנִכְאָה",
+      "translit": "vnikh'ah",
+      "ref": "Dan.11.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הַכְאוֹת",
+      "translit": "hakh'ot",
+      "ref": "Ezek.13.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "dishearten"
+ },
+ "root": "כאה",
+ "search_match": [
+  "3512",
+  "h3512",
+  "be disheartened",
+  "kaah",
+  "כאה"
+ ],
+ "citation_translit": "ka'ah",
+ "stem_coverage_checked": true
+}

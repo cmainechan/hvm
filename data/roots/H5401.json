@@ -193,13 +193,16 @@
   "hiphil": "touch",
   "piel": "kiss"
  },
- "root": "נשק",
+ "notes": [
+  "Retroactively renamed from the plain key \"נשק\" to \"נשק²\" when H5400 (\"catch fire; cause to burn\") was added to the dataset as \"נשק¹\" -- true homograph (same bare consonants נשק once the sin/shin dot is stripped, as it is not a separate letter, genuinely unrelated meanings), per the root-key superscript convention (lower Strong's number gets ¹)."
+ ],
+ "root": "נשק²",
  "search_match": [
   "5401",
   "h5401",
   "kiss",
   "nashaq",
-  "נשק"
+  "נשק²"
  ],
  "citation_translit": "nashaq",
  "stem_coverage_checked": true

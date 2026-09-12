@@ -1,0 +1,51 @@
+{
+ "glosses": [
+  "clap the hands"
+ ],
+ "strong": "H4222",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מַחְאֲךָ",
+      "translit": "mach'akha",
+      "ref": "Ezek.25.6",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִמְחֲאוּ",
+      "translit": "yimcha'u",
+      "ref": "Isa.55.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Requested piel (\"clap the hands\") has zero attestation anywhere in the corpus -- excluded per the no-uncited-glosses rule. Only qal is attested.",
+  "Gloss collision: shares \"clap the hands\" (exact) with the existing ספק (H5606, \"clap the hands; be enough\") -- distinct roots, disambiguating search alias added."
+ ],
+ "root": "מחא",
+ "search_match": [
+  "4222",
+  "h4222",
+  "clap the hands (macha)",
+  "macha",
+  "מחא"
+ ],
+ "citation_translit": "macha",
+ "stem_coverage_checked": true
+}

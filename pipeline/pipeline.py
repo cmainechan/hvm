@@ -381,6 +381,10 @@ KNOWN_EXCEPTIONS = {
     # (Prov.28.18, וְנֶעְקַשׁ) is a construct-state participle; kept anyway
     # per the same explicit exception as H2904, since no other niphal
     # attestation exists.
+    ('H3960', 'poel', 'participle_active', 'ms'),  # only attestation
+    # (Ps.101.5, מְלָשְׁנִי) is a construct-state participle ("[whoever]
+    # slandereth his neighbour"); kept anyway per the same explicit
+    # exception as H2904/H6140, since no other poel attestation exists.
 }
 
 

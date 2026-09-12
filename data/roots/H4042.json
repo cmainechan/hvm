@@ -1,0 +1,59 @@
+{
+ "glosses": [
+  "deliver up"
+ ],
+ "strong": "H4042",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "מִגֵּן",
+      "translit": "miggen",
+      "ref": "Gen.14.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲמַגֶּנְךָ",
+      "translit": "amaggenkha",
+      "ref": "Hos.11.8",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּמַגְּנֶֽךָּ",
+      "translit": "tmaggnekka",
+      "ref": "Prov.4.9",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "מגן",
+ "search_match": [
+  "4042",
+  "h4042",
+  "deliver up",
+  "magan",
+  "מגן"
+ ],
+ "citation_translit": "magan",
+ "stem_coverage_checked": true,
+ "notes": [
+  "Gloss overlap (stem-level, not a search-index collision): \"deliver up\" also appears as a hiphil stem_gloss on the existing סגר (H5462), whose own root-level gloss is \"shut\" -- no alias needed."
+ ]
+}

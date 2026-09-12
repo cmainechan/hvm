@@ -120,13 +120,16 @@
  "stem_glosses": {
   "hiphil": "remove"
  },
- "root": "מוש",
+ "notes": [
+  "Retroactively renamed from the plain key \"מוש\" to \"מוש²\" when H4184 (\"touch; handle\") was added to the dataset as \"מוש¹\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
+ ],
+ "root": "מוש²",
  "search_match": [
   "4185",
   "h4185",
   "depart (mostly of inanimate things)",
   "mush",
-  "מוש"
+  "מוש²"
  ],
  "citation_translit": "mush",
  "stem_coverage_checked": true

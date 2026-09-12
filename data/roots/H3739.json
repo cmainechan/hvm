@@ -1,0 +1,60 @@
+{
+ "glosses": [
+  "trade; provide a feast"
+ ],
+ "strong": "H3739",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּכְרֶה",
+      "translit": "vayyikhreh",
+      "ref": "2Kgs.6.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאֶכְּרֶהָ",
+      "translit": "va'ekkreha",
+      "ref": "Hos.3.2",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּכְרוּ",
+      "translit": "tikhru",
+      "ref": "Deut.2.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "True homograph of the existing H3738 (כרה¹, \"dig; buy\"), both spelled כרה -- added as כרה² per the ascending-Strong's-number superscript convention; H3738 is retroactively renamed כרה¹ in this same batch. Strong's own lexicon calls H3739 \"probably only a special application of 3738\" (same historical root, split number) -- H3738's notes already anticipated this root being added separately, see its updated notes.",
+  "Gloss collision: shares \"trade\" with the existing סחר (H5503, \"go around; trade\") -- distinct roots, disambiguating search alias added."
+ ],
+ "root": "כרה²",
+ "search_match": [
+  "3739",
+  "h3739",
+  "trade; provide a feast (karah)",
+  "karah",
+  "כרה²"
+ ],
+ "citation_translit": "karah",
+ "stem_coverage_checked": true
+}

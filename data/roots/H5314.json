@@ -1,0 +1,50 @@
+{
+ "glosses": [
+  "refresh oneself"
+ ],
+ "strong": "H5314",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (this root has no attested qal; niphal serves as its basic/citation stem)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּנָּפֵשׁ",
+      "translit": "vayyinnafesh",
+      "ref": "2Sam.16.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיִנָּפֵשׁ",
+      "translit": "vyinnafesh",
+      "ref": "Exod.23.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Niphal's wayyiqtol 3ms slot is attested identically in 2Sam.16.14 and Exod.31.17; 2Sam.16.14 kept as citation per the usual duplicate-slot tie-break."
+ ],
+ "root": "נפש",
+ "search_match": [
+  "5314",
+  "h5314",
+  "refresh oneself",
+  "nafash",
+  "נפש"
+ ],
+ "citation_translit": "nafash",
+ "stem_coverage_checked": true
+}

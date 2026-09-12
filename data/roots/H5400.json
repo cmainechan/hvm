@@ -1,0 +1,72 @@
+{
+ "glosses": [
+  "catch fire"
+ ],
+ "strong": "H5400",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (this root has no attested qal; niphal serves as its basic/citation stem)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נִשְּׂקָה",
+      "translit": "nissqah",
+      "ref": "Ps.78.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְהִשִּׂיקוּ",
+      "translit": "vhissiqu",
+      "ref": "Ezek.39.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַשִּׂיק",
+      "translit": "yassiq",
+      "ref": "Isa.44.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "cause to burn"
+ },
+ "notes": [
+  "True homograph of the existing H5401 (נָשַׁק, \"kiss\") -- same bare consonants נשק once the sin/shin dot (a diacritic, not a separate letter) is stripped, genuinely unrelated meanings -- added as נשק¹ (lower Strong's number) per the ascending-Strong's-number superscript convention; H5401 is retroactively renamed נשק² in this same batch.",
+  "Gloss overlap (stem-level, not a search-index collision): \"catch fire\" matches the existing לקח (H3947) hitpael stem_gloss, whose own root-level gloss is \"take\" -- no alias needed."
+ ],
+ "root": "נשק¹",
+ "search_match": [
+  "5400",
+  "h5400",
+  "catch fire",
+  "nasaq",
+  "נשק¹"
+ ],
+ "citation_translit": "nasaq",
+ "stem_coverage_checked": true
+}

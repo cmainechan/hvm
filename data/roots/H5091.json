@@ -1,0 +1,71 @@
+{
+ "glosses": [
+  "wail"
+ ],
+ "strong": "H5091",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נְהֵה",
+      "translit": "nheh",
+      "ref": "Ezek.32.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנָהָה",
+      "translit": "vnahah",
+      "ref": "Mic.2.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּנָּהוּ",
+      "translit": "vayyinnahu",
+      "ref": "1Sam.7.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "mourn"
+ },
+ "root": "נהה",
+ "search_match": [
+  "5091",
+  "h5091",
+  "wail (nahah)",
+  "nahah",
+  "נהה"
+ ],
+ "citation_translit": "nahah",
+ "stem_coverage_checked": true,
+ "notes": [
+  "Gloss collision: \"wail\" (exact) matches the existing ספד (H5594) root gloss -- disambiguating search alias added. \"mourn\" (niphal) also overlaps the existing אבל (H56) root gloss, but that's a stem-level gloss on our side, so no alias needed for our own search index."
+ ]
+}

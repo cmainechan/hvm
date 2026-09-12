@@ -1,0 +1,40 @@
+{
+ "glosses": [
+  "be ruined"
+ ],
+ "strong": "H3832",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (this root has no attested qal; niphal serves as its basic/citation stem)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִלָּבֵֽט",
+      "translit": "yillavet",
+      "ref": "Hos.4.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "All three attestations (Hos.4.14, Prov.10.8, Prov.10.10) are the identical form יִלָּבֵט; Hos.4.14 kept as citation per the usual duplicate-slot tie-break, the other two are textually identical repeats, not independent evidence of a different form.",
+  "Gloss overlap (stem-level, not a search-index collision): \"be ruined\" also appears as a niphal/pual stem_gloss on the existing חבל (H2254) and שחת (H7843), whose own root-level glosses are different (\"take/hold in pledge; spoil\" and \"ruin\") -- no alias needed since neither of their search indexes carries \"be ruined\"."
+ ],
+ "root": "לבט",
+ "search_match": [
+  "3832",
+  "h3832",
+  "be ruined",
+  "lavat",
+  "לבט"
+ ],
+ "citation_translit": "lavat",
+ "stem_coverage_checked": true
+}
