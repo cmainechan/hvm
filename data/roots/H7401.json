@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "be tender; be timid (of heart); be soft (of words)"
+  "be tender; be timid (of heart)"
  ],
  "strong": "H7401",
  "stems": {
@@ -41,7 +41,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pual": {
    "sense_hint": "passive/intensive",

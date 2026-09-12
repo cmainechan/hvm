@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "rush; range about; long eagerly"
+  "rush; long eagerly"
  ],
  "strong": "H8264",
  "stems": {
@@ -39,7 +39,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hithpalpel": {
    "sense_hint": "reflexive/intensive",

@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "mix; compound"
+  "compound"
  ],
  "strong": "H7543",
  "stems": {
@@ -30,7 +30,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pual": {
    "sense_hint": "passive/intensive",
@@ -47,7 +48,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -64,12 +66,13 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "pual": "be mixed; be compounded",
-  "hiphil": "mix; season"
+  "pual": "be compounded",
+  "hiphil": "season"
  },
  "root": "רקח",
  "search_match": [

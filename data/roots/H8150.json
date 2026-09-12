@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "whet; sharpen"
+  "sharpen"
  ],
  "strong": "H8150",
  "stems": {
@@ -30,7 +30,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -47,7 +48,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hithpolel": {
    "sense_hint": "reflexive/intensive",
@@ -68,7 +70,7 @@
   }
  },
  "stem_glosses": {
-  "piel": "sharpen; teach incisively",
+  "piel": "teach incisively",
   "hithpolel": "be pierced"
  },
  "notes": [

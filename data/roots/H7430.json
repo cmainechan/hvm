@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "creep; swarm"
+  "creep"
  ],
  "strong": "H7430",
  "stems": {
@@ -39,7 +39,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "root": "רמש",

@@ -120,7 +120,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pual": {
    "sense_hint": "passive-intensive",
@@ -148,12 +149,13 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
   "piel": "advance; lead on; set right; call blessed",
-  "pual": "be advanced; be blessed"
+  "pual": "be blessed"
  },
  "root": "אשר",
  "search_match": [

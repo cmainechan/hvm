@@ -52,7 +52,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -69,11 +70,12 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "hiphil": "vex; cause dread"
+  "hiphil": "vex"
  },
  "notes": [
   "Hiphil is an attested-but-unrequested stem beyond the requested qal -- its sole citation (Isa.7.6, \"let us vex it\") matches the lexicon's own causative sense (\"to be (causatively, make) disgusted or anxious\"; usage includes \"vex\"). Included.",
