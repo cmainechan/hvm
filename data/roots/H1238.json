@@ -41,7 +41,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -80,7 +81,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "poel": {
    "sense_hint": "intensive",
@@ -97,12 +99,13 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "niphal": "be emptied; be laid waste",
-  "poel": "empty out; devastate"
+  "niphal": "be emptied",
+  "poel": "empty out"
  },
  "notes": [
   "Requested stem \"Polel\" is tagged by OSHB as poel (stem letter 'm', not 'o') for its sole matching form (Jer.51.2) -- shipped as poel, the same typo-adjacent rare-stem substitution used previously for other polel/poel, pilel/pilpel, hithpoel/hithpolel pairs.",

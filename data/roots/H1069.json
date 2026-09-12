@@ -30,7 +30,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pual": {
    "sense_hint": "passive/intensive",
@@ -47,7 +48,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -68,7 +70,7 @@
   }
  },
  "stem_glosses": {
-  "pual": "be born/made a firstling",
+  "pual": "be born a firstling",
   "hiphil": "bear one's first child"
  },
  "notes": [

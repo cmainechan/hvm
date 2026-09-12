@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "pollute; desecrate"
+  "pollute"
  ],
  "strong": "H1351",
  "stems": {
@@ -30,7 +30,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -47,7 +48,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pual": {
    "sense_hint": "passive/intensive",
@@ -113,7 +115,7 @@
   }
  },
  "stem_glosses": {
-  "niphal": "be defiled; be polluted",
+  "niphal": "be defiled",
   "pual": "be desecrated",
   "hiphil": "pollute",
   "hitpael": "defile oneself"

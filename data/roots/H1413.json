@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "attack; make inroads"
+  "attack"
  ],
  "strong": "H1413",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hithpoel": {
    "sense_hint": "reflexive",
@@ -36,7 +37,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hithpolel": {
    "sense_hint": "reflexive/intensive",
@@ -64,12 +66,13 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "hithpoel": "cut oneself; gather in troops/crowds",
-  "hithpolel": "cut oneself; gather in troops/crowds"
+  "hithpoel": "cut oneself",
+  "hithpolel": "cut oneself"
  },
  "notes": [
   "Both hithpoel (Jer.41.5, 1 form) and hithpolel (5 forms, e.g. 1Kgs.18.28, Deut.14.1) are genuinely attested with the identical \"cut oneself; gather in troops/crowds\" range -- the same kind of paradigm-variant doubling seen repeatedly this session (ענן's poel/polel, געש's hitpael/hithpolel, מהה's hitpael/hithpalpel). Included both, matching the request's own \"Hithpo(lel)\" notation flagging the ambiguity."

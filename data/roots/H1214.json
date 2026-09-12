@@ -61,7 +61,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -109,11 +110,12 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "piel": "cut off; tear in pieces; fulfill"
+  "piel": "fulfill"
  },
  "root": "בצע",
  "search_match": [
@@ -124,5 +126,8 @@
   "בצע"
  ],
  "citation_translit": "batza",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Piel's wayyiqtol citation (Ezek.22.12, \"vattevatze'i\", \"you have gained by oppression from your neighbors\") shows the \"get unjust gain\" sense qal's own gloss carries, not \"cut off\"/\"tear in pieces\"/\"fulfill\"; none of piel's own shipped citations (Lam.2.17, Zech.4.9, Isa.10.12) actually show \"cut off\" or \"tear in pieces\" -- all three are \"fulfill/complete,\" and Ezek.22.12 is a fourth, uncaptured sense. Worth a second look if this stem's gloss is revisited."
+ ]
 }

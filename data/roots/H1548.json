@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "shave; lay waste"
+  "shave"
  ],
  "strong": "H1548",
  "stems": {
@@ -79,7 +79,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pual": {
    "sense_hint": "passive-intensive",

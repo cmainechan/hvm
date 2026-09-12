@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "rob, seize by force; tear away"
+  "rob, seize by force"
  ],
  "strong": "H1497",
  "stems": {
@@ -141,7 +141,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
