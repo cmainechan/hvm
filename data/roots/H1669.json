@@ -1,0 +1,46 @@
+{
+ "glosses": [
+  "become faint"
+ ],
+ "strong": "H1669",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְדַאֲבָה",
+      "translit": "lda'avah",
+      "ref": "Jer.31.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "דָּאֲבָה",
+      "translit": "da'avah",
+      "ref": "Jer.31.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "דאב",
+ "search_match": [
+  "1669",
+  "h1669",
+  "become faint",
+  "da'av",
+  "דאב"
+ ],
+ "citation_translit": "da'av",
+ "stem_coverage_checked": true
+}

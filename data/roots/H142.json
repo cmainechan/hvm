@@ -1,0 +1,60 @@
+{
+ "glosses": [
+  "make glorious; magnify"
+ ],
+ "strong": "H142",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֶאְדָּר",
+      "translit": "ne'ddar",
+      "ref": "Exod.15.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיַאְדִּֽיר",
+      "translit": "vya'ddir",
+      "ref": "Isa.42.21",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be glorious"
+ },
+ "notes": [
+  "No qal is attested for this root; hiphil (\"make glorious; magnify\") is the more active sense and is treated as the primary/citation stem rather than niphal's passive \"be glorious\" -- DEFAULT_STEM_OVERRIDE set to hiphil in both UI templates.",
+  "Thinly attested: only one form each for niphal and hiphil."
+ ],
+ "root": "אדר",
+ "search_match": [
+  "142",
+  "h142",
+  "make glorious; magnify",
+  "be glorious",
+  "adar",
+  "אדר"
+ ],
+ "citation_translit": "adar",
+ "stem_coverage_checked": true
+}

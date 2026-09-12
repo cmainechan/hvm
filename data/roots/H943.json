@@ -1,0 +1,55 @@
+{
+ "glosses": [
+  "be confused; wander aimlessly"
+ ],
+ "strong": "H943",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נָבֽוֹכָה",
+      "translit": "navokhah",
+      "ref": "Esth.3.15",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָבֹכוּ",
+      "translit": "navokhu",
+      "ref": "Joel.1.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "נְבֻכִים",
+      "translit": "nvukhim",
+      "ref": "Exod.14.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "בוך",
+ "search_match": [
+  "943",
+  "h943",
+  "be confused; wander aimlessly",
+  "bukh",
+  "בוך"
+ ],
+ "citation_translit": "bukh",
+ "stem_coverage_checked": true
+}

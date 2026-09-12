@@ -1,0 +1,77 @@
+{
+ "glosses": [
+  "sew together"
+ ],
+ "strong": "H8609",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִתְפּוֹר",
+      "translit": "litpor",
+      "ref": "Eccl.3.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּתְפְּרוּ",
+      "translit": "vayyitpru",
+      "ref": "Gen.3.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "תָּפַרְתִּי",
+      "translit": "tafarti",
+      "ref": "Job.16.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "לִֽמְתַפְּרוֹת",
+      "translit": "limtapprot",
+      "ref": "Ezek.13.18",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "sew repeatedly/together"
+ },
+ "root": "תפר",
+ "search_match": [
+  "8609",
+  "h8609",
+  "sew together",
+  "tafar",
+  "תפר"
+ ],
+ "citation_translit": "tafar",
+ "stem_coverage_checked": true
+}

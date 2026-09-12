@@ -1,0 +1,61 @@
+{
+ "glosses": [
+  "rub away; beat fine; pulverize"
+ ],
+ "strong": "H7833",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאֶשְׁחָקֵם",
+      "translit": "v'eshchaqem",
+      "ref": "2Sam.22.43",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְשָֽׁחַקְתָּ",
+      "translit": "vshachaqta",
+      "ref": "Exod.30.36",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שָׁחֲקוּ",
+      "translit": "shachaqu",
+      "ref": "Job.14.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym of the existing H7832 שחק (\"laugh; sport\"), distinguished by shin vs. sin (both render bare as שחק) -- added as שחק² since H7832 already occupies the lower-number slot (no rename needed there).",
+  "Gloss collision: shares \"beat fine\" almost verbatim with the existing כתת (H3807, \"beat fine; hammer\") and overlaps with דקק (H1854, \"pulverize\") -- distinct roots, disambiguating search alias added."
+ ],
+ "root": "שחק²",
+ "search_match": [
+  "7833",
+  "h7833",
+  "rub away; beat fine; pulverize (shachaq)",
+  "shachaq",
+  "שחק²"
+ ],
+ "citation_translit": "shachaq",
+ "stem_coverage_checked": true
+}

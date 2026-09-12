@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "make plain; explain"
+ ],
+ "strong": "H874",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "בֵּאֵר",
+      "translit": "be'er",
+      "ref": "Deut.1.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בַּאֵר",
+      "translit": "ba'er",
+      "ref": "Deut.27.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וּבָאֵר",
+      "translit": "uva'er",
+      "ref": "Hab.2.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "באר",
+ "search_match": [
+  "874",
+  "h874",
+  "make plain; explain",
+  "ba'ar",
+  "באר"
+ ],
+ "citation_translit": "ba'ar",
+ "stem_coverage_checked": true
+}

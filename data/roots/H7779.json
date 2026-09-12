@@ -1,0 +1,44 @@
+{
+ "glosses": [
+  "bruise; crush; overwhelm"
+ ],
+ "strong": "H7779",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְשׁוּפְךָ",
+      "translit": "yshufkha",
+      "ref": "Gen.3.15",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּשׁוּפֶנּוּ",
+      "translit": "tshufennu",
+      "ref": "Gen.3.15",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "שוף",
+ "search_match": [
+  "7779",
+  "h7779",
+  "bruise; crush; overwhelm",
+  "shuf",
+  "שוף"
+ ],
+ "citation_translit": "shuf",
+ "stem_coverage_checked": true
+}

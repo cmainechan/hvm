@@ -1,0 +1,77 @@
+{
+ "glosses": [
+  "violate; ravish"
+ ],
+ "strong": "H7693",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "ישגלנה",
+      "translit": "shglnh",
+      "ref": "Deut.28.30",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תשגלנה",
+      "translit": "tshglnh",
+      "ref": "Isa.13.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "שגלת",
+      "translit": "shglt",
+      "ref": "Jer.3.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be ravished",
+  "pual": "be ravished"
+ },
+ "notes": [
+  "One of the Bible's well-known scribal euphemism roots: all 4 of this root's occurrences are ketiv-only (the manuscript's actual written text), each paired with a qere (the traditional read-aloud substitute) pointing to a DIFFERENT, milder root -- שכב \"lie with\" (H7901) at Deut.28.30, and the same שכב-family substitution pattern at the other three. Because the ketiv text carries no vowel points in the source corpus (only the qere side is fully vocalized, and it's a different word), every heb/translit value here is bare consonants -- not a data-entry gap, but the actual state of the source text for a ketiv-only word.",
+  "This root was originally unextractable due to a pipeline bug (ketiv words were silently invisible to the extraction regex) discovered and fixed this session -- see pipeline/pipeline.py's module docstring, requirement 11."
+ ],
+ "root": "שגל",
+ "search_match": [
+  "7693",
+  "h7693",
+  "violate; ravish",
+  "shagal",
+  "שגל"
+ ],
+ "citation_translit": "shagal",
+ "stem_coverage_checked": true
+}

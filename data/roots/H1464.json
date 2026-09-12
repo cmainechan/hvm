@@ -1,0 +1,38 @@
+{
+ "glosses": [
+  "attack"
+ ],
+ "strong": "H1464",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָגֻד",
+      "translit": "yagud",
+      "ref": "Gen.49.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Gloss collision: \"attack\" overlaps with the existing גדד (H1413, \"attack; make inroads\") -- distinct spellings (vav vs. geminate dalet), a cognate relationship BDB itself notes (\"akin to 1413\"), not a homonym; no superscript needed, but disambiguating search alias added for the gloss overlap."
+ ],
+ "root": "גוד",
+ "search_match": [
+  "1464",
+  "h1464",
+  "attack (gud)",
+  "gud",
+  "גוד"
+ ],
+ "citation_translit": "gud",
+ "stem_coverage_checked": true
+}

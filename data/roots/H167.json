@@ -1,0 +1,58 @@
+{
+ "glosses": [
+  "move/pitch a tent"
+ ],
+ "strong": "H167",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֶּאֱהַל",
+      "translit": "vayye'ehal",
+      "ref": "Gen.13.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַהֵל",
+      "translit": "yahel",
+      "ref": "Isa.13.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "pitch one's tent"
+ },
+ "notes": [
+  "Same-spelling homonym risk: H166 אָהַל (\"to be clear; shine\") shares these exact consonants and vowels but is a separate, unrelated Strong's entry, not yet in this dataset. If it's ever added, both roots will need the superscript convention (אהל¹/אהל²) -- flagging now the way H7034's notes flagged the קלה¹/קלה² collision before it happened."
+ ],
+ "root": "אהל",
+ "search_match": [
+  "167",
+  "h167",
+  "move/pitch a tent",
+  "ahal",
+  "אהל"
+ ],
+ "citation_translit": "ahal",
+ "stem_coverage_checked": true
+}

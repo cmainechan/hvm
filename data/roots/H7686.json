@@ -142,13 +142,16 @@
  "stem_glosses": {
   "hiphil": "cause to go astray"
  },
- "root": "שגה",
+ "notes": [
+  "Retroactively renamed from the plain key \"שגה\" to \"שגה²\" when H7685 (\"increase; become great\") was added to the dataset as \"שגה¹\" -- true homograph (sin vs. shin), per the root-key superscript convention (lower Strong's number gets ¹)."
+ ],
+ "root": "שגה²",
  "search_match": [
   "7686",
   "h7686",
   "go astray",
   "shagah",
-  "שגה"
+  "שגה²"
  ],
  "citation_translit": "shagah",
  "stem_coverage_checked": true

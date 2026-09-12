@@ -43,6 +43,7 @@ const STEM_ORDER = ["qal", "qal_passive", "niphal", "piel", "pilpel", "polel", "
 // for that specific verb (e.g. "bow down" is almost always Hishtaphel, a rare
 // stem historically unique to this root, rather than its much sparser Qal).
 const DEFAULT_STEM_OVERRIDE = {
+  "אדר": "hiphil",
   "אזן": "hiphil",
   "בדל": "hiphil",
   "בקש": "piel",

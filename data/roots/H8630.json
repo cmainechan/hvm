@@ -1,0 +1,77 @@
+{
+ "glosses": [
+  "prevail over"
+ ],
+ "strong": "H8630",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְקְפוֹ",
+      "translit": "yitqfo",
+      "ref": "Eccl.4.12",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּתְקְפֵהוּ",
+      "translit": "titqfehu",
+      "ref": "Job.14.20",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּתְקְפֵהוּ",
+      "translit": "titqfehu",
+      "ref": "Job.15.24",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "שהתקיף",
+      "translit": "shhtqf",
+      "ref": "Eccl.6.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "be stronger; prevail"
+ },
+ "notes": [
+  "Hiphil (infinitive construct used substantively, \"the one who is stronger\", Eccl.6.10) is attested but wasn't part of the original request -- added per the full-stem-coverage check. It's attested only via a ketiv/qere textual variant: the ketiv reads שהתקיף (this root, a verb), while the qere reads a completely different word, שֶׁתַּקִּיף (H8623, an adjective \"strong\") -- kept since the ketiv is lemma-tagged to this root specifically and represents a genuinely distinct reading, not a spelling variant of the qere. As with H7693 above, this form was only extractable after this session's ketiv-handling pipeline fix.",
+  "Gloss collision: \"prevail\" is shared verbatim by the existing עזז (H5810) and גבר (H1396), both \"be strong; prevail\" -- distinct roots, disambiguating search alias added."
+ ],
+ "root": "תקף",
+ "search_match": [
+  "8630",
+  "h8630",
+  "prevail over (taqaf)",
+  "taqaf",
+  "תקף"
+ ],
+ "citation_translit": "taqaf",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,46 @@
+{
+ "glosses": [
+  "be corrupt; become tainted"
+ ],
+ "strong": "H444",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְֽנֶאֱלָח",
+      "translit": "vne'elach",
+      "ref": "Job.15.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נֶאֱלָחוּ",
+      "translit": "ne'elachu",
+      "ref": "Ps.14.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "אלח",
+ "search_match": [
+  "444",
+  "h444",
+  "be corrupt; become tainted",
+  "alach",
+  "אלח"
+ ],
+ "citation_translit": "alach",
+ "stem_coverage_checked": true
+}

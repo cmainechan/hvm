@@ -1,0 +1,46 @@
+{
+ "glosses": [
+  "disclose; engage in strife"
+ ],
+ "strong": "H1566",
+ "stems": {
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִתְגַּלַּע",
+      "translit": "hitgalla",
+      "ref": "Prov.17.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִתְגַּלָּֽע",
+      "translit": "yitgalla",
+      "ref": "Prov.18.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "גלע",
+ "search_match": [
+  "1566",
+  "h1566",
+  "disclose; engage in strife",
+  "gala",
+  "גלע"
+ ],
+ "citation_translit": "gala",
+ "stem_coverage_checked": true
+}

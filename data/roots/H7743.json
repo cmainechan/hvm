@@ -1,0 +1,49 @@
+{
+ "glosses": [
+  "sink down; be depressed"
+ ],
+ "strong": "H7743",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְתָשׁוֹחַ",
+      "translit": "vtashocha",
+      "ref": "Lam.3.20",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "שָׁחָה",
+      "translit": "shachah",
+      "ref": "Prov.2.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Hiphil (\"cause/declare to sink; depress\") was requested but has no attested form anywhere in the corpus -- excluded per the no-uncited-glosses rule, confirmed with the person. Only qal is attested."
+ ],
+ "root": "שוח",
+ "search_match": [
+  "7743",
+  "h7743",
+  "sink down; be depressed",
+  "shucha",
+  "שוח"
+ ],
+ "citation_translit": "shucha",
+ "stem_coverage_checked": true
+}

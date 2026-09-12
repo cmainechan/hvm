@@ -1,0 +1,78 @@
+{
+ "glosses": [
+  "wander restlessly"
+ ],
+ "strong": "H7300",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּרִיד",
+      "translit": "tarid",
+      "ref": "Gen.27.40",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָרִיד",
+      "translit": "arid",
+      "ref": "Ps.55.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "רָד",
+      "translit": "rad",
+      "ref": "Hos.12.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "רַדְנוּ",
+      "translit": "radnu",
+      "ref": "Jer.2.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "show restlessness"
+ },
+ "notes": [
+  "This root has a genuine old interpretive crux: BDB/Strong's usage list includes both \"have dominion, be lord, rule\" and \"mourn\" alongside \"ramble\" -- some translations render its citations (Gen.27.40, Hos.12.1, Jer.2.31) via the \"dominion/rule\" sense instead of \"wander restlessly\". The requested gloss follows the \"roam/be restless\" reading consistently across all citations; flagging the alternate tradition rather than silently picking one."
+ ],
+ "root": "רוד",
+ "search_match": [
+  "7300",
+  "h7300",
+  "wander restlessly",
+  "rud",
+  "רוד"
+ ],
+ "citation_translit": "rud",
+ "stem_coverage_checked": true
+}

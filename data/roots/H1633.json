@@ -1,0 +1,67 @@
+{
+ "glosses": [
+  "leave; reserve"
+ ],
+ "strong": "H1633",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תְּגָרֵמִי",
+      "translit": "tgaremi",
+      "ref": "Ezek.23.34",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְגָרֵם",
+      "translit": "ygarem",
+      "ref": "Num.24.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "גָרְמוּ",
+      "translit": "garmu",
+      "ref": "Zeph.3.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "break bones"
+ },
+ "notes": [
+  "Qal citation (Zeph.3.3, גָרְמוּ, \"her judges are evening wolves; they [do not] leave [any bones] till the morning\") supports the requested \"leave; reserve\" sense, but the lexicon's own primary/etymological sense for this root is \"to bone, i.e. gnaw the bones\" -- the same verse is also commonly read that way (\"they gnaw not the bones till the morrow\"). Both readings are attested interpretive traditions of the same citation; shipping the requested sense per the person's gloss, flagging the alternate reading rather than silently picking one."
+ ],
+ "root": "גרם",
+ "search_match": [
+  "1633",
+  "h1633",
+  "leave; reserve",
+  "garam",
+  "גרם"
+ ],
+ "citation_translit": "garam",
+ "stem_coverage_checked": true
+}

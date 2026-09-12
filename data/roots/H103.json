@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "gather"
+ ],
+ "strong": "H103",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֶאֱגֹר",
+      "translit": "te'egor",
+      "ref": "Deut.28.39",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "אָגְרָה",
+      "translit": "agrah",
+      "ref": "Prov.6.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "אֹגֵר",
+      "translit": "oger",
+      "ref": "Prov.10.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "אגר",
+ "search_match": [
+  "103",
+  "h103",
+  "gather",
+  "agar",
+  "אגר"
+ ],
+ "citation_translit": "agar",
+ "stem_coverage_checked": true
+}
