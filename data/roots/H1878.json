@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "be fat; be prosperous"
+  "be fat"
  ],
  "strong": "H1878",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -69,7 +70,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pual": {
    "sense_hint": "passive/intensive",
@@ -107,7 +109,7 @@
   }
  },
  "stem_glosses": {
-  "piel": "make fat; find acceptable (of offering); remove [fatty] ashes (of the altar)",
+  "piel": "make fat; remove [fatty] ashes (of the altar)",
   "pual": "be made fat",
   "hothpaal": "fatten oneself"
  },

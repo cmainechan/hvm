@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "shake; quake (of earth)"
+  "shake"
  ],
  "strong": "H1607",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pual": {
    "sense_hint": "passive/intensive",

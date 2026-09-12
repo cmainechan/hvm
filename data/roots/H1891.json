@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "become empty; act foolishly"
+  "become empty"
  ],
  "strong": "H1891",
  "stems": {
@@ -41,7 +41,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -58,11 +59,12 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "hiphil": "make vain; fill with vain hopes"
+  "hiphil": "make vain"
  },
  "root": "הבל",
  "search_match": [

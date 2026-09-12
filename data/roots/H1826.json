@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "be silent; be struck dumb"
+  "be silent"
  ],
  "strong": "H1826",
  "stems": {
@@ -128,7 +128,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -167,7 +168,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -184,7 +186,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "polel": {
    "sense_hint": "intensive",
@@ -206,7 +209,7 @@
  },
  "stem_glosses": {
   "niphal": "be silenced; be destroyed",
-  "hiphil": "make silent; cause to perish",
+  "hiphil": "cause to perish",
   "polel": "make quiet, compose (oneself)"
  },
  "root": "דמם",

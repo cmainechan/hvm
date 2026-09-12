@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "drag; drag away"
+  "drag"
  ],
  "strong": "H1641",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -70,13 +71,14 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
   "niphal": "chew the cud",
   "poal": "be sawn",
-  "hithpolel": "sweep/rage like a whirlwind"
+  "hithpolel": "rage like a whirlwind"
  },
  "notes": [
   "\"Chew the cud\" is niphal, not qal: its sole attestation (Lev.11.7, יִגָּר, of the pig, \"it does not chew the cud\") is tagged niphal in the corpus, resolving the requested check.",

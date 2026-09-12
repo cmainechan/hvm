@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "go; walk"
+  "go"
  ],
  "strong": "H1980",
  "strong_alt": [
@@ -502,7 +502,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -986,7 +987,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {

@@ -39,7 +39,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -111,7 +112,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hophal": {
    "sense_hint": "passive-causative",
@@ -128,12 +130,13 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "hiphil": "pulverize; make dust of",
-  "hophal": "be crushed; be beaten small"
+  "hiphil": "pulverize",
+  "hophal": "be crushed"
  },
  "root": "דקק",
  "search_match": [

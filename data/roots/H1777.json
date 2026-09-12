@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "act as judge; plead a cause; contend"
+  "act as judge; contend"
  ],
  "strong": "H1777",
  "stems": {
@@ -90,7 +90,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",

@@ -175,7 +175,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -229,5 +230,8 @@
   "גמל"
  ],
  "citation_translit": "gamal",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Qal's citations for \"recompense\" (Ps.103.10, 1Sam.24.18, Ps.137.8, Ps.7.5, Isa.3.9, Gen.50.15, 2Sam.19.37, Ps.142.8, Deut.32.6, Ps.119.17, 2Chr.20.11) and \"wean (a child)\" (1Sam.1.23, 1Sam.1.24, Isa.11.8) both hold up well, but two further shipped citations -- Num.17.23 (\"vayyigmol shqedim,\" Aaron's rod \"yielded almonds\") and Isa.18.5 (\"boser gomel,\" \"the ripening sour grape\") -- show a third, uncaptured sense: a plant/fruit \"ripening\" to maturity (the same root idea of \"bringing to completion\" as weaning a child, just applied to produce). Worth adding as a third clause if this stem's gloss is revisited."
+ ]
 }

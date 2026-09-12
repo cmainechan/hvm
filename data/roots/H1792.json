@@ -19,7 +19,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -144,7 +145,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hitpael": {
    "sense_hint": "reflexive/reciprocal",
@@ -165,7 +167,7 @@
   }
  },
  "stem_glosses": {
-  "niphal": "be crushed; be contrite",
+  "niphal": "be contrite",
   "pual": "be crushed; be made contrite",
   "hitpael": "allow oneself to be crushed"
  },
