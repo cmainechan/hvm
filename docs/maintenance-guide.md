@@ -91,6 +91,16 @@ a stricter check than "does the citation match the gloss" (§4 below and
 CLAUDE.md step 10) — a sense can have a perfectly matched citation and
 still fail this check if no citation exists for it at all.
 
+This check runs per clause of a compound gloss, not just per stem or per
+sense as a whole — a gloss like "spice; ripen; embalm" is three separate
+claims, and each one needs its own citation, not just the gloss in
+aggregate. A clause survives only when some citation's actual content
+demonstrates it, not merely when it's a plausible inference from a
+citation that demonstrates a different clause. See CLAUDE.md's "No uncited
+glosses" section and its "Compound-gloss trim audit" for the worked
+example (H2590 חנט), the two-flag tracking (`gloss_verified` vs.
+`gloss_trim_checked`), and the retroactive backlog this created.
+
 ### Per-category gloss precision (`form_glosses`)
 Occasionally a single stem itself spans more than one sense depending on
 which grammatical category is attested — not different enough to warrant
@@ -212,5 +222,7 @@ Given a list of (root, binyan(s), gloss(es)):
 - Any rare/unusual stem discovered that isn't among the standard 7.
 - Any lexicon-listed sense excluded for lack of an attested citation (see
   §2 "No gloss without an attested citation"), and which root/stem it
-  would otherwise have been attached to.
+  would otherwise have been attached to. Same for any individual clause of
+  a compound gloss trimmed for lack of its own citation, even when a
+  neighboring clause in the same gloss is well attested.
 - Total root count and form count before/after, so drift is visible.

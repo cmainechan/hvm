@@ -166,9 +166,29 @@ stem. For each root:
     back to keeping it anyway — see "No uncited glosses" immediately
     below, which takes priority over shipping a citation-anchored-only
     sense.
-    Once checked, mark the stem `"gloss_verified": true` (a peer of
-    `sense_hint` inside that stem's object) so the check doesn't need
-    repeating later.
+    **This check runs per clause, not just per stem.** A gloss with
+    several semicolon-separated senses (e.g. "spice; ripen; embalm") isn't
+    one indivisible unit that passes as soon as *some* citation loosely
+    fits it — check each clause against the stem's citation(s) on its own,
+    and trim any clause that no citation actually demonstrates, even when
+    a neighboring clause in the same gloss is well attested. A real case
+    from this dataset: H2590 חנט was shipped as qal "spice; ripen; embalm"
+    with Gen.50.2/50.26 ("embalmed") and Song.2.13 ("ripeneth") as
+    citations — "ripen" and "embalm" both hold, but "spice" doesn't; no
+    citation shows the act of seasoning something with spice, only
+    embalming and fruit-ripening. Trimmed, this becomes qal "ripen; embalm".
+    A clause survives only when some citation's actual content demonstrates
+    it, not when it's a plausible inference from a citation that directly
+    demonstrates a *different* clause (a pricking brier and malignant
+    leprosy each plausibly "cause pain," but neither citation is about pain
+    as such — that clause gets trimmed too, same rule).
+    Once checked, mark the stem `"gloss_verified": true` **and**
+    `"gloss_trim_checked": true` (both peers of `sense_hint` inside that
+    stem's object) so the check doesn't need repeating later. The two flags
+    are set together for anything checked from now on; `gloss_trim_checked`
+    exists as its own field only because it postdates `gloss_verified` and
+    the dataset has a backlog of stems verified before this stricter
+    per-clause standard existed (see the compound-gloss trim audit below).
 
 ### No uncited glosses
 
@@ -187,47 +207,105 @@ H2556 חמץ "be red" (zero attestation anywhere), H5628 סרח qal "go free"
 H1921 הדר qal "swell (of hills)" (BDB's own listed sense, marked uncertain
 by BDB itself, no citable verse).
 
+**This rule applies per clause of a compound gloss, not just to whole
+senses.** A gloss like "spice; ripen; embalm" is three clauses, each
+needing its own citation support — it isn't cleared just because *a*
+citation exists somewhere for the stem. Trim any clause nothing citable
+demonstrates, the same as dropping a whole uncited sense; see step 10
+above for the worked example (H2590 חנט) and the boundary between "an
+inference from a citation" and "what the citation actually shows." This
+finer-grained standard was introduced after roughly 935 roots were already
+in the dataset — see "Compound-gloss trim audit" below for the backlog
+this created and how it's tracked separately from the original
+gloss-context audit.
+
 This is a stricter, additional check on top of step 10's citation-mismatch
 check: step 10 is about a citation that doesn't clearly support an
-otherwise-fine sense (fix by picking a better citation); this rule is
-about a sense with *no* supporting citation at all (fix by dropping the
-sense, not by anchoring it to the lexicon definition alone).
+otherwise-fine sense (fix by picking a better citation, or trimming the
+unsupported clause); this rule is about a sense or clause with *no*
+supporting citation at all, anywhere (fix by dropping it, not by anchoring
+it to the lexicon definition alone).
 
-## Retroactive gloss-context audit (in progress)
+## Retroactive gloss-context audit (complete)
 
-The dataset predates the gloss-verification step above for most existing
-roots. There's an ongoing project to go back through every stem already in
-`data/roots/` and apply the same check retroactively — including the "no
-uncited glosses" rule above, which applies here just as much as to new
-roots.
+The dataset once predated the gloss-verification step above for most
+existing roots, and there was an ongoing project to go back through every
+stem in `data/roots/` and apply the same check retroactively. That project
+finished: as of this writing every stem in the dataset carries
+`"gloss_verified": true` (confirmed via the script below returning 0). It's
+kept here for reference and because the exact same shape of check is still
+used for brand-new roots (step 10 above) — just nothing is left in this
+particular backlog.
 
-- To find what's left: any stem object *without* a `"gloss_verified": true`
-  field hasn't been checked yet. A quick way to count remaining work:
+```python
+import json, glob
+todo = 0
+for f in glob.glob("data/roots/*.json"):
+    data = json.load(open(f, encoding="utf-8"))
+    for stem, obj in data["stems"].items():
+        if not obj.get("gloss_verified"):
+            todo += 1
+print(todo, "stems still need a gloss-context check")
+```
+
+If this ever prints nonzero again (e.g. a future batch adds a stem without
+setting the flag, or the check gets loosened and re-tightened), the same
+workflow applies: batches of roughly **40 stems per session** (reading/
+judgment work, not extraction, so it moves faster than new-root batches);
+for each stem, read the cited verse in context, confirm the gloss holds,
+report it the same one-line way as step 10, and set `"gloss_verified":
+true`. If a mismatch turns up, fix the gloss or the citation (whichever is
+actually wrong) and say so explicitly; if nothing attested supports the
+sense at all, apply "no uncited glosses" (drop it, note why) instead of
+substituting a different citation. Commit progress incrementally rather
+than holding a huge uncommitted audit in progress.
+
+## Compound-gloss trim audit (new, in progress)
+
+A stricter version of the check above was introduced after the original
+audit finished and roughly 935 roots were already in the dataset: every
+*clause* of a compound gloss needs its own citation support, not just the
+gloss as a whole (see "No uncited glosses" and step 10 above for the exact
+standard and a worked example). Every stem checked before this stricter
+standard existed has `"gloss_verified": true` but not necessarily
+`"gloss_trim_checked": true` — the second, separate flag is what this
+audit tracks, so it doesn't get confused with the (now complete) original
+pass or force-recheck stems that have nothing to trim.
+
+- Only stems with a **compound gloss** (more than one clause — in
+  practice, containing `;` or `/`) are actually at risk here; a one-clause
+  gloss has nothing to trim and can be marked `"gloss_trim_checked": true`
+  on sight once you've confirmed it really is one clause.
+- To find what's left:
   ```python
-  import json, glob
-  todo = 0
+  import json, glob, re
+  todo = []
   for f in glob.glob("data/roots/*.json"):
-      data = json.load(open(f, encoding="utf-8"))
-      for stem, obj in data["stems"].items():
-          if not obj.get("gloss_verified"):
-              todo += 1
-  print(todo, "stems still need a gloss-context check")
+      d = json.load(open(f, encoding="utf-8"))
+      root_glosses = d.get("glosses", [])
+      stem_glosses = d.get("stem_glosses", {})
+      for stem, obj in d.get("stems", {}).items():
+          if obj.get("gloss_trim_checked"):
+              continue
+          text = stem_glosses.get(stem) or (root_glosses[0] if root_glosses else "")
+          if re.search(r'[;/]', text):
+              todo.append((d["strong"], d.get("root"), stem, text))
+  print(len(todo), "compound-gloss stems still need a trim check")
   ```
-- Work through it in batches of roughly **40 stems per session** (this is
-  reading/judgment work, not extraction, so it moves faster than adding new
-  roots — no need to throttle to 20 the way new-root batches are).
-- For each stem: read the cited verse in context, confirm the gloss holds,
-  report it the same one-line way as step 10 above, and set
-  `"gloss_verified": true`. If a mismatch turns up, fix the gloss or the
-  citation (whichever is actually wrong) and say so explicitly. If the
-  mismatch turns out to be "nothing attested actually supports this sense"
-  rather than "wrong verse picked," apply the "no uncited glosses" rule
-  (drop the sense, note why) instead of substituting a different citation.
-  Don't silently correct anything without flagging what was found, same
-  principle as the "if something looks wrong" section below.
-- Commit progress incrementally (e.g. one commit per session) rather than
-  holding a huge uncommitted audit in progress — that way partial progress
-  is never at risk of being lost.
+  715 stems matched this as of the session that introduced the rule.
+- Workflow is the same auto-fix-and-report shape as the original
+  gloss-context audit above (not confirm-first): for each stem, check
+  every clause of its gloss against its citation(s) per the per-clause
+  standard, trim whatever isn't independently demonstrated, report what
+  changed (or that nothing needed to change), and set
+  `"gloss_trim_checked": true`. A stem whose gloss turns out fully
+  supported as-is still gets the flag — it means "checked," not "changed."
+- Same batch size as the original audit (roughly 40 stems per session)
+  unless the person says otherwise, and same incremental-commit guidance.
+- **Every stem added from now on gets both flags set together at creation
+  time** (step 10 above already says this) — this audit's backlog is a
+  fixed, closed set from the day the rule was introduced, not something
+  new roots keep adding to.
 
 ## Retroactive stem-coverage audit (in progress)
 
