@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "drive about; disperse (chaff, smoke)"
+  "drive away"
  ],
  "strong": "H5086",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",

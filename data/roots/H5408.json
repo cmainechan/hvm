@@ -63,7 +63,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "root": "נתח",
@@ -75,5 +76,8 @@
   "נתח"
  ],
  "citation_translit": "natach",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "stem_glosses": {
+  "piel": "cut in pieces"
+ }
 }

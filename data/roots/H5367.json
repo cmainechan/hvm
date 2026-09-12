@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "strike; bring down"
+  "be ensnared"
  ],
  "strong": "H5367",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -90,7 +91,8 @@
   "hitpael": "strike at"
  },
  "notes": [
-  "Qal has a single attestation (Ps.9.17, נוֹקֵשׁ, \"he striketh down the wicked\" per BDB's own gloss of this exact verse); flagging as single-attestation per usual practice."
+  "Qal has a single attestation (Ps.9.17, נוֹקֵשׁ, \"he striketh down the wicked\" per BDB's own gloss of this exact verse); flagging as single-attestation per usual practice.",
+  "Qal's shipped citation (Ps.9.17, \"the wicked is snared in the work of his own hands\") shows the ensnare/entrap sense of this root, not \"strike\" or \"bring down\" -- gloss corrected to \"be ensnared\" to match."
  ],
  "root": "נקש",
  "search_match": [

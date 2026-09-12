@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "move to and fro; flutter; show grief"
+  "move to and fro; show grief"
  ],
  "strong": "H5110",
  "stems": {
@@ -112,7 +112,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -151,7 +152,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hithpolel": {
    "sense_hint": "reflexive/reciprocal",
@@ -190,7 +192,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {

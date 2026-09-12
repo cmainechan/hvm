@@ -85,7 +85,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pual": {
    "sense_hint": "passive/intensive",
@@ -130,12 +131,13 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
   "pual": "be blown (of a fire)",
-  "hiphil": "cause to breathe out; cause to lose (life); puff/sniff (contemptuously)"
+  "hiphil": "cause to lose (life); puff/sniff (contemptuously)"
  },
  "notes": [
   "Hiphil has a third attested nuance beyond the two requested: Mal.1.13 וְהִפַּחְתֶּם (\"and ye have snuffed at it\", i.e. sniffed/puffed in contempt), distinct from the causative-death sense of Job.31.39 (הִפָּֽחְתִּי, \"caused the life... to be given up\"). Included alongside the requested senses."

@@ -92,13 +92,14 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
   "niphal": "be forgotten",
   "piel": "cause to forget",
-  "hiphil": "cause to forget; allow to be forgotten"
+  "hiphil": "cause to forget"
  },
  "notes": [
   "Homonym found: H5383 (also spelled נָשָׁה, identical pronunciation, \"a primitive root rather identical with H5382... to lend or borrow on security/interest\") already exists in the dataset under the same bare root spelling. Relabeled per the standard convention: this root (the lower Strong's number) is נשה¹, and H5383.json's root field was retroactively relabeled to נשה²."

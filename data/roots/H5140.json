@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "flow; gush"
+  "flow"
  ],
  "strong": "H5140",
  "stems": {
@@ -70,7 +70,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",

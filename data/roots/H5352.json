@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "be empty; be clean"
+  "go unpunished"
  ],
  "strong": "H5352",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -125,7 +126,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -231,5 +233,8 @@
   "נקה"
  ],
  "citation_translit": "naqah",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Qal's shipped citation (Jer.49.12, infinitive absolute) is about being exempt from punishment, not physical/ritual emptiness or cleanness -- gloss corrected to \"go unpunished\" to match what the citation actually shows."
+ ]
 }

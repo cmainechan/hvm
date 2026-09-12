@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "be poured; flow"
+  "flow"
  ],
  "strong": "H5064",
  "stems": {
@@ -30,7 +30,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -80,7 +81,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hophal": {
    "sense_hint": "passive causative",
@@ -101,7 +103,7 @@
   }
  },
  "stem_glosses": {
-  "hiphil": "pour down; deliver over",
+  "hiphil": "pour out",
   "hophal": "be poured down"
  },
  "notes": [
