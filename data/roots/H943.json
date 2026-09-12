@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "be confused; wander aimlessly"
+  "be confused"
  ],
  "strong": "H943",
  "stems": {
@@ -39,17 +39,21 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "root": "בוך",
  "search_match": [
   "943",
   "h943",
-  "be confused; wander aimlessly",
+  "be confused",
   "bukh",
   "בוך"
  ],
  "citation_translit": "bukh",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Trimmed \"be confused; wander aimlessly\" to \"be confused\" per the compound-gloss trim audit: all three citations (Exod.14.3, Esth.3.15, Joel.1.18) show mental confusion/entanglement/perplexity; none shows literal aimless wandering."
+ ]
 }

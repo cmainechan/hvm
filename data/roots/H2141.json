@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "be bright; be pure"
+  "be pure"
  ],
  "strong": "H2141",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "qal": {
    "sense_hint": "simple",
@@ -36,20 +37,22 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
   "hiphil": "make clean; cleanse"
  },
  "notes": [
-  "Hiphil (\"and make my hands never so clean\", Job.9.30) is attested but wasn't part of the original request -- added per the full-stem-coverage check; qal (\"be bright/pure\") is the only requested stem."
+  "Hiphil (\"and make my hands never so clean\", Job.9.30) is attested but wasn't part of the original request -- added per the full-stem-coverage check; qal (\"be bright/pure\") is the only requested stem.",
+  "Trimmed \"be bright; be pure\" to \"be pure\" per the compound-gloss trim audit: all three citations (Job.15.15, Job.25.5, Lam.4.7) show moral/physical purity, not luminosity -- nothing demonstrates \"bright\" as a distinct sense."
  ],
  "root": "זכך",
  "search_match": [
   "2141",
   "h2141",
-  "be bright; be pure",
+  "be pure",
   "zakhakh",
   "זכך"
  ],

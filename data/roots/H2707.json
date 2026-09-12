@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "engrave; mark a line; set a limit"
+  "mark a line; set a limit"
  ],
  "strong": "H2707",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hitpael": {
    "sense_hint": "reflexive/reciprocal",
@@ -36,20 +37,22 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
   "pual": "be carved"
  },
  "notes": [
-  "No qal is attested for this root; hitpael (\"engrave/mark a line; set a limit\") is treated as the primary/citation sense rather than pual (\"be carved\"), which is passive -- DEFAULT_STEM_OVERRIDE set to hitpael in both UI templates."
+  "No qal is attested for this root; hitpael (\"mark a line; set a limit\") is treated as the primary/citation sense rather than pual (\"be carved\"), which is passive -- DEFAULT_STEM_OVERRIDE set to hitpael in both UI templates.",
+  "Trimmed \"engrave; mark a line; set a limit\" to \"mark a line; set a limit\" per the compound-gloss trim audit: the only citation (Job.13.27, \"thou settest a print upon the heels of my feet\") shows marking/bounding a boundary, not the literal act of engraving into a hard surface -- that clause was carried over from the pual sense (\"be carved\") without its own support."
  ],
  "root": "חקה",
  "search_match": [
   "2707",
   "h2707",
-  "engrave; mark a line; set a limit",
+  "mark a line; set a limit",
   "be carved",
   "chaqah",
   "חקה"

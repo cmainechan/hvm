@@ -19,7 +19,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -36,7 +37,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "qal": {
    "sense_hint": "simple",
@@ -53,12 +55,13 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
   "piel": "flout; reject",
-  "pual": "be weighed; be valued"
+  "pual": "be valued"
  },
  "root": "סלה",
  "search_match": [
@@ -69,5 +72,8 @@
   "סלה"
  ],
  "citation_translit": "salah",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Trimmed pual's \"be weighed; be valued\" to \"be valued\" per the compound-gloss trim audit: Job.28.16/28.19 (\"cannot be valued with the gold of Ophir\") show the figurative \"be valued\" sense; \"be weighed\" is the root's literal etymological sense (BDB: \"to hang up, i.e. weigh\") but no citation shows an actual weighing."
+ ]
 }

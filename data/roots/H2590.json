@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "spice; ripen; embalm"
+  "ripen; embalm"
  ],
  "strong": "H2590",
  "stems": {
@@ -41,17 +41,21 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "root": "חנט",
  "search_match": [
   "2590",
   "h2590",
-  "spice; ripen; embalm",
+  "ripen; embalm",
   "chanat",
   "חנט"
  ],
  "citation_translit": "chanat",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Trimmed \"spice; ripen; embalm\" to \"ripen; embalm\" per the compound-gloss trim audit: Gen.50.2/50.26 show \"embalm\" and Song.2.13 shows \"ripen\", but nothing demonstrates the act of seasoning with spice as a distinct sense."
+ ]
 }

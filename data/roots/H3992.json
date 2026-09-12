@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "prick; cause pain; be malignant"
+  "prick; be malignant"
  ],
  "strong": "H3992",
  "stems": {
@@ -28,17 +28,21 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "root": "מאר",
  "search_match": [
   "3992",
   "h3992",
-  "prick; cause pain; be malignant",
+  "prick; be malignant",
   "ma'ar",
   "מאר"
  ],
  "citation_translit": "ma'ar",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Trimmed \"prick; cause pain; be malignant\" to \"prick; be malignant\" per the compound-gloss trim audit: Ezek.28.24 shows \"prick\" and Lev.13.51/52/14.44 show \"be malignant\", but \"cause pain\" is an inference from those (a prick and a malignant disease both plausibly hurt), not something either citation actually states."
+ ]
 }

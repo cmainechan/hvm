@@ -19,7 +19,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "qal": {
    "sense_hint": "simple",
@@ -47,16 +48,18 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "qal_passive": "be pressed out; be closed (of a wound)"
+  "qal_passive": "be closed (of a wound)"
  },
  "notes": [
   "True homograph of the existing H2114 (\"become estranged\"), both spelled זור -- added as זור² per the ascending-Strong's-number superscript convention; H2114 is retroactively renamed זור¹ in this same batch.",
   "Qal passive (Isa.1.6, זֹרוּ, \"[wounds] have not been closed\") is attested but wasn't part of the original request -- added per the full-stem-coverage check. This is a rare stem (internal passive of qal, letter 'Q') -- flagged per the maintenance guide's \"capture rare stems\" requirement.",
-  "Gloss collision: shares \"squeeze\" with the existing לחץ (H3905, \"squeeze; oppress\") -- distinct roots, disambiguating search alias added."
+  "Gloss collision: shares \"squeeze\" with the existing לחץ (H3905, \"squeeze; oppress\") -- distinct roots, disambiguating search alias added.",
+  "Trimmed qal_passive's \"be pressed out; be closed (of a wound)\" to \"be closed (of a wound)\" per the compound-gloss trim audit: Isa.1.6 says the wounds \"have not been closed\" -- \"be pressed out\" is an inference from the root's general \"press\" meaning, not something this citation itself states."
  ],
  "root": "זור²",
  "search_match": [

@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "bear fruit; flourish"
+  "bear fruit"
  ],
  "strong": "H5107",
  "stems": {
@@ -28,7 +28,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "polel": {
    "sense_hint": "intensive (causative)",
@@ -45,20 +46,22 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
   "polel": "cause to flourish"
  },
  "notes": [
-  "The requested \"poel\" causative sense is attested as polel (stem letter 'o'), not poel (stem letter 'm') -- stored as polel to match the corpus's own morphological tag, same naming nuance as שאן/palel in a previous batch."
+  "The requested \"poel\" causative sense is attested as polel (stem letter 'o'), not poel (stem letter 'm') -- stored as polel to match the corpus's own morphological tag, same naming nuance as שאן/palel in a previous batch.",
+  "Trimmed \"bear fruit; flourish\" to \"bear fruit\" per the compound-gloss trim audit: the only qal citation that actually supported \"flourish\" (Ps.62.11) lost pick_best's tie-break to Prov.10.31 for the same slot, so the citations that ended up shipped (Prov.10.31, Ps.92.15) support only \"bear fruit\"."
  ],
  "root": "נוב",
  "search_match": [
   "5107",
   "h5107",
-  "bear fruit; flourish (nuv)",
+  "bear fruit (nuv)",
   "nuv",
   "נוב"
  ],

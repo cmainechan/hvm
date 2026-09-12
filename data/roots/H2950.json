@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "smear over; stick; impute falsely"
+  "stick; impute falsely"
  ],
  "strong": "H2950",
  "stems": {
@@ -30,17 +30,21 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "root": "טפל",
  "search_match": [
   "2950",
   "h2950",
-  "smear over; stick; impute falsely",
+  "stick; impute falsely",
   "tafal",
   "טפל"
  ],
  "citation_translit": "tafal",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Trimmed \"smear over; stick; impute falsely\" to \"stick; impute falsely\" per the compound-gloss trim audit: Ps.119.69 (\"forged a lie\") shows \"impute falsely\" and Job.14.17 (\"sewest up mine iniquity\") shows \"stick\" (sealing/attaching); neither shows the literal act of smearing a substance over something."
+ ]
 }

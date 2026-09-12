@@ -19,7 +19,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "qal": {
    "sense_hint": "simple",
@@ -36,7 +37,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pilpel": {
    "sense_hint": "intensive (reduplicated)",
@@ -53,7 +55,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hithpalpel": {
    "sense_hint": "reflexive/reciprocal (reduplicated intensive)",
@@ -70,7 +73,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {

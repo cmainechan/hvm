@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "disclose; engage in strife"
+  "engage in strife"
  ],
  "strong": "H1566",
  "stems": {
@@ -30,17 +30,21 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "root": "גלע",
  "search_match": [
   "1566",
   "h1566",
-  "disclose; engage in strife",
+  "engage in strife",
   "gala",
   "גלע"
  ],
  "citation_translit": "gala",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Trimmed \"disclose; engage in strife\" to \"engage in strife\" per the compound-gloss trim audit: all three citations (Prov.17.14, 18.1, 20.3) show contention/quarreling breaking out; none shows disclosure of information as a distinct sense."
+ ]
 }
