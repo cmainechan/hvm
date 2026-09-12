@@ -11,6 +11,24 @@ Rebuilt to address all requirements in the review:
  8. Cantillation stripped (U+0591-05AF), niqqud kept; qamats-gaaya -> patach normalization
  9. Homonym-safe root resolution (meaning text checked manually per root, not just consonants)
  10. Sanity-checked against existing dataset roots before trusting on new ones
+ 11. Word-tag matching tolerates any attribute order, not just "lemma" first, AND
+     redundant ketiv (scribal-written) forms are dropped before their qere (read-aloud)
+     alternative would otherwise be double-counted. The WLC marks ketivs with a leading
+     `type="x-ketiv"` attribute before `lemma`, e.g. `<w type="x-ketiv" lemma="7693"
+     morph="...">` -- a regex anchored on `<w lemma="..."` misses every one of these
+     (confirmed 1268 words corpus-wide, all silently dropped), discovered via H7693 שגל
+     (a scribal-euphemism root: all 4 of its occurrences are ketiv-only) coming back
+     with zero attestations despite being tagged correctly. Loosening the tag regex
+     alone over-corrects, though: most ketiv/qere pairs are just a spelling variant of
+     the SAME word (e.g. a defective vs. plene spelling), and counting both sides of
+     those as if they were two separate occurrences of that verse's slot newly broke
+     38 already-shipped roots' fresh-extraction checks -- confirmed via a full-suite
+     run immediately after the naive tag-regex fix, before this refinement landed.
+     `strip_redundant_ketivs()` fixes this: a ketiv is only kept as its own
+     attestation when its qere alternative resolves to a *different* Strong's number
+     (a real word substitution, as with שגל's qere שכב); when the numbers agree, the
+     ketiv is dropped and only the already-matched qere form counts, preserving every
+     prior root's selection exactly as before this whole fix.
 """
 import re, glob, json, os, unicodedata
 from collections import defaultdict
@@ -78,6 +96,60 @@ def clean_heb(raw):
     # wrongly compare as unequal (this caused a wave of false-positive
     # "discrepancies" during the first full-dataset consistency sweep).
     return unicodedata.normalize('NFC', result)
+
+
+def _bare_lemma_nums(lemma_attr):
+    """Every bare Strong's number embedded in a (possibly compound) lemma
+    attribute, homonym letters stripped -- used to compare a ketiv's lemma
+    against its qere's lemma, not to match against target roots (see
+    lemma_matches for that)."""
+    nums = set()
+    for p in re.split(r'[/\s]+', lemma_attr.strip()):
+        m = re.match(r'^(\d+)', p)
+        if m:
+            nums.add(m.group(1))
+    return nums
+
+
+# Requirement 11: a run of one or more ketiv (scribal-written) <w> tags
+# immediately followed by their qere (read-aloud alternative) note -- most
+# verses have exactly one ketiv word per note, but a word-boundary
+# resegmentation (e.g. one ketiv unit split into two qere words, or vice
+# versa) can put several consecutive ketiv <w> tags under a single note.
+# Each ketiv word is checked individually against the full set of qere
+# lemmas in that note: when a ketiv's Strong's number is also among the
+# qere's, they're just a spelling/vocalization variant of the SAME word --
+# e.g. וַתָּבֹאת (ketiv) / a fuller-spelled reading (qere), both H935 בוא --
+# not two separate attestations of that verse, so the ketiv is dropped and
+# only the already-matched qere counts. When a ketiv's number appears
+# nowhere in the qere set (e.g. H7693 שגל's ketiv vs. its H7901 שכב qere, a
+# scribal euphemism substitution -- or Dan.9.24's חתם ketiv vs. its תמם
+# qere, a real textual variant), it's a genuinely distinct word and is kept.
+_KETIV_RUN_NOTE_RE = re.compile(
+    r'((?:<w type="x-ketiv"[^>]*>[^<]*</w>\s*)+)'
+    r'(<note type="variant">(?:(?!</note>).)*?<rdg type="x-qere">((?:<w[^>]*>[^<]*</w>\s*)*)</rdg></note>)',
+    re.S,
+)
+_KETIV_W_RE = re.compile(r'<w type="x-ketiv" lemma="([^"]*)"[^>]*>[^<]*</w>')
+_QERE_W_LEMMA_RE = re.compile(r'<w[^>]*\blemma="([^"]*)"')
+
+
+def strip_redundant_ketivs(vtext):
+    """Drop each ketiv <w> tag in a run whose qere alternative shares its
+    lemma (spelling variant only), so the main word scan doesn't double-count
+    one verse's word as two attestations. Keeps any ketiv whose lemma isn't
+    among the qere's -- a genuinely distinct word."""
+    def run_repl(m):
+        ketiv_run, note_block, qere_ws = m.groups()
+        qere_nums = set()
+        for qm in _QERE_W_LEMMA_RE.finditer(qere_ws):
+            qere_nums |= _bare_lemma_nums(qm.group(1))
+        def ketiv_repl(km):
+            if _bare_lemma_nums(km.group(1)) & qere_nums:
+                return ''  # spelling variant -- drop, the qere already covers it
+            return km.group(0)  # distinct word -- keep
+        return _KETIV_W_RE.sub(ketiv_repl, ketiv_run) + note_block
+    return _KETIV_RUN_NOTE_RE.sub(run_repl, vtext)
 
 
 def lemma_matches(lemma_attr, target_numbers):
@@ -191,8 +263,8 @@ def scan_root(target_numbers, verbose=True):
             data = f.read()
         for vm in re.finditer(r'<verse osisID="([^"]+)">(.*?)</verse>', data, re.S):
             vid = vm.group(1)
-            vtext = vm.group(2)
-            for wm in re.finditer(r'<w lemma="([^"]*)"[^>]*morph="([^"]*)"[^>]*>([^<]*)</w>', vtext):
+            vtext = strip_redundant_ketivs(vm.group(2))
+            for wm in re.finditer(r'<w [^>]*?lemma="([^"]*)"[^>]*morph="([^"]*)"[^>]*>([^<]*)</w>', vtext):
                 lemma, morph, heb = wm.groups()
                 if not lemma_matches(lemma, target_numbers):
                     continue
@@ -249,8 +321,8 @@ def scan_all(target_numbers, verbose=True):
             data = f.read()
         for vm in re.finditer(r'<verse osisID="([^"]+)">(.*?)</verse>', data, re.S):
             vid = vm.group(1)
-            vtext = vm.group(2)
-            for wm in re.finditer(r'<w lemma="([^"]*)"[^>]*morph="([^"]*)"[^>]*>([^<]*)</w>', vtext):
+            vtext = strip_redundant_ketivs(vm.group(2))
+            for wm in re.finditer(r'<w [^>]*?lemma="([^"]*)"[^>]*morph="([^"]*)"[^>]*>([^<]*)</w>', vtext):
                 lemma, morph, heb = wm.groups()
                 num = None
                 for p in re.split(r'[/\s]+', lemma.strip()):

@@ -92,8 +92,8 @@
      {
       "code": "inf",
       "label": "infinitive",
-      "heb": "וְלַחְתֹּם",
-      "translit": "vlachtom",
+      "heb": "ולחתם",
+      "translit": "lchtm",
       "ref": "Dan.9.24",
       "has_suffix": false,
       "has_prefix": true
@@ -180,6 +180,9 @@
   "piel": "lock up",
   "hiphil": "be stopped"
  },
+ "notes": [
+  "The qal infinitive_construct citation (Dan.9.24) was previously stored as the fully-vocalized \"וְלַחְתֹּם\", which cannot be produced from the digital corpus: Dan.9.24 is a well-known ketiv/qere textual crux (ketiv חתם \"to seal\", this root; qere תמם \"to make an end\", H8552, a genuinely different word) and the corpus's ketiv text is unvocalized. The vocalized form was very likely hand-typed from a printed Hebrew Bible at some point before ketiv support existed in this pipeline -- discovered when a pipeline fix for ketiv/qere handling exposed it as unreproducible. Corrected to the pipeline's own bare ketiv text \"ולחתם\" (translit \"lchtm\", no vowel points, since none exist in the source) per the person's direction."
+ ],
  "root": "חתם",
  "search_match": [
   "2856",
