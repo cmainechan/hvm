@@ -362,7 +362,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -394,7 +395,7 @@
   }
  },
  "stem_glosses": {
-  "niphal": "answer; let oneself be consulted",
+  "niphal": "answer",
   "piel": "sing (of)"
  },
  "root": "ענה¹",

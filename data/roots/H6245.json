@@ -36,7 +36,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "root": "עשת",
@@ -50,6 +51,6 @@
  "citation_translit": "ashat",
  "stem_coverage_checked": true,
  "stem_glosses": {
-  "qal": "be sleek, glossy; think"
+  "qal": "be sleek, glossy"
  }
 }

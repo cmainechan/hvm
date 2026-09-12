@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "twist; make crooked"
+  "make crooked"
  ],
  "strong": "H6140",
  "stems": {
@@ -41,7 +41,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -75,11 +76,12 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "niphal": "be crooked; be perverse",
+  "niphal": "be crooked",
   "hiphil": "declare perverse"
  },
  "notes": [

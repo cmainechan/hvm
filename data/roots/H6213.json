@@ -516,7 +516,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -660,7 +661,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -677,7 +679,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pual": {
    "sense_hint": "passive-intensive",
@@ -699,7 +702,7 @@
  },
  "stem_glosses": {
   "niphal": "be done; be made",
-  "piel": "do; make",
+  "piel": "squeeze (the breasts)",
   "pual": "be made"
  },
  "root": "עשה",
@@ -711,5 +714,8 @@
   "עשה"
  ],
  "citation_translit": "asah",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Piel's sole citation (Ezek.23.3, \"their breasts were pressed/handled\") shows a specialized \"squeeze/handle\" sense, not the generic \"do; make\" -- corrected to match what the citation actually shows."
+ ]
 }

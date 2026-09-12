@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "terrify; tremble"
+  "tremble"
  ],
  "strong": "H6206",
  "stems": {
@@ -77,7 +77,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -120,12 +121,13 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
   "niphal": "be awesome",
-  "hiphil": "regard with awe; terrify"
+  "hiphil": "regard with awe"
  },
  "root": "ערץ",
  "search_match": [

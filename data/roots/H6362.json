@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "separate; escape; set free"
+  "escape; set free"
  ],
  "strong": "H6362",
  "stems": {
@@ -41,7 +41,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",

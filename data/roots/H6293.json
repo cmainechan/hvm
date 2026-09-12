@@ -241,11 +241,12 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "hiphil": "intercede; attack"
+  "hiphil": "intercede"
  },
  "root": "פגע",
  "search_match": [
@@ -256,5 +257,8 @@
   "פגע"
  ],
  "citation_translit": "paga",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "\"Attack\" had no clear support among hiphil's five citations -- the two ambiguous ones (Isa.53.6, Jer.15.11, both about a causative \"meet/befall\") read at least as plausibly as extensions of \"intercede\" (causing an encounter/plea on someone's behalf) as of \"attack\"; kept the clearly-attested \"intercede\" (Jer.36.25, Isa.59.16, Isa.53.12)."
+ ]
 }

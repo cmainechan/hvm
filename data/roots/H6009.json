@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "be deep; be profound"
+  "be deep"
  ],
  "strong": "H6009",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",

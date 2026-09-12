@@ -108,7 +108,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -136,7 +137,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hitpael": {
    "sense_hint": "reflexive/reciprocal",
@@ -162,14 +164,15 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
   "niphal": "be pained",
   "piel": "vex; shape",
   "hiphil": "cause pain; shape",
-  "hitpael": "feel grieved; be vexed"
+  "hitpael": "feel grieved"
  },
  "root": "עצב",
  "search_match": [

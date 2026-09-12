@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "move; be removed; advance in years"
+  "be removed; advance in years"
  ],
  "strong": "H6275",
  "stems": {
@@ -30,7 +30,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -69,11 +70,12 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "hiphil": "move forward; remove; transcribe"
+  "hiphil": "move forward; remove"
  },
  "root": "עתק",
  "search_match": [

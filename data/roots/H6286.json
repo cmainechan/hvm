@@ -59,7 +59,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hitpael": {
    "sense_hint": "reflexive/reciprocal",
@@ -107,11 +108,12 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "hitpael": "glorify oneself; be glorified"
+  "hitpael": "glorify oneself"
  },
  "root": "פאר",
  "search_match": [

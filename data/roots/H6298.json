@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "meet; encounter"
+  "meet"
  ],
  "strong": "H6298",
  "stems": {
@@ -101,7 +101,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -135,12 +136,13 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
   "niphal": "meet together",
-  "piel": "meet; encounter"
+  "piel": "meet"
  },
  "root": "פגש",
  "search_match": [

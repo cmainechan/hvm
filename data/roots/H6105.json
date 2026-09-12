@@ -100,7 +100,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -117,12 +118,13 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
   "piel": "close (the eyes); break (the bones)",
-  "hiphil": "make strong; close (the eyes); break (the bones)"
+  "hiphil": "make strong"
  },
  "root": "עצם",
  "search_match": [
@@ -133,5 +135,8 @@
   "עצם"
  ],
  "citation_translit": "atzam",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Hiphil's own sole citation (Ps.105.24, \"made them stronger than their enemies\") supports only \"make strong\" -- \"close (the eyes)\" and \"break (the bones)\" were carried over from piel's (genuinely distinct, separately cited) homonym senses but have no citation of their own in this stem."
+ ]
 }
