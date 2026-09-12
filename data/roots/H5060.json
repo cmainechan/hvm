@@ -214,7 +214,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -419,7 +420,7 @@
   "piel": "afflict",
   "pual": "be afflicted",
   "hiphil": "reach",
-  "niphal": "be stricken; be defeated"
+  "niphal": "be defeated"
  },
  "root": "נגע",
  "search_match": [

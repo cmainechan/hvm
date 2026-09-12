@@ -141,7 +141,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hitpael": {
    "sense_hint": "reflexive/reciprocal",
@@ -164,7 +165,7 @@
  "stem_glosses": {
   "niphal": "become like",
   "piel": "speak in parables",
-  "hiphil": "liken; compare",
+  "hiphil": "liken",
   "hitpael": "become like"
  },
  "root": "משל²",

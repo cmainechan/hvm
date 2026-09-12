@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "melt; quake"
+  "melt"
  ],
  "strong": "H4127",
  "stems": {
@@ -50,7 +50,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -98,7 +99,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "polel": {
    "sense_hint": "intensive",
@@ -152,11 +154,12 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "niphal": "melt away; be dismayed",
+  "niphal": "melt away",
   "polel": "cause to melt",
   "hithpolel": "melt away; be faint-hearted"
  },

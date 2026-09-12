@@ -249,7 +249,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hitpael": {
    "sense_hint": "reflexive/reciprocal",
@@ -271,7 +272,7 @@
  },
  "stem_glosses": {
   "hitpael": "stumble",
-  "niphal": "be struck down; be defeated"
+  "niphal": "be defeated"
  },
  "root": "נגף",
  "search_match": [

@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "feel; touch"
+  "feel"
  ],
  "strong": "H4959",
  "stems": {
@@ -30,7 +30,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -80,7 +81,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -97,12 +99,13 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
   "piel": "feel; grope",
-  "hiphil": "feel (darkness); touch"
+  "hiphil": "feel (darkness)"
  },
  "root": "משש",
  "search_match": [

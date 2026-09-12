@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "depart; turn aside"
+  "depart"
  ],
  "strong": "H3868",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -45,7 +46,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -62,12 +64,13 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "niphal": "go wrong; go crooked",
-  "hiphil": "be lost from view; become devious"
+  "niphal": "go crooked",
+  "hiphil": "be lost from view"
  },
  "notes": [
   "Hiphil has a single attestation (Prov.4.21, יַלִּיזוּ, \"let them [my words] not depart from your eyes\"). BDB glosses this hiphil form essentially identically to the qal sense (\"depart from view\"), with a parenthetical alternative reading \"let them not practice/exhibit deviation\" -- the source of the requested \"become devious\" half of the gloss. Flagging as single-attestation with BDB's own dual reading, per usual practice."

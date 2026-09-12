@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "be/become sweet or pleasant"
+  "become sweet"
  ],
  "strong": "H4985",
  "stems": {
@@ -41,7 +41,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -67,11 +68,12 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "hiphil": "make sweet/pleasant"
+  "hiphil": "make sweet"
  },
  "root": "מתק",
  "search_match": [

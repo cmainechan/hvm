@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "salt; season"
+  "salt"
  ],
  "strong": "H4414",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -81,13 +82,14 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
   "niphal": "be dispersed",
   "pual": "be salted",
-  "hophal": "be rubbed/washed with salt"
+  "hophal": "be rubbed with salt"
  },
  "notes": [
   "Qal has a single attestation (Lev.2.13, תִּמְלָח, \"you shall season every grain offering with salt\"); flagging as single-attestation per usual practice."

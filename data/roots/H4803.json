@@ -52,7 +52,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -97,12 +98,13 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
   "niphal": "be made bald",
-  "pual": "be polished; be burnished"
+  "pual": "be burnished"
  },
  "notes": [
   "A pual is genuinely attested directly under H4803 itself -- Ezek.21.15/21.16 (\"מֹרָטָּה\", of a sword: \"it is furbished/polished\") and 1Kgs.7.45 (\"מְמֹרָט\", of temple bronzeware: \"burnished\") -- contrary to the supplied note that the pual belongs only to a separate number H4178. H4178 is real and does have its own, textually distinct pual attestation (Isa.18.2/18.7, \"מוֹרָט\"), but the lexicon there classifies it as an unrelated adjective (\"obstinate, independent\", derived from H3399, not from מרט) that OSHB's morphological layer nonetheless tags as a pual participle by surface form -- a separate case from H4803's own genuine pual. Included H4803's pual per the standing rule of always including attested-but-unrequested stems; flagging since it contradicts the supplied note."

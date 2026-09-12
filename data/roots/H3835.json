@@ -69,7 +69,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hitpael": {
    "sense_hint": "reflexive",
@@ -86,12 +87,13 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "hiphil": "make white; purify",
-  "hitpael": "become white; be purified"
+  "hiphil": "make white",
+  "hitpael": "become white"
  },
  "root": "לבן",
  "search_match": [

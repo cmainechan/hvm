@@ -58,7 +58,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hithpolel": {
    "sense_hint": "reflexive/intensive",
@@ -79,7 +80,7 @@
   }
  },
  "stem_glosses": {
-  "hiphil": "mock; interpret (a foreign language)",
+  "hiphil": "mock; interpret",
   "hithpolel": "act as a scorner"
  },
  "notes": [

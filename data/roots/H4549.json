@@ -129,7 +129,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -146,12 +147,13 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "niphal": "melt; faint",
-  "hiphil": "cause to melt; make fearful"
+  "niphal": "melt",
+  "hiphil": "make fearful"
  },
  "root": "מסס",
  "search_match": [

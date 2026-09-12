@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "hammer; sharpen; whet"
+  "sharpen"
  ],
  "strong": "H3913",
  "stems": {
@@ -30,7 +30,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pual": {
    "sense_hint": "passive/intensive",
