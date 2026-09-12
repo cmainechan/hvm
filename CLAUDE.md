@@ -282,7 +282,7 @@ sense at all, apply "no uncited glosses" (drop it, note why) instead of
 substituting a different citation. Commit progress incrementally rather
 than holding a huge uncommitted audit in progress.
 
-## Compound-gloss trim audit (new, in progress)
+## Compound-gloss trim audit (complete)
 
 A stricter version of the check above was introduced after the original
 audit finished and roughly 935 roots were already in the dataset: every
@@ -290,52 +290,54 @@ audit finished and roughly 935 roots were already in the dataset: every
 compound gloss only stays compound when its clauses are genuinely
 distinct senses, not synonyms of each other (see "No uncited glosses" and
 step 10 above for the exact standard and the worked examples). Every stem
-checked before this stricter standard existed has `"gloss_verified": true`
+checked before this stricter standard existed had `"gloss_verified": true`
 but not necessarily `"gloss_trim_checked": true` — the second, separate
-flag is what this audit tracks, so it doesn't get confused with the (now
-complete) original pass or force-recheck stems that have nothing to trim.
+flag tracked this audit so it didn't get confused with the (already
+complete) original pass or force-recheck stems that had nothing to trim.
+That project finished too: as of this writing every stem in the dataset
+carries `"gloss_trim_checked": true` (confirmed via the script below
+returning 0). It's kept here for reference and because the exact same
+standard still applies to brand-new roots (step 10 above) — nothing is
+left in this particular backlog.
 
-- Only stems with a **compound gloss** (more than one clause — in
-  practice, containing `;` or `/`) are actually at risk here; a one-clause
-  gloss has nothing to trim and can be marked `"gloss_trim_checked": true`
-  on sight once you've confirmed it really is one clause.
-- To find what's left:
-  ```python
-  import json, glob, re
-  todo = []
-  for f in glob.glob("data/roots/*.json"):
-      d = json.load(open(f, encoding="utf-8"))
-      root_glosses = d.get("glosses", [])
-      stem_glosses = d.get("stem_glosses", {})
-      for stem, obj in d.get("stems", {}).items():
-          if obj.get("gloss_trim_checked"):
-              continue
-          text = stem_glosses.get(stem) or (root_glosses[0] if root_glosses else "")
-          if re.search(r'[;/]', text):
-              todo.append((d["strong"], d.get("root"), stem, text))
-  print(len(todo), "compound-gloss stems still need a trim check")
-  ```
-- **No confirmation needed before trimming** — this audit is auto-fix-
-  and-report, the same shape as the original gloss-context audit: for
-  each stem, check every clause of its gloss against the stem's own
-  shipped citation(s), trim whatever's unattested or redundant, report
-  what changed (or that nothing needed to change — still set the flag
-  either way, it means "checked," not "changed"), and move on. Don't pause
-  to ask before applying a trim; flag something in the report only when
-  it's genuinely ambiguous whether two clauses are distinct senses or the
-  same one worded twice, not as a routine check-in.
-- **Batch size: 45 stems per session.** A modest bump from the original
-  gloss-context audit's 40 — a fair number of stems here are single-clause
-  and pass on sight, which offsets the fact that a compound gloss now
-  needs an extra judgment call per stem (are these clauses actually
-  distinct, not just whether each has a citation). Adjust up or down if
-  that balance doesn't hold in practice; it's a starting estimate, not a
-  hard constraint.
-- Commit incrementally, same as the original audit.
-- **Every stem added from now on gets both flags set together at creation
-  time** (step 10 above already says this) — this audit's backlog is a
-  fixed, closed set from the day the rule was introduced, not something
-  new roots keep adding to.
+```python
+import json, glob, re
+todo = []
+for f in glob.glob("data/roots/*.json"):
+    d = json.load(open(f, encoding="utf-8"))
+    root_glosses = d.get("glosses", [])
+    stem_glosses = d.get("stem_glosses", {})
+    for stem, obj in d.get("stems", {}).items():
+        if obj.get("gloss_trim_checked"):
+            continue
+        text = stem_glosses.get(stem) or (root_glosses[0] if root_glosses else "")
+        if re.search(r'[;/]', text):
+            todo.append((d["strong"], d.get("root"), stem, text))
+print(len(todo), "compound-gloss stems still need a trim check")
+```
+
+If this ever prints nonzero again (e.g. a future batch adds a stem
+without setting the flag, or the check gets loosened and re-tightened),
+the same workflow applies: only stems with a **compound gloss** (more
+than one clause — in practice, containing `;` or `/`) are actually at
+risk; a one-clause gloss has nothing to trim and can be marked
+`"gloss_trim_checked": true` on sight. This audit is auto-fix-and-report,
+the same shape as the gloss-context audit above — no confirmation needed
+before trimming: for each stem, check every clause of its gloss against
+the stem's own shipped citation(s), trim whatever's unattested or
+redundant, report what changed (or that nothing needed to change — still
+set the flag either way, it means "checked," not "changed"), and move on.
+Flag something in the report only when it's genuinely ambiguous whether
+two clauses are distinct senses or the same one worded twice, not as a
+routine check-in. Batch size **45 stems per session** worked well in
+practice (a modest bump from the original audit's 40, since a fair number
+of stems are single-clause and pass on sight, offsetting the extra
+judgment call a real compound gloss needs) — adjust if that balance
+doesn't hold. Commit incrementally, same as the original audit. Every
+stem added from now on gets both flags set together at creation time
+(step 10 above already says this) — this audit's backlog was a fixed,
+closed set from the day the rule was introduced, not something new roots
+keep adding to.
 
 ## Retroactive stem-coverage audit (in progress)
 
