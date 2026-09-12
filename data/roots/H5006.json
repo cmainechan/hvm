@@ -171,6 +171,9 @@
   "piel": "spurn; cause to blaspheme",
   "hithpolel": "be reviled"
  },
+ "notes": [
+  "Hiphil yiqtol Eccl.12.5 (וְיָנֵאץ הַשָּׁקֵד, lemma-tagged H5006 by OSHB) was surfaced by the fresh stem-coverage sweep, but excluded: this is the well-known \"the almond tree shall blossom\" image (of white hair in old age), traditionally read as denominative from נֵץ \"blossom,\" not from נאץ \"spurn/despise\" (which would give the nonsensical \"the almond tree shall be spurned\" here). Same profile as H3415's already-excluded ירע -- a likely corpus mistagging rather than a genuine attestation of this root, so left out per the no-uncited-glosses rule."
+ ],
  "root": "נאץ",
  "search_match": [
   "5006",

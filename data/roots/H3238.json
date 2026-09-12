@@ -4,6 +4,23 @@
  ],
  "strong": "H3238",
  "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "הַיּוֹנָֽה",
+      "translit": "hayyonah",
+      "ref": "Jer.46.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
   "hiphil": {
    "sense_hint": "causative",
    "gloss_verified": true,
@@ -91,6 +108,9 @@
    }
   }
  },
+ "notes": [
+  "This root previously had only a hiphil stem on file -- an oversight predating the \"search every stem\" step-3 requirement, not related to the recent ketiv-extraction fix (these are plain, non-ketiv word tags). Qal participle_active fs \"הַיּוֹנָה\" (\"the oppressing [sword/city/anger]\") is attested identically 4x: Jer.25.38, Jer.46.16 (cited), Jer.50.16, Zeph.3.1 -- all the same inflected form used substantively/adjectivally, so only one citation is stored per the dataset's one-citation-per-slot convention. Matches the existing \"treat violently; defraud\" gloss directly (an active participle, \"the oppressor/violent one\")."
+ ],
  "root": "ינה",
  "search_match": [
   "3238",

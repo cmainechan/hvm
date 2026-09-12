@@ -323,6 +323,23 @@
     ]
    }
   },
+  "pilpel": {
+   "sense_hint": "intensive (reduplicated)",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "קִלְקַל",
+      "translit": "qilqal",
+      "ref": "Eccl.10.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
   "hiphil": {
    "sense_hint": "causative",
    "gloss_verified": true,
@@ -414,8 +431,12 @@
   "niphal": "be a trifling thing",
   "piel": "curse",
   "pual": "be cursed",
+  "pilpel": "sharpen; shake, brandish",
   "hithpalpel": "shake, tremble"
  },
+ "notes": [
+  "Pilpel perfect Eccl.10.10 (קִלְקַל, \"[if the axe] is not sharpened\") was a previously-missing stem, plain non-ketiv tags -- an oversight unrelated to the recent ketiv-extraction fix. The identical inflected form (perfect 3ms, no prefix/suffix) also occurs at Ezek.21.26 (קִלְקַל בַּחִצִּים, \"he shook the arrows [for divination]\") -- a related but distinct sense of the same pilpel form; both share one stored slot per the dataset's one-citation-per-code convention, so the gloss covers both attested senses (\"sharpen\" and \"shake, brandish\") rather than picking one."
+ ],
  "root": "קלל",
  "search_match": [
   "7043",

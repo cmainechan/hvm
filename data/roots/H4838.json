@@ -48,13 +48,31 @@
      }
     ]
    }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תמריק",
+      "translit": "tmrq",
+      "ref": "Prov.20.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
   }
  },
  "stem_glosses": {
-  "pual": "be scoured; be polished"
+  "pual": "be scoured; be polished",
+  "hiphil": "scour away"
  },
  "notes": [
-  "Hiphil (\"scour away\") was requested but has no attested form anywhere in the corpus under H4838 -- excluded per the no-uncited-glosses rule; only qal and pual (scour/polish; be scoured/polished) are attested."
+  "Hiphil (\"scour away\") was originally requested but excluded for lack of any attested form (see prior note, now superseded). The pipeline's ketiv-extraction fix reveals a genuine attestation invisible before: Prov.20.30 hiphil yiqtol תמריק (ketiv, unvocalized, \"[stripes/wounds] scour away [evil]\"), a direct citation for the exact sense originally requested. Its qere, תַּמְרוּק (a noun, H8562, \"purification/scouring\"), is a different Strong's number -- a genuine textual variant, not a spelling difference -- so the ketiv is kept per the fix's rule."
  ],
  "root": "מרק",
  "search_match": [

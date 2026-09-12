@@ -189,6 +189,9 @@
   "hiphil": "contain; endure",
   "polpal": "be provisioned, sustained"
  },
+ "notes": [
+  "1Kgs.18.4 (וְכִלְכְּלָם, \"he sustained them [with bread and water]\") is the same כלכל pilpel-pattern lexeme already stored under pilpel/perfect (e.g. 2Sam.19.33 כִלְכַּל) -- but OSHB's own morphology tags this one occurrence with stem-letter 'p' (piel) rather than 'l' (pilpel), a corpus tagging inconsistency, not a genuine separate stem. Not related to the ketiv fix (plain tag). Since it fills the same paradigm slot (perfect 3ms) already covered by 2Sam.19.33, no separate form entry was added -- flagging here so a future fresh-extraction sweep doesn't re-flag this as a missing 'piel' stem."
+ ],
  "root": "כול",
  "search_match": [
   "3557",

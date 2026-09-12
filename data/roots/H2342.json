@@ -122,6 +122,17 @@
       "has_prefix": false
      }
     ],
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אחולה",
+      "translit": "chlh",
+      "ref": "Jer.4.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
     "veqatal": [
      {
       "code": "3cp",
@@ -404,6 +415,9 @@
   "hithpalpel": "writhe in anguish",
   "polel": "bring forth; dance; wait"
  },
+ "notes": [
+  "Qal cohortative Jer.4.19 (אחולה, ketiv, unvocalized in the source) was invisible before the pipeline's ketiv-extraction fix. Its qere, אוֹחִילָה, resolves to a different Strong's number (H3176 יחל \"wait/hope\") -- a genuine textual variant, not a spelling difference, so the ketiv is kept as its own attestation per the fix's rule. \"I will writhe [in anguish]\" fits the surrounding context (\"my heart moans in me\") and the existing \"writhe\" gloss cleanly."
+ ],
  "root": "חיל",
  "search_match": [
   "2342",

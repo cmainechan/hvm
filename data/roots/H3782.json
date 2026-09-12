@@ -205,6 +205,23 @@
     ]
    }
   },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תכשלי",
+      "translit": "tkhshl",
+      "ref": "Ezek.36.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
   "hiphil": {
    "sense_hint": "causative",
    "gloss_verified": true,
@@ -302,9 +319,13 @@
  },
  "stem_glosses": {
   "niphal": "stumble",
+  "piel": "cause to stumble",
   "hiphil": "cause to stumble",
   "hophal": "be made to stumble"
  },
+ "notes": [
+  "Piel yiqtol Ezek.36.14 (תכשלי, ketiv, unvocalized, \"you shall no longer cause [your nation] to stumble\") was invisible before the pipeline's ketiv-extraction fix. Its qere, תְשַׁכְּלִי, resolves to a different Strong's number (H7921 שכל \"bereave\") -- a genuine textual variant, not a spelling difference, so the ketiv is kept per the fix's rule. The piel gloss duplicates the existing hiphil \"cause to stumble\" sense -- the same kind of paradigm-variant doubling seen elsewhere in this dataset."
+ ],
  "root": "כשל",
  "search_match": [
   "3782",

@@ -4,6 +4,23 @@
  ],
  "strong": "H8248",
  "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "ונשקה",
+      "translit": "nshqh",
+      "ref": "Amos.8.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
   "pual": {
    "sense_hint": "passive-intensive",
    "forms": {
@@ -270,9 +287,13 @@
   }
  },
  "stem_glosses": {
+  "niphal": "be flooded, be inundated",
   "pual": "be given drink",
   "hiphil": "give to drink"
  },
+ "notes": [
+  "Niphal veqatal Amos.8.8 (ונשקה, ketiv, unvocalized, \"[the land]... shall be flooded, like the Nile of Egypt\") was invisible before the pipeline's ketiv-extraction fix -- single attestation, low confidence. Its qere, וְנִשְׁקְעָה (H8257 שקע \"sink down\"), is a near-synonym describing the same flooding image, but the numbers differ so the ketiv is kept per the fix's rule. Passive of \"give to drink\" (\"be watered/inundated\") is distinct enough from the root's other senses to warrant its own stem_gloss."
+ ],
  "root": "שקה",
  "search_match": [
   "8248",

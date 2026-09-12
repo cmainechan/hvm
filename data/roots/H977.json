@@ -276,6 +276,23 @@
    },
    "gloss_verified": true
   },
+  "pual": {
+   "sense_hint": "passive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יבחר",
+      "translit": "vchr",
+      "ref": "Eccl.9.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
   "qal_passive": {
    "sense_hint": "passive",
    "gloss_verified": true,
@@ -296,8 +313,12 @@
  },
  "stem_glosses": {
   "niphal": "be chosen",
+  "pual": "be chosen",
   "qal_passive": "chosen"
  },
+ "notes": [
+  "Pual yiqtol Eccl.9.4 (יבחר, ketiv, unvocalized) was invisible before the pipeline's ketiv-extraction fix -- included per confirmation, but flagged as the lowest-confidence addition in this batch. Its qere, יְחֻבַּר (H2266 חבר \"join\"), is a one-letter consonant metathesis of the ketiv (בחר/חבר) and is the near-universal traditional reading (\"whoever is joined to all the living has hope\"); the ketiv's \"whoever is chosen among all the living\" is a substantially less common construal. Kept as a genuinely distinct Strong's number per the fix's rule, but this is a textual-variant judgment call more than the other additions in this batch."
+ ],
  "root": "בחר",
  "search_match": [
   "977",

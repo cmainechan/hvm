@@ -134,6 +134,17 @@
       "has_prefix": false
      }
     ],
+    "jussive": [
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תרצנה",
+      "translit": "trtznh",
+      "ref": "Prov.23.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
     "veqatal": [
      {
       "code": "2ms",
@@ -285,6 +296,9 @@
   "niphal": "be accepted",
   "hiphil": "make amends"
  },
+ "notes": [
+  "Qal jussive Prov.23.26 (תרצנה, ketiv, unvocalized, \"let [thine eyes] delight/observe\") was invisible before the pipeline's ketiv-extraction fix. Its qere, תִּצֹּרְנָה, resolves to a different Strong's number (H5341 נצר \"guard, keep\") -- a genuine textual variant, not a spelling difference, so the ketiv is kept per the fix's rule. \"Let them delight/take pleasure\" matches the existing \"accept\" gloss (delight in, take pleasure in) directly."
+ ],
  "root": "רצה",
  "search_match": [
   "7521",

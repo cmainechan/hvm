@@ -573,6 +573,23 @@
     ]
    }
   },
+  "pual": {
+   "sense_hint": "passive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מידע",
+      "translit": "md",
+      "ref": "Ruth.2.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
   "hiphil": {
    "sense_hint": "causative",
    "gloss_verified": true,
@@ -855,10 +872,14 @@
   "hiphil": "make known",
   "niphal": "be known",
   "piel": "cause to know; appoint",
+  "pual": "acquaintance; kinsman",
   "hophal": "be made known",
   "hitpael": "make oneself known",
   "poel": "appoint, direct"
  },
+ "notes": [
+  "Pual participle_passive Ruth.2.1 (מידע, ketiv, unvocalized, \"a kinsman\") was invisible before the pipeline's ketiv-extraction fix -- single attestation, low confidence. Its qere, מוֹדָע, is a distinct noun (H4129) with the same \"kinsman/acquaintance\" meaning, so this is a spelling/lexical-choice variant rather than a different sense, but the numbers differ so the ketiv is kept as its own attestation per the fix's rule. \"One known\" (a passive participle of \"know\") substantivized as \"acquaintance/kinsman\" is a well-attested Semitic pattern, distinct enough from the root's primary \"know\" sense to warrant its own stem_gloss."
+ ],
  "root": "ידע",
  "search_match": [
   "3045",
