@@ -1,0 +1,49 @@
+{
+ "glosses": [
+  "drip; weep"
+ ],
+ "strong": "H1811",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִדְלֹף",
+      "translit": "yidlof",
+      "ref": "Eccl.10.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "דָּלְפָה",
+      "translit": "dalfah",
+      "ref": "Job.16.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Gloss collision: shares \"weep\" with the existing בכה (H1058, primary gloss exactly \"weep\") -- distinct roots; not disambiguated separately since \"weep\" here is only one of two combined senses, not the whole gloss."
+ ],
+ "root": "דלף",
+ "search_match": [
+  "1811",
+  "h1811",
+  "drip; weep",
+  "dalaf",
+  "דלף"
+ ],
+ "citation_translit": "dalaf",
+ "stem_coverage_checked": true
+}

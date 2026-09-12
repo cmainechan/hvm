@@ -147,13 +147,16 @@
   "poel": "utter",
   "hiphil": "mutter"
  },
- "root": "הגה",
+ "notes": [
+  "Retroactively renamed from the plain key \"הגה\" to \"הגה¹\" when H1898 (\"remove; expel\") was added to the dataset as \"הגה²\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
+ ],
+ "root": "הגה¹",
  "search_match": [
   "1897",
   "h1897",
   "roar",
   "hagah",
-  "הגה"
+  "הגה¹"
  ],
  "citation_translit": "hagah",
  "stem_coverage_checked": true

@@ -1,0 +1,60 @@
+{
+ "glosses": [
+  "catch; seize"
+ ],
+ "strong": "H2414",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַחֲטַפְתֶּם",
+      "translit": "vachataftem",
+      "ref": "Judg.21.21",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַחֲטוֹף",
+      "translit": "lachatof",
+      "ref": "Ps.10.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחְטֹף",
+      "translit": "yachtof",
+      "ref": "Ps.10.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Gloss collision: shares \"seize\" with the existing תפש (H8610, primary gloss exactly \"seize\") and overlaps with גזל (H1497, \"rob, seize by force\") -- distinct roots, disambiguating search alias added."
+ ],
+ "root": "חטף",
+ "search_match": [
+  "2414",
+  "h2414",
+  "catch; seize (chataf)",
+  "chataf",
+  "חטף"
+ ],
+ "citation_translit": "chataf",
+ "stem_coverage_checked": true
+}

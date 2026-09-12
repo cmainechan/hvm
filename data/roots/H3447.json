@@ -1,0 +1,46 @@
+{
+ "glosses": [
+  "extend; hold out"
+ ],
+ "strong": "H3447",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֽוֹשִׁיט",
+      "translit": "oshit",
+      "ref": "Esth.4.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיּוֹשֶׁט",
+      "translit": "vayyoshet",
+      "ref": "Esth.5.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "ישט",
+ "search_match": [
+  "3447",
+  "h3447",
+  "extend; hold out",
+  "yashat",
+  "ישט"
+ ],
+ "citation_translit": "yashat",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,58 @@
+{
+ "glosses": [
+  "prune; trim"
+ ],
+ "strong": "H2168",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִזָּמֵר",
+      "translit": "yizzamer",
+      "ref": "Isa.5.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּזְמֹר",
+      "translit": "tizmor",
+      "ref": "Lev.25.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be pruned"
+ },
+ "notes": [
+  "True homograph of the existing H2167 (\"make music\"), both spelled זמר -- added as זמר² per the ascending-Strong's-number superscript convention; H2167 is retroactively renamed זמר¹ in this same batch (including its DEFAULT_STEM_OVERRIDE entry in both UI templates)."
+ ],
+ "root": "זמר²",
+ "search_match": [
+  "2168",
+  "h2168",
+  "prune; trim",
+  "zamar",
+  "זמר²"
+ ],
+ "citation_translit": "zamar",
+ "stem_coverage_checked": true
+}

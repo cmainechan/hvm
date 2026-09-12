@@ -1,0 +1,74 @@
+{
+ "glosses": [
+  "divide"
+ ],
+ "strong": "H2686",
+ "stems": {
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "חֻצָּֽצוּ",
+      "translit": "chuttzatzu",
+      "ref": "Job.21.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְחַֽצְצִים",
+      "translit": "mchatztzim",
+      "ref": "Judg.5.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חֹצֵץ",
+      "translit": "chotzetz",
+      "ref": "Prov.30.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "shoot arrows",
+  "pual": "be divided; be curtailed"
+ },
+ "root": "חצץ",
+ "search_match": [
+  "2686",
+  "h2686",
+  "divide",
+  "shoot arrows",
+  "chatzatz",
+  "חצץ"
+ ],
+ "citation_translit": "chatzatz",
+ "stem_coverage_checked": true
+}

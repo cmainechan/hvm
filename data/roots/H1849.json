@@ -1,0 +1,66 @@
+{
+ "glosses": [
+  "beat; knock; drive severely"
+ ],
+ "strong": "H1849",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וּדְפָקוּם",
+      "translit": "udfaqum",
+      "ref": "Gen.33.13",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "דוֹפֵק",
+      "translit": "dofeq",
+      "ref": "Song.5.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מִֽתְדַּפְּקִים",
+      "translit": "mitdappqim",
+      "ref": "Judg.19.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hitpael": "beat/knock violently"
+ },
+ "root": "דפק",
+ "search_match": [
+  "1849",
+  "h1849",
+  "beat; knock; drive severely",
+  "dafaq",
+  "דפק"
+ ],
+ "citation_translit": "dafaq",
+ "stem_coverage_checked": true
+}

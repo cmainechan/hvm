@@ -1,0 +1,46 @@
+{
+ "glosses": [
+  "smear over; stick; impute falsely"
+ ],
+ "strong": "H2950",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתִּטְפֹּל",
+      "translit": "vattitpol",
+      "ref": "Job.14.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "טָפְלוּ",
+      "translit": "taflu",
+      "ref": "Ps.119.69",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "טפל",
+ "search_match": [
+  "2950",
+  "h2950",
+  "smear over; stick; impute falsely",
+  "tafal",
+  "טפל"
+ ],
+ "citation_translit": "tafal",
+ "stem_coverage_checked": true
+}

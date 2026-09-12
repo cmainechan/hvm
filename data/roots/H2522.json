@@ -1,0 +1,46 @@
+{
+ "glosses": [
+  "be weak; weaken; overpower"
+ ],
+ "strong": "H2522",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּחֲלֹשׁ",
+      "translit": "vayyachalosh",
+      "ref": "Exod.17.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חוֹלֵשׁ",
+      "translit": "cholesh",
+      "ref": "Isa.14.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "חלש",
+ "search_match": [
+  "2522",
+  "h2522",
+  "be weak; weaken; overpower",
+  "chalash",
+  "חלש"
+ ],
+ "citation_translit": "chalash",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,46 @@
+{
+ "glosses": [
+  "make turbid; stir up water"
+ ],
+ "strong": "H1804",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתִּדְלַח",
+      "translit": "vattidlach",
+      "ref": "Ezek.32.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִדְלָחֵם",
+      "translit": "tidlachem",
+      "ref": "Ezek.32.13",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "דלח",
+ "search_match": [
+  "1804",
+  "h1804",
+  "make turbid; stir up water",
+  "dalach",
+  "דלח"
+ ],
+ "citation_translit": "dalach",
+ "stem_coverage_checked": true
+}

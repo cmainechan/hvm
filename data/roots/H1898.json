@@ -1,0 +1,49 @@
+{
+ "glosses": [
+  "remove; expel"
+ ],
+ "strong": "H1898",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הָגָה",
+      "translit": "hagah",
+      "ref": "Isa.27.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הָגוֹ",
+      "translit": "hago",
+      "ref": "Prov.25.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "True homograph of the existing H1897 (\"roar; utter; meditate\"), both spelled הגה -- added as הגה² per the ascending-Strong's-number superscript convention; H1897 is retroactively renamed הגה¹ in this same batch."
+ ],
+ "root": "הגה²",
+ "search_match": [
+  "1898",
+  "h1898",
+  "remove; expel",
+  "hagah",
+  "הגה²"
+ ],
+ "citation_translit": "hagah",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,58 @@
+{
+ "glosses": [
+  "marry a deceased brother's widow"
+ ],
+ "strong": "H2992",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיִבְּמָֽהּ",
+      "translit": "vyibbmahh",
+      "ref": "Deut.25.5",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "יַבְּמִֽי",
+      "translit": "yabbmi",
+      "ref": "Deut.25.7",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְיַבֵּם",
+      "translit": "vyabbem",
+      "ref": "Gen.38.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "יבם",
+ "search_match": [
+  "2992",
+  "h2992",
+  "marry a deceased brother's widow",
+  "levirate marriage",
+  "yavam",
+  "יבם"
+ ],
+ "citation_translit": "yavam",
+ "stem_coverage_checked": true
+}

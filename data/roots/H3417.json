@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "spit"
+ ],
+ "strong": "H3417",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְיָרְקָה",
+      "translit": "vyarqah",
+      "ref": "Deut.25.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "יָרֹק",
+      "translit": "yaroq",
+      "ref": "Num.12.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָרַק",
+      "translit": "yaraq",
+      "ref": "Num.12.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "ירק",
+ "search_match": [
+  "3417",
+  "h3417",
+  "spit",
+  "yaraq",
+  "ירק"
+ ],
+ "citation_translit": "yaraq",
+ "stem_coverage_checked": true
+}

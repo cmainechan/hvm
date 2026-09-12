@@ -1,0 +1,69 @@
+{
+ "glosses": [
+  "rejoice"
+ ],
+ "strong": "H2302",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּחַדְּ",
+      "translit": "vayyichadd",
+      "ref": "Exod.18.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִחַדְּ",
+      "translit": "yichadd",
+      "ref": "Job.3.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּחַדֵּהוּ",
+      "translit": "tchaddehu",
+      "ref": "Ps.21.7",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "make glad"
+ },
+ "notes": [
+  "Gloss collision: \"rejoice\" is an exact duplicate of the existing שמח (H8055) primary gloss, and overlaps with גיל (H1523, \"rejoice; tremble\") -- distinct roots, disambiguating search alias added."
+ ],
+ "root": "חדה",
+ "search_match": [
+  "2302",
+  "h2302",
+  "rejoice (chadah)",
+  "chadah",
+  "חדה"
+ ],
+ "citation_translit": "chadah",
+ "stem_coverage_checked": true
+}

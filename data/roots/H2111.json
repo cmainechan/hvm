@@ -1,0 +1,49 @@
+{
+ "glosses": [
+  "tremble"
+ ],
+ "strong": "H2111",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "שֶׁיָּזֻעוּ",
+      "translit": "sheyyazuu",
+      "ref": "Eccl.12.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "זָע",
+      "translit": "za",
+      "ref": "Esth.5.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Pilpel (\"shake violently; agitate\") was requested but has no attested form anywhere in the corpus -- excluded per the no-uncited-glosses rule, confirmed with the person. Only qal is attested."
+ ],
+ "root": "זוע",
+ "search_match": [
+  "2111",
+  "h2111",
+  "tremble",
+  "zua",
+  "זוע"
+ ],
+ "citation_translit": "zua",
+ "stem_coverage_checked": true
+}

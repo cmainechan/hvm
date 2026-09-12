@@ -1,0 +1,44 @@
+{
+ "glosses": [
+  "be fixed; be appointed"
+ ],
+ "strong": "H2163",
+ "stems": {
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְזֻמָּנִים",
+      "translit": "mzummanim",
+      "ref": "Ezra.10.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "מְזֻמָּנוֹת",
+      "translit": "mzummanot",
+      "ref": "Neh.13.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "זמן",
+ "search_match": [
+  "2163",
+  "h2163",
+  "be fixed; be appointed",
+  "zaman",
+  "זמן"
+ ],
+ "citation_translit": "zaman",
+ "stem_coverage_checked": true
+}

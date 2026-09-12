@@ -1,0 +1,71 @@
+{
+ "glosses": [
+  "press; squeeze; crush"
+ ],
+ "strong": "H2115",
+ "stems": {
+  "qal_passive": {
+   "sense_hint": "passive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "זֹרוּ",
+      "translit": "zoru",
+      "ref": "Isa.1.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּזוּרֶהָ",
+      "translit": "tzureha",
+      "ref": "Job.39.15",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּזַר",
+      "translit": "vayyazar",
+      "ref": "Judg.6.38",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "qal_passive": "be pressed out; be closed (of a wound)"
+ },
+ "notes": [
+  "True homograph of the existing H2114 (\"become estranged\"), both spelled זור -- added as זור² per the ascending-Strong's-number superscript convention; H2114 is retroactively renamed זור¹ in this same batch.",
+  "Qal passive (Isa.1.6, זֹרוּ, \"[wounds] have not been closed\") is attested but wasn't part of the original request -- added per the full-stem-coverage check. This is a rare stem (internal passive of qal, letter 'Q') -- flagged per the maintenance guide's \"capture rare stems\" requirement.",
+  "Gloss collision: shares \"squeeze\" with the existing לחץ (H3905, \"squeeze; oppress\") -- distinct roots, disambiguating search alias added."
+ ],
+ "root": "זור²",
+ "search_match": [
+  "2115",
+  "h2115",
+  "press; squeeze; crush (zur)",
+  "zur",
+  "זור²"
+ ],
+ "citation_translit": "zur",
+ "stem_coverage_checked": true
+}

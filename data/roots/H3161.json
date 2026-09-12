@@ -1,0 +1,70 @@
+{
+ "glosses": [
+  "be united"
+ ],
+ "strong": "H3161",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "jussive": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֵּחַד",
+      "translit": "techad",
+      "ref": "Gen.49.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תֵחַד",
+      "translit": "techad",
+      "ref": "Isa.14.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "יַחֵד",
+      "translit": "yached",
+      "ref": "Ps.86.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "unite"
+ },
+ "notes": [
+  "Gloss collision: piel \"unite\" is an exact duplicate of the existing חבר (H2266) primary gloss -- distinct roots, disambiguating search alias added."
+ ],
+ "root": "יחד",
+ "search_match": [
+  "3161",
+  "h3161",
+  "be united",
+  "unite (yachad)",
+  "yachad",
+  "יחד"
+ ],
+ "citation_translit": "yachad",
+ "stem_coverage_checked": true
+}

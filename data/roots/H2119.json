@@ -1,0 +1,38 @@
+{
+ "glosses": [
+  "crawl; shrink back; fear"
+ ],
+ "strong": "H2119",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "זָחַלְתִּי",
+      "translit": "zachalti",
+      "ref": "Job.32.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Single-attestation root: the entire corpus has exactly one occurrence of this root (Job.32.6, זָחַלְתִּי, \"I was afraid\"), supporting the \"fear\" sense specifically -- \"crawl\" isn't independently attested, but is kept as descriptive elaboration of the same lexical entry rather than a separately-sourced sense."
+ ],
+ "root": "זחל",
+ "search_match": [
+  "2119",
+  "h2119",
+  "crawl; shrink back; fear",
+  "zachal",
+  "זחל"
+ ],
+ "citation_translit": "zachal",
+ "stem_coverage_checked": true
+}

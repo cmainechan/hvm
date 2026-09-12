@@ -60,13 +60,16 @@
   "niphal": "be estranged",
   "hophal": "be a stranger; be alienated"
  },
- "root": "זור",
+ "notes": [
+  "Retroactively renamed from the plain key \"זור\" to \"זור¹\" when H2115 (\"press; squeeze; crush\") was added to the dataset as \"זור²\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
+ ],
+ "root": "זור¹",
  "search_match": [
   "2114",
   "h2114",
   "become estranged",
   "zur",
-  "זור"
+  "זור¹"
  ],
  "citation_translit": "zur",
  "stem_coverage_checked": true

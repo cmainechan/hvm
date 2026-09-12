@@ -82,13 +82,16 @@
    }
   }
  },
- "root": "זמר",
+ "notes": [
+  "Retroactively renamed from the plain key \"זמר\" to \"זמר¹\" when H2168 (\"prune; trim\") was added to the dataset as \"זמר²\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
+ ],
+ "root": "זמר¹",
  "search_match": [
   "2167",
   "h2167",
   "make music",
   "zamar",
-  "זמר"
+  "זמר¹"
  ],
  "citation_translit": "zamar",
  "stem_coverage_checked": true

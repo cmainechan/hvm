@@ -1,0 +1,59 @@
+{
+ "glosses": [
+  "reproach; put to shame"
+ ],
+ "strong": "H2616",
+ "stems": {
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּתְחַסָּד",
+      "translit": "titchassad",
+      "ref": "2Sam.22.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְחַסֶּדְךָ",
+      "translit": "ychassedkha",
+      "ref": "Prov.25.10",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hitpael": "show oneself kind"
+ },
+ "notes": [
+  "No qal attested for this root; piel is treated as primary (STEM_ORDER already defaults to piel over hitpael here, no override needed)."
+ ],
+ "root": "חסד",
+ "search_match": [
+  "2616",
+  "h2616",
+  "reproach; put to shame",
+  "show oneself kind",
+  "chasad",
+  "חסד"
+ ],
+ "citation_translit": "chasad",
+ "stem_coverage_checked": true
+}
