@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "mutilate; sharpen; decide"
+  "decide"
  ],
  "strong": "H2782",
  "stems": {
@@ -41,7 +41,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -69,11 +70,12 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "niphal": "be decisive; be decreed"
+  "niphal": "be decreed"
  },
  "root": "חרץ",
  "search_match": [

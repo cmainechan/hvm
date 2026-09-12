@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "shoot; cast"
+  "shoot"
  ],
  "strong": "H3034",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",

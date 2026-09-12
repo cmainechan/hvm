@@ -41,7 +41,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pealal": {
    "sense_hint": "intensive/reduplicated",
@@ -58,11 +59,12 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "pealal": "be in a turmoil; be reddened"
+  "pealal": "be reddened"
  },
  "root": "חמר",
  "search_match": [

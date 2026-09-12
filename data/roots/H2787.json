@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "be hot; burn"
+  "burn"
  ],
  "strong": "H2787",
  "stems": {
@@ -30,7 +30,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -69,7 +70,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pilpel": {
    "sense_hint": "intensive",
@@ -90,7 +92,7 @@
   }
  },
  "stem_glosses": {
-  "niphal": "be burned; be parched",
+  "niphal": "be burned",
   "pilpel": "to incite strife"
  },
  "root": "חרר",

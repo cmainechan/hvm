@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "treat violently; defraud"
+  "treat violently"
  ],
  "strong": "H3238",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -105,7 +106,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "notes": [
@@ -120,5 +122,8 @@
   "ינה"
  ],
  "citation_translit": "yanah",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "stem_glosses": {
+  "hiphil": "treat violently; defraud"
+ }
 }

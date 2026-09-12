@@ -75,12 +75,13 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
   "pual": "be sunk",
-  "hophal": "be sunk; be settled"
+  "hophal": "be sunk"
  },
  "notes": [
   "Requested stem \"hiphil\" (gloss \"be sunk; be settled\") is passive in meaning, which doesn't fit an active hiphil -- the actually-attested stem for this sense is hophal (3 forms, e.g. Jer.38.22 \"thy feet are sunk in the mire\"; Prov.8.25 \"before the mountains were settled\"). Shipped as hophal."

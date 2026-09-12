@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "search for; think out; test"
+  "search for"
  ],
  "strong": "H2664",
  "stems": {
@@ -50,7 +50,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",

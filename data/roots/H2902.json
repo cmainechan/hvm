@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "coat; overlay (with clay/gold)"
+  "overlay (with clay/gold)"
  ],
  "strong": "H2902",
  "stems": {
@@ -52,7 +52,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",

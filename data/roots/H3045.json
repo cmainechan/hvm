@@ -571,7 +571,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pual": {
    "sense_hint": "passive",
@@ -588,7 +589,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -871,8 +873,8 @@
  "stem_glosses": {
   "hiphil": "make known",
   "niphal": "be known",
-  "piel": "cause to know; appoint",
-  "pual": "acquaintance; kinsman",
+  "piel": "cause to know",
+  "pual": "kinsman",
   "hophal": "be made known",
   "hitpael": "make oneself known",
   "poel": "appoint, direct"

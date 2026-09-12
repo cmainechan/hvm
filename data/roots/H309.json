@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "delay; stay behind"
+  "delay"
  ],
  "strong": "H309",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -105,7 +106,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -122,11 +124,12 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "hiphil": "hinder; keep back"
+  "hiphil": "keep back"
  },
  "root": "אחר",
  "search_match": [
@@ -137,5 +140,8 @@
   "אחר"
  ],
  "citation_translit": "achar",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Hiphil's sole citation (2Sam.20.5, \"vayyocher min-hammoed\", \"he was late/tarried beyond the appointed time\") shows Amasa's own tardiness (an intransitive \"delay\", matching qal/piel), not a transitive \"hinder [someone else] / keep [someone else] back\" -- neither current clause is a clean fit. Kept \"keep back\" (dropping \"hinder\" as the redundant synonym) since it stretches more naturally to a passive/intransitive reading, but this stem's gloss may be worth reconsidering entirely."
+ ]
 }

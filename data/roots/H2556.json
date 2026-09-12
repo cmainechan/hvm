@@ -70,11 +70,12 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "hitpael": "be soured; be embittered"
+  "hitpael": "be embittered"
  },
  "notes": [
   "BDB actually treats חמץ as three separate homonymous roots (I \"be sour/leavened\", II \"be red\" -- no citation given at all, III \"be ruthless\", attested only Ps.71.4 qal participle), but Strong's own lexicon merges all three under this single number H2556 (\"to be pungent...in taste...or in color, dazzling\"). Kept as one file per Strong's grouping. Requested gloss \"be red\" was dropped: it has zero attestation anywhere in the corpus and no citation even in BDB, which lists it as a separate, uncited sense."

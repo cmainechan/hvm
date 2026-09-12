@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "search; examine thoroughly"
+  "search"
  ],
  "strong": "H2713",
  "stems": {
@@ -139,7 +139,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",

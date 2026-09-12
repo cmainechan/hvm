@@ -134,7 +134,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -155,7 +156,7 @@
   }
  },
  "stem_glosses": {
-  "piel": "defy; taunt",
+  "piel": "defy",
   "niphal": "be betrothed"
  },
  "root": "חרף",

@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "spotted, variegated (sheep/goats)"
+  "spotted, variegated"
  ],
  "strong": "H2921",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pual": {
    "sense_hint": "passive/intensive (participle only)",
