@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "cover; atone"
+  "cover"
  ],
  "strong": "H3722",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -147,7 +148,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pual": {
    "sense_hint": "passive-intensive",
@@ -233,7 +235,7 @@
   }
  },
  "stem_glosses": {
-  "piel": "cover; atone",
+  "piel": "atone",
   "pual": "be atoned for",
   "hitpael": "be atoned for",
   "nithpael": "be atoned for"

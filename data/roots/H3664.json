@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "gather; collect (people, wealth, stones)"
+  "collect (people, wealth, stones)"
  ],
  "strong": "H3664",
  "stems": {
@@ -52,7 +52,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -97,12 +98,13 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
   "piel": "gather together (persons)",
-  "hitpael": "wrap oneself; curl up (to fit under a covering)"
+  "hitpael": "wrap oneself"
  },
  "notes": [
   "Requested hitpael gloss \"hide oneself away\" doesn't match its sole citation, Isa.28.20 (\"כְּהִתְכַּנֵּס\", of a blanket too narrow \"to wrap oneself in\" -- about not fitting, not concealment), which instead matches the lexicon's own secondary sense \"to enfold... wrap self\". Corrected."

@@ -36,7 +36,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -153,7 +154,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hitpael": {
    "sense_hint": "reflexive/reciprocal",
@@ -170,13 +172,14 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "niphal": "cringe; feign obedience",
-  "piel": "deceive; cringe; disappoint; fail",
-  "hitpael": "cringe; feign obedience"
+  "niphal": "cringe",
+  "piel": "deceive; cringe; fail",
+  "hitpael": "cringe"
  },
  "root": "כחש",
  "search_match": [

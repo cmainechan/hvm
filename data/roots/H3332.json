@@ -148,7 +148,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -176,7 +177,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hophal": {
    "sense_hint": "passive-causative",
@@ -219,7 +221,7 @@
   }
  },
  "stem_glosses": {
-  "hiphil": "pour; cast; set down",
+  "hiphil": "pour; set down",
   "hophal": "be poured out"
  },
  "root": "יצק",

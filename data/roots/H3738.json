@@ -97,7 +97,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -121,7 +122,8 @@
   "niphal": "be dug"
  },
  "notes": [
-  "Requested qal sense \"give a feast\" is not attested under H3738 in the corpus. Its only textual support (2Kgs.6.23, וַיִּכְרֶה לָהֶם כֵּרָה גְדוֹלָה, \"he prepared them a great feast\") is tagged by OSHB under a separate Strong's number, H3739 -- which Strong's own cross-reference calls \"probably only a special application of 3738\" (same historical root, split number). Left out of glosses pending a decision on whether to model H3739 separately; \"buy\" is retained since its own citation (Job.6.27, וְתִכְרוּ עַל רֵיעֲכֶם, \"bargain over your friend\") is tagged '3738 b' -- a homonym-letter sub-sense of this same number, not a different one."
+  "Requested qal sense \"give a feast\" is not attested under H3738 in the corpus. Its only textual support (2Kgs.6.23, וַיִּכְרֶה לָהֶם כֵּרָה גְדוֹלָה, \"he prepared them a great feast\") is tagged by OSHB under a separate Strong's number, H3739 -- which Strong's own cross-reference calls \"probably only a special application of 3738\" (same historical root, split number). Left out of glosses pending a decision on whether to model H3739 separately; \"buy\" is retained since its own citation (Job.6.27, וְתִכְרוּ עַל רֵיעֲכֶם, \"bargain over your friend\") is tagged '3738 b' -- a homonym-letter sub-sense of this same number, not a different one.",
+  "The sole citation offered for \"buy\" (Job.40.30, \"yikhru alav chabbarim\") is a genuinely contested crux -- some render it \"will traders bargain/buy over him\" (supporting \"buy\"), others \"will partners share/portion him out\" (a different sense entirely, closer to \"divide\"). Kept as a real but uncertain attestation rather than resolve a scholarly dispute myself; worth a second look."
  ],
  "root": "כרה",
  "search_match": [

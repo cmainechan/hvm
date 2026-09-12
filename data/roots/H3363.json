@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "be dislocated (of a joint); be torn away"
+  "be torn away"
  ],
  "strong": "H3363",
  "stems": {
@@ -30,7 +30,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",

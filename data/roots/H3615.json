@@ -413,7 +413,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pual": {
    "sense_hint": "passive-intensive",
@@ -441,12 +442,13 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
   "piel": "finish; consume",
-  "pual": "be completed; consumed"
+  "pual": "be completed"
  },
  "root": "כלה",
  "search_match": [
