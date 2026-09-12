@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "break; deal (bread)"
+  "break (bread)"
  ],
  "strong": "H6536",
  "stems": {
@@ -30,7 +30,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -87,11 +88,12 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "hiphil": "divide; have cloven hoofs"
+  "hiphil": "have cloven hoofs"
  },
  "root": "פרס",
  "search_match": [

@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "make distinct; declare clearly"
+  "declare clearly"
  ],
  "strong": "H6567",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -64,7 +65,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -81,13 +83,14 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
   "niphal": "be separated",
-  "pual": "be distinctly declared; be made clear",
-  "hiphil": "pierce; sting"
+  "pual": "be made clear",
+  "hiphil": "sting"
  },
  "root": "פרש²",
  "search_match": [

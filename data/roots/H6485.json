@@ -370,7 +370,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -413,7 +414,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -629,7 +631,7 @@
   "piel": "muster",
   "hiphil": "appoint",
   "hophal": "be appointed",
-  "pual": "be mustered; be numbered",
+  "pual": "be numbered",
   "hitpael": "muster themselves",
   "hothpaal": "be mustered, numbered"
  },

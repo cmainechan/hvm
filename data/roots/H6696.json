@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "confine; show hostility; fashion"
+  "confine; show hostility"
  ],
  "strong": "H6696",
  "stems": {
@@ -123,7 +123,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -166,5 +167,8 @@
  "stem_coverage_checked": true,
  "stem_glosses": {
   "hiphil": "besiege, distress"
- }
+ },
+ "notes": [
+  "\"Fashion\" (a homonym sense, \"to form/shape\") has no citation among this stem's shipped forms -- all ten citations show either literal military siege (\"confine\") or general adversarial hostility, so dropped."
+ ]
 }

@@ -50,7 +50,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -78,7 +79,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -175,7 +177,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pual": {
    "sense_hint": "passive-intensive",
@@ -192,7 +195,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -213,9 +217,9 @@
   }
  },
  "stem_glosses": {
-  "niphal": "be deceived; be persuaded",
-  "piel": "persuade; deceive",
-  "pual": "be persuaded; be deceived",
+  "niphal": "be deceived",
+  "piel": "persuade",
+  "pual": "be deceived",
   "hiphil": "enlarge"
  },
  "root": "פתה",

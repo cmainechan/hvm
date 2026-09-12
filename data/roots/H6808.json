@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "stoop; bend; incline; tip"
+  "bend; tip"
  ],
  "strong": "H6808",
  "stems": {
@@ -37,7 +37,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -54,11 +55,12 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "piel": "tip over; empty out"
+  "piel": "tip over"
  },
  "root": "צעה",
  "search_match": [

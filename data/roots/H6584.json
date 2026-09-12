@@ -128,7 +128,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -273,7 +274,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hitpael": {
    "sense_hint": "reflexive/reciprocal",
@@ -295,7 +297,8 @@
  },
  "stem_glosses": {
   "piel": "strip",
-  "hitpael": "strip oneself of"
+  "hitpael": "strip oneself of",
+  "hiphil": "strip off"
  },
  "root": "פשט",
  "search_match": [
@@ -306,5 +309,8 @@
   "פשט"
  ],
  "citation_translit": "pashat",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Hiphil's own 12 citations are exclusively about stripping off clothing/skin/armor -- \"raid, make an invasion\" (well attested for qal's own citations) has no support in hiphil's shipped forms, so hiphil now has its own override rather than sharing qal's root-level text."
+ ]
 }

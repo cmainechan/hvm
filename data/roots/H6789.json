@@ -79,7 +79,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -153,7 +154,7 @@
  "stem_glosses": {
   "niphal": "be annihilated",
   "piel": "put an end to",
-  "pilpel": "exterminate; annihilate",
+  "pilpel": "annihilate",
   "hiphil": "exterminate"
  },
  "notes": [

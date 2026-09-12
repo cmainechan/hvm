@@ -116,7 +116,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -133,7 +134,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -161,11 +163,12 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "niphal": "be let loose; be unrestrained",
+  "niphal": "be unrestrained",
   "hiphil": "cause to refrain; loose restraints"
  },
  "root": "פרע",

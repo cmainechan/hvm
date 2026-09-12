@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "thrust; stir"
+  "stir"
  ],
  "strong": "H6470",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
