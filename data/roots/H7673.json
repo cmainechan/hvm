@@ -141,7 +141,8 @@
      }
     ]
    },
-   "gloss_verified": true
+   "gloss_verified": true,
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -307,12 +308,13 @@
      }
     ]
    },
-   "gloss_verified": true
+   "gloss_verified": true,
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
   "hiphil": "put an end to; remove",
-  "niphal": "cease; be brought to an end"
+  "niphal": "cease"
  },
  "root": "שבת",
  "search_match": [

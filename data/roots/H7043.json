@@ -68,7 +68,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -338,7 +339,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -431,7 +433,7 @@
   "niphal": "be a trifling thing",
   "piel": "curse",
   "pual": "be cursed",
-  "pilpel": "sharpen; shake, brandish",
+  "pilpel": "sharpen",
   "hithpalpel": "shake, tremble"
  },
  "notes": [

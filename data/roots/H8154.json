@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "plunder; plunderers"
+  "plunder"
  ],
  "strong": "H8154",
  "stems": {
@@ -52,7 +52,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "poel": {
    "sense_hint": "intensive",

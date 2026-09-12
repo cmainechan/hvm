@@ -69,7 +69,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -90,7 +91,7 @@
   }
  },
  "stem_glosses": {
-  "piel": "dance; leap",
+  "piel": "dance",
   "hiphil": "make to skip (tremble)"
  },
  "root": "רקד",

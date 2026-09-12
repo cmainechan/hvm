@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "rule; act as prince/master"
+  "rule"
  ],
  "strong": "H8323",
  "stems": {
@@ -30,7 +30,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -47,7 +48,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hitpael": {
    "sense_hint": "reflexive/reciprocal",
@@ -75,12 +77,13 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "hiphil": "appoint/make princes",
-  "hitpael": "make oneself prince; lord over"
+  "hiphil": "appoint princes",
+  "hitpael": "lord over"
  },
  "root": "שרר",
  "search_match": [

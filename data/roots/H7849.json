@@ -61,7 +61,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -78,11 +79,12 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "piel": "spread out; stretch out"
+  "piel": "stretch out"
  },
  "root": "שטח",
  "search_match": [

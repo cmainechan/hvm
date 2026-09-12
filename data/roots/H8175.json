@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "bristle with dread; sweep away; storm"
+  "bristle with dread"
  ],
  "strong": "H8175",
  "stems": {
@@ -41,7 +41,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",

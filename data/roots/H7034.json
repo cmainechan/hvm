@@ -30,7 +30,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -51,7 +52,7 @@
   }
  },
  "stem_glosses": {
-  "niphal": "be lightly esteemed; be degraded"
+  "niphal": "be lightly esteemed"
  },
  "notes": [
   "No qal attested for this root; hiphil (the causative \"treat with contempt\" sense) is used as the primary/citation stem, with niphal as its natural passive counterpart -- same pattern as H6395 פלה earlier in this project. DEFAULT_STEM_OVERRIDE added (\"קלה²\": \"hiphil\") since niphal would otherwise be picked mechanically by STEM_ORDER.",

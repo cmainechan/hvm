@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "be dark; be dull-colored"
+  "be dark"
  ],
  "strong": "H6937",
  "stems": {
@@ -68,7 +68,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -107,7 +108,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hitpael": {
    "sense_hint": "reflexive/reciprocal",
@@ -128,7 +130,7 @@
   }
  },
  "stem_glosses": {
-  "hiphil": "darken; cause to mourn",
+  "hiphil": "darken",
   "hitpael": "grow dark"
  },
  "root": "קדר",

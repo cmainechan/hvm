@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "gaze at; look about; look about in dismay"
+  "gaze at; look about in dismay"
  ],
  "strong": "H8159",
  "stems": {
@@ -137,7 +137,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",

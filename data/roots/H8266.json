@@ -74,11 +74,12 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "piel": "deal falsely; deceive"
+  "piel": "deal falsely"
  },
  "notes": [
   "Homonym check: shares consonants ש-ק-ר with H8265 (\"to ogle, blink coquettishly\"), an unrelated root. Requested gloss matches H8266 precisely (\"to cheat, i.e. be untrue\"); no cross-contamination found in the corpus tagging."

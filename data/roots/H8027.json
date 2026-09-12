@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "do a third time; divide into three parts"
+  "do a third time"
  ],
  "strong": "H8027",
  "stems": {
@@ -41,7 +41,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pual": {
    "sense_hint": "passive/intensive",

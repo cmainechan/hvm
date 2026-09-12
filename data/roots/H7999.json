@@ -50,7 +50,8 @@
      }
     ]
    },
-   "gloss_verified": true
+   "gloss_verified": true,
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -254,7 +255,8 @@
      }
     ]
    },
-   "gloss_verified": true
+   "gloss_verified": true,
+   "gloss_trim_checked": true
   },
   "pual": {
    "sense_hint": "passive-intensive",
@@ -282,7 +284,8 @@
      }
     ]
    },
-   "gloss_verified": true
+   "gloss_verified": true,
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -379,7 +382,7 @@
  },
  "stem_glosses": {
   "piel": "repay; complete, finish",
-  "pual": "be made whole; be devoted",
+  "pual": "be made whole",
   "hiphil": "make peace",
   "hophal": "be at peace"
  },

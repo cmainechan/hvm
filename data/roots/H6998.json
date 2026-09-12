@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "pluck off/out"
+  "pluck off"
  ],
  "strong": "H6998",
  "stems": {
@@ -52,7 +52,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",

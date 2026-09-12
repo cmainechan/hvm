@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "come; arrive"
+  "come"
  ],
  "strong": "H857",
  "stems": {
@@ -110,7 +110,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",

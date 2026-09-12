@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "laugh; sport"
+  "laugh"
  ],
  "strong": "H7832",
  "stems": {
@@ -99,7 +99,8 @@
      }
     ]
    },
-   "gloss_verified": true
+   "gloss_verified": true,
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
