@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "cast; shoot"
+  "cast"
  ],
  "strong": "H7411",
  "stems": {
@@ -30,7 +30,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -58,11 +59,12 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "piel": "beguile; deceive"
+  "piel": "deceive"
  },
  "notes": [
   "Qal's only usable (absolute-state) participle_active attestation, Num.15.30 (\"בְּיָד רָמָה\", \"with a high/defiant hand\"), is tagged by OSHB under the homonym-letter sub-sense \"7411 b\" alongside the piel \"deceive\" forms, rather than sub-sense \"a\" (literal cast/throw/shoot, e.g. Exod.15.1/21, Ps.19 construct participle). Included per the standing rule of keeping same-number homonym-letter sub-senses together; the qal perfect forms (Exod.15.1, 15.21, \"hath thrown the horse and rider into the sea\") independently confirm the literal \"cast\" sense."

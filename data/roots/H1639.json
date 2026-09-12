@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "diminish; restrain; withdraw"
+  "diminish"
  ],
  "strong": "H1639",
  "stems": {
@@ -90,7 +90,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -147,7 +148,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",

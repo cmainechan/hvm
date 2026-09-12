@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "be boastful; be foolish"
+  "be boastful"
  ],
  "strong": "H1984",
  "stems": {
@@ -30,7 +30,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -480,7 +481,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hithpolel": {
    "sense_hint": "reflexive/reciprocal",
@@ -530,7 +532,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "poal": {
    "sense_hint": "passive (intensive)",
@@ -555,7 +558,7 @@
   "hitpael": "boast",
   "piel": "praise",
   "pual": "be praised",
-  "poel": "make mad; make foolish",
+  "poel": "make mad",
   "hithpolel": "act like a madman; rage",
   "poal": "be foolish, mad"
  },

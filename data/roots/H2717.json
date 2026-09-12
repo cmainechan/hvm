@@ -119,7 +119,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -241,7 +242,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hophal": {
    "sense_hint": "passive-causative",
@@ -280,14 +282,15 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
   "niphal": "be made desolate",
   "pual": "be dried up",
   "hiphil": "lay waste; dry up",
-  "hophal": "be laid waste; be dried up"
+  "hophal": "be laid waste"
  },
  "root": "חרב",
  "search_match": [

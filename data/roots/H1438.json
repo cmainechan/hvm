@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "hew; chop in two"
+  "hew"
  ],
  "strong": "H1438",
  "stems": {
@@ -52,7 +52,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",

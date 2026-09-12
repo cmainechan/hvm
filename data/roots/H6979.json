@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "bore; dig"
+  "dig"
  ],
  "strong": "H6979",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -47,7 +48,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pilpel": {
    "sense_hint": "intensive (reduplicated)",
@@ -68,7 +70,7 @@
   }
  },
  "stem_glosses": {
-  "hiphil": "make/keep cool",
+  "hiphil": "keep cool",
   "pilpel": "tear down (dubious)"
  },
  "notes": [

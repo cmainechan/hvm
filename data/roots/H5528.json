@@ -47,7 +47,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "simple (stative)",
@@ -68,7 +69,7 @@
   }
  },
  "stem_glosses": {
-  "piel": "make foolish; turn into foolishness",
+  "piel": "make foolish",
   "hiphil": "do foolishly"
  },
  "notes": [

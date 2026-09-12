@@ -58,7 +58,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -86,7 +87,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -103,13 +105,14 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "niphal": "come down into; penetrate (arrows)",
+  "niphal": "penetrate (arrows)",
   "piel": "press down; stretch (a bow)",
-  "hiphil": "bring down; prostrate"
+  "hiphil": "bring down"
  },
  "root": "נחת",
  "search_match": [
@@ -120,5 +123,8 @@
   "נחת"
  ],
  "citation_translit": "nachat",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Niphal's yiqtol citation (1Sam.2.10, \"yechattu\", \"the adversaries of the LORD shall be broken\") shows the \"be broken\" sense listed in Strong's own usage note for this root, not the \"penetrate\" sense the gloss describes (independently attested by the perfect, Ps.38.3, \"thine arrows have sunk/stuck fast in me\"). Kept per the standing rule of keeping same-number sense variants together; worth a second look if this stem's gloss is revisited."
+ ]
 }

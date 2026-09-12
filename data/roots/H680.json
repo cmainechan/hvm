@@ -50,7 +50,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -67,11 +68,12 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "niphal": "be withdrawn; be shortened"
+  "niphal": "be withdrawn"
  },
  "notes": [
   "Requested hiphil (\"set apart\") is not attested -- only qal and niphal are attested in the corpus for this Strong's number (4 qal forms, 1 niphal form). BDB's own entry gives no separate citation for hiphil, only the terse note \"Hiph. = Qal\" (i.e. BDB itself doesn't distinguish a separate hiphil sense or cite a hiphil-specific verse). Dropped per \"no uncited glosses.\""

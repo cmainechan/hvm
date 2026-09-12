@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "be shrewd; act craftily"
+  "act craftily"
  ],
  "strong": "H6191",
  "stems": {
@@ -30,7 +30,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -47,11 +48,12 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "hiphil": "be/become shrewd; make crafty"
+  "hiphil": "be/become shrewd"
  },
  "root": "ערם",
  "search_match": [

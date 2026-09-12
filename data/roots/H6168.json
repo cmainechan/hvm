@@ -19,7 +19,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -100,7 +101,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -117,7 +119,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hitpael": {
    "sense_hint": "reflexive/reciprocal",
@@ -149,8 +152,8 @@
   }
  },
  "stem_glosses": {
-  "niphal": "be poured out; be exposed",
-  "hiphil": "strip bare (of sexual offenses); pour out",
+  "niphal": "be poured out",
+  "hiphil": "pour out",
   "hitpael": "expose oneself"
  },
  "root": "ערה",

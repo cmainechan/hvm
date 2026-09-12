@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "be wounded; be pierced"
+  "be pierced"
  ],
  "strong": "H2490",
  "stems": {
@@ -30,7 +30,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -336,7 +337,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pual": {
    "sense_hint": "passive-intensive",
@@ -581,7 +583,7 @@
   }
  },
  "stem_glosses": {
-  "piel": "defile; pollute",
+  "piel": "defile",
   "hiphil": "begin ",
   "niphal": "be profaned",
   "pual": "be profaned",
@@ -598,5 +600,8 @@
   "חלל"
  ],
  "citation_translit": "chalal",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Qal's participle_active citation (Ps.87.7, \"kcholelim\") is tagged by OSHB under a different homonym sub-sense (\"2490 b\", singers/pipers -- \"as well the singers as the players on instruments\") than the qal perfect's \"pierced\" sense (\"2490 a\", Ps.109.22, \"my heart is wounded/pierced within me\"); kept per the standing rule of keeping same-number homonym-letter sub-senses together, but it doesn't independently support the gloss. Piel's participle_active citation 1Kgs.1.40 (\"mchalllim\", \"piping with pipes\") is likewise tagged under the pipe/flute-play homonym sub-sense rather than the \"defile\" sense the rest of piel's many citations (e.g. Ezek.24.21, Lev.21.9) independently support."
+ ]
 }
