@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "start up; spring up"
+  "start up"
  ],
  "strong": "H5425",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -86,12 +87,13 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
   "piel": "leap (of locust legs)",
-  "hiphil": "cause to start up; set free"
+  "hiphil": "set free"
  },
  "root": "נתר",
  "search_match": [

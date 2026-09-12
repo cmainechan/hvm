@@ -63,7 +63,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -80,11 +81,12 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "hiphil": "make firm; strengthen"
+  "hiphil": "make firm"
  },
  "root": "עזז",
  "search_match": [

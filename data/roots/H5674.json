@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "pass; cross over"
+  "pass"
  ],
  "strong": "H5674",
  "stems": {
@@ -379,7 +379,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -424,7 +425,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -707,7 +709,7 @@
   }
  },
  "stem_glosses": {
-  "piel": "impregnate; transgress",
+  "piel": "impregnate; cause to pass across",
   "hiphil": "cause to pass",
   "hitpael": "be furious, be angry",
   "niphal": "be crossed"
@@ -721,5 +723,8 @@
   "עבר"
  ],
  "citation_translit": "avar",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Piel's second clause (\"transgress\") was a misattribution -- its sole citation (1Kgs.6.21, chains of gold drawn/stretched across the oracle) shows the causative \"pass across\" sense, not moral transgression; corrected to match."
+ ]
 }

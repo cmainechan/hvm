@@ -50,7 +50,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -67,15 +68,17 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "niphal": "be let loose; be dismissed"
+  "niphal": "be dismissed"
  },
  "notes": [
   "BDB lists qal in three senses: (1) \"go free, be unrestrained\" (2) of overhanging stuffs, i.e. overrunning/exceeding/extended beyond limits. The corpus's own qal attestations (Ezek.17.6 \"spreading\" vine branches, Exod.26.12-13 the tabernacle curtain that \"overhangs,\" Amos.6.4/6.7 those \"sprawled\" on their couches) all illustrate sense (2) only. Requested gloss \"go free\" was dropped: it has no citable verse in this dataset distinct from the overhang/sprawl sense, even though it's BDB's own primary listed sense for the root.",
-  "Niphal has a single, textually contested attestation (Jer.49.7, נִסְרְחָה, of Edom's wisdom). BDB itself glosses it with a question mark: \"is their wisdom let loose (i.e. dismissed, gone)?; but is corrupt\" -- offering two competing readings. The gloss \"be let loose; be dismissed\" quotes BDB's primary offered reading verbatim; flagging as single-attestation/contested per usual practice."
+  "Niphal has a single, textually contested attestation (Jer.49.7, נִסְרְחָה, of Edom's wisdom). BDB itself glosses it with a question mark: \"is their wisdom let loose (i.e. dismissed, gone)?; but is corrupt\" -- offering two competing readings. The gloss \"be let loose; be dismissed\" quotes BDB's primary offered reading verbatim; flagging as single-attestation/contested per usual practice.",
+  "Niphal's sole citation (Jer.49.7, \"has their wisdom vanished?\") doesn't clearly match either \"be let loose\" or \"be dismissed\" -- kept the closer of the two (\"be dismissed\", as in wisdom having departed) but flagging as genuinely uncertain given the single, debated citation."
  ],
  "root": "סרח",
  "search_match": [

@@ -101,7 +101,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "poal": {
    "sense_hint": "passive-intensive",
@@ -184,7 +185,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hithpolel": {
    "sense_hint": "reflexive/reciprocal",
@@ -201,13 +203,14 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
   "poal": "be severely dealt with",
-  "hitpael": "busy oneself; act ruthlessly",
-  "hithpolel": "busy oneself; act ruthlessly"
+  "hitpael": "act ruthlessly",
+  "hithpolel": "busy oneself"
  },
  "root": "עלל",
  "search_match": [

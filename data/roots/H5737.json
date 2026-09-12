@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "help; keep rank (in battle)"
+  "help"
  ],
  "strong": "H5737",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
@@ -58,7 +59,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -84,7 +86,8 @@
  },
  "notes": [
   "Qal's sole citation (1Chr.12.34, of Zebulun's troops) is OSHB's homonym-letter sub-sense \"a\" (\"to arrange, as a battle... hence, to muster\"), matching the lexicon's \"keep (rank)\" usage more precisely than \"help\" alone -- broadened the gloss to keep both.",
-  "Niphal has a second, attested-but-unrequested sub-sense beyond \"be lacking\": OSHB tags Isa.5.6 and Isa.7.25 (\"it shall not be pruned nor hoed\"; \"which shall be hoed with the mattock\") as sub-sense \"b\" (\"to arrange... a vineyard, to hoe\"), distinct from sub-sense \"c\" (the \"be lacking/fail\" forms actually requested, e.g. Isa.34.16, 40.26, Zeph.3.5). Included alongside \"be lacking\" per the standing rule of keeping same-number homonym-letter sub-senses together."
+  "Niphal has a second, attested-but-unrequested sub-sense beyond \"be lacking\": OSHB tags Isa.5.6 and Isa.7.25 (\"it shall not be pruned nor hoed\"; \"which shall be hoed with the mattock\") as sub-sense \"b\" (\"to arrange... a vineyard, to hoe\"), distinct from sub-sense \"c\" (the \"be lacking/fail\" forms actually requested, e.g. Isa.34.16, 40.26, Zeph.3.5). Included alongside \"be lacking\" per the standing rule of keeping same-number homonym-letter sub-senses together.",
+  "Qal's sole citation (1Chr.12.34) is ambiguous between \"help\" and \"keep rank (in battle)\" with no clear textual signal favoring the military-formation reading; kept the more conservative \"help\" (BDB's primary sense for this root) and flagging as uncertain given the single citation."
  ],
  "root": "עדר",
  "search_match": [

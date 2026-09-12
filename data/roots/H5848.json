@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "cover; faint, be feeble, be overwhelmed"
+  "cover; grow faint"
  ],
  "strong": "H5848",
  "stems": {
@@ -50,7 +50,8 @@
       "has_prefix": true
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hitpael": {
    "sense_hint": "reflexive/reciprocal",
@@ -89,7 +90,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -127,7 +129,7 @@
   }
  },
  "stem_glosses": {
-  "hitpael": "grow faint/feeble",
+  "hitpael": "grow faint",
   "hiphil": "be feeble",
   "niphal": "faint"
  },

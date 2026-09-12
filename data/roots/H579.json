@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "cause/allow to meet; bring about"
+  "bring about"
  ],
  "strong": "H579",
  "stems": {
@@ -19,7 +19,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "pual": {
    "sense_hint": "passive/intensive",
@@ -45,7 +46,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hitpael": {
    "sense_hint": "reflexive/reciprocal",
@@ -62,12 +64,13 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   }
  },
  "stem_glosses": {
-  "pual": "be allowed to meet; befall",
-  "hitpael": "seek occasion; pick a quarrel"
+  "pual": "befall",
+  "hitpael": "seek a quarrel"
  },
  "root": "אנה",
  "search_match": [

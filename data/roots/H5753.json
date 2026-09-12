@@ -45,7 +45,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "piel": {
    "sense_hint": "intensive",
@@ -73,7 +74,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "hiphil": {
    "sense_hint": "causative",
@@ -143,8 +145,8 @@
   }
  },
  "stem_glosses": {
-  "niphal": "be bent; twisted",
-  "piel": "twist; distort",
+  "niphal": "be bent",
+  "piel": "twist",
   "hiphil": "do perversely"
  },
  "root": "עוה",

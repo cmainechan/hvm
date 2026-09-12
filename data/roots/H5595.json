@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "sweep away; be snatched away"
+  "sweep away"
  ],
  "strong": "H5595",
  "stems": {
@@ -61,7 +61,8 @@
       "has_prefix": false
      }
     ]
-   }
+   },
+   "gloss_trim_checked": true
   },
   "niphal": {
    "sense_hint": "passive/reflexive",
