@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "consider"
+  "pass between"
  ],
  "strong": "H6448",
  "stems": {
@@ -27,10 +27,13 @@
  "search_match": [
   "6448",
   "h6448",
-  "consider (pasag)",
+  "pass between (pasag)",
   "pasag",
   "פסג"
  ],
  "citation_translit": "pasag",
+ "notes": [
+  "Gloss changed from \"consider\" to \"pass between\": the citation (Ps.48.14, פַּסְּגוּ אַרְמְנוֹתֶיהָ) sits among a run of physical imperatives (walk about Zion, count her towers, go through/among her palaces), so a motion sense fits the context better than the mental \"consider\" this root was originally shipped with. Both readings exist across translation traditions (Strong's own gloss chain runs \"cut up\" -> \"contemplate\" -> \"consider\"); revised per confirmation."
+ ],
  "stem_coverage_checked": true
 }

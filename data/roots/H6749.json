@@ -1,0 +1,40 @@
+{
+ "glosses": [
+  "sink"
+ ],
+ "strong": "H6749",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "צָֽלֲלוּ",
+      "translit": "tzalalu",
+      "ref": "Exod.15.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "צלל³",
+ "search_match": [
+  "6749",
+  "h6749",
+  "sink (tzalal)",
+  "tzalal",
+  "צלל³"
+ ],
+ "citation_translit": "tzalal",
+ "notes": [
+  "Triple homonym: shares consonants צלל with already-shipped H6750 (\"tingle; quiver\", צלל¹) and H6751 (\"grow dark\", צלל²). Both of those roots' own notes already anticipated this root's arrival and named it צלל³ in advance (ascending-Strong's-number order among the three, even though H6749 is numerically the lowest -- ¹ and ² were already assigned to the other two before this root existed, so it takes the next available superscript rather than triggering a renumbering).",
+  "Gloss collision: \"sink\" is already used by H8257 (שקע, \"sink; die down\"), a genuinely different root. Not a blocker per the maintenance guide -- disambiguating transliteration \"(tzalal)\" added to search_match only."
+ ],
+ "stem_coverage_checked": true
+}
