@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "depart"
+ ],
+ "strong": "H6852",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיִצְפֹּר",
+      "translit": "vyitzpor",
+      "ref": "Judg.7.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "צפר",
+ "search_match": [
+  "6852",
+  "h6852",
+  "depart (tzafar)",
+  "tzafar",
+  "צפר"
+ ],
+ "citation_translit": "tzafar",
+ "stem_coverage_checked": true
+}

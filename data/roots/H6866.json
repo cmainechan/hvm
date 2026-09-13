@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "scorch"
+ ],
+ "strong": "H6866",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (niphal-only root)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְנִצְרְבוּ",
+      "translit": "vnitzrvu",
+      "ref": "Ezek.21.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "צרב",
+ "search_match": [
+  "6866",
+  "h6866",
+  "scorch",
+  "tzarav",
+  "צרב"
+ ],
+ "citation_translit": "tzarav",
+ "stem_coverage_checked": true
+}
