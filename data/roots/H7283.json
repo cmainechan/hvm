@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "rage"
+ ],
+ "strong": "H7283",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "רָגְשׁוּ",
+      "translit": "ragshu",
+      "ref": "Ps.2.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "רגש",
+ "search_match": [
+  "7283",
+  "h7283",
+  "rage",
+  "ragash",
+  "רגש"
+ ],
+ "citation_translit": "ragash",
+ "stem_coverage_checked": true
+}

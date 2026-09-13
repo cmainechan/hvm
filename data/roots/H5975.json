@@ -608,15 +608,18 @@
   "hiphil": "set up",
   "hophal": "be propped up; be stationed"
  },
- "root": "עמד",
+ "root": "עמד¹",
  "search_match": [
   "5975",
   "amad",
   "h5975",
   "set up",
   "stand",
-  "עמד"
+  "עמד¹"
  ],
  "citation_translit": "amad",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Retroactively renamed from the plain key \"עמד\" to \"עמד¹\" when H5976 (\"shake\") was added to the dataset as \"עמד²\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
+ ]
 }

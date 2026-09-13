@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "shake"
+ ],
+ "strong": "H5976",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהַעֲמַדְתָּ",
+      "translit": "vha'amadta",
+      "ref": "Ezek.29.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "The requested gloss (\"stand\") and second citation (2Sam.20.11) belong to H5975 (עמד¹, the common, unrelated \"stand\", already in this dataset) -- that verse's word is tagged lemma 5975, not 5976. H5976 is a genuine homograph with its own distinct sense: Strong's gives \"to shake\" for H5976 itself (usage \"be at a stand\", an idiom, not the plain verb \"stand\"), and its one real attestation (Ezek.29.7, \"madest all their loins to shake\") matches that, not \"stand\". Shipped as \"shake\" with only the Ezek.29.7 citation -- this also resolves the person's own \"(Non-hapax?)\" flag: H5976 is a true hapax; the second occurrence they had in mind is H5975's. Per the root-key superscript convention (lower Strong's number gets ¹), H5975 has been retroactively relabeled עמד¹ in this same batch and this root is עמד²."
+ ],
+ "root": "עמד²",
+ "search_match": [
+  "5976",
+  "h5976",
+  "shake (amad)",
+  "amad",
+  "עמד²"
+ ],
+ "citation_translit": "amad",
+ "stem_coverage_checked": true
+}

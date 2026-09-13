@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "run"
+ ],
+ "strong": "H7519",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "רָצוֹא",
+      "translit": "ratzo",
+      "ref": "Ezek.1.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "The requested gloss (\"crush\") and citation (Judg.9.53) belong to H7533 (רצץ, \"crush; oppress\", already in this dataset) -- that verse's word (\"brake his skull\") is tagged lemma 7533, not 7519. H7519 itself means \"to run; delight in\" per Strong's, and its one real attestation (Ezek.1.14, \"the living creatures ran and returned\") matches that, not \"crush\". Shipped as \"run\" with the corrected citation."
+ ],
+ "root": "רצא",
+ "search_match": [
+  "7519",
+  "h7519",
+  "run (ratza)",
+  "ratza",
+  "רצא"
+ ],
+ "citation_translit": "ratza",
+ "stem_coverage_checked": true
+}

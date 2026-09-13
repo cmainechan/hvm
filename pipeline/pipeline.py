@@ -458,6 +458,12 @@ KNOWN_EXCEPTIONS = {
     # per the same explicit exception as H1103/H1491/H2909/H2944 (and
     # H2904/H6140/H3960/H7710/H1110/H1895/H4048/H8365), since no
     # absolute-state attestation exists at all for this root.
+    ('H7601', 'qal', 'participle_active', 'mp'),  # only attestation
+    # (Jer.30.16, שֹׁאסַ֨יִךְ֙, "they that spoil thee") is a construct-state
+    # participle with a pronominal suffix; kept anyway per the same
+    # explicit exception as H1103/H1491/H2909/H2944/H5635 (and
+    # H2904/H6140/H3960/H7710/H1110/H1895/H4048/H8365), since no
+    # absolute-state attestation exists at all for this root.
 }
 
 

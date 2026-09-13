@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "stir"
+ ],
+ "strong": "H7370",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "רָחַשׁ",
+      "translit": "rachash",
+      "ref": "Ps.45.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Ref follows WLC/Hebrew versification (Ps.45.2); Psalm 45's title shifts its whole numbering by one relative to English Bibles (English 45:1), the same recurring Psalms pattern seen in earlier batches."
+ ],
+ "root": "רחש",
+ "search_match": [
+  "7370",
+  "h7370",
+  "stir (rachash)",
+  "rachash",
+  "רחש"
+ ],
+ "citation_translit": "rachash",
+ "stem_coverage_checked": true
+}

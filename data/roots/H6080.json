@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "dust"
+ ],
+ "strong": "H6080",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְעִפַּר",
+      "translit": "v'ippar",
+      "ref": "2Sam.16.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "עפר",
+ "search_match": [
+  "6080",
+  "h6080",
+  "dust",
+  "afar",
+  "עפר"
+ ],
+ "citation_translit": "afar",
+ "stem_coverage_checked": true
+}

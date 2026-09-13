@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "sing aloud"
+ ],
+ "strong": "H7444",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "רַנֵּן",
+      "translit": "rannen",
+      "ref": "Ps.132.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "The person's citation (Isa.54.1) doesn't contain this root -- that verse is H7442's own attestation (רָנִּי, already in this dataset). The only actual attestation of H7444 is Ps.132.16 (\"her saints shall shout aloud for joy\"), which matches the gloss \"sing aloud\" and Strong's own \"shouting (for joy)\" -- shipped with the corrected reference. H7444 shares consonants רנן with H7442 (Strong's calls it \"intensive from H7442\"), so per the root-key superscript convention (lower Strong's number gets ¹) H7442 has been retroactively relabeled רנן¹ in this same batch and this root is רנן², the same treatment already applied to other same-root-family splits (e.g. נסך¹/²) regardless of etymological relatedness."
+ ],
+ "root": "רנן²",
+ "search_match": [
+  "7444",
+  "h7444",
+  "sing aloud (rannen)",
+  "rannen",
+  "רנן²"
+ ],
+ "citation_translit": "rannen",
+ "stem_coverage_checked": true
+}

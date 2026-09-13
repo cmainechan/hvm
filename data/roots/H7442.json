@@ -247,14 +247,17 @@
   "hiphil": "cause to sing for joy",
   "hithpolel": "shout for joy"
  },
- "root": "רנן",
+ "root": "רנן¹",
  "search_match": [
   "7442",
   "h7442",
   "ranan",
   "sing for joy",
-  "רנן"
+  "רנן¹"
  ],
  "citation_translit": "ranan",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Retroactively renamed from the plain key \"רנן\" to \"רנן¹\" when H7444 (\"sing aloud\") was added to the dataset as \"רנן²\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
+ ]
 }

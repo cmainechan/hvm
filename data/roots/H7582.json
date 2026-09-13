@@ -71,15 +71,16 @@
   "hiphil": "lay waste"
  },
  "notes": [
-  "Homonym check: shares consonants ש-א-ה with H7583 (\"to stun, i.e. [intransitively] be astonished\"), an unrelated root. Requested gloss matches H7582 precisely (\"to rush; by implication, to desolate\"); no cross-contamination found in the corpus tagging."
+  "Homonym check: shares consonants ש-א-ה with H7583 (\"to stun, i.e. [intransitively] be astonished\"), an unrelated root. Requested gloss matches H7582 precisely (\"to rush; by implication, to desolate\"); no cross-contamination found in the corpus tagging.",
+  "Retroactively renamed from the plain key \"שאה\" to \"שאה¹\" when H7583 (\"be stunned\") was added to the dataset as \"שאה²\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
  ],
- "root": "שאה",
+ "root": "שאה¹",
  "search_match": [
   "7582",
   "h7582",
   "crash into ruins",
   "sha'ah",
-  "שאה"
+  "שאה¹"
  ],
  "citation_translit": "sha'ah",
  "stem_coverage_checked": true

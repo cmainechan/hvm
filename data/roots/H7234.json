@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "spread"
+ ],
+ "strong": "H7234",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "רָבַדְתִּי",
+      "translit": "ravadti",
+      "ref": "Prov.7.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "רבד",
+ "search_match": [
+  "7234",
+  "h7234",
+  "spread (ravad)",
+  "ravad",
+  "רבד"
+ ],
+ "citation_translit": "ravad",
+ "stem_coverage_checked": true
+}

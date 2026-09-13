@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "spit"
+ ],
+ "strong": "H7556",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָרֹק",
+      "translit": "yaroq",
+      "ref": "Lev.15.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "The person's citation (Job.30.10) has only the noun \"spittle\" (a different Strong's number, H7536), not the verb. The only actual verbal attestation is Lev.15.8 -- shipped with the corrected reference."
+ ],
+ "root": "רקק",
+ "search_match": [
+  "7556",
+  "h7556",
+  "spit",
+  "raqaq",
+  "רקק"
+ ],
+ "citation_translit": "raqaq",
+ "stem_coverage_checked": true
+}

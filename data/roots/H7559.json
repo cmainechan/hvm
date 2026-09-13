@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "inscribe"
+ ],
+ "strong": "H7559",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הָרָשׁוּם",
+      "translit": "harashum",
+      "ref": "Dan.10.21",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "רשם",
+ "search_match": [
+  "7559",
+  "h7559",
+  "inscribe",
+  "rasham",
+  "רשם"
+ ],
+ "citation_translit": "rasham",
+ "stem_coverage_checked": true
+}

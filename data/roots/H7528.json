@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "fit together"
+ ],
+ "strong": "H7528",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "רָצוּף",
+      "translit": "ratzuf",
+      "ref": "Song.3.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "The person's citation (1Kgs.6.9) doesn't contain this root -- that verse's roofing verb is a different root (ספן, H5603). The only actual attestation is Song.3.10 (\"the midst thereof being paved with love\"), matching Strong's own \"tessellate, i.e. embroider (as if with bright stones)\" -- shipped with the corrected reference."
+ ],
+ "root": "רצף",
+ "search_match": [
+  "7528",
+  "h7528",
+  "fit together (ratzaf)",
+  "ratzaf",
+  "רצף"
+ ],
+ "citation_translit": "ratzaf",
+ "stem_coverage_checked": true
+}

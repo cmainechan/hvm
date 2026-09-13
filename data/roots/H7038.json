@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "be stunted"
+ ],
+ "strong": "H7038",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וְקָלוּט",
+      "translit": "vqalut",
+      "ref": "Lev.22.23",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "קלט",
+ "search_match": [
+  "7038",
+  "h7038",
+  "be stunted",
+  "qalat",
+  "קלט"
+ ],
+ "citation_translit": "qalat",
+ "stem_coverage_checked": true
+}

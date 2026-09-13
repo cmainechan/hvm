@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "reel"
+ ],
+ "strong": "H7477",
+ "stems": {
+  "hophal": {
+   "sense_hint": "passive causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הָרְעָֽלוּ",
+      "translit": "har'alu",
+      "ref": "Nah.2.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "The person's citation (Ps.60.3) doesn't contain this root at all -- that's Psalm 60's opening lament, unrelated content. The only actual attestation is Nah.2.4 (\"the fir trees shall be terribly shaken\"), matching the gloss and Strong's own usage \"terribly shake\" -- shipped with the corrected reference."
+ ],
+ "root": "רעל",
+ "search_match": [
+  "7477",
+  "h7477",
+  "reel (ra'al)",
+  "ra'al",
+  "רעל"
+ ],
+ "citation_translit": "ra'al",
+ "stem_coverage_checked": true
+}

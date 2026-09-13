@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "be stunned"
+ ],
+ "strong": "H7583",
+ "stems": {
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִשְׁתָּאֵה",
+      "translit": "mishta'eh",
+      "ref": "Gen.24.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "The person's citation (Isa.6.11) doesn't contain this root -- that verse's word (used twice) is tagged lemma 7582, its own homonym partner (\"crash into ruins\", already in this dataset). The only actual attestation of H7583 is Gen.24.21 (Abraham's servant \"wondering\" at Rebekah), matching the gloss \"be stunned\" (astonished, gazing) -- shipped with the corrected reference. Per the root-key superscript convention (lower Strong's number gets ¹), H7582 has been retroactively relabeled שאה¹ in this same batch and this root is שאה²."
+ ],
+ "root": "שאה²",
+ "search_match": [
+  "7583",
+  "h7583",
+  "be stunned (shaah)",
+  "shaah",
+  "שאה²"
+ ],
+ "citation_translit": "shaah",
+ "stem_coverage_checked": true
+}

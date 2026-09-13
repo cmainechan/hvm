@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "flow"
+ ],
+ "strong": "H7325",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "רָר",
+      "translit": "rar",
+      "ref": "Lev.15.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "The person's citation (Ps.119.28) doesn't contain this root at all. The only actual attestation is Lev.15.3 (of a bodily discharge), matching the gloss and Strong's own meaning (\"to emit a fluid\") -- shipped with the corrected reference."
+ ],
+ "root": "רור",
+ "search_match": [
+  "7325",
+  "h7325",
+  "flow (rur)",
+  "rur",
+  "רור"
+ ],
+ "citation_translit": "rur",
+ "stem_coverage_checked": true
+}

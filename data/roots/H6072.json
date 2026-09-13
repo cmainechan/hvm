@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "press"
+ ],
+ "strong": "H6072",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְעַסּוֹתֶם",
+      "translit": "v'assotem",
+      "ref": "Mal.3.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Ref follows WLC/Hebrew versification (Mal.3.21); Malachi's Hebrew chapter 3 continues through what English Bibles number as chapter 4, so English 4:3 = Hebrew 3:21."
+ ],
+ "root": "עסס",
+ "search_match": [
+  "6072",
+  "h6072",
+  "press",
+  "asas",
+  "עסס"
+ ],
+ "citation_translit": "asas",
+ "stem_coverage_checked": true
+}

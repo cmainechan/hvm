@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "plunder"
+ ],
+ "strong": "H7601",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple (only biblical occurrence is a construct-state participle, not a free citation form -- shown here as an explicit exception to the absolute-state-only participle rule, since no other attestation exists)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "שֹׁאסַיִךְ",
+      "translit": "sho'sayikh",
+      "ref": "Jer.30.16",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Only attestation (Jer.30.16, שֹׁאסַ֨יִךְ֙, \"they that spoil thee\") is a construct-state participle, normally excluded by the absolute-state-only participle rule -- kept as an explicit exception (same precedent as H1103/H1491/H2909/H2944/H5635, and H2904/H6140/H3960/H7710/H1110/H1895/H4048/H8365), since no other attestation exists at all for this root. Added ('H7601', 'qal', 'participle_active', 'mp') to KNOWN_EXCEPTIONS in pipeline.py."
+ ],
+ "root": "שאס",
+ "search_match": [
+  "7601",
+  "h7601",
+  "plunder (sha'as)",
+  "sha'as",
+  "שאס"
+ ],
+ "citation_translit": "sha'as",
+ "stem_coverage_checked": true
+}

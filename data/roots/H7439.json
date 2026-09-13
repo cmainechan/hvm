@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "rattle"
+ ],
+ "strong": "H7439",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּרְנֶה",
+      "translit": "tirneh",
+      "ref": "Job.39.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "The requested gloss (\"cry out\") and citation (Lam.2.19) belong to H7442 (רנן, the common \"shout/sing for joy\", already in this dataset) -- that verse's word is tagged lemma \"7442 b\", not 7439. H7439 itself means \"to whiz\" per Strong's (usage \"rattle\"), and its one real attestation (Job.39.23, \"the quiver rattleth against him\", of a war-horse) matches that, not \"cry out\". Shipped as \"rattle\" with the corrected citation."
+ ],
+ "root": "רנה",
+ "search_match": [
+  "7439",
+  "h7439",
+  "rattle",
+  "ranah",
+  "רנה"
+ ],
+ "citation_translit": "ranah",
+ "stem_coverage_checked": true
+}
