@@ -1,0 +1,40 @@
+{
+ "glosses": [
+  "multiply"
+ ],
+ "strong": "H3527",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative (this root has no attested qal; hiphil serves as its basic/citation stem)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַכְבִּֽר",
+      "translit": "yakhbir",
+      "ref": "Job.35.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "כבר",
+ "search_match": [
+  "3527",
+  "h3527",
+  "multiply (kavar)",
+  "kavar",
+  "כבר"
+ ],
+ "citation_translit": "kavar",
+ "notes": [
+  "This root has exactly one attestation in the entire corpus (Job.35.16, \"he multiplies [words] without knowledge\"). Strong's primary/etymological sense \"plait together\" has no citable attestation and is excluded per \"no uncited glosses.\" \"Augment\" was also requested alongside \"multiply\" but is trimmed as the same evidenced sense worded twice, not a second distinct sense.",
+  "Gloss collision: \"multiply\" is already used by several existing roots (e.g. H1711, H502, H503, H6280, H7235). Not a blocker per the maintenance guide -- disambiguating transliteration \"(kavar)\" added to search_match only, glosses left as plain \"multiply.\""
+ ],
+ "stem_coverage_checked": true
+}

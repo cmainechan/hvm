@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "be very ill"
+ ],
+ "strong": "H605",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (this root has no attested qal; niphal serves as its basic/citation stem)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֵּאָנַֽשׁ",
+      "translit": "vayye'anash",
+      "ref": "2Sam.12.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "אנש",
+ "search_match": [
+  "605",
+  "h605",
+  "be very ill",
+  "anash",
+  "אנש"
+ ],
+ "citation_translit": "anash",
+ "notes": [
+  "Requested Qal (\"be sick; be incurable\") excluded: zero attested verb-morph forms anywhere in the corpus. The word's only other occurrences (Isa.17.11, Jer.15.18/17.9/17.16/30.12/30.15, Job.34.6, Mic.1.9) are the adjective אָנוּשׁ/אֲנוּשָׁה (\"incurable\"), tagged morph=\"HAamsa\"/\"HAafsa\" -- a different part of speech from this verb, not a Qal citation. Only the Niphal wayyiqtol at 2Sam.12.15 is a genuine verb attestation."
+ ],
+ "stem_coverage_checked": true
+}

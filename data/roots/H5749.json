@@ -1,0 +1,290 @@
+{
+ "glosses": [
+  "testify; warn"
+ ],
+ "strong": "H5749",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative (this root has no attested qal; hiphil serves as its basic/citation stem)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאָעִידָה",
+      "translit": "v'a'idah",
+      "ref": "Deut.31.28",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהָעִידוּ",
+      "translit": "vha'idu",
+      "ref": "Amos.3.13",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הָעֵד",
+      "translit": "ha'ed",
+      "ref": "Exod.19.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הָעֵד",
+      "translit": "ha'ed",
+      "ref": "1Sam.8.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "jussive": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וִיעִדֻהוּ",
+      "translit": "vi'iduhu",
+      "ref": "1Kgs.21.10",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֵעִיד",
+      "translit": "me'id",
+      "ref": "Deut.32.46",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "הַעִידֹתִי",
+      "translit": "ha'idoti",
+      "ref": "Deut.30.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַעֵדֹתָה",
+      "translit": "ha'edotah",
+      "ref": "Exod.19.23",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֵעִידוּ",
+      "translit": "he'idu",
+      "ref": "Neh.9.26",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֵעִיד",
+      "translit": "he'id",
+      "ref": "2Kgs.17.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָאָעִד",
+      "translit": "va'a'id",
+      "ref": "1Kgs.2.42",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתָּעַד",
+      "translit": "vatta'ad",
+      "ref": "Neh.9.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתְּעִידֵֽנִי",
+      "translit": "vatt'ideni",
+      "ref": "Job.29.11",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּעִידוּ",
+      "translit": "vayya'idu",
+      "ref": "2Chr.24.19",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּעַד",
+      "translit": "vayya'ad",
+      "ref": "2Kgs.17.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲעִידֵךְ",
+      "translit": "a'idekh",
+      "ref": "Lam.2.13",
+      "has_suffix": true,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תָּעִיד",
+      "translit": "ta'id",
+      "ref": "1Sam.8.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "עִוְּדֻנִי",
+      "translit": "iuduni",
+      "ref": "Ps.119.61",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "polel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְעוֹדֵד",
+      "translit": "moded",
+      "ref": "Ps.147.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְעוֹדֵד",
+      "translit": "yoded",
+      "ref": "Ps.146.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "וַנִּתְעוֹדָֽד",
+      "translit": "vannitodad",
+      "ref": "Ps.20.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְהוּעַד",
+      "translit": "vhu'ad",
+      "ref": "Exod.21.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "go around",
+  "polel": "relieve",
+  "hithpolel": "stand firm",
+  "hophal": "be warned"
+ },
+ "root": "עוד",
+ "search_match": [
+  "5749",
+  "h5749",
+  "testify; warn",
+  "ud",
+  "עוד"
+ ],
+ "citation_translit": "ud",
+ "notes": [
+  "Requested Qal (\"bear witness\") excluded: zero attestations anywhere in the corpus. Attested stems are hiphil (dominant, 35 forms), piel (1), polel (2), hithpolel (1), hophal (1).",
+  "Hiphil gloss trimmed from the requested \"testify; call to witness; warn\" to \"testify; warn\": \"testify\" and \"call to witness\" are the same evidenced sense worded twice (e.g. Deut.31.28, Deut.4.26 -- invoking heaven/earth as witnesses); \"warn\" is genuinely distinct (e.g. Exod.19.21, Neh.9.26/9.29 -- admonishing about consequences).",
+  "Polel gloss changed from the requested \"restore\" to \"relieve\": both citations (Ps.146.9 \"relieves the fatherless and widow,\" Ps.147.6 \"lifts up the humble\") show sustaining/upholding someone in distress, not returning something to a former state. \"Restore\" isn't supported by either verse.",
+  "Hithpolel (\"hithpalel\" in the original request) gloss changed from \"be restored\" to \"stand firm\": the one citation (Ps.20.9, וַנִּתְעוֹדָד) reads \"we have risen and stand upright/steady ourselves,\" not a restoration sense.",
+  "Piel \"go around\" and hophal \"be warned\" matched their citations (Ps.119.61 \"the cords of the wicked have surrounded/entangled me\"; Exod.21.29 \"he had been warned\") as requested, no change."
+ ],
+ "stem_coverage_checked": true
+}

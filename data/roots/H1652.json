@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "send rain"
+ ],
+ "strong": "H1652",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative (this root has no attested qal; hiphil serves as its basic/citation stem)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַגְשִׁמִים",
+      "translit": "magshimim",
+      "ref": "Jer.14.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "גשם",
+ "search_match": [
+  "1652",
+  "h1652",
+  "send rain",
+  "gasham",
+  "גשם"
+ ],
+ "citation_translit": "gasham",
+ "notes": [
+  "Requested Pual (\"be rained upon\") excluded: this root has exactly one attestation in the entire corpus (Jer.14.22, the hiphil participle above); no Pual form occurs anywhere."
+ ],
+ "stem_coverage_checked": true
+}

@@ -156,13 +156,16 @@
  "stem_glosses": {
   "hiphil": "make dark"
  },
- "root": "חשך",
+ "notes": [
+  "Retroactively renamed from the plain key \"חשך\" to \"חשך²\" when H2820 (\"withhold; spare\") was added to the dataset as \"חשך¹\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹). Strong's own entry for H2820 calls the two roots \"interchangeable\"; see H2820's notes for a real corpus example of that overlap (this root's own qal perfect 3ms citation, Ezek.30.18, is spelled with the sin dot rather than the shin dot the rest of this root's forms use)."
+ ],
+ "root": "חשך²",
  "search_match": [
   "2821",
   "h2821",
   "grow dark",
   "chashakh",
-  "חשך"
+  "חשך²"
  ],
  "citation_translit": "chashakh",
  "stem_coverage_checked": true

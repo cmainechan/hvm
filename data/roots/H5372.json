@@ -1,0 +1,41 @@
+{
+ "glosses": [
+  "talebearer"
+ ],
+ "strong": "H5372",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (this root has no attested qal; niphal serves as its basic/citation stem -- the participle itself functions as a substantive, the same pattern as H3009 יגב)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִרְגָּן",
+      "translit": "nirgan",
+      "ref": "Prov.18.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "נרגן",
+ "search_match": [
+  "5372",
+  "h5372",
+  "talebearer; whisperer",
+  "nirgan",
+  "נרגן"
+ ],
+ "citation_translit": "nirgan",
+ "notes": [
+  "Strong's derives this word \"from an unused root meaning to roll to pieces\" -- WLC nonetheless tags all 3 occurrences (Prov.18.8, 26.20, 26.22, all the identical form נִרְגָּן) as a genuine niphal active participle (morph=\"HVNrmsa\"), not a plain noun, so it clears the bar for inclusion.",
+  "\"Talebearer\" and \"whisperer\" trimmed to one clause: both are the same evidenced sense worded twice (all three citations are one repeated word/proverb), not two distinct senses.",
+  "Related: H3859 (להם, \"swallow greedily\") already in the dataset shares its two citations with this word's own (Prov.18.8 / 26.22 -- the same verse, repeated), and its notes already reference this word's KJV rendering (\"talebearer\") in passing."
+ ],
+ "stem_coverage_checked": true
+}
