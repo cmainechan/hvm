@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "becloud"
+ ],
+ "strong": "H5743",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָעִיב",
+      "translit": "ya'iv",
+      "ref": "Lam.2.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "עוב",
+ "search_match": [
+  "5743",
+  "h5743",
+  "becloud",
+  "uv",
+  "עוב"
+ ],
+ "citation_translit": "uv",
+ "stem_coverage_checked": true
+}

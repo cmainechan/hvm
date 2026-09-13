@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "tinkle"
+ ],
+ "strong": "H5913",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תְּעַכַּֽסְנָה",
+      "translit": "t'akkasnah",
+      "ref": "Isa.3.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "The person's citation (Isa.3.18) doesn't contain this verb -- verse 18 introduces the related noun (anklets), but the verb itself (\"making a tinkling with their feet\") is two verses earlier, Isa.3.16 -- the same verse already shipped for H2952 (טפף \"step lightly\") in an earlier batch, describing the same haughty gait. Shipped with the corrected reference."
+ ],
+ "root": "עכס",
+ "search_match": [
+  "5913",
+  "h5913",
+  "tinkle",
+  "akhas",
+  "עכס"
+ ],
+ "citation_translit": "akhas",
+ "stem_coverage_checked": true
+}

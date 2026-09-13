@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "help"
+ ],
+ "strong": "H5790",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לָעוּת",
+      "translit": "laut",
+      "ref": "Isa.50.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym: shares consonants עות with H5791 (\"make crooked; subvert justice\"), a separate, unrelated Strong's entry already in this dataset. Per the root-key superscript convention (lower Strong's number gets ¹), this root is עות¹ and H5791 has been retroactively relabeled עות² in this same batch. (Strong's own entry for H5790 says it is \"for H5789\" -- a variant spelling of the immediately preceding entry, not of H5791 -- so that relationship is etymological only and doesn't affect the root-key here.)"
+ ],
+ "root": "עות¹",
+ "search_match": [
+  "5790",
+  "h5790",
+  "help (ut)",
+  "ut",
+  "עות¹"
+ ],
+ "citation_translit": "ut",
+ "stem_coverage_checked": true
+}

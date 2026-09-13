@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "weigh"
+ ],
+ "strong": "H5537",
+ "stems": {
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַמְסֻלָּאִים",
+      "translit": "hamsulla'im",
+      "ref": "Lam.4.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "סלא",
+ "search_match": [
+  "5537",
+  "h5537",
+  "weigh (sala)",
+  "sala",
+  "סלא"
+ ],
+ "citation_translit": "sala",
+ "stem_coverage_checked": true
+}

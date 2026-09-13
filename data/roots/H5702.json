@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "stay"
+ ],
+ "strong": "H5702",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (niphal-only root)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2fp",
+      "label": "2nd fem. pl.",
+      "heb": "תֵּֽעָגֵנָה",
+      "translit": "te'agenah",
+      "ref": "Ruth.1.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "עגן",
+ "search_match": [
+  "5702",
+  "h5702",
+  "stay",
+  "agan",
+  "עגן"
+ ],
+ "citation_translit": "agan",
+ "stem_coverage_checked": true
+}

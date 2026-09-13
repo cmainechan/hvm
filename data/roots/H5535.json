@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "be silent"
+ ],
+ "strong": "H5535",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַסְכֵּת",
+      "translit": "hasket",
+      "ref": "Deut.27.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "סכת",
+ "search_match": [
+  "5535",
+  "h5535",
+  "be silent (sakhat)",
+  "sakhat",
+  "סכת"
+ ],
+ "citation_translit": "sakhat",
+ "stem_coverage_checked": true
+}

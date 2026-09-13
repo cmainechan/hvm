@@ -83,14 +83,17 @@
   "pual": "thing bent",
   "hitpael": "bend oneself"
  },
- "root": "עות",
+ "root": "עות²",
  "search_match": [
   "5791",
   "h5791",
   "make crooked; subvert justice",
   "avat",
-  "עות"
+  "עות²"
  ],
  "citation_translit": "avat",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Retroactively renamed from the plain key \"עות\" to \"עות²\" when H5790 (\"help\") was added to the dataset as \"עות¹\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
+ ]
 }

@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "watch"
+ ],
+ "strong": "H5770",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "עוֹיֵן",
+      "translit": "oyen",
+      "ref": "1Sam.18.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "The person's citation (Isa.38.14) doesn't contain this root at all. The only actual attestation is 1Sam.18.9 -- and even there it's a qere: the ketiv is spelled עון (unvocalized, tagged as the noun H5771 \"iniquity\"), while the qere (the form actually read aloud, carrying the vowels, עוֹיֵן) is this root, matching the gloss \"watch\" exactly (\"Saul eyed David from that day forward\"). Unlike the H1089/H926 and H3237/H4184 cases in earlier batches, this qere IS the target root itself (not a different, already-shipped number), so it's a genuine, citable attestation -- shipped with the corrected reference."
+ ],
+ "root": "עון",
+ "search_match": [
+  "5770",
+  "h5770",
+  "watch (avan)",
+  "avan",
+  "עון"
+ ],
+ "citation_translit": "avan",
+ "stem_coverage_checked": true
+}

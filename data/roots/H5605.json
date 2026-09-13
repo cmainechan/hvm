@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "guard"
+ ],
+ "strong": "H5605",
+ "stems": {
+  "hithpoel": {
+   "sense_hint": "reflexive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "הִסְתּוֹפֵף",
+      "translit": "histofef",
+      "ref": "Ps.84.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Ref follows WLC/Hebrew versification (Ps.84.11); Psalm 84's title/superscription shifts its whole numbering by one relative to English Bibles (English 84:10), the same recurring Psalms pattern seen in earlier batches."
+ ],
+ "root": "ספף",
+ "search_match": [
+  "5605",
+  "h5605",
+  "guard",
+  "safaf",
+  "ספף"
+ ],
+ "citation_translit": "safaf",
+ "stem_coverage_checked": true
+}

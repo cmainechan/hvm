@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "fence"
+ ],
+ "strong": "H5473",
+ "stems": {
+  "qal_passive": {
+   "sense_hint": "passive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "סוּגָה",
+      "translit": "sugah",
+      "ref": "Song.7.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym check (cross-reference flagged by Strong's own entry, \"probably rather identical with H5472 through the idea of shrinking from a load\"): shares consonants סוג with H5472 (\"backslide\"), already in this dataset. The corpus tags this occurrence to 5473 specifically, with a distinct sense (\"hem in, bind\" vs. H5472's \"turn back, backslide\"). Per the root-key superscript convention (lower Strong's number gets ¹), H5472 has been retroactively relabeled סוג¹ in this same batch and this root is סוג². Ref follows WLC/Hebrew versification (Song.7.3); English Bibles number this verse 7:2."
+ ],
+ "root": "סוג²",
+ "search_match": [
+  "5473",
+  "h5473",
+  "fence (sug)",
+  "sug",
+  "סוג²"
+ ],
+ "citation_translit": "sug",
+ "stem_coverage_checked": true
+}

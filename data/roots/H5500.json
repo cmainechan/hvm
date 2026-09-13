@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "scrape"
+ ],
+ "strong": "H5500",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְסִֽחֵיתִי",
+      "translit": "vsicheti",
+      "ref": "Ezek.26.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "סחה",
+ "search_match": [
+  "5500",
+  "h5500",
+  "scrape (sachah)",
+  "sachah",
+  "סחה"
+ ],
+ "citation_translit": "sachah",
+ "stem_coverage_checked": true
+}

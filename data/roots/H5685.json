@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "shrivel"
+ ],
+ "strong": "H5685",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "עָבְשׁוּ",
+      "translit": "avshu",
+      "ref": "Joel.1.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "עבש",
+ "search_match": [
+  "5685",
+  "h5685",
+  "shrivel",
+  "avash",
+  "עבש"
+ ],
+ "citation_translit": "avash",
+ "stem_coverage_checked": true
+}

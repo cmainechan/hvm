@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "be bare"
+ ],
+ "strong": "H5783",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (niphal-only root)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֵעוֹר",
+      "translit": "teor",
+      "ref": "Hab.3.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym: shares consonants עור with two roots already in this dataset as a resolved pair, H5782 (\"be awake\", עור¹) and H5786 (\"blind\", עור²). This is a third, separate homograph -- extending the same ascending-Strong's-number superscript convention already used for two-way splits (precedent: נשא³, שבר³, ערב³), this root is עור³."
+ ],
+ "root": "עור³",
+ "search_match": [
+  "5783",
+  "h5783",
+  "be bare (ur)",
+  "ur",
+  "עור³"
+ ],
+ "citation_translit": "ur",
+ "stem_coverage_checked": true
+}

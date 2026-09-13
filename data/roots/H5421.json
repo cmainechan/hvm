@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "break"
+ ],
+ "strong": "H5421",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (niphal-only root)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִתָּֽעוּ",
+      "translit": "nittau",
+      "ref": "Job.4.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "נתע",
+ "search_match": [
+  "5421",
+  "h5421",
+  "break (nata)",
+  "nata",
+  "נתע"
+ ],
+ "citation_translit": "nata",
+ "stem_coverage_checked": true
+}

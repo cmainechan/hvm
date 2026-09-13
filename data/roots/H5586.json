@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "lop"
+ ],
+ "strong": "H5586",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְסָעֵף",
+      "translit": "msa'ef",
+      "ref": "Isa.10.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "סעף",
+ "search_match": [
+  "5586",
+  "h5586",
+  "lop",
+  "sa'af",
+  "סעף"
+ ],
+ "citation_translit": "sa'af",
+ "stem_coverage_checked": true
+}

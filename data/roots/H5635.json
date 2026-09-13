@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "burn"
+ ],
+ "strong": "H5635",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive (only biblical occurrence is a construct-state participle, not a free citation form -- shown here as an explicit exception to the absolute-state-only participle rule, since no other attestation exists)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּמְסָרְפוֹ",
+      "translit": "umsarfo",
+      "ref": "Amos.6.10",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Only attestation (Amos.6.10, וּמְסָרְפ֗וֹ, \"and he that burneth him\" -- burning the dead during a plague) is a construct-state participle, normally excluded by the absolute-state-only participle rule -- kept as an explicit exception (same precedent as H1103/H1491/H2909/H2944, and H2904/H6140/H3960/H7710/H1110/H1895/H4048/H8365), since no other attestation exists at all for this root. Added ('H5635', 'piel', 'participle_active', 'ms') to KNOWN_EXCEPTIONS in pipeline.py."
+ ],
+ "root": "סרף",
+ "search_match": [
+  "5635",
+  "h5635",
+  "burn (saraf)",
+  "saraf",
+  "סרף"
+ ],
+ "citation_translit": "saraf",
+ "stem_coverage_checked": true
+}

@@ -452,6 +452,12 @@ KNOWN_EXCEPTIONS = {
     # kept anyway per the same explicit exception as H1103/H1491/H2909
     # (and H2904/H6140/H3960/H7710/H1110/H1895/H4048/H8365), since no
     # absolute-state attestation exists at all for this root.
+    ('H5635', 'piel', 'participle_active', 'ms'),  # only attestation
+    # (Amos.6.10, וּמְסָרְפ֗וֹ, "and he that burneth him" -- burning the
+    # dead during a plague) is a construct-state participle; kept anyway
+    # per the same explicit exception as H1103/H1491/H2909/H2944 (and
+    # H2904/H6140/H3960/H7710/H1110/H1895/H4048/H8365), since no
+    # absolute-state attestation exists at all for this root.
 }
 
 

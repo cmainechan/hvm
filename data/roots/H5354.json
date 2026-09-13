@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "loathe"
+ ],
+ "strong": "H5354",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (niphal-only root)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "נָֽקְטָה",
+      "translit": "naqtah",
+      "ref": "Job.10.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "נקט",
+ "search_match": [
+  "5354",
+  "h5354",
+  "loathe (naqat)",
+  "naqat",
+  "נקט"
+ ],
+ "citation_translit": "naqat",
+ "stem_coverage_checked": true
+}

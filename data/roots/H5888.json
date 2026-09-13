@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "be weary"
+ ],
+ "strong": "H5888",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "עָיְפָה",
+      "translit": "ayfah",
+      "ref": "Jer.4.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "עיף",
+ "search_match": [
+  "5888",
+  "h5888",
+  "be weary (ayef)",
+  "ayef",
+  "עיף"
+ ],
+ "citation_translit": "ayef",
+ "stem_coverage_checked": true
+}

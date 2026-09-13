@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "leap"
+ ],
+ "strong": "H5539",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וַאֲסַלְּדָה",
+      "translit": "va'asalldah",
+      "ref": "Job.6.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "סלד",
+ "search_match": [
+  "5539",
+  "h5539",
+  "leap (salad)",
+  "salad",
+  "סלד"
+ ],
+ "citation_translit": "salad",
+ "stem_coverage_checked": true
+}

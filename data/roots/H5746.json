@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "bake"
+ ],
+ "strong": "H5746",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תְּעֻגֶנָה",
+      "translit": "t'ugenah",
+      "ref": "Ezek.4.12",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "עוג",
+ "search_match": [
+  "5746",
+  "h5746",
+  "bake (ug)",
+  "ug",
+  "עוג"
+ ],
+ "citation_translit": "ug",
+ "stem_coverage_checked": true
+}

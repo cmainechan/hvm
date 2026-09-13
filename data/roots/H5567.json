@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "mark"
+ ],
+ "strong": "H5567",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (niphal-only root)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִסְמָן",
+      "translit": "nisman",
+      "ref": "Isa.28.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "סמן",
+ "search_match": [
+  "5567",
+  "h5567",
+  "mark (saman)",
+  "saman",
+  "סמן"
+ ],
+ "citation_translit": "saman",
+ "stem_coverage_checked": true
+}

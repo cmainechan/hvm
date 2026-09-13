@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "hasten"
+ ],
+ "strong": "H5789",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "עוּשׁוּ",
+      "translit": "ushu",
+      "ref": "Joel.4.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "The person's citation (Isa.50.4) doesn't contain this root -- that verse is H5790's own attestation (see next entry). The only actual attestation of H5789 is Joel.4.11 (WLC numbering; English Bibles number this verse Joel 3:11 -- the corpus's own embedded note confirms the correspondence), \"Assemble yourselves, and come\", matching the gloss \"hasten\" (Strong's usage: \"assemble self\") -- shipped with the corrected reference."
+ ],
+ "root": "עוש",
+ "search_match": [
+  "5789",
+  "h5789",
+  "hasten (ush)",
+  "ush",
+  "עוש"
+ ],
+ "citation_translit": "ush",
+ "stem_coverage_checked": true
+}
