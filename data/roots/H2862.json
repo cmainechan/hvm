@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "seize"
+ ],
+ "strong": "H2862",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחְתֹּף",
+      "translit": "yachtof",
+      "ref": "Job.9.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "חתף",
+ "search_match": [
+  "2862",
+  "h2862",
+  "seize (chataf)",
+  "chataf",
+  "חתף"
+ ],
+ "citation_translit": "chataf",
+ "stem_coverage_checked": true
+}

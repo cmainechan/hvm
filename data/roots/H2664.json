@@ -214,14 +214,17 @@
   "pual": "be searched for",
   "hitpael": "disguise oneself"
  },
- "root": "חפש",
+ "root": "חפש¹",
  "search_match": [
   "2664",
   "h2664",
   "search for",
   "chafas",
-  "חפש"
+  "חפש¹"
  ],
  "citation_translit": "chafas",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Retroactively renamed from the plain key \"חפש\" to \"חפש¹\" when H2666 (\"free\") was added to the dataset as \"חפש²\" -- true homograph (the sin/shin dot is a diacritic, not a separate letter), per the root-key superscript convention (lower Strong's number gets ¹)."
+ ]
 }

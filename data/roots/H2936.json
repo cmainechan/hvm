@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "soil"
+ ],
+ "strong": "H2936",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲטַנְּפֵֽם",
+      "translit": "atannfem",
+      "ref": "Song.5.3",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "טנף",
+ "search_match": [
+  "2936",
+  "h2936",
+  "soil",
+  "tanaf",
+  "טנף"
+ ],
+ "citation_translit": "tanaf",
+ "stem_coverage_checked": true
+}

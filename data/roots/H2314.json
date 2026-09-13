@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "surround"
+ ],
+ "strong": "H2314",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "הַחֹדֶרֶת",
+      "translit": "hachoderet",
+      "ref": "Ezek.21.19",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "חדר",
+ "search_match": [
+  "2314",
+  "h2314",
+  "surround (chadar)",
+  "chadar",
+  "חדר"
+ ],
+ "citation_translit": "chadar",
+ "stem_coverage_checked": true
+}

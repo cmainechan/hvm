@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "roast"
+ ],
+ "strong": "H2760",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַחֲרֹךְ",
+      "translit": "yacharokh",
+      "ref": "Prov.12.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Single-attestation, textually contested form: Strong's own headline meaning is \"to braid (i.e. to entangle or snare) or catch (game) in a net\", not \"roast\" -- some scholars read this verse as \"the slothful man does not hunt/catch his game\" rather than \"does not roast it\". \"Roast\" follows the traditional KJV rendering, which many other translations keep; shipped per the person's gloss, dispute flagged since no second citation exists to settle it."
+ ],
+ "root": "חרך",
+ "search_match": [
+  "2760",
+  "h2760",
+  "roast (charakh)",
+  "charakh",
+  "חרך"
+ ],
+ "citation_translit": "charakh",
+ "stem_coverage_checked": true
+}

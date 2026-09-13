@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "weaken"
+ ],
+ "strong": "H2826",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (niphal-only root)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַנֶּחֱשָׁלִים",
+      "translit": "hannecheshalim",
+      "ref": "Deut.25.18",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "חשל",
+ "search_match": [
+  "2826",
+  "h2826",
+  "weaken",
+  "chashal",
+  "חשל"
+ ],
+ "citation_translit": "chashal",
+ "stem_coverage_checked": true
+}

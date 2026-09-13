@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "take a fifth"
+ ],
+ "strong": "H2567",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְחִמֵּשׁ",
+      "translit": "vchimmesh",
+      "ref": "Gen.41.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "חמש",
+ "search_match": [
+  "2567",
+  "h2567",
+  "take a fifth",
+  "chamash",
+  "חמש"
+ ],
+ "citation_translit": "chamash",
+ "stem_coverage_checked": true
+}

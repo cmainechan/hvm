@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "pierce"
+ ],
+ "strong": "H2944",
+ "stems": {
+  "pual": {
+   "sense_hint": "passive/intensive (only biblical occurrence is a construct-state participle, not a free citation form -- shown here as an explicit exception to the absolute-state-only participle rule, since no other attestation exists)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְטֹעֲנֵי",
+      "translit": "mto'ane",
+      "ref": "Isa.14.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "True homograph with H2943 (\"load\"), same spelling טען, both added in this same batch -- this root is טען² (H2943 is טען¹) per the root-key superscript convention (lower Strong's number gets ¹). Separately: only attestation (Isa.14.19, מְטֹ֣עֲנֵי חָ֑רֶב, \"thrust through with the sword\") is a construct-state participle, normally excluded by the absolute-state-only participle rule -- kept as an explicit exception (same precedent as H1103/H1491/H2909, and H2904/H6140/H3960/H7710/H1110/H1895/H4048/H8365), since no other attestation exists at all for this root. Added ('H2944', 'pual', 'participle_passive', 'mp') to KNOWN_EXCEPTIONS in pipeline.py."
+ ],
+ "root": "טען²",
+ "search_match": [
+  "2944",
+  "h2944",
+  "pierce (ta'an)",
+  "ta'an",
+  "טען²"
+ ],
+ "citation_translit": "ta'an",
+ "stem_coverage_checked": true
+}

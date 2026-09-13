@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "love"
+ ],
+ "strong": "H2245",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חֹבֵב",
+      "translit": "chovev",
+      "ref": "Deut.33.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "חבב",
+ "search_match": [
+  "2245",
+  "h2245",
+  "love (chavav)",
+  "chavav",
+  "חבב"
+ ],
+ "citation_translit": "chavav",
+ "stem_coverage_checked": true
+}

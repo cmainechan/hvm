@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "store up"
+ ],
+ "strong": "H2630",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (niphal-only root)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵֽחָסֵן",
+      "translit": "yechasen",
+      "ref": "Isa.23.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "חסן",
+ "search_match": [
+  "2630",
+  "h2630",
+  "store up (chasan)",
+  "chasan",
+  "חסן"
+ ],
+ "citation_translit": "chasan",
+ "stem_coverage_checked": true
+}

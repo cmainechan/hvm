@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "flake off"
+ ],
+ "strong": "H2636",
+ "stems": {
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְחֻסְפָּס",
+      "translit": "mchuspas",
+      "ref": "Exod.16.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "חספס",
+ "search_match": [
+  "2636",
+  "h2636",
+  "flake off",
+  "chaspas",
+  "חספס"
+ ],
+ "citation_translit": "chaspas",
+ "stem_coverage_checked": true
+}

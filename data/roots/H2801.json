@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "engrave"
+ ],
+ "strong": "H2801",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "חָרוּת",
+      "translit": "charut",
+      "ref": "Exod.32.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "חרת",
+ "search_match": [
+  "2801",
+  "h2801",
+  "engrave",
+  "charat",
+  "חרת"
+ ],
+ "citation_translit": "charat",
+ "stem_coverage_checked": true
+}

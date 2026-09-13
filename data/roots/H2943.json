@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "load"
+ ],
+ "strong": "H2943",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "טַֽעֲנוּ",
+      "translit": "ta'anu",
+      "ref": "Gen.45.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "True homograph with H2944 (\"pierce\"), same spelling טען, both added in this same batch. Per the root-key superscript convention (lower Strong's number gets ¹), this root is טען¹ and H2944 is טען²."
+ ],
+ "root": "טען¹",
+ "search_match": [
+  "2943",
+  "h2943",
+  "load (ta'an)",
+  "ta'an",
+  "טען¹"
+ ],
+ "citation_translit": "ta'an",
+ "stem_coverage_checked": true
+}

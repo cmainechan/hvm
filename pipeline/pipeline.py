@@ -440,6 +440,18 @@ KNOWN_EXCEPTIONS = {
     # kept anyway per the same explicit exception as H1103 (and
     # H2904/H6140/H3960/H7710/H1110/H1895/H4048/H8365), since no
     # absolute-state attestation exists at all for this root.
+    ('H2909', 'palel', 'participle_active', 'mp'),  # only attestation
+    # (Gen.21.16, כִּמְטַחֲוֵ֣י קֶשֶׁת, "a bowshot away" -- lit. "as those
+    # who shoot a bow") is a construct-state participle; kept anyway per
+    # the same explicit exception as H1103/H1491 (and
+    # H2904/H6140/H3960/H7710/H1110/H1895/H4048/H8365), since no
+    # absolute-state attestation exists at all for this root.
+    ('H2944', 'pual', 'participle_passive', 'mp'),  # only attestation
+    # (Isa.14.19, מְטֹ֣עֲנֵי חָ֑רֶב, "[clothed with the slain] that are
+    # thrust through with the sword") is a construct-state participle;
+    # kept anyway per the same explicit exception as H1103/H1491/H2909
+    # (and H2904/H6140/H3960/H7710/H1110/H1895/H4048/H8365), since no
+    # absolute-state attestation exists at all for this root.
 }
 
 

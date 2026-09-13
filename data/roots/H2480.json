@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "seize"
+ ],
+ "strong": "H2480",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּחְלְטוּ",
+      "translit": "vayyachltu",
+      "ref": "1Kgs.20.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "חלט",
+ "search_match": [
+  "2480",
+  "h2480",
+  "seize (chalat)",
+  "chalat",
+  "חלט"
+ ],
+ "citation_translit": "chalat",
+ "stem_coverage_checked": true
+}

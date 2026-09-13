@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "make guilty"
+ ],
+ "strong": "H2325",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְחִיַּבְתֶּם",
+      "translit": "vchiyyavtem",
+      "ref": "Dan.1.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "חוב",
+ "search_match": [
+  "2325",
+  "h2325",
+  "make guilty",
+  "chuv",
+  "חוב"
+ ],
+ "citation_translit": "chuv",
+ "stem_coverage_checked": true
+}

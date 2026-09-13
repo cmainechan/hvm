@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "free"
+ ],
+ "strong": "H2666",
+ "stems": {
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "חֻפָּֽשָׁה",
+      "translit": "chuppashah",
+      "ref": "Lev.19.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym: shares consonants חפש with H2664 (\"search for\"), a separate, unrelated Strong's entry already in this dataset (the sin/shin dot is a diacritic, not a separate letter, per the same convention used for שחה/שחה). Per the root-key superscript convention (lower Strong's number gets ¹), H2664 has been retroactively relabeled חפש¹ in this same batch and this root is חפש²."
+ ],
+ "root": "חפש²",
+ "search_match": [
+  "2666",
+  "h2666",
+  "free",
+  "chafash",
+  "חפש²"
+ ],
+ "citation_translit": "chafash",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "draw a circle"
+ ],
+ "strong": "H2328",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חָג",
+      "translit": "chag",
+      "ref": "Job.26.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "חוג",
+ "search_match": [
+  "2328",
+  "h2328",
+  "draw a circle",
+  "chug",
+  "חוג"
+ ],
+ "citation_translit": "chug",
+ "stem_coverage_checked": true
+}

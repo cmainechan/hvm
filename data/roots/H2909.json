@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "shoot"
+ ],
+ "strong": "H2909",
+ "stems": {
+  "palel": {
+   "sense_hint": "intensive (reduplicated, geminate root) (only biblical occurrence is a construct-state participle, not a free citation form -- shown here as an explicit exception to the absolute-state-only participle rule, since no other attestation exists)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "כִּמְטַחֲוֵי",
+      "translit": "kimtachave",
+      "ref": "Gen.21.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Only attestation (Gen.21.16, כִּ/מְטַחֲוֵ֣י קֶ֔שֶׁת, \"a bowshot [away]\", lit. \"as those who shoot a bow\") is a construct-state participle, normally excluded by the absolute-state-only participle rule -- kept as an explicit exception (same precedent as H1103/H1491, and H2904/H6140/H3960/H7710/H1110/H1895/H4048/H8365), since no other attestation exists at all for this root. Added ('H2909', 'palel', 'participle_active', 'mp') to KNOWN_EXCEPTIONS in pipeline.py."
+ ],
+ "root": "טחה",
+ "search_match": [
+  "2909",
+  "h2909",
+  "shoot",
+  "tachah",
+  "טחה"
+ ],
+ "citation_translit": "tachah",
+ "stem_coverage_checked": true
+}

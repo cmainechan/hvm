@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "be humble"
+ ],
+ "strong": "H6800",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְהַצְנֵעַ",
+      "translit": "vhatznea",
+      "ref": "Mic.6.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Only one verbal attestation exists (Mic.6.8, hiphil infinitive absolute, \"and to walk humbly with thy God\"). The word also occurs at Prov.11.2 (צְנוּעִ֥ים), but that occurrence is tagged in the morphology as an ADJECTIVE (lemma \"6800 b\", morph HAampa -- no verb segment at all), not a verb form, so it isn't a second entry for this verb-paradigm dataset even though the word itself isn't a true hapax across the whole corpus."
+ ],
+ "root": "צנע",
+ "search_match": [
+  "6800",
+  "h6800",
+  "be humble",
+  "tzana",
+  "צנע"
+ ],
+ "citation_translit": "tzana",
+ "stem_coverage_checked": true
+}
