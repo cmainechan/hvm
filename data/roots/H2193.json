@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "be extinguished"
+ ],
+ "strong": "H2193",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (niphal-only root)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִזְעָכוּ",
+      "translit": "niz'akhu",
+      "ref": "Job.17.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "זעך",
+ "search_match": [
+  "2193",
+  "h2193",
+  "be extinguished",
+  "za'akh",
+  "זעך"
+ ],
+ "citation_translit": "za'akh",
+ "stem_coverage_checked": true
+}

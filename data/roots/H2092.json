@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "loathe"
+ ],
+ "strong": "H2092",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְזִֽהֲמַתּוּ",
+      "translit": "vzihamattu",
+      "ref": "Job.33.20",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "זהם",
+ "search_match": [
+  "2092",
+  "h2092",
+  "loathe (zaham)",
+  "zaham",
+  "זהם"
+ ],
+ "citation_translit": "zaham",
+ "stem_coverage_checked": true
+}

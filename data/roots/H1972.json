@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "be far removed"
+ ],
+ "strong": "H1972",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (niphal-only root)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "וְהַנַּהֲלָאָה",
+      "translit": "vhannahala'ah",
+      "ref": "Mic.4.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "הלא",
+ "search_match": [
+  "1972",
+  "h1972",
+  "be far removed",
+  "hala",
+  "הלא"
+ ],
+ "citation_translit": "hala",
+ "stem_coverage_checked": true
+}

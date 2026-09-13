@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "scrape"
+ ],
+ "strong": "H1623",
+ "stems": {
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְהִתְגָּרֵד",
+      "translit": "lhitgared",
+      "ref": "Job.2.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "גרד",
+ "search_match": [
+  "1623",
+  "h1623",
+  "scrape (garad)",
+  "garad",
+  "גרד"
+ ],
+ "citation_translit": "garad",
+ "stem_coverage_checked": true
+}

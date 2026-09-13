@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "cut off"
+ ],
+ "strong": "H1491",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple (only biblical occurrence is a construct-state participle, not a free citation form -- shown here as an explicit exception to the absolute-state-only participle rule, since no other attestation exists)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "גוֹזִי",
+      "translit": "gozi",
+      "ref": "Ps.71.6",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Only attestation (Ps.71.6, גוֹזִ֑י, \"thou art he that took me out of my mother's bowels\") is a construct-state participle (with a pronominal suffix), normally excluded by the absolute-state-only participle rule -- kept as an explicit exception (same precedent as H1103 in the previous batch, and H2904/H6140/H3960/H7710/H1110/H1895/H4048/H8365) since no other attestation exists at all for this root. Added ('H1491', 'qal', 'participle_active', 'ms') to KNOWN_EXCEPTIONS in pipeline.py."
+ ],
+ "root": "גזה",
+ "search_match": [
+  "1491",
+  "h1491",
+  "cut off (gazah)",
+  "gazah",
+  "גזה"
+ ],
+ "citation_translit": "gazah",
+ "stem_coverage_checked": true
+}

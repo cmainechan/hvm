@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "sweep away"
+ ],
+ "strong": "H1640",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "גְּרָפָם",
+      "translit": "grafam",
+      "ref": "Judg.5.21",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "גרף",
+ "search_match": [
+  "1640",
+  "h1640",
+  "sweep away (garaf)",
+  "garaf",
+  "גרף"
+ ],
+ "citation_translit": "garaf",
+ "stem_coverage_checked": true
+}

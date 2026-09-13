@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "leap"
+ ],
+ "strong": "H1750",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָּדוּץ",
+      "translit": "tadutz",
+      "ref": "Job.41.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Ref follows WLC/Hebrew versification (Job.41.14); the WLC text itself carries an explicit <note>KJV:Job.41.22</note> confirming this is the same verse as the person's citation (Job 41:22), a known Hebrew/English chapter-numbering difference in this part of Job, not a data error."
+ ],
+ "root": "דוץ",
+ "search_match": [
+  "1750",
+  "h1750",
+  "leap (dutz)",
+  "dutz",
+  "דוץ"
+ ],
+ "citation_translit": "dutz",
+ "stem_coverage_checked": true
+}

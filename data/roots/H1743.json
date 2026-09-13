@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "pound"
+ ],
+ "strong": "H1743",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "דָכוּ",
+      "translit": "dakhu",
+      "ref": "Num.11.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "דוך",
+ "search_match": [
+  "1743",
+  "h1743",
+  "pound",
+  "dukh",
+  "דוך"
+ ],
+ "citation_translit": "dukh",
+ "stem_coverage_checked": true
+}

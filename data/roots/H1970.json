@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "wrong"
+ ],
+ "strong": "H1970",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַּהְכְּרוּ",
+      "translit": "tahkru",
+      "ref": "Job.19.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "הכר",
+ "search_match": [
+  "1970",
+  "h1970",
+  "wrong (hakhar)",
+  "hakhar",
+  "הכר"
+ ],
+ "citation_translit": "hakhar",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "pine away"
+ ],
+ "strong": "H1727",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "וּמְדִיבֹת",
+      "translit": "umdivot",
+      "ref": "Lev.26.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "דוב",
+ "search_match": [
+  "1727",
+  "h1727",
+  "pine away",
+  "duv",
+  "דוב"
+ ],
+ "citation_translit": "duv",
+ "stem_coverage_checked": true
+}

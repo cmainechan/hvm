@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "fish"
+ ],
+ "strong": "H1770",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְדִיגוּם",
+      "translit": "vdigum",
+      "ref": "Jer.16.16",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "דיג",
+ "search_match": [
+  "1770",
+  "h1770",
+  "fish",
+  "dig",
+  "דיג"
+ ],
+ "citation_translit": "dig",
+ "stem_coverage_checked": true
+}

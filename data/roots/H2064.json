@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "endow"
+ ],
+ "strong": "H2064",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "זְבָדַנִי",
+      "translit": "zvadani",
+      "ref": "Gen.30.20",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "זבד",
+ "search_match": [
+  "2064",
+  "h2064",
+  "endow",
+  "zavad",
+  "זבד"
+ ],
+ "citation_translit": "zavad",
+ "stem_coverage_checked": true
+}

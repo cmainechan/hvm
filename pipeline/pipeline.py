@@ -434,6 +434,12 @@ KNOWN_EXCEPTIONS = {
     # exception as H2904/H6140/H3960/H7710/H1110/H1895/H4048/H8365, since
     # no absolute-state attestation exists at all for this root (it's a
     # hapax legomenon -- this is its only occurrence in the corpus).
+    ('H1491', 'qal', 'participle_active', 'ms'),  # only attestation
+    # (Ps.71.6, גוֹזִ֑י, "thou art he that took me out of my mother's
+    # bowels") is a construct-state participle with a pronominal suffix;
+    # kept anyway per the same explicit exception as H1103 (and
+    # H2904/H6140/H3960/H7710/H1110/H1895/H4048/H8365), since no
+    # absolute-state attestation exists at all for this root.
 }
 
 

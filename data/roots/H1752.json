@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "dwell"
+ ],
+ "strong": "H1752",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מִדּוּר",
+      "translit": "middur",
+      "ref": "Ps.84.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "דור",
+ "search_match": [
+  "1752",
+  "h1752",
+  "dwell (dur)",
+  "dur",
+  "דור"
+ ],
+ "citation_translit": "dur",
+ "stem_coverage_checked": true
+}

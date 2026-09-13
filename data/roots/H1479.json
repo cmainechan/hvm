@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "shut"
+ ],
+ "strong": "H1479",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָגִיפוּ",
+      "translit": "yagifu",
+      "ref": "Neh.7.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "גוף",
+ "search_match": [
+  "1479",
+  "h1479",
+  "shut (guf)",
+  "guf",
+  "גוף"
+ ],
+ "citation_translit": "guf",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "honor"
+ ],
+ "strong": "H2082",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִזְבְּלֵנִי",
+      "translit": "yizbleni",
+      "ref": "Gen.30.20",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Strong's own headline meaning for this entry is \"to reside\" (usage \"dwell with\"), not \"honor\" -- KJV renders this verse \"now will my husband dwell with me\". The person's gloss (\"honor\") reflects a different, widely-followed reading (BDB/HALOT connect this to an Akkadian cognate meaning \"to exalt/honor\", and ESV/NASB/NIV render \"now my husband will honor me\") rather than a citation mismatch on my part -- genuinely disputed between lexicons/translations, not settled either way by the single attestation. Shipped as \"honor\" per the person's gloss; flagging the dispute rather than treating either reading as certain."
+ ],
+ "root": "זבל",
+ "search_match": [
+  "2082",
+  "h2082",
+  "honor (zaval)",
+  "zaval",
+  "זבל"
+ ],
+ "citation_translit": "zaval",
+ "stem_coverage_checked": true
+}

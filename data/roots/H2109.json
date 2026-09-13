@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "feed"
+ ],
+ "strong": "H2109",
+ "stems": {
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְיֻזָּנִים",
+      "translit": "myuzzanim",
+      "ref": "Jer.5.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "זון",
+ "search_match": [
+  "2109",
+  "h2109",
+  "feed (zun)",
+  "zun",
+  "זון"
+ ],
+ "citation_translit": "zun",
+ "stem_coverage_checked": true
+}

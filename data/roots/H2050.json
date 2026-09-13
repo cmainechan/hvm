@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "assail"
+ ],
+ "strong": "H2050",
+ "stems": {
+  "polel": {
+   "sense_hint": "intensive (causative)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תְּהֽוֹתְתוּ",
+      "translit": "thottu",
+      "ref": "Ps.62.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "התת",
+ "search_match": [
+  "2050",
+  "h2050",
+  "assail",
+  "hatat",
+  "התת"
+ ],
+ "citation_translit": "hatat",
+ "stem_coverage_checked": true
+}

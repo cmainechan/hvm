@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "dry up"
+ ],
+ "strong": "H2215",
+ "stems": {
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְזֹרְבוּ",
+      "translit": "yzorvu",
+      "ref": "Job.6.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "זרב",
+ "search_match": [
+  "2215",
+  "h2215",
+  "dry up (zarav)",
+  "zarav",
+  "זרב"
+ ],
+ "citation_translit": "zarav",
+ "stem_coverage_checked": true
+}
