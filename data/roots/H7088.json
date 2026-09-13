@@ -1,0 +1,40 @@
+{
+ "glosses": [
+  "roll up"
+ ],
+ "strong": "H7088",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive (this root has no attested qal; piel serves as its basic/citation stem)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "קִפַּדְתִּי",
+      "translit": "qippadti",
+      "ref": "Isa.38.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "קפד",
+ "search_match": [
+  "7088",
+  "h7088",
+  "roll up (qafad)",
+  "qafad",
+  "קפד"
+ ],
+ "citation_translit": "qafad",
+ "notes": [
+  "Gloss trimmed from the requested \"roll up; gather together\" to \"roll up\": this root's only attestation (Isa.38.12, Hezekiah's illness poem, \"like a weaver I have rolled up my life\") supports the weaver's-loom image but nothing supports \"gather together\" as a separate sense.",
+  "Flagging \"roll up\" itself as a judgment call, not a certainty: Strong's own usage tag for this citation is \"cut off\" (matching KJV, \"I have cut off like a weaver my life\"), and \"cut off\" also fits the weaver-finishing-the-cloth image at least as well as \"roll up\" (which follows ESV's rendering instead). Shipped as \"roll up\" per the request, but flagging in case \"cut off\" is preferred as the more traditional/certain reading."
+ ],
+ "stem_coverage_checked": true
+}

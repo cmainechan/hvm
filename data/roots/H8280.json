@@ -33,15 +33,16 @@
   }
  },
  "notes": [
-  "Gloss changed from the requested \"persevere\" to \"prevail\" per confirmation: both citations are the Jacob/Israel-naming narrative (Gen.32.29 \"thou hast power with God and with men, and hast prevailed\"; Hos.12.4, the same story retold) and read as \"prevail\"/\"have power (as a prince)\"/\"contend\" in every standard rendering, not endurance. BDB's related noun מִשְׂרָה likewise means \"rule, dominion,\" not perseverance."
+  "Gloss changed from the requested \"persevere\" to \"prevail\" per confirmation: both citations are the Jacob/Israel-naming narrative (Gen.32.29 \"thou hast power with God and with men, and hast prevailed\"; Hos.12.4, the same story retold) and read as \"prevail\"/\"have power (as a prince)\"/\"contend\" in every standard rendering, not endurance. BDB's related noun מִשְׂרָה likewise means \"rule, dominion,\" not perseverance.",
+  "Retroactively renamed from the plain key \"שרה\" to \"שרה¹\" when H8281 (\"set free\") was added to the dataset as \"שרה²\" -- true homograph, distinguished only by sin/shin dot (שָׂרָה vs שָׁרָה), per the root-key superscript convention (lower Strong's number gets ¹)."
  ],
- "root": "שרה",
+ "root": "שרה¹",
  "search_match": [
   "8280",
   "h8280",
   "prevail",
   "sarah",
-  "שרה"
+  "שרה¹"
  ],
  "citation_translit": "sarah",
  "stem_coverage_checked": true

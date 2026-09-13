@@ -1,0 +1,40 @@
+{
+ "glosses": [
+  "set free"
+ ],
+ "strong": "H8281",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive (this root has no attested qal; piel serves as its basic/citation stem)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "שֵֽׁרִיתִיךָ",
+      "translit": "sheritikha",
+      "ref": "Jer.15.11",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "שרה²",
+ "search_match": [
+  "8281",
+  "h8281",
+  "set free",
+  "sharah",
+  "שרה²"
+ ],
+ "citation_translit": "sharah",
+ "notes": [
+  "Root-key homograph: shares bare consonants שרה with already-shipped H8280 (\"prevail\") -- distinguished only by sin/shin dot (שָׂרָה vs שָׁרָה), the same shape of overlap as H2820/H2821 (חשך) earlier in this project. Per the root-key superscript convention (lower Strong's number gets ¹), H8280 has been retroactively relabeled שרה¹ in this same batch and this root is שרה².",
+  "Requested Qal (\"let loose\") excluded: zero attestation anywhere in the corpus. This root's only occurrence in the entire corpus is the Piel at Jer.15.11 (\"Have I not set you free/interceded for you for good?\" -- ESV/NASB \"set you free\")."
+ ],
+ "stem_coverage_checked": true
+}

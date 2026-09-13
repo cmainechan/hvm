@@ -1,0 +1,40 @@
+{
+ "glosses": [
+  "teach to walk"
+ ],
+ "strong": "H8637",
+ "stems": {
+  "tiphil": {
+   "sense_hint": "causative (Tiphil -- a rare ת-prefixed causative stem, structurally parallel to Hiphil's ה-prefix, unique to this root)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "תִרְגַּלְתִּי",
+      "translit": "tirgalti",
+      "ref": "Hos.11.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "תרגל",
+ "search_match": [
+  "8637",
+  "h8637",
+  "teach to walk",
+  "tirgal",
+  "תרגל"
+ ],
+ "citation_translit": "tirgal",
+ "notes": [
+  "Rare stem: Tiphil (morph type letter 'c'), already known to the UI from H8474's earlier addition (STEM_ORDER/STEM_COLOR in both templates already include it), so no infra change needed here.",
+  "Citation (Hos.11.3, \"I taught Ephraim to walk, taking them by their arms\") matches the requested gloss exactly."
+ ],
+ "stem_coverage_checked": true
+}
