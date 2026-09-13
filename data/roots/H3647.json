@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "store up"
+ ],
+ "strong": "H3647",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "כָּמֻס",
+      "translit": "kamus",
+      "ref": "Deut.32.34",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "כמס",
+ "search_match": [
+  "3647",
+  "h3647",
+  "store up (kamas)",
+  "kamas",
+  "כמס"
+ ],
+ "citation_translit": "kamas",
+ "stem_coverage_checked": true
+}

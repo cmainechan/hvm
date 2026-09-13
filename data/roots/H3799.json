@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "be stained"
+ ],
+ "strong": "H3799",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (niphal-only root)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִכְתָּם",
+      "translit": "nikhtam",
+      "ref": "Jer.2.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "כתם",
+ "search_match": [
+  "3799",
+  "h3799",
+  "be stained",
+  "katam",
+  "כתם"
+ ],
+ "citation_translit": "katam",
+ "stem_coverage_checked": true
+}

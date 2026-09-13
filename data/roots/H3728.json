@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "make cower"
+ ],
+ "strong": "H3728",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִכְפִּישַׁנִי",
+      "translit": "hikhpishani",
+      "ref": "Lam.3.16",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "כפש",
+ "search_match": [
+  "3728",
+  "h3728",
+  "make cower",
+  "kafash",
+  "כפש"
+ ],
+ "citation_translit": "kafash",
+ "stem_coverage_checked": true
+}

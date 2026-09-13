@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "hide"
+ ],
+ "strong": "H3670",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (niphal-only root)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִכָּנֵף",
+      "translit": "yikkanef",
+      "ref": "Isa.30.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "כנף",
+ "search_match": [
+  "3670",
+  "h3670",
+  "hide (kanaf)",
+  "kanaf",
+  "כנף"
+ ],
+ "citation_translit": "kanaf",
+ "stem_coverage_checked": true
+}

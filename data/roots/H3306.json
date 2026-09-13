@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "gasp"
+ ],
+ "strong": "H3306",
+ "stems": {
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּתְיַפֵּחַ",
+      "translit": "tityappecha",
+      "ref": "Jer.4.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "יפח",
+ "search_match": [
+  "3306",
+  "h3306",
+  "gasp",
+  "yafach",
+  "יפח"
+ ],
+ "citation_translit": "yafach",
+ "stem_coverage_checked": true
+}

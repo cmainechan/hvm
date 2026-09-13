@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "become Jewish"
+ ],
+ "strong": "H3054",
+ "stems": {
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מִֽתְיַהֲדִים",
+      "translit": "mityahadim",
+      "ref": "Esth.8.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "יהד",
+ "search_match": [
+  "3054",
+  "h3054",
+  "become Jewish",
+  "yahad",
+  "יהד"
+ ],
+ "citation_translit": "yahad",
+ "stem_coverage_checked": true
+}

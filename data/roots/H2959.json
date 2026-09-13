@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "burden"
+ ],
+ "strong": "H2959",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַטְרִיחַ",
+      "translit": "yatricha",
+      "ref": "Job.37.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "טרח",
+ "search_match": [
+  "2959",
+  "h2959",
+  "burden",
+  "tarach",
+  "טרח"
+ ],
+ "citation_translit": "tarach",
+ "stem_coverage_checked": true
+}

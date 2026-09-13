@@ -57,7 +57,8 @@
  },
  "notes": [
   "True homograph of the existing H4185 (\"depart, mostly of inanimate things\"), both spelled מוש -- added as מוש¹ (lower Strong's number) per the ascending-Strong's-number superscript convention; H4185 is retroactively renamed מוש² in this same batch.",
-  "Gloss collision: \"touch\" (qal) matches the existing נגע (H5060) root gloss exactly -- disambiguating search alias added. \"handle\" (hiphil) also overlaps the existing תפש (H8610) piel stem_gloss, and \"touch\" overlaps H4185/מוש²'s own sibling hiphil stem_gloss \"touch\" -- both stem-level only, no alias needed for those."
+  "Gloss collision: \"touch\" (qal) matches the existing נגע (H5060) root gloss exactly -- disambiguating search alias added. \"handle\" (hiphil) also overlaps the existing תפש (H8610) piel stem_gloss, and \"touch\" overlaps H4185/מוש²'s own sibling hiphil stem_gloss \"touch\" -- both stem-level only, no alias needed for those.",
+  "H3237 (יָמַשׁ, \"touch\") was requested as a separate hapax (Judg.16.26), but that verse's word is a ketiv/qere pair: the ketiv is spelled יָמַשׁ (H3237, unvocalized in the text -- והימשני) while the qere (the actually read form, carrying the vowels) is this root's own hiphil imperative form already shipped here (וַהֲמִשֵׁנִי, vahamisheni). Same shape as the H1089/H926 case in an earlier batch: not a genuine second attestation, so no separate H3237 file was created."
  ],
  "root": "מוש¹",
  "search_match": [

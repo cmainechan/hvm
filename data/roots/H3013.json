@@ -73,14 +73,17 @@
   "piel": "grieve (someone)",
   "hiphil": "afflict"
  },
- "root": "יגה",
+ "root": "יגה¹",
  "search_match": [
   "3013",
   "h3013",
   "be grieved",
   "yagah",
-  "יגה"
+  "יגה¹"
  ],
  "citation_translit": "yagah",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Retroactively renamed from the plain key \"יגה\" to \"יגה¹\" when H3014 (\"remove\") was added to the dataset as \"יגה²\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
+ ]
 }
