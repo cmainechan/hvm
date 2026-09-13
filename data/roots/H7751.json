@@ -128,15 +128,16 @@
   "hithpolel": "run to and fro"
  },
  "notes": [
-  "Qal also has an attested but unrequested nautical sense \"row\" (Ezek.27.8 שָׁטִים \"your rowers\", 27.26 הַשָּׁטִים), matching the lexicon's core meaning (\"to lash, i.e. (the sea with oars) to row; by implication, to travel\"). Included alongside the requested \"go; rove about\"."
+  "Qal also has an attested but unrequested nautical sense \"row\" (Ezek.27.8 שָׁטִים \"your rowers\", 27.26 הַשָּׁטִים), matching the lexicon's core meaning (\"to lash, i.e. (the sea with oars) to row; by implication, to travel\"). Included alongside the requested \"go; rove about\".",
+  "Retroactively renamed from the plain key \"שוט\" to \"שוט²\" when H7750 (\"swerve\") was added to the dataset as \"שוט¹\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
  ],
- "root": "שוט",
+ "root": "שוט²",
  "search_match": [
   "7751",
   "h7751",
   "go; rove about; row",
   "shut",
-  "שוט"
+  "שוט²"
  ],
  "citation_translit": "shut",
  "stem_coverage_checked": true

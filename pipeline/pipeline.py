@@ -464,6 +464,18 @@ KNOWN_EXCEPTIONS = {
     # explicit exception as H1103/H1491/H2909/H2944/H5635 (and
     # H2904/H6140/H3960/H7710/H1110/H1895/H4048/H8365), since no
     # absolute-state attestation exists at all for this root.
+    ('H7750', 'qal', 'participle_active', 'mp'),  # only attestation
+    # (Ps.40.5, וְ/שָׂטֵ֥י כָזָ֑ב, "such as turn aside to lies") is a
+    # construct-state participle; kept anyway per the same explicit
+    # exception as H1103/H1491/H2909/H2944/H5635/H7601 (and
+    # H2904/H6140/H3960/H7710/H1110/H1895/H4048/H8365), since no
+    # absolute-state attestation exists at all for this root.
+    ('H8226', 'qal', 'participle_passive', 'mp'),  # only attestation
+    # (Deut.33.19, וּ/שְׂפוּנֵ֖י טְמ֥וּנֵי חֽוֹל, "the treasures hid in the
+    # sand") is a construct-state participle; kept anyway per the same
+    # explicit exception as H1103/H1491/H2909/H2944/H5635/H7601/H7750
+    # (and H2904/H6140/H3960/H7710/H1110/H1895/H4048/H8365), since no
+    # absolute-state attestation exists at all for this root.
 }
 
 

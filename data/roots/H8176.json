@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "calculate"
+ ],
+ "strong": "H8176",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שָׁעַר",
+      "translit": "sha'ar",
+      "ref": "Prov.23.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "שער²",
+ "search_match": [
+  "8176",
+  "h8176",
+  "calculate",
+  "sha'ar",
+  "שער²"
+ ],
+ "citation_translit": "sha'ar",
+ "stem_coverage_checked": true,
+ "notes": [
+  "Homonym: shares consonants שער with H8175 (\"bristle with dread\"), a separate, unrelated Strong's entry already in this dataset. Per the root-key superscript convention (lower Strong's number gets ¹), H8175 has been retroactively relabeled שער¹ in this same batch and this root is שער²."
+ ]
+}

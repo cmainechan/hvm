@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "swerve"
+ ],
+ "strong": "H7750",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple (only biblical occurrence is a construct-state participle, not a free citation form -- shown here as an explicit exception to the absolute-state-only participle rule, since no other attestation exists)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "וְשָׂטֵי",
+      "translit": "vsate",
+      "ref": "Ps.40.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Only attestation (Ps.40.5, וְ/שָׂטֵ֥י כָזָ֑ב, \"such as turn aside to lies\") is a construct-state participle, normally excluded by the absolute-state-only participle rule -- kept as an explicit exception (same precedent as H1103/H1491/H2909/H2944/H5635/H7601, and H2904/H6140/H3960/H7710/H1110/H1895/H4048/H8365), since no other attestation exists at all for this root. Added ('H7750', 'qal', 'participle_active', 'mp') to KNOWN_EXCEPTIONS in pipeline.py. Ref follows WLC/Hebrew versification; the WLC text itself carries an embedded <note>KJV:Ps.40.4</note> confirming this is the same verse as the person's citation (Ps 40:4). Separately, shares consonants שוט with H7751 (\"rove about; row\"), already in this dataset -- per the root-key superscript convention (lower Strong's number gets ¹), this root is שוט¹ and H7751 has been retroactively relabeled שוט² in this same batch."
+ ],
+ "root": "שוט¹",
+ "search_match": [
+  "7750",
+  "h7750",
+  "swerve (sut)",
+  "sut",
+  "שוט¹"
+ ],
+ "citation_translit": "sut",
+ "stem_coverage_checked": true
+}

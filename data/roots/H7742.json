@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "meditate"
+ ],
+ "strong": "H7742",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לָשׂוּחַ",
+      "translit": "lasucha",
+      "ref": "Gen.24.63",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym: shares consonants שוח with H7743 (\"sink down\"), a separate, unrelated Strong's entry already in this dataset. Per the root-key superscript convention (lower Strong's number gets ¹), this root is שוח¹ and H7743 has been retroactively relabeled שוח² in this same batch."
+ ],
+ "root": "שוח¹",
+ "search_match": [
+  "7742",
+  "h7742",
+  "meditate",
+  "sucha",
+  "שוח¹"
+ ],
+ "citation_translit": "sucha",
+ "stem_coverage_checked": true
+}

@@ -26,7 +26,8 @@
  "notes": [
   "True homograph of H7788 (שׁוּר, \"journey\") -- same bare consonants שור once the sin/shin dot (a diacritic, not a separate letter) is stripped, genuinely unrelated meanings. Both are new in this same batch, so neither needs a retroactive rename: assigned שור¹ (lower Strong's number) and שור² per the ascending-Strong's-number superscript convention. Two more unadded homonyms share these same consonants -- H7787 (שׂוּר, \"saw, cut\") and H7789 (שׁוּר, \"spy, lurk, observe\") -- flagged for whoever adds either of them next.",
   "Requested Hiphil \"make princes\" is not attested under H7786 -- its only 2 occurrences are both Qal. That sense already lives in this dataset under the related-but-distinct H8323 שָׂרַר (\"rule\"; hiphil stem_gloss \"appoint princes\", cited to the same Hos.8.4 הֵשִׂ֖ירוּ), a geminate root, not a spelling variant of this hollow root -- kept as a separate root per an explicit decision, not merged in via strong_alt.",
-  "The qal wayyiqtol/3ms slot has a second attestation, Hos.12.5 (וָיָּשַׂר, with an unusual initial qamats where a patach is expected), immediately after the naming-pun verse Hos.12.4 (שָׂרָה, H8280) -- kept out of consideration as the representative citation in favor of Judg.9.22's clean, uncontested \"reigned,\" though both independently support \"rule.\""
+  "The qal wayyiqtol/3ms slot has a second attestation, Hos.12.5 (וָיָּשַׂר, with an unusual initial qamats where a patach is expected), immediately after the naming-pun verse Hos.12.4 (שָׂרָה, H8280) -- kept out of consideration as the representative citation in favor of Judg.9.22's clean, uncontested \"reigned,\" though both independently support \"rule.\"",
+  "H7787 (שׂוּר, \"cut\" -- the fourth homonym flagged in this root's notes above) has now been added, as שור³. H7789 (\"spy, lurk, observe\") remains unadded and will need the next available superscript when it is."
  ],
  "root": "שור¹",
  "search_match": [

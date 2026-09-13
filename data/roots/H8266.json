@@ -82,15 +82,16 @@
   "piel": "deal falsely"
  },
  "notes": [
-  "Homonym check: shares consonants ש-ק-ר with H8265 (\"to ogle, blink coquettishly\"), an unrelated root. Requested gloss matches H8266 precisely (\"to cheat, i.e. be untrue\"); no cross-contamination found in the corpus tagging."
+  "Homonym check: shares consonants ש-ק-ר with H8265 (\"to ogle, blink coquettishly\"), an unrelated root. Requested gloss matches H8266 precisely (\"to cheat, i.e. be untrue\"); no cross-contamination found in the corpus tagging.",
+  "Retroactively renamed from the plain key \"שקר\" to \"שקר²\" when H8265 (\"ogle\") was added to the dataset as \"שקר¹\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
  ],
- "root": "שקר",
+ "root": "שקר²",
  "search_match": [
   "8266",
   "h8266",
   "deal falsely",
   "shaqar",
-  "שקר"
+  "שקר²"
  ],
  "citation_translit": "shaqar",
  "stem_coverage_checked": true

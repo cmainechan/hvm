@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "clothe in scarlet"
+ ],
+ "strong": "H8529",
+ "stems": {
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְתֻלָּעִים",
+      "translit": "mtulla'im",
+      "ref": "Nah.2.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Ref follows WLC/Hebrew versification (Nah.2.4); the WLC text itself carries an embedded <note>KJV:Nah.2.3</note> confirming this is the same verse as the person's citation (Nah 2:3)."
+ ],
+ "root": "תלע",
+ "search_match": [
+  "8529",
+  "h8529",
+  "clothe in scarlet",
+  "tala",
+  "תלע"
+ ],
+ "citation_translit": "tala",
+ "stem_coverage_checked": true
+}

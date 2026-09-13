@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "snow"
+ ],
+ "strong": "H7949",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תַּשְׁלֵג",
+      "translit": "tashleg",
+      "ref": "Ps.68.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Ref follows WLC/Hebrew versification (Ps.68.15); Psalm 68's title shifts its whole numbering by one relative to English Bibles (English 68:14), the same recurring Psalms pattern seen in earlier batches."
+ ],
+ "root": "שלג",
+ "search_match": [
+  "7949",
+  "h7949",
+  "snow",
+  "shalag",
+  "שלג"
+ ],
+ "citation_translit": "shalag",
+ "stem_coverage_checked": true
+}

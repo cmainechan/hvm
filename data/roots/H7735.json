@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "make grow"
+ ],
+ "strong": "H7735",
+ "stems": {
+  "pilpel": {
+   "sense_hint": "intensive (reduplicated)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תְּשַׂגְשֵׂגִי",
+      "translit": "tsagsegi",
+      "ref": "Isa.17.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym: shares consonants שוג with H7734 (\"turn back\"), already in this dataset -- flagged proactively in H7734's own notes in the previous batch. Per the root-key superscript convention (lower Strong's number gets ¹), H7734 has been retroactively relabeled שוג¹ in this same batch and this root is שוג²."
+ ],
+ "root": "שוג²",
+ "search_match": [
+  "7735",
+  "h7735",
+  "make grow (sug)",
+  "sug",
+  "שוג²"
+ ],
+ "citation_translit": "sug",
+ "stem_coverage_checked": true
+}

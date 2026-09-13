@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "drive"
+ ],
+ "strong": "H8338",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְשִׁשֵּׁאתִיךָ",
+      "translit": "vshisshe'tikha",
+      "ref": "Ezek.39.2",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Single-attestation, textually contested form: Strong's own headline meaning is \"to annihilate\" (this occurrence shares consonants with the number-word \"six\" too, and some render it \"leave but the sixth part of thee\"). \"Drive\" follows a third reading (paired with \"turn thee back\" in the same clause), reflected in some modern translations (\"I will turn you around and drive you\"). Shipped per the person's gloss; flagging the three-way dispute rather than presenting it as settled."
+ ],
+ "root": "ששא",
+ "search_match": [
+  "8338",
+  "h8338",
+  "drive (shasha)",
+  "shasha",
+  "ששא"
+ ],
+ "citation_translit": "shasha",
+ "stem_coverage_checked": true
+}

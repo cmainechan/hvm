@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "translate"
+ ],
+ "strong": "H8638",
+ "stems": {
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּמְתֻרְגָּם",
+      "translit": "umturgam",
+      "ref": "Ezra.4.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "תרגם",
+ "search_match": [
+  "8638",
+  "h8638",
+  "translate",
+  "tirgam",
+  "תרגם"
+ ],
+ "citation_translit": "tirgam",
+ "stem_coverage_checked": true
+}

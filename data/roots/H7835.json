@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "turn black"
+ ],
+ "strong": "H7835",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שָׁחַר",
+      "translit": "shachar",
+      "ref": "Job.30.30",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "שחר¹",
+ "search_match": [
+  "7835",
+  "h7835",
+  "turn black (shachar)",
+  "shachar",
+  "שחר¹"
+ ],
+ "citation_translit": "shachar",
+ "stem_coverage_checked": true,
+ "notes": [
+  "Homonym check (cross-reference flagged by Strong's own entry, \"identical with H7836 through the idea of the duskiness of early dawn\"): shares consonants שחר with H7836 (\"diligently seek for good\"), already in this dataset. Per the root-key superscript convention (lower Strong's number gets ¹), this root is שחר¹ and H7836 has been retroactively relabeled שחר² in this same batch."
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "squeeze"
+ ],
+ "strong": "H7818",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָֽאֶשְׂחַט",
+      "translit": "va'eschat",
+      "ref": "Gen.40.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "שחט³",
+ "search_match": [
+  "7818",
+  "h7818",
+  "squeeze",
+  "sachat",
+  "שחט³"
+ ],
+ "citation_translit": "sachat",
+ "stem_coverage_checked": true,
+ "notes": [
+  "This is a third homograph sharing consonants שחט with two roots already in this dataset as a resolved pair, H7819 (\"slaughter\", שחט¹) and H7820 (\"beat out metal\", שחט²). Takes the next available superscript, שחט³, per the same pattern as שור³ in this same batch."
+ ]
+}

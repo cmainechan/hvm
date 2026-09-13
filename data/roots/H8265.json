@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "ogle"
+ ],
+ "strong": "H8265",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "וּֽמְשַׂקְּרוֹת",
+      "translit": "umsaqqrot",
+      "ref": "Isa.3.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "שקר¹",
+ "search_match": [
+  "8265",
+  "h8265",
+  "ogle",
+  "saqar",
+  "שקר¹"
+ ],
+ "citation_translit": "saqar",
+ "stem_coverage_checked": true,
+ "notes": [
+  "Homonym: shares consonants שקר with H8266 (\"deal falsely\"), a separate, unrelated Strong's entry already in this dataset. Per the root-key superscript convention (lower Strong's number gets ¹), this root is שקר¹ and H8266 has been retroactively relabeled שקר² in this same batch."
+ ]
+}

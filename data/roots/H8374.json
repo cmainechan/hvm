@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "loathe"
+ ],
+ "strong": "H8374",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְתָאֵב",
+      "translit": "mta'ev",
+      "ref": "Amos.6.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym: shares consonants תאב with H8373 (\"long for\"), already in this dataset -- flagged proactively in H8373's own notes well before this batch, matching Strong's own note that the two are \"probably identical... through the idea of puffing disdainfully\" (opposite valence: this occurrence, \"I abhor the excellency of Jacob\", confirms the flagged distinction holds). Per the root-key superscript convention (lower Strong's number gets ¹), H8373 has been retroactively relabeled תאב¹ in this same batch and this root is תאב²."
+ ],
+ "root": "תאב²",
+ "search_match": [
+  "8374",
+  "h8374",
+  "loathe (mta'ev)",
+  "mta'ev",
+  "תאב²"
+ ],
+ "citation_translit": "ta'av",
+ "stem_coverage_checked": true
+}

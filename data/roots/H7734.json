@@ -24,15 +24,16 @@
   }
  },
  "notes": [
-  "Homonym risk flagged proactively: shares consonants שוג with H7735 (\"to hedge in\"), a separate Strong's entry not yet in this dataset. If H7735 is ever added, both roots will need the superscript convention (שוג¹/שוג²) -- flagging now the same way H167's notes flagged the אהל¹/² collision before it happened."
+  "Homonym risk flagged proactively: shares consonants שוג with H7735 (\"to hedge in\"), a separate Strong's entry not yet in this dataset. If H7735 is ever added, both roots will need the superscript convention (שוג¹/שוג²) -- flagging now the same way H167's notes flagged the אהל¹/² collision before it happened.",
+  "Retroactively renamed from the plain key \"שוג\" to \"שוג¹\" when H7735 (\"make grow\") was added to the dataset as \"שוג²\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
  ],
- "root": "שוג",
+ "root": "שוג¹",
  "search_match": [
   "7734",
   "h7734",
   "turn back",
   "sug",
-  "שוג"
+  "שוג¹"
  ],
  "citation_translit": "sug",
  "stem_coverage_checked": true

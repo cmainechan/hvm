@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "treasure"
+ ],
+ "strong": "H8226",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple (only biblical occurrence is a construct-state participle, not a free citation form -- shown here as an explicit exception to the absolute-state-only participle rule, since no other attestation exists)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "וּשְׂפוּנֵי",
+      "translit": "usfune",
+      "ref": "Deut.33.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Only attestation (Deut.33.19, וּ/שְׂפוּנֵ֖י טְמ֥וּנֵי חֽוֹל, \"the treasures hid in the sand\") is a construct-state participle, normally excluded by the absolute-state-only participle rule -- kept as an explicit exception (same precedent as H1103/H1491/H2909/H2944/H5635/H7601/H7750, and H2904/H6140/H3960/H7710/H1110/H1895/H4048/H8365), since no other attestation exists at all for this root. Added ('H8226', 'qal', 'participle_passive', 'mp') to KNOWN_EXCEPTIONS in pipeline.py."
+ ],
+ "root": "שפן",
+ "search_match": [
+  "8226",
+  "h8226",
+  "treasure (safan)",
+  "safan",
+  "שפן"
+ ],
+ "citation_translit": "safan",
+ "stem_coverage_checked": true
+}

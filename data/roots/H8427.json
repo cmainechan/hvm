@@ -45,15 +45,16 @@
   "hiphil": "set a mark"
  },
  "notes": [
-  "Homonym watch: H8428 (also תָּוָה, \"to grieve\") shares the exact same spelling and pointing with this root, but is not yet in the dataset. If H8428 is added later, this root (the lower Strong's number) should become תוה¹ and H8428 should become תוה² per the ascending-Strong's-number superscript convention -- flagging now so that future addition doesn't miss it."
+  "Homonym watch: H8428 (also תָּוָה, \"to grieve\") shares the exact same spelling and pointing with this root, but is not yet in the dataset. If H8428 is added later, this root (the lower Strong's number) should become תוה¹ and H8428 should become תוה² per the ascending-Strong's-number superscript convention -- flagging now so that future addition doesn't miss it.",
+  "Retroactively renamed from the plain key \"תוה\" to \"תוה¹\" when H8428 (\"pain\") was added to the dataset as \"תוה²\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
  ],
- "root": "תוה",
+ "root": "תוה¹",
  "search_match": [
   "8427",
   "h8427",
   "mark",
   "tavah",
-  "תוה"
+  "תוה¹"
  ],
  "citation_translit": "tavah",
  "stem_coverage_checked": true

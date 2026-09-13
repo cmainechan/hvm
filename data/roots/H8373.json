@@ -24,15 +24,16 @@
   }
  },
  "notes": [
-  "Homonym check: shares consonants ת-א-ב with H8374, an unrelated root not yet in this dataset -- Strong's calls H8374 \"probably identical\" with H8373 through the idea of \"puffing disdainfully,\" but H8374's actual gloss is \"loathe (morally), abhor,\" the opposite valence of \"long for.\" No cross-contamination found; every occurrence used here is tagged H8373 specifically."
+  "Homonym check: shares consonants ת-א-ב with H8374, an unrelated root not yet in this dataset -- Strong's calls H8374 \"probably identical\" with H8373 through the idea of \"puffing disdainfully,\" but H8374's actual gloss is \"loathe (morally), abhor,\" the opposite valence of \"long for.\" No cross-contamination found; every occurrence used here is tagged H8373 specifically.",
+  "Retroactively renamed from the plain key \"תאב\" to \"תאב¹\" when H8374 (\"loathe\") was added to the dataset as \"תאב²\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
  ],
- "root": "תאב",
+ "root": "תאב¹",
  "search_match": [
   "8373",
   "h8373",
   "long for (ta'av)",
   "ta'av",
-  "תאב"
+  "תאב¹"
  ],
  "citation_translit": "ta'av",
  "stem_coverage_checked": true

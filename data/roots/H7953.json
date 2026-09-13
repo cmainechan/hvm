@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "remove"
+ ],
+ "strong": "H7953",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵשֶׁל",
+      "translit": "yeshel",
+      "ref": "Job.27.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "שלה³",
+ "search_match": [
+  "7953",
+  "h7953",
+  "remove (shalah)",
+  "shalah",
+  "שלה³"
+ ],
+ "citation_translit": "shalah",
+ "stem_coverage_checked": true,
+ "notes": [
+  "This is a third homograph sharing consonants שלה with two roots already in this dataset as a resolved pair, H7951 (\"be at ease; prosper\", שלה¹) and H7952 (\"be negligent\", שלה²). Takes the next available superscript, שלה³, per the same pattern as שור³/שחט³/שקד³ in this same batch."
+ ]
+}

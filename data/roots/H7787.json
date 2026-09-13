@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "cut"
+ ],
+ "strong": "H7787",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּשַׂר",
+      "translit": "vayyasar",
+      "ref": "1Chr.20.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "This is the third of four homographs sharing consonants שור: H7786 (שור¹, \"rule\") and H7788 (שור², \"journey\") are already in this dataset, and H7786's own notes had already flagged this root (and H7789, \"spy, lurk, observe\", still unadded) as pending. Takes the next available superscript, שור³, per that note -- H7789 remains unadded and still needs one when it's added."
+ ],
+ "root": "שור³",
+ "search_match": [
+  "7787",
+  "h7787",
+  "cut (sur)",
+  "sur",
+  "שור³"
+ ],
+ "citation_translit": "sur",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "bind"
+ ],
+ "strong": "H8244",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (niphal-only root)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִשְׂקַד",
+      "translit": "nisqad",
+      "ref": "Lam.1.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "שקד³",
+ "search_match": [
+  "8244",
+  "h8244",
+  "bind (saqad)",
+  "saqad",
+  "שקד³"
+ ],
+ "citation_translit": "saqad",
+ "stem_coverage_checked": true,
+ "notes": [
+  "This is a third homograph sharing consonants שקד with two roots already in this dataset as a resolved pair, H8245 (\"keep watch\", שקד¹) and H8246 (\"be shaped like almond blossoms\", שקד²). Takes the next available superscript, שקד³, per the same pattern as שור³/שחט³ in this same batch."
+ ]
+}

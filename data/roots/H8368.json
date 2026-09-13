@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "break out"
+ ],
+ "strong": "H8368",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (niphal-only root)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּשָּׂתְרוּ",
+      "translit": "vayyissatru",
+      "ref": "1Sam.5.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "שתר",
+ "search_match": [
+  "8368",
+  "h8368",
+  "break out (satar)",
+  "satar",
+  "שתר"
+ ],
+ "citation_translit": "satar",
+ "stem_coverage_checked": true
+}
