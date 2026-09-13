@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "be joined"
+ ],
+ "strong": "H7947",
+ "stems": {
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "מְשֻׁלָּבֹת",
+      "translit": "mshullavot",
+      "ref": "Exod.26.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Strong's usage list (\"equally distant, set in order\") reads differently from \"be joined\" -- BDB has no entry for this root in the available lexicon file, so the gloss is verified here against standard translation consensus instead: both attestations describe the tabernacle boards' tenons as מְשֻׁלָּבֹת אִשָּׁה אֶל־אֲחוֹתָהּ, \"each fitted/joined to its sister [board]\" -- several major translations (e.g. ESV) render this literally \"joined to one another,\" directly supporting the requested gloss."
+ ],
+ "root": "שלב",
+ "search_match": [
+  "7947",
+  "h7947",
+  "be joined",
+  "shalav",
+  "שלב"
+ ],
+ "citation_translit": "shalav",
+ "stem_coverage_checked": true
+}

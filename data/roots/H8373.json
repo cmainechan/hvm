@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "long for"
+ ],
+ "strong": "H8373",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "תָּאַבְתִּי",
+      "translit": "ta'avti",
+      "ref": "Ps.119.40",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym check: shares consonants ת-א-ב with H8374, an unrelated root not yet in this dataset -- Strong's calls H8374 \"probably identical\" with H8373 through the idea of \"puffing disdainfully,\" but H8374's actual gloss is \"loathe (morally), abhor,\" the opposite valence of \"long for.\" No cross-contamination found; every occurrence used here is tagged H8373 specifically."
+ ],
+ "root": "תאב",
+ "search_match": [
+  "8373",
+  "h8373",
+  "long for (ta'av)",
+  "ta'av",
+  "תאב"
+ ],
+ "citation_translit": "ta'av",
+ "stem_coverage_checked": true
+}

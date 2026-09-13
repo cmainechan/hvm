@@ -1,0 +1,50 @@
+{
+ "glosses": [
+  "shatter"
+ ],
+ "strong": "H7492",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּרְעַץ",
+      "translit": "tir'atz",
+      "ref": "Exod.15.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּרְעֲצוּ",
+      "translit": "vayyir'atzu",
+      "ref": "Judg.10.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Strong's splits this root's meaning into a literal sense (\"break in pieces\") and a figurative one (\"harass\"); Exod.15.6 (the LORD's hand \"dasheth in pieces\" the enemy) shows the literal sense directly, while Judg.10.8 (Israel \"vexed and oppressed\" by the Ammonites/Philistines) leans toward the figurative one. BDB gives the single unified gloss \"shatter\" without splitting these into separate senses, and \"shatter\" (crushing force, whether against an army or a subjugated people) reads as one sense applied to two objects rather than two genuinely distinct senses -- kept as the single requested gloss rather than expanded to a compound one."
+ ],
+ "root": "רעץ",
+ "search_match": [
+  "7492",
+  "h7492",
+  "shatter",
+  "ra'atz",
+  "רעץ"
+ ],
+ "citation_translit": "ra'atz",
+ "stem_coverage_checked": true
+}

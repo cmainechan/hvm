@@ -1,0 +1,40 @@
+{
+ "glosses": [
+  "journey"
+ ],
+ "strong": "H7788",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַתָּשֻׁרִי",
+      "translit": "vattashuri",
+      "ref": "Isa.57.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "True homograph of H7786 (שׂוּר, \"rule\") -- see its notes for the full homonym picture (including two further unadded homonyms, H7787 and H7789). Both roots are new in this same batch; assigned שור² (higher Strong's number) per the ascending-Strong's-number superscript convention.",
+  "Single attestation in the entire Hebrew Bible (Isa.57.9, \"and thou wentest to the king with ointment\")."
+ ],
+ "root": "שור²",
+ "search_match": [
+  "7788",
+  "h7788",
+  "journey",
+  "shur",
+  "שור²"
+ ],
+ "citation_translit": "shur",
+ "stem_coverage_checked": true
+}

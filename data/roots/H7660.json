@@ -1,0 +1,60 @@
+{
+ "glosses": [
+  "weave"
+ ],
+ "strong": "H7660",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְשִׁבַּצְתָּ",
+      "translit": "vshibbatzta",
+      "ref": "Exod.28.39",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְשֻׁבָּצִים",
+      "translit": "mshubbatzim",
+      "ref": "Exod.28.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be inwoven"
+ },
+ "notes": [
+  "Exod.28.20's pual describes gemstones mounted in gold filigree, not literal thread-weaving; BDB glosses this exact form \"inwoven (i.e. set in a chequered or plaited mounting) with gold(-thread)\" -- treating the gold settings themselves as a woven/plaited pattern, which directly supports \"be inwoven\" as requested rather than being a mismatch."
+ ],
+ "root": "שבץ",
+ "search_match": [
+  "7660",
+  "h7660",
+  "weave (shavatz)",
+  "shavatz",
+  "שבץ"
+ ],
+ "citation_translit": "shavatz",
+ "stem_coverage_checked": true
+}

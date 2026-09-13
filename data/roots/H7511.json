@@ -1,0 +1,47 @@
+{
+ "glosses": [
+  "humble oneself"
+ ],
+ "strong": "H7511",
+ "stems": {
+  "hitpael": {
+   "sense_hint": "reflexive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הִתְרַפֵּס",
+      "translit": "hitrappes",
+      "ref": "Prov.6.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִתְרַפֵּס",
+      "translit": "mitrappes",
+      "ref": "Ps.68.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "רפס",
+ "search_match": [
+  "7511",
+  "h7511",
+  "humble oneself",
+  "rafas",
+  "רפס"
+ ],
+ "citation_translit": "rafas",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,48 @@
+{
+ "glosses": [
+  "prevail"
+ ],
+ "strong": "H8280",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "שָׂרִיתָ",
+      "translit": "sarita",
+      "ref": "Gen.32.29",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שָׂרָה",
+      "translit": "sarah",
+      "ref": "Hos.12.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Gloss changed from the requested \"persevere\" to \"prevail\" per confirmation: both citations are the Jacob/Israel-naming narrative (Gen.32.29 \"thou hast power with God and with men, and hast prevailed\"; Hos.12.4, the same story retold) and read as \"prevail\"/\"have power (as a prince)\"/\"contend\" in every standard rendering, not endurance. BDB's related noun מִשְׂרָה likewise means \"rule, dominion,\" not perseverance."
+ ],
+ "root": "שרה",
+ "search_match": [
+  "8280",
+  "h8280",
+  "prevail",
+  "sarah",
+  "שרה"
+ ],
+ "citation_translit": "sarah",
+ "stem_coverage_checked": true
+}

@@ -409,6 +409,11 @@ KNOWN_EXCEPTIONS = {
     # is a construct-state participle; kept anyway per the same explicit
     # exception as H2904/H6140/H3960/H7710/H1110/H1895, since no
     # absolute-state attestation exists at all for this stem.
+    ('H8365', 'qal', 'participle_passive', 'ms'),  # only 2 occurrences at
+    # all (Num.24.3, Num.24.15, Balaam's oracles, both שְׁתֻם הָעָיִן "whose
+    # eye is open") and both are construct-state; kept anyway per the same
+    # explicit exception as H2904/H6140/H3960/H7710/H1110/H1895/H4048,
+    # since no absolute-state attestation exists at all for this root.
     ('H7106', 'hophal', 'participle_passive', 'fp'),  # only hophal
     # attestation (Ezek.46.22, מְהֻקְצָעוֹת) is marked in the WLC with
     # Masoretic puncta extraordinaria (an extra point over every letter,

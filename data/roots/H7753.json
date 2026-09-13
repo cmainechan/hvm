@@ -1,0 +1,47 @@
+{
+ "glosses": [
+  "hedge"
+ ],
+ "strong": "H7753",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "שָׂךְ",
+      "translit": "sakh",
+      "ref": "Hos.2.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "שַׂכְתָּ",
+      "translit": "sakhta",
+      "ref": "Job.1.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "שוך",
+ "search_match": [
+  "7753",
+  "h7753",
+  "hedge",
+  "sukh",
+  "שוך"
+ ],
+ "citation_translit": "sukh",
+ "stem_coverage_checked": true
+}

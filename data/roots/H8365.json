@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "be open"
+ ],
+ "strong": "H8365",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple (only biblical occurrence is a construct-state participle, not a free citation form -- shown here as an explicit exception to the absolute-state-only participle rule, since no other attestation exists)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg. (construct, only attestation)",
+      "heb": "שְׁתֻם",
+      "translit": "shtum",
+      "ref": "Num.24.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Only 2 occurrences in the entire Hebrew Bible (Num.24.3 and Num.24.15, Balaam's oracles, both שְׁתֻם הָעָיִן \"whose eye is open\"), both construct-state (morph HVqsmsc); no absolute-state attestation exists at all for this root. Kept anyway per the same explicit exception already used for 7 other roots in this dataset (H2904, H6140, H3960, H7710, H1110, H1895, H4048) -- a new KNOWN_EXCEPTIONS entry (H8365, qal, participle_passive, ms) was added to pipeline.py so verify_root doesn't flag it. Num.24.3 kept as representative over the identical Num.24.15 occurrence."
+ ],
+ "root": "שתם",
+ "search_match": [
+  "8365",
+  "h8365",
+  "be open",
+  "shatam",
+  "שתם"
+ ],
+ "citation_translit": "shatam",
+ "stem_coverage_checked": true
+}

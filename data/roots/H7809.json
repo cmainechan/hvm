@@ -1,0 +1,47 @@
+{
+ "glosses": [
+  "bribe"
+ ],
+ "strong": "H7809",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַתִּשְׁחֳדִי",
+      "translit": "vattishchodi",
+      "ref": "Ezek.16.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "שִׁחֲדוּ",
+      "translit": "shichadu",
+      "ref": "Job.6.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "שחד",
+ "search_match": [
+  "7809",
+  "h7809",
+  "bribe",
+  "shachad",
+  "שחד"
+ ],
+ "citation_translit": "shachad",
+ "stem_coverage_checked": true
+}

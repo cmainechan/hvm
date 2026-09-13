@@ -1,0 +1,50 @@
+{
+ "glosses": [
+  "magnify"
+ ],
+ "strong": "H7679",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַשְׂגִּיא",
+      "translit": "masgi",
+      "ref": "Job.12.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַשְׂגִּיא",
+      "translit": "tasgi",
+      "ref": "Job.36.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Requested qal sense \"grow\" has zero attestation for this Strong's number -- both occurrences are Hiphil. Checked for a suppletive/cross-referenced spelling variant (e.g. a שׂגה form) before concluding this; none exists in the lexicon. Excluded per \"no uncited glosses\"; root-level gloss and citation stem are Hiphil \"magnify\" instead, matching both attested forms directly (Job.12.23 \"he increaseth the nations\"; Job.36.24 \"magnify his work\")."
+ ],
+ "root": "שגא",
+ "search_match": [
+  "7679",
+  "h7679",
+  "magnify",
+  "saga",
+  "שגא"
+ ],
+ "citation_translit": "saga",
+ "stem_coverage_checked": true
+}

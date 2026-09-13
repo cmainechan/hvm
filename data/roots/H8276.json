@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "be intertwined"
+ ],
+ "strong": "H8276",
+ "stems": {
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְשֹׂרָֽגוּ",
+      "translit": "ysoragu",
+      "ref": "Job.40.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשְׂתָּֽרְגוּ",
+      "translit": "yistargu",
+      "ref": "Lam.1.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hitpael": "intertwine oneself"
+ },
+ "root": "שרג",
+ "search_match": [
+  "8276",
+  "h8276",
+  "be intertwined",
+  "sarag",
+  "שרג"
+ ],
+ "citation_translit": "sarag",
+ "stem_coverage_checked": true
+}

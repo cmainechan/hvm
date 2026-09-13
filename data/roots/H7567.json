@@ -1,0 +1,61 @@
+{
+ "glosses": [
+  "destroy"
+ ],
+ "strong": "H7567",
+ "stems": {
+  "poel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְרֹשֵׁשׁ",
+      "translit": "yroshesh",
+      "ref": "Jer.5.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cp",
+      "label": "1st pl.",
+      "heb": "רֻשַּׁשְׁנוּ",
+      "translit": "russhashnu",
+      "ref": "Mal.1.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be beaten down"
+ },
+ "notes": [
+  "Rare stem: requested \"Piel\" is unattested for this geminate root (ר-שׁ-שׁ); the corpus attests Poel instead (יְרֹשֵׁשׁ, Jer.5.17), the expected active-intensive stem for geminate roots in place of Piel -- used here in Piel's place per requirement 4 (capture rare stems, e.g. Poel/Polel for geminates).",
+  "Strong's own usage list for this root is \"impoverish\" (Jer.5.17 \"impoverish thy fenced cities\"; Mal.1.4 \"We are impoverished\"), which doesn't match the requested glosses as directly. BDB glosses the root itself \"beat down, shatter\" (Poel) and cites Mal.1.4 verbatim as \"we are beaten down\" (Pual) -- both match the requested \"destroy\"/\"be beaten down\" precisely and are used here instead of Strong's."
+ ],
+ "root": "רשש",
+ "search_match": [
+  "7567",
+  "h7567",
+  "destroy (rashash)",
+  "rashash",
+  "רשש"
+ ],
+ "citation_translit": "rashash",
+ "stem_coverage_checked": true
+}

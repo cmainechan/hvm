@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "be bare"
+ ],
+ "strong": "H8192",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (this root has no attested qal; niphal serves as its basic/citation stem)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִשְׁפֶּה",
+      "translit": "nishpeh",
+      "ref": "Isa.13.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְשֻׁפּוּ",
+      "translit": "vshuppu",
+      "ref": "Job.33.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be laid bare"
+ },
+ "root": "שפה",
+ "search_match": [
+  "8192",
+  "h8192",
+  "be bare",
+  "shafah",
+  "שפה"
+ ],
+ "citation_translit": "shafah",
+ "stem_coverage_checked": true
+}
