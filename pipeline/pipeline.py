@@ -403,6 +403,12 @@ KNOWN_EXCEPTIONS = {
     # spelling, הברו, a perfect 3cp, sits at the same verse position but
     # shares this Strong's number with the qere, so strip_redundant_ketivs
     # already drops it as a spelling variant, not a second attestation.)
+    ('H4048', 'qal', 'participle_passive', 'mp'),  # only qal attestation
+    # (Ezek.21.17 [21.12 in most English versions], מְגוּרֵי אֶל־חֶרֶב הָיוּ,
+    # "[all the princes of Israel] have become those thrown to the sword")
+    # is a construct-state participle; kept anyway per the same explicit
+    # exception as H2904/H6140/H3960/H7710/H1110/H1895, since no
+    # absolute-state attestation exists at all for this stem.
 }
 
 

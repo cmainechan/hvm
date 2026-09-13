@@ -1,0 +1,42 @@
+{
+ "glosses": [
+  "be thrown"
+ ],
+ "strong": "H4048",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "מִגַּֽרְתָּה",
+      "translit": "miggartah",
+      "ref": "Ps.89.45",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "stem_glosses": {
+  "piel": "hurl"
+ },
+ "notes": [
+  "Qal's sole attestation (Ezek.21.17 [21.12 EV], מְגוּרֵי אֶל־חֶרֶב הָיוּ, \"[all the princes of Israel] have become those thrown to the sword\") is a construct-state participle -- normally excluded by the absolute-state-only participle rule -- kept anyway as an explicit exception (same precedent as H2904/H6140/H3960/H7710/H1110/H1895), since no absolute-state attestation exists at all."
+ ],
+ "root": "מגר",
+ "search_match": [
+  "4048",
+  "h4048",
+  "be thrown",
+  "magar",
+  "מגר"
+ ],
+ "citation_translit": "magar",
+ "stem_coverage_checked": true
+}

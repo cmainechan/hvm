@@ -1,0 +1,46 @@
+{
+ "glosses": [
+  "cut off"
+ ],
+ "strong": "H3683",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "כְּסוּחָה",
+      "translit": "ksuchah",
+      "ref": "Ps.80.17",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "כְּסוּחִים",
+      "translit": "ksuchim",
+      "ref": "Isa.33.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "root": "כסח",
+ "search_match": [
+  "3683",
+  "h3683",
+  "cut off",
+  "kasach",
+  "כסח",
+  "cut off (kasach)"
+ ],
+ "citation_translit": "kasach",
+ "stem_coverage_checked": true
+}

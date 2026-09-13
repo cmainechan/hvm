@@ -1,0 +1,61 @@
+{
+ "glosses": [
+  "rebel"
+ ],
+ "strong": "H4754",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תַּמְרִיא",
+      "translit": "tamri",
+      "ref": "Job.39.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מֹרְאָה",
+      "translit": "mor'ah",
+      "ref": "Zeph.3.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "flap"
+ },
+ "notes": [
+  "Qal (\"rebel\", Zeph.3.1, מֹרְאָה, paired with \"defiled\" describing the corrupt city) was not requested, but is attested and included per the standing rule of always including attested-but-unrequested stems. Because qal precedes hiphil in STEM_ORDER, it -- not the requested hiphil \"flap\" -- becomes the root-level primary gloss; hiphil \"flap\" (Job.39.18, the ostrich flapping her wings) is now a stem_glosses entry instead."
+ ],
+ "root": "מרא",
+ "search_match": [
+  "4754",
+  "h4754",
+  "rebel",
+  "mara",
+  "מרא",
+  "rebel (mara)"
+ ],
+ "citation_translit": "mara",
+ "stem_coverage_checked": true
+}

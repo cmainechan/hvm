@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "polished"
+ ],
+ "strong": "H4178",
+ "stems": {
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּמוֹרָט",
+      "translit": "umorat",
+      "ref": "Isa.18.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "notes": [
+  "This entry's source note in the lexicon reads \"from H3399\" (ירט, \"rush headlong/be perverse\") -- checked per the wrong-but-plausible-cross-reference rule, and it does not fit: this root's only attestations (Isa.18.2, Isa.18.7, וּמוֹרָט, of a people \"tall and smooth[-skinned]\") plainly continue the \"polish/scour/make bald\" sense of מרט (H4803), not ירט's \"rush headlong\" sense. H4178 is nonetheless its own real, separate Strong's number here (OSHB's morphological layer tags these two verses' words with lemma 4178 specifically, distinct from H4803), matching this dataset's existing precedent (see H4803's own notes): H4803 already carries its own, separately-attested pual (\"be burnished\", 1Kgs.7.45, Ezek.21.15-16); H4178's pual here is a textually distinct case kept as its own root rather than merged into H4803."
+ ],
+ "root": "מורט",
+ "search_match": [
+  "4178",
+  "h4178",
+  "polished",
+  "morat",
+  "מורט"
+ ],
+ "citation_translit": "morat",
+ "stem_coverage_checked": true
+}

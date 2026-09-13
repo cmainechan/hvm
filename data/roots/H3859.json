@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "swallow greedily"
+ ],
+ "strong": "H3859",
+ "stems": {
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "כְּמִֽתְלַהֲמִים",
+      "translit": "kmitlahamim",
+      "ref": "Prov.18.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "notes": [
+  "Strong's own meaning/usage for this root is \"to burn in, i.e. figuratively to rankle\" / \"wound\" (KJV: \"the words of a talebearer are as wounds\"), but the requested gloss follows the widely-used alternate (BDB) reading \"to swallow greedily\" -- matching how many modern versions render כְּמִתְלַהֲמִים as \"dainty/delicious morsels\" (i.e. eagerly swallowed) rather than \"wounds\". Both attestations (Prov.18.8, Prov.26.22) are the same repeated proverb, so this is the dataset's one and only citation for the sense either way."
+ ],
+ "root": "להם",
+ "search_match": [
+  "3859",
+  "h3859",
+  "swallow greedily",
+  "laham",
+  "להם"
+ ],
+ "citation_translit": "laham",
+ "stem_coverage_checked": true
+}

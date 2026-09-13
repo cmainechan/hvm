@@ -1,0 +1,47 @@
+{
+ "glosses": [
+  "clip"
+ ],
+ "strong": "H3697",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "כָּסוֹם",
+      "translit": "kasom",
+      "ref": "Ezek.44.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִכְסְמוּ",
+      "translit": "yikhsmu",
+      "ref": "Ezek.44.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "root": "כסם",
+ "search_match": [
+  "3697",
+  "h3697",
+  "clip",
+  "kasam",
+  "כסם"
+ ],
+ "citation_translit": "kasam",
+ "stem_coverage_checked": true
+}

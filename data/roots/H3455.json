@@ -1,0 +1,62 @@
+{
+ "glosses": [
+  "place"
+ ],
+ "strong": "H3455",
+ "stems": {
+  "qal_passive": {
+   "sense_hint": "passive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "ויישם",
+      "translit": "shm",
+      "ref": "Gen.24.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּישֶׂם",
+      "translit": "vayyisem",
+      "ref": "Gen.50.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "stem_glosses": {
+  "qal_passive": "be placed"
+ },
+ "notes": [
+  "True homograph of the existing H3456 (\"be desolate\"), same consonants once the sin/shin dot (a diacritic, not a separate letter, and not preserved in this dataset's bare-consonant root keys) is stripped -- added as ישם¹ (lower Strong's number) per the ascending-Strong's-number superscript convention; H3456 is retroactively renamed ישם² in this same batch.",
+  "qal_passive's sole attestation (Gen.24.33, ketiv ו/יישם) is a ketiv (the manuscript's actual written text) whose qere (the traditional read-aloud alternative, וַיּוּשַׂם) resolves to a DIFFERENT Strong's number, H7760 שים (\"put/place\") -- so per strip_redundant_ketivs this is a genuine distinct-word substitution, not a spelling variant, and the ketiv is kept as its own citable attestation (same pattern as H7693 שגל). Because the ketiv carries no vowel points in the source corpus (only the qere side, a different word, is vocalized), its heb/translit values here are bare consonants -- the actual state of the source text, not a data-entry gap."
+ ],
+ "root": "ישם¹",
+ "search_match": [
+  "3455",
+  "h3455",
+  "place",
+  "yasam",
+  "ישם¹",
+  "place (yasam)"
+ ],
+ "citation_translit": "yasam",
+ "stem_coverage_checked": true
+}

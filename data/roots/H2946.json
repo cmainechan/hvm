@@ -1,0 +1,49 @@
+{
+ "glosses": [
+  "spread; nurse (a child)"
+ ],
+ "strong": "H2946",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "טִפַּחְתִּי",
+      "translit": "tippachti",
+      "ref": "Lam.2.22",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "טִפְּחָה",
+      "translit": "tippchah",
+      "ref": "Isa.48.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "notes": [
+  "Piel's two attested forms show two genuinely distinct, independently cited senses, not synonyms of one sense -- Isa.48.13 (טִפְּחָה, \"my right hand spread out the heavens\") and Lam.2.22 (טִפַּחְתִּי, \"those whom I have nursed/reared [my enemy has destroyed]\", of children). Both are the same code+category as each other's paradigm slot only in the loose sense of both being 'perfect' -- they are different persons (3fs vs. 1cs) and don't compete for the same slot, but the schema has no way to gloss two different codes within one category differently (form_glosses only keys by category), so both senses are folded into one compound root-level gloss per the two-or-more-genuinely-distinct-cited-senses rule."
+ ],
+ "root": "טפח",
+ "search_match": [
+  "2946",
+  "h2946",
+  "spread; nurse (a child)",
+  "tafach",
+  "טפח",
+  "spread (tafach)"
+ ],
+ "citation_translit": "tafach",
+ "stem_coverage_checked": true
+}

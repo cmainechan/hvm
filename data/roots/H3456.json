@@ -44,15 +44,15 @@
   }
  },
  "notes": [
-  "Distinguished from the homonym H3455 יָשַׂם (\"to place; be placed\"), spelled with sin rather than shin -- confirmed as a genuinely distinct root, not a resolution risk."
+  "Retroactively renamed from the plain key \"ישם\" to \"ישם²\" when H3455 (\"place; be placed\") was added to the dataset as \"ישם¹\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹). The two are spelled identically once niqqud is stripped (this root's own headword is יָשַׁם, shin; H3455's is יָשַׂם, sin), so the plain, undifferentiated key would otherwise collide."
  ],
- "root": "ישם",
+ "root": "ישם²",
  "search_match": [
   "3456",
   "h3456",
   "be desolate",
   "yasham",
-  "ישם"
+  "ישם²"
  ],
  "citation_translit": "yasham",
  "stem_coverage_checked": true

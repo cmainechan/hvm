@@ -1,0 +1,40 @@
+{
+ "glosses": [
+  "exalt oneself"
+ ],
+ "strong": "H4984",
+ "stems": {
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מִתְנַשֵּׂא",
+      "translit": "mitnasse",
+      "ref": "1Kgs.1.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "notes": [
+  "This Strong's number is the dictionary's own entry for the specific Hitpael participle מִתְנַשֵּׂא (Strong's classifies it as a noun, \"supreme exaltation\", pos=\"n-m\", from H5375), but OSHB's morphological layer does tag two real occurrences with lemma 4984 specifically (1Kgs.1.5, 1Chr.29.11), distinct from the many other נשא-hitpael forms already tagged under H5375 itself (which already carries its own hitpael stem, \"exalt oneself\", in this dataset). Kept as its own root here to match the corpus's own lemma assignment and this dataset's existing precedent for a dictionary entry over a specific derived form (see H4178/H4803 above) rather than merging it into H5375."
+ ],
+ "root": "מתנשא",
+ "search_match": [
+  "4984",
+  "h4984",
+  "exalt oneself",
+  "mitnasse",
+  "מתנשא",
+  "exalt oneself (mitnasse)"
+ ],
+ "citation_translit": "mitnasse",
+ "stem_coverage_checked": true
+}

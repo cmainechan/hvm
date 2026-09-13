@@ -1,0 +1,50 @@
+{
+ "glosses": [
+  "rush headlong"
+ ],
+ "strong": "H3399",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִרְטֵֽנִי",
+      "translit": "yirteni",
+      "ref": "Job.16.11",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָרַט",
+      "translit": "yarat",
+      "ref": "Num.22.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true,
+   "form_glosses": {
+    "perfect": "be perverse"
+   }
+  }
+ },
+ "root": "ירט",
+ "search_match": [
+  "3399",
+  "h3399",
+  "rush headlong",
+  "yarat",
+  "ירט"
+ ],
+ "citation_translit": "yarat",
+ "stem_coverage_checked": true
+}

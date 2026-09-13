@@ -283,13 +283,16 @@
   "niphal": "be hasty",
   "piel": "hasten"
  },
- "root": "מהר",
+ "notes": [
+  "Retroactively renamed from the plain key \"מהר\" to \"מהר¹\" when H4117 (\"bargain for a wife, wed\") was added to the dataset as \"מהר²\" -- true homograph (identical spelling and pointing, מָהַר), per the root-key superscript convention (lower Strong's number gets ¹)."
+ ],
+ "root": "מהר¹",
  "search_match": [
   "4116",
   "h4116",
   "hasten",
   "mahar",
-  "מהר"
+  "מהר¹"
  ],
  "citation_translit": "mahar",
  "stem_coverage_checked": true

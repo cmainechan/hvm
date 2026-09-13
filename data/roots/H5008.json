@@ -1,0 +1,48 @@
+{
+ "glosses": [
+  "groan"
+ ],
+ "strong": "H5008",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְנָאַק",
+      "translit": "vna'aq",
+      "ref": "Ezek.30.24",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִנְאָקוּ",
+      "translit": "yin'aqu",
+      "ref": "Job.24.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "root": "נאק",
+ "search_match": [
+  "5008",
+  "h5008",
+  "groan",
+  "na'aq",
+  "נאק",
+  "groan (na'aq)"
+ ],
+ "citation_translit": "na'aq",
+ "stem_coverage_checked": true
+}

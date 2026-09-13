@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "languish"
+ ],
+ "strong": "H3856",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתֵּלַהּ",
+      "translit": "vattelahh",
+      "ref": "Gen.47.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  },
+  "hithpalpel": {
+   "sense_hint": "reflexive/reciprocal (reduplicated intensive)",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "כְּֽמִתְלַהְלֵהַּ",
+      "translit": "kmitlahlehha",
+      "ref": "Prov.26.18",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "stem_glosses": {
+  "hithpalpel": "act madly"
+ },
+ "root": "להה",
+ "search_match": [
+  "3856",
+  "h3856",
+  "languish",
+  "lahahh",
+  "להה"
+ ],
+ "citation_translit": "lahahh",
+ "stem_coverage_checked": true
+}

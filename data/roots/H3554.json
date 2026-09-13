@@ -1,0 +1,46 @@
+{
+ "glosses": [
+  "be scorched"
+ ],
+ "strong": "H3554",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִכָּוֶה",
+      "translit": "tikkaveh",
+      "ref": "Isa.43.2",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3fp",
+      "label": "3rd fem. pl.",
+      "heb": "תִכָּוֶֽינָה",
+      "translit": "tikkavenah",
+      "ref": "Prov.6.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "root": "כוה",
+ "search_match": [
+  "3554",
+  "h3554",
+  "be scorched",
+  "kavah",
+  "כוה",
+  "be scorched (kavah)"
+ ],
+ "citation_translit": "kavah",
+ "stem_coverage_checked": true
+}

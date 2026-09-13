@@ -1,0 +1,51 @@
+{
+ "glosses": [
+  "swallow"
+ ],
+ "strong": "H3886",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "לָֽעוּ",
+      "translit": "lau",
+      "ref": "Job.6.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְלָעוּ",
+      "translit": "vlau",
+      "ref": "Obad.1.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true,
+   "form_glosses": {
+    "perfect": "be rash"
+   }
+  }
+ },
+ "root": "לוע",
+ "search_match": [
+  "3886",
+  "h3886",
+  "swallow",
+  "lua",
+  "לוע",
+  "swallow (lua)"
+ ],
+ "citation_translit": "lua",
+ "stem_coverage_checked": true
+}

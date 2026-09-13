@@ -1,0 +1,58 @@
+{
+ "glosses": [
+  "deliver up"
+ ],
+ "strong": "H4560",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיִּמָּֽסְרוּ",
+      "translit": "vayyimmasru",
+      "ref": "Num.31.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִמְסָר",
+      "translit": "limsar",
+      "ref": "Num.31.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be delivered over"
+ },
+ "root": "מסר",
+ "search_match": [
+  "4560",
+  "h4560",
+  "deliver up",
+  "masar",
+  "מסר",
+  "deliver up (masar)"
+ ],
+ "citation_translit": "masar",
+ "stem_coverage_checked": true
+}
