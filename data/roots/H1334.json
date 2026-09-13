@@ -1,0 +1,54 @@
+{
+ "glosses": [
+  "cut in two"
+ ],
+ "strong": "H1334",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "בָתָֽר",
+      "translit": "vatar",
+      "ref": "Gen.15.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְבַתֵּר",
+      "translit": "vayvatter",
+      "ref": "Gen.15.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "בתר",
+ "search_match": [
+  "1334",
+  "h1334",
+  "cut in two",
+  "batar",
+  "בתר"
+ ],
+ "citation_translit": "batar",
+ "stem_coverage_checked": true
+}

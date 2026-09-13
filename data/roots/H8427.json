@@ -1,0 +1,60 @@
+{
+ "glosses": [
+  "mark"
+ ],
+ "strong": "H8427",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְתָיו",
+      "translit": "vayta",
+      "ref": "1Sam.21.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהִתְוִיתָ",
+      "translit": "vhitvita",
+      "ref": "Ezek.9.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "set a mark"
+ },
+ "notes": [
+  "Homonym watch: H8428 (also תָּוָה, \"to grieve\") shares the exact same spelling and pointing with this root, but is not yet in the dataset. If H8428 is added later, this root (the lower Strong's number) should become תוה¹ and H8428 should become תוה² per the ascending-Strong's-number superscript convention -- flagging now so that future addition doesn't miss it."
+ ],
+ "root": "תוה",
+ "search_match": [
+  "8427",
+  "h8427",
+  "mark",
+  "tavah",
+  "תוה"
+ ],
+ "citation_translit": "tavah",
+ "stem_coverage_checked": true
+}

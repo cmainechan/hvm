@@ -1,0 +1,50 @@
+{
+ "glosses": [
+  "wrestle"
+ ],
+ "strong": "H79",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (this root has no attested qal; niphal serves as its basic/citation stem)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֵּאָבֵק",
+      "translit": "vayye'aveq",
+      "ref": "Gen.32.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בְּהֵֽאָבְקוֹ",
+      "translit": "bhe'avqo",
+      "ref": "Gen.32.26",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "אבק",
+ "search_match": [
+  "79",
+  "h79",
+  "wrestle (avaq)",
+  "avaq",
+  "אבק"
+ ],
+ "citation_translit": "avaq",
+ "stem_coverage_checked": true,
+ "notes": [
+  "Gloss collision: \"wrestle\" matches a clause of the existing פתל (H6617, \"wrestle; be tortuous\") root gloss -- disambiguating search alias added."
+ ]
+}

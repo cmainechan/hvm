@@ -1,0 +1,78 @@
+{
+ "glosses": [
+  "change"
+ ],
+ "strong": "H8132",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִשְׁנֶא",
+      "translit": "yishne",
+      "ref": "Lam.4.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְשִׁנָּא",
+      "translit": "vshinna",
+      "ref": "2Kgs.25.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְשֻׁנֶּֽא",
+      "translit": "yshunne",
+      "ref": "Eccl.8.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be changed"
+ },
+ "notes": [
+  "True homograph of the existing H8130 (\"hate\"), same bare consonants שנא once the sin/shin dot is stripped -- added as שנא² (higher Strong's number) per the ascending-Strong's-number superscript convention; H8130 is retroactively renamed שנא¹ in this same batch."
+ ],
+ "root": "שנא²",
+ "search_match": [
+  "8132",
+  "h8132",
+  "change",
+  "shana",
+  "שנא²"
+ ],
+ "citation_translit": "shana",
+ "stem_coverage_checked": true
+}

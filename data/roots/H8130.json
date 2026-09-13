@@ -229,13 +229,16 @@
  "stem_glosses": {
   "niphal": "be hated"
  },
- "root": "שנא",
+ "notes": [
+  "Retroactively renamed from the plain key \"שנא\" to \"שנא¹\" when H8132 (\"change\") was added to the dataset as \"שנא²\" -- true homograph (same bare consonants once the sin/shin dot is stripped), per the root-key superscript convention (lower Strong's number gets ¹)."
+ ],
+ "root": "שנא¹",
  "search_match": [
   "8130",
   "h8130",
   "hate",
   "sane",
-  "שנא"
+  "שנא¹"
  ],
  "citation_translit": "sane",
  "stem_coverage_checked": true

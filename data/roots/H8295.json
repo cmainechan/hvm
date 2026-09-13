@@ -1,0 +1,68 @@
+{
+ "glosses": [
+  "incise"
+ ],
+ "strong": "H8295",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשְׂרְטוּ",
+      "translit": "yisrtu",
+      "ref": "Lev.21.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "שָׂרוֹט",
+      "translit": "sarot",
+      "ref": "Zech.12.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִשָּׂרֵטוּ",
+      "translit": "yissaretu",
+      "ref": "Zech.12.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be scratched"
+ },
+ "root": "שרט",
+ "search_match": [
+  "8295",
+  "h8295",
+  "incise",
+  "sarat",
+  "שרט"
+ ],
+ "citation_translit": "sarat",
+ "stem_coverage_checked": true
+}

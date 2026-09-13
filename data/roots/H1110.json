@@ -1,0 +1,62 @@
+{
+ "glosses": [
+  "devastate"
+ ],
+ "strong": "H1110",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּבֽוֹלְקָהּ",
+      "translit": "uvolqahh",
+      "ref": "Isa.24.1",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "וּמְבֻלָּקָה",
+      "translit": "umvullaqah",
+      "ref": "Nah.2.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be devastated"
+ },
+ "notes": [
+  "Requested poel (\"devastate\") is entirely unattested -- zero occurrences anywhere in the corpus. Qal is attested instead (Isa.24.1, \"the LORD... maketh it waste\", parallel to בקק \"maketh empty\") and directly supports the requested \"devastate\" sense, so it was substituted in for the primary/active stem rather than leaving this root with no active sense at all.",
+  "Qal's only attestation (Isa.24.1) is a construct-state participle, which the pipeline's extraction normally excludes per requirement 6 (absolute state only). Kept as a documented exception -- same precedent as the existing (H2904, pilpel), (H6140, niphal), (H3960, poel), and (H7710, qal) exceptions in pipeline.py's KNOWN_EXCEPTIONS: no absolute-state attestation exists at all for this stem. Added (H1110, qal, participle_active, ms) to KNOWN_EXCEPTIONS.",
+  "Gloss collision: \"devastate\" (exact) matches the existing שדד² (H7703) root gloss -- distinct roots (spelled differently, בלק vs שדד), disambiguating search alias added."
+ ],
+ "root": "בלק",
+ "search_match": [
+  "1110",
+  "h1110",
+  "devastate (balaq)",
+  "balaq",
+  "בלק"
+ ],
+ "citation_translit": "balaq",
+ "stem_coverage_checked": true
+}

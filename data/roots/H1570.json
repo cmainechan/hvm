@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "recline"
+ ],
+ "strong": "H1570",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "שֶׁגָּלְשׁוּ",
+      "translit": "sheggalshu",
+      "ref": "Song.4.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Gloss uncertainty worth flagging: BDB itself calls this word's meaning dubious. Both attestations (Song.4.1, 6.5) are the identical simile \"thy hair is as a flock of goats that [גלשו] from mount Gilead\" -- the requested \"recline\" doesn't obviously match this image (goats visible on/moving down a mountainside, mirroring flowing hair); other renderings include \"appear\" (KJV) and \"stream/trail down\" (some modern versions, closer to the lexicon's own \"caper, as a goat\"). Kept \"recline\" per the given instruction since it is not clearly wrong for an admittedly obscure word, but flagging the divergence from other standard renderings. Song.4.1 kept as citation per the usual duplicate-slot tie-break."
+ ],
+ "root": "גלש",
+ "search_match": [
+  "1570",
+  "h1570",
+  "recline",
+  "galash",
+  "גלש"
+ ],
+ "citation_translit": "galash",
+ "stem_coverage_checked": true
+}

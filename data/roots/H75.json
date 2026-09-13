@@ -1,0 +1,48 @@
+{
+ "glosses": [
+  "be fatted"
+ ],
+ "strong": "H75",
+ "stems": {
+  "qal": {
+   "sense_hint": "stative (participle only)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "אֲבוּסִֽים",
+      "translit": "avusim",
+      "ref": "1Kgs.5.3",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "אָבוּס",
+      "translit": "avus",
+      "ref": "Prov.15.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Requested gloss \"fatten\" (active) adjusted to \"be fatted\": both of this root's only attestations (1Kgs.5.3, \"fatted fowl\"; Prov.15.17, \"a stalled/fatted ox\") are qal PASSIVE participles, describing an animal that has been fattened, not the active process of fattening it -- no finite qal form occurs anywhere in the corpus. Same pattern as the existing H7251 רבע² (\"squared\"), where an adjectival/stative gloss was used to match a participle-only attestation rather than forcing an active-infinitive gloss the citations don't support."
+ ],
+ "root": "אבס",
+ "search_match": [
+  "75",
+  "h75",
+  "be fatted",
+  "avas",
+  "אבס"
+ ],
+ "citation_translit": "avas",
+ "stem_coverage_checked": true
+}

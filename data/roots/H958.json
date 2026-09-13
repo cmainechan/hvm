@@ -1,0 +1,40 @@
+{
+ "glosses": [
+  "divide"
+ ],
+ "strong": "H958",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "בָּזְאוּ",
+      "translit": "baz'u",
+      "ref": "Isa.18.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Both attestations (Isa.18.2, 18.7) are the identical clause \"whose land the rivers have divided\" -- KJV renders this \"spoiled\", but the lexicon's own definition (\"probably to cleave\") supports \"divide\" reasonably (rivers cleaving/cutting through the land). Isa.18.2 kept as citation per the usual duplicate-slot tie-break.",
+  "Gloss collision: \"divide\" (exact) matches SEVEN existing root-level glosses -- חצה, חצץ, פרד, בדל, חלק, and a clause each of גזר and פלג -- disambiguating search alias added."
+ ],
+ "root": "בזא",
+ "search_match": [
+  "958",
+  "h958",
+  "divide (baza)",
+  "baza",
+  "בזא"
+ ],
+ "citation_translit": "baza",
+ "stem_coverage_checked": true
+}

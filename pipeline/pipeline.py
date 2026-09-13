@@ -390,6 +390,11 @@ KNOWN_EXCEPTIONS = {
     # dream) are construct-state participles; kept anyway per the same
     # explicit exception as H2904/H6140/H3960, since no absolute-state
     # attestation exists at all for this root.
+    ('H1110', 'qal', 'participle_active', 'ms'),  # only qal attestation
+    # (Isa.24.1, וּבוֹלְקָהּ, "the LORD... maketh it waste") is a
+    # construct-state participle; kept anyway per the same explicit
+    # exception as H2904/H6140/H3960/H7710, since no absolute-state
+    # attestation exists at all for this stem.
 }
 
 

@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "scatter"
+ ],
+ "strong": "H967",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִבְזוֹר",
+      "translit": "yivzor",
+      "ref": "Dan.11.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "בִּזַּר",
+      "translit": "bizzar",
+      "ref": "Ps.68.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "בזר",
+ "search_match": [
+  "967",
+  "h967",
+  "scatter (bazar)",
+  "bazar",
+  "בזר"
+ ],
+ "citation_translit": "bazar",
+ "stem_coverage_checked": true,
+ "notes": [
+  "Gloss collision: \"scatter\" matches a clause of the existing זרק (H2236, \"sprinkle, dash, throw; scatter\") root gloss and the existing פוץ (H6327) root gloss exactly -- disambiguating search alias added. Also overlaps stem-level \"scatter\" on זרה, פזר, and (again) פוץ, but those are stem-level on their side."
+ ]
+}

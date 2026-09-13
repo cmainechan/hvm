@@ -1,0 +1,47 @@
+{
+ "glosses": [
+  "pluck"
+ ],
+ "strong": "H717",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וְאָרוּהָ",
+      "translit": "v'aruha",
+      "ref": "Ps.80.13",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אָרִיתִי",
+      "translit": "ariti",
+      "ref": "Song.5.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "ארה",
+ "search_match": [
+  "717",
+  "h717",
+  "pluck",
+  "arah",
+  "ארה"
+ ],
+ "citation_translit": "arah",
+ "stem_coverage_checked": true
+}

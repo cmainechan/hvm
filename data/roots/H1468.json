@@ -1,0 +1,47 @@
+{
+ "glosses": [
+  "pass away"
+ ],
+ "strong": "H1468",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיָּגָז",
+      "translit": "vayyagaz",
+      "ref": "Num.11.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "גָז",
+      "translit": "gaz",
+      "ref": "Ps.90.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "גוז",
+ "search_match": [
+  "1468",
+  "h1468",
+  "pass away",
+  "guz",
+  "גוז"
+ ],
+ "citation_translit": "guz",
+ "stem_coverage_checked": true
+}

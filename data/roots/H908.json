@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "devise"
+ ],
+ "strong": "H908",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "בָּדָא",
+      "translit": "bada",
+      "ref": "1Kgs.12.33",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Single-attestation root -- the entire corpus has exactly one occurrence of this root at all (1Kgs.12.33)."
+ ],
+ "root": "בדא",
+ "search_match": [
+  "908",
+  "h908",
+  "devise",
+  "bada",
+  "בדא"
+ ],
+ "citation_translit": "bada",
+ "stem_coverage_checked": true
+}

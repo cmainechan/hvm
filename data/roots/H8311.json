@@ -1,0 +1,60 @@
+{
+ "glosses": [
+  "be extended"
+ ],
+ "strong": "H8311",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "שָׂרֽוּעַ",
+      "translit": "sarua",
+      "ref": "Lev.21.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "מֵֽהִשְׂתָּרֵעַ",
+      "translit": "mehistarea",
+      "ref": "Isa.28.20",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hitpael": "stretch oneself"
+ },
+ "notes": [
+  "Qal's participle_passive ms slot is attested identically (same word \"שָׂרוּעַ\", of a disqualifying physical defect) in both Lev.21.18 and Lev.22.23; Lev.21.18 kept as citation per the usual duplicate-slot tie-break."
+ ],
+ "root": "שרע",
+ "search_match": [
+  "8311",
+  "h8311",
+  "be extended",
+  "sara",
+  "שרע"
+ ],
+ "citation_translit": "sara",
+ "stem_coverage_checked": true
+}

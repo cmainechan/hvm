@@ -1,0 +1,45 @@
+{
+ "glosses": [
+  "swell"
+ ],
+ "strong": "H1216",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "בָצֵקָה",
+      "translit": "vatzeqah",
+      "ref": "Deut.8.4",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "בָצֵֽקוּ",
+      "translit": "vatzequ",
+      "ref": "Neh.9.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "בצק",
+ "search_match": [
+  "1216",
+  "h1216",
+  "swell",
+  "batzeq",
+  "בצק"
+ ],
+ "citation_translit": "batzeq",
+ "stem_coverage_checked": true
+}

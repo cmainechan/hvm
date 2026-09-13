@@ -1,0 +1,47 @@
+{
+ "glosses": [
+  "kick"
+ ],
+ "strong": "H1163",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִבְעֲטוּ",
+      "translit": "tiv'atu",
+      "ref": "1Sam.2.29",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּבְעָט",
+      "translit": "vayyiv'at",
+      "ref": "Deut.32.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "בעט",
+ "search_match": [
+  "1163",
+  "h1163",
+  "kick",
+  "baat",
+  "בעט"
+ ],
+ "citation_translit": "ba'at",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,68 @@
+{
+ "glosses": [
+  "become straight"
+ ],
+ "strong": "H8626",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִתְקֹן",
+      "translit": "litqon",
+      "ref": "Eccl.1.15",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְתַקֵּן",
+      "translit": "ltaqqen",
+      "ref": "Eccl.7.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "תִּקֵּן",
+      "translit": "tiqqen",
+      "ref": "Eccl.12.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "arrange"
+ },
+ "root": "תקן",
+ "search_match": [
+  "8626",
+  "h8626",
+  "become straight",
+  "taqan",
+  "תקן"
+ ],
+ "citation_translit": "taqan",
+ "stem_coverage_checked": true
+}

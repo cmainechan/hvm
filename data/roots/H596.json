@@ -1,0 +1,51 @@
+{
+ "glosses": [
+  "complain"
+ ],
+ "strong": "H596",
+ "stems": {
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִּתְאוֹנֵן",
+      "translit": "yit'onen",
+      "ref": "Lam.3.39",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "כְּמִתְאֹנְנִים",
+      "translit": "kmit'onnim",
+      "ref": "Num.11.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Requested as \"Hithpael\" but the only attested stem is actually hithpolel (a rarer, polel-derived reflexive), not the ordinary hitpael -- corrected the stem label to match the corpus's own morph-code tagging (stem letter 'r', HEBREW_STEM_MAP's hithpolel) rather than force it under hitpael.",
+  "Gloss collision: \"complain\" matches a clause of the existing שיח (H7878, \"complain; ponder; talk\") root gloss -- disambiguating search alias added."
+ ],
+ "root": "אנן",
+ "search_match": [
+  "596",
+  "h596",
+  "complain (anan)",
+  "anan",
+  "אנן"
+ ],
+ "citation_translit": "anan",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,60 @@
+{
+ "glosses": [
+  "loathe"
+ ],
+ "strong": "H973",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "בָּחֲלָה",
+      "translit": "bachalah",
+      "ref": "Zech.11.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מבחלת",
+      "translit": "mvchlt",
+      "ref": "Prov.20.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be obtained by greed"
+ },
+ "notes": [
+  "Pual's only attestation (Prov.20.21) is a well-known textual crux: the word is unpointed in the source text (מבחלת, no niqqud at all), and Hebrew scholarship has long debated whether it should be read as pual of בחל (\"greedily gotten\", this root) or of בהל (\"hastily gotten\", a single-letter ה/ח difference) -- OSHB's lemma tagging resolves it to this root (H973), which is followed here since no alternative attestation of pual exists. Flagging as textually contested per the maintenance guide."
+ ],
+ "root": "בחל",
+ "search_match": [
+  "973",
+  "h973",
+  "loathe",
+  "bachal",
+  "בחל"
+ ],
+ "citation_translit": "bachal",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,50 @@
+{
+ "glosses": [
+  "gird"
+ ],
+ "strong": "H640",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְאָפַדְתָּ",
+      "translit": "v'afadta",
+      "ref": "Exod.29.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֶּאְפֹּד",
+      "translit": "vayye'ppod",
+      "ref": "Lev.8.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "אפד",
+ "search_match": [
+  "640",
+  "h640",
+  "gird (afad)",
+  "afad",
+  "אפד"
+ ],
+ "citation_translit": "afad",
+ "stem_coverage_checked": true,
+ "notes": [
+  "Gloss collision: \"gird\" (exact) matches the existing חגר (H2296) root gloss, and closely overlaps אזר (H247, \"gird on [of strength]\") -- disambiguating search alias added."
+ ]
+}
