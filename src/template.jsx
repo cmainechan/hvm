@@ -41,6 +41,20 @@ const STEM_COLOR = {
 };
 const STEM_ORDER = ["qal", "qal_passive", "niphal", "piel", "pilpel", "polel", "poel", "palel", "pilel", "pealal", "pulal", "pual", "poal", "polal", "polpal", "hiphil", "hophal", "hitpael", "hithpoel", "hithpolel", "hithpalpel", "hothpaal", "nithpael", "hishtaphel", "tiphil"];
 
+// the 22-letter Hebrew alphabet, in traditional order -- roots are always
+// keyed by their initial (non-final) letter form, so this is a fixed list
+// independent of which roots the dataset happens to contain
+const HEBREW_ALPHABET = [
+  { letter: "א", name: "aleph" }, { letter: "ב", name: "bet" }, { letter: "ג", name: "gimel" },
+  { letter: "ד", name: "dalet" }, { letter: "ה", name: "he" }, { letter: "ו", name: "vav" },
+  { letter: "ז", name: "zayin" }, { letter: "ח", name: "het" }, { letter: "ט", name: "tet" },
+  { letter: "י", name: "yod" }, { letter: "כ", name: "kaf" }, { letter: "ל", name: "lamed" },
+  { letter: "מ", name: "mem" }, { letter: "נ", name: "nun" }, { letter: "ס", name: "samekh" },
+  { letter: "ע", name: "ayin" }, { letter: "פ", name: "pe" }, { letter: "צ", name: "tsadi" },
+  { letter: "ק", name: "qof" }, { letter: "ר", name: "resh" }, { letter: "ש", name: "shin" },
+  { letter: "ת", name: "tav" },
+];
+
 // a handful of roots default to a stem other than the first-available one in
 // STEM_ORDER, because that stem is overwhelmingly the dominant/expected form
 // for that specific verb (e.g. "bow down" is almost always Hishtaphel, a rare
@@ -229,12 +243,86 @@ function rootCitationTranslit(root) {
   return pickRepresentativeRow(stemEntry.forms[form]).translit;
 }
 
+// roots grouped by initial letter, computed once from the static ROOT_ORDER
+// that ships in the data block -- used by the letter-first root picker below
+const ROOTS_BY_LETTER = {};
+ROOT_ORDER.forEach((root) => {
+  const letter = root[0];
+  (ROOTS_BY_LETTER[letter] || (ROOTS_BY_LETTER[letter] = [])).push(root);
+});
+
+// two-layer root picker: an alphabet grid first, expanding to that letter's
+// roots on click, with a back button to return to the alphabet. Used both
+// on the landing screen (no root chosen yet) and inside the wheel view
+// (choosing a different root without leaving the current one).
+function RootPicker({ activeRoot, activeLetter, onSelectLetter, onBack, onSelectRoot }) {
+  if (!activeLetter) {
+    return (
+      <div style={styles.rootPickerBox}>
+        <span style={styles.legendTitle}>Roots ({Object.keys(VERB_DATA).length}) · pick a letter</span>
+        <div style={styles.letterGrid}>
+          {HEBREW_ALPHABET.map(({ letter, name }) => {
+            const count = (ROOTS_BY_LETTER[letter] || []).length;
+            if (count === 0) return null;
+            return (
+              <button
+                key={letter}
+                onClick={() => onSelectLetter(letter)}
+                style={styles.letterChip}
+                title={`${name} — ${count} root${count === 1 ? "" : "s"}`}
+              >
+                <span style={styles.letterChipHeb}>{letter}</span>
+                <span style={styles.letterChipCount}>{count}</span>
+              </button>
+            );
+          })}
+        </div>
+      </div>
+    );
+  }
+
+  const roots = ROOTS_BY_LETTER[activeLetter] || [];
+  return (
+    <div style={styles.rootPickerBox}>
+      <span style={styles.legendTitle}>
+        <button type="button" onClick={onBack} style={styles.backToLettersBtn}>← letters</button>
+        {" "}{activeLetter} · {roots.length} root{roots.length === 1 ? "" : "s"}
+      </span>
+      <div style={styles.rootPickerRow}>
+        {roots.map((root) => (
+          <button
+            key={root}
+            onClick={() => onSelectRoot(root)}
+            style={{
+              ...styles.rootChip,
+              background: root === activeRoot ? "#2B2018" : "#FBF6EC",
+              color: root === activeRoot ? "#F4EEDF" : "#2B2018",
+            }}
+            title={VERB_DATA[root].glosses.join(", ")}
+          >
+            <span style={styles.rootChipHeb}>{root}</span>
+            <span
+              style={{
+                ...styles.rootChipGloss,
+                color: root === activeRoot ? "#D9CDB0" : "#8A7F6A",
+              }}
+            >
+              {ROOT_CITATION_TRANSLIT[root]}
+            </span>
+          </button>
+        ))}
+      </div>
+    </div>
+  );
+}
+
 export default function HebrewVerbMap() {
   const [query, setQuery] = useState("");
   const [notFound, setNotFound] = useState(false);
   const [activeRoot, setActiveRoot] = useState(null);
   const [activeStem, setActiveStem] = useState(null);
   const [activeForm, setActiveForm] = useState(null);
+  const [activeLetter, setActiveLetter] = useState(null);
 
   function loadRoot(root) {
     const entry = VERB_DATA[root];
@@ -242,6 +330,7 @@ export default function HebrewVerbMap() {
     setActiveRoot(root);
     setActiveStem(stem);
     setActiveForm(null);
+    setActiveLetter(root[0]);
     setNotFound(false);
   }
 
@@ -303,26 +392,15 @@ export default function HebrewVerbMap() {
           <p style={styles.notFound}>Not in the database. Try an English gloss, a transliteration, or the Hebrew root.</p>
         )}
 
-        <div style={styles.rootPickerBox}>
-          <span style={styles.legendTitle}>Roots ({Object.keys(VERB_DATA).length})</span>
-          <div style={styles.rootPickerRow}>
-            {ROOT_ORDER.map((root) => (
-              <button
-                key={root}
-                onClick={() => loadRoot(root)}
-                style={{ ...styles.rootChip, background: "#FBF6EC", color: "#2B2018" }}
-                title={VERB_DATA[root].glosses.join(", ")}
-              >
-                <span style={styles.rootChipHeb}>{root}</span>
-                <span style={{ ...styles.rootChipGloss, color: "#8A7F6A" }}>
-                  {ROOT_CITATION_TRANSLIT[root]}
-                </span>
-              </button>
-            ))}
-          </div>
-        </div>
+        <RootPicker
+          activeRoot={activeRoot}
+          activeLetter={activeLetter}
+          onSelectLetter={setActiveLetter}
+          onBack={() => setActiveLetter(null)}
+          onSelectRoot={loadRoot}
+        />
 
-        <p style={styles.placeholderHint}>Pick a root above, or search, to open its paradigm wheel.</p>
+        <p style={styles.placeholderHint}>Pick a letter, then a root above, or search, to open its paradigm wheel.</p>
 
         <footer style={styles.footer}>
           <p>
@@ -379,33 +457,13 @@ export default function HebrewVerbMap() {
       )}
 
       {/* root picker chips */}
-      <div style={styles.rootPickerBox}>
-        <span style={styles.legendTitle}>Roots ({Object.keys(VERB_DATA).length})</span>
-        <div style={styles.rootPickerRow}>
-          {ROOT_ORDER.map((root) => (
-            <button
-              key={root}
-              onClick={() => loadRoot(root)}
-              style={{
-                ...styles.rootChip,
-                background: root === activeRoot ? "#2B2018" : "#FBF6EC",
-                color: root === activeRoot ? "#F4EEDF" : "#2B2018",
-              }}
-              title={VERB_DATA[root].glosses.join(", ")}
-            >
-              <span style={styles.rootChipHeb}>{root}</span>
-              <span
-                style={{
-                  ...styles.rootChipGloss,
-                  color: root === activeRoot ? "#D9CDB0" : "#8A7F6A",
-                }}
-              >
-                {ROOT_CITATION_TRANSLIT[root]}
-              </span>
-            </button>
-          ))}
-        </div>
-      </div>
+      <RootPicker
+        activeRoot={activeRoot}
+        activeLetter={activeLetter}
+        onSelectLetter={setActiveLetter}
+        onBack={() => setActiveLetter(null)}
+        onSelectRoot={loadRoot}
+      />
 
       {/* Legend — dynamic to current root */}
       <div style={styles.legendBox}>
@@ -636,6 +694,36 @@ const styles = {
   },
   rootChipHeb: { fontFamily: "var(--heb)", fontSize: 16, lineHeight: 1.1 },
   rootChipGloss: { fontSize: 9.5, lineHeight: 1.1, fontStyle: "italic", maxWidth: 96, whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" },
+
+  letterGrid: { display: "flex", flexWrap: "wrap", justifyContent: "center", gap: 6, marginTop: 8, direction: "rtl" },
+  letterChip: {
+    fontFamily: "inherit",
+    border: "1px solid #C9BB98",
+    borderRadius: 8,
+    padding: "8px 6px",
+    cursor: "pointer",
+    display: "flex",
+    flexDirection: "column",
+    alignItems: "center",
+    gap: 2,
+    minWidth: 44,
+    background: "#FBF6EC",
+    color: "#2B2018",
+  },
+  letterChipHeb: { fontFamily: "var(--heb)", fontSize: 20, lineHeight: 1.1 },
+  letterChipCount: { fontSize: 10, lineHeight: 1.1, color: "#8A7F6A" },
+  backToLettersBtn: {
+    fontFamily: "inherit",
+    fontSize: 11,
+    letterSpacing: "0.04em",
+    textTransform: "uppercase",
+    color: "#8B6F1F",
+    background: "none",
+    border: "none",
+    cursor: "pointer",
+    padding: 0,
+    marginRight: 6,
+  },
 
   legendBox: { maxWidth: 720, margin: "22px auto 0", textAlign: "center" },
   legendTitle: { fontSize: 11, letterSpacing: "0.08em", textTransform: "uppercase", color: "#8B6F1F", fontFamily: "'Courier New', monospace" },

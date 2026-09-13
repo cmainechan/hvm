@@ -70,6 +70,36 @@ const styles = {
   rootChipHeb: { fontFamily: "var(--heb)", fontSize: 16, lineHeight: 1.1 },
   rootChipGloss: { fontSize: 9.5, lineHeight: 1.1, fontStyle: "italic", maxWidth: 96, whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" },
 
+  letterGrid: { display: "flex", flexWrap: "wrap", justifyContent: "center", gap: 6, marginTop: 8, direction: "rtl" },
+  letterChip: {
+    fontFamily: "inherit",
+    border: "1px solid #C9BB98",
+    borderRadius: 8,
+    padding: "8px 6px",
+    cursor: "pointer",
+    display: "flex",
+    flexDirection: "column",
+    alignItems: "center",
+    gap: 2,
+    minWidth: 44,
+    background: "#FBF6EC",
+    color: "#2B2018",
+  },
+  letterChipHeb: { fontFamily: "var(--heb)", fontSize: 20, lineHeight: 1.1 },
+  letterChipCount: { fontSize: 10, lineHeight: 1.1, color: "#8A7F6A" },
+  backToLettersBtn: {
+    fontFamily: "inherit",
+    fontSize: 11,
+    letterSpacing: "0.04em",
+    textTransform: "uppercase",
+    color: "#8B6F1F",
+    background: "none",
+    border: "none",
+    cursor: "pointer",
+    padding: 0,
+    marginRight: 6,
+  },
+
   legendBox: { maxWidth: 720, margin: "22px auto 0", textAlign: "center" },
   legendTitle: { fontSize: 11, letterSpacing: "0.08em", textTransform: "uppercase", color: "#8B6F1F", fontFamily: "'Courier New', monospace" },
   legendRow: { display: "flex", flexWrap: "wrap", justifyContent: "center", gap: 8, marginTop: 10 },
@@ -167,6 +197,21 @@ const STEM_COLOR = {
   tiphil: { color: "#8B5C5C", soft: "#EFDCDC", name: "Tiphil" },
 };
 const STEM_ORDER = ["qal", "qal_passive", "niphal", "piel", "pilpel", "polel", "poel", "palel", "pilel", "pealal", "pulal", "pual", "poal", "polal", "polpal", "hiphil", "hophal", "hitpael", "hithpoel", "hithpolel", "hithpalpel", "hothpaal", "nithpael", "hishtaphel", "tiphil"];
+
+// the 22-letter Hebrew alphabet, in traditional order -- roots are always
+// keyed by their initial (non-final) letter form, so this is a fixed list
+// independent of which roots the dataset happens to contain. Kept in sync
+// with template.jsx.
+const HEBREW_ALPHABET = [
+  { letter: "א", name: "aleph" }, { letter: "ב", name: "bet" }, { letter: "ג", name: "gimel" },
+  { letter: "ד", name: "dalet" }, { letter: "ה", name: "he" }, { letter: "ו", name: "vav" },
+  { letter: "ז", name: "zayin" }, { letter: "ח", name: "het" }, { letter: "ט", name: "tet" },
+  { letter: "י", name: "yod" }, { letter: "כ", name: "kaf" }, { letter: "ל", name: "lamed" },
+  { letter: "מ", name: "mem" }, { letter: "נ", name: "nun" }, { letter: "ס", name: "samekh" },
+  { letter: "ע", name: "ayin" }, { letter: "פ", name: "pe" }, { letter: "צ", name: "tsadi" },
+  { letter: "ק", name: "qof" }, { letter: "ר", name: "resh" }, { letter: "ש", name: "shin" },
+  { letter: "ת", name: "tav" },
+];
 const DEFAULT_STEM_OVERRIDE = {
   "אדר": "hiphil",
   "אזן¹": "hiphil",
@@ -328,7 +373,16 @@ function stemGloss(rootEntry, stem, category) {
 /* ---------------------------------------------------------------
    STATE
 ------------------------------------------------------------------ */
-let state = { query: "", notFound: false, activeRoot: null, activeStem: null, activeForm: null };
+let state = { query: "", notFound: false, activeRoot: null, activeStem: null, activeForm: null, activeLetter: null };
+
+// roots grouped by initial letter, computed once from the static ROOT_ORDER
+// that ships in the data block -- used by the letter-first root picker below.
+// Kept in sync with template.jsx.
+const ROOTS_BY_LETTER = {};
+ROOT_ORDER.forEach((r) => {
+  const letter = r[0];
+  (ROOTS_BY_LETTER[letter] || (ROOTS_BY_LETTER[letter] = [])).push(r);
+});
 
 function loadRoot(root) {
   const entry = VERB_DATA[root];
@@ -336,6 +390,7 @@ function loadRoot(root) {
   state.activeRoot = root;
   state.activeStem = stem;
   state.activeForm = null;
+  state.activeLetter = root[0];
   state.notFound = false;
   render();
 }
@@ -408,30 +463,55 @@ function render() {
     page.appendChild(nf);
   }
 
-  // root picker
+  // root picker: an alphabet grid first, expanding to that letter's roots on
+  // click, with a back button to return to the alphabet. Kept in sync with
+  // template.jsx's RootPicker component.
   const pickerBox = el("div", styles.rootPickerBox);
-  const pickerTitle = el("span", styles.legendTitle);
-  pickerTitle.textContent = "Roots (" + Object.keys(VERB_DATA).length + ")";
-  const pickerRow = el("div", styles.rootPickerRow);
-  ROOT_ORDER.forEach((r) => {
-    const chip = el("button", {
-      ...styles.rootChip,
-      background: r === state.activeRoot ? "#2B2018" : "#FBF6EC",
-      color: r === state.activeRoot ? "#F4EEDF" : "#2B2018",
-    }, { title: VERB_DATA[r].glosses.join(", ") });
-    const heb = el("span", styles.rootChipHeb); heb.textContent = r;
-    const gloss = el("span", { ...styles.rootChipGloss, color: r === state.activeRoot ? "#D9CDB0" : "#8A7F6A" });
-    gloss.textContent = ROOT_CITATION_TRANSLIT[r];
-    chip.append(heb, gloss);
-    chip.addEventListener("click", () => loadRoot(r));
-    pickerRow.appendChild(chip);
-  });
-  pickerBox.append(pickerTitle, pickerRow);
+  if (!state.activeLetter) {
+    const pickerTitle = el("span", styles.legendTitle);
+    pickerTitle.textContent = "Roots (" + Object.keys(VERB_DATA).length + ") · pick a letter";
+    const letterGrid = el("div", styles.letterGrid);
+    HEBREW_ALPHABET.forEach(({ letter, name }) => {
+      const count = (ROOTS_BY_LETTER[letter] || []).length;
+      if (count === 0) return;
+      const chip = el("button", styles.letterChip, {
+        title: name + " — " + count + " root" + (count === 1 ? "" : "s"),
+      });
+      const heb = el("span", styles.letterChipHeb); heb.textContent = letter;
+      const countEl = el("span", styles.letterChipCount); countEl.textContent = count;
+      chip.append(heb, countEl);
+      chip.addEventListener("click", () => { state.activeLetter = letter; render(); });
+      letterGrid.appendChild(chip);
+    });
+    pickerBox.append(pickerTitle, letterGrid);
+  } else {
+    const roots = ROOTS_BY_LETTER[state.activeLetter] || [];
+    const pickerTitle = el("span", styles.legendTitle);
+    const backBtn = el("button", styles.backToLettersBtn, { type: "button", textContent: "← letters" });
+    backBtn.addEventListener("click", () => { state.activeLetter = null; render(); });
+    pickerTitle.appendChild(backBtn);
+    pickerTitle.append(" " + state.activeLetter + " · " + roots.length + " root" + (roots.length === 1 ? "" : "s"));
+    const pickerRow = el("div", styles.rootPickerRow);
+    roots.forEach((r) => {
+      const chip = el("button", {
+        ...styles.rootChip,
+        background: r === state.activeRoot ? "#2B2018" : "#FBF6EC",
+        color: r === state.activeRoot ? "#F4EEDF" : "#2B2018",
+      }, { title: VERB_DATA[r].glosses.join(", ") });
+      const heb = el("span", styles.rootChipHeb); heb.textContent = r;
+      const gloss = el("span", { ...styles.rootChipGloss, color: r === state.activeRoot ? "#D9CDB0" : "#8A7F6A" });
+      gloss.textContent = ROOT_CITATION_TRANSLIT[r];
+      chip.append(heb, gloss);
+      chip.addEventListener("click", () => loadRoot(r));
+      pickerRow.appendChild(chip);
+    });
+    pickerBox.append(pickerTitle, pickerRow);
+  }
   page.appendChild(pickerBox);
 
   if (!state.activeRoot) {
     const hint = el("p", styles.placeholderHint);
-    hint.textContent = "Pick a root above, or search, to open its paradigm wheel.";
+    hint.textContent = "Pick a letter, then a root above, or search, to open its paradigm wheel.";
     page.appendChild(hint);
     renderFooter(page);
     root.appendChild(page);
