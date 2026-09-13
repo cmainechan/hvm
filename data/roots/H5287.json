@@ -133,14 +133,17 @@
   "piel": "shake off",
   "hitpael": "shake oneself"
  },
- "root": "נער",
+ "root": "נער²",
  "search_match": [
   "5287",
   "h5287",
   "shake out",
   "na'ar",
-  "נער"
+  "נער²"
  ],
  "citation_translit": "na'ar",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Retroactively renamed from the plain key \"נער\" to \"נער²\" when H5286 (\"growl\") was added to the dataset as \"נער¹\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
+ ]
 }

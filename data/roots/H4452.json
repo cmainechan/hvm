@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "be sweet"
+ ],
+ "strong": "H4452",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (niphal-only root)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נִּמְלְצוּ",
+      "translit": "nimltzu",
+      "ref": "Ps.119.103",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "מלץ",
+ "search_match": [
+  "4452",
+  "h4452",
+  "be sweet (malatz)",
+  "malatz",
+  "מלץ"
+ ],
+ "citation_translit": "malatz",
+ "stem_coverage_checked": true
+}

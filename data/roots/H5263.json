@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "be sick"
+ ],
+ "strong": "H5263",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נֹסֵֽס",
+      "translit": "noses",
+      "ref": "Isa.10.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "True homograph with H5264 (\"display\"), same spelling נסס, both added in this same batch -- Strong's own entry for H5264 even calls the two \"identical... through the idea of a flag as fluttering.\" Per the root-key superscript convention (lower Strong's number gets ¹), this root is נסס¹ and H5264 is נסס²."
+ ],
+ "root": "נסס¹",
+ "search_match": [
+  "5263",
+  "h5263",
+  "be sick (nasas)",
+  "nasas",
+  "נסס¹"
+ ],
+ "citation_translit": "nasas",
+ "stem_coverage_checked": true
+}

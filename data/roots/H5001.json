@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "declare"
+ ],
+ "strong": "H5001",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַֽיִּנְאֲמוּ",
+      "translit": "vayyin'amu",
+      "ref": "Jer.23.31",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "נאם",
+ "search_match": [
+  "5001",
+  "h5001",
+  "declare",
+  "na'am",
+  "נאם"
+ ],
+ "citation_translit": "na'am",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "ascend"
+ ],
+ "strong": "H5266",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶסַּק",
+      "translit": "essaq",
+      "ref": "Ps.139.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "The person's citation (2Kgs.2.11, Elijah's ascension) doesn't contain this root at all -- that verse's verb is H5927 (עלה, the standard \"go up\"), a different, very common root. The only actual attestation of H5266 is Ps.139.8 (אֶסַּק שָׁמַיִם, \"if I ascend up into heaven\"), which matches the gloss \"ascend\" exactly -- shipped with the corrected citation."
+ ],
+ "root": "נסק",
+ "search_match": [
+  "5266",
+  "h5266",
+  "ascend",
+  "nasaq",
+  "נסק"
+ ],
+ "citation_translit": "nasaq",
+ "stem_coverage_checked": true
+}

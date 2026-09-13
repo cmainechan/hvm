@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "bark"
+ ],
+ "strong": "H5024",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִנְבֹּחַ",
+      "translit": "linbocha",
+      "ref": "Isa.56.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "נבח",
+ "search_match": [
+  "5024",
+  "h5024",
+  "bark",
+  "navach",
+  "נבח"
+ ],
+ "citation_translit": "navach",
+ "stem_coverage_checked": true
+}

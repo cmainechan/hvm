@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "be sick"
+ ],
+ "strong": "H5136",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וָֽאָנוּשָׁה",
+      "translit": "va'anushah",
+      "ref": "Ps.69.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Ref follows WLC/Hebrew versification (Ps.69.21); Psalm 69's title/superscription shifts its whole numbering by one relative to English Bibles (English 69:20), the same recurring Psalms pattern seen in earlier batches."
+ ],
+ "root": "נוש",
+ "search_match": [
+  "5136",
+  "h5136",
+  "be sick (nush)",
+  "nush",
+  "נוש"
+ ],
+ "citation_translit": "nush",
+ "stem_coverage_checked": true
+}

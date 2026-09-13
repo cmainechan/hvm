@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "dilute"
+ ],
+ "strong": "H4107",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מָהוּל",
+      "translit": "mahul",
+      "ref": "Isa.1.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "מהל",
+ "search_match": [
+  "4107",
+  "h4107",
+  "dilute",
+  "mahal",
+  "מהל"
+ ],
+ "citation_translit": "mahal",
+ "stem_coverage_checked": true
+}

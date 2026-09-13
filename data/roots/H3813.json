@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "cover"
+ ],
+ "strong": "H3813",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "לָאַט",
+      "translit": "la'at",
+      "ref": "2Sam.19.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Ref follows WLC/Hebrew versification (2Sam.19.5); English Bibles number this verse 19:4, a known systematic offset for this stretch of 2 Samuel (Hebrew ch.19 begins one verse before the English chapter break)."
+ ],
+ "root": "לאט",
+ "search_match": [
+  "3813",
+  "h3813",
+  "cover (la'at)",
+  "la'at",
+  "לאט"
+ ],
+ "citation_translit": "la'at",
+ "stem_coverage_checked": true
+}

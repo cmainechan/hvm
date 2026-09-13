@@ -75,14 +75,17 @@
  "stem_glosses": {
   "hiphil": "make sweet"
  },
- "root": "מתק",
+ "root": "מתק¹",
  "search_match": [
   "4985",
   "h4985",
   "be/become sweet or pleasant",
   "mataq",
-  "מתק"
+  "מתק¹"
  ],
  "citation_translit": "mataq",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Retroactively renamed from the plain key \"מתק\" to \"מתק¹\" when H4988 (\"be sweet\") was added to the dataset as \"מתק²\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
+ ]
 }

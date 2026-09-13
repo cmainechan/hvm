@@ -198,14 +198,17 @@
   "piel": "measure",
   "hithpolel": "stretch oneself"
  },
- "root": "מדד",
+ "root": "מדד¹",
  "search_match": [
   "4058",
   "h4058",
   "madad",
   "measure",
-  "מדד"
+  "מדד¹"
  ],
  "citation_translit": "madad",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Retroactively renamed from the plain key \"מדד\" to \"מדד¹\" when H4059 (\"pass away\") was added to the dataset as \"מדד²\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
+ ]
 }

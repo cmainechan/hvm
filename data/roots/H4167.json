@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "mock"
+ ],
+ "strong": "H4167",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יָמִיקוּ",
+      "translit": "yamiqu",
+      "ref": "Ps.73.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "מוק",
+ "search_match": [
+  "4167",
+  "h4167",
+  "mock (muq)",
+  "muq",
+  "מוק"
+ ],
+ "citation_translit": "muq",
+ "stem_coverage_checked": true
+}

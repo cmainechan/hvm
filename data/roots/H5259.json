@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "weave"
+ ],
+ "strong": "H5259",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "הַנְּסוּכָה",
+      "translit": "hannsukhah",
+      "ref": "Isa.25.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym check (cross-reference flagged by Strong's own entry, \"probably identical with H5258 through the idea of fusion\"): shares consonants נסך with H5258 (\"pour out; anoint\"), already in this dataset. The corpus tags this occurrence to 5259 specifically, with a distinct sense (\"interweave, overspread\" vs. H5258's \"pour out/cast metal\"). Per the root-key superscript convention (lower Strong's number gets ¹), H5258 has been retroactively relabeled נסך¹ in this same batch and this root is נסך²."
+ ],
+ "root": "נסך²",
+ "search_match": [
+  "5259",
+  "h5259",
+  "weave (nasakh)",
+  "nasakh",
+  "נסך²"
+ ],
+ "citation_translit": "nasakh",
+ "stem_coverage_checked": true
+}

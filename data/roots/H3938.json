@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "swallow"
+ ],
+ "strong": "H3938",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "הַלְעִיטֵנִי",
+      "translit": "hal'iteni",
+      "ref": "Gen.25.30",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "לעט",
+ "search_match": [
+  "3938",
+  "h3938",
+  "swallow",
+  "la'at",
+  "לעט"
+ ],
+ "citation_translit": "la'at",
+ "stem_coverage_checked": true
+}

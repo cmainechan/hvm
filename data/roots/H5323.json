@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "flee"
+ ],
+ "strong": "H5323",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "נָצֹא",
+      "translit": "natzo",
+      "ref": "Jer.48.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "נצא",
+ "search_match": [
+  "5323",
+  "h5323",
+  "flee (natza)",
+  "natza",
+  "נצא"
+ ],
+ "citation_translit": "natza",
+ "stem_coverage_checked": true
+}

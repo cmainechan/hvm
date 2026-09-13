@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "urge"
+ ],
+ "strong": "H5169",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נָחֽוּץ",
+      "translit": "nachutz",
+      "ref": "1Sam.21.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "נחץ",
+ "search_match": [
+  "5169",
+  "h5169",
+  "urge (nachatz)",
+  "nachatz",
+  "נחץ"
+ ],
+ "citation_translit": "nachatz",
+ "stem_coverage_checked": true
+}

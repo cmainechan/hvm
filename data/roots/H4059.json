@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "pass away"
+ ],
+ "strong": "H4059",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּמִדַּד",
+      "translit": "umiddad",
+      "ref": "Job.7.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym: shares consonants מדד with H4058 (\"measure\"), a separate, unrelated Strong's entry already in this dataset. Per the root-key superscript convention (lower Strong's number gets ¹), H4058 has been retroactively relabeled מדד¹ in this same batch and this root is מדד²."
+ ],
+ "root": "מדד²",
+ "search_match": [
+  "4059",
+  "h4059",
+  "pass away (middad)",
+  "middad",
+  "מדד²"
+ ],
+ "citation_translit": "middad",
+ "stem_coverage_checked": true
+}

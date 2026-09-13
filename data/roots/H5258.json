@@ -190,14 +190,17 @@
   "hiphil": "pour out libations",
   "hophal": "be poured out"
  },
- "root": "נסך",
+ "root": "נסך¹",
  "search_match": [
   "5258",
   "h5258",
   "pour out",
   "nasakh",
-  "נסך"
+  "נסך¹"
  ],
  "citation_translit": "nasakh",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Retroactively renamed from the plain key \"נסך\" to \"נסך¹\" when H5259 (\"weave\") was added to the dataset as \"נסך²\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
+ ]
 }

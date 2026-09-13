@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "growl"
+ ],
+ "strong": "H5286",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נָעֲרוּ",
+      "translit": "na'aru",
+      "ref": "Jer.51.38",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym: shares consonants נער with H5287 (\"shake out\"), a separate, unrelated Strong's entry already in this dataset. Per the root-key superscript convention (lower Strong's number gets ¹), this root is נער¹ and H5287 has been retroactively relabeled נער² in this same batch."
+ ],
+ "root": "נער¹",
+ "search_match": [
+  "5286",
+  "h5286",
+  "growl (na'ar)",
+  "na'ar",
+  "נער¹"
+ ],
+ "citation_translit": "na'ar",
+ "stem_coverage_checked": true
+}

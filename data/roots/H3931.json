@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "mock"
+ ],
+ "strong": "H3931",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַלְעִבִים",
+      "translit": "mal'ivim",
+      "ref": "2Chr.36.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "לעב",
+ "search_match": [
+  "3931",
+  "h3931",
+  "mock (la'av)",
+  "la'av",
+  "לעב"
+ ],
+ "citation_translit": "la'av",
+ "stem_coverage_checked": true
+}

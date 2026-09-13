@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "display"
+ ],
+ "strong": "H5264",
+ "stems": {
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "מִֽתְנוֹסְסוֹת",
+      "translit": "mitnossot",
+      "ref": "Zech.9.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "The person's citation (Isa.30.17) doesn't contain this root at all -- that verse's verb is H5127 (נוס, \"flee\"). The only actual attestation of H5264 is Zech.9.16 (מִתְנוֹסְסוֹת, \"[the stones of a crown] lifted up as an ensign\"), which matches the gloss \"display\" and the lexicon's \"raise a beacon; lift up as an ensign\" -- shipped with the corrected citation. True homograph with H5263 (\"be sick\"), same spelling נסס -- this root is נסס² (H5263 is נסס¹) per the root-key superscript convention."
+ ],
+ "root": "נסס²",
+ "search_match": [
+  "5264",
+  "h5264",
+  "display",
+  "nasas",
+  "נסס²"
+ ],
+ "citation_translit": "nasas",
+ "stem_coverage_checked": true
+}

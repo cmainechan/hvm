@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "shake"
+ ],
+ "strong": "H5120",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָּנוּט",
+      "translit": "tanut",
+      "ref": "Ps.99.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "נוט",
+ "search_match": [
+  "5120",
+  "h5120",
+  "shake (nut)",
+  "nut",
+  "נוט"
+ ],
+ "citation_translit": "nut",
+ "stem_coverage_checked": true
+}
