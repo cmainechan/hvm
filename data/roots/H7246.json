@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "be mixed"
+ ],
+ "strong": "H7246",
+ "stems": {
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מֻרְבֶּכֶת",
+      "translit": "murbekhet",
+      "ref": "Lev.6.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Hophal's participle_passive fs slot is attested identically (the same \"mixed [cake/offering]\" idiom) in 1Chr.23.29, Lev.6.14, and Lev.7.12; 1Chr.23.29 kept as citation per the usual duplicate-slot tie-break."
+ ],
+ "root": "רבך",
+ "search_match": [
+  "7246",
+  "h7246",
+  "be mixed",
+  "ravakh",
+  "רבך"
+ ],
+ "citation_translit": "ravakh",
+ "stem_coverage_checked": true
+}

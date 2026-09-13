@@ -1,0 +1,68 @@
+{
+ "glosses": [
+  "foul by treading"
+ ],
+ "strong": "H7515",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתִּרְפֹּס",
+      "translit": "vattirpos",
+      "ref": "Ezek.32.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תִּרְפֹּשֽׂוּן",
+      "translit": "tirposun",
+      "ref": "Ezek.34.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "נִרְפָּשׂ",
+      "translit": "nirpas",
+      "ref": "Prov.25.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be fouled"
+ },
+ "root": "רפש",
+ "search_match": [
+  "7515",
+  "h7515",
+  "foul by treading",
+  "rafas",
+  "רפש"
+ ],
+ "citation_translit": "rafas",
+ "stem_coverage_checked": true
+}

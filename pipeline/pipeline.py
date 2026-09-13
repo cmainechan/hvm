@@ -385,6 +385,11 @@ KNOWN_EXCEPTIONS = {
     # (Ps.101.5, מְלָשְׁנִי) is a construct-state participle ("[whoever]
     # slandereth his neighbour"); kept anyway per the same explicit
     # exception as H2904/H6140, since no other poel attestation exists.
+    ('H7710', 'qal', 'participle_passive', 'fp'),  # all three attestations
+    # (Gen.41.6, 41.23, 41.27, the "blasted" ears of grain in Pharaoh's
+    # dream) are construct-state participles; kept anyway per the same
+    # explicit exception as H2904/H6140/H3960, since no absolute-state
+    # attestation exists at all for this root.
 }
 
 

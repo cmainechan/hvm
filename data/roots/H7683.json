@@ -1,0 +1,51 @@
+{
+ "glosses": [
+  "go astray"
+ ],
+ "strong": "H7683",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "שֹׁגֵג",
+      "translit": "shogeg",
+      "ref": "Job.12.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "שָׁגָג",
+      "translit": "shagag",
+      "ref": "Lev.5.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Qal's participle_active ms slot is attested identically (same word \"שֹׁגֵג\") in both Job.12.16 and Ps.119.67; Job.12.16 kept as citation per the usual duplicate-slot tie-break.",
+  "Gloss collision: \"go astray\" matches a clause of the existing שטה (H7847, \"turn aside...; go astray\") and שגה² (H7686, \"go astray; reel\") root glosses -- disambiguating search alias added."
+ ],
+ "root": "שגג",
+ "search_match": [
+  "7683",
+  "h7683",
+  "go astray (shagag)",
+  "shagag",
+  "שגג"
+ ],
+ "citation_translit": "shagag",
+ "stem_coverage_checked": true
+}

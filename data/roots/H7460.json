@@ -1,0 +1,67 @@
+{
+ "glosses": [
+  "tremble"
+ ],
+ "strong": "H7460",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וַתִּרְעָד",
+      "translit": "vattir'ad",
+      "ref": "Ps.104.32",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַרְעִֽיד",
+      "translit": "mar'id",
+      "ref": "Dan.10.11",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מַרְעִידִים",
+      "translit": "mar'idim",
+      "ref": "Ezra.10.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Hiphil is used intransitively/statively here, not causatively: both citations (Dan.10.11 \"I stood trembling\"; Ezra.10.9 \"the people sat trembling\") describe the SUBJECT itself trembling, not the subject causing something else to tremble. Kept as \"tremble\" per the person's given gloss, which matches the actual usage; flagging the unusual (non-causative) hiphil pattern.",
+  "Gloss collision: \"tremble\" (exact) matches FIVE existing root-level glosses -- זוע (H2111), ערץ (H6206), ירע (H3415), רגז (H7264), and חרד (H2729) -- disambiguating search alias added."
+ ],
+ "root": "רעד",
+ "search_match": [
+  "7460",
+  "h7460",
+  "tremble (raad)",
+  "raad",
+  "רעד"
+ ],
+ "citation_translit": "ra'ad",
+ "stem_coverage_checked": true
+}

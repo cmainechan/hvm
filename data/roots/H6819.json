@@ -1,0 +1,51 @@
+{
+ "glosses": [
+  "become small"
+ ],
+ "strong": "H6819",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִצְעָֽרוּ",
+      "translit": "yitz'aru",
+      "ref": "Jer.30.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַצֹּעֲרִֽים",
+      "translit": "hattzo'arim",
+      "ref": "Zech.13.7",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Requested gloss \"become insignificant; become small\" trimmed to \"become small\" per the compound-gloss standard: all three citations (Zech.13.7 \"the little ones\", contrasted with the shepherd; Jer.30.19 \"they shall not be small\", paired with \"shall not be few\"; Job.14.21 \"they are brought low\", contrasted with \"come to honour\") show the identical evidenced sense -- diminishment in status or number -- not two distinct senses.",
+  "Qal's yiqtol 3mp slot is attested identically in Jer.30.19 and Job.14.21; Jer.30.19 kept as citation per the usual duplicate-slot tie-break."
+ ],
+ "root": "צער",
+ "search_match": [
+  "6819",
+  "h6819",
+  "become small",
+  "tzaar",
+  "צער"
+ ],
+ "citation_translit": "tza'ar",
+ "stem_coverage_checked": true
+}

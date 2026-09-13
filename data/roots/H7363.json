@@ -1,0 +1,68 @@
+{
+ "glosses": [
+  "grow soft"
+ ],
+ "strong": "H7363",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "רָֽחֲפוּ",
+      "translit": "rachafu",
+      "ref": "Jer.23.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְרַחֵף",
+      "translit": "yrachef",
+      "ref": "Deut.32.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "מְרַחֶפֶת",
+      "translit": "mrachefet",
+      "ref": "Gen.1.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "hover"
+ },
+ "root": "רחף",
+ "search_match": [
+  "7363",
+  "h7363",
+  "grow soft",
+  "rachaf",
+  "רחף"
+ ],
+ "citation_translit": "rachaf",
+ "stem_coverage_checked": true
+}

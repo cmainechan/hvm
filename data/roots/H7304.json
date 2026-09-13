@@ -1,0 +1,71 @@
+{
+ "glosses": [
+  "find relief"
+ ],
+ "strong": "H7304",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְרָוַח",
+      "translit": "vravach",
+      "ref": "1Sam.16.23",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְיִֽרְוַֽח",
+      "translit": "vyirvach",
+      "ref": "Job.32.20",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְרֻוָּחִים",
+      "translit": "mruvvachim",
+      "ref": "Jer.22.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be spacious"
+ },
+ "notes": [
+  "Homonym check: H7306 (רוּחַ, \"to blow, breathe, smell\") shares the same lexicon-headword consonants רוח as this root, but its attested biblical forms are all spelled with a yod (ריח) rather than a vav, and the dataset already stores it under the root key \"ריח\", not \"רוח\" -- so there is no actual root-key collision to resolve here."
+ ],
+ "root": "רוח",
+ "search_match": [
+  "7304",
+  "h7304",
+  "find relief",
+  "ravach",
+  "רוח"
+ ],
+ "citation_translit": "ravach",
+ "stem_coverage_checked": true
+}

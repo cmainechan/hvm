@@ -330,13 +330,16 @@
   "hitpael": "bow down",
   "hishtaphel": "bow down"
  },
- "root": "שחה",
+ "notes": [
+  "Retroactively renamed from the plain key \"שחה\" to \"שחה²\" when H7811 (\"swim; make swim\") was added to the dataset as \"שחה¹\" -- true homograph (same bare consonants once the sin/shin dot is stripped), per the root-key superscript convention (lower Strong's number gets ¹). This root's DEFAULT_STEM_OVERRIDE entry (hishtaphel) was updated to the new key in both UI templates."
+ ],
+ "root": "שחה²",
  "search_match": [
   "7812",
   "bow down",
   "h7812",
   "hishtachavah",
-  "שחה"
+  "שחה²"
  ],
  "citation_translit": "hishtachavah",
  "stem_coverage_checked": true

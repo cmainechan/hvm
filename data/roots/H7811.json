@@ -1,0 +1,71 @@
+{
+ "glosses": [
+  "swim"
+ ],
+ "strong": "H7811",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַשֹּׂחֶה",
+      "translit": "hassocheh",
+      "ref": "Isa.25.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִשְׂחוֹת",
+      "translit": "lischot",
+      "ref": "Isa.25.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַשְׂחֶה",
+      "translit": "ascheh",
+      "ref": "Ps.6.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "make swim"
+ },
+ "notes": [
+  "True homograph of the existing H7812 (\"bow down\"), same bare consonants שחה once the sin/shin dot (a diacritic, not a separate letter) is stripped, genuinely unrelated meanings -- added as שחה¹ (lower Strong's number) per the ascending-Strong's-number superscript convention; H7812 is retroactively renamed שחה² in this same batch, including its DEFAULT_STEM_OVERRIDE entry (hishtaphel) in both UI templates."
+ ],
+ "root": "שחה¹",
+ "search_match": [
+  "7811",
+  "h7811",
+  "swim",
+  "sachah",
+  "שחה¹"
+ ],
+ "citation_translit": "sachah",
+ "stem_coverage_checked": true
+}

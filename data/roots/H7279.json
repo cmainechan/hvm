@@ -1,0 +1,66 @@
+{
+ "glosses": [
+  "murmur"
+ ],
+ "strong": "H7279",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "וְרוֹגְנִים",
+      "translit": "vrognim",
+      "ref": "Isa.29.24",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַתֵּרָגְנוּ",
+      "translit": "vatteragnu",
+      "ref": "Deut.1.27",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיֵּרָגְנוּ",
+      "translit": "vayyeragnu",
+      "ref": "Ps.106.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "רגן",
+ "search_match": [
+  "7279",
+  "h7279",
+  "murmur (ragan)",
+  "ragan",
+  "רגן"
+ ],
+ "citation_translit": "ragan",
+ "stem_coverage_checked": true,
+ "notes": [
+  "Gloss collision: \"murmur\" matches a clause of the existing המה (H1993, \"growl; murmur; be in commotion\") root gloss -- disambiguating search alias added. Also overlaps לין (H3885)'s niphal/hiphil stem_gloss \"murmur\", stem-level on their side, no alias needed for that one."
+ ]
+}

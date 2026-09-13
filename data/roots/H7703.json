@@ -245,13 +245,16 @@
   "poel": "devastate",
   "qal_passive": "be devastated"
  },
- "root": "שדד",
+ "notes": [
+  "Retroactively renamed from the plain key \"שדד\" to \"שדד²\" when H7702 (\"harrow\") was added to the dataset as \"שדד¹\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
+ ],
+ "root": "שדד²",
  "search_match": [
   "7703",
   "devastate",
   "h7703",
   "shadad",
-  "שדד"
+  "שדד²"
  ],
  "citation_translit": "shadad",
  "stem_coverage_checked": true

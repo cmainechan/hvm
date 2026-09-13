@@ -1,0 +1,61 @@
+{
+ "glosses": [
+  "overflow"
+ ],
+ "strong": "H7783",
+ "stems": {
+  "polel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַתְּשֹׁקְקֶהָ",
+      "translit": "vattshoqqeha",
+      "ref": "Ps.65.10",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הֵשִׁיקוּ",
+      "translit": "heshiqu",
+      "ref": "Joel.4.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "polel": "give abundance"
+ },
+ "notes": [
+  "Hiphil's perfect 3cp slot is attested identically (same \"the fats overflow\" clause) in Joel.2.24 and Joel.4.13; Joel.2.24 kept as citation per the usual duplicate-slot tie-break.",
+  "Gloss collision: \"overflow\" (exact) matches the existing צוף (H6687) root gloss and a clause of שטף (H7857, \"overflow; wash off\") -- disambiguating search alias added."
+ ],
+ "root": "שוק",
+ "search_match": [
+  "7783",
+  "h7783",
+  "overflow (shuq)",
+  "shuq",
+  "שוק"
+ ],
+ "citation_translit": "shuq",
+ "stem_coverage_checked": true
+}

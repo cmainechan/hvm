@@ -43,15 +43,16 @@
   "pual": "squared"
  },
  "notes": [
-  "Both qal and pual are attested only as the passive/adjectival participle (\"foursquare\", of architectural features in Exodus/1Kings/Ezekiel) -- no finite forms of either stem occur in the corpus. Both included as attested; gloss \"squared\" fits every citation checked."
+  "Both qal and pual are attested only as the passive/adjectival participle (\"foursquare\", of architectural features in Exodus/1Kings/Ezekiel) -- no finite forms of either stem occur in the corpus. Both included as attested; gloss \"squared\" fits every citation checked.",
+  "Retroactively renamed from the plain key \"רבע\" to \"רבע²\" when H7250 (\"mate; breed\") was added to the dataset as \"רבע¹\" -- true homograph (same spelling and pointing), per the root-key superscript convention (lower Strong's number gets ¹)."
  ],
- "root": "רבע",
+ "root": "רבע²",
  "search_match": [
   "7251",
   "h7251",
   "squared",
   "rava",
-  "רבע"
+  "רבע²"
  ],
  "citation_translit": "rava",
  "stem_coverage_checked": true

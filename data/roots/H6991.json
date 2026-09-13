@@ -1,0 +1,48 @@
+{
+ "glosses": [
+  "slay"
+ ],
+ "strong": "H6991",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִֽקְטָל",
+      "translit": "yiqtal",
+      "ref": "Job.24.14",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תִּקְטֹל",
+      "translit": "tiqtol",
+      "ref": "Ps.139.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Qal's yiqtol 3ms slot is attested identically in Job.13.15 and Job.24.14; Job.13.15 kept as citation per the usual duplicate-slot tie-break."
+ ],
+ "root": "קטל",
+ "search_match": [
+  "6991",
+  "h6991",
+  "slay",
+  "qatal",
+  "קטל"
+ ],
+ "citation_translit": "qatal",
+ "stem_coverage_checked": true
+}

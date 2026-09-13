@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "look on"
+ ],
+ "strong": "H7805",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "שְׁזָפַתּוּ",
+      "translit": "shzafattu",
+      "ref": "Job.20.9",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Qal's perfect 3fs slot is attested identically (same clause \"eye hath seen/looked on him\") in both Job.20.9 and Job.28.7; Job.20.9 kept as citation per the usual duplicate-slot tie-break. Song.1.6 (with prefix, \"the sun hath looked upon me\") is a separate slot and is kept independently."
+ ],
+ "root": "שזף",
+ "search_match": [
+  "7805",
+  "h7805",
+  "look on",
+  "shazaf",
+  "שזף"
+ ],
+ "citation_translit": "shazaf",
+ "stem_coverage_checked": true
+}

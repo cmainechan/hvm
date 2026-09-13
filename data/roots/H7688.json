@@ -1,0 +1,58 @@
+{
+ "glosses": [
+  "gaze"
+ ],
+ "strong": "H7688",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַשְׁגִּיחוּ",
+      "translit": "yashgichu",
+      "ref": "Isa.14.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִשְׁגִּיחַ",
+      "translit": "hishgicha",
+      "ref": "Ps.33.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מַשְׁגִּיחַ",
+      "translit": "mashgicha",
+      "ref": "Song.2.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "שגח",
+ "search_match": [
+  "7688",
+  "h7688",
+  "gaze",
+  "shagach",
+  "שגח"
+ ],
+ "citation_translit": "shagach",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,40 @@
+{
+ "glosses": [
+  "be scorched"
+ ],
+ "strong": "H7710",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "שְׁדֻפוֹת",
+      "translit": "shdufot",
+      "ref": "Gen.41.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "All three of this root's occurrences (Gen.41.6, 41.23, 41.27, the \"blasted\" ears of grain in Pharaoh's dream) are construct-state participles, which the pipeline's extraction normally excludes per requirement 6 (absolute state only). Kept as a documented exception -- same precedent as the existing (H2904, pilpel), (H6140, niphal), and (H3960, poel) exceptions in pipeline.py's KNOWN_EXCEPTIONS: no absolute-state attestation exists at all for this root. Added (H7710, qal, participle_passive, fp) to KNOWN_EXCEPTIONS.",
+  "The bare (no-prefix) slot is attested identically in Gen.41.23 and Gen.41.27; Gen.41.23 kept as citation per the usual duplicate-slot tie-break."
+ ],
+ "root": "שדף",
+ "search_match": [
+  "7710",
+  "h7710",
+  "be scorched",
+  "shadaf",
+  "שדף"
+ ],
+ "citation_translit": "shadaf",
+ "stem_coverage_checked": true
+}

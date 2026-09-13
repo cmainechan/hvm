@@ -1,0 +1,40 @@
+{
+ "glosses": [
+  "take a handful"
+ ],
+ "strong": "H7061",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְקָמַץ",
+      "translit": "vqamatz",
+      "ref": "Lev.2.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Requested gloss \"grasp with the hand; take a handful\" trimmed to \"take a handful\" per the compound-gloss standard: all three citations (Lev.2.2, 5.12, Num.5.26) are the identical priestly formula \"he shall take his handful of it\" -- one evidenced act, not two.",
+  "Qal's veqatal 3ms slot is attested identically in all three citations; Lev.2.2 kept as citation per the usual duplicate-slot tie-break."
+ ],
+ "root": "קמץ",
+ "search_match": [
+  "7061",
+  "h7061",
+  "take a handful",
+  "qamatz",
+  "קמץ"
+ ],
+ "citation_translit": "qamatz",
+ "stem_coverage_checked": true
+}

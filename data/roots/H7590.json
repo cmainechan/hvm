@@ -1,0 +1,49 @@
+{
+ "glosses": [
+  "despise"
+ ],
+ "strong": "H7590",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "הַשָּׁאטוֹת",
+      "translit": "hassha'tot",
+      "ref": "Ezek.16.57",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַשָּׁאטִים",
+      "translit": "hassha'tim",
+      "ref": "Ezek.28.24",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Qal's participle_active mp slot is attested identically (same clause, \"them that despised them\") in both Ezek.28.24 and Ezek.28.26; Ezek.28.24 kept as citation per the usual duplicate-slot tie-break. Ezek.16.57 (fp) is a separate slot and is kept independently.",
+  "Gloss collision: \"despise\" (exact) matches the existing בוז (H936) and בזה (H959) root glosses -- disambiguating search alias added. Also overlaps זלל (H2151)'s hiphil stem_gloss \"despise\", stem-level on their side, no alias needed for that one."
+ ],
+ "root": "שאט",
+ "search_match": [
+  "7590",
+  "h7590",
+  "despise (shaat)",
+  "shaat",
+  "שאט"
+ ],
+ "citation_translit": "sha't",
+ "stem_coverage_checked": true
+}

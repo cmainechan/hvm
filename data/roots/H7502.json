@@ -1,0 +1,72 @@
+{
+ "glosses": [
+  "spread"
+ ],
+ "strong": "H7502",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִרְפַּד",
+      "translit": "yirpad",
+      "ref": "Job.41.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "רִפַּדְתִּי",
+      "translit": "rippadti",
+      "ref": "Job.17.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "רַפְּדוּנִי",
+      "translit": "rappduni",
+      "ref": "Song.2.5",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "spread; support"
+ },
+ "notes": [
+  "Requested piel gloss \"support\" expanded to \"spread; support\": Job.17.13 (\"I have spread my couch in the darkness\") shows the same literal \"spread\" sense as qal, not \"support\" -- since this citation is one of piel's two shipped forms, the gloss needed to account for it rather than leave a mismatched citation. Song.2.5 (\"stay/refresh me with apples\") independently supports the figurative \"support\" sense the person requested. Both clauses are kept since each is independently cited and genuinely distinct (a literal spreading action vs. a figurative sustaining one).",
+  "Gloss collision: \"spread\" matches a clause of the existing שטח (H7849, \"spread; expand\") root gloss -- disambiguating search alias added. \"support\" (piel) also overlaps three existing root-level glosses (תמך, סמך, סעד), but that's stem-level on our side, so no alias needed for our own search index."
+ ],
+ "root": "רפד",
+ "search_match": [
+  "7502",
+  "h7502",
+  "spread (rafad)",
+  "rafad",
+  "רפד"
+ ],
+ "citation_translit": "rafad",
+ "stem_coverage_checked": true
+}

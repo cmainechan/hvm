@@ -1,0 +1,40 @@
+{
+ "glosses": [
+  "harrow"
+ ],
+ "strong": "H7702",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְשַׂדֶּד",
+      "translit": "ysadded",
+      "ref": "Hos.10.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "True homograph of the existing H7703 (\"devastate\"), both spelled שדד -- added as שדד¹ (lower Strong's number) per the ascending-Strong's-number superscript convention; H7703 is retroactively renamed שדד² in this same batch.",
+  "Piel's yiqtol 3ms slot is attested identically (same \"harrow\" sense) in Hos.10.11, Isa.28.24, and Job.39.10; Hos.10.11 kept as citation per the usual duplicate-slot tie-break."
+ ],
+ "root": "שדד¹",
+ "search_match": [
+  "7702",
+  "h7702",
+  "harrow",
+  "sadad",
+  "שדד¹"
+ ],
+ "citation_translit": "sadad",
+ "stem_coverage_checked": true
+}
