@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "chant"
+ ],
+ "strong": "H6527",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַפֹּרְטִים",
+      "translit": "happortim",
+      "ref": "Amos.6.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "פרט",
+ "search_match": [
+  "6527",
+  "h6527",
+  "chant",
+  "parat",
+  "פרט"
+ ],
+ "citation_translit": "parat",
+ "stem_coverage_checked": true
+}

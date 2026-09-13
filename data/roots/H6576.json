@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "spread"
+ ],
+ "strong": "H6576",
+ "stems": {
+  "pilel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "פַּרְשֵׁז",
+      "translit": "parshez",
+      "ref": "Job.26.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "First pilel-stem root in this dataset (stem letter 'i' in HEBREW_STEM_MAP, already correctly mapped) -- a rare reduplicated/intensive stem in the Polel family, not among the standard seven and not previously attested here."
+ ],
+ "root": "פרשז",
+ "search_match": [
+  "6576",
+  "h6576",
+  "spread (parshez)",
+  "parshez",
+  "פרשז"
+ ],
+ "citation_translit": "parshez",
+ "stem_coverage_checked": true
+}

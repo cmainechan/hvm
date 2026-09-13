@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "gleam"
+ ],
+ "strong": "H6668",
+ "stems": {
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֻצְהָב",
+      "translit": "mutzhav",
+      "ref": "Ezra.8.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "צהב",
+ "search_match": [
+  "6668",
+  "h6668",
+  "gleam",
+  "tzahav",
+  "צהב"
+ ],
+ "citation_translit": "tzahav",
+ "stem_coverage_checked": true
+}

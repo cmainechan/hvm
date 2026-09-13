@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "delay"
+ ],
+ "strong": "H6101",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (niphal-only root)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "jussive": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תֵּעָצְלוּ",
+      "translit": "te'atzlu",
+      "ref": "Judg.18.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "עצל",
+ "search_match": [
+  "6101",
+  "h6101",
+  "delay (atzal)",
+  "atzal",
+  "עצל"
+ ],
+ "citation_translit": "atzal",
+ "stem_coverage_checked": true
+}

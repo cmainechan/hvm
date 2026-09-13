@@ -55,13 +55,16 @@
  "stem_glosses": {
   "hiphil": "be/become shrewd"
  },
- "root": "ערם",
+ "notes": [
+  "Homonym: shares consonants ערם with H6192 (\"heap up\"), added to this dataset in a later batch -- genuinely unrelated meaning. Per the root-key superscript convention (lower Strong's number gets ¹), this root is now ערם¹ and H6192 is ערם²."
+ ],
+ "root": "ערם¹",
  "search_match": [
   "6191",
   "h6191",
   "be shrewd; act craftily",
   "aram",
-  "ערם"
+  "ערם¹"
  ],
  "citation_translit": "aram",
  "stem_coverage_checked": true

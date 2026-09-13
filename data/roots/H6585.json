@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "step"
+ ],
+ "strong": "H6585",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶפְשְׂעָה",
+      "translit": "efs'ah",
+      "ref": "Isa.27.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym: shares consonants פשע with H6586 (\"rebel; transgress\"), already in this dataset -- genuinely unrelated meaning (this root's sole attestation, Isa.27.4, is \"I would stride/go through them,\" unrelated to transgression). Per the root-key superscript convention (lower Strong's number gets ¹), this root is פשע¹ and H6586 has been retroactively relabeled פשע² in this same batch."
+ ],
+ "root": "פשע¹",
+ "search_match": [
+  "6585",
+  "h6585",
+  "step",
+  "pasa",
+  "פשע¹"
+ ],
+ "citation_translit": "pasa",
+ "stem_coverage_checked": true
+}

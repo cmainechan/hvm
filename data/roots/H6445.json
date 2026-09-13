@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "pamper"
+ ],
+ "strong": "H6445",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְפַנֵּק",
+      "translit": "mfanneq",
+      "ref": "Prov.29.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "פנק",
+ "search_match": [
+  "6445",
+  "h6445",
+  "pamper",
+  "panaq",
+  "פנק"
+ ],
+ "citation_translit": "panaq",
+ "stem_coverage_checked": true
+}

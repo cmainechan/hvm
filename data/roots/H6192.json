@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "heap up"
+ ],
+ "strong": "H6192",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (niphal-only root)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "נֶעֶרְמוּ",
+      "translit": "ne'ermu",
+      "ref": "Exod.15.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym: shares consonants ערם with H6191 (\"act craftily\"), already in this dataset -- genuinely unrelated meaning. Per the root-key superscript convention (lower Strong's number gets ¹), H6191 has been retroactively relabeled ערם¹ in this same batch and this root is ערם²."
+ ],
+ "root": "ערם²",
+ "search_match": [
+  "6192",
+  "h6192",
+  "heap up (aram)",
+  "aram",
+  "ערם²"
+ ],
+ "citation_translit": "aram",
+ "stem_coverage_checked": true
+}

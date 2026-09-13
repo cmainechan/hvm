@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "twist"
+ ],
+ "strong": "H6127",
+ "stems": {
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְעֻקָּֽל",
+      "translit": "m'uqqal",
+      "ref": "Hab.1.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "עקל",
+ "search_match": [
+  "6127",
+  "h6127",
+  "twist (aqal)",
+  "aqal",
+  "עקל"
+ ],
+ "citation_translit": "aqal",
+ "stem_coverage_checked": true
+}

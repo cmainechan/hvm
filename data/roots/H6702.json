@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "burn"
+ ],
+ "strong": "H6702",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֲצִיתֶנָּה",
+      "translit": "atzitennah",
+      "ref": "Isa.27.4",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "צות",
+ "search_match": [
+  "6702",
+  "h6702",
+  "burn (tzut)",
+  "tzut",
+  "צות"
+ ],
+ "citation_translit": "tzut",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "break"
+ ],
+ "strong": "H6626",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "פָּתוֹת",
+      "translit": "patot",
+      "ref": "Lev.2.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "פתת",
+ "search_match": [
+  "6626",
+  "h6626",
+  "break (patat)",
+  "patat",
+  "פתת"
+ ],
+ "citation_translit": "patat",
+ "stem_coverage_checked": true
+}

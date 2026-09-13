@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "be refined"
+ ],
+ "strong": "H6338",
+ "stems": {
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מוּפָֽז",
+      "translit": "mufaz",
+      "ref": "1Kgs.10.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym check (proactively flagged in H6339's own notes when that root was added): shares consonants פזז with H6339 (\"be agile\"), already in this dataset -- genuinely unrelated meaning. Per the root-key superscript convention (lower Strong's number gets ¹), this root is פזז¹ and H6339 has been retroactively relabeled פזז² in this same batch."
+ ],
+ "root": "פזז¹",
+ "search_match": [
+  "6338",
+  "h6338",
+  "be refined (pazaz)",
+  "pazaz",
+  "פזז¹"
+ ],
+ "citation_translit": "pazaz",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "contend"
+ ],
+ "strong": "H6229",
+ "stems": {
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִֽתְעַשְּׂקוּ",
+      "translit": "hit'assqu",
+      "ref": "Gen.26.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym: shares consonants עשק with H6231 (\"oppress\"), already in this dataset -- distinguished in Strong's own entries only by sin/shin (עָשַׂק vs עָשַׁק), and their Strong's meanings overlap heavily (both open \"to press upon\"), so this may be the same underlying root split across two numbers rather than two truly unrelated words; flagged for review rather than silently treated as either. Per the root-key superscript convention (lower Strong's number gets ¹), this root is עשק¹ and H6231 has been retroactively relabeled עשק² in this same batch."
+ ],
+ "root": "עשק¹",
+ "search_match": [
+  "6229",
+  "h6229",
+  "contend (asaq)",
+  "asaq",
+  "עשק¹"
+ ],
+ "citation_translit": "asaq",
+ "stem_coverage_checked": true
+}

@@ -172,13 +172,16 @@
  "stem_glosses": {
   "niphal": "quarrel with one another"
  },
- "root": "פשע",
+ "notes": [
+  "Homonym: shares consonants פשע with H6585 (\"step\"), added to this dataset in a later batch -- genuinely unrelated meaning. Per the root-key superscript convention (lower Strong's number gets ¹), H6585 is פשע¹ and this root is now פשע²."
+ ],
+ "root": "פשע²",
  "search_match": [
   "6586",
   "h6586",
   "rebel",
   "pasha",
-  "פשע"
+  "פשע²"
  ],
  "citation_translit": "pasha",
  "stem_coverage_checked": true

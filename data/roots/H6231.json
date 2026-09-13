@@ -180,13 +180,16 @@
  "stem_glosses": {
   "pual": "be exploited"
  },
- "root": "עשק",
+ "notes": [
+  "Homonym: shares consonants עשק with H6229 (\"contend\"), added to this dataset in a later batch -- distinguished in Strong's own entries only by sin/shin (עָשַׂק vs עָשַׁק), and their meanings overlap heavily (both open \"to press upon\"), so this may be the same underlying root split across two numbers rather than two truly unrelated words; flagged for review rather than silently treated as either. Per the root-key superscript convention (lower Strong's number gets ¹), H6229 is עשק¹ and this root is now עשק²."
+ ],
+ "root": "עשק²",
  "search_match": [
   "6231",
   "h6231",
   "oppress (ashaq)",
   "ashaq",
-  "עשק"
+  "עשק²"
  ],
  "citation_translit": "ashaq",
  "stem_coverage_checked": true

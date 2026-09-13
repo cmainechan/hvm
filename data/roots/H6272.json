@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "burn"
+ ],
+ "strong": "H6272",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (niphal-only root)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נֶעְתַּם",
+      "translit": "netam",
+      "ref": "Isa.9.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "עתם",
+ "search_match": [
+  "6272",
+  "h6272",
+  "burn (atam)",
+  "atam",
+  "עתם"
+ ],
+ "citation_translit": "atam",
+ "stem_coverage_checked": true
+}

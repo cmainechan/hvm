@@ -45,15 +45,16 @@
   "piel": "leap"
  },
  "notes": [
-  "Homonym check: shares consonants פ-ז-ז with H6338 (\"to refine (gold)\"), an unrelated root not yet in this dataset. Requested glosses match H6339 precisely (\"to solidify... also to spring, as if separating the limbs\"); no cross-contamination found in the corpus tagging."
+  "Homonym check: shares consonants פ-ז-ז with H6338 (\"to refine (gold)\"), an unrelated root not yet in this dataset. Requested glosses match H6339 precisely (\"to solidify... also to spring, as if separating the limbs\"); no cross-contamination found in the corpus tagging.",
+  "Update: H6338 was added to this dataset in a later batch, confirming the proactively-flagged homonym above -- genuinely unrelated meaning. Per the root-key superscript convention (lower Strong's number gets ¹), H6338 is now פזז¹ and this root is פזז²."
  ],
- "root": "פזז",
+ "root": "פזז²",
  "search_match": [
   "6339",
   "h6339",
   "be agile",
   "pazaz",
-  "פזז"
+  "פזז²"
  ],
  "citation_translit": "pazaz",
  "stem_coverage_checked": true

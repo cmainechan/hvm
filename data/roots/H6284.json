@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "scatter"
+ ],
+ "strong": "H6284",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "cohortative": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אַפְאֵיהֶם",
+      "translit": "af'ehem",
+      "ref": "Deut.32.26",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "פאה",
+ "search_match": [
+  "6284",
+  "h6284",
+  "scatter (pa'ah)",
+  "pa'ah",
+  "פאה"
+ ],
+ "citation_translit": "pa'ah",
+ "stem_coverage_checked": true
+}

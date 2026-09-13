@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "press oil"
+ ],
+ "strong": "H6671",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יַצְהִירוּ",
+      "translit": "yatzhiru",
+      "ref": "Job.24.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "צהר",
+ "search_match": [
+  "6671",
+  "h6671",
+  "press oil",
+  "tzahar",
+  "צהר"
+ ],
+ "citation_translit": "tzahar",
+ "stem_coverage_checked": true
+}

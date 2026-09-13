@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "bind"
+ ],
+ "strong": "H6123",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַֽיַּעֲקֹד",
+      "translit": "vayya'aqod",
+      "ref": "Gen.22.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "עקד",
+ "search_match": [
+  "6123",
+  "h6123",
+  "bind (aqad)",
+  "aqad",
+  "עקד"
+ ],
+ "citation_translit": "aqad",
+ "stem_coverage_checked": true
+}
