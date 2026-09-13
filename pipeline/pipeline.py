@@ -409,6 +409,20 @@ KNOWN_EXCEPTIONS = {
     # is a construct-state participle; kept anyway per the same explicit
     # exception as H2904/H6140/H3960/H7710/H1110/H1895, since no
     # absolute-state attestation exists at all for this stem.
+    ('H7106', 'hophal', 'participle_passive', 'fp'),  # only hophal
+    # attestation (Ezek.46.22, מְהֻקְצָעוֹת) is marked in the WLC with
+    # Masoretic puncta extraordinaria (an extra point over every letter,
+    # U+05C4) -- a scribal/editorial annotation, not niqqud or cantillation.
+    # clean_heb() only strips the standard cantillation range (U+0591-05AF)
+    # and doesn't touch these, so the stored heb value was hand-cleaned of
+    # the U+05C4 marks for this one entry per an explicit decision, rather
+    # than extending clean_heb() itself. That leaves the stored text
+    # byte-different from a fresh extraction (which still carries the raw
+    # marks) even though they're the same word -- kept anyway as a
+    # documented exception, the same shape as every other row in this dict.
+    # transliterate() is unaffected either way: it already silently ignores
+    # the unmapped U+05C4 codepoint, so both spellings transliterate
+    # identically to "mhuqtzaot".
 }
 
 

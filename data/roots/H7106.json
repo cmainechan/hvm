@@ -1,0 +1,60 @@
+{
+ "glosses": [
+  "scrape"
+ ],
+ "strong": "H7106",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַקְצִעַ",
+      "translit": "yaqtzia",
+      "ref": "Lev.14.41",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "מְהֻקְצָעוֹת",
+      "translit": "mhuqtzaot",
+      "ref": "Ezek.46.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hophal": "be cornered"
+ },
+ "notes": [
+  "Hophal's only attestation (Ezek.46.22) is marked in the WLC with Masoretic puncta extraordinaria (an extra point over every letter, U+05C4 -- a scribal/editorial annotation, not niqqud or cantillation): the raw corpus text is מְׄהֻׄקְׄצָׄעֽׄוֹׄתׄ. clean_heb() only strips the standard cantillation range (U+0591-05AF) and doesn't touch these, so the heb value above was cleaned by hand (U+05C4 removed) for this one entry per an explicit decision, rather than extending the pipeline -- clean_heb() itself is untouched, so any future root that hits the same marks will need the same manual treatment (or a pipeline fix) again. translit is unaffected either way: transliterate() already silently ignores the unmapped U+05C4 codepoint, so pipeline output and the hand-cleaned string transliterate identically to \"mhuqtzaot\"."
+ ],
+ "root": "קצע",
+ "search_match": [
+  "7106",
+  "h7106",
+  "scrape",
+  "qatza",
+  "קצע"
+ ],
+ "citation_translit": "qatza",
+ "stem_coverage_checked": true
+}

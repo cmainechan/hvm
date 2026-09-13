@@ -66,15 +66,16 @@
   "pual": "be multiplied ten-thousandfold"
  },
  "notes": [
-  "Requested qal sense \"be long (of a journey)\" has zero attestation -- every qal occurrence (10 perfect/veqatal forms plus the infinitive) means \"become many/numerous,\" matching the lexicon's own usage list (increase, be many(-fold), be more, multiply, ten thousands), which likewise has no \"be long\" sense. Excluded; qal gloss trimmed to \"become many; become great\" (Ps.104.24 \"how great are thy works\" supports the \"great\" nuance)."
+  "Requested qal sense \"be long (of a journey)\" has zero attestation -- every qal occurrence (10 perfect/veqatal forms plus the infinitive) means \"become many/numerous,\" matching the lexicon's own usage list (increase, be many(-fold), be more, multiply, ten thousands), which likewise has no \"be long\" sense. Excluded; qal gloss trimmed to \"become many; become great\" (Ps.104.24 \"how great are thy works\" supports the \"great\" nuance).",
+  "Retroactively renamed from the plain key \"רבב\" to \"רבב¹\" when H7232 (\"shoot\") was added to the dataset as \"רבב²\" -- true homograph (same bare consonants רבב, genuinely unrelated meanings), per the root-key superscript convention (lower Strong's number gets ¹)."
  ],
- "root": "רבב",
+ "root": "רבב¹",
  "search_match": [
   "7231",
   "h7231",
   "become many; become great",
   "ravav",
-  "רבב"
+  "רבב¹"
  ],
  "citation_translit": "ravav",
  "stem_coverage_checked": true

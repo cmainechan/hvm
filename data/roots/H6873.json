@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "roar"
+ ],
+ "strong": "H6873",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "צֹרֵחַ",
+      "translit": "tzorecha",
+      "ref": "Zeph.1.14",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַצְרִיחַ",
+      "translit": "yatzricha",
+      "ref": "Isa.42.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "utter a roar"
+ },
+ "root": "צרח",
+ "search_match": [
+  "6873",
+  "h6873",
+  "roar (tzarach)",
+  "tzarach",
+  "צרח"
+ ],
+ "citation_translit": "tzarach",
+ "stem_coverage_checked": true
+}

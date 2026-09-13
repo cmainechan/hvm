@@ -57,15 +57,16 @@
  },
  "notes": [
   "Triple-homonym consonant risk: צָלַל also covers H6749 (\"tumble down, sink\") and H6751 (\"shade, grow dark\"), both unrelated and not yet in this dataset. Every extracted form here was confirmed lemma-tagged H6750 specifically, with no cross-contamination -- flagged for anyone adding either of the other two later.",
-  "Hiphil (\"tingle\", 1Sam.3.11, תְּצִלֶּינָה) is attested but wasn't part of the original request -- added per the full-stem-coverage check; it carries the same sense as the requested qal, just in a different stem."
+  "Hiphil (\"tingle\", 1Sam.3.11, תְּצִלֶּינָה) is attested but wasn't part of the original request -- added per the full-stem-coverage check; it carries the same sense as the requested qal, just in a different stem.",
+  "Retroactively renamed from the plain key \"צלל\" to \"צלל¹\" when H6751 (\"grow dark; shade\") was added to the dataset as \"צלל²\" -- the true homograph anticipated above -- per the root-key superscript convention (lower Strong's number gets ¹). H6749 remains unadded and will need its own superscript (³) whenever it's added."
  ],
- "root": "צלל",
+ "root": "צלל¹",
  "search_match": [
   "6750",
   "h6750",
   "tingle; quiver",
   "tzalal",
-  "צלל"
+  "צלל¹"
  ],
  "citation_translit": "tzalal",
  "stem_coverage_checked": true

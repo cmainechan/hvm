@@ -1,0 +1,47 @@
+{
+ "glosses": [
+  "peel"
+ ],
+ "strong": "H6478",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "פִּצֵּל",
+      "translit": "pittzel",
+      "ref": "Gen.30.38",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְפַצֵּל",
+      "translit": "vayfattzel",
+      "ref": "Gen.30.37",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "פצל",
+ "search_match": [
+  "6478",
+  "h6478",
+  "peel",
+  "patzal",
+  "פצל"
+ ],
+ "citation_translit": "patzal",
+ "stem_coverage_checked": true
+}

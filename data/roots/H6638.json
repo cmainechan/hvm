@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "swell"
+ ],
+ "strong": "H6638",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְצָבְתָה",
+      "translit": "vtzavtah",
+      "ref": "Num.5.27",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לַצְבּוֹת",
+      "translit": "latzbot",
+      "ref": "Num.5.22",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "cause to swell"
+ },
+ "root": "צבה",
+ "search_match": [
+  "6638",
+  "h6638",
+  "swell (tzavah)",
+  "tzavah",
+  "צבה"
+ ],
+ "citation_translit": "tzavah",
+ "stem_coverage_checked": true
+}

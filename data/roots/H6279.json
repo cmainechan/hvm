@@ -135,13 +135,16 @@
   "niphal": "be entreated",
   "hiphil": "make supplication"
  },
- "root": "עתר",
+ "notes": [
+  "Retroactively renamed from the plain key \"עתר\" to \"עתר¹\" when H6280 (\"be abundant; multiply\") was added to the dataset as \"עתר²\" -- true homograph (same bare consonants עתר, genuinely unrelated meanings), per the root-key superscript convention (lower Strong's number gets ¹)."
+ ],
+ "root": "עתר¹",
  "search_match": [
   "6279",
   "h6279",
   "pray",
   "atar",
-  "עתר"
+  "עתר¹"
  ],
  "citation_translit": "atar",
  "stem_coverage_checked": true

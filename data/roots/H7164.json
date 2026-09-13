@@ -1,0 +1,50 @@
+{
+ "glosses": [
+  "stoop"
+ ],
+ "strong": "H7164",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "קֹרֵס",
+      "translit": "qores",
+      "ref": "Isa.46.1",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "קָרְסוּ",
+      "translit": "qarsu",
+      "ref": "Isa.46.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Strong's cross-references this verb to H7165 (קֶרֶס, \"knob\") as its denominative source, and separately marks H7165 itself as \"from H7164\" -- a circular pair, but H7165 is a noun, not a competing verb entry, so it's not a wrong-Strong's-number risk: H7164 is the only verb sharing these consonants and its meaning (\"hunch, i.e. be hump-backed\" / usage \"stoop\") matches the requested gloss directly."
+ ],
+ "root": "קרס",
+ "search_match": [
+  "7164",
+  "h7164",
+  "stoop",
+  "qaras",
+  "קרס"
+ ],
+ "citation_translit": "qaras",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,48 @@
+{
+ "glosses": [
+  "shoot"
+ ],
+ "strong": "H7232",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וָרֹבּוּ",
+      "translit": "varobbu",
+      "ref": "Gen.49.23",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "רָב",
+      "translit": "rav",
+      "ref": "Ps.18.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "True homograph of the existing H7231 (רָבַב, \"become many\") -- same bare consonants רבב, genuinely unrelated meanings -- added as רבב² (higher Strong's number) per the ascending-Strong's-number superscript convention; H7231 is retroactively renamed רבב¹ in this same batch."
+ ],
+ "root": "רבב²",
+ "search_match": [
+  "7232",
+  "h7232",
+  "shoot (ravav)",
+  "ravav",
+  "רבב²"
+ ],
+ "citation_translit": "ravav",
+ "stem_coverage_checked": true
+}

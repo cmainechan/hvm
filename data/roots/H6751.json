@@ -1,0 +1,61 @@
+{
+ "glosses": [
+  "grow dark"
+ ],
+ "strong": "H6751",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "צָֽלֲלוּ",
+      "translit": "tzalalu",
+      "ref": "Neh.13.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֵצַל",
+      "translit": "metzal",
+      "ref": "Ezek.31.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "shade"
+ },
+ "notes": [
+  "True homograph of the existing H6750 (צָלַל, \"tingle; quiver\") -- same bare consonants צלל, genuinely unrelated meanings -- added as צלל² (higher Strong's number) per the ascending-Strong's-number superscript convention; H6750 is retroactively renamed צלל¹ in this same batch. H6750's own notes already flagged this exact triple-homonym risk and named this root by its H6751 number specifically.",
+  "A third homonym sharing these consonants, H6749 (\"tumble down, sink\"), is still not in this dataset -- flagged for whoever adds it next; it will need its own superscript (³ by the same ascending-number convention, since both ¹ and ² are now taken)."
+ ],
+ "root": "צלל²",
+ "search_match": [
+  "6751",
+  "h6751",
+  "grow dark (tzalal)",
+  "tzalal",
+  "צלל²"
+ ],
+ "citation_translit": "tzalal",
+ "stem_coverage_checked": true
+}

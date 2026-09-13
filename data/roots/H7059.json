@@ -1,0 +1,60 @@
+{
+ "glosses": [
+  "seize"
+ ],
+ "strong": "H7059",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וַֽתִּקְמְטֵנִי",
+      "translit": "vattiqmteni",
+      "ref": "Job.16.8",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "pual": {
+   "sense_hint": "passive/intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "קֻמְּטוּ",
+      "translit": "qummtu",
+      "ref": "Job.22.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "pual": "be snatched away"
+ },
+ "notes": [
+  "BDB, not Strong's, is the source for these glosses. Strong's lists קמט under \"pluck, i.e. destroy\" (usage \"cut down, fill with wrinkles\"), which the two attested forms don't obviously support; BDB's own entry glosses the root \"seize\" and cites Qal Job.16.8 directly as \"and thou didst seize me\" and Pual Job.22.16 as \"be snatched (untimely)\" -- both match the requested glosses precisely and are used here instead."
+ ],
+ "root": "קמט",
+ "search_match": [
+  "7059",
+  "h7059",
+  "seize (qamat)",
+  "qamat",
+  "קמט"
+ ],
+ "citation_translit": "qamat",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,62 @@
+{
+ "glosses": [
+  "be abundant"
+ ],
+ "strong": "H6280",
+ "stems": {
+  "niphal": {
+   "sense_hint": "simple (this root has no attested qal; niphal serves as its basic/citation stem)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "וְנַעְתָּרוֹת",
+      "translit": "vnatarot",
+      "ref": "Prov.27.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהַעְתַּרְתֶּם",
+      "translit": "vhatartem",
+      "ref": "Ezek.35.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "multiply"
+ },
+ "notes": [
+  "True homograph of the existing H6279 (עָתַר, \"pray\") -- same bare consonants עתר, genuinely unrelated meanings -- added as עתר² (higher Strong's number) per the ascending-Strong's-number superscript convention; H6279 is retroactively renamed עתר¹ in this same batch.",
+  "No attested qal. Primary/citation stem: niphal (\"be abundant\", Prov.27.6), matching Strong's own headline gloss \"to be (causatively, make) abundant\" which presents the basic/stative sense first and the causative (hiphil \"multiply\") as its derived extension; no DEFAULT_STEM_OVERRIDE entry is needed since niphal already precedes hiphil in STEM_ORDER.",
+  "Prov.27.6's נַעְתָּרוֹת is often rendered contextually as \"deceitful\" or \"profuse\" (kisses of an enemy) rather than literally \"abundant\" -- ESV's \"profuse\" is a direct synonym of \"abundant\" and is used here as the citation-matching sense; the more moralized \"deceitful\" rendering reflects the verse's irony (excess affection read as insincere) rather than a different literal meaning of the verb."
+ ],
+ "root": "עתר²",
+ "search_match": [
+  "6280",
+  "h6280",
+  "be abundant",
+  "atar",
+  "עתר²"
+ ],
+ "citation_translit": "atar",
+ "stem_coverage_checked": true
+}

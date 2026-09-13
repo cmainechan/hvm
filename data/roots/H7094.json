@@ -1,0 +1,47 @@
+{
+ "glosses": [
+  "cut off"
+ ],
+ "strong": "H7094",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּקְצָב",
+      "translit": "vayyiqtzav",
+      "ref": "2Kgs.6.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_passive": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "הַקְּצוּבוֹת",
+      "translit": "haqqtzuvot",
+      "ref": "Song.4.2",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "קצב",
+ "search_match": [
+  "7094",
+  "h7094",
+  "cut off (qatzav)",
+  "qatzav",
+  "קצב"
+ ],
+ "citation_translit": "qatzav",
+ "stem_coverage_checked": true
+}

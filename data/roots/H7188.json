@@ -1,0 +1,47 @@
+{
+ "glosses": [
+  "harden"
+ ],
+ "strong": "H7188",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הִקְשִׁיחַ",
+      "translit": "hiqshicha",
+      "ref": "Job.39.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַּקְשִׁיחַ",
+      "translit": "taqshicha",
+      "ref": "Isa.63.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "קשח",
+ "search_match": [
+  "7188",
+  "h7188",
+  "harden",
+  "qashach",
+  "קשח"
+ ],
+ "citation_translit": "qashach",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "make lean"
+ ],
+ "strong": "H7329",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "רָזָה",
+      "translit": "razah",
+      "ref": "Zeph.2.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יֵרָזֶֽה",
+      "translit": "yerazeh",
+      "ref": "Isa.17.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "niphal": "become lean"
+ },
+ "root": "רזה",
+ "search_match": [
+  "7329",
+  "h7329",
+  "make lean",
+  "razah",
+  "רזה"
+ ],
+ "citation_translit": "razah",
+ "stem_coverage_checked": true
+}

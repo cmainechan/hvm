@@ -66,15 +66,16 @@
   }
  },
  "notes": [
-  "Homonym check: shares consonants פ-ו-ק with H6328 (\"to waver\"), an unrelated root. Requested gloss matches H6329 precisely (\"to issue, i.e. furnish; causatively, to secure; figuratively, to succeed\"); no cross-contamination found in the corpus tagging."
+  "Homonym check: shares consonants פ-ו-ק with H6328 (\"to waver\"), an unrelated root. Requested gloss matches H6329 precisely (\"to issue, i.e. furnish; causatively, to secure; figuratively, to succeed\"); no cross-contamination found in the corpus tagging.",
+  "Retroactively renamed from the plain key \"פוק\" to \"פוק²\" when H6328 (\"reel; cause to totter\") was added to the dataset as \"פוק¹\" -- the true homograph anticipated above -- per the root-key superscript convention (lower Strong's number gets ¹)."
  ],
- "root": "פוק",
+ "root": "פוק²",
  "search_match": [
   "6329",
   "h6329",
   "bring out; obtain",
   "puq",
-  "פוק"
+  "פוק²"
  ],
  "citation_translit": "puq",
  "stem_coverage_checked": true

@@ -1,0 +1,60 @@
+{
+ "glosses": [
+  "be agile"
+ ],
+ "strong": "H6339",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיָּפֹזּוּ",
+      "translit": "vayyafozzu",
+      "ref": "Gen.49.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְפַזֵּז",
+      "translit": "mfazzez",
+      "ref": "2Sam.6.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "leap"
+ },
+ "notes": [
+  "Homonym check: shares consonants פ-ז-ז with H6338 (\"to refine (gold)\"), an unrelated root not yet in this dataset. Requested glosses match H6339 precisely (\"to solidify... also to spring, as if separating the limbs\"); no cross-contamination found in the corpus tagging."
+ ],
+ "root": "פזז",
+ "search_match": [
+  "6339",
+  "h6339",
+  "be agile",
+  "pazaz",
+  "פזז"
+ ],
+ "citation_translit": "pazaz",
+ "stem_coverage_checked": true
+}

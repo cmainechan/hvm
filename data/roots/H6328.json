@@ -1,0 +1,61 @@
+{
+ "glosses": [
+  "reel"
+ ],
+ "strong": "H6328",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "פָּקוּ",
+      "translit": "paqu",
+      "ref": "Isa.28.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יָפִֽיק",
+      "translit": "yafiq",
+      "ref": "Jer.10.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "cause to totter"
+ },
+ "notes": [
+  "True homograph of the existing H6329 (פּוּק, \"bring out; obtain\") -- same bare consonants פוק, genuinely unrelated meanings -- added as פוק¹ (lower Strong's number) per the ascending-Strong's-number superscript convention; H6329 is retroactively renamed פוק² in this same batch. H6329's own notes already anticipated this exact split.",
+  "Both requested stems confirmed attested: qal \"reel\" (Isa.28.7, פָּקוּ, \"they stumble in judgment\") and hiphil \"cause to totter\" (Jer.10.4, יָפִיק, said negatively of an idol that \"will not totter/move\")."
+ ],
+ "root": "פוק¹",
+ "search_match": [
+  "6328",
+  "h6328",
+  "reel",
+  "puq",
+  "פוק¹"
+ ],
+ "citation_translit": "puq",
+ "stem_coverage_checked": true
+}

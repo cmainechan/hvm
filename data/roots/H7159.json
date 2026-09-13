@@ -1,0 +1,47 @@
+{
+ "glosses": [
+  "cover"
+ ],
+ "strong": "H7159",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְקָרַמְתִּי",
+      "translit": "vqaramti",
+      "ref": "Ezek.37.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיִּקְרַם",
+      "translit": "vayyiqram",
+      "ref": "Ezek.37.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "קרם",
+ "search_match": [
+  "7159",
+  "h7159",
+  "cover (qaram)",
+  "qaram",
+  "קרם"
+ ],
+ "citation_translit": "qaram",
+ "stem_coverage_checked": true
+}

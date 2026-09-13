@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "open wide"
+ ],
+ "strong": "H6589",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "פֹּשֵׂק",
+      "translit": "poseq",
+      "ref": "Prov.13.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "וַתְּפַשְּׂקִי",
+      "translit": "vattfassqi",
+      "ref": "Ezek.16.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "piel": "spread apart"
+ },
+ "root": "פשק",
+ "search_match": [
+  "6589",
+  "h6589",
+  "open wide (pasaq)",
+  "pasaq",
+  "פשק"
+ ],
+ "citation_translit": "pasaq",
+ "stem_coverage_checked": true
+}
