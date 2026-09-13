@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "trample"
+ ],
+ "strong": "H1318",
+ "stems": {
+  "poel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "בּוֹשַׁסְכֶם",
+      "translit": "boshaskhem",
+      "ref": "Amos.5.11",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "בשס",
+ "search_match": [
+  "1318",
+  "h1318",
+  "trample (bashas)",
+  "bashas",
+  "בשס"
+ ],
+ "citation_translit": "bashas",
+ "stem_coverage_checked": true
+}

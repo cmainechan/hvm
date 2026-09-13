@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "shine"
+ ],
+ "strong": "H166",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַאֲהִיל",
+      "translit": "ya'ahil",
+      "ref": "Job.25.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym: shares consonants and vowels אהל with H167 (\"pitch a tent\"), a separate, unrelated Strong's entry already in this dataset. H167's own notes flagged this exact collision in advance. Per the root-key superscript convention (lower Strong's number gets ¹), this root is now אהל¹ and H167 has been retroactively relabeled אהל² in the same batch."
+ ],
+ "root": "אהל¹",
+ "search_match": [
+  "166",
+  "h166",
+  "shine (ya'ahil)",
+  "ahal",
+  "אהל¹"
+ ],
+ "citation_translit": "ahal",
+ "stem_coverage_checked": true
+}

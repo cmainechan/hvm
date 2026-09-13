@@ -46,7 +46,7 @@ const STEM_ORDER = ["qal", "qal_passive", "niphal", "piel", "pilpel", "polel", "
 // stem historically unique to this root, rather than its much sparser Qal).
 const DEFAULT_STEM_OVERRIDE = {
   "אדר": "hiphil",
-  "אזן": "hiphil",
+  "אזן¹": "hiphil",
   "בדל": "hiphil",
   "בקש": "piel",
   "גאל²": "piel",

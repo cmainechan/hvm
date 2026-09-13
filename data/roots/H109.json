@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "grieve"
+ ],
+ "strong": "H109",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְלַאֲדִיב",
+      "translit": "vla'adiv",
+      "ref": "1Sam.2.33",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "אדב",
+ "search_match": [
+  "109",
+  "h109",
+  "grieve",
+  "adav",
+  "אדב"
+ ],
+ "citation_translit": "adav",
+ "stem_coverage_checked": true
+}

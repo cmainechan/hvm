@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "compel"
+ ],
+ "strong": "H597",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "אֹנֵס",
+      "translit": "ones",
+      "ref": "Esth.1.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "אנס",
+ "search_match": [
+  "597",
+  "h597",
+  "compel",
+  "anas",
+  "אנס"
+ ],
+ "citation_translit": "anas",
+ "stem_coverage_checked": true
+}

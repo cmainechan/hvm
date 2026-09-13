@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "cease"
+ ],
+ "strong": "H988",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וּבָטְלוּ",
+      "translit": "uvatlu",
+      "ref": "Eccl.12.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "בטל",
+ "search_match": [
+  "988",
+  "h988",
+  "cease (batel)",
+  "batel",
+  "בטל"
+ ],
+ "citation_translit": "batel",
+ "stem_coverage_checked": true
+}

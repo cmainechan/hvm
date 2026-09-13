@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "explain"
+ ],
+ "strong": "H952",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְלָבוּר",
+      "translit": "vlavur",
+      "ref": "Eccl.9.1",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "בור",
+ "search_match": [
+  "952",
+  "h952",
+  "explain (bur)",
+  "bur",
+  "בור"
+ ],
+ "citation_translit": "bur",
+ "stem_coverage_checked": true
+}

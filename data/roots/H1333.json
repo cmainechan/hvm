@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "cut apart"
+ ],
+ "strong": "H1333",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "וּבִתְּקוּךְ",
+      "translit": "uvittqukh",
+      "ref": "Ezek.16.40",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "בתק",
+ "search_match": [
+  "1333",
+  "h1333",
+  "cut apart",
+  "bataq",
+  "בתק"
+ ],
+ "citation_translit": "bataq",
+ "stem_coverage_checked": true
+}

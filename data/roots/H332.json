@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "shut"
+ ],
+ "strong": "H332",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "jussive": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תֶּאְטַר",
+      "translit": "te'tar",
+      "ref": "Ps.69.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "אטר",
+ "search_match": [
+  "332",
+  "h332",
+  "shut (atar)",
+  "atar",
+  "אטר"
+ ],
+ "citation_translit": "atar",
+ "stem_coverage_checked": true
+}

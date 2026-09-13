@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "turn"
+ ],
+ "strong": "H258",
+ "stems": {
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הִתְאַחֲדִי",
+      "translit": "hit'achadi",
+      "ref": "Ezek.21.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Single-attestation, textually/interpretively contested form: Strong's own gloss is \"unify, i.e. (figuratively) collect (one's thoughts)\", usage \"go one way or other\" -- addressed to a sword in context (\"...whether to the right hand or to the left\"), which \"turn\" renders idiomatically. Some grammarians instead connect this occurrence to the unrelated root חדד (\"be sharp\") given the military context. Shipped as \"turn\" per the KJV/Strong's usage note, since no second citation exists to adjudicate the dispute either way; flagging the uncertainty rather than presenting it as settled."
+ ],
+ "root": "אחד",
+ "search_match": [
+  "258",
+  "h258",
+  "turn (achad)",
+  "achad",
+  "אחד"
+ ],
+ "citation_translit": "achad",
+ "stem_coverage_checked": true
+}

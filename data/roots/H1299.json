@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "flash"
+ ],
+ "strong": "H1299",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "בְּרוֹק",
+      "translit": "broq",
+      "ref": "Ps.144.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "ברק",
+ "search_match": [
+  "1299",
+  "h1299",
+  "flash",
+  "baraq",
+  "ברק"
+ ],
+ "citation_translit": "baraq",
+ "stem_coverage_checked": true
+}

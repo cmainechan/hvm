@@ -428,6 +428,12 @@ KNOWN_EXCEPTIONS = {
     # transliterate() is unaffected either way: it already silently ignores
     # the unmapped U+05C4 codepoint, so both spellings transliterate
     # identically to "mhuqtzaot".
+    ('H1103', 'qal', 'participle_active', 'ms'),  # only attestation
+    # (Amos.7.14, וּבוֹלֵס שִׁקְמִים, "a tender of sycomore figs") is a
+    # construct-state participle; kept anyway per the same explicit
+    # exception as H2904/H6140/H3960/H7710/H1110/H1895/H4048/H8365, since
+    # no absolute-state attestation exists at all for this root (it's a
+    # hapax legomenon -- this is its only occurrence in the corpus).
 }
 
 

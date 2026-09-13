@@ -373,7 +373,7 @@
   "niphal": "be faithful",
   "hiphil": "believe"
  },
- "root": "אמן",
+ "root": "אמן¹",
  "search_match": [
   "539",
   "aman",
@@ -381,8 +381,11 @@
   "foster",
   "nurse",
   "h539",
-  "אמן"
+  "אמן¹"
  ],
  "citation_translit": "aman",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Retroactively renamed from the plain key \"אמן\" to \"אמן¹\" when H541 (\"turn right\") was added to the dataset as \"אמן²\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
+ ]
 }

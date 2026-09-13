@@ -157,14 +157,17 @@
    }
   }
  },
- "root": "אוה",
+ "root": "אוה¹",
  "search_match": [
   "183",
   "h183",
   "desire",
   "avah",
-  "אוה"
+  "אוה¹"
  ],
  "citation_translit": "avah",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Retroactively renamed from the plain key \"אוה\" to \"אוה¹\" when H184 (\"mark out\") was added to the dataset as \"אוה²\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
+ ]
 }

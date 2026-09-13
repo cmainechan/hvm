@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "hail"
+ ],
+ "strong": "H1258",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וּבָרַד",
+      "translit": "uvarad",
+      "ref": "Isa.32.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "ברד",
+ "search_match": [
+  "1258",
+  "h1258",
+  "hail",
+  "barad",
+  "ברד"
+ ],
+ "citation_translit": "barad",
+ "stem_coverage_checked": true
+}

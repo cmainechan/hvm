@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "act as a man"
+ ],
+ "strong": "H377",
+ "stems": {
+  "hithpolel": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהִתְאֹשָׁשׁוּ",
+      "translit": "vhit'oshashu",
+      "ref": "Isa.46.8",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "איש",
+ "search_match": [
+  "377",
+  "h377",
+  "act as a man",
+  "ish",
+  "איש"
+ ],
+ "citation_translit": "ish",
+ "stem_coverage_checked": true
+}

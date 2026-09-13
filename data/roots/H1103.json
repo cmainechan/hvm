@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "tend figs"
+ ],
+ "strong": "H1103",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple (only biblical occurrence is a construct-state participle, not a free citation form -- shown here as an explicit exception to the absolute-state-only participle rule, since no other attestation exists)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּבוֹלֵס",
+      "translit": "uvoles",
+      "ref": "Amos.7.14",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Only attestation (Amos.7.14, וּבוֹלֵס שִׁקְמִים, \"a tender of sycomore figs\") is a construct-state participle, normally excluded by the absolute-state-only participle rule -- kept as an explicit exception (same precedent as H2904/H6140/H3960/H7710/H1110/H1895/H4048/H8365) since no other attestation exists at all for this root. Added ('H1103', 'qal', 'participle_active', 'ms') to KNOWN_EXCEPTIONS in pipeline.py."
+ ],
+ "root": "בלס",
+ "search_match": [
+  "1103",
+  "h1103",
+  "tend figs",
+  "balas",
+  "בלס"
+ ],
+ "citation_translit": "balas",
+ "stem_coverage_checked": true
+}

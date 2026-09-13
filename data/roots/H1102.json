@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "restrain"
+ ],
+ "strong": "H1102",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִבְלוֹם",
+      "translit": "livlom",
+      "ref": "Ps.32.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "בלם",
+ "search_match": [
+  "1102",
+  "h1102",
+  "restrain (balam)",
+  "balam",
+  "בלם"
+ ],
+ "citation_translit": "balam",
+ "stem_coverage_checked": true
+}

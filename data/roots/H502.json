@@ -52,15 +52,16 @@
   "piel": "teach"
  },
  "notes": [
-  "Only 3 total attestations in the corpus (Job.15.5, Job.33.33 piel; Prov.22.25 qal) -- a thinly-attested root."
+  "Only 3 total attestations in the corpus (Job.15.5, Job.33.33 piel; Prov.22.25 qal) -- a thinly-attested root.",
+  "Retroactively renamed from the plain key \"אלף\" to \"אלף¹\" when H503 (\"multiply\") was added to the dataset as \"אלף²\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
  ],
- "root": "אלף",
+ "root": "אלף¹",
  "search_match": [
   "502",
   "h502",
   "learn",
   "alaf",
-  "אלף"
+  "אלף¹"
  ],
  "citation_translit": "alaf",
  "stem_coverage_checked": true

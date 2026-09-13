@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "ponder"
+ ],
+ "strong": "H239",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וְאִזֵּן",
+      "translit": "v'izzen",
+      "ref": "Eccl.12.9",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym: shares consonants אזן with H238 (\"give ear; hearken\"), a separate, unrelated Strong's entry already in this dataset (Strong's own etymology note even calls the two \"rather identical... through the idea of scales as if two ears\" -- a shared etymological origin, not the same attested word; the corpus tags this occurrence to 239 specifically). Per the root-key superscript convention (lower Strong's number gets ¹), H238 has been retroactively relabeled אזן¹ in this same batch (including its DEFAULT_STEM_OVERRIDE entry, updated to \"אזן¹\": \"hiphil\" in both UI templates) and this root is אזן²."
+ ],
+ "root": "אזן²",
+ "search_match": [
+  "239",
+  "h239",
+  "ponder",
+  "azan",
+  "אזן²"
+ ],
+ "citation_translit": "azan",
+ "stem_coverage_checked": true
+}

@@ -46,15 +46,16 @@
  },
  "notes": [
   "Same-spelling homonym risk: H166 אָהַל (\"to be clear; shine\") shares these exact consonants and vowels but is a separate, unrelated Strong's entry, not yet in this dataset. If it's ever added, both roots will need the superscript convention (אהל¹/אהל²) -- flagging now the way H7034's notes flagged the קלה¹/קלה² collision before it happened.",
-  "Trimmed \"move/pitch a tent\" to \"pitch a tent\" per the tightened compound-gloss standard: both citations (Gen.13.12, 13.18) show pitching a tent specifically; \"move\" is implied context, not an independently-shown distinct action."
+  "Trimmed \"move/pitch a tent\" to \"pitch a tent\" per the tightened compound-gloss standard: both citations (Gen.13.12, 13.18) show pitching a tent specifically; \"move\" is implied context, not an independently-shown distinct action.",
+  "Retroactively renamed from the plain key \"אהל\" to \"אהל²\" when H166 (\"to be clear; shine\") was added to the dataset as \"אהל¹\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
  ],
- "root": "אהל",
+ "root": "אהל²",
  "search_match": [
   "167",
   "h167",
   "pitch a tent",
   "ahal",
-  "אהל"
+  "אהל²"
  ],
  "citation_translit": "ahal",
  "stem_coverage_checked": true

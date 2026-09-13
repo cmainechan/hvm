@@ -66,15 +66,16 @@
   "hiphil": "put under oath"
  },
  "notes": [
-  "Homonym check: shares consonants א-ל-ה with H421 (\"to bewail\"), an unrelated root. Requested gloss matches H422 precisely (\"to adjure, i.e. usually in a bad sense, imprecate\"); no cross-contamination found in the corpus tagging."
+  "Homonym check: shares consonants א-ל-ה with H421 (\"to bewail\"), an unrelated root. Requested gloss matches H422 precisely (\"to adjure, i.e. usually in a bad sense, imprecate\"); no cross-contamination found in the corpus tagging.",
+  "Retroactively renamed from the plain key \"אלה\" to \"אלה²\" when H421 (\"wail\") was added to the dataset as \"אלה¹\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
  ],
- "root": "אלה",
+ "root": "אלה²",
  "search_match": [
   "422",
   "h422",
   "swear an oath; curse",
   "alah",
-  "אלה"
+  "אלה²"
  ],
  "citation_translit": "alah",
  "stem_coverage_checked": true

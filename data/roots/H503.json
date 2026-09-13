@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "multiply"
+ ],
+ "strong": "H503",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "מַאֲלִיפוֹת",
+      "translit": "ma'alifot",
+      "ref": "Ps.144.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym: shares consonants אלף with H502 (\"learn; teach\"), a separate, unrelated Strong's entry already in this dataset. Per the root-key superscript convention (lower Strong's number gets ¹), H502 has been retroactively relabeled אלף¹ in this same batch and this root is אלף²."
+ ],
+ "root": "אלף²",
+ "search_match": [
+  "503",
+  "h503",
+  "multiply (alaf)",
+  "alaf",
+  "אלף²"
+ ],
+ "citation_translit": "alaf",
+ "stem_coverage_checked": true
+}

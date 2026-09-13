@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "mark out"
+ ],
+ "strong": "H184",
+ "stems": {
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְהִתְאַוִּיתֶם",
+      "translit": "vhit'avvitem",
+      "ref": "Num.34.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym: shares consonants אוה with H183 (\"desire; wish for\"), a separate, unrelated Strong's entry already in this dataset. Per the root-key superscript convention (lower Strong's number gets ¹), H183 has been retroactively relabeled אוה¹ in this same batch and this root is אוה²."
+ ],
+ "root": "אוה²",
+ "search_match": [
+  "184",
+  "h184",
+  "mark out (avah)",
+  "avah",
+  "אוה²"
+ ],
+ "citation_translit": "avah",
+ "stem_coverage_checked": true
+}

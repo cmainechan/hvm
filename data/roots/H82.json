@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "soar"
+ ],
+ "strong": "H82",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יַֽאֲבֶר",
+      "translit": "ya'aver",
+      "ref": "Job.39.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "אבר",
+ "search_match": [
+  "82",
+  "h82",
+  "soar",
+  "avar",
+  "אבר"
+ ],
+ "citation_translit": "avar",
+ "stem_coverage_checked": true
+}

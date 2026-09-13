@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "be hostile"
+ ],
+ "strong": "H340",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאָֽיַבְתִּי",
+      "translit": "v'ayavti",
+      "ref": "Exod.23.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "איב",
+ "search_match": [
+  "340",
+  "h340",
+  "be hostile",
+  "ayav",
+  "איב"
+ ],
+ "citation_translit": "ayav",
+ "stem_coverage_checked": true
+}

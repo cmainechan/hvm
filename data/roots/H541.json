@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "turn right"
+ ],
+ "strong": "H541",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "תַאֲמִינוּ",
+      "translit": "ta'aminu",
+      "ref": "Isa.30.21",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym check (cross-reference flagged by Strong's own entry, \"See H539\"): shares consonants אמן with H539 (\"believe; support\"), a very common, separate root already in this dataset -- the identical surface form תַאֲמִינוּ could morphologically belong to either root's hiphil. Resolved in favor of H541 (\"turn to the right\"): the corpus's own lemma tagging assigns this specific occurrence to 541, and the context (\"...when ye turn to the right hand [תַאֲמִינוּ] or when ye turn to the left [תַשְׂמְאִילוּ], paired verbs of direction) fits \"turn right\" rather than \"believe\". Per the root-key superscript convention (lower Strong's number gets ¹), H539 has been retroactively relabeled אמן¹ in this same batch and this root is אמן²."
+ ],
+ "root": "אמן²",
+ "search_match": [
+  "541",
+  "h541",
+  "turn right",
+  "aman",
+  "אמן²"
+ ],
+ "citation_translit": "aman",
+ "stem_coverage_checked": true
+}

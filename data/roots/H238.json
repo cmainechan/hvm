@@ -129,14 +129,17 @@
    }
   }
  },
- "root": "אזן",
+ "root": "אזן¹",
  "search_match": [
   "238",
   "h238",
   "give ear",
   "azan",
-  "אזן"
+  "אזן¹"
  ],
  "citation_translit": "azan",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "Retroactively renamed from the plain key \"אזן\" to \"אזן¹\" when H239 (\"ponder\") was added to the dataset as \"אזן²\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹)."
+ ]
 }

@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "repair"
+ ],
+ "strong": "H918",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לִבְדּוֹק",
+      "translit": "livdoq",
+      "ref": "2Chr.34.10",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "root": "בדק",
+ "search_match": [
+  "918",
+  "h918",
+  "repair",
+  "badaq",
+  "בדק"
+ ],
+ "citation_translit": "badaq",
+ "stem_coverage_checked": true
+}

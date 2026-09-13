@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "wail"
+ ],
+ "strong": "H421",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "אֱלִי",
+      "translit": "eli",
+      "ref": "Joel.1.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Homonym: shares consonants אלה with H422 (\"adjure; imprecate\"), a separate, unrelated Strong's entry already in this dataset (whose own notes already flagged this same collision). Per the root-key superscript convention (lower Strong's number gets ¹), this root is now אלה¹ and H422 has been retroactively relabeled אלה² in this same batch."
+ ],
+ "root": "אלה¹",
+ "search_match": [
+  "421",
+  "h421",
+  "wail (alah)",
+  "alah",
+  "אלה¹"
+ ],
+ "citation_translit": "alah",
+ "stem_coverage_checked": true
+}

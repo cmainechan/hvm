@@ -1,0 +1,53 @@
+{
+ "glosses": [
+  "be a farmer"
+ ],
+ "strong": "H3009",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "וּלְיֹגְבִֽים",
+      "translit": "ulyogvim",
+      "ref": "Jer.52.16",
+      "has_suffix": false,
+      "has_prefix": true
+     },
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "וּלְיֹגְבִֽים",
+      "translit": "ulyogvim",
+      "ref": "2Kgs.25.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "strong_alt": [
+  "H1461"
+ ],
+ "notes": [
+  "H1461 גּוּב (\"to dig\") was requested as a separate hapax, but its sole occurrence (2Kgs.25.12) is the exact same word form as H3009's own occurrence (Jer.52.16) -- both spelled וּלְיֹגְבִֽים, in what are parallel/duplicate narrative passages. WLC's own lemma tagging splits this one word across the two Strong's numbers (both entries even share the identical usage gloss \"husbandman\"), rather than it being a genuine second root. Modeled as one root, primary H3009, with strong_alt: [\"H1461\"] -- the same suppletion-pair mechanism used for הלך/ילך and נוח/ינח, except here it documents a corpus tagging split of a single word rather than two historically distinct roots. No separate H1461 file was created. search_match includes \"1461\"/\"h1461\" (a deliberate departure from the הלך/ילך precedent, where the alt number isn't searchable) since a person searching H1461 is looking for exactly this word, not something distinguishable from H3009."
+ ],
+ "root": "יגב",
+ "search_match": [
+  "3009",
+  "1461",
+  "h3009",
+  "h1461",
+  "be a farmer",
+  "yagav",
+  "יגב"
+ ],
+ "citation_translit": "yagav",
+ "stem_coverage_checked": true
+}
