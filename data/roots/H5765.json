@@ -1,0 +1,50 @@
+{
+ "glosses": [
+  "act wrongfully"
+ ],
+ "strong": "H5765",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְעַוֵּל",
+      "translit": "y'avvel",
+      "ref": "Isa.26.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מְעַוֵּל",
+      "translit": "m'avvel",
+      "ref": "Ps.71.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "notes": [
+  "True homograph of the existing H5763 (\"nurse\"), same consonants (עוּל vs. עֲוַל) -- added as עול² (higher Strong's number) per the ascending-Strong's-number superscript convention; H5763 is retroactively renamed עול¹ in this same batch."
+ ],
+ "root": "עול²",
+ "search_match": [
+  "5765",
+  "h5765",
+  "act wrongfully",
+  "aval",
+  "עול²"
+ ],
+ "citation_translit": "aval",
+ "stem_coverage_checked": true
+}

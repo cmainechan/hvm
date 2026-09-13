@@ -1,0 +1,45 @@
+{
+ "glosses": [
+  "bray"
+ ],
+ "strong": "H5101",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִנְהָקוּ",
+      "translit": "yinhaqu",
+      "ref": "Job.30.7",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "הֲיִֽנְהַק",
+      "translit": "hayinhaq",
+      "ref": "Job.6.5",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "root": "נהק",
+ "search_match": [
+  "5101",
+  "h5101",
+  "bray",
+  "nahaq",
+  "נהק"
+ ],
+ "citation_translit": "nahaq",
+ "stem_coverage_checked": true
+}

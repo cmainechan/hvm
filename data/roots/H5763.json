@@ -22,13 +22,16 @@
    }
   }
  },
- "root": "עול",
+ "notes": [
+  "Retroactively renamed from the plain key \"עול\" to \"עול¹\" when H5765 (\"act wrongfully\") was added to the dataset as \"עול²\" -- true homograph (same consonants, עוּל vs. עֲוַל), per the root-key superscript convention (lower Strong's number gets ¹)."
+ ],
+ "root": "עול¹",
  "search_match": [
   "5763",
   "h5763",
   "nurse",
   "ul",
-  "עול"
+  "עול¹"
  ],
  "citation_translit": "ul",
  "stem_coverage_checked": true

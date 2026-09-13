@@ -1,0 +1,58 @@
+{
+ "glosses": [
+  "dwell"
+ ],
+ "strong": "H5115",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "וְאַנְוֵהוּ",
+      "translit": "v'anvehu",
+      "ref": "Exod.15.2",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִנְוֶה",
+      "translit": "yinveh",
+      "ref": "Hab.2.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "beautify"
+ },
+ "root": "נוה",
+ "search_match": [
+  "5115",
+  "h5115",
+  "dwell",
+  "navah",
+  "נוה",
+  "dwell (navah)"
+ ],
+ "citation_translit": "navah",
+ "stem_coverage_checked": true
+}

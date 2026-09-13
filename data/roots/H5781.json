@@ -1,0 +1,51 @@
+{
+ "glosses": [
+  "crush"
+ ],
+ "strong": "H5781",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "מֵעִיק",
+      "translit": "me'iq",
+      "ref": "Amos.2.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תָּעִיק",
+      "translit": "ta'iq",
+      "ref": "Amos.2.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "notes": [
+  "Hiphil \"crush\" (requested with a confirm-if-attested flag) is genuinely attested: Amos.2.13, the LORD pressing Israel down \"as a cart full of sheaves presses down\" -- a crushing weight, matching the requested gloss well even though Strong's own gloss is milder (\"to pack\"/\"be pressed\")."
+ ],
+ "root": "עוק",
+ "search_match": [
+  "5781",
+  "h5781",
+  "crush",
+  "uq",
+  "עוק",
+  "crush (uq)"
+ ],
+ "citation_translit": "uq",
+ "stem_coverage_checked": true
+}

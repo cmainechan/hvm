@@ -1,0 +1,46 @@
+{
+ "glosses": [
+  "spurn"
+ ],
+ "strong": "H5010",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "נֵאַרְתָּה",
+      "translit": "ne'artah",
+      "ref": "Ps.89.40",
+      "has_suffix": false,
+      "has_prefix": false
+     },
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִאֵר",
+      "translit": "ni'er",
+      "ref": "Lam.2.7",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "root": "נאר",
+ "search_match": [
+  "5010",
+  "h5010",
+  "spurn",
+  "na'ar",
+  "נאר",
+  "spurn (na'ar)"
+ ],
+ "citation_translit": "na'ar",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,61 @@
+{
+ "glosses": [
+  "endanger oneself"
+ ],
+ "strong": "H5533",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִסָּכֶן",
+      "translit": "yissakhen",
+      "ref": "Eccl.10.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "הַֽמְסֻכָּן",
+      "translit": "hamsukkan",
+      "ref": "Isa.40.20",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "stem_glosses": {
+  "pual": "be impoverished"
+ },
+ "notes": [
+  "True homograph of the existing H5532 (\"be of use; cherish\"), identical spelling and pointing (סָכַן) -- added as סכן² (higher Strong's number) per the ascending-Strong's-number superscript convention; H5532 is retroactively renamed סכן¹ in this same batch.",
+  "Pual \"be impoverished\" (requested with a confirm-if-attested flag) is genuinely attested: Isa.40.20, הַמְסֻכָּן, \"he who is impoverished [and can afford no such offering] chooses wood that will not rot\"."
+ ],
+ "root": "סכן²",
+ "search_match": [
+  "5533",
+  "h5533",
+  "endanger oneself",
+  "sakhan",
+  "סכן²"
+ ],
+ "citation_translit": "sakhan",
+ "stem_coverage_checked": true
+}

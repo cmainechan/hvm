@@ -66,15 +66,16 @@
   }
  },
  "notes": [
-  "Homonym check: shares consonants ע-ר-ף with H6201 (\"to droop, hence to drip\"), an unrelated root. Requested gloss matches H6202 precisely (\"to break the neck; hence figuratively to destroy\"); no cross-contamination found in the corpus tagging."
+  "Homonym check: shares consonants ע-ר-ף with H6201 (\"to droop, hence to drip\"), an unrelated root. Requested gloss matches H6202 precisely (\"to break the neck; hence figuratively to destroy\"); no cross-contamination found in the corpus tagging.",
+  "Retroactively renamed from the plain key \"ערף\" to \"ערף²\" when H6201 was actually added to the dataset as \"ערף¹\" -- true homograph, per the root-key superscript convention (lower Strong's number gets ¹). This root's homonym risk was already checked and noted above at creation time, before H6201 itself was added."
  ],
- "root": "ערף",
+ "root": "ערף²",
  "search_match": [
   "6202",
   "h6202",
   "break the neck; break down (altars)",
   "araf",
-  "ערף"
+  "ערף²"
  ],
  "citation_translit": "araf",
  "stem_coverage_checked": true

@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "prostrate"
+ ],
+ "strong": "H5502",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "נִסְחַף",
+      "translit": "nischaf",
+      "ref": "Jer.46.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "סֹחֵף",
+      "translit": "sochef",
+      "ref": "Prov.28.3",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be prostrated"
+ },
+ "root": "סחף",
+ "search_match": [
+  "5502",
+  "h5502",
+  "prostrate",
+  "sachaf",
+  "סחף"
+ ],
+ "citation_translit": "sachaf",
+ "stem_coverage_checked": true
+}

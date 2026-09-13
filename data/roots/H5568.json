@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "bristle"
+ ],
+ "strong": "H5568",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תְּסַמֵּר",
+      "translit": "tsammer",
+      "ref": "Job.4.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "סָמַר",
+      "translit": "samar",
+      "ref": "Ps.119.120",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "stem_glosses": {
+  "piel": "make bristle"
+ },
+ "root": "סמר",
+ "search_match": [
+  "5568",
+  "h5568",
+  "bristle",
+  "samar",
+  "סמר"
+ ],
+ "citation_translit": "samar",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,48 @@
+{
+ "glosses": [
+  "bind"
+ ],
+ "strong": "H6029",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶֽעֶנְדֶנּוּ",
+      "translit": "e'endennu",
+      "ref": "Job.31.36",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ],
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "עָנְדֵם",
+      "translit": "andem",
+      "ref": "Prov.6.21",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "root": "ענד",
+ "search_match": [
+  "6029",
+  "h6029",
+  "bind",
+  "anad",
+  "ענד",
+  "bind (anad)"
+ ],
+ "citation_translit": "anad",
+ "stem_coverage_checked": true
+}

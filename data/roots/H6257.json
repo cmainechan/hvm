@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "prepare"
+ ],
+ "strong": "H6257",
+ "stems": {
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִתְעַתְּדוּ",
+      "translit": "hit'attdu",
+      "ref": "Job.15.28",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְעַתְּדָהּ",
+      "translit": "v'attdahh",
+      "ref": "Prov.24.27",
+      "has_suffix": true,
+      "has_prefix": true
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "stem_glosses": {
+  "hithpael": "be prepared"
+ },
+ "root": "עתד",
+ "search_match": [
+  "6257",
+  "h6257",
+  "prepare",
+  "atad",
+  "עתד"
+ ],
+ "citation_translit": "atad",
+ "stem_coverage_checked": true
+}

@@ -77,13 +77,16 @@
  "stem_glosses": {
   "hiphil": "be used [to]; be familiar with"
  },
- "root": "סכן",
+ "notes": [
+  "Retroactively renamed from the plain key \"סכן\" to \"סכן¹\" when H5533 (\"endanger; be impoverished\") was added to the dataset as \"סכן²\" -- true homograph (identical spelling and pointing, סָכַן), per the root-key superscript convention (lower Strong's number gets ¹)."
+ ],
+ "root": "סכן¹",
  "search_match": [
   "5532",
   "h5532",
   "be of use; minister to; cherish",
   "sakan",
-  "סכן"
+  "סכן¹"
  ],
  "citation_translit": "sakan",
  "stem_coverage_checked": true

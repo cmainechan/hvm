@@ -1,0 +1,60 @@
+{
+ "glosses": [
+  "act heedlessly"
+ ],
+ "strong": "H6075",
+ "stems": {
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "עֻפְּלָה",
+      "translit": "upplah",
+      "ref": "Hab.2.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "וַיַּעְפִּלוּ",
+      "translit": "vayyapilu",
+      "ref": "Num.14.44",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "stem_glosses": {
+  "pual": "swell"
+ },
+ "notes": [
+  "Both requested senses (flagged confirm-if-attested) are genuinely attested: pual \"swell\" (Hab.2.4, עֻפְּלָה, \"his soul is puffed up\") and hiphil \"act heedlessly\" (Num.14.44, וַיַּעְפִּלוּ, Israel presumptuously going up the hill country after being told not to). No qal is attested for this root; hiphil (active) is treated as the primary/citation stem rather than pual's passive-intensive \"swell\", matching this dataset's established preference for an active stem over a passive one when both are available. DEFAULT_STEM_OVERRIDE added (\"עפל\": \"hiphil\") since pual precedes hiphil in STEM_ORDER and would otherwise be picked by default."
+ ],
+ "root": "עפל",
+ "search_match": [
+  "6075",
+  "h6075",
+  "act heedlessly",
+  "afal",
+  "עפל"
+ ],
+ "citation_translit": "afal",
+ "stem_coverage_checked": true
+}

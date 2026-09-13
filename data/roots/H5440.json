@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "interweave"
+ ],
+ "strong": "H5440",
+ "stems": {
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְסֻבָּכוּ",
+      "translit": "ysubbakhu",
+      "ref": "Job.8.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "סְבֻכִים",
+      "translit": "svukhim",
+      "ref": "Nah.1.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "stem_glosses": {
+  "pual": "be interwoven"
+ },
+ "root": "סבך",
+ "search_match": [
+  "5440",
+  "h5440",
+  "interweave",
+  "savakh",
+  "סבך"
+ ],
+ "citation_translit": "savakh",
+ "stem_coverage_checked": true
+}

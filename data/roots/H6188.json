@@ -1,0 +1,60 @@
+{
+ "glosses": [
+  "regard as uncircumcised"
+ ],
+ "strong": "H6188",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "וְהֵֽעָרֵל",
+      "translit": "vhe'arel",
+      "ref": "Hab.2.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וַעֲרַלְתֶּם",
+      "translit": "va'araltem",
+      "ref": "Lev.19.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "stem_glosses": {
+  "niphal": "be regarded as uncircumcised"
+ },
+ "notes": [
+  "Both requested senses (flagged confirm-if-attested) are genuinely attested: qal (Lev.19.23, וַעֲרַלְתֶּם, \"you shall regard its fruit as uncircumcised\" [forbidden for the tree's first three years]) and niphal (Hab.2.16, וְהֵעָרֵל, \"drink, and be as one uncircumcised [in shame]\")."
+ ],
+ "root": "ערל",
+ "search_match": [
+  "6188",
+  "h6188",
+  "regard as uncircumcised",
+  "arel",
+  "ערל"
+ ],
+ "citation_translit": "arel",
+ "stem_coverage_checked": true
+}

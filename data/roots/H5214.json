@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "till"
+ ],
+ "strong": "H5214",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "נִירוּ",
+      "translit": "niru",
+      "ref": "Hos.10.12",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "root": "ניר",
+ "search_match": [
+  "5214",
+  "h5214",
+  "till",
+  "nir",
+  "ניר"
+ ],
+ "citation_translit": "nir",
+ "stem_coverage_checked": true
+}

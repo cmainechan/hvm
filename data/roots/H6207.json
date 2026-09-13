@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "gnaw"
+ ],
+ "strong": "H6207",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַֽעֹרְקִים",
+      "translit": "ha'orqim",
+      "ref": "Job.30.3",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "root": "ערק",
+ "search_match": [
+  "6207",
+  "h6207",
+  "gnaw",
+  "araq",
+  "ערק"
+ ],
+ "citation_translit": "araq",
+ "stem_coverage_checked": true
+}

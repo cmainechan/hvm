@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "be propagated"
+ ],
+ "strong": "H5125",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "jussive": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִנּוֹן",
+      "translit": "yinnon",
+      "ref": "Ps.72.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "notes": [
+  "The requested \"Qal/Hiphil - increase (check whether Qal or Hiphil)\" is not citable either way: this root has exactly one attestation in the whole corpus (Ps.72.17), a ketiv/qere pair at the same word position. The ketiv (the manuscript's actual written text, ינין) is tagged Hiphil, morph Vhj3ms -- but its qere (the traditional read-aloud alternative, יִנּוֹן) shares this SAME Strong's number and is tagged Niphal, morph VNj3ms. Per strip_redundant_ketivs, a ketiv sharing its qere's lemma is a mere spelling/reading variant of the same word, not a second attestation, so only the qere's Niphal reading is extracted -- matching the lexicon's own core meaning (\"to resprout... figuratively to be perpetual\", usage \"be continued\") far better than an active \"increase\" sense would. There is no independently citable Qal or Hiphil form for this root by this dataset's methodology; only Niphal \"be propagated\" ships."
+ ],
+ "root": "נון",
+ "search_match": [
+  "5125",
+  "h5125",
+  "be propagated",
+  "nun",
+  "נון"
+ ],
+ "citation_translit": "nun",
+ "stem_coverage_checked": true
+}

@@ -94,6 +94,7 @@ const DEFAULT_STEM_OVERRIDE = {
   "סתר": "niphal",
   "עלם": "hiphil",
   "עלף": "hitpael",
+  "עפל": "hiphil",
   "עקש": "piel",
   "ערה": "piel",
   "פלא": "niphal",
