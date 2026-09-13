@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "spin"
+ ],
+ "strong": "H2901",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "טָווּ",
+      "translit": "tau",
+      "ref": "Exod.35.25",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "root": "טוה",
+ "search_match": [
+  "2901",
+  "h2901",
+  "spin",
+  "tavah",
+  "טוה"
+ ],
+ "citation_translit": "tavah",
+ "stem_coverage_checked": true
+}

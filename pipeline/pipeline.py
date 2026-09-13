@@ -395,6 +395,14 @@ KNOWN_EXCEPTIONS = {
     # construct-state participle; kept anyway per the same explicit
     # exception as H2904/H6140/H3960/H7710, since no absolute-state
     # attestation exists at all for this stem.
+    ('H1895', 'qal', 'participle_active', 'mp'),  # only attestation
+    # (Isa.47.13, הֹבְרֵי שָׁמַיִם, "the dividers of heaven" i.e.
+    # astrologers) is a construct-state participle; kept anyway per the
+    # same explicit exception as H2904/H6140/H3960/H7710/H1110, since no
+    # absolute-state attestation exists at all for this root. (A ketiv
+    # spelling, הברו, a perfect 3cp, sits at the same verse position but
+    # shares this Strong's number with the qere, so strip_redundant_ketivs
+    # already drops it as a spelling variant, not a second attestation.)
 }
 
 

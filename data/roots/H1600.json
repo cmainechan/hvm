@@ -1,0 +1,47 @@
+{
+ "glosses": [
+  "low"
+ ],
+ "strong": "H1600",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְגָעוֹ",
+      "translit": "vgao",
+      "ref": "1Sam.6.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יִגְעֶה",
+      "translit": "yig'eh",
+      "ref": "Job.6.5",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "root": "געה",
+ "search_match": [
+  "1600",
+  "h1600",
+  "low",
+  "ga'ah",
+  "געה"
+ ],
+ "citation_translit": "ga'ah",
+ "stem_coverage_checked": true
+}

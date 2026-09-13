@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "raise up"
+ ],
+ "strong": "H2210",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "זֹקֵף",
+      "translit": "zoqef",
+      "ref": "Ps.146.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "root": "זקף",
+ "search_match": [
+  "2210",
+  "h2210",
+  "raise up",
+  "zaqaf",
+  "זקף"
+ ],
+ "citation_translit": "zaqaf",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "flood away"
+ ],
+ "strong": "H2229",
+ "stems": {
+  "poel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "זֹרְמוּ",
+      "translit": "zormu",
+      "ref": "Ps.77.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "זְרַמְתָּם",
+      "translit": "zramtam",
+      "ref": "Ps.90.5",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "stem_glosses": {
+  "poel": "pour forth"
+ },
+ "root": "זרם",
+ "search_match": [
+  "2229",
+  "h2229",
+  "flood away",
+  "zaram",
+  "זרם"
+ ],
+ "citation_translit": "zaram",
+ "stem_coverage_checked": true
+}

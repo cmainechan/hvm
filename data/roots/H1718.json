@@ -1,0 +1,40 @@
+{
+ "glosses": [
+  "walk deliberately"
+ ],
+ "strong": "H1718",
+ "stems": {
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "1cs",
+      "label": "1st sg.",
+      "heb": "אֶדַּדֶּה",
+      "translit": "eddaddeh",
+      "ref": "Isa.38.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "notes": [
+  "Piel \"lead slowly\" was requested but has zero attestation anywhere in the corpus -- both of this root's only two occurrences (Isa.38.15, Ps.42.5) are tagged Hitpael, not Piel, in the morphology. Excluded per the no-uncited-glosses rule; only Hitpael is shipped, and it is now this root's sole stem (no DEFAULT_STEM_OVERRIDE entry needed).",
+  "Ps.42.5's Hitpael form (אֶדַּדֵּם, \"I led them\") carries a transitive \"lead\" nuance close to the requested Piel sense, from the pronominal object suffix -- but it competes with Isa.38.15's bare אֶדַּדֶּה for the same yiqtol/1cs paradigm slot, and loses under the bare-form-preferred selection rule, so only the intransitive \"walk deliberately\" sense (Isa.38.15) is shown."
+ ],
+ "root": "דדה",
+ "search_match": [
+  "1718",
+  "h1718",
+  "walk deliberately",
+  "dadah",
+  "דדה"
+ ],
+ "citation_translit": "dadah",
+ "stem_coverage_checked": true
+}

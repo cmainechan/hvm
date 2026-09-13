@@ -1,0 +1,50 @@
+{
+ "glosses": [
+  "muzzle"
+ ],
+ "strong": "H2629",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2ms",
+      "label": "2nd masc. sg.",
+      "heb": "תַחְסֹם",
+      "translit": "tachsom",
+      "ref": "Deut.25.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "participle_active": [
+     {
+      "code": "fs",
+      "label": "fem. sg.",
+      "heb": "וְחֹסֶמֶת",
+      "translit": "vchosemet",
+      "ref": "Ezek.39.11",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   },
+   "gloss_trim_checked": true,
+   "form_glosses": {
+    "participle_active": "block"
+   }
+  }
+ },
+ "root": "חסם",
+ "search_match": [
+  "2629",
+  "h2629",
+  "muzzle",
+  "chasam",
+  "חסם"
+ ],
+ "citation_translit": "chasam",
+ "stem_coverage_checked": true
+}

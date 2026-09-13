@@ -1,0 +1,58 @@
+{
+ "glosses": [
+  "swallow"
+ ],
+ "strong": "H1572",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "imperative": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "הַגְמִיאִינִי",
+      "translit": "hagmi'ini",
+      "ref": "Gen.24.17",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "יְגַמֶּא",
+      "translit": "ygamme",
+      "ref": "Job.39.24",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "drink"
+ },
+ "root": "גמא",
+ "search_match": [
+  "1572",
+  "h1572",
+  "swallow",
+  "gama",
+  "גמא",
+  "swallow (gama)"
+ ],
+ "citation_translit": "gama",
+ "stem_coverage_checked": true
+}

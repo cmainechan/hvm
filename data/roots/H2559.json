@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "turn away"
+ ],
+ "strong": "H2559",
+ "stems": {
+  "hitpael": {
+   "sense_hint": "reflexive/reciprocal",
+   "gloss_verified": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "תִּתְחַמָּקִין",
+      "translit": "titchammaqin",
+      "ref": "Jer.31.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "חָמַק",
+      "translit": "chamaq",
+      "ref": "Song.5.6",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "stem_glosses": {
+  "hitpael": "turn about"
+ },
+ "root": "חמק",
+ "search_match": [
+  "2559",
+  "h2559",
+  "turn away",
+  "chamaq",
+  "חמק"
+ ],
+ "citation_translit": "chamaq",
+ "stem_coverage_checked": true
+}

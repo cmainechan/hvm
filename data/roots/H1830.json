@@ -1,0 +1,48 @@
+{
+ "glosses": [
+  "weep"
+ ],
+ "strong": "H1830",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְדָמֹעַ",
+      "translit": "vdamoa",
+      "ref": "Jer.13.17",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ],
+    "yiqtol": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תִּדְמַע",
+      "translit": "tidma",
+      "ref": "Jer.13.17",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "root": "דמע",
+ "search_match": [
+  "1830",
+  "h1830",
+  "weep",
+  "dama",
+  "דמע",
+  "weep (dama)"
+ ],
+ "citation_translit": "dama",
+ "stem_coverage_checked": true
+}

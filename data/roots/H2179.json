@@ -1,0 +1,47 @@
+{
+ "glosses": [
+  "attack the rear"
+ ],
+ "strong": "H2179",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיְזַנֵּב",
+      "translit": "vayzannev",
+      "ref": "Deut.25.18",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "veqatal": [
+     {
+      "code": "2mp",
+      "label": "2nd masc. pl.",
+      "heb": "וְזִנַּבְתֶּם",
+      "translit": "vzinnavtem",
+      "ref": "Josh.10.19",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "root": "זנב",
+ "search_match": [
+  "2179",
+  "h2179",
+  "attack the rear",
+  "zanav",
+  "זנב"
+ ],
+ "citation_translit": "zanav",
+ "stem_coverage_checked": true
+}

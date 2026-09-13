@@ -1,0 +1,58 @@
+{
+ "glosses": [
+  "sprout"
+ ],
+ "strong": "H1876",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "jussive": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "תַּֽדְשֵׁא",
+      "translit": "tadshe",
+      "ref": "Gen.1.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "דָשְׁאוּ",
+      "translit": "dash'u",
+      "ref": "Joel.2.22",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "cause to sprout"
+ },
+ "root": "דשא",
+ "search_match": [
+  "1876",
+  "h1876",
+  "sprout",
+  "dasha",
+  "דשא",
+  "sprout (dasha)"
+ ],
+ "citation_translit": "dasha",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "be crushed"
+ ],
+ "strong": "H1638",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיַּגְרֵס",
+      "translit": "vayyagres",
+      "ref": "Lam.3.16",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  },
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "גָּרְסָה",
+      "translit": "garsah",
+      "ref": "Ps.119.20",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "crush"
+ },
+ "root": "גרס",
+ "search_match": [
+  "1638",
+  "h1638",
+  "be crushed",
+  "garas",
+  "גרס"
+ ],
+ "citation_translit": "garas",
+ "stem_coverage_checked": true
+}

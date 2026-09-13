@@ -1,0 +1,54 @@
+{
+ "glosses": [
+  "be swaddled"
+ ],
+ "strong": "H2853",
+ "stems": {
+  "hophal": {
+   "sense_hint": "passive-causative",
+   "gloss_verified": true,
+   "forms": {
+    "infinitive_absolute": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "וְהָחְתֵּל",
+      "translit": "vhachtel",
+      "ref": "Ezek.16.4",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  },
+  "pual": {
+   "sense_hint": "passive-intensive",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "2fs",
+      "label": "2nd fem. sg.",
+      "heb": "חֻתָּֽלְתְּ",
+      "translit": "chuttalt",
+      "ref": "Ezek.16.4",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "root": "חתל",
+ "search_match": [
+  "2853",
+  "h2853",
+  "be swaddled",
+  "chatal",
+  "חתל"
+ ],
+ "citation_translit": "chatal",
+ "stem_coverage_checked": true
+}

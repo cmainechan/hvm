@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "lavish"
+ ],
+ "strong": "H2107",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "הַזָּלִים",
+      "translit": "hazzalim",
+      "ref": "Isa.46.6",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִזִּילוּהָ",
+      "translit": "hizziluha",
+      "ref": "Lam.1.8",
+      "has_suffix": true,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "stem_glosses": {
+  "hiphil": "despise"
+ },
+ "root": "זול",
+ "search_match": [
+  "2107",
+  "h2107",
+  "lavish",
+  "zul",
+  "זול"
+ ],
+ "citation_translit": "zul",
+ "stem_coverage_checked": true
+}

@@ -1,0 +1,47 @@
+{
+ "glosses": [
+  "gather as a brood"
+ ],
+ "strong": "H1716",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "forms": {
+    "veqatal": [
+     {
+      "code": "3fs",
+      "label": "3rd fem. sg.",
+      "heb": "וְדָגְרָה",
+      "translit": "vdagrah",
+      "ref": "Isa.34.15",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "perfect": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "דָגַר",
+      "translit": "dagar",
+      "ref": "Jer.17.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "root": "דגר",
+ "search_match": [
+  "1716",
+  "h1716",
+  "gather as a brood",
+  "dagar",
+  "דגר"
+ ],
+ "citation_translit": "dagar",
+ "stem_coverage_checked": true
+}

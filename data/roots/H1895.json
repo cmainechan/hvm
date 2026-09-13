@@ -1,0 +1,40 @@
+{
+ "glosses": [
+  "divide"
+ ],
+ "strong": "H1895",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple (only biblical occurrence is a construct-state participle, not a free citation form -- shown here as an explicit exception to the absolute-state-only participle rule, since no other attestation exists)",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl. (construct, only attestation)",
+      "heb": "הֹבְרֵי",
+      "translit": "hovre",
+      "ref": "Isa.47.13",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "notes": [
+  "This root's sole biblical occurrence (Isa.47.13, הֹבְרֵי שָׁמַיִם, \"the dividers of heaven\" i.e. astrologers) is a construct-state participle -- normally excluded by the absolute-state-only participle rule -- kept anyway as an explicit exception (precedent: H2904, H6140, H3960, H7710, H1110) since no absolute-state attestation exists at all. The word also has a ketiv spelling (הברו, a perfect 3cp) at the same verse position, but it shares this same Strong's number as the qere, so per strip_redundant_ketivs it's a spelling variant, not a second attestation."
+ ],
+ "root": "הבר",
+ "search_match": [
+  "1895",
+  "h1895",
+  "divide",
+  "havar",
+  "הבר",
+  "divide (havar)"
+ ],
+ "citation_translit": "havar",
+ "stem_coverage_checked": true
+}

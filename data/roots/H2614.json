@@ -1,0 +1,60 @@
+{
+ "glosses": [
+  "strangle"
+ ],
+ "strong": "H2614",
+ "stems": {
+  "niphal": {
+   "sense_hint": "passive/reflexive",
+   "gloss_verified": true,
+   "forms": {
+    "wayyiqtol": [
+     {
+      "code": "3ms",
+      "label": "3rd masc. sg.",
+      "heb": "וַיֵּחָנַק",
+      "translit": "vayyechanaq",
+      "ref": "2Sam.17.23",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  },
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "וּמְחַנֵּק",
+      "translit": "umchanneq",
+      "ref": "Nah.2.13",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   },
+   "gloss_trim_checked": true
+  }
+ },
+ "stem_glosses": {
+  "niphal": "strangle oneself"
+ },
+ "notes": [
+  "No qal attested for this root; piel (\"strangle\", active/transitive -- Nah.2.13, the lion strangling prey) is treated as the primary/citation stem rather than niphal's reflexive \"strangle oneself\" (2Sam.17.23, Ahithophel's suicide), matching the established pattern of preferring an active stem over a passive/reflexive one when both are available. DEFAULT_STEM_OVERRIDE added (\"חנק\": \"piel\") since niphal precedes piel in STEM_ORDER and would otherwise be picked by default."
+ ],
+ "root": "חנק",
+ "search_match": [
+  "2614",
+  "h2614",
+  "strangle",
+  "chanaq",
+  "חנק"
+ ],
+ "citation_translit": "chanaq",
+ "stem_coverage_checked": true
+}
