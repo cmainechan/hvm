@@ -1,0 +1,36 @@
+{
+ "glosses": [
+  "trickle"
+ ],
+ "strong": "H6379",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive (this root has no attested qal; piel serves as its basic/citation stem)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "מְפַכִּים",
+      "translit": "mfakkim",
+      "ref": "Ezek.47.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "root": "פכה",
+ "search_match": [
+  "6379",
+  "h6379",
+  "trickle",
+  "pakhah",
+  "פכה"
+ ],
+ "citation_translit": "pakhah",
+ "stem_coverage_checked": true
+}
