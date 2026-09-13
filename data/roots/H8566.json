@@ -1,0 +1,58 @@
+{
+ "glosses": [
+  "hire"
+ ],
+ "strong": "H8566",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יִתְנוּ",
+      "translit": "yitnu",
+      "ref": "Hos.8.10",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "perfect": [
+     {
+      "code": "3cp",
+      "label": "3rd pl.",
+      "heb": "הִתְנוּ",
+      "translit": "hitnu",
+      "ref": "Hos.8.9",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "True homograph of H8567 (תָּנָה, \"recount\") -- same consonants and identical vocalization, genuinely unrelated meanings. Both new in this same batch, so neither needs a retroactive rename: assigned תנה¹ (lower Strong's number) and תנה² per the ascending-Strong's-number superscript convention.",
+  "Both requested stems come from the same short passage (Hos.8.9-10), a deliberate qal/hiphil pairing in the text itself."
+ ],
+ "root": "תנה¹",
+ "search_match": [
+  "8566",
+  "h8566",
+  "hire (tanah)",
+  "tanah",
+  "תנה¹"
+ ],
+ "citation_translit": "tanah",
+ "stem_coverage_checked": true
+}

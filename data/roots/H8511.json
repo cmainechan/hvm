@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "hang"
+ ],
+ "strong": "H8511",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_passive": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "תְּלֻאִים",
+      "translit": "tlu'im",
+      "ref": "Deut.28.66",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "This slot's other attestation (Hos.11.7, תְלוּאִים, \"my people are bent to backsliding from me\") leans toward the lexicon's more idiomatic third sense (\"habituate\", of mental dependence) rather than literal/figurative \"hang\" -- Deut.28.66 (\"thy life shall hang in doubt before thee\") was kept as the representative citation since it matches the requested gloss directly."
+ ],
+ "root": "תלא",
+ "search_match": [
+  "8511",
+  "h8511",
+  "hang (tala)",
+  "tala",
+  "תלא"
+ ],
+ "citation_translit": "tala",
+ "stem_coverage_checked": true
+}

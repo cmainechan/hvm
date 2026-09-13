@@ -1,0 +1,60 @@
+{
+ "glosses": [
+  "mock"
+ ],
+ "strong": "H8591",
+ "stems": {
+  "pilpel": {
+   "sense_hint": "intensive (reduplicated)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "ms",
+      "label": "masc. sg.",
+      "heb": "כִּמְתַעְתֵּעַ",
+      "translit": "kimtatea",
+      "ref": "Gen.27.12",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  },
+  "hithpalpel": {
+   "sense_hint": "reflexive/reciprocal (reduplicated intensive)",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "mp",
+      "label": "masc. pl.",
+      "heb": "וּמִֽתַּעְתְּעִים",
+      "translit": "umittat'im",
+      "ref": "2Chr.36.16",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "hithpalpel": "ridicule"
+ },
+ "notes": [
+  "Strong's usage list (\"deceive, misuse\") reads a bit differently from the requested glosses; BDB glosses the root itself \"mock\" and cites both attested forms directly -- Pilpel \"= subst. a mocker\" (Gen.27.12, כִּמְתַעְתֵּעַ, \"I shall seem to him as a mocker/deceiver\") and Hithpalpel \"mocking at his prophets\" (2Chr.36.16, the very verse attested here) -- both match the requested glosses precisely and are used here instead of Strong's."
+ ],
+ "root": "תעע",
+ "search_match": [
+  "8591",
+  "h8591",
+  "mock (taa)",
+  "ta'a",
+  "תעע"
+ ],
+ "citation_translit": "ta'a",
+ "stem_coverage_checked": true
+}

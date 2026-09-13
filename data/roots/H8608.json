@@ -1,0 +1,57 @@
+{
+ "glosses": [
+  "beat the tambourine"
+ ],
+ "strong": "H8608",
+ "stems": {
+  "qal": {
+   "sense_hint": "simple",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "תּוֹפֵפֽוֹת",
+      "translit": "tofefot",
+      "ref": "Ps.68.26",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  },
+  "poel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "מְתֹפְפֹת",
+      "translit": "mtoffot",
+      "ref": "Nah.2.8",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "stem_glosses": {
+  "poel": "beat"
+ },
+ "root": "תפף",
+ "search_match": [
+  "8608",
+  "h8608",
+  "beat the tambourine",
+  "tafaf",
+  "תפף"
+ ],
+ "citation_translit": "tafaf",
+ "stem_coverage_checked": true
+}

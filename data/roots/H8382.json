@@ -1,0 +1,39 @@
+{
+ "glosses": [
+  "bear twins"
+ ],
+ "strong": "H8382",
+ "stems": {
+  "hiphil": {
+   "sense_hint": "causative",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "participle_active": [
+     {
+      "code": "fp",
+      "label": "fem. pl.",
+      "heb": "מַתְאִימוֹת",
+      "translit": "mat'imot",
+      "ref": "Song.4.2",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "Requested qal sense \"be double\" has zero attestation for this Strong's number -- both occurrences are Hiphil (the same phrase, Song.4.2/6.6, describing teeth \"which came up... every one bear twins\"). Excluded per \"no uncited glosses\"; root-level gloss and citation stem are Hiphil \"bear twins\" instead."
+ ],
+ "root": "תאם",
+ "search_match": [
+  "8382",
+  "h8382",
+  "bear twins",
+  "ta'am",
+  "תאם"
+ ],
+ "citation_translit": "ta'am",
+ "stem_coverage_checked": true
+}

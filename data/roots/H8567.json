@@ -1,0 +1,51 @@
+{
+ "glosses": [
+  "recount"
+ ],
+ "strong": "H8567",
+ "stems": {
+  "piel": {
+   "sense_hint": "intensive",
+   "gloss_verified": true,
+   "gloss_trim_checked": true,
+   "forms": {
+    "yiqtol": [
+     {
+      "code": "3mp",
+      "label": "3rd masc. pl.",
+      "heb": "יְתַנּוּ",
+      "translit": "ytannu",
+      "ref": "Judg.5.11",
+      "has_suffix": false,
+      "has_prefix": false
+     }
+    ],
+    "infinitive_construct": [
+     {
+      "code": "inf",
+      "label": "infinitive",
+      "heb": "לְתַנּוֹת",
+      "translit": "ltannot",
+      "ref": "Judg.11.40",
+      "has_suffix": false,
+      "has_prefix": true
+     }
+    ]
+   }
+  }
+ },
+ "notes": [
+  "True homograph of H8566 (תָּנָה, \"hire\") -- see its notes for the split. Assigned תנה² (higher Strong's number) per the ascending-Strong's-number superscript convention.",
+  "Judg.11.40's citation (the daughters of Israel going yearly \"לְתַנּוֹת\" for Jephthah's daughter) is a well-known interpretive crux -- KJV renders it \"to lament\" (Strong's usage list includes both \"lament\" and \"rehearse\"), but many readings take it as an annual commemorative retelling of her story, matching \"recount\" as requested. Judg.5.11 (\"there shall they rehearse the righteous acts of the LORD\") is the unambiguous citation for this gloss."
+ ],
+ "root": "תנה²",
+ "search_match": [
+  "8567",
+  "h8567",
+  "recount",
+  "tanah",
+  "תנה²"
+ ],
+ "citation_translit": "tanah",
+ "stem_coverage_checked": true
+}
