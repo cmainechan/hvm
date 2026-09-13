@@ -1,6 +1,6 @@
 {
  "glosses": [
-  "depart"
+  "depart early"
  ],
  "strong": "H6852",
  "stems": {
@@ -27,10 +27,13 @@
  "search_match": [
   "6852",
   "h6852",
-  "depart (tzafar)",
+  "depart early (tzafar)",
   "tzafar",
   "צפר"
  ],
  "citation_translit": "tzafar",
+ "notes": [
+  "Gloss changed from \"depart\" to \"depart early\" per confirmation: Strong's own usage tag for this citation (Judg.7.3) is \"depart early,\" matching KJV's rendering (\"let him return and depart early from mount Gilead\")."
+ ],
  "stem_coverage_checked": true
 }
