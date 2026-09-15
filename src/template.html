@@ -526,7 +526,9 @@ function render() {
   // legend
   const legendBox = el("div", styles.legendBox);
   const legendTitle = el("span", styles.legendTitle);
-  legendTitle.textContent = "Binyan legend — " + rootEntry.glosses[0] + " (" + state.activeRoot + ")";
+  const occCount = ROOT_OCCURRENCES[state.activeRoot];
+  legendTitle.textContent = "Binyan legend — " + state.activeRoot +
+    (occCount != null ? " — " + occCount + " occurrence" + (occCount === 1 ? "" : "s") : "");
   const legendRow = el("div", styles.legendRow);
   STEM_ORDER.forEach((key) => {
     const meta = STEM_COLOR[key];

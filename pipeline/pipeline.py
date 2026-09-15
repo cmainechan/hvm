@@ -362,6 +362,47 @@ def scan_all(target_numbers, verbose=True):
     return dict(records_by_number), dict(unmapped_by_number)
 
 
+def count_all_occurrences(numbers):
+    """
+    Single corpus pass counting every attested Hebrew verb occurrence per
+    Strong's number in `numbers` (a set of bare number strings, no leading
+    'H'). Used for the UI's "N occurrences" display, not for extraction.
+
+    Deliberately looser than scan_all's `records_by_number`: it counts a
+    word the moment it's a genuine Hebrew verb token for a target number
+    (parse_morph succeeds), regardless of whether this dataset's pipeline
+    can further categorize its stem letter or verb type. An occurrence
+    with an unmapped stem letter or unrecognized type still happened in
+    the text and should count toward the total -- it just isn't one this
+    dataset extracts a paradigm slot for. This makes the count a true
+    "how many times does this root occur" total, not a proxy for how many
+    of those occurrences ended up extracted.
+
+    Returns {number: count}.
+    """
+    counts = defaultdict(int)
+    files = sorted(glob.glob(WLC_GLOB))
+    for fn in files:
+        with open(fn, encoding='utf-8') as f:
+            data = f.read()
+        for vm in re.finditer(r'<verse osisID="([^"]+)">(.*?)</verse>', data, re.S):
+            vtext = strip_redundant_ketivs(vm.group(2))
+            for wm in re.finditer(r'<w [^>]*?lemma="([^"]*)"[^>]*morph="([^"]*)"[^>]*>([^<]*)</w>', vtext):
+                lemma, morph, heb = wm.groups()
+                num = None
+                for p in re.split(r'[/\s]+', lemma.strip()):
+                    m = re.match(r'^(\d+)[a-z]?$', p)
+                    if m and m.group(1) in numbers:
+                        num = m.group(1)
+                        break
+                if num is None:
+                    continue
+                if parse_morph(morph) is None:
+                    continue  # not a Hebrew verb token for this number
+                counts[num] += 1
+    return dict(counts)
+
+
 # A root's stored stem label doesn't always match the corpus's own
 # stem-letter tag. This was previously used for כול (H3557), whose pilpel
 # forms were stored under a "piel" key for simplicity, back before the UI

@@ -468,7 +468,10 @@ export default function HebrewVerbMap() {
       {/* Legend — dynamic to current root */}
       <div style={styles.legendBox}>
         <span style={styles.legendTitle}>
-          Binyan legend — {rootEntry.glosses[0]} ({activeRoot})
+          Binyan legend — {activeRoot}
+          {ROOT_OCCURRENCES[activeRoot] != null
+            ? ` — ${ROOT_OCCURRENCES[activeRoot]} occurrence${ROOT_OCCURRENCES[activeRoot] === 1 ? "" : "s"}`
+            : ""}
         </span>
         <div style={styles.legendRow}>
           {STEM_ORDER.map((key) => {
