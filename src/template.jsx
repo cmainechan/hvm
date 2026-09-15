@@ -286,7 +286,7 @@ function RootPicker({ activeRoot, activeLetter, onSelectLetter, onBack, onSelect
     <div style={styles.rootPickerBox}>
       <span style={styles.legendTitle}>
         <button type="button" onClick={onBack} style={styles.backToLettersBtn}>← letters</button>
-        {" "}{activeLetter} · {roots.length} root{roots.length === 1 ? "" : "s"}
+        {" "}<bdi>{activeLetter}</bdi> · {roots.length} root{roots.length === 1 ? "" : "s"}
       </span>
       <div style={styles.rootPickerRow}>
         {roots.map((root) => (
@@ -468,7 +468,10 @@ export default function HebrewVerbMap() {
       {/* Legend — dynamic to current root */}
       <div style={styles.legendBox}>
         <span style={styles.legendTitle}>
-          Binyan legend — {activeRoot}
+          {/* bdi isolates the Hebrew root's RTL directionality so it doesn't
+              reorder the neutral punctuation/digits that follow it (e.g. the
+              " — 11" after the root visually scrambling without this) */}
+          Binyan legend — <bdi>{activeRoot}</bdi>
           {ROOT_OCCURRENCES[activeRoot] != null
             ? ` — ${ROOT_OCCURRENCES[activeRoot]} occurrence${ROOT_OCCURRENCES[activeRoot] === 1 ? "" : "s"}`
             : ""}
