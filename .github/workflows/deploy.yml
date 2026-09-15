@@ -27,6 +27,14 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Fetch pinned corpus
+        # needed so scripts/build.py can compute ROOT_OCCURRENCES from the
+        # morphhb corpus -- without this step the deployed site silently
+        # gets an empty occurrence count for every root (build.py degrades
+        # gracefully rather than failing, which is right for a plain
+        # `git clone` + build, but wrong for the deploy pipeline, which
+        # should always ship the real counts)
+        run: pipeline/fetch_corpus.sh
       - name: Build dist/
         run: python3 scripts/build.py
       - name: Prepare Pages site
