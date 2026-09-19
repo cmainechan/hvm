@@ -48,7 +48,7 @@
       "code": "2mp",
       "label": "2nd masc. pl.",
       "heb": "וּשְׁלַחְתֶּם",
-      "translit": "shlachtem",
+      "translit": "ushlachtem",
       "ref": "2Sam.15.36",
       "has_suffix": false,
       "has_prefix": true
@@ -124,7 +124,7 @@
       "code": "ms",
       "label": "masc. sg.",
       "heb": "הַשֹּׁלֵחַ",
-      "translit": "sholecha",
+      "translit": "hassholecha",
       "ref": "2Chr.34.26",
       "has_suffix": false,
       "has_prefix": true
@@ -182,7 +182,7 @@
       "code": "3ms",
       "label": "3rd masc. sg.",
       "heb": "יִשְׁלָחֶנּוּ",
-      "translit": "yishlach",
+      "translit": "yishlachennu",
       "ref": "1Sam.18.5",
       "has_suffix": true,
       "has_prefix": false
@@ -278,7 +278,7 @@
       "code": "inf",
       "label": "infinitive",
       "heb": "לִשְׁלֹחַ",
-      "translit": "shlocha",
+      "translit": "lishlocha",
       "ref": "1Sam.22.17",
       "has_suffix": false,
       "has_prefix": true
@@ -289,7 +289,7 @@
       "code": "inf",
       "label": "infinitive",
       "heb": "וְשָׁלוֹחַ",
-      "translit": "shalocha",
+      "translit": "vshalocha",
       "ref": "2Chr.36.15",
       "has_suffix": false,
       "has_prefix": true
@@ -381,7 +381,7 @@
       "code": "3cp",
       "label": "3rd pl.",
       "heb": "שִׁלְּחֻהוּ",
-      "translit": "shillchu",
+      "translit": "shillchuhu",
       "ref": "1Chr.12.20",
       "has_suffix": true,
       "has_prefix": false
@@ -455,7 +455,7 @@
       "code": "3ms",
       "label": "3rd masc. sg.",
       "heb": "וַֽיְשַׁלְּחֵֽם",
-      "translit": "vayshallach",
+      "translit": "vayshallchem",
       "ref": "1Chr.19.4",
       "has_suffix": true,
       "has_prefix": false
@@ -549,7 +549,7 @@
       "code": "2ms",
       "label": "2nd masc. sg.",
       "heb": "תְּשַׁלְּחֵֽנִי",
-      "translit": "tshallach",
+      "translit": "tshallcheni",
       "ref": "1Kgs.11.22",
       "has_suffix": true,
       "has_prefix": false
@@ -623,7 +623,7 @@
       "code": "1cs",
       "label": "1st sg.",
       "heb": "וְשִׁלַּחְתִּיךָ",
-      "translit": "vshillachti",
+      "translit": "vshillachtikha",
       "ref": "1Sam.9.19",
       "has_suffix": true,
       "has_prefix": false
@@ -641,7 +641,7 @@
       "code": "3ms",
       "label": "3rd masc. sg.",
       "heb": "וְשִׁלְּחוֹ",
-      "translit": "vshillach",
+      "translit": "vshillcho",
       "ref": "1Sam.24.20",
       "has_suffix": true,
       "has_prefix": false
@@ -652,7 +652,7 @@
       "code": "2ms",
       "label": "2nd masc. sg.",
       "heb": "שַׁלְּחֵנִי",
-      "translit": "shallach",
+      "translit": "shallcheni",
       "ref": "1Kgs.11.21",
       "has_suffix": true,
       "has_prefix": false
@@ -681,7 +681,7 @@
       "code": "inf",
       "label": "infinitive",
       "heb": "שִׁלְחוֹ",
-      "translit": "shallach",
+      "translit": "shilcho",
       "ref": "1Chr.8.8",
       "has_suffix": true,
       "has_prefix": false

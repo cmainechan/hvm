@@ -30,7 +30,7 @@
       "code": "1cs",
       "label": "1st sg.",
       "heb": "וְשַׁבְתִּֽי",
-      "translit": "shavti",
+      "translit": "vshavti",
       "ref": "Eccl.4.1",
       "has_suffix": false,
       "has_prefix": true
@@ -160,7 +160,7 @@
       "code": "ms",
       "label": "masc. sg.",
       "heb": "וָשָׁב",
-      "translit": "shav",
+      "translit": "vashav",
       "ref": "1Sam.17.15",
       "has_suffix": false,
       "has_prefix": true
@@ -225,7 +225,7 @@
       "code": "3ms",
       "label": "3rd masc. sg.",
       "heb": "וְיָשֹׁב",
-      "translit": "yashuv",
+      "translit": "vyashov",
       "ref": "2Kgs.5.10",
       "has_suffix": false,
       "has_prefix": true
@@ -328,7 +328,7 @@
       "code": "2mp",
       "label": "2nd masc. pl.",
       "heb": "וְשׁוּבוּ",
-      "translit": "shuvu",
+      "translit": "vshuvu",
       "ref": "1Kgs.12.5",
       "has_suffix": false,
       "has_prefix": true
@@ -366,7 +366,7 @@
       "code": "inf",
       "label": "infinitive",
       "heb": "לָשׁוּב",
-      "translit": "shuv",
+      "translit": "lashuv",
       "ref": "1Kgs.13.16",
       "has_suffix": false,
       "has_prefix": true
@@ -397,7 +397,7 @@
       "code": "1cs",
       "label": "1st sg.",
       "heb": "וְאָשׁוּבָה",
-      "translit": "ashuvah",
+      "translit": "v'ashuvah",
       "ref": "Exod.4.18",
       "has_suffix": false,
       "has_prefix": true
@@ -408,7 +408,7 @@
       "code": "3fs",
       "label": "3rd fem. sg.",
       "heb": "וְתָשֹׁב",
-      "translit": "tashav",
+      "translit": "vtashov",
       "ref": "1Kgs.13.6",
       "has_suffix": false,
       "has_prefix": true
@@ -426,7 +426,7 @@
       "code": "3ms",
       "label": "3rd masc. sg.",
       "heb": "וְיָשֹׁב",
-      "translit": "yashav",
+      "translit": "vyashov",
       "ref": "1Sam.5.11",
       "has_suffix": false,
       "has_prefix": true
@@ -443,7 +443,7 @@
       "code": "3ms",
       "label": "3rd masc. sg.",
       "heb": "הֱשִׁיבֽוֹ",
-      "translit": "heshiv",
+      "translit": "heshivo",
       "ref": "1Kgs.13.20",
       "has_suffix": true,
       "has_prefix": false
@@ -452,7 +452,7 @@
       "code": "3cp",
       "label": "3rd pl.",
       "heb": "וֶהֱשִׁיבוּם",
-      "translit": "heshivu",
+      "translit": "veheshivum",
       "ref": "1Kgs.14.28",
       "has_suffix": true,
       "has_prefix": true
@@ -584,7 +584,7 @@
       "code": "1cp",
       "label": "1st pl.",
       "heb": "וְנָשִׁיב",
-      "translit": "nashiv",
+      "translit": "vnashiv",
       "ref": "1Kgs.12.9",
       "has_suffix": false,
       "has_prefix": true
@@ -593,7 +593,7 @@
       "code": "3mp",
       "label": "3rd masc. pl.",
       "heb": "וִֽישִׁיבֻהוּ",
-      "translit": "yashivu",
+      "translit": "vishivuhu",
       "ref": "2Chr.24.11",
       "has_suffix": true,
       "has_prefix": true
@@ -649,7 +649,7 @@
       "code": "2ms",
       "label": "2nd masc. sg.",
       "heb": "וַהֲשֵֽׁבֹתָם",
-      "translit": "vahashevota",
+      "translit": "vahashevotam",
       "ref": "1Kgs.8.34",
       "has_suffix": true,
       "has_prefix": false
@@ -676,7 +676,7 @@
       "code": "1cs",
       "label": "1st sg.",
       "heb": "וַהֲשִׁבֹתִיךָ",
-      "translit": "vahashivoti",
+      "translit": "vahashivotikha",
       "ref": "2Kgs.19.28",
       "has_suffix": true,
       "has_prefix": false
@@ -687,7 +687,7 @@
       "code": "2ms",
       "label": "2nd masc. sg.",
       "heb": "הֲשִׁבֵהוּ",
-      "translit": "hashev",
+      "translit": "hashivehu",
       "ref": "1Kgs.13.18",
       "has_suffix": true,
       "has_prefix": false
@@ -696,7 +696,7 @@
       "code": "2mp",
       "label": "2nd masc. pl.",
       "heb": "וַהֲשִׁיבֻהוּ",
-      "translit": "hashivu",
+      "translit": "vahashivuhu",
       "ref": "2Chr.18.25",
       "has_suffix": true,
       "has_prefix": true
@@ -707,7 +707,7 @@
       "code": "inf",
       "label": "infinitive",
       "heb": "לְהָשִׁיב",
-      "translit": "hashiv",
+      "translit": "lhashiv",
       "ref": "1Kgs.12.6",
       "has_suffix": false,
       "has_prefix": true

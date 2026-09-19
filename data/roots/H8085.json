@@ -160,7 +160,7 @@
       "code": "mp",
       "label": "masc. pl.",
       "heb": "הַשֹּׁמְעִים",
-      "translit": "shom'im",
+      "translit": "hasshom'im",
       "ref": "1Kgs.10.8",
       "has_suffix": false,
       "has_prefix": true
@@ -216,7 +216,7 @@
       "code": "1cp",
       "label": "1st pl.",
       "heb": "וְנִשְׁמָֽע",
-      "translit": "nishma",
+      "translit": "vnishma",
       "ref": "Exod.24.7",
       "has_suffix": false,
       "has_prefix": true
@@ -272,7 +272,7 @@
       "code": "1cs",
       "label": "1st sg.",
       "heb": "וּשְׁמַעְתִּֽיו",
-      "translit": "vshama'ti",
+      "translit": "ushmati",
       "ref": "Deut.1.17",
       "has_suffix": true,
       "has_prefix": false
@@ -310,7 +310,7 @@
       "code": "2mp",
       "label": "2nd masc. pl.",
       "heb": "שְׁמָעוּנִי",
-      "translit": "shim'u",
+      "translit": "shmauni",
       "ref": "1Chr.28.2",
       "has_suffix": true,
       "has_prefix": false
@@ -348,7 +348,7 @@
       "code": "inf",
       "label": "infinitive",
       "heb": "כְּֽשָׁמְעֲךָ",
-      "translit": "shmo'a",
+      "translit": "ksham'akha",
       "ref": "1Chr.14.15",
       "has_suffix": true,
       "has_prefix": true
@@ -572,7 +572,7 @@
       "code": "inf",
       "label": "infinitive",
       "heb": "בְּהִשָּׁמַע",
-      "translit": "bhishshama",
+      "translit": "bhisshama",
       "ref": "Esth.2.8",
       "has_suffix": false,
       "has_prefix": true
@@ -615,7 +615,7 @@
       "code": "1cs",
       "label": "1st sg.",
       "heb": "וְהִשְׁמַעְתִּי",
-      "translit": "vhishma'ti",
+      "translit": "vhishmati",
       "ref": "Isa.43.12",
       "has_suffix": false,
       "has_prefix": true
@@ -675,7 +675,7 @@
       "code": "1cs",
       "label": "1st sg.",
       "heb": "וְאַשְׁמִיעֲךָ",
-      "translit": "ashmi'a",
+      "translit": "v'ashmi'akha",
       "ref": "1Sam.9.27",
       "has_suffix": true,
       "has_prefix": true
@@ -684,7 +684,7 @@
       "code": "3ms",
       "label": "3rd masc. sg.",
       "heb": "וְיַשְׁמִעֵנוּ",
-      "translit": "yashmi'a",
+      "translit": "vyashmi'enu",
       "ref": "Deut.30.12",
       "has_suffix": true,
       "has_prefix": true
@@ -693,7 +693,7 @@
       "code": "3mp",
       "label": "3rd masc. pl.",
       "heb": "יַשְׁמִיעֻנוּ",
-      "translit": "yashmi'u",
+      "translit": "yashmi'unu",
       "ref": "Isa.43.9",
       "has_suffix": true,
       "has_prefix": false
@@ -780,7 +780,7 @@
       "code": "inf",
       "label": "infinitive",
       "heb": "לְהַשְׁמִֽיעַ",
-      "translit": "lhashmi'a",
+      "translit": "lhashmia",
       "ref": "1Chr.15.19",
       "has_suffix": false,
       "has_prefix": true
