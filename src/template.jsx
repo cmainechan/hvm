@@ -193,6 +193,44 @@ function buildFormMeta(stemEntry) {
   ];
 }
 
+// Buttons sit on a circle around the wheel; WHEEL_BASE_RADIUS is the
+// original hand-tuned radius for the normal 10-spoke wheel and is left
+// untouched at/under WHEEL_BASE_SPOKES (every wheel except the rare stem
+// with both an active and a passive participle attested, which adds an
+// 11th spoke -- see buildFormMeta). At a bigger spoke count that fixed
+// radius packs adjacent form-buttons close enough that their boxes
+// visibly touch: the buttons are wide rectangles (FORM_BTN_HALF_WIDTH/
+// HEIGHT below), not points, so simply scaling the radius to preserve the
+// 10-spoke *chord length* undershoots -- a rectangle's corners need more
+// clearance than that at most angles. This instead solves directly for
+// the smallest radius at which every pair of buttons clears the other by
+// at least WHEEL_MIN_GAP px on at least one axis (horizontal or
+// vertical, whichever that pair's angular offset makes cheaper) -- exact
+// for the wheel's own geometry, and generalizes to any future spoke
+// count rather than hardcoding a fix for exactly 11.
+const WHEEL_BASE_RADIUS = 190;
+const WHEEL_BASE_SPOKES = 10;
+const WHEEL_MIN_GAP = 8; // visible breathing room between boxes, not just clearing them exactly
+const FORM_BTN_HALF_WIDTH = 52;  // half of formBtn's 104px width (styles.formBtn)
+const FORM_BTN_HALF_HEIGHT = 34; // half of formBtn's 68px height (styles.formBtn)
+function wheelRadius(spokeCount) {
+  if (spokeCount <= WHEEL_BASE_SPOKES) return WHEEL_BASE_RADIUS;
+  const angles = Array.from({ length: spokeCount }, (_, i) => ((360 / spokeCount) * i - 90) * Math.PI / 180);
+  let radius = WHEEL_BASE_RADIUS;
+  for (let i = 0; i < spokeCount; i++) {
+    for (let j = i + 1; j < spokeCount; j++) {
+      const dCos = Math.cos(angles[i]) - Math.cos(angles[j]);
+      const dSin = Math.sin(angles[i]) - Math.sin(angles[j]);
+      const neededForX = Math.abs(dCos) > 1e-9 ? (2 * FORM_BTN_HALF_WIDTH + WHEEL_MIN_GAP) / Math.abs(dCos) : Infinity;
+      const neededForY = Math.abs(dSin) > 1e-9 ? (2 * FORM_BTN_HALF_HEIGHT + WHEEL_MIN_GAP) / Math.abs(dSin) : Infinity;
+      // clearing on EITHER axis is enough to avoid a collision, so a pair
+      // only forces the radius up to whichever axis is cheaper to clear
+      radius = Math.max(radius, Math.min(neededForX, neededForY));
+    }
+  }
+  return radius;
+}
+
 function splitForm(formKey, entries) {
   const cat = FORM_CATEGORY[formKey];
   if (cat === "infinitive") {
@@ -419,6 +457,7 @@ export default function HebrewVerbMap() {
   const stemEntry = rootEntry.stems[activeStem];
   const stemColor = STEM_COLOR[activeStem];
   const formMeta = buildFormMeta(stemEntry);
+  const radius = wheelRadius(formMeta.length);
 
   const split =
     activeForm && stemEntry.forms[activeForm]
@@ -507,10 +546,10 @@ export default function HebrewVerbMap() {
 
       <section style={styles.wheelSection}>
         {!activeForm && (
-          <div style={styles.wheelWrap}>
+          <div style={{ ...styles.wheelWrap, width: 2 * radius + 80, height: 2 * radius + 80 }}>
             <div style={styles.spokesLayer} aria-hidden="true">
               {angles.map((deg, i) => (
-                <div key={i} style={{ ...styles.spoke, transform: `rotate(${deg + 90}deg)`, background: `linear-gradient(90deg, ${stemColor.color}55, transparent)` }} />
+                <div key={i} style={{ ...styles.spoke, width: radius, transform: `rotate(${deg + 90}deg)`, background: `linear-gradient(90deg, ${stemColor.color}55, transparent)` }} />
               ))}
             </div>
 
@@ -525,7 +564,6 @@ export default function HebrewVerbMap() {
             {formMeta.map((f, i) => {
               const deg = angles[i];
               const rad = (deg * Math.PI) / 180;
-              const radius = 190;
               const x = Math.cos(rad) * radius;
               const y = Math.sin(rad) * radius;
               const available = !!stemEntry.forms[f.key];
