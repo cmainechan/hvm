@@ -231,6 +231,30 @@ def test_translit_engine_matches_its_regression_fixture():
     assert not fails, f"translit.py regression mismatches: {fails}"
 
 
+@pytest.mark.parametrize("strong,data", ALL_ROOTS.items())
+def test_translit_matches_heb_for_prefixed_or_suffixed_forms(strong, data):
+    """Every `translit` value should be transliterate() run on that row's
+    own `heb` field verbatim (CLAUDE.md step 7) -- so a form with a prefix
+    (conjunction/preposition/article) or suffix (pronominal object) must
+    carry that prefix/suffix in its translit too, not a bare-form trim.
+    A retroactive audit found 1036 rows across 280 roots where the shipped
+    translit didn't match a fresh re-run once has_prefix/has_suffix is
+    true; this is the standing test that prevents that from recurring
+    silently, since the check is cheap and fully mechanical."""
+    import translit
+    for stem, stem_obj in data["stems"].items():
+        for category, rows in stem_obj["forms"].items():
+            for row in rows:
+                if not (row.get("has_prefix") or row.get("has_suffix")):
+                    continue
+                expected = translit.transliterate(row["heb"])
+                assert expected == row["translit"], (
+                    f"{strong} {stem}/{category}/{row['code']} translit "
+                    f"{row['translit']!r} doesn't match transliterate(heb) "
+                    f"{expected!r} for heb {row['heb']!r}"
+                )
+
+
 def _corpus_available():
     return (ROOT / "pipeline" / "corpus" / "morphhb" / "wlc").exists()
 
