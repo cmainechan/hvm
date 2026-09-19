@@ -548,8 +548,11 @@ export default function HebrewVerbMap() {
         {!activeForm && (
           <div style={{ ...styles.wheelWrap, width: 2 * radius + 80, height: 2 * radius + 80 }}>
             <div style={styles.spokesLayer} aria-hidden="true">
+              {/* rotate by the same angle used for the button's own cos/sin
+                  position (not deg + 90 -- that was a stray 90° offset that
+                  pointed every spoke a quarter-turn away from its button) */}
               {angles.map((deg, i) => (
-                <div key={i} style={{ ...styles.spoke, width: radius, transform: `rotate(${deg + 90}deg)`, background: `linear-gradient(90deg, ${stemColor.color}55, transparent)` }} />
+                <div key={i} style={{ ...styles.spoke, width: radius, transform: `rotate(${deg}deg)`, background: `linear-gradient(90deg, ${stemColor.color}55, transparent)` }} />
               ))}
             </div>
 
