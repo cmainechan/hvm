@@ -31,7 +31,7 @@
       "code": "1cs",
       "label": "1st sg.",
       "heb": "וְעָבַדְתִּי",
-      "translit": "avadti",
+      "translit": "v'avadti",
       "ref": "2Sam.15.8",
       "has_suffix": false,
       "has_prefix": true
@@ -51,7 +51,7 @@
       "code": "3mp",
       "label": "3rd masc. pl.",
       "heb": "וַיַּֽעַבְדֻהוּ",
-      "translit": "vayya'avdu",
+      "translit": "vayya'avduhu",
       "ref": "1Chr.19.19",
       "has_suffix": true,
       "has_prefix": false
@@ -89,7 +89,7 @@
       "code": "mp",
       "label": "masc. pl.",
       "heb": "וְעֹבְדִים",
-      "translit": "ovdim",
+      "translit": "v'ovdim",
       "ref": "1Kgs.5.1",
       "has_suffix": false,
       "has_prefix": true
@@ -109,7 +109,7 @@
       "code": "1cp",
       "label": "1st pl.",
       "heb": "וְנַעַבְדֶֽךָּ",
-      "translit": "na'avod",
+      "translit": "vna'avdekka",
       "ref": "1Kgs.12.4",
       "has_suffix": true,
       "has_prefix": true
@@ -127,7 +127,7 @@
       "code": "3ms",
       "label": "3rd masc. sg.",
       "heb": "יַעַבְדֶנּוּ",
-      "translit": "ya'avod",
+      "translit": "ya'avdennu",
       "ref": "2Kgs.10.18",
       "has_suffix": true,
       "has_prefix": false
@@ -145,7 +145,7 @@
       "code": "3mp",
       "label": "3rd masc. pl.",
       "heb": "יַעַבְדֻֽנִי",
-      "translit": "ya'avdu",
+      "translit": "ya'avduni",
       "ref": "2Sam.22.44",
       "has_suffix": true,
       "has_prefix": false
@@ -174,7 +174,7 @@
       "code": "2ms",
       "label": "2nd masc. sg.",
       "heb": "וַֽעֲבַדְתָּם",
-      "translit": "v'avadta",
+      "translit": "va'avadtam",
       "ref": "1Kgs.12.7",
       "has_suffix": true,
       "has_prefix": false
@@ -192,7 +192,7 @@
       "code": "3ms",
       "label": "3rd masc. sg.",
       "heb": "וַעֲבָֽדְךָ",
-      "translit": "v'avad",
+      "translit": "va'avadkha",
       "ref": "Deut.15.12",
       "has_suffix": true,
       "has_prefix": false
@@ -203,7 +203,7 @@
       "code": "2ms",
       "label": "2nd masc. sg.",
       "heb": "וְעָבְדֵהוּ",
-      "translit": "avod",
+      "translit": "v'avdehu",
       "ref": "1Chr.28.9",
       "has_suffix": true,
       "has_prefix": true
@@ -212,7 +212,7 @@
       "code": "2mp",
       "label": "2nd masc. pl.",
       "heb": "וְעִבְדֻהוּ",
-      "translit": "ivdu",
+      "translit": "v'ivduhu",
       "ref": "1Sam.7.3",
       "has_suffix": true,
       "has_prefix": true
@@ -223,7 +223,7 @@
       "code": "inf",
       "label": "infinitive",
       "heb": "לַעֲבוֹד",
-      "translit": "avod",
+      "translit": "la'avod",
       "ref": "2Chr.33.16",
       "has_suffix": false,
       "has_prefix": true

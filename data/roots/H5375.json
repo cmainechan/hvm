@@ -143,7 +143,7 @@
       "code": "mp",
       "label": "masc. pl.",
       "heb": "הַנֹּשְׂאִים",
-      "translit": "nos'im",
+      "translit": "hannos'im",
       "ref": "1Chr.15.27",
       "has_suffix": false,
       "has_prefix": true
@@ -192,7 +192,7 @@
       "code": "3mp",
       "label": "3rd masc. pl.",
       "heb": "יִשָּׂאוּם",
-      "translit": "yis'u",
+      "translit": "yissa'um",
       "ref": "1Kgs.14.28",
       "has_suffix": true,
       "has_prefix": false
@@ -201,7 +201,7 @@
       "code": "3ms",
       "label": "3rd masc. sg.",
       "heb": "יִֽשָּׂאֲךָ",
-      "translit": "yissa",
+      "translit": "yissa'akha",
       "ref": "1Kgs.18.12",
       "has_suffix": true,
       "has_prefix": false
@@ -237,7 +237,7 @@
       "code": "3fs",
       "label": "3rd fem. sg.",
       "heb": "תִּשָּׂאֵֽם",
-      "translit": "tissa",
+      "translit": "tissa'em",
       "ref": "Isa.40.24",
       "has_suffix": true,
       "has_prefix": false
@@ -266,7 +266,7 @@
       "code": "3cp",
       "label": "3rd pl.",
       "heb": "וּנְשָׂאוּם",
-      "translit": "vnas'u",
+      "translit": "unsa'um",
       "ref": "2Chr.12.11",
       "has_suffix": true,
       "has_prefix": false
@@ -333,7 +333,7 @@
       "code": "inf",
       "label": "infinitive",
       "heb": "לָשֵׂאת",
-      "translit": "s'et",
+      "translit": "lase't",
       "ref": "1Chr.15.2",
       "has_suffix": false,
       "has_prefix": true
@@ -430,7 +430,7 @@
       "code": "ms",
       "label": "masc. sg.",
       "heb": "וְנִשָּׂא",
-      "translit": "nissa",
+      "translit": "vnissa",
       "ref": "Isa.2.2",
       "has_suffix": false,
       "has_prefix": true

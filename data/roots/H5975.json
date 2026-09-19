@@ -125,7 +125,7 @@
       "code": "mp",
       "label": "masc. pl.",
       "heb": "הָעֹמְדִים",
-      "translit": "omdim",
+      "translit": "ha'omdim",
       "ref": "1Chr.6.18",
       "has_suffix": false,
       "has_prefix": true
@@ -134,7 +134,7 @@
       "code": "ms",
       "label": "masc. sg.",
       "heb": "הָעֹמֵד",
-      "translit": "omed",
+      "translit": "ha'omed",
       "ref": "1Chr.6.24",
       "has_suffix": false,
       "has_prefix": true
@@ -152,7 +152,7 @@
       "code": "fp",
       "label": "fem. pl.",
       "heb": "הָעֹמְדוֹת",
-      "translit": "omdot",
+      "translit": "ha'omdot",
       "ref": "Jer.44.15",
       "has_suffix": false,
       "has_prefix": true
@@ -208,7 +208,7 @@
       "code": "2ms",
       "label": "2nd masc. sg.",
       "heb": "וְתַעֲמֹד",
-      "translit": "ta'amod",
+      "translit": "vta'amod",
       "ref": "Dan.12.13",
       "has_suffix": false,
       "has_prefix": true
@@ -322,7 +322,7 @@
       "code": "inf",
       "label": "infinitive",
       "heb": "וְלַעֲמֹד",
-      "translit": "amod",
+      "translit": "vla'amod",
       "ref": "1Chr.23.30",
       "has_suffix": false,
       "has_prefix": true
@@ -455,7 +455,7 @@
       "code": "3ms",
       "label": "3rd masc. sg.",
       "heb": "וַיַּעֲמִידֶהָ",
-      "translit": "vayya'amed",
+      "translit": "vayya'amideha",
       "ref": "1Chr.16.17",
       "has_suffix": true,
       "has_prefix": false
@@ -504,7 +504,7 @@
       "code": "3ms",
       "label": "3rd masc. sg.",
       "heb": "יַעֲמִדֵֽנִי",
-      "translit": "ya'amid",
+      "translit": "ya'amideni",
       "ref": "2Sam.22.34",
       "has_suffix": true,
       "has_prefix": false
@@ -544,7 +544,7 @@
       "code": "2ms",
       "label": "2nd masc. sg.",
       "heb": "וְהַעֲמִידֶהָ",
-      "translit": "ha'amed",
+      "translit": "vha'amideha",
       "ref": "Ezek.24.11",
       "has_suffix": true,
       "has_prefix": true
