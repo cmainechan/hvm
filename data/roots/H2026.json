@@ -13,7 +13,7 @@
       "code": "3cp",
       "label": "3rd pl.",
       "heb": "וַהֲרָגוּם",
-      "translit": "hargu",
+      "translit": "vaharagum",
       "ref": "1Chr.7.21",
       "has_suffix": true,
       "has_prefix": true
@@ -31,7 +31,7 @@
       "code": "1cs",
       "label": "1st sg.",
       "heb": "הֲרַגְתִּיךָ",
-      "translit": "haragti",
+      "translit": "haragtikha",
       "ref": "1Sam.24.12",
       "has_suffix": true,
       "has_prefix": false
@@ -40,7 +40,7 @@
       "code": "2ms",
       "label": "2nd masc. sg.",
       "heb": "הֲרַגְתָּֽנִי",
-      "translit": "haragta",
+      "translit": "haragtani",
       "ref": "1Sam.24.19",
       "has_suffix": true,
       "has_prefix": false
@@ -49,7 +49,7 @@
       "code": "3fs",
       "label": "3rd fem. sg.",
       "heb": "וַהֲרָגָתַם",
-      "translit": "haragathu",
+      "translit": "vaharagatam",
       "ref": "Amos.9.4",
       "has_suffix": true,
       "has_prefix": true
@@ -78,7 +78,7 @@
       "code": "3ms",
       "label": "3rd masc. sg.",
       "heb": "וַיַּהַרְגֵהוּ",
-      "translit": "vayyaharog",
+      "translit": "vayyahargehu",
       "ref": "1Chr.11.23",
       "has_suffix": true,
       "has_prefix": false
@@ -87,7 +87,7 @@
       "code": "3mp",
       "label": "3rd masc. pl.",
       "heb": "וַיַּֽהַרְגֻהוּ",
-      "translit": "vayyahargu",
+      "translit": "vayyaharguhu",
       "ref": "2Chr.24.25",
       "has_suffix": true,
       "has_prefix": false
@@ -136,7 +136,7 @@
       "code": "mp",
       "label": "masc. pl.",
       "heb": "הַֽהֲרוּגִים",
-      "translit": "harugim",
+      "translit": "haharugim",
       "ref": "Esth.9.11",
       "has_suffix": false,
       "has_prefix": true
@@ -221,7 +221,7 @@
       "code": "3ms",
       "label": "3rd masc. sg.",
       "heb": "וַהֲרָגָנִי",
-      "translit": "vharag",
+      "translit": "vaharagani",
       "ref": "1Kgs.18.12",
       "has_suffix": true,
       "has_prefix": false
@@ -259,7 +259,7 @@
       "code": "2mp",
       "label": "2nd masc. pl.",
       "heb": "וְהִרְגוּ",
-      "translit": "hirgu",
+      "translit": "vhirgu",
       "ref": "Exod.32.27",
       "has_suffix": false,
       "has_prefix": true
@@ -279,7 +279,7 @@
       "code": "inf",
       "label": "infinitive",
       "heb": "בַּהֲרֹג",
-      "translit": "laharog",
+      "translit": "baharog",
       "ref": "1Kgs.11.24",
       "has_suffix": false,
       "has_prefix": true
