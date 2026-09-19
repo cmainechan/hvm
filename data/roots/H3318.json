@@ -125,7 +125,7 @@
       "code": "fs",
       "label": "fem. sg.",
       "heb": "וְהַיֹּצֵאת",
-      "translit": "yotze't",
+      "translit": "vhayyotze't",
       "ref": "1Chr.27.1",
       "has_suffix": false,
       "has_prefix": true
@@ -380,7 +380,7 @@
       "code": "1cp",
       "label": "1st pl.",
       "heb": "וְנֵצֵא",
-      "translit": "netze",
+      "translit": "vnetze",
       "ref": "1Kgs.20.31",
       "has_suffix": false,
       "has_prefix": true
@@ -509,7 +509,7 @@
       "code": "1cs",
       "label": "1st sg.",
       "heb": "וָאֽוֹצִיאֵם",
-      "translit": "va'otzi",
+      "translit": "va'otzi'em",
       "ref": "Ezek.20.10",
       "has_suffix": true,
       "has_prefix": false
@@ -538,7 +538,7 @@
       "code": "ms",
       "label": "masc. sg.",
       "heb": "הַמּוֹצִיא",
-      "translit": "motzi",
+      "translit": "hammotzi",
       "ref": "1Chr.11.2",
       "has_suffix": false,
       "has_prefix": true
@@ -547,7 +547,7 @@
       "code": "mp",
       "label": "masc. pl.",
       "heb": "וּמוֹצִיאִים",
-      "translit": "motzi'im",
+      "translit": "umotzi'im",
       "ref": "2Chr.9.28",
       "has_suffix": false,
       "has_prefix": true
@@ -558,7 +558,7 @@
       "code": "3mp",
       "label": "3rd masc. pl.",
       "heb": "יוֹצִיאֽוּם",
-      "translit": "yotzi'u",
+      "translit": "otzi'um",
       "ref": "1Chr.9.28",
       "has_suffix": true,
       "has_prefix": false
@@ -623,7 +623,7 @@
       "code": "2ms",
       "label": "2nd masc. sg.",
       "heb": "וְהוֹצֵאתַנִי",
-      "translit": "vhotze'ta",
+      "translit": "vhotze'tani",
       "ref": "2Chr.18.33",
       "has_suffix": true,
       "has_prefix": false
@@ -670,7 +670,7 @@
       "code": "2mp",
       "label": "2nd masc. pl.",
       "heb": "וְהוֹצִיאֻהוּ",
-      "translit": "hotzi'u",
+      "translit": "vhotzi'uhu",
       "ref": "1Kgs.21.10",
       "has_suffix": true,
       "has_prefix": true
@@ -679,7 +679,7 @@
       "code": "2ms",
       "label": "2nd masc. sg.",
       "heb": "וְהוֹצִיאֵנִי",
-      "translit": "hotze",
+      "translit": "vhotzi'eni",
       "ref": "1Kgs.22.34",
       "has_suffix": true,
       "has_prefix": true
@@ -699,7 +699,7 @@
       "code": "inf",
       "label": "infinitive",
       "heb": "בְּהוֹצִיאוֹ",
-      "translit": "hotzi",
+      "translit": "bhotzi'o",
       "ref": "1Kgs.8.21",
       "has_suffix": true,
       "has_prefix": true

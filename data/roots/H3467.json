@@ -62,7 +62,7 @@
       "code": "1cp",
       "label": "1st pl.",
       "heb": "וְנִוָּשֵֽׁעַ",
-      "translit": "vnivvashe'a",
+      "translit": "vnivvashea",
       "ref": "Isa.64.4",
       "has_suffix": false,
       "has_prefix": true
@@ -111,7 +111,7 @@
       "code": "2mp",
       "label": "2nd masc. pl.",
       "heb": "וְהִוָּשְׁעוּ",
-      "translit": "vhivvash'u",
+      "translit": "vhivvashu",
       "ref": "Isa.45.22",
       "has_suffix": false,
       "has_prefix": true
@@ -148,7 +148,7 @@
       "code": "3ms",
       "label": "3rd masc. sg.",
       "heb": "וְהוֹשִׁיעַ",
-      "translit": "hoshi'a",
+      "translit": "vhoshia",
       "ref": "1Sam.9.16",
       "has_suffix": false,
       "has_prefix": true
@@ -157,7 +157,7 @@
       "code": "1cs",
       "label": "1st sg.",
       "heb": "וְהוֹשַׁעְתִּי",
-      "translit": "vhosha'ti",
+      "translit": "vhoshati",
       "ref": "Isa.43.12",
       "has_suffix": false,
       "has_prefix": true
@@ -213,7 +213,7 @@
       "code": "3mp",
       "label": "3rd masc. pl.",
       "heb": "וַיּוֹשִׁיעוּם",
-      "translit": "vayyoshi'um",
+      "translit": "vayyoshium",
       "ref": "Judg.2.16",
       "has_suffix": true,
       "has_prefix": false
@@ -253,7 +253,7 @@
       "code": "3ms",
       "label": "3rd masc. sg.",
       "heb": "וְיֹשִׁעֵנוּ",
-      "translit": "yoshi'a",
+      "translit": "vyoshi'enu",
       "ref": "1Sam.4.3",
       "has_suffix": true,
       "has_prefix": true
@@ -262,7 +262,7 @@
       "code": "2ms",
       "label": "2nd masc. sg.",
       "heb": "וְתוֹשִֽׁיעַ",
-      "translit": "toshi'a",
+      "translit": "vtoshia",
       "ref": "2Chr.20.9",
       "has_suffix": false,
       "has_prefix": true
@@ -271,7 +271,7 @@
       "code": "1cs",
       "label": "1st sg.",
       "heb": "אֽוֹשִׁיעֵךְ",
-      "translit": "oshi'a",
+      "translit": "oshi'ekh",
       "ref": "2Kgs.6.27",
       "has_suffix": true,
       "has_prefix": false
@@ -280,7 +280,7 @@
       "code": "3mp",
       "label": "3rd masc. pl.",
       "heb": "יוֹשִׁיעוּךָ",
-      "translit": "yoshi'u",
+      "translit": "oshiukha",
       "ref": "Jer.2.28",
       "has_suffix": true,
       "has_prefix": false
@@ -309,7 +309,7 @@
       "code": "1cs",
       "label": "1st sg.",
       "heb": "וְהוֹשַׁעְתִּֽיךָ",
-      "translit": "vhosha'ti",
+      "translit": "vhoshatikha",
       "ref": "1Chr.19.12",
       "has_suffix": true,
       "has_prefix": false
@@ -327,7 +327,7 @@
       "code": "3ms",
       "label": "3rd masc. sg.",
       "heb": "וְהֽוֹשִׁיעָם",
-      "translit": "vhoshi'a",
+      "translit": "vhoshi'am",
       "ref": "Judg.2.18",
       "has_suffix": true,
       "has_prefix": false
@@ -338,7 +338,7 @@
       "code": "2ms",
       "label": "2nd masc. sg.",
       "heb": "הוֹשִׁיעֵנוּ",
-      "translit": "hosha",
+      "translit": "hoshi'enu",
       "ref": "1Chr.16.35",
       "has_suffix": true,
       "has_prefix": false
@@ -349,7 +349,7 @@
       "code": "inf",
       "label": "infinitive",
       "heb": "לְהוֹשִׁיעַ",
-      "translit": "lhoshi'a",
+      "translit": "lhoshia",
       "ref": "1Chr.19.19",
       "has_suffix": false,
       "has_prefix": true
@@ -360,7 +360,7 @@
       "code": "inf",
       "label": "infinitive",
       "heb": "וְהוֹשֵׁעַ",
-      "translit": "vhoshe'a",
+      "translit": "vhoshea",
       "ref": "1Sam.25.26",
       "has_suffix": false,
       "has_prefix": true
@@ -371,7 +371,7 @@
       "code": "3ms",
       "label": "3rd masc. sg.",
       "heb": "וְיֹשִׁעֵנוּ",
-      "translit": "yoshi'ekh",
+      "translit": "vyoshi'enu",
       "ref": "1Sam.7.8",
       "has_suffix": true,
       "has_prefix": true
@@ -380,7 +380,7 @@
       "code": "3mp",
       "label": "3rd masc. pl.",
       "heb": "וְיוֹשִׁיעֻךְ",
-      "translit": "vyoshi'ukh",
+      "translit": "voshi'ukh",
       "ref": "Isa.47.13",
       "has_suffix": true,
       "has_prefix": true

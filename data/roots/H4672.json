@@ -22,7 +22,7 @@
       "code": "2ms",
       "label": "2nd masc. sg.",
       "heb": "הַֽמְצָאתַנִי",
-      "translit": "matza'ta",
+      "translit": "hamtza'tani",
       "ref": "1Kgs.21.20",
       "has_suffix": true,
       "has_prefix": true
@@ -58,7 +58,7 @@
       "code": "3fs",
       "label": "3rd fem. sg.",
       "heb": "מְצָאָתַם",
-      "translit": "matz'ah",
+      "translit": "mtza'atam",
       "ref": "Exod.18.8",
       "has_suffix": true,
       "has_prefix": false
@@ -96,7 +96,7 @@
       "code": "3ms",
       "label": "3rd masc. sg.",
       "heb": "וַֽיִּמְצָאָהּ",
-      "translit": "vayyimtza",
+      "translit": "vayyimtza'ahh",
       "ref": "1Chr.20.2",
       "has_suffix": true,
       "has_prefix": false
@@ -172,7 +172,7 @@
       "code": "3ms",
       "label": "3rd masc. sg.",
       "heb": "יִמְצָאֶֽכָּה",
-      "translit": "yimtza",
+      "translit": "yimtza'ekkah",
       "ref": "1Kgs.18.10",
       "has_suffix": true,
       "has_prefix": false
@@ -199,7 +199,7 @@
       "code": "3mp",
       "label": "3rd masc. pl.",
       "heb": "וְיִמְצְאוּ",
-      "translit": "yimtz'u",
+      "translit": "vyimtz'u",
       "ref": "1Sam.25.8",
       "has_suffix": false,
       "has_prefix": true
@@ -246,7 +246,7 @@
       "code": "3cp",
       "label": "3rd pl.",
       "heb": "וּמְצָאוּךָ",
-      "translit": "umatz'u",
+      "translit": "umtza'ukha",
       "ref": "1Sam.10.3",
       "has_suffix": true,
       "has_prefix": false
@@ -264,7 +264,7 @@
       "code": "3ms",
       "label": "3rd masc. sg.",
       "heb": "וּמְצָאָנוּ",
-      "translit": "umatza",
+      "translit": "umtza'anu",
       "ref": "2Kgs.7.9",
       "has_suffix": true,
       "has_prefix": false
@@ -313,7 +313,7 @@
       "code": "inf",
       "label": "infinitive",
       "heb": "לִמְצֹא",
-      "translit": "mtzo",
+      "translit": "limtzo",
       "ref": "Eccl.7.27",
       "has_suffix": false,
       "has_prefix": true
@@ -419,7 +419,7 @@
       "code": "ms",
       "label": "masc. sg.",
       "heb": "וְהַנִּמְצָא",
-      "translit": "nimtza",
+      "translit": "vhannimtza",
       "ref": "1Chr.29.8",
       "has_suffix": false,
       "has_prefix": true
