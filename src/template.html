@@ -571,12 +571,12 @@ function render() {
   const legendBox = el("div", styles.legendBox);
   const legendTitle = el("span", styles.legendTitle);
   const occCount = ROOT_OCCURRENCES[state.activeRoot];
-  legendTitle.append("Binyan legend — ");
   // bdi isolates the Hebrew root's RTL directionality so it doesn't reorder
   // the neutral punctuation/digits that follow it (e.g. the " — 11" after
   // the root visually scrambling without this)
   const rootBdi = el("bdi"); rootBdi.textContent = state.activeRoot;
   legendTitle.appendChild(rootBdi);
+  legendTitle.append(" — Strong's " + rootEntry.strong);
   if (occCount != null) {
     legendTitle.append(" — " + occCount + " occurrence" + (occCount === 1 ? "" : "s"));
   }
