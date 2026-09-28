@@ -574,9 +574,9 @@ function render() {
   // bdi isolates the Hebrew root's RTL directionality so it doesn't reorder
   // the neutral punctuation/digits that follow it (e.g. the " — 11" after
   // the root visually scrambling without this)
+  legendTitle.append(rootEntry.strong + " — ");
   const rootBdi = el("bdi"); rootBdi.textContent = state.activeRoot;
   legendTitle.appendChild(rootBdi);
-  legendTitle.append(" — Strong's " + rootEntry.strong);
   if (occCount != null) {
     legendTitle.append(" — " + occCount + " occurrence" + (occCount === 1 ? "" : "s"));
   }

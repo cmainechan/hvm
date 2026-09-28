@@ -510,7 +510,7 @@ export default function HebrewVerbMap() {
           {/* bdi isolates the Hebrew root's RTL directionality so it doesn't
               reorder the neutral punctuation/digits that follow it (e.g. the
               " — 11" after the root visually scrambling without this) */}
-          <bdi>{activeRoot}</bdi> — Strong's {rootEntry.strong}
+          {rootEntry.strong} — <bdi>{activeRoot}</bdi>
           {ROOT_OCCURRENCES[activeRoot] != null
             ? ` — ${ROOT_OCCURRENCES[activeRoot]} occurrence${ROOT_OCCURRENCES[activeRoot] === 1 ? "" : "s"}`
             : ""}
