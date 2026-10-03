@@ -152,6 +152,39 @@ def strip_redundant_ketivs(vtext):
     return _KETIV_RUN_NOTE_RE.sub(run_repl, vtext)
 
 
+# The WLC's own `osisID` uses Hebrew (MT) verse numbering, which diverges
+# from the conventional English/KJV numbering wherever a psalm's
+# superscription is counted as part of (or all of) verse 1 in Hebrew but
+# isn't numbered in English -- shifting every subsequent verse in that
+# psalm by one relative to English translations. (Similar divergences
+# happen in scattered spots in other books too.) The WLC marks every such
+# spot inline with `<note>KJV:...</note>`, giving the correct
+# English-equivalent reference for everything from that point in the verse
+# onward. A flat per-verse lookup isn't enough, though: Ps.13.6 carries TWO
+# such notes (KJV:Ps.13.5, then later in the same verse, KJV:Ps.13.6) --
+# H982's qal perfect 1cs בָטַחְתִּי sits before the second note and must
+# resolve to Ps.13.5, not Ps.13.6. `_ref_at` resolves each word by its own
+# offset into the verse text against whichever note most recently preceded
+# it (or the verse's own osisID, if none has yet).
+_KJV_NOTE_RE = re.compile(r'<note>KJV:([^<]+)</note>')
+
+
+def _kjv_ref_segments(vid, vtext):
+    segs = [(0, vid)]
+    for m in _KJV_NOTE_RE.finditer(vtext):
+        segs.append((m.end(), m.group(1)))
+    return segs
+
+
+def _ref_at(segs, offset):
+    ref = segs[0][1]
+    for start, r in segs:
+        if start > offset:
+            break
+        ref = r
+    return ref
+
+
 def lemma_matches(lemma_attr, target_numbers):
     """Requirement 2: compound lemma parsing, strip homonym letters."""
     parts = re.split(r'[/\s]+', lemma_attr.strip())
@@ -264,6 +297,7 @@ def scan_root(target_numbers, verbose=True):
         for vm in re.finditer(r'<verse osisID="([^"]+)">(.*?)</verse>', data, re.S):
             vid = vm.group(1)
             vtext = strip_redundant_ketivs(vm.group(2))
+            ref_segs = _kjv_ref_segments(vid, vtext)
             for wm in re.finditer(r'<w [^>]*?lemma="([^"]*)"[^>]*morph="([^"]*)"[^>]*>([^<]*)</w>', vtext):
                 lemma, morph, heb = wm.groups()
                 if not lemma_matches(lemma, target_numbers):
@@ -291,7 +325,7 @@ def scan_root(target_numbers, verbose=True):
                         continue
                 has_prefix = compute_has_prefix(parsed['prefix_segs'], category)
                 records.append({
-                    'ref': vid,
+                    'ref': _ref_at(ref_segs, wm.start()),
                     'heb_raw': heb,
                     'heb': clean_heb(heb),
                     'morph': morph,
@@ -322,6 +356,7 @@ def scan_all(target_numbers, verbose=True):
         for vm in re.finditer(r'<verse osisID="([^"]+)">(.*?)</verse>', data, re.S):
             vid = vm.group(1)
             vtext = strip_redundant_ketivs(vm.group(2))
+            ref_segs = _kjv_ref_segments(vid, vtext)
             for wm in re.finditer(r'<w [^>]*?lemma="([^"]*)"[^>]*morph="([^"]*)"[^>]*>([^<]*)</w>', vtext):
                 lemma, morph, heb = wm.groups()
                 num = None
@@ -353,7 +388,7 @@ def scan_all(target_numbers, verbose=True):
                     continue
                 has_prefix = compute_has_prefix(parsed['prefix_segs'], category)
                 records_by_number[num].append({
-                    'ref': vid, 'heb': clean_heb(heb), 'morph': morph,
+                    'ref': _ref_at(ref_segs, wm.start()), 'heb': clean_heb(heb), 'morph': morph,
                     'stem': stem_name, 'category': category, 'code': pgn['code'],
                     'has_prefix': has_prefix, 'has_suffix': parsed['has_suffix'],
                 })
