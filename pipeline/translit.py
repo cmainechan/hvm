@@ -30,11 +30,24 @@ Deliberately a *simplified* transliteration, not full academic IPA:
   shva (a closed syllable) is also lene, not forte -- it only doubles
   when the letter before it actually sounded a vowel.
 - Vav/yod act as vowel letters (matres lectionis) in the usual contexts:
-  vav+holam = "o", vav+dagesh-alone = shuruq "u", bare yod immediately
-  contributes nothing (long-hiriq mater). A vav or yod carrying its own
-  vowel point is a full consonant ("v"/"y" + that vowel). A bare yod
-  carrying only a dagesh (e.g. the geminated yod after the definite
-  article, הַיּוֹרְדוֹת) is a real consonant, not a silent mater.
+  vav+holam = "o", vav+dagesh-alone = shuruq "u". A bare (unmarked) yod
+  immediately following a HIRIQ or TSERE/SEGOL sound (on the letter right
+  before it) contributes nothing -- the long-i/long-e mater pattern
+  (עִיר "ir", הַכֵּינִי "hakkeni") -- whether that yod is word-final or
+  medial. A bare yod following any other vowel (or nothing at all, e.g.
+  word-initial) isn't filling a mater role and is a real consonant with
+  no vowel of its own instead: shuruq/qubuts already has its own mater
+  (vav), so a bare yod right after it is a separate sounding "y", as in
+  the qal passive participle's "-uy" ending (גָּלוּי "galuy", not "galu");
+  qamats/patach/cholam don't have a yod-mater convention in Hebrew at
+  all, so e.g. the "אָיו"-type sequence in an attested verb form like
+  וַיֶּאֱתָיוּן sounds its yod too ("vayye'etayun", not "vayye'etaun").
+  A vav or yod carrying its own vowel point is a full consonant ("v"/"y"
+  + that vowel). A bare yod carrying only a dagesh (e.g. the geminated
+  yod after the definite article, הַיּוֹרְדוֹת) is a real consonant, not
+  a silent mater. A bare (unmarked) vav, with none of the above marks at
+  all, stays silent -- the common 1cs-perfect-plus-3ms-object-suffix
+  pattern (e.g. אֲחַזְתִּיו "achazti") depends on this.
 - Word-final heh: with mappiq (dagesh) -> doubled "hh" (plus any vowel,
   including a furtive patah, appended literally after -- no phonetic
   reordering); without mappiq (a plain vowel-marking final heh, e.g. the
@@ -145,6 +158,11 @@ def transliterate(word):
     # shva (or another silent letter), a dagesh just selects the hard
     # begadkefat sound (dagesh lene) and does not double.
     prev_had_vowel = False
+    # The specific vowel sound ('i', 'a', 'u', ...) that just sounded, if
+    # any -- distinguishes the legitimate hiriq-male mater (bare yod right
+    # after a hiriq) from a bare yod after some other vowel, which isn't a
+    # silent-mater context at all (see the yod branch below).
+    prev_vowel_sound = ''
 
     for letter, marks, is_last, is_first in _letters_with_marks(word):
         has_dagesh = DAGESH in marks
@@ -174,23 +192,33 @@ def transliterate(word):
                 out.append('v')
             # else: bare vav, silent -- this_had_vowel stays False
             prev_had_vowel = this_had_vowel
+            prev_vowel_sound = vowel if this_had_vowel else ''
             continue
 
         if letter in ('י',):
             if not marks:
-                if prev_had_vowel:
-                    pass  # bare yod: silent mater -- but the vowel it
-                    # carries (e.g. a preceding hiriq) is still "sounding"
-                    # through it
-                    this_had_vowel = prev_had_vowel
+                if prev_vowel_sound in ('i', 'e'):
+                    pass  # bare yod: silent hiriq-male ("i", עִיר "ir") or
+                    # tsere/segol-male ("e", הַכֵּינִי "hakkeni") mater,
+                    # whether medial or word-final (לוּשִׁי "lushi") -- the
+                    # sound it carries through is the vowel that already
+                    # sounded on the letter before it. Shuruq/qubuts ("u")
+                    # and qamats/patach/cholam ("a"/"o") don't have a
+                    # yod-mater role in Hebrew at all (vav already covers
+                    # "u"/"o", and "a" uses no mater or a he/aleph one), so
+                    # a bare yod after one of those is a real consonant,
+                    # same as the else branch below.
+                    this_had_vowel = True
                 else:
-                    # A silent-mater yod always represents a vowel on the
-                    # letter immediately before it -- it can't be silent
-                    # with nothing preceding to carry through (most visibly
-                    # word-initially, e.g. יוֹם "day": a word can never
-                    # start with a silent mater). Without that, it's a real
-                    # consonant with no vowel of its own, same as the
-                    # SHEVA branch below.
+                    # Not a legitimate silent-mater context: either nothing
+                    # vowelled precedes at all (most visibly word-initial,
+                    # e.g. יוֹם "day" -- a word can't open on a silent
+                    # mater), or a *different* vowel precedes -- this bare
+                    # yod isn't continuing a hiriq, so it isn't that mater,
+                    # e.g. the qal passive participle's "-uy" ending right
+                    # after a shuruq (גָּלוּי "galuy", not "galu"). Either
+                    # way it's a real consonant with no vowel of its own,
+                    # same as the SHEVA branch below.
                     out.append('y')
                     this_had_vowel = False
             elif has_real_vowel:
@@ -210,6 +238,7 @@ def transliterate(word):
                     cons = cons[0] + cons
                 out.append(cons)
             prev_had_vowel = this_had_vowel
+            prev_vowel_sound = vowel if this_had_vowel else ''
             continue
 
         if letter in ('ה',):
@@ -233,6 +262,7 @@ def transliterate(word):
                 out.append(cons + vowel)
                 this_had_vowel = has_real_vowel
             prev_had_vowel = this_had_vowel
+            prev_vowel_sound = vowel if this_had_vowel else ''
             continue
 
         if letter == 'א':
@@ -251,6 +281,7 @@ def transliterate(word):
                 out.append("'" + vowel)
                 this_had_vowel = True
             prev_had_vowel = this_had_vowel
+            prev_vowel_sound = vowel if this_had_vowel else ''
             continue
 
         if letter == 'ע':
@@ -260,6 +291,7 @@ def transliterate(word):
                 this_had_vowel = True
             # else: bare (or only shva): silent
             prev_had_vowel = this_had_vowel
+            prev_vowel_sound = vowel if this_had_vowel else ''
             continue
 
         if letter == 'ש' and SIN_DOT in marks:
@@ -279,13 +311,14 @@ def transliterate(word):
             phon = phon[0] + phon
         out.append(phon + vowel)
         prev_had_vowel = has_real_vowel
+        prev_vowel_sound = vowel if has_real_vowel else ''
 
     return ''.join(out)
 
 
 # ---------------------------------------------------------------------
 # Regression fixture. Run `python3 pipeline/translit.py` to replay this
-# against the current code -- it should always print "40/40 matched".
+# against the current code -- it should always print "42/42 matched".
 # Most of these pairs are drawn from forms already verified and shipped
 # in the dataset in the same session that produced this engine, so
 # they're a reliable baseline for catching an accidental behavior change.
@@ -300,6 +333,13 @@ def transliterate(word):
 # mater and dropped entirely ("יוֹם" -> "om"), when a silent mater yod can
 # only ever follow -- never open -- a word, since it represents a vowel
 # that has to already be sounding on the letter before it.
+#
+# גָּלוּי ("galuy") and וַיֶּאֱתָיוּן ("vayye'etayun") are also added by
+# hand, as regression checks for a third bare-yod bug found later still: a
+# bare yod after a vowel OTHER than hiriq/tsere/segol (here shuruq and
+# qamats respectively) was also being wrongly treated as a silent mater
+# and dropped ("galuy" -> "galu", "vayye'etayun" -> "vayye'etaun"), when
+# only hiriq/tsere/segol have a yod-mater role in Hebrew at all.
 #
 # Two forms from H7582 (שאה) -- שָׁאוּ/"shau" and יִשָּׁאֽוּן/"yisshaun" --
 # are deliberately excluded: this engine now produces "sha'u" and
@@ -350,6 +390,8 @@ _REGRESSION_PAIRS = [
     ('מֵחַוֺּת', 'mechaot'),
     ('הַיּוֹרְדוֹת', 'hayyordot'),
     ('יוֹם', 'yom'),
+    ('גָּלוּי', 'galuy'),
+    ('וַיֶּאֱתָיוּן', "vayye'etayun"),
 ]
 
 if __name__ == '__main__':
