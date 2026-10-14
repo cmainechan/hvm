@@ -190,6 +190,17 @@ def transliterate(word):
             if HOLAM in marks or HOLAM_HASER_VAV in marks:
                 out.append('o')
                 this_had_vowel = True
+            elif has_dagesh and SHEVA in marks:
+                # A dagesh WITH a shva is not "dagesh-alone" -- the shva
+                # marks this as a real consonant with a (silent) vowel of
+                # its own, not a vowel letter, so it's eligible to double
+                # (dagesh forte) same as any other consonant, e.g. the
+                # geminated middle vav of a piel hollow-vav root (צִוְּתָה
+                # "tzivvtah", not "tziutah").
+                cons = 'v'
+                if may_double:
+                    cons = cons[0] + cons
+                out.append(cons)
             elif has_dagesh and not has_real_vowel:
                 out.append('u')
                 this_had_vowel = True
@@ -345,7 +356,7 @@ def transliterate(word):
 
 # ---------------------------------------------------------------------
 # Regression fixture. Run `python3 pipeline/translit.py` to replay this
-# against the current code -- it should always print "42/42 matched".
+# against the current code -- it should always print "44/44 matched".
 # Most of these pairs are drawn from forms already verified and shipped
 # in the dataset in the same session that produced this engine, so
 # they're a reliable baseline for catching an accidental behavior change.
@@ -375,6 +386,14 @@ def transliterate(word):
 # many other forms (e.g. citation forms for קרא/מצא/יצא-type roots); the
 # two stored values look like a one-off mistake from when they were first
 # shipped, not a second rule to preserve.
+#
+# צִוְּתָה ("tzivvtah") is a regression check for a vav-handling bug found
+# later still: a vav with a dagesh AND a shva (no vowel letter of its
+# own) was being treated as "dagesh-alone" and read as a bare shuruq
+# "u" ("tziutah"), when the shva actually marks it as a real consonant
+# that happens to double (dagesh forte) -- the geminated middle vav of
+# a piel hollow-vav root. Shuruq is only for a vav+dagesh with truly no
+# other mark at all.
 # ---------------------------------------------------------------------
 _REGRESSION_PAIRS = [
     ('וְקָבַע', 'vqava'),
@@ -419,6 +438,8 @@ _REGRESSION_PAIRS = [
     ('יוֹם', 'yom'),
     ('גָּלוּי', 'galuy'),
     ('וַיֶּאֱתָיוּן', "vayye'etayun"),
+    ('צִוְּתָה', 'tzivvtah'),
+    ('קִוְּתָה', 'qivvtah'),
 ]
 
 if __name__ == '__main__':
