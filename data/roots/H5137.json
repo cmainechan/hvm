@@ -16,7 +16,8 @@
       "translit": "vayyiz",
       "ref": "2Kgs.9.33",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "yizzeh",
       "ref": "Lev.6.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -44,7 +46,8 @@
       "translit": "vayyaz",
       "ref": "Lev.8.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -55,7 +58,8 @@
       "translit": "yazzeh",
       "ref": "Isa.52.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -66,7 +70,8 @@
       "translit": "vhizzah",
       "ref": "Lev.14.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -75,7 +80,8 @@
       "translit": "vhizzeta",
       "ref": "Exod.29.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -86,7 +92,8 @@
       "translit": "hazzeh",
       "ref": "Num.8.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

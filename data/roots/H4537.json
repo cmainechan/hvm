@@ -16,7 +16,8 @@
       "translit": "limsokh",
       "ref": "Isa.5.22",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "perfect": [
@@ -27,7 +28,8 @@
       "translit": "masakhti",
       "ref": "Prov.9.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -36,7 +38,8 @@
       "translit": "maskhah",
       "ref": "Prov.9.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -45,7 +48,8 @@
       "translit": "masakh",
       "ref": "Isa.19.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

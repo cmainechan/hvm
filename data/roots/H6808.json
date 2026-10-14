@@ -16,7 +16,8 @@
       "translit": "tzo'eh",
       "ref": "Isa.51.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "fs",
@@ -25,7 +26,8 @@
       "translit": "tzo'ah",
       "ref": "Jer.2.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "mp",
@@ -34,7 +36,8 @@
       "translit": "tzo'im",
       "ref": "Jer.48.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -52,7 +55,8 @@
       "translit": "vtze'uhu",
       "ref": "Jer.48.12",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

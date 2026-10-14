@@ -16,7 +16,8 @@
       "translit": "shaqqetz",
       "ref": "Deut.7.26",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -27,7 +28,8 @@
       "translit": "tshaqqtzu",
       "ref": "Lev.11.43",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "perfect": [
@@ -38,7 +40,8 @@
       "translit": "shiqqatz",
       "ref": "Ps.22.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -49,7 +52,8 @@
       "translit": "tshaqqetzu",
       "ref": "Lev.11.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -58,7 +62,8 @@
       "translit": "tshaqqtzennu",
       "ref": "Deut.7.26",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

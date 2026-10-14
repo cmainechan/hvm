@@ -17,7 +17,8 @@
       "translit": "lutah",
       "ref": "1Sam.21.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -28,7 +29,8 @@
       "translit": "hallot",
       "ref": "Isa.25.7",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -46,7 +48,8 @@
       "translit": "vayyalet",
       "ref": "1Kgs.19.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

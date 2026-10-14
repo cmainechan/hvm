@@ -16,7 +16,8 @@
       "translit": "no'ash",
       "ref": "Isa.57.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "perfect": [
@@ -27,7 +28,8 @@
       "translit": "vno'ash",
       "ref": "1Sam.27.1",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -44,7 +46,8 @@
       "translit": "lya'esh",
       "ref": "Eccl.2.20",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

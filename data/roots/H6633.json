@@ -16,7 +16,8 @@
       "translit": "tzavu",
       "ref": "Exod.38.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -27,7 +28,8 @@
       "translit": "vayyitzbu",
       "ref": "Num.31.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -38,7 +40,8 @@
       "translit": "litzbo",
       "ref": "Isa.31.4",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -49,7 +52,8 @@
       "translit": "hattzov'ot",
       "ref": "1Sam.2.22",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "mp",
@@ -58,7 +62,8 @@
       "translit": "hattzov'im",
       "ref": "Isa.29.7",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -76,7 +81,8 @@
       "translit": "hammatzbi",
       "ref": "2Kgs.25.19",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

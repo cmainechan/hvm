@@ -16,7 +16,8 @@
       "translit": "hesitkha",
       "ref": "1Sam.26.19",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -25,7 +26,8 @@
       "translit": "hesattah",
       "ref": "1Kgs.21.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -34,7 +36,8 @@
       "translit": "hissitukha",
       "ref": "Jer.38.22",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -45,7 +48,8 @@
       "translit": "vayyaset",
       "ref": "1Chr.21.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -54,7 +58,8 @@
       "translit": "vattsitehu",
       "ref": "Josh.15.18",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -63,7 +68,8 @@
       "translit": "vattsiteni",
       "ref": "Job.2.3",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -74,7 +80,8 @@
       "translit": "yassit",
       "ref": "2Kgs.18.32",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -85,7 +92,8 @@
       "translit": "yassit",
       "ref": "2Chr.32.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -96,7 +104,8 @@
       "translit": "massit",
       "ref": "2Chr.32.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

@@ -16,7 +16,8 @@
       "translit": "pachad",
       "ref": "Ps.119.161",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -25,7 +26,8 @@
       "translit": "pachadti",
       "ref": "Job.3.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -34,7 +36,8 @@
       "translit": "pachadu",
       "ref": "Isa.33.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -45,7 +48,8 @@
       "translit": "yifchad",
       "ref": "Isa.19.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -54,7 +58,8 @@
       "translit": "tifchad",
       "ref": "Deut.28.67",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -63,7 +68,8 @@
       "translit": "efchad",
       "ref": "Isa.12.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -72,7 +78,8 @@
       "translit": "yifchadu",
       "ref": "Isa.44.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -83,7 +90,8 @@
       "translit": "ufachad",
       "ref": "Isa.19.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -92,7 +100,8 @@
       "translit": "ufachadta",
       "ref": "Deut.28.66",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -101,7 +110,8 @@
       "translit": "ufachadu",
       "ref": "Hos.3.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -112,7 +122,8 @@
       "translit": "tifchadu",
       "ref": "Isa.44.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -129,7 +140,8 @@
       "translit": "vattfached",
       "ref": "Isa.51.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -140,7 +152,8 @@
       "translit": "mfached",
       "ref": "Prov.28.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -157,7 +170,8 @@
       "translit": "hifchid",
       "ref": "Job.4.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

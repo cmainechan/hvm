@@ -16,7 +16,8 @@
       "translit": "heni",
       "ref": "Num.30.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "yani",
       "ref": "Num.30.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -38,7 +40,8 @@
       "translit": "vayyaniu",
       "ref": "Num.32.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -49,7 +52,8 @@
       "translit": "yani",
       "ref": "Ps.141.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

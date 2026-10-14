@@ -16,7 +16,8 @@
       "translit": "liltosh",
       "ref": "1Sam.13.20",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "yiltosh",
       "ref": "Job.16.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -45,7 +47,8 @@
       "translit": "mluttash",
       "ref": "Ps.52.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

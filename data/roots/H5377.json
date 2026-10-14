@@ -16,7 +16,8 @@
       "translit": "nishsh'u",
       "ref": "Isa.19.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -33,7 +34,8 @@
       "translit": "hisshi'ani",
       "ref": "Gen.3.13",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -42,7 +44,8 @@
       "translit": "hishshe'ta",
       "ref": "Jer.4.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -51,7 +54,8 @@
       "translit": "hisshi'ukha",
       "ref": "Obad.1.7",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -62,7 +66,8 @@
       "translit": "hashshe",
       "ref": "Jer.4.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -73,7 +78,8 @@
       "translit": "yashshi",
       "ref": "2Chr.32.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -82,7 +88,8 @@
       "translit": "yashshi'u",
       "ref": "Jer.29.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -91,7 +98,8 @@
       "translit": "tashshi'u",
       "ref": "Jer.37.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

@@ -16,7 +16,8 @@
       "translit": "chavi",
       "ref": "Isa.26.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -34,7 +35,8 @@
       "translit": "lhechaveh",
       "ref": "1Kgs.22.25",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -45,7 +47,8 @@
       "translit": "vnachbetem",
       "ref": "Josh.2.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -54,7 +57,8 @@
       "translit": "vnechbah",
       "ref": "Jer.49.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

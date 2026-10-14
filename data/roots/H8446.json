@@ -16,7 +16,8 @@
       "translit": "tarti",
       "ref": "Eccl.2.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -25,7 +26,8 @@
       "translit": "taru",
       "ref": "Num.13.32",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -34,7 +36,8 @@
       "translit": "tartem",
       "ref": "Num.14.34",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -45,7 +48,8 @@
       "translit": "vayyaturu",
       "ref": "Num.13.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -56,7 +60,8 @@
       "translit": "vyaturu",
       "ref": "Num.13.2",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -65,7 +70,8 @@
       "translit": "taturu",
       "ref": "Num.15.39",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -76,7 +82,8 @@
       "translit": "hattarim",
       "ref": "1Kgs.10.15",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -87,7 +94,8 @@
       "translit": "latur",
       "ref": "Deut.1.33",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -104,7 +112,8 @@
       "translit": "vayyatiru",
       "ref": "Judg.1.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -115,7 +124,8 @@
       "translit": "yater",
       "ref": "Prov.12.26",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

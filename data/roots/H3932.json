@@ -16,7 +16,8 @@
       "translit": "la'agah",
       "ref": "2Kgs.19.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -27,7 +28,8 @@
       "translit": "vattil'ag",
       "ref": "Job.11.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -38,7 +40,8 @@
       "translit": "yil'ag",
       "ref": "Job.22.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -47,7 +50,8 @@
       "translit": "til'ag",
       "ref": "Prov.30.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -56,7 +60,8 @@
       "translit": "til'ag",
       "ref": "Ps.59.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -65,7 +70,8 @@
       "translit": "el'ag",
       "ref": "Prov.1.26",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -74,7 +80,8 @@
       "translit": "yil'agu",
       "ref": "Ps.80.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -85,7 +92,8 @@
       "translit": "lo'eg",
       "ref": "Jer.20.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -102,7 +110,8 @@
       "translit": "vayyal'eg",
       "ref": "Neh.4.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -111,7 +120,8 @@
       "translit": "vayyal'igu",
       "ref": "Neh.2.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -122,7 +132,8 @@
       "translit": "tal'ig",
       "ref": "Job.21.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -131,7 +142,8 @@
       "translit": "yal'igu",
       "ref": "Ps.22.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -142,7 +154,8 @@
       "translit": "umal'igim",
       "ref": "2Chr.30.10",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

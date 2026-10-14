@@ -16,7 +16,8 @@
       "translit": "amqu",
       "ref": "Ps.92.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -34,7 +35,8 @@
       "translit": "hemiqu",
       "ref": "Hos.5.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -45,7 +47,8 @@
       "translit": "hemiqu",
       "ref": "Jer.49.30",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -56,7 +59,8 @@
       "translit": "hamma'amiqim",
       "ref": "Isa.29.15",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -67,7 +71,8 @@
       "translit": "hameq",
       "ref": "Isa.7.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

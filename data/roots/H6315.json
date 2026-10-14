@@ -16,7 +16,8 @@
       "translit": "sheyyafucha",
       "ref": "Song.2.17",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -34,7 +35,8 @@
       "translit": "aficha",
       "ref": "Ezek.21.31",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -43,7 +45,8 @@
       "translit": "yafichu",
       "ref": "Prov.29.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -52,7 +55,8 @@
       "translit": "yaficha",
       "ref": "Prov.12.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -63,7 +67,8 @@
       "translit": "hafichi",
       "ref": "Song.4.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

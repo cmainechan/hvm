@@ -16,7 +16,8 @@
       "translit": "niftalti",
       "ref": "Gen.30.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -27,7 +28,8 @@
       "translit": "niftalim",
       "ref": "Job.5.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "ms",
@@ -36,7 +38,8 @@
       "translit": "niftal",
       "ref": "Prov.8.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -54,7 +57,8 @@
       "translit": "tittappal",
       "ref": "2Sam.22.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

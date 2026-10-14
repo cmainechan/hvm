@@ -17,7 +17,8 @@
       "translit": "uvolqahh",
       "ref": "Isa.24.1",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -35,7 +36,8 @@
       "translit": "umvullaqah",
       "ref": "Nah.2.10",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

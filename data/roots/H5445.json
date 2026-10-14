@@ -16,7 +16,8 @@
       "translit": "savalnu",
       "ref": "Lam.5.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "esbol",
       "ref": "Isa.46.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -38,7 +40,8 @@
       "translit": "lisbol",
       "ref": "Gen.49.15",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -55,7 +58,8 @@
       "translit": "msubbalim",
       "ref": "Ps.144.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -72,7 +76,8 @@
       "translit": "vyistabbel",
       "ref": "Eccl.12.5",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },

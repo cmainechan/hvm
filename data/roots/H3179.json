@@ -16,7 +16,8 @@
       "translit": "yicham",
       "ref": "1Kgs.1.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -27,7 +28,8 @@
       "translit": "vayyechamnah",
       "ref": "Gen.30.38",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -45,7 +47,8 @@
       "translit": "yechematni",
       "ref": "Ps.51.5",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -56,7 +59,8 @@
       "translit": "yachem",
       "ref": "Gen.30.41",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

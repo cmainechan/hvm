@@ -17,7 +17,8 @@
       "translit": "yitz'aru",
       "ref": "Jer.30.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -28,7 +29,8 @@
       "translit": "hattzo'arim",
       "ref": "Zech.13.7",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

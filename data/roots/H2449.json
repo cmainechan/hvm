@@ -16,7 +16,8 @@
       "translit": "chakham",
       "ref": "Prov.23.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -25,7 +26,8 @@
       "translit": "chakhmah",
       "ref": "Zech.9.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -34,7 +36,8 @@
       "translit": "chakhamta",
       "ref": "Prov.9.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -43,7 +46,8 @@
       "translit": "chakhamti",
       "ref": "Eccl.2.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -52,7 +56,8 @@
       "translit": "chakhmu",
       "ref": "Deut.32.29",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -63,7 +68,8 @@
       "translit": "vayyechkam",
       "ref": "1Kgs.4.31",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -74,7 +80,8 @@
       "translit": "yechkam",
       "ref": "Prov.13.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -83,7 +90,8 @@
       "translit": "techkam",
       "ref": "Prov.19.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -92,7 +100,8 @@
       "translit": "yechkamu",
       "ref": "Job.32.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -103,7 +112,8 @@
       "translit": "chakham",
       "ref": "Prov.27.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -112,7 +122,8 @@
       "translit": "vachakhamu",
       "ref": "Prov.8.33",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -123,7 +134,8 @@
       "translit": "echkamah",
       "ref": "Eccl.7.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -140,7 +152,8 @@
       "translit": "ychakkem",
       "ref": "Ps.105.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -149,7 +162,8 @@
       "translit": "tchakkmeni",
       "ref": "Ps.119.98",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -166,7 +180,8 @@
       "translit": "mchukkamim",
       "ref": "Prov.30.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -183,7 +198,8 @@
       "translit": "titchakkam",
       "ref": "Eccl.7.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -194,7 +210,8 @@
       "translit": "nitchakkmah",
       "ref": "Exod.1.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

@@ -16,7 +16,8 @@
       "translit": "vayyaqveni",
       "ref": "Gen.27.36",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "perfect": [
@@ -27,7 +28,8 @@
       "translit": "aqav",
       "ref": "Hos.12.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -38,7 +40,8 @@
       "translit": "aqov",
       "ref": "Jer.9.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -49,7 +52,8 @@
       "translit": "yaqov",
       "ref": "Jer.9.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -67,7 +71,8 @@
       "translit": "y'aqqvem",
       "ref": "Job.37.4",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

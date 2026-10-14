@@ -16,7 +16,8 @@
       "translit": "dan",
       "ref": "Jer.22.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -25,7 +26,8 @@
       "translit": "danu",
       "ref": "Jer.5.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -36,7 +38,8 @@
       "translit": "yadin",
       "ref": "1Sam.2.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -45,7 +48,8 @@
       "translit": "tadin",
       "ref": "Zech.3.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -56,7 +60,8 @@
       "translit": "vdin",
       "ref": "Prov.31.9",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -65,7 +70,8 @@
       "translit": "dinu",
       "ref": "Jer.21.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -76,7 +82,8 @@
       "translit": "dan",
       "ref": "Gen.15.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -87,7 +94,8 @@
       "translit": "ladin",
       "ref": "Eccl.6.10",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -105,7 +113,8 @@
       "translit": "nadon",
       "ref": "2Sam.19.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

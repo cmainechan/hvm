@@ -16,7 +16,8 @@
       "translit": "hittzigani",
       "ref": "Jer.51.34",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -27,7 +28,8 @@
       "translit": "vayyatztzeg",
       "ref": "Gen.30.38",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -36,7 +38,8 @@
       "translit": "vayyatztzigu",
       "ref": "1Chr.16.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -47,7 +50,8 @@
       "translit": "tatztzig",
       "ref": "Judg.7.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -58,7 +62,8 @@
       "translit": "vhittzagti",
       "ref": "Gen.43.9",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -69,7 +74,8 @@
       "translit": "vhattzigu",
       "ref": "Amos.5.15",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -80,7 +86,8 @@
       "translit": "atztzigah",
       "ref": "Gen.33.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -91,7 +98,8 @@
       "translit": "matztzig",
       "ref": "Judg.6.37",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -102,7 +110,8 @@
       "translit": "hatztzeg",
       "ref": "Deut.28.56",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -120,7 +129,8 @@
       "translit": "yutztzag",
       "ref": "Exod.10.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

@@ -16,7 +16,8 @@
       "translit": "kozev",
       "ref": "Ps.116.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -33,7 +34,8 @@
       "translit": "nikhzavah",
       "ref": "Job.41.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -44,7 +46,8 @@
       "translit": "vnikhzavta",
       "ref": "Prov.30.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -61,7 +64,8 @@
       "translit": "kizzev",
       "ref": "Mic.2.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -72,7 +76,8 @@
       "translit": "akhazzev",
       "ref": "Job.34.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -81,7 +86,8 @@
       "translit": "tkhazzevi",
       "ref": "Isa.57.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -90,7 +96,8 @@
       "translit": "ykhazzvu",
       "ref": "Isa.58.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -99,7 +106,8 @@
       "translit": "ykhazzev",
       "ref": "Hab.2.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -110,7 +118,8 @@
       "translit": "bkhazzevkhem",
       "ref": "Ezek.13.19",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -121,7 +130,8 @@
       "translit": "tkhazzev",
       "ref": "2Kgs.4.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -139,7 +149,8 @@
       "translit": "yakhziveni",
       "ref": "Job.24.25",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

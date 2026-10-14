@@ -16,7 +16,8 @@
       "translit": "bazu",
       "ref": "Prov.1.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "yavuz",
       "ref": "Prov.23.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -38,7 +40,8 @@
       "translit": "tavuz",
       "ref": "Prov.23.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -49,7 +52,8 @@
       "translit": "baz",
       "ref": "Prov.11.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -60,7 +64,8 @@
       "translit": "boz",
       "ref": "Song.8.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

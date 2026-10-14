@@ -16,7 +16,8 @@
       "translit": "vnaharu",
       "ref": "Ps.34.5",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -27,7 +28,8 @@
       "translit": "vnahart",
       "ref": "Isa.60.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -36,7 +38,8 @@
       "translit": "vnaharu",
       "ref": "Isa.2.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -47,7 +50,8 @@
       "translit": "yinharu",
       "ref": "Jer.51.44",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

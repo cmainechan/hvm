@@ -16,7 +16,8 @@
       "translit": "vna'al",
       "ref": "2Sam.13.18",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -27,7 +28,8 @@
       "translit": "va'en'alekh",
       "ref": "Ezek.16.10",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -38,7 +40,8 @@
       "translit": "un'ol",
       "ref": "2Sam.13.17",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -49,7 +52,8 @@
       "translit": "n'ulot",
       "ref": "Judg.3.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -67,7 +71,8 @@
       "translit": "vayyan'ilum",
       "ref": "2Chr.28.15",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

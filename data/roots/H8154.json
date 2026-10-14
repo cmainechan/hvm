@@ -16,7 +16,8 @@
       "translit": "shasu",
       "ref": "Ps.44.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "yishseh",
       "ref": "Hos.13.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -38,7 +40,8 @@
       "translit": "shosim",
       "ref": "1Sam.23.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -49,7 +52,8 @@
       "translit": "vshasu",
       "ref": "Isa.42.22",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -67,7 +71,8 @@
       "translit": "shoseti",
       "ref": "Isa.10.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

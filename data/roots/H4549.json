@@ -16,7 +16,8 @@
       "translit": "kimsos",
       "ref": "Isa.10.18",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -33,7 +34,8 @@
       "translit": "names",
       "ref": "Nah.2.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -42,7 +44,8 @@
       "translit": "namassu",
       "ref": "Ps.97.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -53,7 +56,8 @@
       "translit": "vayyimmas",
       "ref": "Josh.2.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -62,7 +66,8 @@
       "translit": "vayyimmassu",
       "ref": "Judg.15.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -73,7 +78,8 @@
       "translit": "yimmas",
       "ref": "2Sam.17.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -84,7 +90,8 @@
       "translit": "vnames",
       "ref": "Ezek.21.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -93,7 +100,8 @@
       "translit": "vnamassu",
       "ref": "Isa.34.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -104,7 +112,8 @@
       "translit": "vnames",
       "ref": "1Sam.15.9",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -115,7 +124,8 @@
       "translit": "khimmes",
       "ref": "Ps.68.2",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -126,7 +136,8 @@
       "translit": "himmes",
       "ref": "2Sam.17.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -144,7 +155,8 @@
       "translit": "hemassu",
       "ref": "Deut.1.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

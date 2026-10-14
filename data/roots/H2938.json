@@ -16,7 +16,8 @@
       "translit": "ta'am",
       "ref": "1Sam.14.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -25,7 +26,8 @@
       "translit": "ta'amti",
       "ref": "1Sam.14.29",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -34,7 +36,8 @@
       "translit": "ta'amah",
       "ref": "Prov.31.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -45,7 +48,8 @@
       "translit": "ta'om",
       "ref": "1Sam.14.43",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -56,7 +60,8 @@
       "translit": "et'am",
       "ref": "2Sam.3.35",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -65,7 +70,8 @@
       "translit": "yit'am",
       "ref": "2Sam.19.35",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -76,7 +82,8 @@
       "translit": "yit'amu",
       "ref": "Jonah.3.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -87,7 +94,8 @@
       "translit": "ta'amu",
       "ref": "Ps.34.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

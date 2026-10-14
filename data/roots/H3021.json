@@ -16,7 +16,8 @@
       "translit": "yag'ah",
       "ref": "2Sam.23.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -25,7 +26,8 @@
       "translit": "yagata",
       "ref": "Isa.43.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -34,7 +36,8 @@
       "translit": "yaga'att",
       "ref": "Isa.47.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -43,7 +46,8 @@
       "translit": "yagati",
       "ref": "Isa.49.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -52,7 +56,8 @@
       "translit": "yaganu",
       "ref": "Lam.5.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -63,7 +68,8 @@
       "translit": "yiga",
       "ref": "Isa.40.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -72,7 +78,8 @@
       "translit": "iga",
       "ref": "Job.9.29",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -81,7 +88,8 @@
       "translit": "yigau",
       "ref": "Isa.40.31",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -92,7 +100,8 @@
       "translit": "tiga",
       "ref": "Prov.23.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -110,7 +119,8 @@
       "translit": "tyagg'ennu",
       "ref": "Eccl.10.15",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -121,7 +131,8 @@
       "translit": "tyagga",
       "ref": "Josh.7.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -138,7 +149,8 @@
       "translit": "hogatani",
       "ref": "Isa.43.24",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -147,7 +159,8 @@
       "translit": "hogatikha",
       "ref": "Isa.43.23",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -156,7 +169,8 @@
       "translit": "hogatem",
       "ref": "Mal.2.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -165,7 +179,8 @@
       "translit": "hoganu",
       "ref": "Mal.2.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

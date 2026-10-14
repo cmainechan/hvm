@@ -16,7 +16,8 @@
       "translit": "be'er",
       "ref": "Deut.1.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -27,7 +28,8 @@
       "translit": "ba'er",
       "ref": "Deut.27.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -38,7 +40,8 @@
       "translit": "uva'er",
       "ref": "Hab.2.2",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },

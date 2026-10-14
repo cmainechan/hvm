@@ -16,7 +16,8 @@
       "translit": "niv'atti",
       "ref": "Dan.8.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -25,7 +26,8 @@
       "translit": "niv'at",
       "ref": "1Chr.21.30",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -42,7 +44,8 @@
       "translit": "bi'atuhu",
       "ref": "Job.18.11",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -51,7 +54,8 @@
       "translit": "bi'atatni",
       "ref": "Isa.21.4",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -62,7 +66,8 @@
       "translit": "tva'atanni",
       "ref": "Job.7.14",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -71,7 +76,8 @@
       "translit": "tva'et",
       "ref": "Job.13.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -80,7 +86,8 @@
       "translit": "yva'atuni",
       "ref": "2Sam.22.5",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -91,7 +98,8 @@
       "translit": "tva'atanni",
       "ref": "Job.13.21",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

@@ -16,7 +16,8 @@
       "translit": "vzanu",
       "ref": "Exod.34.15",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -25,7 +26,8 @@
       "translit": "zantah",
       "ref": "Ezek.23.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -34,7 +36,8 @@
       "translit": "zanita",
       "ref": "Hos.9.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -43,7 +46,8 @@
       "translit": "zanit",
       "ref": "Jer.3.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -54,7 +58,8 @@
       "translit": "vayyiznu",
       "ref": "1Chr.5.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -63,7 +68,8 @@
       "translit": "vattizni",
       "ref": "Ezek.16.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fp",
@@ -72,7 +78,8 @@
       "translit": "vattiznenah",
       "ref": "Ezek.23.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -81,7 +88,8 @@
       "translit": "vattizen",
       "ref": "Ezek.23.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -92,7 +100,8 @@
       "translit": "zonah",
       "ref": "Deut.23.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "ms",
@@ -101,7 +110,8 @@
       "translit": "hazzoneh",
       "ref": "Ezek.6.9",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "fp",
@@ -110,7 +120,8 @@
       "translit": "hazzonot",
       "ref": "Ezek.6.9",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "mp",
@@ -119,7 +130,8 @@
       "translit": "zonim",
       "ref": "Ezek.20.30",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -130,7 +142,8 @@
       "translit": "tizneh",
       "ref": "Amos.7.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -139,7 +152,8 @@
       "translit": "yiznu",
       "ref": "Ezek.23.43",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -148,7 +162,8 @@
       "translit": "tizni",
       "ref": "Hos.3.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fp",
@@ -157,7 +172,8 @@
       "translit": "tiznenah",
       "ref": "Hos.4.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -168,7 +184,8 @@
       "translit": "vzanah",
       "ref": "Deut.31.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -177,7 +194,8 @@
       "translit": "vzantah",
       "ref": "Isa.23.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -188,7 +206,8 @@
       "translit": "liznot",
       "ref": "Deut.22.21",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -199,7 +218,8 @@
       "translit": "zanoh",
       "ref": "Hos.1.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -216,7 +236,8 @@
       "translit": "zunnah",
       "ref": "Ezek.16.34",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -233,7 +254,8 @@
       "translit": "vhiznu",
       "ref": "Exod.34.16",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -242,7 +264,8 @@
       "translit": "hizneta",
       "ref": "Hos.5.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -253,7 +276,8 @@
       "translit": "vayyezen",
       "ref": "2Chr.21.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -262,7 +286,8 @@
       "translit": "vattazneh",
       "ref": "2Chr.21.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -273,7 +298,8 @@
       "translit": "khaznot",
       "ref": "2Chr.21.13",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -284,7 +310,8 @@
       "translit": "hazneh",
       "ref": "Hos.4.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

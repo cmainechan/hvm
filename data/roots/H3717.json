@@ -16,7 +16,8 @@
       "translit": "kaful",
       "ref": "Exod.28.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -27,7 +28,8 @@
       "translit": "vkhafalta",
       "ref": "Exod.26.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -44,7 +46,8 @@
       "translit": "vtikkafel",
       "ref": "Ezek.21.14",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

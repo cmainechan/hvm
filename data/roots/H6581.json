@@ -16,7 +16,8 @@
       "translit": "fasah",
       "ref": "Lev.13.32",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -25,7 +26,8 @@
       "translit": "fasatah",
       "ref": "Lev.13.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -36,7 +38,8 @@
       "translit": "yifseh",
       "ref": "Lev.13.35",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -45,7 +48,8 @@
       "translit": "tifseh",
       "ref": "Lev.13.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -56,7 +60,8 @@
       "translit": "pasoh",
       "ref": "Lev.13.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

@@ -16,7 +16,8 @@
       "translit": "tachpsennah",
       "ref": "Prov.2.4",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -25,7 +26,8 @@
       "translit": "yachpsu",
       "ref": "Ps.64.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -36,7 +38,8 @@
       "translit": "nachpsah",
       "ref": "Lam.3.40",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -47,7 +50,8 @@
       "translit": "chofes",
       "ref": "Prov.20.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -65,7 +69,8 @@
       "translit": "nechpsu",
       "ref": "Obad.1.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -82,7 +87,8 @@
       "translit": "vchippasti",
       "ref": "1Sam.23.23",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -91,7 +97,8 @@
       "translit": "vchippsu",
       "ref": "1Kgs.20.6",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -102,7 +109,8 @@
       "translit": "vaychappes",
       "ref": "Gen.31.35",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -113,7 +121,8 @@
       "translit": "achappes",
       "ref": "Amos.9.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -124,7 +133,8 @@
       "translit": "chappsu",
       "ref": "2Kgs.10.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -141,7 +151,8 @@
       "translit": "ychuppas",
       "ref": "Prov.28.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -152,7 +163,8 @@
       "translit": "mchuppas",
       "ref": "Ps.64.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -169,7 +181,8 @@
       "translit": "hitchappes",
       "ref": "2Chr.35.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -180,7 +193,8 @@
       "translit": "vayyitchappes",
       "ref": "1Kgs.20.38",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -191,7 +205,8 @@
       "translit": "yitchappes",
       "ref": "Job.30.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -202,7 +217,8 @@
       "translit": "hitchappes",
       "ref": "1Kgs.22.30",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

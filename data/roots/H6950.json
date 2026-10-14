@@ -16,7 +16,8 @@
       "translit": "niqhalu",
       "ref": "2Chr.20.26",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -27,7 +28,8 @@
       "translit": "vayyiqqahel",
       "ref": "Exod.32.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -36,7 +38,8 @@
       "translit": "vattiqqahel",
       "ref": "Judg.20.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -45,7 +48,8 @@
       "translit": "vayyiqqahalu",
       "ref": "1Kgs.8.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -56,7 +60,8 @@
       "translit": "hanniqhalim",
       "ref": "Ezek.38.7",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -67,7 +72,8 @@
       "translit": "lhiqqahel",
       "ref": "Esth.8.11",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -84,7 +90,8 @@
       "translit": "hiqhalta",
       "ref": "Ezek.38.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -93,7 +100,8 @@
       "translit": "hiqhilu",
       "ref": "Num.1.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -104,7 +112,8 @@
       "translit": "vayyaqhel",
       "ref": "1Chr.13.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -113,7 +122,8 @@
       "translit": "vayyaqhilu",
       "ref": "Num.20.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -124,7 +134,8 @@
       "translit": "yaqhel",
       "ref": "2Chr.5.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -135,7 +146,8 @@
       "translit": "vhiqhalta",
       "ref": "Num.8.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -146,7 +158,8 @@
       "translit": "haqhel",
       "ref": "Deut.31.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -155,7 +168,8 @@
       "translit": "haqhilu",
       "ref": "Deut.31.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -166,7 +180,8 @@
       "translit": "yaqhel",
       "ref": "1Kgs.8.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -177,7 +192,8 @@
       "translit": "uvhaqhil",
       "ref": "Num.10.7",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

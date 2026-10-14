@@ -16,7 +16,8 @@
       "translit": "qanah",
       "ref": "2Sam.12.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -25,7 +26,8 @@
       "translit": "qaniti",
       "ref": "Eccl.2.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -34,7 +36,8 @@
       "translit": "qanita",
       "ref": "Exod.15.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -43,7 +46,8 @@
       "translit": "qaninu",
       "ref": "Neh.5.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -52,7 +56,8 @@
       "translit": "qantah",
       "ref": "Ps.78.54",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -63,7 +68,8 @@
       "translit": "vayyiqen",
       "ref": "1Kgs.16.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -72,7 +78,8 @@
       "translit": "va'eqneh",
       "ref": "Jer.13.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -83,7 +90,8 @@
       "translit": "qoneh",
       "ref": "Deut.28.68",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -94,7 +102,8 @@
       "translit": "eqneh",
       "ref": "1Chr.21.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -103,7 +112,8 @@
       "translit": "tiqneh",
       "ref": "Exod.21.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -112,7 +122,8 @@
       "translit": "yiqnu",
       "ref": "Jer.32.44",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -121,7 +132,8 @@
       "translit": "yiqneh",
       "ref": "Lev.22.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -130,7 +142,8 @@
       "translit": "tiqnu",
       "ref": "Lev.25.44",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -141,7 +154,8 @@
       "translit": "vqanita",
       "ref": "Jer.13.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -152,7 +166,8 @@
       "translit": "qneh",
       "ref": "Gen.47.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -163,7 +178,8 @@
       "translit": "liqnot",
       "ref": "2Chr.34.11",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -174,7 +190,8 @@
       "translit": "qanoh",
       "ref": "1Chr.21.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -191,7 +208,8 @@
       "translit": "yiqqanu",
       "ref": "Jer.32.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -202,7 +220,8 @@
       "translit": "vniqnah",
       "ref": "Jer.32.43",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -219,7 +238,8 @@
       "translit": "hiqnani",
       "ref": "Zech.13.5",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -230,7 +250,8 @@
       "translit": "hammaqneh",
       "ref": "Ezek.8.3",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },

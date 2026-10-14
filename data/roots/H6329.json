@@ -16,7 +16,8 @@
       "translit": "tafeq",
       "ref": "Ps.140.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -27,7 +28,8 @@
       "translit": "mfiqim",
       "ref": "Ps.144.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -38,7 +40,8 @@
       "translit": "vayyafeq",
       "ref": "Prov.18.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -49,7 +52,8 @@
       "translit": "vtafeq",
       "ref": "Isa.58.10",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -58,7 +62,8 @@
       "translit": "yafiq",
       "ref": "Prov.12.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

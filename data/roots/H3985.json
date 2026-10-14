@@ -16,7 +16,8 @@
       "translit": "me'en",
       "ref": "1Kgs.21.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -25,7 +26,8 @@
       "translit": "me'anah",
       "ref": "Jer.15.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -34,7 +36,8 @@
       "translit": "me'anta",
       "ref": "Exod.10.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -43,7 +46,8 @@
       "translit": "me'ant",
       "ref": "Jer.3.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -52,7 +56,8 @@
       "translit": "me'anu",
       "ref": "Hos.11.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -61,7 +66,8 @@
       "translit": "me'antem",
       "ref": "Exod.16.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -72,7 +78,8 @@
       "translit": "vayma'en",
       "ref": "1Kgs.20.35",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -81,7 +88,8 @@
       "translit": "vattma'en",
       "ref": "Esth.1.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -90,7 +98,8 @@
       "translit": "vattma'en",
       "ref": "Exod.4.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -99,7 +108,8 @@
       "translit": "vayma'anu",
       "ref": "1Sam.8.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -108,7 +118,8 @@
       "translit": "vattma'enu",
       "ref": "Prov.1.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -119,7 +130,8 @@
       "translit": "yma'en",
       "ref": "Exod.22.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -128,7 +140,8 @@
       "translit": "yma'anu",
       "ref": "Jer.25.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -137,7 +150,8 @@
       "translit": "tma'anu",
       "ref": "Isa.1.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -148,7 +162,8 @@
       "translit": "ma'en",
       "ref": "Exod.22.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

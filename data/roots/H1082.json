@@ -16,7 +16,8 @@
       "translit": "hammavlig",
       "ref": "Amos.5.9",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -27,7 +28,8 @@
       "translit": "v'avligah",
       "ref": "Job.10.20",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },

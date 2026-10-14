@@ -16,7 +16,8 @@
       "translit": "nugot",
       "ref": "Lam.1.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -33,7 +34,8 @@
       "translit": "vayyaggeh",
       "ref": "Lam.3.33",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -51,7 +53,8 @@
       "translit": "hogah",
       "ref": "Lam.1.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -62,7 +65,8 @@
       "translit": "togyun",
       "ref": "Job.19.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      }
     ]
    },

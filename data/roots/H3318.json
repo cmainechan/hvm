@@ -16,7 +16,8 @@
       "translit": "yatz'u",
       "ref": "1Chr.1.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -25,7 +26,8 @@
       "translit": "yatza",
       "ref": "1Chr.14.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -34,7 +36,8 @@
       "translit": "yatza'ti",
       "ref": "Dan.9.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -43,7 +46,8 @@
       "translit": "yatza'ta",
       "ref": "Deut.9.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -52,7 +56,8 @@
       "translit": "ytza'tem",
       "ref": "Deut.11.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -61,7 +66,8 @@
       "translit": "yatz'ah",
       "ref": "Ezek.7.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -70,7 +76,8 @@
       "translit": "yatza'nu",
       "ref": "Num.11.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -81,7 +88,8 @@
       "translit": "vayyetze",
       "ref": "1Chr.12.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -90,7 +98,8 @@
       "translit": "vayyetz'u",
       "ref": "1Chr.19.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -99,7 +108,8 @@
       "translit": "vattetze",
       "ref": "1Kgs.10.29",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fp",
@@ -108,7 +118,8 @@
       "translit": "vattetze'nah",
       "ref": "1Sam.18.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -117,7 +128,8 @@
       "translit": "va'etze",
       "ref": "Ezek.3.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -128,7 +140,8 @@
       "translit": "vhayyotze't",
       "ref": "1Chr.27.1",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "ms",
@@ -137,7 +150,8 @@
       "translit": "yotze",
       "ref": "1Kgs.4.33",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "fp",
@@ -146,7 +160,8 @@
       "translit": "yotz'ot",
       "ref": "1Sam.9.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "mp",
@@ -155,7 +170,8 @@
       "translit": "yotz'im",
       "ref": "1Sam.14.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -166,7 +182,8 @@
       "translit": "tetze",
       "ref": "1Chr.14.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -175,7 +192,8 @@
       "translit": "yetze",
       "ref": "1Kgs.8.44",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -184,7 +202,8 @@
       "translit": "etze",
       "ref": "1Kgs.22.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -193,7 +212,8 @@
       "translit": "netze",
       "ref": "1Sam.11.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -202,7 +222,8 @@
       "translit": "tetz'u",
       "ref": "1Sam.17.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -211,7 +232,8 @@
       "translit": "yetz'u",
       "ref": "2Chr.21.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -220,7 +242,8 @@
       "translit": "tetze",
       "ref": "2Kgs.19.31",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fp",
@@ -229,7 +252,8 @@
       "translit": "tetze'nah",
       "ref": "Amos.4.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -238,7 +262,8 @@
       "translit": "tetz'i",
       "ref": "Jer.2.37",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -249,7 +274,8 @@
       "translit": "vyatza",
       "ref": "1Sam.8.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -258,7 +284,8 @@
       "translit": "vyatza'nu",
       "ref": "1Sam.11.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -267,7 +294,8 @@
       "translit": "vyatza'ti",
       "ref": "1Sam.17.35",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -276,7 +304,8 @@
       "translit": "vyatz'u",
       "ref": "Deut.21.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -285,7 +314,8 @@
       "translit": "vyatza'ta",
       "ref": "Deut.23.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -294,7 +324,8 @@
       "translit": "vyatz'ah",
       "ref": "Deut.24.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -303,7 +334,8 @@
       "translit": "vyatza't",
       "ref": "Jer.31.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -312,7 +344,8 @@
       "translit": "vitza'tem",
       "ref": "Mal.4.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -323,7 +356,8 @@
       "translit": "tze",
       "ref": "1Kgs.2.30",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -332,7 +366,8 @@
       "translit": "tz'u",
       "ref": "2Chr.20.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -341,7 +376,8 @@
       "translit": "tz'i",
       "ref": "Song.1.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fp",
@@ -350,7 +386,8 @@
       "translit": "tz'enah",
       "ref": "Song.3.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -361,7 +398,8 @@
       "translit": "tze't",
       "ref": "1Chr.20.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -372,7 +410,8 @@
       "translit": "yatzo",
       "ref": "2Kgs.5.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -383,7 +422,8 @@
       "translit": "vnetze",
       "ref": "1Kgs.20.31",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -392,7 +432,8 @@
       "translit": "v'etz'ah",
       "ref": "2Chr.1.10",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -403,7 +444,8 @@
       "translit": "yetze",
       "ref": "1Sam.22.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -412,7 +454,8 @@
       "translit": "tetz'u",
       "ref": "Jer.6.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -421,7 +464,8 @@
       "translit": "tetze",
       "ref": "Prov.25.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -438,7 +482,8 @@
       "translit": "hotzi",
       "ref": "1Chr.20.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -447,7 +492,8 @@
       "translit": "hotze'ti",
       "ref": "1Kgs.8.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -456,7 +502,8 @@
       "translit": "hotze'ta",
       "ref": "1Kgs.8.51",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -465,7 +512,8 @@
       "translit": "vhotze't",
       "ref": "1Kgs.17.13",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -474,7 +522,8 @@
       "translit": "hotzi'u",
       "ref": "Exod.12.39",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -483,7 +532,8 @@
       "translit": "hotze'tem",
       "ref": "Exod.16.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -494,7 +544,8 @@
       "translit": "vayyotzi'u",
       "ref": "1Chr.19.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -503,7 +554,8 @@
       "translit": "vayyotze",
       "ref": "2Chr.16.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -512,7 +564,8 @@
       "translit": "va'otzi'em",
       "ref": "Ezek.20.10",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -521,7 +574,8 @@
       "translit": "vattotze",
       "ref": "Gen.1.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -530,7 +584,8 @@
       "translit": "vattotze",
       "ref": "Jer.32.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -541,7 +596,8 @@
       "translit": "hammotzi",
       "ref": "1Chr.11.2",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "mp",
@@ -550,7 +606,8 @@
       "translit": "umotzi'im",
       "ref": "2Chr.9.28",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -558,10 +615,11 @@
       "code": "3mp",
       "label": "3rd masc. pl.",
       "heb": "יוֹצִיאֽוּם",
-      "translit": "otzi'um",
+      "translit": "yotzi'um",
       "ref": "1Chr.9.28",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -570,7 +628,8 @@
       "translit": "totzi",
       "ref": "Deut.14.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -579,7 +638,8 @@
       "translit": "yotzi",
       "ref": "Deut.24.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -588,7 +648,8 @@
       "translit": "otzi",
       "ref": "Exod.3.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -597,7 +658,8 @@
       "translit": "totzi",
       "ref": "Hag.1.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -606,7 +668,8 @@
       "translit": "totzi'u",
       "ref": "Jer.17.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -615,7 +678,8 @@
       "translit": "notzi",
       "ref": "Num.20.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -626,7 +690,8 @@
       "translit": "vhotze'tani",
       "ref": "2Chr.18.33",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -635,7 +700,8 @@
       "translit": "vhotzi'u",
       "ref": "Deut.21.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -644,7 +710,8 @@
       "translit": "vhotzi",
       "ref": "Deut.22.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -653,7 +720,8 @@
       "translit": "vhotze'tem",
       "ref": "Deut.22.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -662,7 +730,8 @@
       "translit": "vhotze'ti",
       "ref": "Exod.6.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -673,7 +742,8 @@
       "translit": "vhotzi'uhu",
       "ref": "1Kgs.21.10",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -682,7 +752,8 @@
       "translit": "vhotzi'eni",
       "ref": "1Kgs.22.34",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -691,7 +762,8 @@
       "translit": "hotzi'i",
       "ref": "Josh.2.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -702,7 +774,8 @@
       "translit": "bhotzi'o",
       "ref": "1Kgs.8.21",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -713,7 +786,8 @@
       "translit": "otzi'ah",
       "ref": "Gen.19.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -724,7 +798,8 @@
       "translit": "totze",
       "ref": "Gen.1.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -741,7 +816,8 @@
       "translit": "hutza'ah",
       "ref": "Ezek.38.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -752,7 +828,8 @@
       "translit": "hammutza'im",
       "ref": "Ezek.14.22",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "fs",
@@ -761,7 +838,8 @@
       "translit": "mutze't",
       "ref": "Gen.38.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "fp",
@@ -770,7 +848,8 @@
       "translit": "mutza'ot",
       "ref": "Jer.38.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

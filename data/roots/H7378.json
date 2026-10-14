@@ -15,7 +15,8 @@
       "translit": "rav",
       "ref": "1Sam.25.39",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -24,7 +25,8 @@
       "translit": "ravu",
       "ref": "Gen.26.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -33,7 +35,8 @@
       "translit": "rivota",
       "ref": "Job.33.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -44,7 +47,8 @@
       "translit": "vayyarev",
       "ref": "Exod.17.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -53,16 +57,18 @@
       "translit": "vayyarivu",
       "ref": "Gen.26.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
       "label": "1st sg.",
       "heb": "וָאָרִיבָה",
-      "translit": "va'ariv",
+      "translit": "va'arivah",
       "ref": "Neh.5.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      }
     ],
     "participle_active": [
@@ -73,7 +79,8 @@
       "translit": "rav",
       "ref": "Isa.45.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -84,16 +91,18 @@
       "translit": "trivehu",
       "ref": "Deut.33.8",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
       "heb": "תְּרִיבוּן",
-      "translit": "tarivu",
+      "translit": "trivun",
       "ref": "Exod.17.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      },
      {
       "code": "3mp",
@@ -102,7 +111,8 @@
       "translit": "yrivun",
       "ref": "Exod.21.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      },
      {
       "code": "1cs",
@@ -111,7 +121,8 @@
       "translit": "ariv",
       "ref": "Isa.49.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -120,7 +131,8 @@
       "translit": "yariv",
       "ref": "Isa.50.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -131,7 +143,8 @@
       "translit": "rivu",
       "ref": "Hos.2.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -140,7 +153,8 @@
       "translit": "riv",
       "ref": "Mic.6.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -151,7 +165,8 @@
       "translit": "lariv",
       "ref": "Amos.7.4",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -162,7 +177,8 @@
       "translit": "riv",
       "ref": "Jer.50.34",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -173,7 +189,8 @@
       "translit": "vyarev",
       "ref": "1Sam.24.15",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -182,7 +199,8 @@
       "translit": "tariv",
       "ref": "Prov.3.30",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -199,7 +217,8 @@
       "translit": "brivam",
       "ref": "Job.31.13",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -216,7 +235,8 @@
       "translit": "vayyarev",
       "ref": "1Sam.15.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

@@ -16,7 +16,8 @@
       "translit": "mam'ir",
       "ref": "Ezek.28.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "fs",
@@ -25,7 +26,8 @@
       "translit": "mam'eret",
       "ref": "Lev.13.51",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

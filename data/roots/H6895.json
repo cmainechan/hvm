@@ -16,7 +16,8 @@
       "translit": "qabboh",
       "ref": "Num.23.8",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -27,7 +28,8 @@
       "translit": "vqabboto",
       "ref": "Num.23.27",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -38,7 +40,8 @@
       "translit": "va'eqqov",
       "ref": "Job.5.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -49,7 +52,8 @@
       "translit": "qavah",
       "ref": "Num.22.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      }
     ],
     "infinitive_absolute": [
@@ -60,7 +64,8 @@
       "translit": "qov",
       "ref": "Num.23.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -71,7 +76,8 @@
       "translit": "laqov",
       "ref": "Num.23.11",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

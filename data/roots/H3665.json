@@ -16,7 +16,8 @@
       "translit": "nikhna",
       "ref": "1Kgs.21.29",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -25,7 +26,8 @@
       "translit": "nikhnau",
       "ref": "2Chr.12.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -36,7 +38,8 @@
       "translit": "vayyikkana",
       "ref": "2Chr.32.26",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -45,7 +48,8 @@
       "translit": "vattikkana",
       "ref": "Judg.3.30",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -54,7 +58,8 @@
       "translit": "vattikkana",
       "ref": "2Chr.34.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -63,7 +68,8 @@
       "translit": "vayyikkaneu",
       "ref": "1Chr.20.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -74,7 +80,8 @@
       "translit": "yikkana",
       "ref": "Lev.26.41",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -83,7 +90,8 @@
       "translit": "vyikkanu",
       "ref": "2Chr.7.14",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -94,7 +102,8 @@
       "translit": "hikkano",
       "ref": "2Chr.33.19",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -112,7 +121,8 @@
       "translit": "hikhnia",
       "ref": "2Chr.28.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -123,7 +133,8 @@
       "translit": "vayyakhna",
       "ref": "Judg.4.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -132,7 +143,8 @@
       "translit": "vattakhna",
       "ref": "Neh.9.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -143,7 +155,8 @@
       "translit": "yakhni'em",
       "ref": "Deut.9.3",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -152,7 +165,8 @@
       "translit": "takhnia",
       "ref": "Isa.25.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -161,7 +175,8 @@
       "translit": "akhnia",
       "ref": "Ps.81.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -172,7 +187,8 @@
       "translit": "vhikhnati",
       "ref": "1Chr.17.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -183,7 +199,8 @@
       "translit": "hakhni'ehu",
       "ref": "Job.40.12",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

@@ -16,7 +16,8 @@
       "translit": "qinne",
       "ref": "Num.25.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -25,7 +26,8 @@
       "translit": "qinneti",
       "ref": "1Kgs.19.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -34,7 +36,8 @@
       "translit": "qin'uni",
       "ref": "Deut.32.21",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -45,7 +48,8 @@
       "translit": "vayqanne",
       "ref": "Joel.2.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -54,7 +58,8 @@
       "translit": "vattqanne",
       "ref": "Gen.30.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -63,7 +68,8 @@
       "translit": "vayqanu",
       "ref": "1Kgs.14.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -74,7 +80,8 @@
       "translit": "yqanne",
       "ref": "Isa.11.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -85,7 +92,8 @@
       "translit": "vqinne",
       "ref": "Num.5.30",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -94,7 +102,8 @@
       "translit": "vqinneti",
       "ref": "Ezek.39.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -105,7 +114,8 @@
       "translit": "yqanne",
       "ref": "Prov.23.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -114,7 +124,8 @@
       "translit": "tqanne",
       "ref": "Prov.24.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -125,7 +136,8 @@
       "translit": "hamqanne",
       "ref": "Num.11.29",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -136,7 +148,8 @@
       "translit": "bqanno'to",
       "ref": "2Sam.21.2",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -147,7 +160,8 @@
       "translit": "qanno",
       "ref": "1Kgs.19.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -164,7 +178,8 @@
       "translit": "aqni'em",
       "ref": "Deut.32.21",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -173,7 +188,8 @@
       "translit": "yaqni'uhu",
       "ref": "Deut.32.16",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

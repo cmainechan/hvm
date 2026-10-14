@@ -16,7 +16,8 @@
       "translit": "vchiddshu",
       "ref": "Isa.61.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "tchaddesh",
       "ref": "Job.10.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -38,7 +40,8 @@
       "translit": "vaychaddesh",
       "ref": "2Chr.15.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -49,7 +52,8 @@
       "translit": "unchaddesh",
       "ref": "1Sam.11.14",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -60,7 +64,8 @@
       "translit": "chaddesh",
       "ref": "Lam.5.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -71,7 +76,8 @@
       "translit": "lchaddesh",
       "ref": "2Chr.24.12",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -89,7 +95,8 @@
       "translit": "titchaddesh",
       "ref": "Ps.103.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

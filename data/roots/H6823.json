@@ -16,7 +16,8 @@
       "translit": "tzippah",
       "ref": "1Kgs.6.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -27,7 +28,8 @@
       "translit": "vaytzaf",
       "ref": "1Kgs.6.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -36,7 +38,8 @@
       "translit": "vaytzappu",
       "ref": "2Chr.3.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -47,7 +50,8 @@
       "translit": "vetzippita",
       "ref": "Exod.25.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -58,7 +62,8 @@
       "translit": "tetzappeh",
       "ref": "Exod.26.29",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -75,7 +80,8 @@
       "translit": "metzuppim",
       "ref": "Exod.26.32",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "ms",
@@ -84,7 +90,8 @@
       "translit": "metzuppeh",
       "ref": "Prov.26.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

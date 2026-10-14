@@ -16,7 +16,8 @@
       "translit": "sag",
       "ref": "Ps.53.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "nasog",
       "ref": "Ps.80.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -44,7 +46,8 @@
       "translit": "nsugoti",
       "ref": "Isa.50.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -53,7 +56,8 @@
       "translit": "nasogu",
       "ref": "Isa.42.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -62,7 +66,8 @@
       "translit": "nasog",
       "ref": "Ps.44.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -73,7 +78,8 @@
       "translit": "vayyissogu",
       "ref": "Ps.78.57",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -84,7 +90,8 @@
       "translit": "yissogu",
       "ref": "Ps.35.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -95,7 +102,8 @@
       "translit": "nsogim",
       "ref": "Jer.46.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

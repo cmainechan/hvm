@@ -16,7 +16,8 @@
       "translit": "lamchattzrim",
       "ref": "2Chr.5.13",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -33,7 +34,8 @@
       "translit": "machtzrim",
       "ref": "1Chr.15.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

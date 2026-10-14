@@ -16,7 +16,8 @@
       "translit": "qara",
       "ref": "1Sam.15.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -25,7 +26,8 @@
       "translit": "qara'ta",
       "ref": "2Kgs.5.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -34,7 +36,8 @@
       "translit": "qara'ah",
       "ref": "2Sam.13.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -43,7 +46,8 @@
       "translit": "qara'ti",
       "ref": "Ezra.9.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -52,7 +56,8 @@
       "translit": "qar'u",
       "ref": "Jer.36.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -63,7 +68,8 @@
       "translit": "vayyiqra'eha",
       "ref": "1Kgs.11.30",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -72,7 +78,8 @@
       "translit": "va'eqra",
       "ref": "1Kgs.14.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -81,7 +88,8 @@
       "translit": "vattiqra",
       "ref": "2Chr.23.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -90,7 +98,8 @@
       "translit": "vattiqra",
       "ref": "2Chr.34.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -99,7 +108,8 @@
       "translit": "vayyiqr'u",
       "ref": "Gen.44.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -110,7 +120,8 @@
       "translit": "qore'a",
       "ref": "1Kgs.11.31",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -121,7 +132,8 @@
       "translit": "qru'im",
       "ref": "1Sam.4.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "ms",
@@ -130,7 +142,8 @@
       "translit": "qaru'a",
       "ref": "2Sam.15.32",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -141,7 +154,8 @@
       "translit": "eqra",
       "ref": "1Kgs.11.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -150,7 +164,8 @@
       "translit": "tiqr'i",
       "ref": "Jer.4.30",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -159,7 +174,8 @@
       "translit": "yiqra'eha",
       "ref": "Jer.36.23",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -170,7 +186,8 @@
       "translit": "vqara'ti",
       "ref": "Ezek.13.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -179,7 +196,8 @@
       "translit": "vqara",
       "ref": "Jer.22.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -190,7 +208,8 @@
       "translit": "qir'u",
       "ref": "2Sam.3.31",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -201,7 +220,8 @@
       "translit": "liqroa",
       "ref": "Eccl.3.7",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -212,7 +232,8 @@
       "translit": "qaro'a",
       "ref": "1Kgs.11.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -229,7 +250,8 @@
       "translit": "niqra",
       "ref": "1Kgs.13.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -240,7 +262,8 @@
       "translit": "vayyiqqara",
       "ref": "1Sam.15.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -251,7 +274,8 @@
       "translit": "yiqqare'a",
       "ref": "Exod.28.32",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

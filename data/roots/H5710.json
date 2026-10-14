@@ -16,7 +16,8 @@
       "translit": "adah",
       "ref": "Job.28.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "tadeh",
       "ref": "Isa.61.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -38,7 +40,8 @@
       "translit": "vattadi",
       "ref": "Ezek.16.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -49,7 +52,8 @@
       "translit": "adeh",
       "ref": "Job.40.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -67,7 +71,8 @@
       "translit": "ma'adeh",
       "ref": "Prov.25.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

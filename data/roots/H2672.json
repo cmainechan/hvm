@@ -16,7 +16,8 @@
       "translit": "chatzev",
       "ref": "Isa.5.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -25,7 +26,8 @@
       "translit": "chatzvah",
       "ref": "Prov.9.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -34,7 +36,8 @@
       "translit": "chatzavta",
       "ref": "Deut.6.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -43,7 +46,8 @@
       "translit": "chatzavti",
       "ref": "Hos.6.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -54,7 +58,8 @@
       "translit": "vayyachtzov",
       "ref": "2Chr.26.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -65,7 +70,8 @@
       "translit": "tachtzov",
       "ref": "Deut.8.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -76,7 +82,8 @@
       "translit": "chotzev",
       "ref": "1Kgs.5.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "mp",
@@ -85,7 +92,8 @@
       "translit": "chotzvim",
       "ref": "1Chr.22.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -96,7 +104,8 @@
       "translit": "chatzuvim",
       "ref": "Deut.6.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -107,7 +116,8 @@
       "translit": "lachtzov",
       "ref": "1Chr.22.2",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -125,7 +135,8 @@
       "translit": "yechatzvun",
       "ref": "Job.19.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      }
     ]
    }
@@ -142,7 +153,8 @@
       "translit": "chutztzavtem",
       "ref": "Isa.51.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -159,7 +171,8 @@
       "translit": "hammachtzevet",
       "ref": "Isa.51.9",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

@@ -16,7 +16,8 @@
       "translit": "ufaraqta",
       "ref": "Gen.27.40",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -27,7 +28,8 @@
       "translit": "vayyifrqenu",
       "ref": "Ps.136.24",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -38,7 +40,8 @@
       "translit": "poreq",
       "ref": "Lam.5.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -56,7 +59,8 @@
       "translit": "yfareq",
       "ref": "Zech.11.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -67,7 +71,8 @@
       "translit": "parqu",
       "ref": "Exod.32.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -78,7 +83,8 @@
       "translit": "mfareq",
       "ref": "1Kgs.19.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -95,7 +101,8 @@
       "translit": "hitparqu",
       "ref": "Ezek.19.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -106,7 +113,8 @@
       "translit": "vayyitparqu",
       "ref": "Exod.32.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -117,7 +125,8 @@
       "translit": "hitparaqu",
       "ref": "Exod.32.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

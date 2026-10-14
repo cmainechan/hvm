@@ -16,7 +16,8 @@
       "translit": "na'arti",
       "ref": "Neh.5.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -27,7 +28,8 @@
       "translit": "no'er",
       "ref": "Isa.33.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -38,7 +40,8 @@
       "translit": "naur",
       "ref": "Neh.5.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -55,7 +58,8 @@
       "translit": "nin'arti",
       "ref": "Ps.109.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -66,7 +70,8 @@
       "translit": "vyinna'aru",
       "ref": "Job.38.13",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -83,7 +88,8 @@
       "translit": "vni'er",
       "ref": "Ps.136.15",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -94,7 +100,8 @@
       "translit": "yna'er",
       "ref": "Neh.5.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -105,7 +112,8 @@
       "translit": "vayna'er",
       "ref": "Exod.14.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -122,7 +130,8 @@
       "translit": "hitna'ari",
       "ref": "Isa.52.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

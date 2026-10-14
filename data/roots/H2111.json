@@ -16,7 +16,8 @@
       "translit": "sheyyazuu",
       "ref": "Eccl.12.3",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "perfect": [
@@ -27,7 +28,8 @@
       "translit": "za",
       "ref": "Esth.5.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

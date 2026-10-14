@@ -16,7 +16,8 @@
       "translit": "uviqqartim",
       "ref": "Ezek.34.11",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "avaqqer",
       "ref": "Ezek.34.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -38,7 +40,8 @@
       "translit": "lvaqqer",
       "ref": "2Kgs.16.15",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },

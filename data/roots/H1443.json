@@ -16,7 +16,8 @@
       "translit": "gadar",
       "ref": "Job.19.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -27,7 +28,8 @@
       "translit": "vgadarti",
       "ref": "Amos.9.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -38,7 +40,8 @@
       "translit": "vattigdru",
       "ref": "Ezek.13.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -49,7 +52,8 @@
       "translit": "goder",
       "ref": "Ezek.22.30",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

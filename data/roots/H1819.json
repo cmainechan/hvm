@@ -16,7 +16,8 @@
       "translit": "damah",
       "ref": "Ezek.31.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -25,7 +26,8 @@
       "translit": "damtah",
       "ref": "Song.7.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -34,7 +36,8 @@
       "translit": "damita",
       "ref": "Ezek.31.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -43,7 +46,8 @@
       "translit": "damiti",
       "ref": "Ps.102.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -52,7 +56,8 @@
       "translit": "damu",
       "ref": "Ezek.31.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -61,7 +66,8 @@
       "translit": "daminu",
       "ref": "Isa.1.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -72,7 +78,8 @@
       "translit": "yidmeh",
       "ref": "Ps.89.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -81,7 +88,8 @@
       "translit": "vnidmeh",
       "ref": "Isa.46.5",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -92,7 +100,8 @@
       "translit": "dmeh",
       "ref": "Song.2.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -103,7 +112,8 @@
       "translit": "domeh",
       "ref": "Song.2.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -120,7 +130,8 @@
       "translit": "dimmah",
       "ref": "2Sam.21.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -129,7 +140,8 @@
       "translit": "dimmita",
       "ref": "Ps.50.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -138,7 +150,8 @@
       "translit": "dimmiti",
       "ref": "Isa.14.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -147,7 +160,8 @@
       "translit": "dimmu",
       "ref": "Judg.20.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -156,7 +170,8 @@
       "translit": "dimminu",
       "ref": "Ps.48.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -167,7 +182,8 @@
       "translit": "ydammeh",
       "ref": "Isa.10.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -176,7 +192,8 @@
       "translit": "adammeh",
       "ref": "Hos.12.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -185,7 +202,8 @@
       "translit": "tdammyun",
       "ref": "Isa.40.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      }
     ],
     "jussive": [
@@ -196,7 +214,8 @@
       "translit": "tdammi",
       "ref": "Esth.4.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -214,7 +233,8 @@
       "translit": "eddammeh",
       "ref": "Isa.14.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -231,7 +251,8 @@
       "translit": "nidmeta",
       "ref": "Ezek.32.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

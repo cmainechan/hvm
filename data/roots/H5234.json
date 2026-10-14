@@ -16,7 +16,8 @@
       "translit": "nikkru",
       "ref": "Lam.4.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "yinnakher",
       "ref": "Prov.26.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -44,7 +46,8 @@
       "translit": "nikkar",
       "ref": "1Sam.23.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -55,7 +58,8 @@
       "translit": "vaynakkru",
       "ref": "Jer.19.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -66,7 +70,8 @@
       "translit": "ynakkru",
       "ref": "Deut.32.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -75,7 +80,8 @@
       "translit": "tnakkeru",
       "ref": "Job.21.29",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -92,7 +98,8 @@
       "translit": "hikkiru",
       "ref": "2Sam.3.36",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -101,7 +108,8 @@
       "translit": "hikkir",
       "ref": "Deut.33.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -112,7 +120,8 @@
       "translit": "vayyakkirehu",
       "ref": "1Kgs.18.7",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -121,7 +130,8 @@
       "translit": "va'akkirah",
       "ref": "Neh.6.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      }
     ],
     "participle_active": [
@@ -132,7 +142,8 @@
       "translit": "makkirim",
       "ref": "Ezra.3.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "ms",
@@ -141,7 +152,8 @@
       "translit": "makkir",
       "ref": "Ps.142.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -152,7 +164,8 @@
       "translit": "yakkir",
       "ref": "Dan.11.39",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -161,7 +174,8 @@
       "translit": "takkiru",
       "ref": "Deut.1.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -170,7 +184,8 @@
       "translit": "takkir",
       "ref": "Deut.16.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -179,7 +194,8 @@
       "translit": "yakkirum",
       "ref": "Isa.61.9",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -188,7 +204,8 @@
       "translit": "akkir",
       "ref": "Jer.24.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -199,7 +216,8 @@
       "translit": "hakker",
       "ref": "Gen.31.32",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -210,7 +228,8 @@
       "translit": "lhakkireni",
       "ref": "Ruth.2.10",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -221,7 +240,8 @@
       "translit": "hakker",
       "ref": "Prov.24.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -238,7 +258,8 @@
       "translit": "vayyitnakker",
       "ref": "Gen.42.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -249,7 +270,8 @@
       "translit": "mitnakkerah",
       "ref": "1Kgs.14.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -260,7 +282,8 @@
       "translit": "yitnakker",
       "ref": "Prov.20.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

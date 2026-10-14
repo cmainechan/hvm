@@ -16,7 +16,8 @@
       "translit": "lachatz",
       "ref": "2Kgs.13.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -25,7 +26,8 @@
       "translit": "lachatzu",
       "ref": "Judg.10.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -36,7 +38,8 @@
       "translit": "vattilchatz",
       "ref": "Num.22.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -45,7 +48,8 @@
       "translit": "vayyilchatzu",
       "ref": "Judg.1.34",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -56,7 +60,8 @@
       "translit": "yilchatzeni",
       "ref": "Ps.56.1",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -65,7 +70,8 @@
       "translit": "tilchatz",
       "ref": "Exod.23.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -76,7 +82,8 @@
       "translit": "vlachatzu",
       "ref": "Amos.6.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -85,7 +92,8 @@
       "translit": "ulchatztem",
       "ref": "2Kgs.6.32",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -96,7 +104,8 @@
       "translit": "lochatzim",
       "ref": "Exod.3.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -114,7 +123,8 @@
       "translit": "vattillachetz",
       "ref": "Num.22.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

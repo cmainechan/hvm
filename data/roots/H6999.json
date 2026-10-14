@@ -16,7 +16,8 @@
       "translit": "qittru",
       "ref": "2Kgs.23.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -25,7 +26,8 @@
       "translit": "qittartem",
       "ref": "Jer.44.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -36,7 +38,8 @@
       "translit": "vayqatter",
       "ref": "2Chr.28.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -45,7 +48,8 @@
       "translit": "vayqattru",
       "ref": "2Chr.34.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -56,7 +60,8 @@
       "translit": "umqattrim",
       "ref": "1Kgs.22.43!b",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "fp",
@@ -65,7 +70,8 @@
       "translit": "mqattrot",
       "ref": "Jer.44.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -76,7 +82,8 @@
       "translit": "yqatter",
       "ref": "2Chr.25.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -85,7 +92,8 @@
       "translit": "yqatteru",
       "ref": "Hos.4.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -96,7 +104,8 @@
       "translit": "lqatter",
       "ref": "2Chr.28.25",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -107,7 +116,8 @@
       "translit": "qatter",
       "ref": "1Sam.2.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -124,7 +134,8 @@
       "translit": "hiqtir",
       "ref": "2Chr.28.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -133,7 +144,8 @@
       "translit": "hiqtiru",
       "ref": "2Chr.29.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -144,7 +156,8 @@
       "translit": "vayyaqter",
       "ref": "2Kgs.16.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -155,7 +168,8 @@
       "translit": "maqtirim",
       "ref": "1Chr.6.49",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "ms",
@@ -164,7 +178,8 @@
       "translit": "umaqtir",
       "ref": "1Kgs.3.3",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "fp",
@@ -173,7 +188,8 @@
       "translit": "maqtirot",
       "ref": "1Kgs.11.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -184,7 +200,8 @@
       "translit": "yaqtirun",
       "ref": "1Sam.2.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      },
      {
       "code": "2mp",
@@ -193,7 +210,8 @@
       "translit": "taqtiru",
       "ref": "2Chr.32.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -202,7 +220,8 @@
       "translit": "yaqtirennah",
       "ref": "Exod.30.7",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -211,7 +230,8 @@
       "translit": "taqtir",
       "ref": "Hos.2.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -220,7 +240,8 @@
       "translit": "taqtir",
       "ref": "Num.18.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -231,7 +252,8 @@
       "translit": "vhiqtarta",
       "ref": "Exod.29.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -240,7 +262,8 @@
       "translit": "vhiqtir",
       "ref": "Exod.30.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -249,7 +272,8 @@
       "translit": "vhiqtiru",
       "ref": "Lev.3.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -260,7 +284,8 @@
       "translit": "haqter",
       "ref": "2Kgs.16.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -271,7 +296,8 @@
       "translit": "lhaqtir",
       "ref": "1Chr.23.13",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -282,7 +308,8 @@
       "translit": "vhaqter",
       "ref": "1Kgs.9.25",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -293,7 +320,8 @@
       "translit": "yaqtirun",
       "ref": "1Sam.2.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      }
     ]
    }
@@ -310,7 +338,8 @@
       "translit": "muqtar",
       "ref": "Mal.1.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -321,7 +350,8 @@
       "translit": "taqtar",
       "ref": "Lev.6.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

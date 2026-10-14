@@ -16,7 +16,8 @@
       "translit": "sacharu",
       "ref": "Jer.14.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "vyischaru",
       "ref": "Gen.34.21",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -36,7 +38,8 @@
       "translit": "tischaru",
       "ref": "Gen.42.34",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -47,7 +50,8 @@
       "translit": "uscharuha",
       "ref": "Gen.34.10",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -58,7 +62,8 @@
       "translit": "socher",
       "ref": "Prov.31.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "mp",
@@ -67,7 +72,8 @@
       "translit": "socharim",
       "ref": "Ezek.27.36",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -85,7 +91,8 @@
       "translit": "scharchar",
       "ref": "Ps.38.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

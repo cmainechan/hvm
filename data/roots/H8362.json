@@ -16,7 +16,8 @@
       "translit": "vshatalti",
       "ref": "Ezek.17.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "eshtolennu",
       "ref": "Ezek.17.23",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -38,7 +40,8 @@
       "translit": "shtulah",
       "ref": "Ezek.17.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

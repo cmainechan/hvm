@@ -16,7 +16,8 @@
       "translit": "vara",
       "ref": "2Sam.12.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "v'evreh",
       "ref": "2Sam.13.10",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -38,7 +40,8 @@
       "translit": "bru",
       "ref": "1Sam.17.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -56,7 +59,8 @@
       "translit": "lvarot",
       "ref": "Lam.4.10",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -73,7 +77,8 @@
       "translit": "vtavreni",
       "ref": "2Sam.13.5",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -84,7 +89,8 @@
       "translit": "lhavrot",
       "ref": "2Sam.3.35",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

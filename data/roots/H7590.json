@@ -17,7 +17,8 @@
       "translit": "hassha'tot",
       "ref": "Ezek.16.57",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "mp",
@@ -26,7 +27,8 @@
       "translit": "hassha'tim",
       "ref": "Ezek.28.24",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

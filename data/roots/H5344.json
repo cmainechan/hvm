@@ -16,7 +16,8 @@
       "translit": "naqavta",
       "ref": "Hab.3.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -27,7 +28,8 @@
       "translit": "vayyiqqov",
       "ref": "2Kgs.12.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -38,7 +40,8 @@
       "translit": "yinqav",
       "ref": "Job.40.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -47,7 +50,8 @@
       "translit": "tiqqov",
       "ref": "Job.41.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -56,7 +60,8 @@
       "translit": "eqqov",
       "ref": "Num.23.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -65,7 +70,8 @@
       "translit": "yiqqvuhu",
       "ref": "Job.3.8",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -76,7 +82,8 @@
       "translit": "unqavahh",
       "ref": "2Kgs.18.21",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -87,7 +94,8 @@
       "translit": "naqvah",
       "ref": "Gen.30.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      }
     ],
     "participle_active": [
@@ -98,7 +106,8 @@
       "translit": "vnoqev",
       "ref": "Lev.24.16",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -109,7 +118,8 @@
       "translit": "naquv",
       "ref": "Hag.1.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -120,7 +130,8 @@
       "translit": "bnaqvo",
       "ref": "Lev.24.16",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -138,7 +149,8 @@
       "translit": "niqqvu",
       "ref": "1Chr.12.31",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

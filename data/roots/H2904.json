@@ -16,7 +16,8 @@
       "translit": "hetil",
       "ref": "Jonah.1.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -27,7 +28,8 @@
       "translit": "vayyatel",
       "ref": "1Sam.18.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -36,7 +38,8 @@
       "translit": "vayyatilu",
       "ref": "Jonah.1.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -47,7 +50,8 @@
       "translit": "vehetalti",
       "ref": "Jer.16.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -58,7 +62,8 @@
       "translit": "atilekha",
       "ref": "Ezek.32.4",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -69,7 +74,8 @@
       "translit": "vahatiluni",
       "ref": "Jonah.1.12",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -86,7 +92,8 @@
       "translit": "mtaltelkha",
       "ref": "Isa.22.17",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -103,7 +110,8 @@
       "translit": "hutalu",
       "ref": "Jer.22.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -114,7 +122,8 @@
       "translit": "yutal",
       "ref": "Job.41.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

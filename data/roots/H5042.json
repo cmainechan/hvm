@@ -16,7 +16,8 @@
       "translit": "novea",
       "ref": "Prov.18.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -33,7 +34,8 @@
       "translit": "yabbia",
       "ref": "Eccl.10.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -44,7 +46,8 @@
       "translit": "abbi'ah",
       "ref": "Prov.1.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

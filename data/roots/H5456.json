@@ -16,7 +16,8 @@
       "translit": "vayyisgad",
       "ref": "Isa.44.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "yisgad",
       "ref": "Isa.44.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -36,7 +38,8 @@
       "translit": "esgod",
       "ref": "Isa.44.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -45,7 +48,8 @@
       "translit": "yisgdu",
       "ref": "Isa.46.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

@@ -16,7 +16,8 @@
       "translit": "azru",
       "ref": "1Sam.2.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "tezor",
       "ref": "Jer.1.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -36,7 +38,8 @@
       "translit": "ya'azreni",
       "ref": "Job.30.18",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -47,7 +50,8 @@
       "translit": "ezar",
       "ref": "Job.38.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -58,7 +62,8 @@
       "translit": "azur",
       "ref": "2Kgs.1.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -75,7 +80,8 @@
       "translit": "nezar",
       "ref": "Ps.65.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -92,7 +98,8 @@
       "translit": "vattazreni",
       "ref": "2Sam.22.40",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -103,7 +110,8 @@
       "translit": "a'azzerkha",
       "ref": "Isa.45.5",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -120,7 +128,8 @@
       "translit": "hit'azzar",
       "ref": "Ps.93.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -131,7 +140,8 @@
       "translit": "hit'azzru",
       "ref": "Isa.8.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

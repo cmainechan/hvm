@@ -16,7 +16,8 @@
       "translit": "iuto",
       "ref": "Eccl.7.13",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "y'avvet",
       "ref": "Job.34.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -38,7 +40,8 @@
       "translit": "ul'avvet",
       "ref": "Amos.8.5",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -56,7 +59,8 @@
       "translit": "m'uvvat",
       "ref": "Eccl.1.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -73,7 +77,8 @@
       "translit": "vhit'autu",
       "ref": "Eccl.12.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

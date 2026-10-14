@@ -16,7 +16,8 @@
       "translit": "chatzah",
       "ref": "Num.31.42",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -27,7 +28,8 @@
       "translit": "vayyachatz",
       "ref": "Gen.32.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -38,7 +40,8 @@
       "translit": "vchatzita",
       "ref": "Num.31.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -47,7 +50,8 @@
       "translit": "vchatzu",
       "ref": "Exod.21.35",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -58,7 +62,8 @@
       "translit": "yechetzun",
       "ref": "Exod.21.35",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      },
      {
       "code": "3ms",
@@ -67,7 +72,8 @@
       "translit": "yechetzeh",
       "ref": "Isa.30.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -85,7 +91,8 @@
       "translit": "vayyechatzu",
       "ref": "2Kgs.2.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -96,7 +103,8 @@
       "translit": "yechatzu",
       "ref": "Ezek.37.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -107,7 +115,8 @@
       "translit": "vtechatz",
       "ref": "Dan.11.4",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

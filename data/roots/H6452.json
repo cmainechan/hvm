@@ -16,7 +16,8 @@
       "translit": "pasocha",
       "ref": "Isa.31.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -27,7 +28,8 @@
       "translit": "poschim",
       "ref": "1Kgs.18.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "perfect": [
@@ -38,7 +40,8 @@
       "translit": "pasach",
       "ref": "Exod.12.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -49,7 +52,8 @@
       "translit": "ufasachti",
       "ref": "Exod.12.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -58,7 +62,8 @@
       "translit": "ufasach",
       "ref": "Exod.12.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -76,7 +81,8 @@
       "translit": "vayyippasecha",
       "ref": "2Sam.4.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -93,7 +99,8 @@
       "translit": "vayfasschu",
       "ref": "1Kgs.18.26",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

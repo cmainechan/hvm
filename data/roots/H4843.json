@@ -16,7 +16,8 @@
       "translit": "marah",
       "ref": "2Kgs.4.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -25,7 +26,8 @@
       "translit": "mar",
       "ref": "Isa.38.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -36,7 +38,8 @@
       "translit": "yemar",
       "ref": "Isa.24.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -53,7 +56,8 @@
       "translit": "vaymarru",
       "ref": "Exod.1.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -64,7 +68,8 @@
       "translit": "amarer",
       "ref": "Isa.22.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -81,7 +86,8 @@
       "translit": "tammer",
       "ref": "Exod.23.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "perfect": [
@@ -92,7 +98,8 @@
       "translit": "hemar",
       "ref": "Job.27.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -103,7 +110,8 @@
       "translit": "vhamer",
       "ref": "Zech.12.10",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -114,7 +122,8 @@
       "translit": "khamer",
       "ref": "Zech.12.10",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -131,7 +140,8 @@
       "translit": "vayyitmarmar",
       "ref": "Dan.8.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -142,7 +152,8 @@
       "translit": "vyitmarmar",
       "ref": "Dan.11.11",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

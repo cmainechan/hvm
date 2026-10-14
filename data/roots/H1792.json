@@ -16,7 +16,8 @@
       "translit": "nidka'im",
       "ref": "Isa.57.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -34,7 +35,8 @@
       "translit": "dikka",
       "ref": "Ps.143.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -43,7 +45,8 @@
       "translit": "dikkita",
       "ref": "Ps.89.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -54,7 +57,8 @@
       "translit": "vidakke",
       "ref": "Ps.72.4",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -63,7 +67,8 @@
       "translit": "ydakku",
       "ref": "Ps.94.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -72,7 +77,8 @@
       "translit": "tdakku",
       "ref": "Isa.3.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -83,7 +89,8 @@
       "translit": "tdakke",
       "ref": "Prov.22.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -94,7 +101,8 @@
       "translit": "dakk'o",
       "ref": "Isa.53.10",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -111,7 +119,8 @@
       "translit": "dukku",
       "ref": "Jer.44.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -122,7 +131,8 @@
       "translit": "ydukka",
       "ref": "Job.22.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -133,7 +143,8 @@
       "translit": "mdukka",
       "ref": "Isa.53.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "mp",
@@ -142,7 +153,8 @@
       "translit": "mdukka'im",
       "ref": "Isa.19.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -160,7 +172,8 @@
       "translit": "vyiddakka'u",
       "ref": "Job.34.25",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

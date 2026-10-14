@@ -16,7 +16,8 @@
       "translit": "mzummanim",
       "ref": "Ezra.10.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "fp",
@@ -25,7 +26,8 @@
       "translit": "mzummanot",
       "ref": "Neh.13.31",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

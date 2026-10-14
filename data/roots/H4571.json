@@ -16,7 +16,8 @@
       "translit": "ma'adu",
       "ref": "2Sam.22.37",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "em'ad",
       "ref": "Ps.26.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -36,7 +38,8 @@
       "translit": "tim'ad",
       "ref": "Ps.37.31",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -53,7 +56,8 @@
       "translit": "ham'ad",
       "ref": "Ps.69.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

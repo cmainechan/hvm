@@ -16,7 +16,8 @@
       "translit": "vqatafta",
       "ref": "Deut.23.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "perfect": [
@@ -27,7 +28,8 @@
       "translit": "qataf",
       "ref": "Ezek.17.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -38,7 +40,8 @@
       "translit": "eqtof",
       "ref": "Ezek.17.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -49,7 +52,8 @@
       "translit": "haqqotfim",
       "ref": "Job.30.4",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -67,7 +71,8 @@
       "translit": "yiqqatef",
       "ref": "Job.8.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

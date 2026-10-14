@@ -16,7 +16,8 @@
       "translit": "yitqfo",
       "ref": "Eccl.4.12",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -25,7 +26,8 @@
       "translit": "titqfehu",
       "ref": "Job.14.20",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -34,7 +36,8 @@
       "translit": "titqfehu",
       "ref": "Job.15.24",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -49,10 +52,11 @@
       "code": "inf",
       "label": "infinitive",
       "heb": "שהתקיף",
-      "translit": "shhtqf",
+      "translit": "shhtqyf",
       "ref": "Eccl.6.10",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },

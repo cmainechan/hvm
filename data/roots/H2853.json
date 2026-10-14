@@ -16,7 +16,8 @@
       "translit": "vhachtel",
       "ref": "Ezek.16.4",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -34,7 +35,8 @@
       "translit": "chuttalt",
       "ref": "Ezek.16.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

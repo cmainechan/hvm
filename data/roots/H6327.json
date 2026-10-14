@@ -16,7 +16,8 @@
       "translit": "vayyafutzu",
       "ref": "1Sam.11.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fp",
@@ -25,7 +26,8 @@
       "translit": "vattfutzenah",
       "ref": "Ezek.34.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -36,7 +38,8 @@
       "translit": "yafutzu",
       "ref": "Ezek.46.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -45,7 +48,8 @@
       "translit": "nafutz",
       "ref": "Gen.11.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fp",
@@ -54,7 +58,8 @@
       "translit": "tfutzenah",
       "ref": "Zech.1.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -65,7 +70,8 @@
       "translit": "putzu",
       "ref": "1Sam.14.34",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -82,7 +88,8 @@
       "translit": "nafotzu",
       "ref": "2Kgs.25.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -91,7 +98,8 @@
       "translit": "nfotzotem",
       "ref": "Ezek.11.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -100,7 +108,8 @@
       "translit": "nafotzah",
       "ref": "Jer.10.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -111,7 +120,8 @@
       "translit": "nfotzim",
       "ref": "1Kgs.22.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "fs",
@@ -120,7 +130,8 @@
       "translit": "nafotzet",
       "ref": "2Sam.18.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -131,7 +142,8 @@
       "translit": "vnafotzu",
       "ref": "Jer.40.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -148,7 +160,8 @@
       "translit": "hefitzkha",
       "ref": "Deut.30.3",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -157,7 +170,8 @@
       "translit": "hafitzotim",
       "ref": "Ezek.11.16",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -166,7 +180,8 @@
       "translit": "hafitzotem",
       "ref": "Ezek.34.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -175,7 +190,8 @@
       "translit": "vehefitzuhu",
       "ref": "Job.18.11",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -186,7 +202,8 @@
       "translit": "vayyafetz",
       "ref": "1Sam.13.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -195,7 +212,8 @@
       "translit": "va'afitz",
       "ref": "Ezek.36.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -206,7 +224,8 @@
       "translit": "umfitzim",
       "ref": "Jer.23.1",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "ms",
@@ -215,7 +234,8 @@
       "translit": "mefitz",
       "ref": "Nah.2.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -226,7 +246,8 @@
       "translit": "va'afitzem",
       "ref": "Gen.49.7",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -235,7 +256,8 @@
       "translit": "tafitz",
       "ref": "Isa.41.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -244,7 +266,8 @@
       "translit": "yafitz",
       "ref": "Job.37.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -253,7 +276,8 @@
       "translit": "utfitzem",
       "ref": "Ps.144.6",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -264,7 +288,8 @@
       "translit": "vhefitz",
       "ref": "Deut.4.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -273,7 +298,8 @@
       "translit": "vahafitzoti",
       "ref": "Ezek.22.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -284,7 +310,8 @@
       "translit": "hafetz",
       "ref": "Job.40.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -295,7 +322,8 @@
       "translit": "bahafitzi",
       "ref": "Ezek.12.15",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -312,7 +340,8 @@
       "translit": "vayfatzptzeni",
       "ref": "Job.16.12",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -329,7 +358,8 @@
       "translit": "yfotzetz",
       "ref": "Jer.23.29",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -346,7 +376,8 @@
       "translit": "vayyitpotztzu",
       "ref": "Hab.3.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

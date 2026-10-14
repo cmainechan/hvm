@@ -16,7 +16,8 @@
       "translit": "daqaru",
       "ref": "Zech.12.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -27,7 +28,8 @@
       "translit": "udqaruhu",
       "ref": "Zech.13.3",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -38,7 +40,8 @@
       "translit": "vayyidqor",
       "ref": "Num.25.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -49,7 +52,8 @@
       "translit": "vdaqreni",
       "ref": "1Chr.10.4",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -66,7 +70,8 @@
       "translit": "yiddaqer",
       "ref": "Isa.13.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -83,7 +88,8 @@
       "translit": "mduqqarim",
       "ref": "Jer.37.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

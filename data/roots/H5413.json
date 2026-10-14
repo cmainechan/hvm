@@ -16,7 +16,8 @@
       "translit": "vattittakh",
       "ref": "Dan.9.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -25,7 +26,8 @@
       "translit": "vayyittkhu",
       "ref": "Job.3.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -36,7 +38,8 @@
       "translit": "tittakh",
       "ref": "2Chr.12.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -53,7 +56,8 @@
       "translit": "nittakh",
       "ref": "2Sam.21.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -62,7 +66,8 @@
       "translit": "nittkhah",
       "ref": "2Chr.34.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -73,7 +78,8 @@
       "translit": "vnittkhah",
       "ref": "Ezek.24.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -82,7 +88,8 @@
       "translit": "vnittakhtem",
       "ref": "Ezek.22.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -93,7 +100,8 @@
       "translit": "nittekhet",
       "ref": "Jer.7.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -110,7 +118,8 @@
       "translit": "hittikhu",
       "ref": "2Kgs.22.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -121,7 +130,8 @@
       "translit": "vayyattikhu",
       "ref": "2Chr.34.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -132,7 +142,8 @@
       "translit": "tattikheni",
       "ref": "Job.10.10",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -143,7 +154,8 @@
       "translit": "vhittakhti",
       "ref": "Ezek.22.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -154,7 +166,8 @@
       "translit": "lhantikh",
       "ref": "Ezek.22.20",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -171,7 +184,8 @@
       "translit": "tuttkhu",
       "ref": "Ezek.22.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

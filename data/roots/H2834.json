@@ -16,7 +16,8 @@
       "translit": "chasaf",
       "ref": "Isa.52.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -27,7 +28,8 @@
       "translit": "vayyechesof",
       "ref": "Ps.29.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -38,7 +40,8 @@
       "translit": "chespi",
       "ref": "Isa.47.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -49,7 +52,8 @@
       "translit": "chasufah",
       "ref": "Ezek.4.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -60,7 +64,8 @@
       "translit": "chasof",
       "ref": "Joel.1.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -71,7 +76,8 @@
       "translit": "lachsof",
       "ref": "Hag.2.16",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },

@@ -16,7 +16,8 @@
       "translit": "chumtzato",
       "ref": "Hos.7.4",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -27,7 +28,8 @@
       "translit": "vchometz",
       "ref": "Ps.71.4",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "perfect": [
@@ -38,7 +40,8 @@
       "translit": "chametz",
       "ref": "Exod.12.39",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -49,7 +52,8 @@
       "translit": "yechmatz",
       "ref": "Exod.12.34",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -67,7 +71,8 @@
       "translit": "yitchammetz",
       "ref": "Ps.73.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

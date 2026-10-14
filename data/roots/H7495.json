@@ -15,7 +15,8 @@
       "translit": "rfa'tim",
       "ref": "Hos.11.3",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -26,7 +27,8 @@
       "translit": "vayyirpa",
       "ref": "2Chr.30.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -35,7 +37,8 @@
       "translit": "vattirpa'eni",
       "ref": "Ps.30.2",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -46,7 +49,8 @@
       "translit": "barof'im",
       "ref": "2Chr.16.12",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "ms",
@@ -55,7 +59,8 @@
       "translit": "rofe",
       "ref": "2Kgs.20.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -66,7 +71,8 @@
       "translit": "v'erpa",
       "ref": "2Chr.7.14",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -75,7 +81,8 @@
       "translit": "yirpa",
       "ref": "2Kgs.20.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fp",
@@ -84,7 +91,8 @@
       "translit": "tirpenah",
       "ref": "Job.5.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -95,7 +103,8 @@
       "translit": "vrafa",
       "ref": "Isa.6.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -104,7 +113,8 @@
       "translit": "urfa'ti",
       "ref": "Isa.57.19",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -115,7 +125,8 @@
       "translit": "rfa'eni",
       "ref": "Jer.17.14",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -126,7 +137,8 @@
       "translit": "lirpo",
       "ref": "Eccl.3.3",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -137,7 +149,8 @@
       "translit": "vrafo",
       "ref": "Isa.19.22",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -154,7 +167,8 @@
       "translit": "nirpa",
       "ref": "Isa.53.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -163,7 +177,8 @@
       "translit": "nirpatah",
       "ref": "Jer.51.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -174,7 +189,8 @@
       "translit": "vayyerafu",
       "ref": "2Kgs.2.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -185,7 +201,8 @@
       "translit": "teraf'u",
       "ref": "1Sam.6.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -194,7 +211,8 @@
       "translit": "vyeraf'u",
       "ref": "Ezek.47.9",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -203,7 +221,8 @@
       "translit": "terafe",
       "ref": "Jer.51.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -214,7 +233,8 @@
       "translit": "vnirpu",
       "ref": "Ezek.47.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -223,7 +243,8 @@
       "translit": "vnirpa",
       "ref": "Lev.13.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -234,7 +255,8 @@
       "translit": "lherafe",
       "ref": "Deut.28.27",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -245,7 +267,8 @@
       "translit": "v'erafe",
       "ref": "Jer.17.14",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -262,7 +285,8 @@
       "translit": "rippi'ti",
       "ref": "2Kgs.2.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -271,7 +295,8 @@
       "translit": "rippe'tem",
       "ref": "Ezek.34.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -280,7 +305,8 @@
       "translit": "rippinu",
       "ref": "Jer.51.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -291,7 +317,8 @@
       "translit": "vayrappe",
       "ref": "1Kgs.18.30",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -300,7 +327,8 @@
       "translit": "vayrapp'u",
       "ref": "Jer.6.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -311,7 +339,8 @@
       "translit": "yrappe",
       "ref": "Exod.21.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -322,7 +351,8 @@
       "translit": "vrappo",
       "ref": "Exod.21.19",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -339,7 +369,8 @@
       "translit": "lhitrappe",
       "ref": "2Chr.22.6",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },

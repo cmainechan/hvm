@@ -16,7 +16,8 @@
       "translit": "hagiti",
       "ref": "Ps.143.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "yehgeh",
       "ref": "Isa.31.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -36,7 +38,8 @@
       "translit": "tehgeh",
       "ref": "Isa.59.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -45,7 +48,8 @@
       "translit": "ehgeh",
       "ref": "Isa.38.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -54,7 +58,8 @@
       "translit": "yehgu",
       "ref": "Ps.115.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -63,7 +68,8 @@
       "translit": "tehgu",
       "ref": "Isa.16.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -72,7 +78,8 @@
       "translit": "nehgeh",
       "ref": "Isa.59.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -83,7 +90,8 @@
       "translit": "vhagita",
       "ref": "Josh.1.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -92,7 +100,8 @@
       "translit": "vhagiti",
       "ref": "Ps.77.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -103,7 +112,8 @@
       "translit": "hagoh",
       "ref": "Isa.59.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -121,7 +131,8 @@
       "translit": "vhogo",
       "ref": "Isa.59.13",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -138,7 +149,8 @@
       "translit": "vhammahgim",
       "ref": "Isa.8.19",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

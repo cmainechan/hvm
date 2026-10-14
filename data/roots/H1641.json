@@ -16,7 +16,8 @@
       "translit": "ygorehu",
       "ref": "Hab.1.15",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -34,7 +35,8 @@
       "translit": "yiggar",
       "ref": "Lev.11.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -51,7 +53,8 @@
       "translit": "mgorarot",
       "ref": "1Kgs.7.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -68,7 +71,8 @@
       "translit": "mitgorer",
       "ref": "Jer.30.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

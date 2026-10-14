@@ -16,7 +16,8 @@
       "translit": "rashu",
       "ref": "Ps.34.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -27,7 +28,8 @@
       "translit": "rash",
       "ref": "1Sam.18.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "mp",
@@ -36,7 +38,8 @@
       "translit": "rashim",
       "ref": "Prov.13.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -53,7 +56,8 @@
       "translit": "mitroshesh",
       "ref": "Prov.13.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

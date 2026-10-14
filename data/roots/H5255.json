@@ -16,7 +16,8 @@
       "translit": "vnissachtem",
       "ref": "Deut.28.63",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -34,7 +35,8 @@
       "translit": "yisschu",
       "ref": "Prov.2.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -43,7 +45,8 @@
       "translit": "yissach",
       "ref": "Prov.15.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

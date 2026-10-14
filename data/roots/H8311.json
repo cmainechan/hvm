@@ -17,7 +17,8 @@
       "translit": "sarua",
       "ref": "Lev.21.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -35,7 +36,8 @@
       "translit": "mehistarea",
       "ref": "Isa.28.20",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

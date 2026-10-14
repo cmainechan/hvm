@@ -15,7 +15,8 @@
       "translit": "shakhru",
       "ref": "Isa.29.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -26,7 +27,8 @@
       "translit": "vayyishkar",
       "ref": "Gen.9.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -35,7 +37,8 @@
       "translit": "vayyishkru",
       "ref": "Gen.43.34",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -46,7 +49,8 @@
       "translit": "yishkarun",
       "ref": "Isa.49.26",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      },
      {
       "code": "2fs",
@@ -55,7 +59,8 @@
       "translit": "tishkri",
       "ref": "Lam.4.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -66,7 +71,8 @@
       "translit": "vshikhru",
       "ref": "Jer.25.27",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -77,7 +83,8 @@
       "translit": "lshakhrah",
       "ref": "Hag.1.6",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -94,7 +101,8 @@
       "translit": "vayshakkrehu",
       "ref": "2Sam.11.13",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -105,7 +113,8 @@
       "translit": "mshakkeret",
       "ref": "Jer.51.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -116,7 +125,8 @@
       "translit": "va'ashakkrem",
       "ref": "Isa.63.6",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -127,7 +137,8 @@
       "translit": "shakker",
       "ref": "Hab.2.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -144,7 +155,8 @@
       "translit": "ashkir",
       "ref": "Deut.32.42",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -155,7 +167,8 @@
       "translit": "vhishkartim",
       "ref": "Jer.51.39",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -166,7 +179,8 @@
       "translit": "hashkiruhu",
       "ref": "Jer.48.26",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -183,7 +197,8 @@
       "translit": "tishtakkarin",
       "ref": "1Sam.1.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      }
     ]
    },

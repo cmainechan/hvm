@@ -16,7 +16,8 @@
       "translit": "nochalah",
       "ref": "Ezek.19.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -27,7 +28,8 @@
       "translit": "vayyiyyachel",
       "ref": "Gen.8.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -44,7 +46,8 @@
       "translit": "yichaltani",
       "ref": "Ps.119.49",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -53,7 +56,8 @@
       "translit": "yichalti",
       "ref": "Ps.119.114",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -62,7 +66,8 @@
       "translit": "vyichellu",
       "ref": "Job.29.21",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -71,7 +76,8 @@
       "translit": "yichalnu",
       "ref": "Ps.33.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -82,7 +88,8 @@
       "translit": "yyachel",
       "ref": "Mic.5.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -91,7 +98,8 @@
       "translit": "ayachel",
       "ref": "Job.13.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -100,7 +108,8 @@
       "translit": "yyachelu",
       "ref": "Isa.42.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -111,7 +120,8 @@
       "translit": "vyichalu",
       "ref": "Ezek.13.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -122,7 +132,8 @@
       "translit": "yachel",
       "ref": "Ps.130.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -133,7 +144,8 @@
       "translit": "va'ayachalah",
       "ref": "Job.30.26",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -144,7 +156,8 @@
       "translit": "myachel",
       "ref": "Ps.69.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "mp",
@@ -153,7 +166,8 @@
       "translit": "hamyachalim",
       "ref": "Ps.147.11",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -170,7 +184,8 @@
       "translit": "hochalti",
       "ref": "Job.32.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -181,7 +196,8 @@
       "translit": "vayochel",
       "ref": "1Sam.13.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -192,7 +208,8 @@
       "translit": "ochil",
       "ref": "2Kgs.6.33",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -203,7 +220,8 @@
       "translit": "vhochalti",
       "ref": "Job.32.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -214,7 +232,8 @@
       "translit": "hochili",
       "ref": "Ps.42.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -225,7 +244,8 @@
       "translit": "tochel",
       "ref": "1Sam.10.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -236,7 +256,8 @@
       "translit": "ochilah",
       "ref": "Jer.4.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

@@ -16,7 +16,8 @@
       "translit": "vachataftem",
       "ref": "Judg.21.21",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -27,7 +28,8 @@
       "translit": "lachatof",
       "ref": "Ps.10.9",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -38,7 +40,8 @@
       "translit": "yachtof",
       "ref": "Ps.10.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

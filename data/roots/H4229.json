@@ -16,7 +16,8 @@
       "translit": "machah",
       "ref": "2Kgs.21.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -25,7 +26,8 @@
       "translit": "machita",
       "ref": "Ps.9.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -34,7 +36,8 @@
       "translit": "machiti",
       "ref": "Isa.44.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -45,7 +48,8 @@
       "translit": "vayyimach",
       "ref": "Gen.7.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -56,7 +60,8 @@
       "translit": "yimcheh",
       "ref": "2Kgs.21.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -65,7 +70,8 @@
       "translit": "timcheh",
       "ref": "Deut.25.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -74,7 +80,8 @@
       "translit": "emcheh",
       "ref": "Exod.17.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -85,7 +92,8 @@
       "translit": "umachah",
       "ref": "Deut.29.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -94,7 +102,8 @@
       "translit": "umachatah",
       "ref": "Prov.30.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -103,7 +112,8 @@
       "translit": "umachiti",
       "ref": "2Kgs.21.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -114,7 +124,8 @@
       "translit": "mcheh",
       "ref": "Ps.51.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -125,7 +136,8 @@
       "translit": "v'emcheh",
       "ref": "Deut.9.14",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -136,7 +148,8 @@
       "translit": "mocheh",
       "ref": "Isa.43.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -147,7 +160,8 @@
       "translit": "limchot",
       "ref": "2Kgs.14.27",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -158,7 +172,8 @@
       "translit": "machoh",
       "ref": "Exod.17.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -175,7 +190,8 @@
       "translit": "vayyimmachu",
       "ref": "Gen.7.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -186,7 +202,8 @@
       "translit": "yimmacheh",
       "ref": "Deut.25.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -195,7 +212,8 @@
       "translit": "timmacheh",
       "ref": "Prov.6.33",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -204,7 +222,8 @@
       "translit": "yimmachu",
       "ref": "Ps.69.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -215,7 +234,8 @@
       "translit": "vnimchu",
       "ref": "Ezek.6.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -226,7 +246,8 @@
       "translit": "timmacheh",
       "ref": "Neh.4.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -243,7 +264,8 @@
       "translit": "temchi",
       "ref": "Jer.18.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -254,7 +276,8 @@
       "translit": "lamchot",
       "ref": "Prov.31.3",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -271,7 +294,8 @@
       "translit": "mmuchayim",
       "ref": "Isa.25.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

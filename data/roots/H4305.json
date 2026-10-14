@@ -16,7 +16,8 @@
       "translit": "timmater",
       "ref": "Amos.4.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -33,7 +34,8 @@
       "translit": "himtir",
       "ref": "Gen.19.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -44,7 +46,8 @@
       "translit": "vayyamter",
       "ref": "Exod.9.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -55,7 +58,8 @@
       "translit": "yamter",
       "ref": "Ps.11.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -64,7 +68,8 @@
       "translit": "tamtir",
       "ref": "Amos.4.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -73,7 +78,8 @@
       "translit": "amtir",
       "ref": "Amos.4.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -84,7 +90,8 @@
       "translit": "vhimtarti",
       "ref": "Amos.4.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -95,7 +102,8 @@
       "translit": "mamtir",
       "ref": "Exod.16.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -106,7 +114,8 @@
       "translit": "mehamtir",
       "ref": "Isa.5.6",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

@@ -16,7 +16,8 @@
       "translit": "vashou",
       "ref": "Isa.29.9",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -34,7 +35,8 @@
       "translit": "shi'ashati",
       "ref": "Ps.119.70",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -45,7 +47,8 @@
       "translit": "vshi'asha",
       "ref": "Isa.11.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -56,7 +59,8 @@
       "translit": "ysha'ashu",
       "ref": "Ps.94.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -74,7 +78,8 @@
       "translit": "tsha'oshau",
       "ref": "Isa.66.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -91,7 +96,8 @@
       "translit": "hasha",
       "ref": "Isa.6.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -108,7 +114,8 @@
       "translit": "eshta'asha",
       "ref": "Ps.119.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -119,7 +126,8 @@
       "translit": "hishta'ashu",
       "ref": "Isa.29.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

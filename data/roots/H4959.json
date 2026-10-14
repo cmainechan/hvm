@@ -16,7 +16,8 @@
       "translit": "ymussheni",
       "ref": "Gen.27.12",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -27,7 +28,8 @@
       "translit": "vaymusshehu",
       "ref": "Gen.27.22",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -45,7 +47,8 @@
       "translit": "misshashta",
       "ref": "Gen.31.37",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -56,7 +59,8 @@
       "translit": "ymasshesh",
       "ref": "Deut.28.29",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -67,7 +71,8 @@
       "translit": "vaymasshesh",
       "ref": "Gen.31.34",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -78,7 +83,8 @@
       "translit": "mmasshesh",
       "ref": "Deut.28.29",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -96,7 +102,8 @@
       "translit": "vyamesh",
       "ref": "Exod.10.21",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },

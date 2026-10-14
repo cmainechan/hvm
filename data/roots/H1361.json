@@ -16,7 +16,8 @@
       "translit": "gavahh",
       "ref": "2Chr.26.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -25,7 +26,8 @@
       "translit": "gavha",
       "ref": "Ezek.31.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -34,7 +36,8 @@
       "translit": "gavahta",
       "ref": "Ezek.31.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -43,7 +46,8 @@
       "translit": "gavhu",
       "ref": "Isa.3.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -54,7 +58,8 @@
       "translit": "vayyigbahh",
       "ref": "1Sam.10.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -63,7 +68,8 @@
       "translit": "vattigbahh",
       "ref": "Ezek.19.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -72,7 +78,8 @@
       "translit": "vayyigbahu",
       "ref": "Job.36.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fp",
@@ -81,7 +88,8 @@
       "translit": "vattigbhenah",
       "ref": "Ezek.16.50",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -92,7 +100,8 @@
       "translit": "yigbahh",
       "ref": "Prov.18.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -101,7 +110,8 @@
       "translit": "yigbhu",
       "ref": "Ezek.31.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -112,7 +122,8 @@
       "translit": "vgavahh",
       "ref": "Isa.52.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -123,7 +134,8 @@
       "translit": "tigbahu",
       "ref": "Jer.13.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -134,7 +146,8 @@
       "translit": "khigvohha",
       "ref": "Ps.103.11",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -152,7 +165,8 @@
       "translit": "higbahti",
       "ref": "Ezek.17.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -163,7 +177,8 @@
       "translit": "vayyagbiheha",
       "ref": "2Chr.33.14",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -174,7 +189,8 @@
       "translit": "yagbihha",
       "ref": "Job.39.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -183,7 +199,8 @@
       "translit": "tagbiha",
       "ref": "Jer.49.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -192,7 +209,8 @@
       "translit": "yagbihu",
       "ref": "Job.5.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -203,7 +221,8 @@
       "translit": "magbihha",
       "ref": "Prov.17.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -214,7 +233,8 @@
       "translit": "hagbeha",
       "ref": "Ezek.21.26",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

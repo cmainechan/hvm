@@ -16,7 +16,8 @@
       "translit": "sa'aru",
       "ref": "Ezek.27.35",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "yis'aru",
       "ref": "Ezek.32.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -38,7 +40,8 @@
       "translit": "vsa'aru",
       "ref": "Jer.2.12",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -56,7 +59,8 @@
       "translit": "nis'arah",
       "ref": "Ps.50.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -73,7 +77,8 @@
       "translit": "visa'arehu",
       "ref": "Job.27.21",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -90,7 +95,8 @@
       "translit": "vyista'er",
       "ref": "Dan.11.40",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

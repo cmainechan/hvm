@@ -26,7 +26,7 @@ sys.path.insert(0, str(ROOT / "scripts"))
 
 REQUIRED_ROOT_FIELDS = {"glosses", "strong", "stems", "root", "search_match", "citation_translit"}
 OPTIONAL_ROOT_FIELDS = {"stem_glosses", "strong_alt", "notes", "stem_coverage_checked"}
-REQUIRED_FORM_ROW_FIELDS = {"code", "label", "heb", "translit", "ref", "has_suffix", "has_prefix"}
+REQUIRED_FORM_ROW_FIELDS = {"code", "label", "heb", "translit", "ref", "has_suffix", "has_prefix", "has_paragogic"}
 VALID_CATEGORIES = {
     "perfect", "wayyiqtol", "veqatal", "yiqtol", "imperative",
     "infinitive_construct", "infinitive_absolute", "cohortative", "jussive",
@@ -235,17 +235,19 @@ def test_translit_engine_matches_its_regression_fixture():
 def test_translit_matches_heb_for_prefixed_or_suffixed_forms(strong, data):
     """Every `translit` value should be transliterate() run on that row's
     own `heb` field verbatim (CLAUDE.md step 7) -- so a form with a prefix
-    (conjunction/preposition/article) or suffix (pronominal object) must
-    carry that prefix/suffix in its translit too, not a bare-form trim.
-    A retroactive audit found 1036 rows across 280 roots where the shipped
-    translit didn't match a fresh re-run once has_prefix/has_suffix is
-    true; this is the standing test that prevents that from recurring
-    silently, since the check is cheap and fully mechanical."""
+    (conjunction/preposition/article), a pronominal-object suffix, or a
+    paragogic/directional addition (directional he, paragogic he, paragogic
+    nun) must carry that attachment in its translit too, not a bare-form
+    trim. A retroactive audit found 1036 rows across 280 roots where the
+    shipped translit didn't match a fresh re-run once has_prefix/has_suffix
+    is true; this is the standing test that prevents that from recurring
+    silently, since the check is cheap and fully mechanical. has_paragogic
+    was added later and folded into the same check for the same reason."""
     import translit
     for stem, stem_obj in data["stems"].items():
         for category, rows in stem_obj["forms"].items():
             for row in rows:
-                if not (row.get("has_prefix") or row.get("has_suffix")):
+                if not (row.get("has_prefix") or row.get("has_suffix") or row.get("has_paragogic")):
                     continue
                 expected = translit.transliterate(row["heb"])
                 assert expected == row["translit"], (

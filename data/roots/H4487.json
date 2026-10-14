@@ -16,7 +16,8 @@
       "translit": "manah",
       "ref": "Num.23.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -25,7 +26,8 @@
       "translit": "umaniti",
       "ref": "Isa.65.12",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -36,7 +38,8 @@
       "translit": "vayyimnu",
       "ref": "2Kgs.12.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -47,7 +50,8 @@
       "translit": "timneh",
       "ref": "1Kgs.20.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -58,7 +62,8 @@
       "translit": "meneh",
       "ref": "2Sam.24.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -69,7 +74,8 @@
       "translit": "moneh",
       "ref": "Jer.33.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -80,7 +86,8 @@
       "translit": "limnot",
       "ref": "1Chr.21.1",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -97,7 +104,8 @@
       "translit": "minnah",
       "ref": "Dan.1.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -106,7 +114,8 @@
       "translit": "minnu",
       "ref": "Job.7.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -117,7 +126,8 @@
       "translit": "vayman",
       "ref": "Dan.1.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -128,7 +138,8 @@
       "translit": "man",
       "ref": "Ps.61.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -145,7 +156,8 @@
       "translit": "mmunnim",
       "ref": "1Chr.9.29",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -162,7 +174,8 @@
       "translit": "lhimmanot",
       "ref": "Eccl.1.15",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "perfect": [
@@ -173,7 +186,8 @@
       "translit": "nimnah",
       "ref": "Isa.53.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -184,7 +198,8 @@
       "translit": "yimmanu",
       "ref": "1Kgs.8.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -193,7 +208,8 @@
       "translit": "yimmaneh",
       "ref": "1Kgs.3.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

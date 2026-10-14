@@ -16,7 +16,8 @@
       "translit": "lanum",
       "ref": "Isa.56.10",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -27,7 +28,8 @@
       "translit": "yanum",
       "ref": "Ps.121.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "perfect": [
@@ -38,7 +40,8 @@
       "translit": "namu",
       "ref": "Nah.3.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -49,7 +52,8 @@
       "translit": "yanum",
       "ref": "Isa.5.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

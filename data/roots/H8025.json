@@ -15,7 +15,8 @@
       "translit": "shlof",
       "ref": "1Chr.10.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -26,7 +27,8 @@
       "translit": "sholef",
       "ref": "1Chr.21.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -37,7 +39,8 @@
       "translit": "shlufah",
       "ref": "1Chr.21.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -48,7 +51,8 @@
       "translit": "vayyishlfahh",
       "ref": "1Sam.17.51",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "perfect": [
@@ -59,7 +63,8 @@
       "translit": "shalaf",
       "ref": "Job.20.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

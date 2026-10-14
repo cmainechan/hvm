@@ -16,7 +16,8 @@
       "translit": "asaram",
       "ref": "Job.36.13",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -25,7 +26,8 @@
       "translit": "va'asarnuhu",
       "ref": "Judg.16.5",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -34,7 +36,8 @@
       "translit": "asrah",
       "ref": "Num.30.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -45,7 +48,8 @@
       "translit": "vayya'asrum",
       "ref": "1Sam.6.10",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -54,7 +58,8 @@
       "translit": "vayye'sor",
       "ref": "2Chr.13.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -63,7 +68,8 @@
       "translit": "vatta'asrehu",
       "ref": "Judg.16.8",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -74,7 +80,8 @@
       "translit": "asur",
       "ref": "2Kgs.7.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "fp",
@@ -83,7 +90,8 @@
       "translit": "asurot",
       "ref": "2Sam.3.34",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "mp",
@@ -92,7 +100,8 @@
       "translit": "hasurim",
       "ref": "Eccl.4.14",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -103,7 +112,8 @@
       "translit": "ye'sor",
       "ref": "1Kgs.20.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -112,7 +122,8 @@
       "translit": "ne'esarkha",
       "ref": "Judg.15.13",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -121,7 +132,8 @@
       "translit": "ya'asruni",
       "ref": "Judg.16.7",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -132,7 +144,8 @@
       "translit": "va'asartem",
       "ref": "1Sam.6.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -141,7 +154,8 @@
       "translit": "va'asarukha",
       "ref": "Ezek.3.25",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -150,7 +164,8 @@
       "translit": "v'asrah",
       "ref": "Num.30.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -161,7 +176,8 @@
       "translit": "esor",
       "ref": "1Kgs.18.44",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -170,7 +186,8 @@
       "translit": "isru",
       "ref": "Jer.46.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -181,7 +198,8 @@
       "translit": "b'asram",
       "ref": "Hos.10.10",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -192,7 +210,8 @@
       "translit": "asor",
       "ref": "Judg.15.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -209,7 +228,8 @@
       "translit": "ye'aser",
       "ref": "Gen.42.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -218,7 +238,8 @@
       "translit": "te'aser",
       "ref": "Judg.16.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -229,7 +250,8 @@
       "translit": "he'asru",
       "ref": "Gen.42.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -246,7 +268,8 @@
       "translit": "ussaru",
       "ref": "Isa.22.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

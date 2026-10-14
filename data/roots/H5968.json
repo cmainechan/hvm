@@ -16,7 +16,8 @@
       "translit": "tit'allafnah",
       "ref": "Amos.8.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -27,7 +28,8 @@
       "translit": "vattit'allaf",
       "ref": "Gen.38.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -36,7 +38,8 @@
       "translit": "vayyit'allaf",
       "ref": "Jonah.4.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -53,7 +56,8 @@
       "translit": "ullefu",
       "ref": "Isa.51.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -64,7 +68,8 @@
       "translit": "me'uleffet",
       "ref": "Song.5.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

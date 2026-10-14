@@ -16,7 +16,8 @@
       "translit": "lachamu",
       "ref": "Prov.4.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -27,7 +28,8 @@
       "translit": "lochem",
       "ref": "Ps.56.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "mp",
@@ -36,7 +38,8 @@
       "translit": "lochamim",
       "ref": "Ps.56.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -47,7 +50,8 @@
       "translit": "elcham",
       "ref": "Ps.141.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -58,7 +62,8 @@
       "translit": "lachamu",
       "ref": "Prov.9.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -67,7 +72,8 @@
       "translit": "lcham",
       "ref": "Ps.35.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -78,7 +84,8 @@
       "translit": "lilchom",
       "ref": "Prov.23.1",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -89,7 +96,8 @@
       "translit": "tilcham",
       "ref": "Prov.23.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -106,7 +114,8 @@
       "translit": "nilchamu",
       "ref": "1Chr.10.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -115,7 +124,8 @@
       "translit": "nilcham",
       "ref": "1Chr.18.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -124,7 +134,8 @@
       "translit": "nilchamti",
       "ref": "2Sam.12.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -135,7 +146,8 @@
       "translit": "vayyillachamu",
       "ref": "1Chr.19.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -144,7 +156,8 @@
       "translit": "vayyillachem",
       "ref": "1Kgs.20.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -155,7 +168,8 @@
       "translit": "nilchamim",
       "ref": "1Sam.17.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "ms",
@@ -164,7 +178,8 @@
       "translit": "nilcham",
       "ref": "1Sam.25.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -172,10 +187,11 @@
       "code": "2mp",
       "label": "2nd masc. pl.",
       "heb": "תִלָּחֲמוּן",
-      "translit": "tillachamu",
+      "translit": "tillachamun",
       "ref": "1Kgs.12.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      },
      {
       "code": "1cp",
@@ -184,7 +200,8 @@
       "translit": "nillachem",
       "ref": "1Kgs.20.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -193,7 +210,8 @@
       "translit": "yillachem",
       "ref": "Deut.1.30",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -202,7 +220,8 @@
       "translit": "tillachem",
       "ref": "Zech.14.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -213,7 +232,8 @@
       "translit": "vnilchamtem",
       "ref": "1Sam.4.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -222,7 +242,8 @@
       "translit": "vnilcham",
       "ref": "1Sam.8.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -231,7 +252,8 @@
       "translit": "vnilchamta",
       "ref": "1Sam.15.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -240,7 +262,8 @@
       "translit": "vnilchamti",
       "ref": "1Sam.29.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -249,7 +272,8 @@
       "translit": "vnilchamnu",
       "ref": "Deut.1.41",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -258,7 +282,8 @@
       "translit": "vnilchamu",
       "ref": "Isa.19.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -269,7 +294,8 @@
       "translit": "vhillachem",
       "ref": "1Sam.18.17",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -278,7 +304,8 @@
       "translit": "vhillachamu",
       "ref": "2Kgs.10.3",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -289,7 +316,8 @@
       "translit": "lhillachem",
       "ref": "1Kgs.12.21",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -300,7 +328,8 @@
       "translit": "nilchom",
       "ref": "Judg.11.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -311,7 +340,8 @@
       "translit": "vnillachamah",
       "ref": "1Kgs.20.25",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -322,7 +352,8 @@
       "translit": "tillachamu",
       "ref": "2Chr.13.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

@@ -17,7 +17,8 @@
       "translit": "va'amushkha",
       "ref": "Gen.27.21",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -35,7 +36,8 @@
       "translit": "vahamisheni",
       "ref": "Judg.16.26",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -46,7 +48,8 @@
       "translit": "ymishun",
       "ref": "Ps.115.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      }
     ]
    }

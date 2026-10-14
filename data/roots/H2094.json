@@ -16,7 +16,8 @@
       "translit": "vhizhiro",
       "ref": "2Kgs.6.10",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -25,7 +26,8 @@
       "translit": "hizharta",
       "ref": "Ezek.3.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -36,7 +38,8 @@
       "translit": "yazhiru",
       "ref": "Dan.12.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -47,7 +50,8 @@
       "translit": "vhizhir",
       "ref": "Ezek.33.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -56,7 +60,8 @@
       "translit": "vhizhartah",
       "ref": "Exod.18.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -65,7 +70,8 @@
       "translit": "vhizhartem",
       "ref": "2Chr.19.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -76,7 +82,8 @@
       "translit": "lhazhir",
       "ref": "Ezek.3.18",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -94,7 +101,8 @@
       "translit": "nizhar",
       "ref": "Ezek.33.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -105,7 +113,8 @@
       "translit": "hizzaher",
       "ref": "Eccl.12.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -116,7 +125,8 @@
       "translit": "nizhar",
       "ref": "Ezek.3.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -127,7 +137,8 @@
       "translit": "lhizzaher",
       "ref": "Eccl.4.13",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

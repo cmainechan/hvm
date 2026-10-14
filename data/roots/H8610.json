@@ -15,7 +15,8 @@
       "translit": "tafas",
       "ref": "2Chr.25.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -24,7 +25,8 @@
       "translit": "tfastem",
       "ref": "Jer.40.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -33,7 +35,8 @@
       "translit": "tafsu",
       "ref": "Josh.8.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -44,7 +47,8 @@
       "translit": "vayyitpos",
       "ref": "1Kgs.11.30",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -53,7 +57,8 @@
       "translit": "vayyitpsum",
       "ref": "1Kgs.18.40",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -62,7 +67,8 @@
       "translit": "va'etpos",
       "ref": "Deut.9.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -71,7 +77,8 @@
       "translit": "vattitpsehu",
       "ref": "Gen.39.12",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -82,7 +89,8 @@
       "translit": "tafus",
       "ref": "Hab.2.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -93,7 +101,8 @@
       "translit": "vnitpsem",
       "ref": "2Kgs.7.12",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -102,7 +111,8 @@
       "translit": "yitpos",
       "ref": "Isa.3.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -113,7 +123,8 @@
       "translit": "vtafsu",
       "ref": "Deut.21.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -122,7 +133,8 @@
       "translit": "utfasahh",
       "ref": "Deut.22.28",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -131,7 +143,8 @@
       "translit": "vtafasti",
       "ref": "Prov.30.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -142,7 +155,8 @@
       "translit": "tifsuhu",
       "ref": "1Kgs.13.4",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -153,7 +167,8 @@
       "translit": "ltafsam",
       "ref": "1Sam.23.26",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -164,7 +179,8 @@
       "translit": "tafos",
       "ref": "Jer.34.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -181,7 +197,8 @@
       "translit": "nitpas",
       "ref": "Ezek.19.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -190,7 +207,8 @@
       "translit": "nitpasah",
       "ref": "Jer.48.41",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -199,7 +217,8 @@
       "translit": "nitpast",
       "ref": "Jer.50.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -208,7 +227,8 @@
       "translit": "nitpasu",
       "ref": "Jer.51.32",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -219,7 +239,8 @@
       "translit": "vattittafes",
       "ref": "Jer.51.41",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -230,7 +251,8 @@
       "translit": "tittafesu",
       "ref": "Ezek.21.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -239,7 +261,8 @@
       "translit": "tittafes",
       "ref": "Jer.34.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -248,7 +271,8 @@
       "translit": "yittafsu",
       "ref": "Ps.10.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -259,7 +283,8 @@
       "translit": "vnitpas",
       "ref": "Ezek.12.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -270,7 +295,8 @@
       "translit": "lhittafes",
       "ref": "Ezek.21.23",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -287,7 +313,8 @@
       "translit": "ttappes",
       "ref": "Prov.30.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

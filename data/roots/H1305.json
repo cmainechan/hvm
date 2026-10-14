@@ -16,7 +16,8 @@
       "translit": "uvaroti",
       "ref": "Ezek.20.38",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -27,7 +28,8 @@
       "translit": "lvaram",
       "ref": "Eccl.3.18",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -38,7 +40,8 @@
       "translit": "brurot",
       "ref": "Neh.5.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "mp",
@@ -47,7 +50,8 @@
       "translit": "brurim",
       "ref": "1Chr.7.40",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "ms",
@@ -56,7 +60,8 @@
       "translit": "barur",
       "ref": "Isa.49.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -74,7 +79,8 @@
       "translit": "tittavar",
       "ref": "2Sam.22.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -85,7 +91,8 @@
       "translit": "hibbaru",
       "ref": "Isa.52.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -96,7 +103,8 @@
       "translit": "navar",
       "ref": "2Sam.22.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -113,7 +121,8 @@
       "translit": "ulvarer",
       "ref": "Dan.11.35",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -130,7 +139,8 @@
       "translit": "haveru",
       "ref": "Jer.51.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -141,7 +151,8 @@
       "translit": "lhavar",
       "ref": "Jer.4.11",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -159,7 +170,8 @@
       "translit": "titbarar",
       "ref": "Ps.18.26",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -168,7 +180,8 @@
       "translit": "yitbararu",
       "ref": "Dan.12.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

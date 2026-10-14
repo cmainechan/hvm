@@ -16,7 +16,8 @@
       "translit": "yaluzu",
       "ref": "Prov.3.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -34,7 +35,8 @@
       "translit": "unlozim",
       "ref": "Prov.2.15",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "ms",
@@ -43,7 +45,8 @@
       "translit": "naloz",
       "ref": "Prov.3.32",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -61,7 +64,8 @@
       "translit": "yallizu",
       "ref": "Prov.4.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

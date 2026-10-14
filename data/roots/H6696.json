@@ -16,7 +16,8 @@
       "translit": "tzartani",
       "ref": "Ps.139.5",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -27,7 +28,8 @@
       "translit": "vayyatzar",
       "ref": "1Chr.20.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -36,7 +38,8 @@
       "translit": "vayyatzuru",
       "ref": "1Kgs.16.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -47,7 +50,8 @@
       "translit": "tatzur",
       "ref": "Deut.20.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -56,7 +60,8 @@
       "translit": "natzur",
       "ref": "Song.8.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -67,7 +72,8 @@
       "translit": "vtzarta",
       "ref": "Deut.20.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -76,7 +82,8 @@
       "translit": "vtzarti",
       "ref": "Exod.23.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -87,7 +94,8 @@
       "translit": "tzuri",
       "ref": "Isa.21.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -98,7 +106,8 @@
       "translit": "tatzar",
       "ref": "Deut.2.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -109,7 +118,8 @@
       "translit": "tzarim",
       "ref": "1Kgs.15.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -120,7 +130,8 @@
       "translit": "latzur",
       "ref": "1Sam.23.8",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -138,7 +149,8 @@
       "translit": "vayyatzar",
       "ref": "2Chr.28.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -149,7 +161,8 @@
       "translit": "yatzar",
       "ref": "2Chr.6.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

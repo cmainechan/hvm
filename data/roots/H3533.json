@@ -16,7 +16,8 @@
       "translit": "vkhavshu",
       "ref": "Zech.9.15",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -27,7 +28,8 @@
       "translit": "vattikhbshu",
       "ref": "Jer.34.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -36,7 +38,8 @@
       "translit": "vayyikhbshum",
       "ref": "Jer.34.11",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -47,7 +50,8 @@
       "translit": "yikhbosh",
       "ref": "Mic.7.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -58,7 +62,8 @@
       "translit": "vkhivshuha",
       "ref": "Gen.1.28",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -69,7 +74,8 @@
       "translit": "likhbosh",
       "ref": "2Chr.28.10",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -80,7 +86,8 @@
       "translit": "khovshim",
       "ref": "Neh.5.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -98,7 +105,8 @@
       "translit": "nikhbshah",
       "ref": "Josh.18.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -109,7 +117,8 @@
       "translit": "vnikhbshah",
       "ref": "1Chr.22.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -120,7 +129,8 @@
       "translit": "nikhbashot",
       "ref": "Neh.5.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -137,7 +147,8 @@
       "translit": "kibbesh",
       "ref": "2Sam.8.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

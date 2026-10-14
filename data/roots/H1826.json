@@ -16,7 +16,8 @@
       "translit": "dammu",
       "ref": "Job.30.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -27,7 +28,8 @@
       "translit": "vayyiddom",
       "ref": "Josh.10.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -36,7 +38,8 @@
       "translit": "va'eddom",
       "ref": "Job.31.34",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -47,7 +50,8 @@
       "translit": "yiddom",
       "ref": "Amos.5.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -56,7 +60,8 @@
       "translit": "tiddommi",
       "ref": "Jer.48.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -65,7 +70,8 @@
       "translit": "yiddmu",
       "ref": "Exod.15.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -76,7 +82,8 @@
       "translit": "dom",
       "ref": "Ezek.24.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -85,7 +92,8 @@
       "translit": "dommi",
       "ref": "Ps.62.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -94,7 +102,8 @@
       "translit": "dommu",
       "ref": "1Sam.14.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -105,7 +114,8 @@
       "translit": "vyiddom",
       "ref": "Lam.3.28",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -114,7 +124,8 @@
       "translit": "tiddom",
       "ref": "Lam.2.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -125,7 +136,8 @@
       "translit": "vniddmah",
       "ref": "Jer.8.14",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -143,7 +155,8 @@
       "translit": "yiddammu",
       "ref": "1Sam.2.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -154,7 +167,8 @@
       "translit": "vnadammu",
       "ref": "Jer.25.37",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -165,7 +179,8 @@
       "translit": "tiddammu",
       "ref": "Jer.51.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -183,7 +198,8 @@
       "translit": "hadimmanu",
       "ref": "Jer.8.14",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -201,7 +217,8 @@
       "translit": "vdomamti",
       "ref": "Ps.131.2",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

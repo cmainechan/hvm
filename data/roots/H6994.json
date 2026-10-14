@@ -16,7 +16,8 @@
       "translit": "vattiqtan",
       "ref": "1Chr.17.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "perfect": [
@@ -27,7 +28,8 @@
       "translit": "qatonti",
       "ref": "Gen.32.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -45,7 +47,8 @@
       "translit": "lhaqtin",
       "ref": "Amos.8.5",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },

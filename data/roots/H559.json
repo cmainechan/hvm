@@ -16,7 +16,8 @@
       "translit": "amar",
       "ref": "1Chr.15.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -25,7 +26,8 @@
       "translit": "amarti",
       "ref": "1Chr.21.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -34,7 +36,8 @@
       "translit": "amarta",
       "ref": "1Kgs.1.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -43,7 +46,8 @@
       "translit": "v'amru",
       "ref": "1Kgs.9.8",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -52,7 +56,8 @@
       "translit": "amrah",
       "ref": "1Sam.1.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -61,7 +66,8 @@
       "translit": "amartem",
       "ref": "1Sam.12.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -70,7 +76,8 @@
       "translit": "amarnu",
       "ref": "2Kgs.7.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -79,7 +86,8 @@
       "translit": "amart",
       "ref": "2Sam.6.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -90,7 +98,8 @@
       "translit": "vayyo'mer",
       "ref": "1Chr.10.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -99,7 +108,8 @@
       "translit": "vayyo'mru",
       "ref": "1Chr.11.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -108,7 +118,8 @@
       "translit": "vatto'mer",
       "ref": "1Kgs.1.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -117,7 +128,8 @@
       "translit": "vatto'mer",
       "ref": "1Kgs.2.42",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -126,7 +138,8 @@
       "translit": "va'omar",
       "ref": "1Kgs.21.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fp",
@@ -135,7 +148,8 @@
       "translit": "vatto'marnah",
       "ref": "1Sam.9.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -144,7 +158,8 @@
       "translit": "vatto'mru",
       "ref": "1Sam.10.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -153,7 +168,8 @@
       "translit": "vanno'mer",
       "ref": "Gen.26.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -162,7 +178,8 @@
       "translit": "vatto'mri",
       "ref": "Isa.47.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -173,7 +190,8 @@
       "translit": "omeret",
       "ref": "1Kgs.3.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "ms",
@@ -182,7 +200,8 @@
       "translit": "omer",
       "ref": "1Kgs.5.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "mp",
@@ -191,7 +210,8 @@
       "translit": "omrim",
       "ref": "2Chr.13.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "fp",
@@ -200,7 +220,8 @@
       "translit": "ha'omrot",
       "ref": "Amos.4.1",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -211,7 +232,8 @@
       "translit": "he'amur",
       "ref": "Mic.2.7",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -222,7 +244,8 @@
       "translit": "vyo'mru",
       "ref": "1Chr.16.31",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -231,7 +254,8 @@
       "translit": "to'mar",
       "ref": "1Chr.17.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -240,16 +264,18 @@
       "translit": "yo'mar",
       "ref": "1Kgs.1.36",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
       "heb": "תֹֽאמְרוּן",
-      "translit": "to'mru",
+      "translit": "to'mrun",
       "ref": "1Sam.11.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      },
      {
       "code": "1cs",
@@ -258,7 +284,8 @@
       "translit": "omar",
       "ref": "1Sam.16.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -267,7 +294,8 @@
       "translit": "to'mar",
       "ref": "1Sam.20.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -276,7 +304,8 @@
       "translit": "no'mar",
       "ref": "2Sam.12.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fp",
@@ -285,7 +314,8 @@
       "translit": "to'marnah",
       "ref": "Esth.1.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -294,7 +324,8 @@
       "translit": "to'mri",
       "ref": "Jer.2.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -305,7 +336,8 @@
       "translit": "v'amarta",
       "ref": "1Chr.17.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -314,7 +346,8 @@
       "translit": "v'amart",
       "ref": "1Kgs.1.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -323,7 +356,8 @@
       "translit": "va'amartem",
       "ref": "1Kgs.1.34",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -332,7 +366,8 @@
       "translit": "v'amar",
       "ref": "1Sam.2.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -341,7 +376,8 @@
       "translit": "v'amru",
       "ref": "1Sam.10.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -350,7 +386,8 @@
       "translit": "v'amarti",
       "ref": "2Sam.13.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -359,7 +396,8 @@
       "translit": "v'amrah",
       "ref": "Deut.25.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -368,7 +406,8 @@
       "translit": "v'amarnu",
       "ref": "Gen.37.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -379,7 +418,8 @@
       "translit": "v'imru",
       "ref": "1Chr.16.35",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -388,7 +428,8 @@
       "translit": "imri",
       "ref": "1Kgs.2.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -397,7 +438,8 @@
       "translit": "emor",
       "ref": "1Kgs.12.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -408,7 +450,8 @@
       "translit": "le'mor",
       "ref": "1Chr.4.9",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -419,7 +462,8 @@
       "translit": "amor",
       "ref": "1Sam.2.30",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -430,7 +474,8 @@
       "translit": "v'omrah",
       "ref": "Gen.46.31",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -441,7 +486,8 @@
       "translit": "yo'mar",
       "ref": "1Kgs.22.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -450,7 +496,8 @@
       "translit": "to'mar",
       "ref": "Deut.9.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -459,7 +506,8 @@
       "translit": "yo'mru",
       "ref": "Ps.35.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -476,7 +524,8 @@
       "translit": "ne'emar",
       "ref": "Dan.8.26",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -487,7 +536,8 @@
       "translit": "vayye'amar",
       "ref": "Josh.2.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -498,7 +548,8 @@
       "translit": "ye'amer",
       "ref": "Ezek.13.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -515,7 +566,8 @@
       "translit": "he'emarta",
       "ref": "Deut.26.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -524,7 +576,8 @@
       "translit": "he'emirkha",
       "ref": "Deut.26.18",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -541,7 +594,8 @@
       "translit": "yit'ammru",
       "ref": "Ps.94.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

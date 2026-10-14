@@ -16,7 +16,8 @@
       "translit": "orchim",
       "ref": "Jer.9.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "ms",
@@ -25,7 +26,8 @@
       "translit": "la'orecha",
       "ref": "2Sam.12.4",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "perfect": [
@@ -36,7 +38,8 @@
       "translit": "v'arach",
       "ref": "Job.34.8",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },

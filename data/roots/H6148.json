@@ -16,7 +16,8 @@
       "translit": "arav",
       "ref": "Gen.44.32",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -25,7 +26,8 @@
       "translit": "aravta",
       "ref": "Prov.6.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -36,7 +38,8 @@
       "translit": "orvim",
       "ref": "Neh.5.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "ms",
@@ -45,7 +48,8 @@
       "translit": "orev",
       "ref": "Prov.17.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -56,7 +60,8 @@
       "translit": "e'ervennu",
       "ref": "Gen.43.9",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -65,7 +70,8 @@
       "translit": "ye'ervu",
       "ref": "Hos.9.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -76,7 +82,8 @@
       "translit": "arveni",
       "ref": "Isa.38.14",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -87,7 +94,8 @@
       "translit": "la'arov",
       "ref": "Ezek.27.9",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -104,7 +112,8 @@
       "translit": "vhit'arvu",
       "ref": "Ezra.9.2",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -115,7 +124,8 @@
       "translit": "vayyit'arvu",
       "ref": "Ps.106.35",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -126,7 +136,8 @@
       "translit": "yit'arav",
       "ref": "Prov.14.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -135,7 +146,8 @@
       "translit": "tit'arav",
       "ref": "Prov.20.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -146,7 +158,8 @@
       "translit": "hit'arev",
       "ref": "2Kgs.18.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -157,7 +170,8 @@
       "translit": "tit'arav",
       "ref": "Prov.24.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

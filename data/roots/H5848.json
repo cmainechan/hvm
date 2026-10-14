@@ -16,7 +16,8 @@
       "translit": "ha'atufim",
       "ref": "Gen.30.42",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "ya'atof",
       "ref": "Isa.57.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -36,7 +38,8 @@
       "translit": "ya'atfu",
       "ref": "Ps.65.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -47,7 +50,8 @@
       "translit": "ba'atof",
       "ref": "Ps.61.2",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -65,7 +69,8 @@
       "translit": "bhit'attef",
       "ref": "Jonah.2.7",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -76,7 +81,8 @@
       "translit": "tit'attaf",
       "ref": "Ps.107.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -87,7 +93,8 @@
       "translit": "vattit'attef",
       "ref": "Ps.143.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -105,7 +112,8 @@
       "translit": "uvha'atif",
       "ref": "Gen.30.42",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -122,7 +130,8 @@
       "translit": "be'atef",
       "ref": "Lam.2.11",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

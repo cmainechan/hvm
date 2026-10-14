@@ -16,7 +16,8 @@
       "translit": "yasad",
       "ref": "Prov.3.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -25,7 +26,8 @@
       "translit": "yasdah",
       "ref": "Isa.48.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -34,7 +36,8 @@
       "translit": "yasadta",
       "ref": "Ps.102.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -45,7 +48,8 @@
       "translit": "visadtikh",
       "ref": "Isa.54.11",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -56,7 +60,8 @@
       "translit": "vyosed",
       "ref": "Isa.51.13",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -67,7 +72,8 @@
       "translit": "lyissod",
       "ref": "2Chr.31.7",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -84,7 +90,8 @@
       "translit": "nosdu",
       "ref": "Ps.2.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -95,7 +102,8 @@
       "translit": "tivvased",
       "ref": "Isa.44.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -106,7 +114,8 @@
       "translit": "hivvasdah",
       "ref": "Exod.9.18",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -124,7 +133,8 @@
       "translit": "yissad",
       "ref": "1Chr.9.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -133,7 +143,8 @@
       "translit": "yissadta",
       "ref": "Ps.8.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -142,7 +153,8 @@
       "translit": "yissdu",
       "ref": "Zech.4.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -153,7 +165,8 @@
       "translit": "yyassdennah",
       "ref": "Josh.6.26",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -164,7 +177,8 @@
       "translit": "lyassed",
       "ref": "1Kgs.5.17",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -181,7 +195,8 @@
       "translit": "yussad",
       "ref": "1Kgs.6.37",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -192,7 +207,8 @@
       "translit": "umyussad",
       "ref": "1Kgs.7.10",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "mp",
@@ -201,7 +217,8 @@
       "translit": "myussadim",
       "ref": "Song.5.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -218,7 +235,8 @@
       "translit": "husad",
       "ref": "2Chr.3.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -229,7 +247,8 @@
       "translit": "mussad",
       "ref": "Isa.28.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

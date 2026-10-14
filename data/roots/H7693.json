@@ -13,10 +13,11 @@
       "code": "3ms",
       "label": "3rd masc. sg.",
       "heb": "ישגלנה",
-      "translit": "shglnh",
+      "translit": "yshglnh",
       "ref": "Deut.28.30",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -34,7 +35,8 @@
       "translit": "tshglnh",
       "ref": "Isa.13.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -52,7 +54,8 @@
       "translit": "shglt",
       "ref": "Jer.3.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

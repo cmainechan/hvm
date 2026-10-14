@@ -16,7 +16,8 @@
       "translit": "tachbot",
       "ref": "Deut.24.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -25,7 +26,8 @@
       "translit": "yachbot",
       "ref": "Isa.27.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -36,7 +38,8 @@
       "translit": "chovet",
       "ref": "Judg.6.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -47,7 +50,8 @@
       "translit": "vattachbot",
       "ref": "Ruth.2.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -64,7 +68,8 @@
       "translit": "yechavet",
       "ref": "Isa.28.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

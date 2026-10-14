@@ -16,7 +16,8 @@
       "translit": "yifrsu",
       "ref": "Jer.16.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -27,7 +28,8 @@
       "translit": "faros",
       "ref": "Isa.58.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -45,7 +47,8 @@
       "translit": "hifrisu",
       "ref": "Deut.14.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -54,7 +57,8 @@
       "translit": "hifrisah",
       "ref": "Lev.11.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -65,7 +69,8 @@
       "translit": "yafris",
       "ref": "Lev.11.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -76,7 +81,8 @@
       "translit": "mafreset",
       "ref": "Lev.11.26",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "ms",
@@ -85,7 +91,8 @@
       "translit": "mafris",
       "ref": "Lev.11.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

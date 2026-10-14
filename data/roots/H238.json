@@ -16,7 +16,8 @@
       "translit": "he'ezin",
       "ref": "Deut.1.45",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -25,7 +26,8 @@
       "translit": "he'ezinu",
       "ref": "2Chr.24.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -36,7 +38,8 @@
       "translit": "ya'azin",
       "ref": "Isa.42.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -45,7 +48,8 @@
       "translit": "azin",
       "ref": "Job.32.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -54,7 +58,8 @@
       "translit": "ya'azinu",
       "ref": "Ps.135.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -65,7 +70,8 @@
       "translit": "vha'azin",
       "ref": "Ps.77.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -74,7 +80,8 @@
       "translit": "vha'azanta",
       "ref": "Exod.15.26",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -85,7 +92,8 @@
       "translit": "ha'azinah",
       "ref": "Job.33.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      },
      {
       "code": "2fs",
@@ -94,7 +102,8 @@
       "translit": "vha'azini",
       "ref": "Isa.1.2",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -103,7 +112,8 @@
       "translit": "ha'azinu",
       "ref": "Deut.32.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fp",
@@ -112,7 +122,8 @@
       "translit": "hazennah",
       "ref": "Gen.4.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -123,7 +134,8 @@
       "translit": "mezin",
       "ref": "Prov.17.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

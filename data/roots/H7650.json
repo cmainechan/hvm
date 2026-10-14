@@ -15,7 +15,8 @@
       "translit": "nishba'ta",
       "ref": "1Kgs.1.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -24,7 +25,8 @@
       "translit": "nishba'ti",
       "ref": "1Kgs.1.30",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -33,7 +35,8 @@
       "translit": "nishba'nu",
       "ref": "1Sam.20.42",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -42,7 +45,8 @@
       "translit": "nishb'u",
       "ref": "2Chr.15.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -51,7 +55,8 @@
       "translit": "nishba",
       "ref": "2Sam.3.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -60,7 +65,8 @@
       "translit": "nishba'tem",
       "ref": "Josh.6.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -71,7 +77,8 @@
       "translit": "vayyishshava",
       "ref": "1Kgs.1.29",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -80,7 +87,8 @@
       "translit": "va'eshshava",
       "ref": "1Kgs.2.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -89,7 +97,8 @@
       "translit": "vayyishshav'u",
       "ref": "2Chr.15.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -100,7 +109,8 @@
       "translit": "hannishba'im",
       "ref": "Amos.8.14",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "ms",
@@ -109,7 +119,8 @@
       "translit": "hannishba",
       "ref": "Eccl.9.2",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "fp",
@@ -118,7 +129,8 @@
       "translit": "vnishbaot",
       "ref": "Isa.19.18",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -129,7 +141,8 @@
       "translit": "tishshave'a",
       "ref": "Deut.6.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -138,7 +151,8 @@
       "translit": "ishshave'a",
       "ref": "Gen.21.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -147,7 +161,8 @@
       "translit": "tishshava",
       "ref": "Isa.45.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -156,7 +171,8 @@
       "translit": "yishshava",
       "ref": "Isa.65.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -165,7 +181,8 @@
       "translit": "yishshave'u",
       "ref": "Jer.5.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -174,7 +191,8 @@
       "translit": "tishshav'u",
       "ref": "Lev.19.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -185,7 +203,8 @@
       "translit": "vnishba'ta",
       "ref": "Jer.4.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -194,7 +213,8 @@
       "translit": "vnishba",
       "ref": "Lev.6.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -202,10 +222,11 @@
       "code": "2ms",
       "label": "2nd masc. sg.",
       "heb": "הִשָּׁבְעָה",
-      "translit": "hishshav'ah",
+      "translit": "hisshav'ah",
       "ref": "1Sam.24.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      },
      {
       "code": "2mp",
@@ -214,7 +235,8 @@
       "translit": "hishshav'u",
       "ref": "Josh.2.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -225,7 +247,8 @@
       "translit": "lhisshavea",
       "ref": "Jer.12.16",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -236,7 +259,8 @@
       "translit": "vhisshavea",
       "ref": "Jer.7.9",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -247,7 +271,8 @@
       "translit": "yishshava",
       "ref": "1Kgs.1.51",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -256,7 +281,8 @@
       "translit": "tishshav'u",
       "ref": "Hos.4.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -273,7 +299,8 @@
       "translit": "hishbatikha",
       "ref": "1Kgs.2.42",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -282,7 +309,8 @@
       "translit": "hishbi'a",
       "ref": "1Sam.14.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -291,7 +319,8 @@
       "translit": "hishbatanu",
       "ref": "Josh.2.17",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -302,7 +331,8 @@
       "translit": "vayyashba",
       "ref": "2Kgs.11.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -311,7 +341,8 @@
       "translit": "va'ashbi'em",
       "ref": "Neh.5.12",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -322,7 +353,8 @@
       "translit": "v'ashbi'akha",
       "ref": "Gen.24.3",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -331,7 +363,8 @@
       "translit": "tashbi'u",
       "ref": "Josh.23.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -342,7 +375,8 @@
       "translit": "vhishbi'a",
       "ref": "1Kgs.18.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -353,7 +387,8 @@
       "translit": "bhashbia",
       "ref": "1Sam.14.27",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -364,7 +399,8 @@
       "translit": "hashbe'a",
       "ref": "1Sam.14.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

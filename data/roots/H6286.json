@@ -16,7 +16,8 @@
       "translit": "fe'arakh",
       "ref": "Isa.55.5",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "afa'er",
       "ref": "Isa.60.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -36,7 +38,8 @@
       "translit": "tfa'er",
       "ref": "Deut.24.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -45,7 +48,8 @@
       "translit": "yfa'er",
       "ref": "Ps.149.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -56,7 +60,8 @@
       "translit": "lfa'er",
       "ref": "Ezra.7.27",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -74,7 +79,8 @@
       "translit": "etpa'ar",
       "ref": "Isa.49.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -83,7 +89,8 @@
       "translit": "yitpa'ar",
       "ref": "Isa.44.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -94,7 +101,8 @@
       "translit": "hitpa'er",
       "ref": "Exod.8.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -105,7 +113,8 @@
       "translit": "lhitpa'er",
       "ref": "Isa.60.21",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },

@@ -16,7 +16,8 @@
       "translit": "ra'ashah",
       "ref": "Jer.49.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -25,7 +26,8 @@
       "translit": "ra'ashu",
       "ref": "Joel.2.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -36,7 +38,8 @@
       "translit": "vattir'ash",
       "ref": "2Sam.22.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -45,7 +48,8 @@
       "translit": "vayyir'ashu",
       "ref": "Isa.24.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -56,7 +60,8 @@
       "translit": "yir'ash",
       "ref": "Ps.72.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -65,7 +70,8 @@
       "translit": "tir'ash",
       "ref": "Jer.10.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -74,7 +80,8 @@
       "translit": "yir'ashu",
       "ref": "Ezek.26.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fp",
@@ -83,7 +90,8 @@
       "translit": "tir'ashnah",
       "ref": "Ezek.26.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -94,7 +102,8 @@
       "translit": "vra'ashu",
       "ref": "Ezek.38.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -105,7 +114,8 @@
       "translit": "ro'ashim",
       "ref": "Jer.4.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -122,7 +132,8 @@
       "translit": "nir'ashah",
       "ref": "Jer.50.46",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -139,7 +150,8 @@
       "translit": "hir'ashtah",
       "ref": "Ps.60.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -148,7 +160,8 @@
       "translit": "hir'ashti",
       "ref": "Ezek.31.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -159,7 +172,8 @@
       "translit": "htar'ishennu",
       "ref": "Job.39.20",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -170,7 +184,8 @@
       "translit": "mar'ish",
       "ref": "Hag.2.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

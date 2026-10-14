@@ -17,7 +17,8 @@
       "translit": "v'a'idah",
       "ref": "Deut.31.28",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -28,7 +29,8 @@
       "translit": "vha'idu",
       "ref": "Amos.3.13",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -37,7 +39,8 @@
       "translit": "ha'ed",
       "ref": "Exod.19.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -48,7 +51,8 @@
       "translit": "ha'ed",
       "ref": "1Sam.8.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -59,7 +63,8 @@
       "translit": "vi'iduhu",
       "ref": "1Kgs.21.10",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -70,7 +75,8 @@
       "translit": "me'id",
       "ref": "Deut.32.46",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "perfect": [
@@ -81,7 +87,8 @@
       "translit": "ha'idoti",
       "ref": "Deut.30.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -90,7 +97,8 @@
       "translit": "ha'edotah",
       "ref": "Exod.19.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -99,7 +107,8 @@
       "translit": "he'idu",
       "ref": "Neh.9.26",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -108,7 +117,8 @@
       "translit": "he'id",
       "ref": "2Kgs.17.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -119,7 +129,8 @@
       "translit": "va'a'id",
       "ref": "1Kgs.2.42",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -128,7 +139,8 @@
       "translit": "vatta'ad",
       "ref": "Neh.9.29",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -137,7 +149,8 @@
       "translit": "vatt'ideni",
       "ref": "Job.29.11",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -146,7 +159,8 @@
       "translit": "vayya'idu",
       "ref": "2Chr.24.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -155,7 +169,8 @@
       "translit": "vayya'ad",
       "ref": "2Kgs.17.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -166,7 +181,8 @@
       "translit": "a'idekh",
       "ref": "Lam.2.13",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -175,7 +191,8 @@
       "translit": "ta'id",
       "ref": "1Sam.8.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -193,7 +210,8 @@
       "translit": "iuduni",
       "ref": "Ps.119.61",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -211,7 +229,8 @@
       "translit": "moded",
       "ref": "Ps.147.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -222,7 +241,8 @@
       "translit": "yoded",
       "ref": "Ps.146.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -240,7 +260,8 @@
       "translit": "vannitodad",
       "ref": "Ps.20.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -258,7 +279,8 @@
       "translit": "vhu'ad",
       "ref": "Exod.21.29",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

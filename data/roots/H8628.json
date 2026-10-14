@@ -15,7 +15,8 @@
       "translit": "taq'u",
       "ref": "1Chr.10.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -24,7 +25,8 @@
       "translit": "taqa",
       "ref": "1Sam.13.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -33,7 +35,8 @@
       "translit": "taqa'ta",
       "ref": "Prov.6.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -44,7 +47,8 @@
       "translit": "vayyitq'u",
       "ref": "1Kgs.1.39",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -53,7 +57,8 @@
       "translit": "vayyitqa",
       "ref": "2Sam.2.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -62,7 +67,8 @@
       "translit": "vattitqa",
       "ref": "Judg.4.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -73,7 +79,8 @@
       "translit": "vtoqea",
       "ref": "2Chr.23.13",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -84,7 +91,8 @@
       "translit": "hattqu'ah",
       "ref": "Isa.22.25",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -95,7 +103,8 @@
       "translit": "yitq'u",
       "ref": "Josh.6.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -104,7 +113,8 @@
       "translit": "titq'u",
       "ref": "Num.10.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -113,7 +123,8 @@
       "translit": "yitqa",
       "ref": "Zech.9.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -124,7 +135,8 @@
       "translit": "utqa'tem",
       "ref": "1Kgs.1.34",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -133,7 +145,8 @@
       "translit": "vtaqa",
       "ref": "Ezek.33.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -142,7 +155,8 @@
       "translit": "utqati",
       "ref": "Isa.22.23",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -151,7 +165,8 @@
       "translit": "vtaq'u",
       "ref": "Josh.6.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -162,7 +177,8 @@
       "translit": "tiq'u",
       "ref": "Hos.5.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -173,7 +189,8 @@
       "translit": "vkhitqoa",
       "ref": "Isa.18.3",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -184,7 +201,8 @@
       "translit": "vtaqoa",
       "ref": "Josh.6.9",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -202,7 +220,8 @@
       "translit": "yittaqa",
       "ref": "Amos.3.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

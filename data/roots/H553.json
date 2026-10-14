@@ -16,7 +16,8 @@
       "translit": "ve'ematz",
       "ref": "1Chr.22.13",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -25,7 +26,8 @@
       "translit": "v'imtzu",
       "ref": "2Chr.32.7",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -36,7 +38,8 @@
       "translit": "vayye'emtzu",
       "ref": "2Chr.13.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "perfect": [
@@ -47,7 +50,8 @@
       "translit": "amtzu",
       "ref": "2Sam.22.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -58,7 +62,8 @@
       "translit": "ye'ematz",
       "ref": "Gen.25.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -75,7 +80,8 @@
       "translit": "hit'ammetz",
       "ref": "1Kgs.12.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -86,7 +92,8 @@
       "translit": "vayyit'ammtzu",
       "ref": "2Chr.13.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -97,7 +104,8 @@
       "translit": "mit'ammetzet",
       "ref": "Ruth.1.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -114,7 +122,8 @@
       "translit": "vay'ammtzu",
       "ref": "2Chr.11.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -123,7 +132,8 @@
       "translit": "vay'ammetz",
       "ref": "2Chr.36.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -132,7 +142,8 @@
       "translit": "vatt'ammetz",
       "ref": "Prov.31.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -143,7 +154,8 @@
       "translit": "y'ammetz",
       "ref": "Amos.2.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -152,7 +164,8 @@
       "translit": "t'ammetz",
       "ref": "Deut.15.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -161,7 +174,8 @@
       "translit": "a'ammitzkhem",
       "ref": "Job.16.5",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -170,7 +184,8 @@
       "translit": "t'ammtzennu",
       "ref": "Ps.89.21",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "perfect": [
@@ -181,7 +196,8 @@
       "translit": "v'immetz",
       "ref": "Deut.2.30",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -190,7 +206,8 @@
       "translit": "immatztikha",
       "ref": "Isa.41.10",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -199,7 +216,8 @@
       "translit": "immatztah",
       "ref": "Ps.80.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -210,7 +228,8 @@
       "translit": "v'ammtzehu",
       "ref": "Deut.3.28",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -219,7 +238,8 @@
       "translit": "ammetzu",
       "ref": "Isa.35.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -230,7 +250,8 @@
       "translit": "b'ammtzo",
       "ref": "Prov.8.28",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -241,7 +262,8 @@
       "translit": "m'ammetz",
       "ref": "Prov.24.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -258,7 +280,8 @@
       "translit": "vya'ametz",
       "ref": "Ps.27.14",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

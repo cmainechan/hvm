@@ -17,7 +17,8 @@
       "translit": "vayye'aveq",
       "ref": "Gen.32.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -28,7 +29,8 @@
       "translit": "bhe'avqo",
       "ref": "Gen.32.25",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

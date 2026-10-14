@@ -16,7 +16,8 @@
       "translit": "tzofim",
       "ref": "Jer.6.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "ms",
@@ -25,7 +26,8 @@
       "translit": "tzofeh",
       "ref": "Ezek.3.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "fp",
@@ -34,7 +36,8 @@
       "translit": "tzofot",
       "ref": "Prov.15.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "fs",
@@ -43,7 +46,8 @@
       "translit": "tzofiyah",
       "ref": "Prov.31.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -54,7 +58,8 @@
       "translit": "yitzef",
       "ref": "Gen.31.49",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -65,7 +70,8 @@
       "translit": "vtzafu",
       "ref": "Job.15.22",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -76,7 +82,8 @@
       "translit": "titzpeynah",
       "ref": "Ps.66.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -87,7 +94,8 @@
       "translit": "tzafoh",
       "ref": "Isa.21.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -104,7 +112,8 @@
       "translit": "vtzappi",
       "ref": "Jer.48.19",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -113,7 +122,8 @@
       "translit": "tzappeh",
       "ref": "Nah.2.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -124,7 +134,8 @@
       "translit": "mtzappeh",
       "ref": "1Sam.4.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "perfect": [
@@ -135,7 +146,8 @@
       "translit": "tzippinu",
       "ref": "Lam.4.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -146,7 +158,8 @@
       "translit": "atzappeh",
       "ref": "Mic.7.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

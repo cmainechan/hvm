@@ -686,6 +686,11 @@ function WordCard({ row, color, gloss }) {
               + suffix
             </span>
           )}
+          {row.has_paragogic && (
+            <span style={styles.paragogicBadge} title="No form of this exact slot without an appended he or nun (directional he, paragogic he, or paragogic nun) occurs anywhere in the Bible.">
+              + paragogic
+            </span>
+          )}
         </span>
       </div>
       <span style={styles.cardHeb}>{row.heb}</span>
@@ -825,6 +830,7 @@ const styles = {
   badgeGroup: { display: "flex", gap: 4 },
   suffixBadge: { fontSize: 9, fontWeight: 700, letterSpacing: "0.03em", color: "#8B6F1F", background: "#F1E9CE", border: "1px solid #D8C98E", borderRadius: 5, padding: "1px 5px", whiteSpace: "nowrap" },
   prefixBadge: { fontSize: 9, fontWeight: 700, letterSpacing: "0.03em", color: "#3A5F6B", background: "#DCE7E9", border: "1px solid #B9CDD1", borderRadius: 5, padding: "1px 5px", whiteSpace: "nowrap" },
+  paragogicBadge: { fontSize: 9, fontWeight: 700, letterSpacing: "0.03em", color: "#2F6B3A", background: "#D9E8DC", border: "1px solid #B9D1BE", borderRadius: 5, padding: "1px 5px", whiteSpace: "nowrap" },
   cardSlot: { fontSize: 10, letterSpacing: "0.06em", textTransform: "uppercase", color: "#8A7F6A" },
   cardHeb: { fontFamily: "var(--heb)", fontSize: 19, direction: "rtl" },
   cardTranslit: { fontSize: 12, fontStyle: "italic", color: "#5B5040" },

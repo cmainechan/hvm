@@ -16,7 +16,8 @@
       "translit": "vattehom",
       "ref": "1Kgs.1.45",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -33,7 +34,8 @@
       "translit": "thimenah",
       "ref": "Mic.2.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -44,7 +46,8 @@
       "translit": "v'ahimah",
       "ref": "Ps.55.2",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

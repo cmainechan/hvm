@@ -16,7 +16,8 @@
       "translit": "vyiqtzu",
       "ref": "Hab.2.7",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -33,7 +34,8 @@
       "translit": "heqitz",
       "ref": "2Kgs.4.31",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -42,7 +44,8 @@
       "translit": "heqitzoti",
       "ref": "Jer.31.26",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -53,7 +56,8 @@
       "translit": "aqitz",
       "ref": "Prov.23.35",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -62,7 +66,8 @@
       "translit": "yaqitzu",
       "ref": "Dan.12.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -73,7 +78,8 @@
       "translit": "vheqitz",
       "ref": "Isa.29.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -82,7 +88,8 @@
       "translit": "vahaqitzota",
       "ref": "Prov.6.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -93,7 +100,8 @@
       "translit": "haqitzah",
       "ref": "Hab.2.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      },
      {
       "code": "2mp",
@@ -102,7 +110,8 @@
       "translit": "haqitzu",
       "ref": "Isa.26.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -113,7 +122,8 @@
       "translit": "meqitz",
       "ref": "1Sam.26.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -124,7 +134,8 @@
       "translit": "vhaqitz",
       "ref": "Ps.17.15",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

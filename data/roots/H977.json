@@ -15,7 +15,8 @@
       "translit": "bachar",
       "ref": "1Chr.15.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -24,7 +25,8 @@
       "translit": "bacharti",
       "ref": "1Chr.28.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -33,7 +35,8 @@
       "translit": "bacharta",
       "ref": "1Kgs.3.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -42,7 +45,8 @@
       "translit": "bchartem",
       "ref": "1Sam.8.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -51,7 +55,8 @@
       "translit": "bacharu",
       "ref": "Gen.6.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -62,7 +67,8 @@
       "translit": "vayyivchar",
       "ref": "1Chr.19.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -71,7 +77,8 @@
       "translit": "va'evchar",
       "ref": "1Kgs.8.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -80,7 +87,8 @@
       "translit": "vattivchar",
       "ref": "Job.7.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -91,7 +99,8 @@
       "translit": "vocher",
       "ref": "1Sam.20.30",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -102,7 +111,8 @@
       "translit": "bachur",
       "ref": "1Chr.19.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -113,7 +123,8 @@
       "translit": "yivchar",
       "ref": "2Sam.15.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -122,7 +133,8 @@
       "translit": "tivchar",
       "ref": "2Sam.19.38",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -131,7 +143,8 @@
       "translit": "evcharehu",
       "ref": "Isa.58.5",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -140,7 +153,8 @@
       "translit": "nivcharah",
       "ref": "Job.34.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -151,7 +165,8 @@
       "translit": "uvacharta",
       "ref": "Deut.30.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -160,7 +175,8 @@
       "translit": "uvachar",
       "ref": "Isa.14.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -169,7 +185,8 @@
       "translit": "uvacharu",
       "ref": "Isa.56.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -180,7 +197,8 @@
       "translit": "bchar",
       "ref": "1Chr.21.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -189,7 +207,8 @@
       "translit": "bacharu",
       "ref": "1Kgs.18.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -200,7 +219,8 @@
       "translit": "bachori",
       "ref": "Ezek.20.5",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -211,7 +231,8 @@
       "translit": "uvachor",
       "ref": "1Sam.2.28",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -222,7 +243,8 @@
       "translit": "evcharah",
       "ref": "2Sam.17.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -233,7 +255,8 @@
       "translit": "vyivcharu",
       "ref": "1Kgs.18.23",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -242,7 +265,8 @@
       "translit": "tivchar",
       "ref": "Prov.3.31",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -259,7 +283,8 @@
       "translit": "nivchar",
       "ref": "Prov.8.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -270,7 +295,8 @@
       "translit": "vnivchar",
       "ref": "Jer.8.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -288,7 +314,8 @@
       "translit": "vchr",
       "ref": "Eccl.9.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -305,7 +332,8 @@
       "translit": "vachur",
       "ref": "Jer.49.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

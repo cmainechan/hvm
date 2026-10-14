@@ -16,7 +16,8 @@
       "translit": "vdashti",
       "ref": "Judg.8.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "tadush",
       "ref": "Hab.3.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -36,7 +38,8 @@
       "translit": "tdusheha",
       "ref": "Job.39.15",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -45,7 +48,8 @@
       "translit": "ydushennu",
       "ref": "Isa.28.28",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -56,7 +60,8 @@
       "translit": "vadoshi",
       "ref": "Mic.4.13",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -67,7 +72,8 @@
       "translit": "ladush",
       "ref": "2Kgs.13.7",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -78,7 +84,8 @@
       "translit": "dash",
       "ref": "1Chr.21.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -96,7 +103,8 @@
       "translit": "vnadosh",
       "ref": "Isa.25.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -107,7 +115,8 @@
       "translit": "khiddush",
       "ref": "Isa.25.10",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -124,7 +133,8 @@
       "translit": "yudash",
       "ref": "Isa.28.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

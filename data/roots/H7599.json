@@ -16,7 +16,8 @@
       "translit": "vsha'anan",
       "ref": "Jer.30.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "perfect": [
@@ -27,7 +28,8 @@
       "translit": "sha'anan",
       "ref": "Jer.48.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -36,7 +38,8 @@
       "translit": "sha'ananu",
       "ref": "Job.3.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

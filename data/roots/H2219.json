@@ -16,7 +16,8 @@
       "translit": "vzeram",
       "ref": "1Kgs.14.15",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -25,7 +26,8 @@
       "translit": "zeritanu",
       "ref": "Ps.44.11",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -34,7 +36,8 @@
       "translit": "zeru",
       "ref": "Zech.1.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -45,7 +48,8 @@
       "translit": "vzeriti",
       "ref": "Ezek.5.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -54,7 +58,8 @@
       "translit": "vzeruha",
       "ref": "Jer.51.2",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -65,7 +70,8 @@
       "translit": "ezareh",
       "ref": "Ezek.5.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -74,7 +80,8 @@
       "translit": "yzaru",
       "ref": "Prov.15.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -85,7 +92,8 @@
       "translit": "ulzarot",
       "ref": "Ezek.20.23",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -96,7 +104,8 @@
       "translit": "mzareh",
       "ref": "Prov.20.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -113,7 +122,8 @@
       "translit": "vayyizer",
       "ref": "Exod.32.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -122,7 +132,8 @@
       "translit": "va'ezrem",
       "ref": "Jer.15.7",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -133,7 +144,8 @@
       "translit": "tizreh",
       "ref": "Ezek.5.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -144,7 +156,8 @@
       "translit": "zoreh",
       "ref": "Isa.30.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -155,7 +168,8 @@
       "translit": "lizrot",
       "ref": "Jer.4.11",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -166,7 +180,8 @@
       "translit": "zreh",
       "ref": "Num.16.37",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -183,7 +198,8 @@
       "translit": "bhizzarotekhem",
       "ref": "Ezek.6.8",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -194,7 +210,8 @@
       "translit": "vayyizzaru",
       "ref": "Ezek.36.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -211,7 +228,8 @@
       "translit": "yzoreh",
       "ref": "Job.18.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -222,7 +240,8 @@
       "translit": "mzorah",
       "ref": "Prov.1.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

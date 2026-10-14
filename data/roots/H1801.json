@@ -16,7 +16,8 @@
       "translit": "haddoleg",
       "ref": "Zeph.1.9",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -33,7 +34,8 @@
       "translit": "mdalleg",
       "ref": "Song.2.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -44,7 +46,8 @@
       "translit": "adalleg",
       "ref": "2Sam.22.30",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -53,7 +56,8 @@
       "translit": "ydalleg",
       "ref": "Isa.35.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

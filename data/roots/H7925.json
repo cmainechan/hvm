@@ -15,7 +15,8 @@
       "translit": "vhishkamtem",
       "ref": "Gen.19.2",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -24,7 +25,8 @@
       "translit": "vhishkim",
       "ref": "Job.1.5",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -33,7 +35,8 @@
       "translit": "hishkimu",
       "ref": "Zeph.3.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -44,7 +47,8 @@
       "translit": "vayyashkimu",
       "ref": "1Sam.1.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -53,7 +57,8 @@
       "translit": "vayyashkem",
       "ref": "1Sam.15.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -64,7 +69,8 @@
       "translit": "mashkim",
       "ref": "Hos.6.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -75,7 +81,8 @@
       "translit": "tashkim",
       "ref": "Judg.9.33",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -86,7 +93,8 @@
       "translit": "vhishkamtem",
       "ref": "1Sam.29.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -95,7 +103,8 @@
       "translit": "vhishkim",
       "ref": "2Sam.15.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -106,7 +115,8 @@
       "translit": "hashkem",
       "ref": "1Sam.29.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -117,7 +127,8 @@
       "translit": "hashkem",
       "ref": "1Sam.17.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -128,7 +139,8 @@
       "translit": "nashkimah",
       "ref": "Song.7.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

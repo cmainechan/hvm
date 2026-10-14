@@ -16,7 +16,8 @@
       "translit": "vayyiqsmu",
       "ref": "2Kgs.17.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "yiqsomu",
       "ref": "Mic.3.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fp",
@@ -36,7 +38,8 @@
       "translit": "tiqsamnah",
       "ref": "Ezek.13.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -47,7 +50,8 @@
       "translit": "qasomi",
       "ref": "1Sam.28.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -58,7 +62,8 @@
       "translit": "vqosem",
       "ref": "Isa.3.2",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "mp",
@@ -67,7 +72,8 @@
       "translit": "qosmim",
       "ref": "Deut.18.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -78,7 +84,8 @@
       "translit": "liqsam",
       "ref": "Ezek.21.21",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

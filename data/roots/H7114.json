@@ -16,7 +16,8 @@
       "translit": "qtzartem",
       "ref": "Hos.10.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -25,7 +26,8 @@
       "translit": "qatzar",
       "ref": "Isa.28.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -34,7 +36,8 @@
       "translit": "qatzrah",
       "ref": "Isa.50.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -43,7 +46,8 @@
       "translit": "qatzaru",
       "ref": "Jer.12.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -54,7 +58,8 @@
       "translit": "vattiqtzar",
       "ref": "Judg.10.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -65,7 +70,8 @@
       "translit": "qotzrim",
       "ref": "1Sam.6.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "ms",
@@ -74,7 +80,8 @@
       "translit": "baqqotzer",
       "ref": "Amos.9.13",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -85,7 +92,8 @@
       "translit": "qtzurot",
       "ref": "Ezek.42.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -96,7 +104,8 @@
       "translit": "tiqtzor",
       "ref": "Deut.24.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -105,7 +114,8 @@
       "translit": "yiqtzor",
       "ref": "Eccl.11.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -114,7 +124,8 @@
       "translit": "yiqtzoru",
       "ref": "Hos.8.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -123,7 +134,8 @@
       "translit": "tiqtzar",
       "ref": "Job.21.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -132,7 +144,8 @@
       "translit": "tiqtzru",
       "ref": "Lev.25.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fp",
@@ -141,7 +154,8 @@
       "translit": "tiqtzornah",
       "ref": "Prov.10.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -152,7 +166,8 @@
       "translit": "uqtzartem",
       "ref": "Lev.23.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -163,7 +178,8 @@
       "translit": "vqitzru",
       "ref": "2Kgs.19.29",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -174,7 +190,8 @@
       "translit": "vliqtzor",
       "ref": "1Sam.8.12",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -185,7 +202,8 @@
       "translit": "haqatzor",
       "ref": "Isa.50.2",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -203,7 +221,8 @@
       "translit": "qitztzar",
       "ref": "Ps.102.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -220,7 +239,8 @@
       "translit": "hiqtzarta",
       "ref": "Ps.89.45",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

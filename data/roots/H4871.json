@@ -17,7 +17,8 @@
       "translit": "mshitihu",
       "ref": "Exod.2.10",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -35,7 +36,8 @@
       "translit": "yamsheni",
       "ref": "2Sam.22.17",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

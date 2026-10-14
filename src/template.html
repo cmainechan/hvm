@@ -35,12 +35,14 @@
   --heb: 'Frank Ruhl Libre Heb','Taamey Frank CLM','David Libre','SBL Hebrew','Times New Roman',serif;
   --bg:#141311;--card:#1e1c19;--line:#34312b;--tx:#efe9dc;--mu:#a09a8c;--ac:#e3b45f;--on:#1a1408;
   --info:#85a9cf;--info-bg:rgba(133,169,207,0.18);--bad:#e2726a;--ac-bg:rgba(227,180,95,0.18);
+  --good:#5fb37f;--good-bg:rgba(95,179,127,0.18);
   --serif:"Fraunces",Georgia,"Times New Roman",serif;
   --sans:"Figtree",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
 }
 @media (prefers-color-scheme:light){
   :root{--bg:#f7f2e8;--card:#fffdf8;--line:#ddd4c2;--tx:#24211b;--mu:#6f6858;--ac:#86590a;--on:#fffdf8;
-    --info:#1e3a5f;--info-bg:#eaf0f6;--bad:#b3261e;--ac-bg:rgba(134,89,10,0.12)}
+    --info:#1e3a5f;--info-bg:#eaf0f6;--bad:#b3261e;--ac-bg:rgba(134,89,10,0.12);
+    --good:#2f7a4f;--good-bg:#e6f4ea}
 }
 * { box-sizing: border-box; }
 body { margin: 0; background: var(--bg); color: var(--tx); font-family: var(--sans); }
@@ -197,6 +199,7 @@ const styles = {
   badgeGroup: { display: "flex", gap: 4 },
   suffixBadge: { fontSize: 9, fontWeight: 700, letterSpacing: "0.03em", color: "var(--ac)", background: "var(--ac-bg)", border: "1px solid var(--ac)", borderRadius: 5, padding: "1px 5px", whiteSpace: "nowrap" },
   prefixBadge: { fontSize: 9, fontWeight: 700, letterSpacing: "0.03em", color: "var(--info)", background: "var(--info-bg)", border: "1px solid var(--info)", borderRadius: 5, padding: "1px 5px", whiteSpace: "nowrap" },
+  paragogicBadge: { fontSize: 9, fontWeight: 700, letterSpacing: "0.03em", color: "var(--good)", background: "var(--good-bg)", border: "1px solid var(--good)", borderRadius: 5, padding: "1px 5px", whiteSpace: "nowrap" },
   cardSlot: { fontSize: 10, letterSpacing: "0.06em", textTransform: "uppercase", color: "var(--mu)" },
   cardHeb: { fontFamily: "var(--heb)", fontSize: 19, direction: "rtl" },
   cardTranslit: { fontSize: 12, fontStyle: "italic", color: "var(--mu)" },
@@ -783,6 +786,11 @@ function wordCard(row, color, gloss) {
   if (row.has_suffix) {
     const b = el("span", styles.suffixBadge, { title: "No bare (unsuffixed) form of this exact slot occurs anywhere in the Bible — this attested form carries an attached pronominal object suffix." });
     b.textContent = "+ suffix";
+    badgeGroup.appendChild(b);
+  }
+  if (row.has_paragogic) {
+    const b = el("span", styles.paragogicBadge, { title: "No form of this exact slot without an appended he or nun (directional he, paragogic he, or paragogic nun) occurs anywhere in the Bible." });
+    b.textContent = "+ paragogic";
     badgeGroup.appendChild(b);
   }
   topRow.append(slot, badgeGroup);

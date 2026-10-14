@@ -16,7 +16,8 @@
       "translit": "saftah",
       "ref": "Jer.12.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "tispeh",
       "ref": "Isa.7.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -36,7 +38,8 @@
       "translit": "tispeh",
       "ref": "Gen.18.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -47,7 +50,8 @@
       "translit": "sfu",
       "ref": "Isa.29.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -58,7 +62,8 @@
       "translit": "sfot",
       "ref": "Deut.29.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -76,7 +81,8 @@
       "translit": "vnispah",
       "ref": "1Sam.26.10",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -87,7 +93,8 @@
       "translit": "tissafeh",
       "ref": "Gen.19.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -96,7 +103,8 @@
       "translit": "essafeh",
       "ref": "1Sam.27.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -105,7 +113,8 @@
       "translit": "tissafu",
       "ref": "1Sam.12.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -116,7 +125,8 @@
       "translit": "nispeh",
       "ref": "1Chr.21.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -133,7 +143,8 @@
       "translit": "aspeh",
       "ref": "Deut.32.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

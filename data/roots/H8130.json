@@ -15,7 +15,8 @@
       "translit": "sne'ti",
       "ref": "1Kgs.22.8",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -24,7 +25,8 @@
       "translit": "sne'ahh",
       "ref": "2Sam.13.15",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -33,7 +35,8 @@
       "translit": "san'u",
       "ref": "Amos.5.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -42,7 +45,8 @@
       "translit": "sane't",
       "ref": "Ezek.16.37",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -51,7 +55,8 @@
       "translit": "sane'ta",
       "ref": "Ezek.35.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -60,7 +65,8 @@
       "translit": "sne'tem",
       "ref": "Gen.26.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -69,7 +75,8 @@
       "translit": "san'ah",
       "ref": "Isa.1.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -80,7 +87,8 @@
       "translit": "vayyisna'eha",
       "ref": "2Sam.13.15",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -89,7 +97,8 @@
       "translit": "vayyisn'u",
       "ref": "Gen.37.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -98,7 +107,8 @@
       "translit": "vattisna",
       "ref": "Ps.45.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -109,7 +119,8 @@
       "translit": "sone",
       "ref": "Deut.4.42",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -120,7 +131,8 @@
       "translit": "snu'ah",
       "ref": "Deut.21.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -131,7 +143,8 @@
       "translit": "tisna",
       "ref": "Lev.19.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -140,7 +153,8 @@
       "translit": "yisn'u",
       "ref": "Prov.1.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -149,7 +163,8 @@
       "translit": "yisna'ekka",
       "ref": "Prov.9.8",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -158,7 +173,8 @@
       "translit": "esna",
       "ref": "Ps.139.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -169,7 +185,8 @@
       "translit": "usne'ahh",
       "ref": "Deut.22.13",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -180,7 +197,8 @@
       "translit": "sin'u",
       "ref": "Amos.5.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -191,7 +209,8 @@
       "translit": "vlisno",
       "ref": "2Sam.19.6",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -202,7 +221,8 @@
       "translit": "sano",
       "ref": "Judg.15.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -219,7 +239,8 @@
       "translit": "yissane",
       "ref": "Prov.14.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

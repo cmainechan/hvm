@@ -16,7 +16,8 @@
       "translit": "havah",
       "ref": "Gen.29.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      },
      {
       "code": "2fs",
@@ -25,7 +26,8 @@
       "translit": "havi",
       "ref": "Ruth.3.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -34,7 +36,8 @@
       "translit": "havu",
       "ref": "1Chr.16.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

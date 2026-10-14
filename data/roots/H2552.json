@@ -16,7 +16,8 @@
       "translit": "chammoti",
       "ref": "Isa.44.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -25,7 +26,8 @@
       "translit": "cham",
       "ref": "Ps.39.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -36,7 +38,8 @@
       "translit": "vayyacham",
       "ref": "2Kgs.4.34",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -47,7 +50,8 @@
       "translit": "vcham",
       "ref": "1Kgs.1.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -58,7 +62,8 @@
       "translit": "yechammu",
       "ref": "Hos.7.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -67,7 +72,8 @@
       "translit": "yachom",
       "ref": "Isa.44.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -78,7 +84,8 @@
       "translit": "lachmam",
       "ref": "Isa.47.14",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -96,7 +103,8 @@
       "translit": "hannechamim",
       "ref": "Isa.57.5",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -113,7 +121,8 @@
       "translit": "tchammem",
       "ref": "Job.39.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -130,7 +139,8 @@
       "translit": "yitchammam",
       "ref": "Job.31.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

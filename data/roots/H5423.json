@@ -16,7 +16,8 @@
       "translit": "ettqenka",
       "ref": "Jer.22.24",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -27,7 +28,8 @@
       "translit": "untaqqnuhu",
       "ref": "Judg.20.32",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -38,7 +40,8 @@
       "translit": "vnatuq",
       "ref": "Lev.22.24",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -56,7 +59,8 @@
       "translit": "nittaq",
       "ref": "Isa.5.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -65,7 +69,8 @@
       "translit": "nittaqu",
       "ref": "Jer.10.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -76,7 +81,8 @@
       "translit": "vayyinnatqu",
       "ref": "Josh.8.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -87,7 +93,8 @@
       "translit": "yinnateq",
       "ref": "Eccl.4.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -96,7 +103,8 @@
       "translit": "yinnatequ",
       "ref": "Isa.33.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -114,7 +122,8 @@
       "translit": "nittaqti",
       "ref": "Jer.2.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -123,7 +132,8 @@
       "translit": "nittqu",
       "ref": "Jer.5.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -134,7 +144,8 @@
       "translit": "vaynatteq",
       "ref": "Judg.16.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -145,7 +156,8 @@
       "translit": "ynatteq",
       "ref": "Ezek.17.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -154,7 +166,8 @@
       "translit": "tnatteqi",
       "ref": "Ezek.23.34",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -163,7 +176,8 @@
       "translit": "anatteq",
       "ref": "Jer.30.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -172,7 +186,8 @@
       "translit": "tnattequ",
       "ref": "Isa.58.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -183,7 +198,8 @@
       "translit": "nnattqah",
       "ref": "Ps.2.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -200,7 +216,8 @@
       "translit": "hattiqem",
       "ref": "Jer.12.3",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -211,7 +228,8 @@
       "translit": "hattiqenu",
       "ref": "Josh.8.6",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -228,7 +246,8 @@
       "translit": "hantqu",
       "ref": "Judg.20.31",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

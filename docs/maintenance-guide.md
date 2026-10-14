@@ -37,7 +37,7 @@ Four JS data structures, all embedded in both output files:
         sense_hint: "simple",
         form_glosses: { "participle_passive": "divorced (woman)" }, // optional, category-specific override
         forms: {
-          "perfect": [ { code, label, heb, translit, ref, has_suffix, has_prefix }, ... ]
+          "perfect": [ { code, label, heb, translit, ref, has_suffix, has_prefix, has_paragogic }, ... ]
         }
       }
     }
@@ -148,7 +148,13 @@ previously-shipped bug:
    (pronominal suffix). Strip leading `H`, split on `/`, find the segment
    starting with `V` — don't assume it's first. A segment *after* the verb
    segment starting with `S` = suffix. Verb segment not being first =
-   prefix.
+   prefix. **Suffix segments aren't all the same kind**, though: `Sp`
+   (pronominal object suffix, e.g. "...him") is a real attached pronoun and
+   drives `has_suffix`; `Sd` (directional he, "toward X"), `Sh` (paragogic
+   he, the emphatic *-ah* on short imperatives like קוּמָה/שְׁבָה), and `Sn`
+   (paragogic nun, the emphatic *-n* on some yiqtol forms) are particles,
+   not pronouns, and drive a separate `has_paragogic` flag instead — see
+   `compute_has_paragogic()`.
 2. **Lemma field can also be compound** (`c/935`, `l/7125`) — split and
    check each part against target Strong's numbers, stripping trailing
    homonym letters (`1254 a` → `1254`).
@@ -168,9 +174,9 @@ previously-shipped bug:
    Construct-state participles are grammatically bound to what follows and
    usually carry suffixes, which pollutes the basic paradigm.
 7. **Representative-form selection priority** when multiple surface forms
-   compete for one slot: prefer none-of-prefix/suffix > has-one >
-   has-both. **Exception:** wayyiqtol/veqatal's vav is integral to the form,
-   not an optional attachment — don't penalize it there.
+   compete for one slot: prefer none-of-prefix/suffix/paragogic > has-one >
+   has-more-than-one. **Exception:** wayyiqtol/veqatal's vav is integral to
+   the form, not an optional attachment — don't penalize it there.
 8. **Strip cantillation (U+0591–U+05AF), keep niqqud (vowel points).**
 9. **Watch for homonym contamination** when resolving a root to a Strong's
    number — always read the actual meaning text of every lexicon candidate

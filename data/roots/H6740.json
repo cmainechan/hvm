@@ -17,7 +17,8 @@
       "translit": "litzlot",
       "ref": "1Sam.2.15",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -28,7 +29,8 @@
       "translit": "yitzleh",
       "ref": "Isa.44.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -37,7 +39,8 @@
       "translit": "etzleh",
       "ref": "Isa.44.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

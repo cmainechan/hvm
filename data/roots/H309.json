@@ -16,7 +16,8 @@
       "translit": "va'echar",
       "ref": "Gen.32.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -34,7 +35,8 @@
       "translit": "echar",
       "ref": "Gen.34.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -43,7 +45,8 @@
       "translit": "echeru",
       "ref": "Judg.5.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -54,7 +57,8 @@
       "translit": "y'acher",
       "ref": "Deut.7.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -63,7 +67,8 @@
       "translit": "t'acher",
       "ref": "Isa.46.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -72,7 +77,8 @@
       "translit": "t'acher",
       "ref": "Deut.23.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -83,7 +89,8 @@
       "translit": "t'achar",
       "ref": "Dan.9.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -92,7 +99,8 @@
       "translit": "t'acharu",
       "ref": "Gen.24.56",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -103,7 +111,8 @@
       "translit": "lam'acharim",
       "ref": "Prov.23.30",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -121,7 +130,8 @@
       "translit": "vayocher",
       "ref": "2Sam.20.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

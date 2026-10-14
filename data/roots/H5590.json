@@ -16,7 +16,8 @@
       "translit": "yis'aru",
       "ref": "Hab.3.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -27,7 +28,8 @@
       "translit": "vso'er",
       "ref": "Jonah.1.11",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -44,7 +46,8 @@
       "translit": "vayyisaer",
       "ref": "2Kgs.6.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -61,7 +64,8 @@
       "translit": "v'esa'arem",
       "ref": "Zech.7.14",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -78,7 +82,8 @@
       "translit": "so'arah",
       "ref": "Isa.54.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -95,7 +100,8 @@
       "translit": "yso'er",
       "ref": "Hos.13.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

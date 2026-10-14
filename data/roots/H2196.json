@@ -16,7 +16,8 @@
       "translit": "vayyiz'af",
       "ref": "2Chr.26.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "yiz'af",
       "ref": "Prov.19.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -38,7 +40,8 @@
       "translit": "zo'afim",
       "ref": "Dan.1.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -49,7 +52,8 @@
       "translit": "uvzapo",
       "ref": "2Chr.26.19",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },

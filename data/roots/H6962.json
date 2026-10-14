@@ -16,7 +16,8 @@
       "translit": "aqut",
       "ref": "Ps.95.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -33,7 +34,8 @@
       "translit": "unqototem",
       "ref": "Ezek.20.43",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -42,7 +44,8 @@
       "translit": "vnaqottu",
       "ref": "Ezek.6.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -60,7 +63,8 @@
       "translit": "va'etqotatah",
       "ref": "Ps.119.158",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      }
     ],
     "yiqtol": [
@@ -71,7 +75,8 @@
       "translit": "etqotat",
       "ref": "Ps.139.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

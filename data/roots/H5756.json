@@ -16,7 +16,8 @@
       "translit": "ha'ez",
       "ref": "Exod.9.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -25,7 +26,8 @@
       "translit": "ha'izu",
       "ref": "Jer.4.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "perfect": [
@@ -36,7 +38,8 @@
       "translit": "he'izu",
       "ref": "Isa.10.31",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

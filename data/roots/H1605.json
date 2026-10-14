@@ -16,7 +16,8 @@
       "translit": "vayyig'ar",
       "ref": "Gen.37.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -27,7 +28,8 @@
       "translit": "vga'ar",
       "ref": "Isa.17.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -36,7 +38,8 @@
       "translit": "vga'arti",
       "ref": "Mal.3.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -47,7 +50,8 @@
       "translit": "umigg'ar",
       "ref": "Isa.54.9",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "perfect": [
@@ -58,7 +62,8 @@
       "translit": "ga'arta",
       "ref": "Jer.29.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -69,7 +74,8 @@
       "translit": "go'er",
       "ref": "Mal.2.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -80,7 +86,8 @@
       "translit": "g'ar",
       "ref": "Ps.68.30",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -91,7 +98,8 @@
       "translit": "tig'aru",
       "ref": "Ruth.2.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -102,7 +110,8 @@
       "translit": "yig'ar",
       "ref": "Zech.3.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

@@ -16,7 +16,8 @@
       "translit": "yachpoz",
       "ref": "Job.40.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -27,7 +28,8 @@
       "translit": "tachpzu",
       "ref": "Deut.20.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -38,7 +40,8 @@
       "translit": "bchafzam",
       "ref": "2Kgs.7.15",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -56,7 +59,8 @@
       "translit": "nechpazu",
       "ref": "Ps.48.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -67,7 +71,8 @@
       "translit": "yechafezun",
       "ref": "Ps.104.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      }
     ],
     "participle_active": [
@@ -78,7 +83,8 @@
       "translit": "nechpaz",
       "ref": "1Sam.23.26",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

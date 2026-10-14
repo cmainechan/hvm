@@ -203,7 +203,8 @@ def parse_morph(morph):
     """
     Requirement 1 & 3: compound morph parsing, Hebrew-only.
     Returns dict with stem_letter, type_letter, person, gender, number, state,
-    has_prefix, has_suffix, verb_seg_index -- or None if not a Hebrew verb.
+    has_prefix, has_suffix, suffix_segs, verb_seg_index -- or None if not a
+    Hebrew verb.
     """
     if not morph.startswith('H'):
         return None  # Aramaic (A) or other -- excluded per requirement 3
@@ -222,7 +223,8 @@ def parse_morph(morph):
     # (directional he), Sh (paragogic he), Sn (paragogic nun), Sp
     # (pronominal object suffix). Only Sp is a true pronoun object -- the
     # other three are particles attached to the verb, not suffixed pronouns,
-    # and must not be flagged as has_suffix.
+    # and must not be flagged as has_suffix (they're tracked separately by
+    # has_paragogic instead -- see compute_has_paragogic).
     suffix_segs = segs[v_idx + 1:]
     has_suffix = any(seg.startswith('Sp') for seg in suffix_segs)
 
@@ -232,12 +234,12 @@ def parse_morph(morph):
     rest = vseg[1:]
     if len(rest) == 0:
         return {'stem_letter': stem_letter, 'type_letter': None, 'raw_rest': rest,
-                'prefix_segs': prefix_segs, 'has_suffix': has_suffix}
+                'prefix_segs': prefix_segs, 'has_suffix': has_suffix, 'suffix_segs': suffix_segs}
     type_letter = rest[0]
     remainder = rest[1:]
     return {
         'stem_letter': stem_letter, 'type_letter': type_letter, 'remainder': remainder,
-        'prefix_segs': prefix_segs, 'has_suffix': has_suffix,
+        'prefix_segs': prefix_segs, 'has_suffix': has_suffix, 'suffix_segs': suffix_segs,
     }
 
 
@@ -256,6 +258,20 @@ def compute_has_prefix(prefix_segs, category):
     if category in ('wayyiqtol', 'veqatal') and prefix_segs == ['C']:
         return False
     return True
+
+
+def compute_has_paragogic(suffix_segs):
+    """
+    A form carries a paragogic/directional addition when its suffix segments
+    include Sd (directional he, e.g. aleph-resh-tsadi-he "toward the land"),
+    Sh (paragogic he, the emphatic -ah on short imperatives like qumah/shevah),
+    or Sn (paragogic nun, the emphatic -n on some yiqtol forms). These three
+    are grammatically distinct (one directional, two volitional/emphatic) but
+    share one combined flag here, same as has_prefix/has_suffix are single
+    booleans rather than per-attachment-type flags. Sp (pronominal object
+    suffix) is excluded -- that's has_suffix's job, not this one's.
+    """
+    return any(seg.startswith(('Sd', 'Sh', 'Sn')) for seg in suffix_segs)
 
 
 def decode_pgn(type_letter, remainder):
@@ -324,6 +340,7 @@ def scan_root(target_numbers, verbose=True):
                     if pgn.get('state') != 'a':
                         continue
                 has_prefix = compute_has_prefix(parsed['prefix_segs'], category)
+                has_paragogic = compute_has_paragogic(parsed['suffix_segs'])
                 records.append({
                     'ref': _ref_at(ref_segs, wm.start()),
                     'heb_raw': heb,
@@ -334,6 +351,7 @@ def scan_root(target_numbers, verbose=True):
                     'code': pgn['code'],
                     'has_prefix': has_prefix,
                     'has_suffix': parsed['has_suffix'],
+                    'has_paragogic': has_paragogic,
                 })
     if verbose and unmapped_stems:
         print("UNMAPPED STEM LETTERS FOUND:", dict(unmapped_stems))
@@ -387,10 +405,12 @@ def scan_all(target_numbers, verbose=True):
                 if category in ('participle_active', 'participle_passive') and pgn.get('state') != 'a':
                     continue
                 has_prefix = compute_has_prefix(parsed['prefix_segs'], category)
+                has_paragogic = compute_has_paragogic(parsed['suffix_segs'])
                 records_by_number[num].append({
                     'ref': _ref_at(ref_segs, wm.start()), 'heb': clean_heb(heb), 'morph': morph,
                     'stem': stem_name, 'category': category, 'code': pgn['code'],
                     'has_prefix': has_prefix, 'has_suffix': parsed['has_suffix'],
+                    'has_paragogic': has_paragogic,
                 })
     if verbose and unmapped_by_number:
         print("UNMAPPED STEM LETTERS FOUND:", dict(unmapped_by_number))
@@ -591,7 +611,8 @@ def verify_root(strong, data, records_by_number):
                 # false discrepancy even though a real match existed.
                 match = [c for c in cands if c['ref'] == row['ref']
                          and c['has_prefix'] == row['has_prefix']
-                         and c['has_suffix'] == row['has_suffix']]
+                         and c['has_suffix'] == row['has_suffix']
+                         and c['has_paragogic'] == row['has_paragogic']]
                 if match and nfc(match[0]['heb']) == nfc(row['heb']):
                     continue
                 best = pick_best(cands) if cands else None
@@ -599,6 +620,7 @@ def verify_root(strong, data, records_by_number):
                     'stem': stem, 'cat': cat, 'code': row['code'],
                     'stored_heb': row['heb'], 'stored_ref': row['ref'],
                     'stored_prefix': row['has_prefix'], 'stored_suffix': row['has_suffix'],
+                    'stored_paragogic': row['has_paragogic'],
                     'best': best,
                     'ref_exists_at_all': bool(match),
                     'slot_exists_anywhere': bool(cands),
@@ -617,5 +639,6 @@ def pick_best(records_for_slot):
     the inherent wayyiqtol/veqatal vav by construction. We just rank normally.
     """
     def score(r):
-        return (1 if r['has_prefix'] else 0) + (1 if r['has_suffix'] else 0)
+        return ((1 if r['has_prefix'] else 0) + (1 if r['has_suffix'] else 0)
+                 + (1 if r['has_paragogic'] else 0))
     return sorted(records_for_slot, key=lambda r: (score(r), r['ref']))[0]

@@ -16,7 +16,8 @@
       "translit": "ufaltu",
       "ref": "Ezek.7.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -33,7 +34,8 @@
       "translit": "vattfallteni",
       "ref": "2Sam.22.44",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -42,7 +44,8 @@
       "translit": "vayfalltem",
       "ref": "Ps.37.40",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -53,7 +56,8 @@
       "translit": "tfallet",
       "ref": "Job.21.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -62,7 +66,8 @@
       "translit": "tfallet",
       "ref": "Mic.6.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -71,7 +76,8 @@
       "translit": "yfalltehu",
       "ref": "Ps.22.8",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -80,7 +86,8 @@
       "translit": "va'afalltehu",
       "ref": "Ps.91.14",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -91,7 +98,8 @@
       "translit": "palltah",
       "ref": "Ps.17.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      },
      {
       "code": "2mp",
@@ -100,7 +108,8 @@
       "translit": "palltu",
       "ref": "Ps.82.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -111,7 +120,8 @@
       "translit": "va'afalltah",
       "ref": "Job.23.7",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -128,7 +138,8 @@
       "translit": "vyaflit",
       "ref": "Isa.5.29",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -137,7 +148,8 @@
       "translit": "taflit",
       "ref": "Mic.6.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

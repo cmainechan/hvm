@@ -16,7 +16,8 @@
       "translit": "titztzenah",
       "ref": "Jer.4.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -33,7 +34,8 @@
       "translit": "yinnatzu",
       "ref": "Deut.25.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -44,7 +46,8 @@
       "translit": "vayyinnatzu",
       "ref": "2Sam.14.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -55,7 +58,8 @@
       "translit": "nitztzim",
       "ref": "2Kgs.19.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -72,7 +76,8 @@
       "translit": "hitztzu",
       "ref": "Num.26.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -83,7 +88,8 @@
       "translit": "bhattzotam",
       "ref": "Num.26.9",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

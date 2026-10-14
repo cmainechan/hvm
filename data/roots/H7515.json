@@ -17,7 +17,8 @@
       "translit": "vattirpos",
       "ref": "Ezek.32.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -28,7 +29,8 @@
       "translit": "tirposun",
       "ref": "Ezek.34.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      }
     ]
    }
@@ -46,7 +48,8 @@
       "translit": "nirpas",
       "ref": "Prov.25.26",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

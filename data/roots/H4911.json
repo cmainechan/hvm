@@ -16,7 +16,8 @@
       "translit": "hammoshel",
       "ref": "Ezek.16.44",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "mp",
@@ -25,7 +26,8 @@
       "translit": "moshlim",
       "ref": "Ezek.18.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -36,7 +38,8 @@
       "translit": "yimshlu",
       "ref": "Ezek.12.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -45,7 +48,8 @@
       "translit": "yimshol",
       "ref": "Ezek.16.44",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -56,7 +60,8 @@
       "translit": "umshol",
       "ref": "Ezek.17.2",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -67,7 +72,8 @@
       "translit": "mshol",
       "ref": "Ezek.18.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -84,7 +90,8 @@
       "translit": "nimshalta",
       "ref": "Isa.14.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -93,7 +100,8 @@
       "translit": "nimshal",
       "ref": "Ps.49.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -104,7 +112,8 @@
       "translit": "vnimshalti",
       "ref": "Ps.28.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -121,7 +130,8 @@
       "translit": "mmashshel",
       "ref": "Ezek.20.49",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -138,7 +148,8 @@
       "translit": "vtamshiluni",
       "ref": "Isa.46.5",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -156,7 +167,8 @@
       "translit": "va'etmashshel",
       "ref": "Job.30.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

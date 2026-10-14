@@ -16,7 +16,8 @@
       "translit": "avtah",
       "ref": "Esth.1.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -25,7 +26,8 @@
       "translit": "v'avinu",
       "ref": "Dan.9.5",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -42,7 +44,8 @@
       "translit": "na'aveti",
       "ref": "Isa.21.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -60,7 +63,8 @@
       "translit": "ivvah",
       "ref": "Lam.3.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -71,7 +75,8 @@
       "translit": "v'ivvah",
       "ref": "Isa.24.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -89,7 +94,8 @@
       "translit": "he'evah",
       "ref": "2Sam.19.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -98,7 +104,8 @@
       "translit": "he'eveti",
       "ref": "2Sam.24.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -107,7 +114,8 @@
       "translit": "he'euu",
       "ref": "Jer.3.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -116,7 +124,8 @@
       "translit": "he'evinu",
       "ref": "2Chr.6.37",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -127,7 +136,8 @@
       "translit": "bha'aoto",
       "ref": "2Sam.7.14",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -138,7 +148,8 @@
       "translit": "ha'aveh",
       "ref": "Jer.9.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

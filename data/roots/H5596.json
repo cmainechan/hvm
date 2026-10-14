@@ -16,7 +16,8 @@
       "translit": "sfacheni",
       "ref": "1Sam.2.36",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -33,7 +34,8 @@
       "translit": "vnispchu",
       "ref": "Isa.14.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -50,7 +52,8 @@
       "translit": "msappecha",
       "ref": "Hab.2.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -61,7 +64,8 @@
       "translit": "vsippach",
       "ref": "Isa.3.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -79,7 +83,8 @@
       "translit": "ysuppachu",
       "ref": "Job.30.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -96,7 +101,8 @@
       "translit": "mehistappecha",
       "ref": "1Sam.26.19",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

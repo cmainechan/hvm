@@ -17,7 +17,8 @@
       "translit": "tzaqun",
       "ref": "Isa.26.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      }
     ],
     "yiqtol": [
@@ -28,7 +29,8 @@
       "translit": "yatzuq",
       "ref": "Job.28.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

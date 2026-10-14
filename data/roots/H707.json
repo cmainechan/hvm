@@ -16,7 +16,8 @@
       "translit": "ta'argi",
       "ref": "Judg.16.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -25,7 +26,8 @@
       "translit": "ye'erogu",
       "ref": "Isa.59.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -36,7 +38,8 @@
       "translit": "orgot",
       "ref": "2Kgs.23.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "mp",
@@ -45,7 +48,8 @@
       "translit": "orgim",
       "ref": "1Chr.11.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "ms",
@@ -54,7 +58,8 @@
       "translit": "oreg",
       "ref": "Exod.28.32",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

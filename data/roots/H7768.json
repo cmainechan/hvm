@@ -15,7 +15,8 @@
       "translit": "shivvati",
       "ref": "Hab.1.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -26,7 +27,8 @@
       "translit": "teshavva",
       "ref": "Isa.58.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -35,7 +37,8 @@
       "translit": "ashavva",
       "ref": "Job.19.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -44,7 +47,8 @@
       "translit": "teshavea",
       "ref": "Job.24.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -53,7 +57,8 @@
       "translit": "yeshavveu",
       "ref": "Job.35.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -64,7 +69,8 @@
       "translit": "meshavea",
       "ref": "Job.29.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -75,7 +81,8 @@
       "translit": "uvshauo",
       "ref": "Ps.22.24",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -86,7 +93,8 @@
       "translit": "va'ashavve'ah",
       "ref": "Ps.119.147",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      }
     ]
    },

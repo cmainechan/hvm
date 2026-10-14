@@ -16,7 +16,8 @@
       "translit": "tzamach",
       "ref": "Lev.13.37",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -27,7 +28,8 @@
       "translit": "vayyitzmach",
       "ref": "Ezek.17.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -38,7 +40,8 @@
       "translit": "yitzmach",
       "ref": "Gen.2.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -47,7 +50,8 @@
       "translit": "titzmach",
       "ref": "Isa.43.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -56,7 +60,8 @@
       "translit": "yitzmachu",
       "ref": "Job.8.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fp",
@@ -65,7 +70,8 @@
       "translit": "titzmachnah",
       "ref": "Isa.42.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -76,7 +82,8 @@
       "translit": "vtzamchu",
       "ref": "Isa.44.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -87,7 +94,8 @@
       "translit": "hattzomecha",
       "ref": "Exod.10.5",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "fp",
@@ -96,7 +104,8 @@
       "translit": "tzomchot",
       "ref": "Gen.41.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -113,7 +122,8 @@
       "translit": "tzimmecha",
       "ref": "Ezek.16.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -124,7 +134,8 @@
       "translit": "ytzammach",
       "ref": "1Chr.19.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -135,7 +146,8 @@
       "translit": "ltzammecha",
       "ref": "Judg.16.22",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -152,7 +164,8 @@
       "translit": "vayyatzmach",
       "ref": "Gen.2.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -163,7 +176,8 @@
       "translit": "yatzmicha",
       "ref": "2Sam.23.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -172,7 +186,8 @@
       "translit": "tatzmicha",
       "ref": "Deut.29.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -181,7 +196,8 @@
       "translit": "atzmicha",
       "ref": "Ezek.29.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -192,7 +208,8 @@
       "translit": "vhitzmichahh",
       "ref": "Isa.55.10",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -203,7 +220,8 @@
       "translit": "matzmicha",
       "ref": "Ps.104.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -214,7 +232,8 @@
       "translit": "ulhatzmicha",
       "ref": "Job.38.27",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

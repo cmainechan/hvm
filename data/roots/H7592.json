@@ -15,7 +15,8 @@
       "translit": "sha'al",
       "ref": "1Chr.4.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -24,7 +25,8 @@
       "translit": "sha'alta",
       "ref": "1Kgs.3.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -33,7 +35,8 @@
       "translit": "sha'alah",
       "ref": "1Kgs.10.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -42,7 +45,8 @@
       "translit": "sha'alt",
       "ref": "1Sam.1.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -51,7 +55,8 @@
       "translit": "sh'ilti",
       "ref": "1Sam.1.20",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -60,7 +65,8 @@
       "translit": "sh'eltem",
       "ref": "1Sam.12.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -69,7 +75,8 @@
       "translit": "sha'alu",
       "ref": "Eccl.2.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -80,7 +87,8 @@
       "translit": "vayyish'al",
       "ref": "1Chr.14.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -89,7 +97,8 @@
       "translit": "vayyish'alu",
       "ref": "1Sam.10.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -98,7 +107,8 @@
       "translit": "vattish'al",
       "ref": "2Chr.1.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -107,7 +117,8 @@
       "translit": "va'esh'al",
       "ref": "Gen.24.47",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -118,7 +129,8 @@
       "translit": "sho'el",
       "ref": "1Kgs.2.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "fs",
@@ -127,7 +139,8 @@
       "translit": "sho'elet",
       "ref": "1Kgs.2.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "mp",
@@ -136,7 +149,8 @@
       "translit": "hassho'alim",
       "ref": "1Sam.8.10",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -147,7 +161,8 @@
       "translit": "sha'ul",
       "ref": "1Sam.1.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -158,7 +173,8 @@
       "translit": "tish'aleni",
       "ref": "1Sam.28.16",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -167,7 +183,8 @@
       "translit": "yish'al",
       "ref": "2Sam.16.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -176,7 +193,8 @@
       "translit": "tish'alkha",
       "ref": "Deut.14.26",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -185,7 +203,8 @@
       "translit": "esh'al",
       "ref": "Isa.7.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -194,7 +213,8 @@
       "translit": "yish'aluni",
       "ref": "Isa.58.2",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -205,7 +225,8 @@
       "translit": "vsha'alu",
       "ref": "1Sam.10.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -214,7 +235,8 @@
       "translit": "ush'eltem",
       "ref": "1Sam.25.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -223,7 +245,8 @@
       "translit": "vsha'alta",
       "ref": "Deut.13.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -232,7 +255,8 @@
       "translit": "vsha'alah",
       "ref": "Exod.3.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -241,7 +265,8 @@
       "translit": "vish'elkha",
       "ref": "Gen.32.17",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -252,7 +277,8 @@
       "translit": "sha'ali",
       "ref": "1Kgs.2.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -261,7 +287,8 @@
       "translit": "sh'al",
       "ref": "1Kgs.3.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -270,7 +297,8 @@
       "translit": "sh'aluni",
       "ref": "Isa.45.11",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -281,7 +309,8 @@
       "translit": "lish'ol",
       "ref": "1Chr.10.13",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -292,7 +321,8 @@
       "translit": "vsha'ol",
       "ref": "1Sam.22.13",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -303,7 +333,8 @@
       "translit": "vnish'alah",
       "ref": "Gen.24.57",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -312,7 +343,8 @@
       "translit": "esh'alah",
       "ref": "Judg.8.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -323,7 +355,8 @@
       "translit": "vyish'alu",
       "ref": "Exod.11.2",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -340,7 +373,8 @@
       "translit": "nish'al",
       "ref": "1Sam.20.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -349,7 +383,8 @@
       "translit": "nish'alti",
       "ref": "Neh.13.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -360,7 +395,8 @@
       "translit": "nish'ol",
       "ref": "1Sam.20.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -378,7 +414,8 @@
       "translit": "ysha'alu",
       "ref": "2Sam.20.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -389,7 +426,8 @@
       "translit": "vshi'elu",
       "ref": "Ps.109.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -406,7 +444,8 @@
       "translit": "hish'iltihu",
       "ref": "1Sam.1.28",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -417,7 +456,8 @@
       "translit": "vayyash'ilum",
       "ref": "Exod.12.36",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

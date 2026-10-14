@@ -16,7 +16,8 @@
       "translit": "lavinu",
       "ref": "Neh.5.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "yilvennu",
       "ref": "Eccl.8.15",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -36,7 +38,8 @@
       "translit": "tilveh",
       "ref": "Deut.28.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -47,7 +50,8 @@
       "translit": "loveh",
       "ref": "Prov.22.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -65,7 +69,8 @@
       "translit": "nilvah",
       "ref": "Ps.83.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -76,7 +81,8 @@
       "translit": "yillaveh",
       "ref": "Gen.29.34",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -85,7 +91,8 @@
       "translit": "vyillau",
       "ref": "Num.18.2",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -96,7 +103,8 @@
       "translit": "vnilvah",
       "ref": "Isa.14.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -105,7 +113,8 @@
       "translit": "vnilvu",
       "ref": "Dan.11.34",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -116,7 +125,8 @@
       "translit": "hannilvim",
       "ref": "Esth.9.27",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -133,7 +143,8 @@
       "translit": "yalvkha",
       "ref": "Deut.28.44",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -142,7 +153,8 @@
       "translit": "talveh",
       "ref": "Exod.22.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -153,7 +165,8 @@
       "translit": "vhilvita",
       "ref": "Deut.28.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -164,7 +177,8 @@
       "translit": "malveh",
       "ref": "Prov.22.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

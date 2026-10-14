@@ -16,7 +16,8 @@
       "translit": "boteh",
       "ref": "Prov.12.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -34,7 +35,8 @@
       "translit": "lvatte",
       "ref": "Lev.5.4",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -45,7 +47,8 @@
       "translit": "yvatte",
       "ref": "Lev.5.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -56,7 +59,8 @@
       "translit": "vayvatte",
       "ref": "Ps.106.33",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

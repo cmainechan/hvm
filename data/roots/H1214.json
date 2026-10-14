@@ -16,7 +16,8 @@
       "translit": "yivtzau",
       "ref": "Joel.2.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -25,7 +26,8 @@
       "translit": "yivtza",
       "ref": "Job.27.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -36,7 +38,8 @@
       "translit": "uvtza'am",
       "ref": "Amos.9.1",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -47,7 +50,8 @@
       "translit": "btzoa",
       "ref": "Ezek.22.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -58,7 +62,8 @@
       "translit": "botzea",
       "ref": "Hab.2.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -76,7 +81,8 @@
       "translit": "bitztza",
       "ref": "Lam.2.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -87,7 +93,8 @@
       "translit": "vattvatztz'i",
       "ref": "Ezek.22.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -98,7 +105,8 @@
       "translit": "tvatztzanah",
       "ref": "Zech.4.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -107,7 +115,8 @@
       "translit": "yvatztza",
       "ref": "Isa.10.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

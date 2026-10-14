@@ -16,7 +16,8 @@
       "translit": "vayya'at",
       "ref": "Isa.59.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "yateh",
       "ref": "Jer.43.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -36,7 +38,8 @@
       "translit": "tateh",
       "ref": "Ezek.24.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -45,7 +48,8 @@
       "translit": "ya'atu",
       "ref": "Ps.71.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -54,7 +58,8 @@
       "translit": "tatu",
       "ref": "Ezek.24.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -65,7 +70,8 @@
       "translit": "v'atah",
       "ref": "Jer.43.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -74,7 +80,8 @@
       "translit": "v'atu",
       "ref": "Mic.3.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -85,7 +92,8 @@
       "translit": "oteh",
       "ref": "1Sam.28.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "fs",
@@ -94,7 +102,8 @@
       "translit": "k'otyah",
       "ref": "Song.1.7",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -105,7 +114,8 @@
       "translit": "atoh",
       "ref": "Isa.22.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -122,7 +132,8 @@
       "translit": "he'etita",
       "ref": "Ps.89.45",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -133,7 +144,8 @@
       "translit": "yateh",
       "ref": "Ps.84.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

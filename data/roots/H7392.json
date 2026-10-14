@@ -15,7 +15,8 @@
       "translit": "rakhvu",
       "ref": "1Sam.30.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -24,7 +25,8 @@
       "translit": "rakhav",
       "ref": "Esth.6.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -33,7 +35,8 @@
       "translit": "rakhavta",
       "ref": "Num.22.30",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -44,7 +47,8 @@
       "translit": "vayyirkav",
       "ref": "1Kgs.13.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -53,7 +57,8 @@
       "translit": "vattirkav",
       "ref": "1Sam.25.42",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -62,7 +67,8 @@
       "translit": "vayyirkvu",
       "ref": "2Sam.13.29",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fp",
@@ -71,7 +77,8 @@
       "translit": "vattirkavnah",
       "ref": "Gen.24.61",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -82,7 +89,8 @@
       "translit": "rokhevet",
       "ref": "1Sam.25.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "mp",
@@ -91,7 +99,8 @@
       "translit": "rokhvim",
       "ref": "2Kgs.9.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "ms",
@@ -100,7 +109,8 @@
       "translit": "rokhev",
       "ref": "2Sam.18.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -111,7 +121,8 @@
       "translit": "v'erkav",
       "ref": "2Sam.19.26",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -120,7 +131,8 @@
       "translit": "tirkav",
       "ref": "Hab.3.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -129,7 +141,8 @@
       "translit": "nirkav",
       "ref": "Hos.14.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -138,7 +151,8 @@
       "translit": "yirkavu",
       "ref": "Jer.6.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -147,7 +161,8 @@
       "translit": "yirkav",
       "ref": "Lev.15.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -158,7 +173,8 @@
       "translit": "rkhav",
       "ref": "Ps.45.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -169,7 +185,8 @@
       "translit": "lirkov",
       "ref": "2Kgs.4.24",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -186,7 +203,8 @@
       "translit": "hirkavta",
       "ref": "Ps.66.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -197,7 +215,8 @@
       "translit": "vayyarkivu",
       "ref": "1Chr.13.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -206,7 +225,8 @@
       "translit": "vayyarkev",
       "ref": "2Kgs.13.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -217,7 +237,8 @@
       "translit": "yarkivehu",
       "ref": "Deut.32.13",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -226,7 +247,8 @@
       "translit": "arkiv",
       "ref": "Hos.10.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -235,7 +257,8 @@
       "translit": "tarkiveni",
       "ref": "Job.30.22",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -246,7 +269,8 @@
       "translit": "vhirkavtem",
       "ref": "1Kgs.1.33",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -255,7 +279,8 @@
       "translit": "vhirkivuhu",
       "ref": "Esth.6.9",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -264,7 +289,8 @@
       "translit": "vhirkavtikha",
       "ref": "Isa.58.14",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -275,7 +301,8 @@
       "translit": "harkev",
       "ref": "2Kgs.13.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

@@ -16,7 +16,8 @@
       "translit": "vkhal",
       "ref": "Isa.40.12",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -33,7 +34,8 @@
       "translit": "kilkal",
       "ref": "2Sam.19.32",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -42,7 +44,8 @@
       "translit": "kilkaltam",
       "ref": "Neh.9.21",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -53,7 +56,8 @@
       "translit": "vaykhalkel",
       "ref": "Gen.47.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -62,7 +66,8 @@
       "translit": "va'akhalklem",
       "ref": "1Kgs.18.13",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -73,7 +78,8 @@
       "translit": "vekhilkalti",
       "ref": "Gen.45.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -84,7 +90,8 @@
       "translit": "akhalkel",
       "ref": "Gen.50.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -93,7 +100,8 @@
       "translit": "yekhalkel",
       "ref": "Ps.112.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -102,7 +110,8 @@
       "translit": "ykhalklukha",
       "ref": "1Kgs.8.27",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -113,7 +122,8 @@
       "translit": "mekhalkel",
       "ref": "Mal.3.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -124,7 +134,8 @@
       "translit": "kalkel",
       "ref": "Jer.20.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -142,7 +153,8 @@
       "translit": "yakhil",
       "ref": "1Kgs.7.26",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -151,7 +163,8 @@
       "translit": "yakhlu",
       "ref": "Jer.2.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -162,7 +175,8 @@
       "translit": "hakhil",
       "ref": "Jer.6.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -180,7 +194,8 @@
       "translit": "vkhalklu",
       "ref": "1Kgs.20.27",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

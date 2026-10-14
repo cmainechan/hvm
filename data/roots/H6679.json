@@ -16,7 +16,8 @@
       "translit": "tzadu",
       "ref": "Lam.4.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "yatzud",
       "ref": "Lev.17.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -36,7 +38,8 @@
       "translit": "tatzud",
       "ref": "Prov.6.26",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -45,7 +48,8 @@
       "translit": "ttzudeni",
       "ref": "Job.10.16",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -54,7 +58,8 @@
       "translit": "yatzudu",
       "ref": "Mic.7.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -65,7 +70,8 @@
       "translit": "vtzadum",
       "ref": "Jer.16.16",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -76,7 +82,8 @@
       "translit": "vtzudah",
       "ref": "Gen.27.3",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": true
      }
     ],
     "jussive": [
@@ -87,7 +94,8 @@
       "translit": "ytzudennu",
       "ref": "Ps.140.11",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -98,7 +106,8 @@
       "translit": "hattzad",
       "ref": "Gen.27.33",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -109,7 +118,8 @@
       "translit": "latzud",
       "ref": "Gen.27.5",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -120,7 +130,8 @@
       "translit": "tzod",
       "ref": "Lam.3.52",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -137,7 +148,8 @@
       "translit": "ttzodednah",
       "ref": "Ezek.13.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -148,7 +160,8 @@
       "translit": "mtzoddot",
       "ref": "Ezek.13.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -159,7 +172,8 @@
       "translit": "ltzoded",
       "ref": "Ezek.13.18",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -176,7 +190,8 @@
       "translit": "hitztayyadnu",
       "ref": "Josh.9.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

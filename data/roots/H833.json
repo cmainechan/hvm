@@ -16,7 +16,8 @@
       "translit": "v'ishru",
       "ref": "Prov.9.6",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -33,7 +34,8 @@
       "translit": "isshruni",
       "ref": "Gen.30.13",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -44,7 +46,8 @@
       "translit": "vatt'asshreni",
       "ref": "Job.29.11",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -53,7 +56,8 @@
       "translit": "vay'asshruha",
       "ref": "Prov.31.28",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -64,7 +68,8 @@
       "translit": "v'isshru",
       "ref": "Mal.3.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -75,7 +80,8 @@
       "translit": "y'asshruhu",
       "ref": "Ps.72.17",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -86,7 +92,8 @@
       "translit": "asshru",
       "ref": "Isa.1.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -95,7 +102,8 @@
       "translit": "v'assher",
       "ref": "Prov.23.19",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -106,7 +114,8 @@
       "translit": "t'assher",
       "ref": "Prov.4.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -117,7 +126,8 @@
       "translit": "m'asshrim",
       "ref": "Mal.3.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -135,7 +145,8 @@
       "translit": "v'usshar",
       "ref": "Ps.41.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -146,7 +157,8 @@
       "translit": "m'usshar",
       "ref": "Prov.3.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

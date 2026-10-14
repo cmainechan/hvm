@@ -16,7 +16,8 @@
       "translit": "lohet",
       "ref": "Ps.104.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -33,7 +34,8 @@
       "translit": "lihatah",
       "ref": "Joel.1.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -44,7 +46,8 @@
       "translit": "tlahet",
       "ref": "Job.41.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -55,7 +58,8 @@
       "translit": "vattlahet",
       "ref": "Deut.32.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

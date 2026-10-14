@@ -16,7 +16,8 @@
       "translit": "chanan",
       "ref": "Gen.33.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -25,7 +26,8 @@
       "translit": "vchannoti",
       "ref": "Job.19.17",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -34,7 +36,8 @@
       "translit": "chananu",
       "ref": "Lam.4.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -45,7 +48,8 @@
       "translit": "vayyachan",
       "ref": "2Kgs.13.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -56,7 +60,8 @@
       "translit": "chonen",
       "ref": "Prov.14.31",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -67,7 +72,8 @@
       "translit": "yechenan",
       "ref": "Amos.5.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -76,7 +82,8 @@
       "translit": "tchannem",
       "ref": "Deut.7.2",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -85,7 +92,8 @@
       "translit": "achon",
       "ref": "Exod.33.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -96,7 +104,8 @@
       "translit": "vchannani",
       "ref": "2Sam.12.22",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -105,7 +114,8 @@
       "translit": "vchannoti",
       "ref": "Exod.33.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -116,7 +126,8 @@
       "translit": "channenu",
       "ref": "Isa.33.2",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -125,7 +136,8 @@
       "translit": "channuni",
       "ref": "Job.19.21",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -136,7 +148,8 @@
       "translit": "lachanankhem",
       "ref": "Isa.30.18",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -147,7 +160,8 @@
       "translit": "chanon",
       "ref": "Isa.30.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -158,7 +172,8 @@
       "translit": "vichanenu",
       "ref": "Mal.1.9",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -167,7 +182,8 @@
       "translit": "tachon",
       "ref": "Ps.59.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -184,7 +200,8 @@
       "translit": "nechant",
       "ref": "Jer.22.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -201,7 +218,8 @@
       "translit": "ychannen",
       "ref": "Prov.26.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -218,7 +236,8 @@
       "translit": "yuchan",
       "ref": "Isa.26.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -235,7 +254,8 @@
       "translit": "hitchannanti",
       "ref": "1Kgs.8.59",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -244,7 +264,8 @@
       "translit": "hitchannantah",
       "ref": "1Kgs.9.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -255,7 +276,8 @@
       "translit": "vayyitchannen",
       "ref": "2Kgs.1.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -264,7 +286,8 @@
       "translit": "va'etchannan",
       "ref": "Deut.3.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -273,7 +296,8 @@
       "translit": "vattitchannen",
       "ref": "Esth.8.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -284,7 +308,8 @@
       "translit": "titchannan",
       "ref": "Job.8.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -293,7 +318,8 @@
       "translit": "etchannan",
       "ref": "Job.9.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -304,7 +330,8 @@
       "translit": "vhitchannnu",
       "ref": "1Kgs.8.33",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -315,7 +342,8 @@
       "translit": "lhitchannen",
       "ref": "Esth.4.8",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -332,7 +360,8 @@
       "translit": "umchonen",
       "ref": "Prov.14.21",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -343,7 +372,8 @@
       "translit": "ychonenu",
       "ref": "Ps.102.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

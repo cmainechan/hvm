@@ -16,7 +16,8 @@
       "translit": "galloti",
       "ref": "Josh.5.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -25,7 +26,8 @@
       "translit": "vgalalu",
       "ref": "Gen.29.3",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -36,7 +38,8 @@
       "translit": "vayyagel",
       "ref": "Gen.29.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -47,7 +50,8 @@
       "translit": "vgalalu",
       "ref": "Gen.29.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -58,7 +62,8 @@
       "translit": "gol",
       "ref": "Prov.16.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -67,7 +72,8 @@
       "translit": "gollu",
       "ref": "1Sam.14.33",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -78,7 +84,8 @@
       "translit": "vgolel",
       "ref": "Prov.26.27",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -95,7 +102,8 @@
       "translit": "vyiggal",
       "ref": "Amos.5.24",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -106,7 +114,8 @@
       "translit": "vnagollu",
       "ref": "Isa.34.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -124,7 +133,8 @@
       "translit": "vgilgaltikha",
       "ref": "Jer.51.25",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -141,7 +151,8 @@
       "translit": "mgolalah",
       "ref": "Isa.9.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -158,7 +169,8 @@
       "translit": "mitgolel",
       "ref": "2Sam.20.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -169,7 +181,8 @@
       "translit": "lhitgolel",
       "ref": "Gen.43.18",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -187,7 +200,8 @@
       "translit": "hitgalgalu",
       "ref": "Job.30.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -204,7 +218,8 @@
       "translit": "gal",
       "ref": "Ps.119.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

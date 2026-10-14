@@ -16,7 +16,8 @@
       "translit": "qtzot",
       "ref": "Hab.2.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -33,7 +34,8 @@
       "translit": "lqattzot",
       "ref": "2Kgs.10.32",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -44,7 +46,8 @@
       "translit": "mqattzeh",
       "ref": "Prov.26.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -61,7 +64,8 @@
       "translit": "hiqtzu",
       "ref": "Lev.14.41",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -72,7 +76,8 @@
       "translit": "hiqtzot",
       "ref": "Lev.14.43",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

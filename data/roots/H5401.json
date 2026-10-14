@@ -16,7 +16,8 @@
       "translit": "nashaq",
       "ref": "1Kgs.19.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -25,7 +26,8 @@
       "translit": "nashaqu",
       "ref": "Ps.85.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -36,7 +38,8 @@
       "translit": "vayyisshaqehu",
       "ref": "1Sam.10.1",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -45,7 +48,8 @@
       "translit": "vayyishshqu",
       "ref": "1Sam.20.41",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -54,7 +58,8 @@
       "translit": "vattishshaq",
       "ref": "Job.31.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -65,16 +70,18 @@
       "translit": "yishshaq",
       "ref": "Gen.41.40",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
       "heb": "יִשָּׁקֽוּן",
-      "translit": "yishshaqun",
+      "translit": "yisshaqun",
       "ref": "Hos.13.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      },
      {
       "code": "1cs",
@@ -83,7 +90,8 @@
       "translit": "eshaqkha",
       "ref": "Song.8.1",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -94,7 +102,8 @@
       "translit": "vnashqah",
       "ref": "Prov.7.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -105,7 +114,8 @@
       "translit": "ushqah",
       "ref": "Gen.27.26",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": true
      }
     ],
     "infinitive_construct": [
@@ -116,7 +126,8 @@
       "translit": "linshaq",
       "ref": "2Sam.20.9",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -127,7 +138,8 @@
       "translit": "eshshqah",
       "ref": "1Kgs.19.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -144,7 +156,8 @@
       "translit": "vaynashsheq",
       "ref": "Gen.29.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -155,7 +168,8 @@
       "translit": "nashshqu",
       "ref": "Ps.2.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -166,7 +180,8 @@
       "translit": "lnassheq",
       "ref": "Gen.31.28",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -183,7 +198,8 @@
       "translit": "mashshiqot",
       "ref": "Ezek.3.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

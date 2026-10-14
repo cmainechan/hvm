@@ -16,7 +16,8 @@
       "translit": "taraf",
       "ref": "Hos.6.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -27,7 +28,8 @@
       "translit": "vayyitrof",
       "ref": "Amos.1.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -38,7 +40,8 @@
       "translit": "yitraf",
       "ref": "Gen.49.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -47,7 +50,8 @@
       "translit": "etrof",
       "ref": "Hos.5.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -58,7 +62,8 @@
       "translit": "vtaraf",
       "ref": "Deut.33.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -69,7 +74,8 @@
       "translit": "toref",
       "ref": "Ezek.22.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -80,7 +86,8 @@
       "translit": "litraf",
       "ref": "Ezek.19.3",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -91,7 +98,8 @@
       "translit": "tarof",
       "ref": "Exod.22.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -108,7 +116,8 @@
       "translit": "yittaref",
       "ref": "Exod.22.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -125,7 +134,8 @@
       "translit": "toraf",
       "ref": "Gen.37.33",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -142,7 +152,8 @@
       "translit": "hatrifeni",
       "ref": "Prov.30.8",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -159,7 +170,8 @@
       "translit": "toraf",
       "ref": "Gen.44.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

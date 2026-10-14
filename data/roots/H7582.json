@@ -16,7 +16,8 @@
       "translit": "shau",
       "ref": "Isa.6.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -33,16 +34,18 @@
       "translit": "tissha'eh",
       "ref": "Isa.6.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
       "heb": "יִשָּׁאֽוּן",
-      "translit": "yisshaun",
+      "translit": "yissha'un",
       "ref": "Isa.17.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      }
     ]
    },
@@ -60,7 +63,8 @@
       "translit": "lahshot",
       "ref": "2Kgs.19.25",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

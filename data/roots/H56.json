@@ -16,7 +16,8 @@
       "translit": "aval",
       "ref": "Hos.10.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -25,7 +26,8 @@
       "translit": "avlah",
       "ref": "Isa.24.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -34,7 +36,8 @@
       "translit": "avlu",
       "ref": "Joel.1.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -45,7 +48,8 @@
       "translit": "te'eval",
       "ref": "Hos.4.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -56,7 +60,8 @@
       "translit": "v'aval",
       "ref": "Amos.8.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -65,7 +70,8 @@
       "translit": "v'avlu",
       "ref": "Isa.19.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -82,7 +88,8 @@
       "translit": "he'evalti",
       "ref": "Ezek.31.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -93,7 +100,8 @@
       "translit": "vayya'avel",
       "ref": "Lam.2.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -110,7 +118,8 @@
       "translit": "hit'abbel",
       "ref": "1Sam.15.35",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -121,7 +130,8 @@
       "translit": "vayyit'abbel",
       "ref": "1Chr.7.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -130,7 +140,8 @@
       "translit": "va'et'abblah",
       "ref": "Neh.1.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      },
      {
       "code": "3mp",
@@ -139,7 +150,8 @@
       "translit": "vayyit'abblu",
       "ref": "1Sam.6.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -150,7 +162,8 @@
       "translit": "yit'abbal",
       "ref": "Ezek.7.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -161,7 +174,8 @@
       "translit": "hit'abbli",
       "ref": "2Sam.14.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -172,7 +186,8 @@
       "translit": "yit'abbal",
       "ref": "Ezek.7.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -181,7 +196,8 @@
       "translit": "tit'abblu",
       "ref": "Neh.8.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -192,7 +208,8 @@
       "translit": "mit'abbel",
       "ref": "1Sam.16.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "fs",
@@ -201,7 +218,8 @@
       "translit": "mit'abbelet",
       "ref": "2Sam.14.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "mp",
@@ -210,7 +228,8 @@
       "translit": "mit'abblim",
       "ref": "2Chr.35.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

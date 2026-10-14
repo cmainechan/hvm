@@ -16,7 +16,8 @@
       "translit": "yanuv",
       "ref": "Prov.10.31",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -25,7 +26,8 @@
       "translit": "ynuvun",
       "ref": "Ps.92.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      }
     ]
    },
@@ -43,7 +45,8 @@
       "translit": "ynovev",
       "ref": "Zech.9.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

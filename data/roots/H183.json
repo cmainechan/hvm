@@ -16,7 +16,8 @@
       "translit": "ivvahh",
       "ref": "Ps.132.13",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -25,7 +26,8 @@
       "translit": "iutah",
       "ref": "Job.23.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -34,7 +36,8 @@
       "translit": "ivvitikha",
       "ref": "Isa.26.9",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -45,7 +48,8 @@
       "translit": "t'avveh",
       "ref": "1Kgs.11.37",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -62,7 +66,8 @@
       "translit": "hit'avvah",
       "ref": "Prov.21.26",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -71,7 +76,8 @@
       "translit": "hit'avveti",
       "ref": "Jer.17.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -80,7 +86,8 @@
       "translit": "hit'auu",
       "ref": "Num.11.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -91,7 +98,8 @@
       "translit": "vayyit'ayv",
       "ref": "1Chr.11.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -100,7 +108,8 @@
       "translit": "vayyit'auu",
       "ref": "Ps.106.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -111,7 +120,8 @@
       "translit": "yit'avveh",
       "ref": "Eccl.6.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -120,7 +130,8 @@
       "translit": "tit'avveh",
       "ref": "Deut.5.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -131,7 +142,8 @@
       "translit": "tit'av",
       "ref": "Prov.23.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -142,7 +154,8 @@
       "translit": "mit'avvah",
       "ref": "Prov.13.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "mp",
@@ -151,7 +164,8 @@
       "translit": "hammit'avvim",
       "ref": "Amos.5.18",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

@@ -16,7 +16,8 @@
       "translit": "mshugga'im",
       "ref": "1Sam.21.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "ms",
@@ -25,7 +26,8 @@
       "translit": "mshugga",
       "ref": "Deut.28.34",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -42,7 +44,8 @@
       "translit": "lhishtaggea",
       "ref": "1Sam.21.15",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -53,7 +56,8 @@
       "translit": "mishtaggea",
       "ref": "1Sam.21.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

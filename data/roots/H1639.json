@@ -16,7 +16,8 @@
       "translit": "va'egra",
       "ref": "Ezek.16.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -27,7 +28,8 @@
       "translit": "yigra",
       "ref": "Exod.21.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -36,7 +38,8 @@
       "translit": "tigra",
       "ref": "Deut.12.32",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -45,7 +48,8 @@
       "translit": "egra",
       "ref": "Ezek.5.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -54,7 +58,8 @@
       "translit": "tigru",
       "ref": "Deut.4.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -65,7 +70,8 @@
       "translit": "tigra",
       "ref": "Jer.26.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -76,7 +82,8 @@
       "translit": "gru'ah",
       "ref": "Isa.15.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -87,7 +94,8 @@
       "translit": "ligroa",
       "ref": "Eccl.3.14",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -105,7 +113,8 @@
       "translit": "yiggara",
       "ref": "Num.27.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -114,7 +123,8 @@
       "translit": "niggara",
       "ref": "Num.9.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -125,7 +135,8 @@
       "translit": "vnigra",
       "ref": "Lev.27.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -134,7 +145,8 @@
       "translit": "vnigr'ah",
       "ref": "Num.36.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -145,7 +157,8 @@
       "translit": "nigra",
       "ref": "Exod.5.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -163,7 +176,8 @@
       "translit": "ygara",
       "ref": "Job.36.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

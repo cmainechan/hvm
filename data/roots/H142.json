@@ -16,7 +16,8 @@
       "translit": "ne'ddar",
       "ref": "Exod.15.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -34,7 +35,8 @@
       "translit": "vya'ddir",
       "ref": "Isa.42.21",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },

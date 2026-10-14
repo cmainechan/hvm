@@ -16,7 +16,8 @@
       "translit": "vaylaqqet",
       "ref": "1Sam.20.38",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -25,7 +26,8 @@
       "translit": "vattlaqqet",
       "ref": "Ruth.2.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -36,7 +38,8 @@
       "translit": "llaqqet",
       "ref": "2Kgs.4.39",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -47,7 +50,8 @@
       "translit": "kimlaqqet",
       "ref": "Isa.17.5",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "mp",
@@ -56,7 +60,8 @@
       "translit": "mlaqqtim",
       "ref": "Jer.7.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -67,7 +72,8 @@
       "translit": "tlaqqet",
       "ref": "Lev.19.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -76,7 +82,8 @@
       "translit": "tlaqqet",
       "ref": "Ruth.2.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -87,7 +94,8 @@
       "translit": "va'alaqottah",
       "ref": "Ruth.2.2",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -98,7 +106,8 @@
       "translit": "vliqqtah",
       "ref": "Ruth.2.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "perfect": [
@@ -109,7 +118,8 @@
       "translit": "liqqetah",
       "ref": "Ruth.2.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -118,7 +128,8 @@
       "translit": "liqqatt",
       "ref": "Ruth.2.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -135,7 +146,8 @@
       "translit": "vlaqtu",
       "ref": "Exod.16.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -146,7 +158,8 @@
       "translit": "yilqtu",
       "ref": "Exod.16.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -155,7 +168,8 @@
       "translit": "tilqtuhu",
       "ref": "Exod.16.26",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -166,7 +180,8 @@
       "translit": "liqtu",
       "ref": "Exod.16.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -177,7 +192,8 @@
       "translit": "vayyilqtu",
       "ref": "Exod.16.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "perfect": [
@@ -188,7 +204,8 @@
       "translit": "laqatu",
       "ref": "Exod.16.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -199,7 +216,8 @@
       "translit": "lilqot",
       "ref": "Exod.16.27",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -216,7 +234,8 @@
       "translit": "tluqqtu",
       "ref": "Isa.27.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -233,7 +252,8 @@
       "translit": "vayyitlaqqtu",
       "ref": "Judg.11.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

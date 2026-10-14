@@ -16,7 +16,8 @@
       "translit": "shoter",
       "ref": "Prov.6.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "mp",
@@ -25,7 +26,8 @@
       "translit": "vshotrim",
       "ref": "1Chr.23.4",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }

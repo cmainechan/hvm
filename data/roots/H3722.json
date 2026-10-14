@@ -16,7 +16,8 @@
       "translit": "vkhafarta",
       "ref": "Gen.6.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -34,7 +35,8 @@
       "translit": "vaykhapper",
       "ref": "Num.8.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -45,7 +47,8 @@
       "translit": "ykhapper",
       "ref": "2Chr.30.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -54,7 +57,8 @@
       "translit": "akhapper",
       "ref": "2Sam.21.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -63,7 +67,8 @@
       "translit": "tkhapper",
       "ref": "Exod.29.37",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -72,7 +77,8 @@
       "translit": "ykhappru",
       "ref": "Ezek.43.26",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -83,7 +89,8 @@
       "translit": "vkhipper",
       "ref": "Deut.32.43",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -92,7 +99,8 @@
       "translit": "vkhippartahu",
       "ref": "Ezek.43.20",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -101,7 +109,8 @@
       "translit": "vkhippartem",
       "ref": "Ezek.45.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -112,7 +121,8 @@
       "translit": "kapper",
       "ref": "Deut.21.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -123,7 +133,8 @@
       "translit": "ulkhapper",
       "ref": "1Chr.6.49",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -134,7 +145,8 @@
       "translit": "akhapprah",
       "ref": "Exod.32.30",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -145,7 +157,8 @@
       "translit": "tkhapper",
       "ref": "Jer.18.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -163,7 +176,8 @@
       "translit": "kuppar",
       "ref": "Exod.29.33",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -174,7 +188,8 @@
       "translit": "tkhuppar",
       "ref": "Isa.6.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -183,7 +198,8 @@
       "translit": "ykhuppar",
       "ref": "Isa.22.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -194,7 +210,8 @@
       "translit": "vkhuppar",
       "ref": "Isa.28.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -211,7 +228,8 @@
       "translit": "yitkapper",
       "ref": "1Sam.3.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -228,7 +246,8 @@
       "translit": "vnikkapper",
       "ref": "Deut.21.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

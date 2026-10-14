@@ -16,7 +16,8 @@
       "translit": "vashal",
       "ref": "Joel.3.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -25,7 +26,8 @@
       "translit": "bashlu",
       "ref": "Ezek.24.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -43,7 +45,8 @@
       "translit": "bisshlam",
       "ref": "1Kgs.19.21",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -52,7 +55,8 @@
       "translit": "bisshlu",
       "ref": "2Chr.35.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -63,7 +67,8 @@
       "translit": "vattvasshel",
       "ref": "2Sam.13.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -72,7 +77,8 @@
       "translit": "vayvasshlu",
       "ref": "2Chr.35.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -81,7 +87,8 @@
       "translit": "vannvasshel",
       "ref": "2Kgs.6.29",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -92,7 +99,8 @@
       "translit": "tvasshel",
       "ref": "Deut.14.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -101,7 +109,8 @@
       "translit": "yvasshlu",
       "ref": "Ezek.46.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -110,7 +119,8 @@
       "translit": "tvasshlu",
       "ref": "Exod.16.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -121,7 +131,8 @@
       "translit": "uvisshalta",
       "ref": "Deut.16.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -130,7 +141,8 @@
       "translit": "uvisshlu",
       "ref": "Num.11.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -141,7 +153,8 @@
       "translit": "uvasshel",
       "ref": "2Kgs.4.38",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -150,7 +163,8 @@
       "translit": "basshelu",
       "ref": "Exod.16.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -161,7 +175,8 @@
       "translit": "hamvasshlim",
       "ref": "Ezek.46.24",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -172,7 +187,8 @@
       "translit": "kvasshel",
       "ref": "1Sam.2.13",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -190,7 +206,8 @@
       "translit": "busshalah",
       "ref": "Lev.6.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -201,7 +218,8 @@
       "translit": "tvusshal",
       "ref": "Lev.6.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -212,7 +230,8 @@
       "translit": "mvusshal",
       "ref": "1Sam.2.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -229,7 +248,8 @@
       "translit": "hivshilu",
       "ref": "Gen.40.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

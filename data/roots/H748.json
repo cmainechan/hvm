@@ -15,7 +15,8 @@
       "translit": "arkhu",
       "ref": "Gen.26.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -26,7 +27,8 @@
       "translit": "vatte'erakhnah",
       "ref": "Ezek.31.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -37,7 +39,8 @@
       "translit": "ya'arkhu",
       "ref": "Ezek.12.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -54,7 +57,8 @@
       "translit": "he'erikh",
       "ref": "Prov.19.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -63,7 +67,8 @@
       "translit": "he'erikhu",
       "ref": "Josh.24.31",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -74,7 +79,8 @@
       "translit": "vayya'arikhu",
       "ref": "1Kgs.8.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -85,7 +91,8 @@
       "translit": "ya'arikh",
       "ref": "Deut.17.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -94,7 +101,8 @@
       "translit": "ta'arikh",
       "ref": "Deut.4.40",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -103,7 +111,8 @@
       "translit": "a'arikh",
       "ref": "Isa.48.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -112,7 +121,8 @@
       "translit": "ya'arikhu",
       "ref": "Deut.25.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -121,7 +131,8 @@
       "translit": "ta'arikhu",
       "ref": "Deut.11.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -132,7 +143,8 @@
       "translit": "vha'arakhta",
       "ref": "Deut.22.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -141,7 +153,8 @@
       "translit": "vha'arakhti",
       "ref": "1Kgs.3.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -150,7 +163,8 @@
       "translit": "vha'arakhtem",
       "ref": "Deut.5.33",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -161,7 +175,8 @@
       "translit": "ha'arikhi",
       "ref": "Isa.54.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -172,7 +187,8 @@
       "translit": "ma'arikh",
       "ref": "Eccl.7.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -183,7 +199,8 @@
       "translit": "uvha'arikh",
       "ref": "Num.9.19",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },

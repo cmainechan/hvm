@@ -178,9 +178,21 @@ def transliterate(word):
 
         if letter in ('י',):
             if not marks:
-                pass  # bare yod: silent mater -- but the vowel it carries
-                # (e.g. a preceding hiriq) is still "sounding" through it
-                this_had_vowel = prev_had_vowel
+                if prev_had_vowel:
+                    pass  # bare yod: silent mater -- but the vowel it
+                    # carries (e.g. a preceding hiriq) is still "sounding"
+                    # through it
+                    this_had_vowel = prev_had_vowel
+                else:
+                    # A silent-mater yod always represents a vowel on the
+                    # letter immediately before it -- it can't be silent
+                    # with nothing preceding to carry through (most visibly
+                    # word-initially, e.g. יוֹם "day": a word can never
+                    # start with a silent mater). Without that, it's a real
+                    # consonant with no vowel of its own, same as the
+                    # SHEVA branch below.
+                    out.append('y')
+                    this_had_vowel = False
             elif has_real_vowel:
                 cons = 'y'
                 if may_double:
@@ -273,7 +285,7 @@ def transliterate(word):
 
 # ---------------------------------------------------------------------
 # Regression fixture. Run `python3 pipeline/translit.py` to replay this
-# against the current code -- it should always print "39/39 matched".
+# against the current code -- it should always print "40/40 matched".
 # Most of these pairs are drawn from forms already verified and shipped
 # in the dataset in the same session that produced this engine, so
 # they're a reliable baseline for catching an accidental behavior change.
@@ -281,6 +293,13 @@ def transliterate(word):
 # for the geminated-yod-after-the-article bug fix described above -- the
 # dataset's own stored value for that word ("yordot") predates the fix
 # and drops the article entirely, so it isn't usable as a fixture pair.
+#
+# יוֹם ("yom") is also added by hand, as a regression check for a second
+# bare-yod bug found later: a bare (unmarked) yod with nothing vowelled
+# before it (most visibly word-initial) was being treated as a silent
+# mater and dropped entirely ("יוֹם" -> "om"), when a silent mater yod can
+# only ever follow -- never open -- a word, since it represents a vowel
+# that has to already be sounding on the letter before it.
 #
 # Two forms from H7582 (שאה) -- שָׁאוּ/"shau" and יִשָּׁאֽוּן/"yisshaun" --
 # are deliberately excluded: this engine now produces "sha'u" and
@@ -330,6 +349,7 @@ _REGRESSION_PAIRS = [
     ('נָשִׁיתִי', 'nashiti'),
     ('מֵחַוֺּת', 'mechaot'),
     ('הַיּוֹרְדוֹת', 'hayyordot'),
+    ('יוֹם', 'yom'),
 ]
 
 if __name__ == '__main__':

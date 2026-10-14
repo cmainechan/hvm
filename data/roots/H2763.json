@@ -16,7 +16,8 @@
       "translit": "charum",
       "ref": "Lev.21.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -33,7 +34,8 @@
       "translit": "hecherim",
       "ref": "1Sam.15.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -42,7 +44,8 @@
       "translit": "hecherimu",
       "ref": "1Sam.15.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -51,7 +54,8 @@
       "translit": "hecheramnu",
       "ref": "1Sam.15.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -60,7 +64,8 @@
       "translit": "hecheramti",
       "ref": "1Sam.15.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -69,7 +74,8 @@
       "translit": "hecheramtem",
       "ref": "Josh.2.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -80,7 +86,8 @@
       "translit": "vayyacharimum",
       "ref": "1Chr.4.41",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -89,7 +96,8 @@
       "translit": "vannacharem",
       "ref": "Deut.2.34",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -98,7 +106,8 @@
       "translit": "vayyacharimahh",
       "ref": "Josh.10.1",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -109,7 +118,8 @@
       "translit": "tacharim",
       "ref": "Deut.7.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -118,7 +128,8 @@
       "translit": "tacharimu",
       "ref": "Josh.6.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -127,7 +138,8 @@
       "translit": "yacharim",
       "ref": "Lev.27.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -138,7 +150,8 @@
       "translit": "vhacharamtem",
       "ref": "1Sam.15.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -147,7 +160,8 @@
       "translit": "vhacharamtah",
       "ref": "1Sam.15.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -156,7 +170,8 @@
       "translit": "vhecherim",
       "ref": "Isa.11.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -165,7 +180,8 @@
       "translit": "vhacharamtim",
       "ref": "Jer.25.9",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -176,7 +192,8 @@
       "translit": "vhacharem",
       "ref": "Jer.50.21",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -185,7 +202,8 @@
       "translit": "vhacharimuha",
       "ref": "Jer.50.26",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -196,7 +214,8 @@
       "translit": "lhacharimam",
       "ref": "1Kgs.9.21",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -207,7 +226,8 @@
       "translit": "hacharem",
       "ref": "Deut.3.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -224,7 +244,8 @@
       "translit": "yachoram",
       "ref": "Exod.22.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

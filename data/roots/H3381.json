@@ -16,7 +16,8 @@
       "translit": "yardu",
       "ref": "1Chr.7.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -25,7 +26,8 @@
       "translit": "yarad",
       "ref": "1Chr.11.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -34,7 +36,8 @@
       "translit": "yaradta",
       "ref": "1Sam.17.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -43,7 +46,8 @@
       "translit": "yardah",
       "ref": "2Chr.7.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -52,7 +56,8 @@
       "translit": "yaradnu",
       "ref": "Gen.43.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -61,7 +66,8 @@
       "translit": "yaradti",
       "ref": "Jonah.2.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -72,7 +78,8 @@
       "translit": "vayyerdu",
       "ref": "1Chr.11.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -81,7 +88,8 @@
       "translit": "vayyered",
       "ref": "1Chr.11.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -90,7 +98,8 @@
       "translit": "vattered",
       "ref": "1Sam.25.23",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -99,7 +108,8 @@
       "translit": "vannered",
       "ref": "2Kgs.10.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -108,7 +118,8 @@
       "translit": "va'ered",
       "ref": "Deut.9.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -119,7 +130,8 @@
       "translit": "yordim",
       "ref": "1Sam.9.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "ms",
@@ -128,7 +140,8 @@
       "translit": "yored",
       "ref": "1Sam.10.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "fs",
@@ -137,7 +150,8 @@
       "translit": "vyoredet",
       "ref": "1Sam.25.20",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "fp",
@@ -146,7 +160,8 @@
       "translit": "hayyordot",
       "ref": "Neh.3.15",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -157,7 +172,8 @@
       "translit": "yerdu",
       "ref": "1Sam.13.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -166,7 +182,8 @@
       "translit": "ha'ered",
       "ref": "1Sam.14.37",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -175,7 +192,8 @@
       "translit": "hayered",
       "ref": "1Sam.23.11",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -184,7 +202,8 @@
       "translit": "tered",
       "ref": "2Kgs.1.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -193,7 +212,8 @@
       "translit": "tered",
       "ref": "Ezek.26.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -202,7 +222,8 @@
       "translit": "nered",
       "ref": "Gen.43.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fp",
@@ -211,7 +232,8 @@
       "translit": "vteradnah",
       "ref": "Jer.9.18",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -222,7 +244,8 @@
       "translit": "vyaradta",
       "ref": "1Sam.10.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -231,7 +254,8 @@
       "translit": "vyarad",
       "ref": "Exod.9.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -240,7 +264,8 @@
       "translit": "vyardu",
       "ref": "Exod.11.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -249,7 +274,8 @@
       "translit": "vyaradnu",
       "ref": "Gen.44.26",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -258,7 +284,8 @@
       "translit": "vyaradti",
       "ref": "Judg.11.37",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -267,7 +294,8 @@
       "translit": "vyaradt",
       "ref": "Ruth.3.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -278,7 +306,8 @@
       "translit": "vared",
       "ref": "1Kgs.18.44",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -287,7 +316,8 @@
       "translit": "rdu",
       "ref": "1Sam.6.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -296,7 +326,8 @@
       "translit": "rdi",
       "ref": "Isa.47.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -307,7 +338,8 @@
       "translit": "laredet",
       "ref": "1Kgs.21.16",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -318,7 +350,8 @@
       "translit": "yarod",
       "ref": "Gen.43.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -329,7 +362,8 @@
       "translit": "nerdah",
       "ref": "1Sam.14.36",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -338,7 +372,8 @@
       "translit": "eradah",
       "ref": "Gen.18.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -349,7 +384,8 @@
       "translit": "vyered",
       "ref": "1Sam.17.8",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -358,7 +394,8 @@
       "translit": "tered",
       "ref": "1Sam.20.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -367,7 +404,8 @@
       "translit": "tered",
       "ref": "2Kgs.1.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -384,7 +422,8 @@
       "translit": "horidu",
       "ref": "1Sam.6.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -393,7 +432,8 @@
       "translit": "horid",
       "ref": "2Kgs.16.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -402,7 +442,8 @@
       "translit": "horadnu",
       "ref": "Gen.43.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -411,7 +452,8 @@
       "translit": "vhoradtim",
       "ref": "Joel.3.2",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -420,7 +462,8 @@
       "translit": "horadtenu",
       "ref": "Josh.2.18",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -431,7 +474,8 @@
       "translit": "vayyoriduhu",
       "ref": "1Kgs.1.53",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -440,7 +484,8 @@
       "translit": "vayyoridehu",
       "ref": "1Kgs.17.23",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -449,7 +494,8 @@
       "translit": "vattored",
       "ref": "1Sam.19.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -460,7 +506,8 @@
       "translit": "morid",
       "ref": "1Sam.2.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -471,7 +518,8 @@
       "translit": "tored",
       "ref": "1Kgs.2.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -480,7 +528,8 @@
       "translit": "yoridu",
       "ref": "1Kgs.5.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -489,16 +538,18 @@
       "translit": "v'oridkha",
       "ref": "1Sam.30.15",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
       "label": "3rd masc. sg.",
       "heb": "יוֹרִדֵנִי",
-      "translit": "orideni",
+      "translit": "yorideni",
       "ref": "Obad.1.3",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -509,7 +560,8 @@
       "translit": "vhoradtem",
       "ref": "1Kgs.1.33",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -518,7 +570,8 @@
       "translit": "vhoradta",
       "ref": "1Kgs.2.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -527,7 +580,8 @@
       "translit": "vhorid",
       "ref": "Amos.3.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -536,7 +590,8 @@
       "translit": "vhoridu",
       "ref": "Deut.21.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -545,7 +600,8 @@
       "translit": "vhoradtikh",
       "ref": "Ezek.26.20",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -556,7 +612,8 @@
       "translit": "hored",
       "ref": "Exod.33.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -565,7 +622,8 @@
       "translit": "horidu",
       "ref": "Gen.43.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2fs",
@@ -574,7 +632,8 @@
       "translit": "horidi",
       "ref": "Lam.2.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -585,7 +644,8 @@
       "translit": "bhoridi",
       "ref": "Ezek.31.16",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -602,7 +662,8 @@
       "translit": "hurad",
       "ref": "Gen.39.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -613,7 +674,8 @@
       "translit": "turad",
       "ref": "Isa.14.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -624,7 +686,8 @@
       "translit": "vhuradta",
       "ref": "Ezek.31.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -633,7 +696,8 @@
       "translit": "vhurad",
       "ref": "Num.10.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

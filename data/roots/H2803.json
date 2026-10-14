@@ -16,7 +16,8 @@
       "translit": "chashav",
       "ref": "1Sam.18.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -25,7 +26,8 @@
       "translit": "chashavtah",
       "ref": "2Sam.14.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -34,7 +36,8 @@
       "translit": "chashvu",
       "ref": "Amos.6.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -43,7 +46,8 @@
       "translit": "chashavtem",
       "ref": "Gen.50.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -52,7 +56,8 @@
       "translit": "chashavnuhu",
       "ref": "Isa.53.3",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -61,7 +66,8 @@
       "translit": "chashavti",
       "ref": "Jer.18.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -72,7 +78,8 @@
       "translit": "vayyachshveha",
       "ref": "1Sam.1.13",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -83,7 +90,8 @@
       "translit": "choshev",
       "ref": "2Chr.26.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "mp",
@@ -92,7 +100,8 @@
       "translit": "hachoshvim",
       "ref": "Ezek.11.2",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -103,7 +112,8 @@
       "translit": "yachshvu",
       "ref": "Dan.11.25",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -112,7 +122,8 @@
       "translit": "yachshov",
       "ref": "Isa.10.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -121,7 +132,8 @@
       "translit": "tachshovu",
       "ref": "Job.6.26",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -130,7 +142,8 @@
       "translit": "vtachshveni",
       "ref": "Job.13.24",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      },
      {
       "code": "3fp",
@@ -139,7 +152,8 @@
       "translit": "tachshvuni",
       "ref": "Job.19.15",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -148,7 +162,8 @@
       "translit": "tachshov",
       "ref": "Ps.52.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -159,7 +174,8 @@
       "translit": "vchashav",
       "ref": "2Sam.14.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -168,7 +184,8 @@
       "translit": "vchashavta",
       "ref": "Ezek.38.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -179,7 +196,8 @@
       "translit": "vlachshov",
       "ref": "2Chr.2.14",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -190,7 +208,8 @@
       "translit": "vnachshvah",
       "ref": "Jer.18.18",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -201,7 +220,8 @@
       "translit": "yachashav",
       "ref": "2Sam.19.19",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -210,7 +230,8 @@
       "translit": "tachshvu",
       "ref": "Zech.7.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -227,7 +248,8 @@
       "translit": "nechshavnu",
       "ref": "Gen.31.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -236,7 +258,8 @@
       "translit": "nechshavu",
       "ref": "Hos.8.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -245,7 +268,8 @@
       "translit": "nechshavti",
       "ref": "Ps.88.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -256,7 +280,8 @@
       "translit": "vattechashev",
       "ref": "Ps.106.31",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -267,7 +292,8 @@
       "translit": "nechshav",
       "ref": "1Kgs.10.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -278,7 +304,8 @@
       "translit": "yechashev",
       "ref": "2Kgs.22.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -287,7 +314,8 @@
       "translit": "techashev",
       "ref": "2Sam.4.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -296,7 +324,8 @@
       "translit": "yechashvu",
       "ref": "Deut.2.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -307,7 +336,8 @@
       "translit": "vnechshav",
       "ref": "Num.18.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -324,7 +354,8 @@
       "translit": "chishshvah",
       "ref": "Jonah.1.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -333,7 +364,8 @@
       "translit": "chishshavti",
       "ref": "Ps.77.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -341,10 +373,11 @@
       "code": "1cs",
       "label": "1st sg.",
       "heb": "וָֽאֲחַשְּׁבָה",
-      "translit": "va'achashshvah",
+      "translit": "va'achasshvah",
       "ref": "Ps.73.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      },
      {
       "code": "2ms",
@@ -353,7 +386,8 @@
       "translit": "vattchasshvehu",
       "ref": "Ps.144.3",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -364,7 +398,8 @@
       "translit": "mchashshev",
       "ref": "Prov.24.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -375,7 +410,8 @@
       "translit": "ychashshvu",
       "ref": "2Kgs.12.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -384,16 +420,18 @@
       "translit": "ychashshev",
       "ref": "Dan.11.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
       "label": "2nd masc. pl.",
       "heb": "תְּחַשְּׁבוּן",
-      "translit": "tchashshvun",
+      "translit": "tchasshvun",
       "ref": "Nah.1.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      }
     ],
     "veqatal": [
@@ -404,7 +442,8 @@
       "translit": "vchishshav",
       "ref": "Lev.25.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -421,7 +460,8 @@
       "translit": "yitchashshav",
       "ref": "Num.23.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

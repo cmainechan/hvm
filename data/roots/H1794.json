@@ -16,7 +16,8 @@
       "translit": "yidkeh",
       "ref": "Ps.10.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },
@@ -34,7 +35,8 @@
       "translit": "vnidkeh",
       "ref": "Ps.51.17",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "perfect": [
@@ -45,7 +47,8 @@
       "translit": "vnidketi",
       "ref": "Ps.38.8",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -63,7 +66,8 @@
       "translit": "dikkita",
       "ref": "Ps.51.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

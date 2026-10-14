@@ -16,7 +16,8 @@
       "translit": "natatz",
       "ref": "2Kgs.23.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -25,7 +26,8 @@
       "translit": "nattzu",
       "ref": "2Kgs.25.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -36,7 +38,8 @@
       "translit": "vayyittotz",
       "ref": "2Kgs.23.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -45,7 +48,8 @@
       "translit": "vayyitttzu",
       "ref": "2Kgs.10.27",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -54,7 +58,8 @@
       "translit": "vattittzu",
       "ref": "Isa.22.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -65,7 +70,8 @@
       "translit": "yittotz",
       "ref": "Ezek.26.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -74,7 +80,8 @@
       "translit": "ettotz",
       "ref": "Judg.8.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -83,7 +90,8 @@
       "translit": "yittotzu",
       "ref": "Ezek.26.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -92,7 +100,8 @@
       "translit": "tittotzu",
       "ref": "Deut.7.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -103,7 +112,8 @@
       "translit": "vnatatz",
       "ref": "Lev.14.45",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -114,7 +124,8 @@
       "translit": "ntotz",
       "ref": "Ps.58.6",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_passive": [
@@ -125,7 +136,8 @@
       "translit": "hanntutzim",
       "ref": "Jer.33.4",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -136,7 +148,8 @@
       "translit": "vlintotz",
       "ref": "Jer.1.10",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -153,7 +166,8 @@
       "translit": "nitttzu",
       "ref": "Jer.4.26",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -170,7 +184,8 @@
       "translit": "nittatz",
       "ref": "2Chr.33.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -181,7 +196,8 @@
       "translit": "vaynattetz",
       "ref": "2Chr.34.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -190,7 +206,8 @@
       "translit": "vaynatttzu",
       "ref": "2Chr.31.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -201,7 +218,8 @@
       "translit": "vnitttzu",
       "ref": "Ezek.16.39",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -210,7 +228,8 @@
       "translit": "vnittatztem",
       "ref": "Deut.12.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -227,7 +246,8 @@
       "translit": "nuttatz",
       "ref": "Judg.6.28",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -244,7 +264,8 @@
       "translit": "yuttatz",
       "ref": "Lev.11.35",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

@@ -16,7 +16,8 @@
       "translit": "yzammerkha",
       "ref": "Ps.30.12",
       "has_suffix": true,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -25,7 +26,8 @@
       "translit": "azammer",
       "ref": "2Sam.22.50",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -34,7 +36,8 @@
       "translit": "yzammru",
       "ref": "Ps.149.3",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -45,7 +48,8 @@
       "translit": "zammru",
       "ref": "1Chr.16.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "cohortative": [
@@ -56,7 +60,8 @@
       "translit": "azammerah",
       "ref": "Ps.101.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -65,7 +70,8 @@
       "translit": "unzammrah",
       "ref": "Ps.21.13",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -76,7 +82,8 @@
       "translit": "zammrah",
       "ref": "Ps.147.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

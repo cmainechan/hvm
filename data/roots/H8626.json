@@ -17,7 +17,8 @@
       "translit": "litqon",
       "ref": "Eccl.1.15",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -35,7 +36,8 @@
       "translit": "ltaqqen",
       "ref": "Eccl.7.13",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "perfect": [
@@ -46,7 +48,8 @@
       "translit": "tiqqen",
       "ref": "Eccl.12.9",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

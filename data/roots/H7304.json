@@ -17,7 +17,8 @@
       "translit": "vravach",
       "ref": "1Sam.16.23",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -28,7 +29,8 @@
       "translit": "vyirvach",
       "ref": "Job.32.20",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -46,7 +48,8 @@
       "translit": "mruvvachim",
       "ref": "Jer.22.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

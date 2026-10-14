@@ -16,7 +16,8 @@
       "translit": "tzolea",
       "ref": "Gen.32.31",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "fs",
@@ -25,7 +26,8 @@
       "translit": "hattzole'ah",
       "ref": "Mic.4.6",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },

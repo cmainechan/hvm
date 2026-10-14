@@ -16,7 +16,8 @@
       "translit": "zadu",
       "ref": "Exod.18.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -33,7 +34,8 @@
       "translit": "hezidu",
       "ref": "Neh.9.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -44,7 +46,8 @@
       "translit": "yzidun",
       "ref": "Deut.17.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      }
     ],
     "wayyiqtol": [
@@ -55,7 +58,8 @@
       "translit": "vattazidu",
       "ref": "Deut.1.43",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    },

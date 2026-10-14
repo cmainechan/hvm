@@ -16,7 +16,8 @@
       "translit": "trattesh",
       "ref": "2Kgs.8.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fp",
@@ -25,7 +26,8 @@
       "translit": "trattashnah",
       "ref": "Isa.13.18",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -42,7 +44,8 @@
       "translit": "ruttashah",
       "ref": "Hos.10.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -53,7 +56,8 @@
       "translit": "yruttashu",
       "ref": "Hos.13.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

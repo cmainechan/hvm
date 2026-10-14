@@ -16,7 +16,8 @@
       "translit": "atah",
       "ref": "Isa.21.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cp",
@@ -25,7 +26,8 @@
       "translit": "atanu",
       "ref": "Jer.3.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -36,16 +38,18 @@
       "translit": "vayyete",
       "ref": "Deut.33.21",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
       "label": "3rd masc. pl.",
       "heb": "וַיֶּאֱתָיֽוּן",
-      "translit": "vayye'etayun",
+      "translit": "vayye'etaun",
       "ref": "Isa.41.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      }
     ],
     "yiqtol": [
@@ -56,7 +60,8 @@
       "translit": "ye'eteh",
       "ref": "Job.37.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3fs",
@@ -65,7 +70,8 @@
       "translit": "teteh",
       "ref": "Mic.4.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -74,7 +80,8 @@
       "translit": "ye'etayu",
       "ref": "Job.16.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -85,7 +92,8 @@
       "translit": "v'atah",
       "ref": "Deut.33.2",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -96,7 +104,8 @@
       "translit": "etayu",
       "ref": "Isa.21.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -107,7 +116,8 @@
       "translit": "ha'otiyyot",
       "ref": "Isa.41.23",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    },
@@ -125,7 +135,8 @@
       "translit": "hetayu",
       "ref": "Isa.21.14",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }

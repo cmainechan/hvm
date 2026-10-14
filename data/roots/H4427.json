@@ -16,7 +16,8 @@
       "translit": "malkhu",
       "ref": "1Chr.1.43",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -25,7 +26,8 @@
       "translit": "malakh",
       "ref": "1Chr.3.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -34,7 +36,8 @@
       "translit": "malakhta",
       "ref": "2Sam.16.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -45,7 +48,8 @@
       "translit": "vayyimlokh",
       "ref": "1Chr.1.44",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -54,7 +58,8 @@
       "translit": "vayyimlkhu",
       "ref": "1Kgs.11.24",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -65,7 +70,8 @@
       "translit": "molekhet",
       "ref": "2Chr.22.12",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "ms",
@@ -74,7 +80,8 @@
       "translit": "hammolekh",
       "ref": "Esth.1.1",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -85,7 +92,8 @@
       "translit": "emlokh",
       "ref": "1Kgs.1.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -94,7 +102,8 @@
       "translit": "yimlokh",
       "ref": "1Kgs.1.13",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -103,7 +112,8 @@
       "translit": "timlokh",
       "ref": "1Sam.23.17",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -112,7 +122,8 @@
       "translit": "yimlokhu",
       "ref": "Prov.8.15",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -123,7 +134,8 @@
       "translit": "umalakhta",
       "ref": "1Kgs.11.37",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3ms",
@@ -132,7 +144,8 @@
       "translit": "umalakh",
       "ref": "Jer.23.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "imperative": [
@@ -140,10 +153,11 @@
       "code": "2ms",
       "label": "2nd masc. sg.",
       "heb": "מָלְכָה",
-      "translit": "mlakh",
+      "translit": "malkhah",
       "ref": "Judg.9.8",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": true
      },
      {
       "code": "2fs",
@@ -152,7 +166,8 @@
       "translit": "malkhi",
       "ref": "Judg.9.10",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -163,7 +178,8 @@
       "translit": "mlakh",
       "ref": "1Chr.1.43",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_absolute": [
@@ -174,7 +190,8 @@
       "translit": "malokh",
       "ref": "1Sam.24.20",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "jussive": [
@@ -185,7 +202,8 @@
       "translit": "timlokh",
       "ref": "Esth.2.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -202,7 +220,8 @@
       "translit": "vayyimmalekh",
       "ref": "Neh.5.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
@@ -219,7 +238,8 @@
       "translit": "himlikh",
       "ref": "1Kgs.1.43",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2ms",
@@ -228,7 +248,8 @@
       "translit": "himlakhta",
       "ref": "1Kgs.3.7",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -237,7 +258,8 @@
       "translit": "himlakhti",
       "ref": "1Sam.15.11",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3cp",
@@ -246,7 +268,8 @@
       "translit": "himlikhu",
       "ref": "Hos.8.4",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "wayyiqtol": [
@@ -257,7 +280,8 @@
       "translit": "vayyamlekh",
       "ref": "1Chr.23.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "3mp",
@@ -266,7 +290,8 @@
       "translit": "vayyamlikhu",
       "ref": "1Chr.29.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "1cs",
@@ -275,7 +300,8 @@
       "translit": "va'amlikh",
       "ref": "1Sam.12.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      },
      {
       "code": "2mp",
@@ -284,7 +310,8 @@
       "translit": "vattamlikhu",
       "ref": "Judg.9.16",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "participle_active": [
@@ -295,7 +322,8 @@
       "translit": "hammamlikh",
       "ref": "Ezek.17.16",
       "has_suffix": false,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ],
     "yiqtol": [
@@ -306,7 +334,8 @@
       "translit": "namlikh",
       "ref": "2Kgs.10.5",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "veqatal": [
@@ -317,7 +346,8 @@
       "translit": "vhimlakhta",
       "ref": "1Sam.8.22",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ],
     "infinitive_construct": [
@@ -328,7 +358,8 @@
       "translit": "lhamlikho",
       "ref": "1Chr.11.10",
       "has_suffix": true,
-      "has_prefix": true
+      "has_prefix": true,
+      "has_paragogic": false
      }
     ]
    }
@@ -345,7 +376,8 @@
       "translit": "hamlakh",
       "ref": "Dan.9.1",
       "has_suffix": false,
-      "has_prefix": false
+      "has_prefix": false,
+      "has_paragogic": false
      }
     ]
    }
