@@ -201,8 +201,6 @@ const styles = {
   cardHeb: { fontFamily: "var(--heb)", fontSize: 19, direction: "rtl" },
   cardTranslit: { fontSize: 12, fontStyle: "italic", color: "var(--mu)" },
   cardEng: { fontSize: 11, color: "var(--tx)" },
-
-  footer: { maxWidth: 700, margin: "40px auto 0", textAlign: "center", fontSize: 11.5, color: "var(--mu)", lineHeight: 1.5 },
 };
 
 
@@ -601,7 +599,6 @@ function render() {
     const hint = el("p", styles.placeholderHint);
     hint.textContent = "Pick a letter, then a root above, or search, to open its paradigm wheel.";
     page.appendChild(hint);
-    renderFooter(page);
     root.appendChild(page);
     return;
   }
@@ -770,7 +767,6 @@ function render() {
   }
 
   page.appendChild(wheelSection);
-  renderFooter(page);
   root.appendChild(page);
 }
 
@@ -795,14 +791,6 @@ function wordCard(row, color, gloss) {
   const eng = el("span", styles.cardEng); eng.textContent = gloss + " · " + row.ref;
   card.append(topRow, heb, tr, eng);
   return card;
-}
-
-function renderFooter(page) {
-  const footer = el("footer", styles.footer);
-  const p = el("p");
-  p.textContent = Object.keys(VERB_DATA).length + " roots, every form pulled from actual attested occurrences in the Hebrew Bible (Open Scriptures Hebrew Bible morphology + Westminster Leningrad Codex text). Gaps are real gaps — if a form doesn't occur in Scripture, it isn't shown. Vowel points (niqqud) included; cantillation marks removed for readability.";
-  footer.appendChild(p);
-  page.appendChild(footer);
 }
 
 render();
