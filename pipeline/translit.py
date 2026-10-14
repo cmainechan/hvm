@@ -163,6 +163,16 @@ def transliterate(word):
     # after a hiriq) from a bare yod after some other vowel, which isn't a
     # silent-mater context at all (see the yod branch below).
     prev_vowel_sound = ''
+    # Whether the immediately preceding letter was ITSELF a silent mater
+    # (contributed no sound of its own, just carried a vowel through) --
+    # distinguishes a bare vav continuing that same silent chain (e.g. the
+    # suffix vav in אֲחַזְתִּיו "achazti", right after the silent mater
+    # yod) from a bare vav right after a letter that produced a real sound
+    # of its own (e.g. the root-letter vav in תִּתְאָו "tit'av", right
+    # after aleph's own qamats) -- only the former is silent; see the vav
+    # branch below. There's no evidence in this dataset of a bare
+    # word-final vav staying silent except directly after such a chain.
+    prev_was_silent_mater = False
 
     for letter, marks, is_last, is_first in _letters_with_marks(word):
         has_dagesh = DAGESH in marks
@@ -174,6 +184,7 @@ def transliterate(word):
         has_real_vowel = vowel != ''
         may_double = has_dagesh and prev_had_vowel
         this_had_vowel = False  # updated per-branch below before falling through
+        this_is_silent_mater = False  # set True only by yod's silent-mater branch
 
         if letter in ('ו',):
             if HOLAM in marks or HOLAM_HASER_VAV in marks:
@@ -190,14 +201,25 @@ def transliterate(word):
                 this_had_vowel = True
             elif SHEVA in marks:
                 out.append('v')
-            # else: bare vav, silent -- this_had_vowel stays False
+            elif prev_was_silent_mater:
+                pass  # bare vav continuing the same silent chain as the
+                # silent mater yod right before it (e.g. אֲחַזְתִּיו
+                # "achazti") -- this_had_vowel stays False
+            else:
+                # Not continuing a silent chain -- a real consonant with
+                # no vowel of its own (e.g. the root-letter vav in a
+                # shortened/jussive form like תִּתְאָו "tit'av", right
+                # after aleph's own qamats), same as the SHEVA case above.
+                out.append('v')
             prev_had_vowel = this_had_vowel
             prev_vowel_sound = vowel if this_had_vowel else ''
+            prev_was_silent_mater = this_is_silent_mater
             continue
 
         if letter in ('י',):
             if not marks:
                 if prev_vowel_sound in ('i', 'e'):
+                    this_is_silent_mater = True
                     pass  # bare yod: silent hiriq-male ("i", עִיר "ir") or
                     # tsere/segol-male ("e", הַכֵּינִי "hakkeni") mater,
                     # whether medial or word-final (לוּשִׁי "lushi") -- the
@@ -239,6 +261,7 @@ def transliterate(word):
                 out.append(cons)
             prev_had_vowel = this_had_vowel
             prev_vowel_sound = vowel if this_had_vowel else ''
+            prev_was_silent_mater = this_is_silent_mater
             continue
 
         if letter in ('ה',):
@@ -263,6 +286,7 @@ def transliterate(word):
                 this_had_vowel = has_real_vowel
             prev_had_vowel = this_had_vowel
             prev_vowel_sound = vowel if this_had_vowel else ''
+            prev_was_silent_mater = this_is_silent_mater
             continue
 
         if letter == 'א':
@@ -282,6 +306,7 @@ def transliterate(word):
                 this_had_vowel = True
             prev_had_vowel = this_had_vowel
             prev_vowel_sound = vowel if this_had_vowel else ''
+            prev_was_silent_mater = this_is_silent_mater
             continue
 
         if letter == 'ע':
@@ -292,6 +317,7 @@ def transliterate(word):
             # else: bare (or only shva): silent
             prev_had_vowel = this_had_vowel
             prev_vowel_sound = vowel if this_had_vowel else ''
+            prev_was_silent_mater = this_is_silent_mater
             continue
 
         if letter == 'ש' and SIN_DOT in marks:
@@ -312,6 +338,7 @@ def transliterate(word):
         out.append(phon + vowel)
         prev_had_vowel = has_real_vowel
         prev_vowel_sound = vowel if has_real_vowel else ''
+        prev_was_silent_mater = this_is_silent_mater
 
     return ''.join(out)
 
