@@ -35,7 +35,7 @@
       "code": "3ms",
       "label": "3rd masc. sg.",
       "heb": "וַיָּבָול",
-      "translit": "vayyavavl",
+      "translit": "vayyaval",
       "ref": "Judg.19.21",
       "has_suffix": false,
       "has_prefix": false,
@@ -120,5 +120,8 @@
   "בלל"
  ],
  "citation_translit": "balal",
- "stem_coverage_checked": true
+ "stem_coverage_checked": true,
+ "notes": [
+  "wayyiqtol 3ms (Judg.19.21, וַיָּבָול) is spelled with only one lamed, unlike every other attested form of this doubled-lamed root -- an irregular spelling, possibly a textual crux. Its translit \"vayyaval\" is a deliberate, confirmed exception to pipeline/translit.py's transliterate(heb), which (reading the bare vav as the root's own consonant rather than a mater) produces \"vayyavavl\" instead. Do not 'fix' this to match the engine."
+ ]
 }
