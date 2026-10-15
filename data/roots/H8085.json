@@ -510,7 +510,7 @@
       "code": "3mp",
       "label": "3rd masc. pl.",
       "heb": "וַיְּשָּֽׁמְעוּ",
-      "translit": "vayyshsham'u",
+      "translit": "vayyshamu",
       "ref": "1Sam.17.31",
       "has_suffix": false,
       "has_prefix": false,
@@ -886,6 +886,9 @@
   "niphal": "be heard",
   "piel": "summon"
  },
+ "notes": [
+  "Niphal wayyiqtol 1Sam.17.31 (וַיְּשָּֽׁמְעוּ) is irregular: the preformative yod carries a shva where the regular niphal pattern (וַיִּשָּׁמְעוּ, as elsewhere in this root) would have a hiriq. The WLC corpus's own editorial annotation on this exact word acknowledges the oddity: \"BHS has been faithful to the Leningrad Codex where there might be a question of the validity of the form and we keep the same form as BHS.\" Transliterated mechanically per the standard rules (translit \"vayyshamu\"): the preformative yod still doubles (dagesh forte after the vav's vowel), but the shin's own dagesh does not become forte (no vowel sound precedes it, since the yod's gemination is a doubled consonant with no vowel of its own), and the following ayin is bare and contributes nothing per the standard bare-medial-ayin rule."
+ ],
  "root": "שמע",
  "search_match": [
   "8085",

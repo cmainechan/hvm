@@ -150,7 +150,22 @@ def _letters_with_marks(word):
         yield letter, marks, (i == n - 1), (i == 0)
 
 
+# שֶׁיְּדֻבַּר (H1696 דבר, pual yiqtol 3ms, Song.8.8) has a yod+dagesh+shva
+# just like the true-gemination cases the yod branch below now doubles
+# (הַיְּעוּצָה, קִיְּמוּ) -- but its dagesh is a dechik (conjunctive/
+# euphonic) dagesh triggered by the preceding monosyllabic שֶׁ, not
+# root-internal gemination; דבר doesn't even start with yod, so this is
+# just the ordinary pual/yiqtol preformative letter. There's no mark on
+# the letter itself that tells the two apart -- dechik depends on the
+# *preceding word*, which this engine doesn't see -- so this one word is
+# carved out by exact match and kept undoubled ("sheydubbar") rather than
+# teaching the general yod rule a distinction it structurally can't make.
+_DECHIK_DAGESH_EXCEPTIONS = {'שֶׁיְּדֻבַּר'}
+
+
 def transliterate(word):
+    if word in _DECHIK_DAGESH_EXCEPTIONS:
+        return 'sheydubbar'
     out = []
     # Whether a real vowel SOUND immediately precedes the letter currently
     # being processed -- a dagesh only doubles (dagesh forte) when preceded
@@ -260,6 +275,19 @@ def transliterate(word):
                     cons = cons[0] + cons
                 out.append(cons + vowel)
                 this_had_vowel = True
+            elif has_dagesh and SHEVA in marks:
+                # A dagesh WITH a shva is not "bare shva" -- the shva marks
+                # this as a real consonant with a (silent) vowel of its own,
+                # eligible to double (dagesh forte) same as any other
+                # consonant, e.g. the geminated middle yod of a piel
+                # hollow-yod root (קִיְּמוּ "qiyymu", not "qiymu") or a
+                # root-initial yod doubled by the definite article
+                # (הַיְּעוּצָה "hayyutzah"). Checked before the bare SHEVA
+                # branch below, same ordering fix as the vav branch above.
+                cons = 'y'
+                if may_double:
+                    cons = cons[0] + cons
+                out.append(cons)
             elif SHEVA in marks:
                 out.append('y')
             elif has_dagesh:
@@ -356,7 +384,7 @@ def transliterate(word):
 
 # ---------------------------------------------------------------------
 # Regression fixture. Run `python3 pipeline/translit.py` to replay this
-# against the current code -- it should always print "44/44 matched".
+# against the current code -- it should always print "47/47 matched".
 # Most of these pairs are drawn from forms already verified and shipped
 # in the dataset in the same session that produced this engine, so
 # they're a reliable baseline for catching an accidental behavior change.
@@ -394,6 +422,25 @@ def transliterate(word):
 # that happens to double (dagesh forte) -- the geminated middle vav of
 # a piel hollow-vav root. Shuruq is only for a vav+dagesh with truly no
 # other mark at all.
+#
+# הַיְּעוּצָה ("hayyutzah") and קִיְּמוּ ("qiyymu") are regression checks
+# for the matching bug in the yod branch: a yod with a dagesh AND a shva
+# was being checked against the bare-SHEVA branch first and read as a
+# plain undoubled "y" ("hayutzah", "qiymu"), when the shva marks it as a
+# real consonant eligible to double, same fix as the vav case above --
+# here, a root-initial yod doubled by the definite article, and the
+# geminated middle yod of a piel hollow-yod root, respectively.
+#
+# שֶׁיְּדֻבַּר ("sheydubbar", H1696, Song.8.8) is a deliberate EXCEPTION,
+# not a regression pair: it has the same yod+dagesh+shva marks as the two
+# cases above, but the dagesh here is a dechik (conjunctive/euphonic)
+# dagesh triggered by the preceding monosyllabic שֶׁ, not root-internal
+# gemination -- דבר doesn't even start with yod; this yod is just the
+# ordinary pual/yiqtol preformative letter. The engine has no syntactic
+# awareness of a preceding proclitic and can't distinguish this from the
+# two true-gemination cases above, so this one word is carved out by
+# name in transliterate() and kept undoubled; see the comment at that
+# carve-out for why.
 # ---------------------------------------------------------------------
 _REGRESSION_PAIRS = [
     ('וְקָבַע', 'vqava'),
@@ -440,6 +487,9 @@ _REGRESSION_PAIRS = [
     ('וַיֶּאֱתָיוּן', "vayye'etayun"),
     ('צִוְּתָה', 'tzivvtah'),
     ('קִוְּתָה', 'qivvtah'),
+    ('הַיְּעוּצָה', 'hayyutzah'),
+    ('קִיְּמוּ', 'qiyymu'),
+    ('שֶׁיְּדֻבַּר', 'sheydubbar'),
 ]
 
 if __name__ == '__main__':
