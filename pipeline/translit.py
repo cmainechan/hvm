@@ -147,7 +147,8 @@ def _letters_with_marks(word):
         groups.append((cur_letter, ''.join(cur_marks)))
     n = len(groups)
     for i, (letter, marks) in enumerate(groups):
-        yield letter, marks, (i == n - 1), (i == 0)
+        next_letter = groups[i + 1][0] if i + 1 < n else None
+        yield letter, marks, (i == n - 1), (i == 0), next_letter
 
 
 # שֶׁיְּדֻבַּר (H1696 דבר, pual yiqtol 3ms, Song.8.8) has a yod+dagesh+shva
@@ -189,8 +190,18 @@ def transliterate(word):
     # word-final vav staying silent except directly after such a chain.
     prev_was_silent_mater = False
 
-    for letter, marks, is_last, is_first in _letters_with_marks(word):
+    for letter, marks, is_last, is_first, next_letter in _letters_with_marks(word):
         has_dagesh = DAGESH in marks
+        # A dagesh+shva letter immediately followed by the identical letter
+        # (e.g. the geminated middle nun of a piel from a double-nun root,
+        # יְרַנְּנוּ, right before the root's own second nun) can't be the
+        # usual silent dagesh-forte shva: three bare consonants in a row
+        # isn't pronounceable, so Hebrew always reads a shva before an
+        # identical consonant as vocal ("yerannenu", not "yerannnu"). This
+        # is the general form of the same bug already fixed for vav/yod
+        # dagesh+shva (see the vav/yod branches and the module docstring)
+        # -- it just didn't surface there because the vav/yod branches
+        # were carved out before this general lookahead existed.
         vowel = ''
         for m in marks:
             if m in VOWELS:
@@ -198,6 +209,16 @@ def transliterate(word):
                 break
         has_real_vowel = vowel != ''
         may_double = has_dagesh and prev_had_vowel
+        # Only a genuine dagesh FORTE (may_double -- a real vowel sound
+        # precedes) can be the doubled root consonant this rule is about; a
+        # word-initial dagesh is always lene (see may_double's own
+        # docstring above) even when it happens to be followed by an
+        # identical letter, e.g. the ב preposition prefixed onto a root
+        # that itself starts with ב (בְּבַלַּע "bevalla" -> "ballea", not
+        # a geminated-ב word needing its own vocal shva).
+        vocal_shva_before_same = (
+            may_double and SHEVA in marks and letter == next_letter
+        )
         this_had_vowel = False  # updated per-branch below before falling through
         this_is_silent_mater = False  # set True only by yod's silent-mater branch
 
@@ -211,11 +232,17 @@ def transliterate(word):
                 # its own, not a vowel letter, so it's eligible to double
                 # (dagesh forte) same as any other consonant, e.g. the
                 # geminated middle vav of a piel hollow-vav root (צִוְּתָה
-                # "tzivvtah", not "tziutah").
+                # "tzivvtah", not "tziutah"). But if this shva is itself
+                # vocal (the next letter repeats this one -- see
+                # vocal_shva_before_same above), it needs its own "e".
                 cons = 'v'
                 if may_double:
                     cons = cons[0] + cons
-                out.append(cons)
+                if vocal_shva_before_same:
+                    out.append(cons + 'e')
+                    this_had_vowel = True
+                else:
+                    out.append(cons)
             elif has_dagesh and not has_real_vowel:
                 out.append('u')
                 this_had_vowel = True
@@ -284,10 +311,17 @@ def transliterate(word):
                 # root-initial yod doubled by the definite article
                 # (הַיְּעוּצָה "hayyutzah"). Checked before the bare SHEVA
                 # branch below, same ordering fix as the vav branch above.
+                # If this shva is itself vocal (the next letter repeats
+                # this one -- see vocal_shva_before_same above), it needs
+                # its own "e".
                 cons = 'y'
                 if may_double:
                     cons = cons[0] + cons
-                out.append(cons)
+                if vocal_shva_before_same:
+                    out.append(cons + 'e')
+                    this_had_vowel = True
+                else:
+                    out.append(cons)
             elif SHEVA in marks:
                 out.append('y')
             elif has_dagesh:
@@ -372,6 +406,12 @@ def transliterate(word):
             else:
                 phon = base
 
+        if vocal_shva_before_same:
+            # The shva before an identical following consonant is vocal,
+            # not the usual silent dagesh-forte shva (see
+            # vocal_shva_before_same above) -- give it its own "e".
+            vowel = 'e'
+            has_real_vowel = True
         if may_double:
             phon = phon[0] + phon
         out.append(phon + vowel)
@@ -441,13 +481,32 @@ def transliterate(word):
 # two true-gemination cases above, so this one word is carved out by
 # name in transliterate() and kept undoubled; see the comment at that
 # carve-out for why.
+#
+# יְרַנְּנוּ ("yrannenu", H7442, 1Chr.16.33) is a regression check for a
+# fourth bug, the general form of the two vav/yod dagesh+shva bugs above:
+# a dagesh+shva letter immediately followed by the identical letter (here
+# the geminated middle nun of a piel from a double-nun root, right before
+# the root's own second nun) was being read as fully silent, producing
+# three bare consonants in a row ("yrannnu") with no vowel to separate
+# them -- not a pronounceable form. A shva before an identical consonant
+# is always vocal in Hebrew, which is exactly why the vav/yod cases above
+# needed their own fix; this is the same rule, just general to any letter
+# (see vocal_shva_before_same in transliterate()). קִנְּנָה's expected
+# value was changed from "qinnnah" to "qinnenah" for the same reason --
+# "qinnnah" was simply this bug's old, equally-wrong output captured as a
+# baseline before the bug was known, not a second correct form to
+# preserve (its root, קנן, has the same doubled-final-letter shape as
+# רנן above). H7077's shipped translit for this word is fixed in the same
+# commit as this engine change, in passing, same as the H3289/H6965/H8085
+# fixes that came along with the earlier two dagesh+shva bug fixes.
 # ---------------------------------------------------------------------
 _REGRESSION_PAIRS = [
     ('וְקָבַע', 'vqava'),
     ('יְרֻטָּשׁוּ', 'yruttashu'),
     ('וְנָקֹטּוּ', 'vnaqottu'),
     ('תִשְׂטֶה', 'tisteh'),
-    ('קִנְּנָה', 'qinnnah'),
+    ('קִנְּנָה', 'qinnenah'),
+    ('יְרַנְּנוּ', 'yrannenu'),
     ('תִּשָּׁאֶה', "tissha'eh"),
     ('יָנוּם', 'yanum'),
     ('לָנֽוּם', 'lanum'),
