@@ -216,8 +216,18 @@ def transliterate(word):
         # identical letter, e.g. the ב preposition prefixed onto a root
         # that itself starts with ב (בְּבַלַּע "bevalla" -> "ballea", not
         # a geminated-ב word needing its own vocal shva).
+        # The same rule also applies with no dagesh at all: a geminate-root
+        # or hollow-root poel/polel/hitpolel/hitpalpel form reduplicates its
+        # final root consonant as two plain letters with no dagesh on
+        # either one (e.g. הִתְבּוֹנְנוּ "hitbonenu", וִיבֹקְקוּ
+        # "vivoqequ") -- the shva under the first of the two is still vocal
+        # for the same reason (shva before an identical consonant is always
+        # vocal in Hebrew, regardless of dagesh). Still requires
+        # prev_had_vowel, same as the dagesh case above, so a word-initial
+        # bare shva before an identical letter isn't swept in by accident.
         vocal_shva_before_same = (
-            may_double and SHEVA in marks and letter == next_letter
+            SHEVA in marks and letter == next_letter and
+            (may_double or (not has_dagesh and prev_had_vowel))
         )
         this_had_vowel = False  # updated per-branch below before falling through
         this_is_silent_mater = False  # set True only by yod's silent-mater branch
@@ -424,7 +434,7 @@ def transliterate(word):
 
 # ---------------------------------------------------------------------
 # Regression fixture. Run `python3 pipeline/translit.py` to replay this
-# against the current code -- it should always print "47/47 matched".
+# against the current code -- it should always print "49/49 matched".
 # Most of these pairs are drawn from forms already verified and shipped
 # in the dataset in the same session that produced this engine, so
 # they're a reliable baseline for catching an accidental behavior change.
@@ -499,6 +509,25 @@ def transliterate(word):
 # רנן above). H7077's shipped translit for this word is fixed in the same
 # commit as this engine change, in passing, same as the H3289/H6965/H8085
 # fixes that came along with the earlier two dagesh+shva bug fixes.
+#
+# הִתְבּוֹנְנוּ ("hitbonenu", H995 בין, hithpolel) is a regression check
+# for a fifth bug, the no-dagesh-at-all variant of the same rule: a
+# hitpolel/hitpalpel hollow-root form reduplicates its final root
+# consonant as two plain letters with no dagesh on either one (unlike the
+# piel-from-a-doubled-root cases above, which double via one letter +
+# dagesh) -- the shva under the first of the two was still being read as
+# silent, producing "hitbonnu" instead of the correct "hitbonenu". Same
+# underlying rule (a shva before an identical consonant is always vocal
+# in Hebrew), it just doesn't depend on a dagesh being present at all --
+# confirmed against standard Hebrew grammar (sh'va na before the first of
+# two identical letters, the same effect as a dagesh chazak, e.g. הִנְנִי
+# "hineni"), not just this dataset's own convention. This turned out to
+# affect a wide swath of other geminate-root poel/polel/hitpolel/hitpalpel
+# forms dataset-wide, previously shipped with the same silent-shva
+# mistake (e.g. H1238's poel וִיבֹקְקוּ, "vivoqqu" -> "vivoqequ") -- see
+# the commit that introduced this fix for the full list of forms it
+# corrected in passing, same precedent as the four dagesh+shva fixes
+# above.
 # ---------------------------------------------------------------------
 _REGRESSION_PAIRS = [
     ('וְקָבַע', 'vqava'),
@@ -549,6 +578,7 @@ _REGRESSION_PAIRS = [
     ('הַיְּעוּצָה', 'hayyutzah'),
     ('קִיְּמוּ', 'qiyymu'),
     ('שֶׁיְּדֻבַּר', 'sheydubbar'),
+    ('הִתְבּוֹנְנוּ', 'hitbonenu'),
 ]
 
 if __name__ == '__main__':
